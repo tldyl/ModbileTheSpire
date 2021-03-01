@@ -1,0 +1,17 @@
+apply plugin: 'groovy'
+
+repositories {
+    mavenLocal()
+    maven { url "http://maven.aliyun.com/nexus/content/groups/public" }
+    jcenter()
+    google()
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+}
+
+dependencies {
+    compile gradleApi()
+    //noinspection GradleDependency
+    compile 'com.android.tools.build:gradle:3.2.1'
+    compile 'org.javassist:javassist:3.20.0-GA'
+}
