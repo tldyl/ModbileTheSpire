@@ -12,6 +12,7 @@ import java.io.InputStream;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.nio.charset.Charset;
+import java.util.HashMap;
 import java.util.jar.JarFile;
 import java.util.zip.ZipEntry;
 
@@ -64,6 +65,8 @@ public class Loader {
                     modInfo.modVersion = "1.0";
                     modInfo.authorList = new String[]{"Anonymous"};
                     modInfo.dependencies = new String[0];
+                    modInfo.descriptions = new HashMap<>();
+                    modInfo.descriptions.put("eng", new String[]{modInfo.modId + " is missing ModTheSpire.json. Go yell at the author to fix it!"});
                     MODINFOS[i] = modInfo;
                 }
                 MODINFOS[i].jarURL = files[i].toURI().toURL();
@@ -110,7 +113,7 @@ public class Loader {
                     CardCrawlGame.writeExceptionToFile(e);
                 }
             } catch (ClassNotFoundException e) {
-                logger.error("Unable to find main class: {} when loading {}", modMainClassPath, info.modId);
+                logger.error("Unable to find main class: {} when registering {}", modMainClassPath, info.modId);
                 info.isLoaded = false;
                 CardCrawlGame.writeExceptionToFile(e);
             }
