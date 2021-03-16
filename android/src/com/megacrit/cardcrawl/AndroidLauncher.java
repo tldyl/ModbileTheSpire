@@ -28,7 +28,7 @@ public class AndroidLauncher extends AndroidApplication {
 
         AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
         config.useWakelock = true;
-        initialize(new CardCrawlGame(".prefs/"), config);
+        initialize(new CardCrawlGame(Environment.getExternalStorageDirectory().getAbsolutePath().concat("/.prefs/")), config);
     }
 
     /**

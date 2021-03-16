@@ -73,7 +73,7 @@ public class BaseMod {
     public static HashMap<String, String> underScoreRelicIDs;
     public static HashMap<String, String> underScorePowerIDs;
     public static HashMap<String, String> underScoreEncounterIDs;
-    private static Map<AbstractCard.CardColor, CardColorBundle> colorBundleMap = new HashMap<>();
+    private static Map<AbstractCard.CardColor, CardColorBundle> colorBundleMap = new LinkedHashMap<>();
     private static Map<AbstractPlayer.PlayerClass, CustomUnlock> unlockBundleMap = new HashMap<>();
     private static List<CustomCard> cardsToAdd = new ArrayList<>();
     private static HashMap<AbstractPlayer.PlayerClass, ArrayList<String>> unlockCards = new HashMap<>();

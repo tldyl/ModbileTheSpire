@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
-
 package com.megacrit.cardcrawl.saveAndContinue;
 
 import com.badlogic.gdx.Gdx;
@@ -46,7 +41,7 @@ public class SaveAndContinue {
 
     public static boolean saveExistsAndNotCorrupted(AbstractPlayer p) {
         String filepath = getPlayerSavePath(p.chosenClass);
-        boolean fileExists = Gdx.files.local(filepath).exists();
+        boolean fileExists = Gdx.files.external(filepath).exists();
         if (fileExists) {
             try {
                 loadSaveFile(filepath);
@@ -69,7 +64,7 @@ public class SaveAndContinue {
     }
 
     private static String loadSaveString(String filePath) {
-        FileHandle file = Gdx.files.local(filePath);
+        FileHandle file = Gdx.files.external(filePath);
         String data = file.readString();
         return SaveFileObfuscator.isObfuscated(data) ? SaveFileObfuscator.decode(data, "key") : data;
     }
@@ -101,7 +96,7 @@ public class SaveAndContinue {
         } catch (Exception var6) {
             STSSentry.attachToEvent("savefile", saveFile);
             STSSentry.attachToEvent("savestr", savestr);
-            if (Gdx.files.local(filePath).exists()) {
+            if (Gdx.files.external(filePath).exists()) {
                 SaveHelper.preserveCorruptFile(filePath);
             }
 
@@ -289,8 +284,8 @@ public class SaveAndContinue {
     public static void deleteSave(AbstractPlayer p) {
         String savePath = p.getSaveFilePath();
         logger.info("DELETING " + savePath + " SAVE");
-        Gdx.files.local(savePath).delete();
-        Gdx.files.local(savePath + ".backUp").delete();
+        Gdx.files.external(savePath).delete();
+        Gdx.files.external(savePath + ".backUp").delete();
     }
 
     static {

@@ -174,11 +174,11 @@ public class CardCrawlGame implements ApplicationListener {
 
         try {
             TwitchConfig.createConfig();
-            BuildSettings buildSettings = new BuildSettings(Gdx.files.internal("build.properties").reader());
-            logger.info("DistributorPlatform=" + buildSettings.getDistributor());
+            //BuildSettings buildSettings = new BuildSettings(Gdx.files.internal("build.properties").reader());
+            //logger.info("DistributorPlatform=" + buildSettings.getDistributor());
             logger.info("isModded=" + Settings.isModded);
             logger.info("isBeta=" + Settings.isBeta);
-            publisherIntegration = DistributorFactory.getEnabledDistributor(buildSettings.getDistributor());
+            publisherIntegration = DistributorFactory.getEnabledDistributor("wegame"); //避免显示排行榜，如果标记为steam平台就会显示排行榜
             this.saveMigration();
             saveSlotPref = SaveHelper.getPrefs("STSSaveSlots");
             saveSlot = saveSlotPref.getInteger("DEFAULT_SLOT", 0);

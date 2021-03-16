@@ -2954,6 +2954,10 @@ public abstract class AbstractPlayer extends AbstractCreature {
             return this.name;
         }
 
+        public static String valueOf(String value) {
+            return value.toUpperCase(Locale.ENGLISH);
+        }
+
         public static PlayerClass add(String name) {
             return new PlayerClass(name);
         }

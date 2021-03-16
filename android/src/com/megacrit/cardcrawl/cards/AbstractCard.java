@@ -3134,6 +3134,10 @@ public abstract class AbstractCard implements Comparable<AbstractCard> {
         public static CardColor add(String name) {
             return new CardColor(name);
         }
+
+        public static int totalCount() {
+            return 6;
+        }
     }
 
     public static enum CardTarget {
