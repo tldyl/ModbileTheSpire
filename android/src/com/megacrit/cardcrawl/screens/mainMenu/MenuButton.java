@@ -92,6 +92,9 @@ public class MenuButton {
             case MODS:
                 this.label = "MODS";
                 break;
+            case ABOUT:
+                this.label = TEXT[15];
+                break;
             default:
                 this.label = "ERROR";
         }
@@ -180,6 +183,11 @@ public class MenuButton {
             case MODS:
                 CardCrawlGame.mainMenuScreen.modListScreen.open();
                 break;
+            case ABOUT:
+                EarlyAccessPopup.isUp = true;
+                CardCrawlGame.mainMenuScreen.bg.activated = false;
+                CardCrawlGame.mainMenuScreen.screen = CurScreen.ABOUT;
+                break;
         }
 
     }
@@ -246,7 +254,8 @@ public class MenuButton {
         SETTINGS,
         MODS,
         PATCH_NOTES,
-        QUIT;
+        QUIT,
+        ABOUT;
 
         ClickResult() {
         }

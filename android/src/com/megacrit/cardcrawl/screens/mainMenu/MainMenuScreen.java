@@ -67,7 +67,7 @@ public class MainMenuScreen {
     public long windId;
     private CharSelectInfo charInfo;
     public TitleBackground bg;
-    private EarlyAccessPopup eaPopup;
+    public EarlyAccessPopup eaPopup;
     public MainMenuScreen.CurScreen screen;
     public SaveSlotScreen saveSlotScreen;
     public MenuPanelScreen panelScreen;
@@ -112,7 +112,7 @@ public class MainMenuScreen {
         this.windId = 0L;
         this.charInfo = null;
         this.bg = new TitleBackground();
-        this.eaPopup = null;
+        this.eaPopup = new EarlyAccessPopup();
         this.screen = MainMenuScreen.CurScreen.MAIN_MENU;
         this.saveSlotScreen = new SaveSlotScreen();
         this.panelScreen = new MenuPanelScreen();
@@ -173,8 +173,8 @@ public class MainMenuScreen {
         int index = 0;
         if (!Settings.isMobile && !Settings.isConsoleBuild) {
             this.buttons.add(new MenuButton(ClickResult.QUIT, index++));
-
         }
+        this.buttons.add(new MenuButton(ClickResult.ABOUT, index++));
         this.buttons.add(new MenuButton(ClickResult.PATCH_NOTES, index++));
         this.buttons.add(new MenuButton(ClickResult.MODS, index++));
         this.buttons.add(new MenuButton(ClickResult.SETTINGS, index++));
@@ -189,7 +189,6 @@ public class MainMenuScreen {
         } else {
             this.buttons.add(new MenuButton(ClickResult.PLAY, index++));
         }
-
     }
 
     public void update() {
@@ -280,6 +279,16 @@ public class MainMenuScreen {
                 break;
             case MOD_LIST:
                 this.modListScreen.update();
+                break;
+            case ABOUT:
+                darken();
+                this.eaPopup.update();
+                if ((InputHelper.justClickedLeft || InputHelper.pressedEscape || CInputActionSet.select.isJustPressed())) {
+                    CardCrawlGame.mainMenuScreen.bg.activated = true;
+                    EarlyAccessPopup.isUp = false;
+                    CardCrawlGame.mainMenuScreen.lighten();
+                    this.screen = CurScreen.MAIN_MENU;
+                }
                 break;
         }
 
@@ -608,13 +617,13 @@ public class MainMenuScreen {
                 break;
             case MOD_LIST:
                 this.modListScreen.render(sb);
+                break;
+            case ABOUT:
+                this.eaPopup.render(sb);
         }
 
         this.saveSlotScreen.render(sb);
         this.syncMessage.render(sb);
-        if (this.eaPopup != null) {
-            this.eaPopup.render(sb);
-        }
 
     }
 
@@ -741,7 +750,8 @@ public class MainMenuScreen {
         CUSTOM,
         NEOW_SCREEN,
         DOOR_UNLOCK,
-        MOD_LIST;
+        MOD_LIST,
+        ABOUT;
 
         CurScreen() {
         }
