@@ -671,6 +671,7 @@ public class CardCrawlGame implements ApplicationListener {
                 }
                 break;
             case "CHAR_SELECT":
+                if (mainMenuScreen == null) mainMenuScreen = new MainMenuScreen();
                 mainMenuScreen.update();
                 if (mainMenuScreen.fadedOut) {
                     AbstractDungeon.pathX = new ArrayList<>();

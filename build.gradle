@@ -20,7 +20,7 @@ allprojects {
 
     version = '1.0'
     ext {
-        appName = "slay-the-spire"
+        appName = "Slay the Spire"
         gdxVersion = '1.9.5'
         roboVMVersion = '2.3.8'
         box2DLightsVersion = '1.4'

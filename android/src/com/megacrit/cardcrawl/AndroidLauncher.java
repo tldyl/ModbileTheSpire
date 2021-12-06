@@ -2,7 +2,6 @@ package com.megacrit.cardcrawl;
 
 import android.content.res.AssetManager;
 import android.os.Bundle;
-
 import android.os.Environment;
 import android.util.Log;
 import com.badlogic.gdx.backends.android.AndroidApplication;
@@ -21,6 +20,7 @@ public class AndroidLauncher extends AndroidApplication {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         instance = this;
         readFromAssets("hack_dex.jar");
         assetManager = getAssets();
@@ -39,11 +39,11 @@ public class AndroidLauncher extends AndroidApplication {
         try {
             InputStream is = this.getResources().getAssets().open(name);
             String hackPath = Environment.getExternalStorageDirectory().getAbsolutePath().concat("/hack_dex.jar");
+            System.out.println(hackPath);
             File file = new File(hackPath);
-            if (file.exists()) {
-                file.delete();
+            if (!file.exists()) {
+                file.createNewFile();
             }
-            file.createNewFile();
             OutputStream os = new FileOutputStream(file);
             byte[] buf = new byte[1024];
             int len;
@@ -53,6 +53,7 @@ public class AndroidLauncher extends AndroidApplication {
             os.flush();
             is.close();
             os.close();
+
             inject(hackPath);
         } catch (IOException e) {
             e.printStackTrace();
