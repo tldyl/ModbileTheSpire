@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Gazap",
+    "DESCRIPTION": [
+      "Bu #yDuruş sırasında gelen ve giden saldırıların hasarı iki katına çıkar."
+    ]
+  },
+  "Calm": {
+    "NAME": "Huzur",
+    "DESCRIPTION": [
+      "Bu #yDuruştan çıktığında [W] [W] kazan."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Kutsal",
+    "DESCRIPTION": [
+      "Bu #yDuruşa girdiğinde [W] [W] [W] kazan. Saldırıların düşmana 3 kat hasar verir. Sonraki tur başında bu #yDuruştan çıkarsın."
+    ]
+  }
+}

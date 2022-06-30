@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Anker",
+    "FLAVOR": "Når du holder denne vesle saken, kjenner du deg både tyngre og mer stabil.",
+    "DESCRIPTIONS": [
+      "Start hver kamp med #b",
+      " #ySkadeblokkering."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Krigskunst",
+    "FLAVOR": "Dette gamle manuskriptet inneholder visdom fra en svunnen tid.",
+    "DESCRIPTIONS": [
+      "Hvis du ikke spiller #yangrep denne runden, får du èn ekstra ",
+      "[E] neste runde."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolabium",
+    "FLAVOR": "Et verktøy som gjør at man kan få uvurderlig kunnskap fra stjernene.",
+    "DESCRIPTIONS": [
+      "Når denne blir plukket opp, kan du velge og #yTransformere #b3 kort, for deretter å #yOppgradere dem.",
+      "Velg 3 kort for å "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Klinkekuler",
+    "FLAVOR": "Var en gang et populært leketøy i byen. Er svært nyttig til å få fiender til å miste balansen.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp, gjør ALLE fiender #b",
+      " #ySårbare."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Forberedende ryggsekk",
+    "FLAVOR": "En alt for stor ryggsekk til eventyrere. Inneholder en rekke lommer o stropper.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp, trekk #b",
+      " ekstra kort."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Urne med fuglefjes",
+    "FLAVOR": "På denne urnen er kråkeguden Mazaleth avbildet i et rampete øyeblikk.",
+    "DESCRIPTIONS": [
+      "Når du spiller et #ykraftkort, helbreder du #b",
+      " HP."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Sort blod",
+    "FLAVOR": "Sinnet vokser mørkere.",
+    "DESCRIPTIONS": [
+      "Erstatter #rBrennende #rblod. I slutten av kampen helbreder du #b",
+      " HP."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Sort stjerne",
+    "FLAVOR": "Ble opprinnelig oppdaget i slangens by, ved et enslig stearinlys.",
+    "DESCRIPTIONS": [
+      "#yElitefiender etterlater seg nå #b2 #yrelikvier når de blir overvunnet."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Blodflaske",
+    "FLAVOR": "En flaske som inneholder blodet til den eldste vampyren.",
+    "DESCRIPTIONS": [
+      "I starten av alle kamper helbreder du #b",
+      " HP."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Blodig idol",
+    "FLAVOR": "Idolet gråter nå en konstant strøm blod.",
+    "DESCRIPTIONS": [
+      "Når du mottar gull, helbreder du #b",
+      " HP."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Blått stearinlys",
+    "FLAVOR": "Flammen tenner når den slukes av mørke.",
+    "DESCRIPTIONS": [
+      "#yForbannelseskort kan nå spilles. NL NL Spiller du et #yForbannelseskort mister du #b",
+      " HP og kortet #yVrakes."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Flamme i flaske",
+    "FLAVOR": "Inne i flasken bor det en flamme som brenner evig.",
+    "DESCRIPTIONS": [
+      "Når du plukker opp denne relikvien kan du velge et angrepskort som du vil ha på hånda i starten av hver kamp..",
+      "Velg et kort for å ",
+      "I starten av hver kamp kan du legge til ",
+      " til hånda di."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Lyn i flaske",
+    "FLAVOR": "Når du titter inn i den snurrende malstrømmen kan du se deler av deg selv titte tilbake.",
+    "DESCRIPTIONS": [
+      "Når du plukker opp denne relikvien kan du velge et egenskapskort som du vil ha på hånda i starten av hver kamp.",
+      "Velg et kort for å ",
+      "I starten av hver kamp kan du legge til ",
+      " til hånda di."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Tornado i flaske",
+    "FLAVOR": "Test relic.",
+    "DESCRIPTIONS": [
+      "Når du plukker opp denne relikvien kan du velge et kraftkort som du vil ha på hånda i starten av hver kamp.",
+      "Velg et kort for å ",
+      "I starten av hver kamp kan du legge til ",
+      " til hånda di."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Bronseskjell",
+    "FLAVOR": "De skarpe skjellene fra Vokteren. De tilpasser seg brukeren og beskytter. ",
+    "DESCRIPTIONS": [
+      "Når du påføres Skade, påfører du #b",
+      " Skade tilbake."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Brennende blod",
+    "FLAVOR": "Kroppens eget blod brenner med et udødelig sinne.",
+    "DESCRIPTIONS": [
+      "I slutten av kampen helbreder du #b",
+      " HP."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Skyvelær",
+    "FLAVOR": "\"Mekainsk presisjon fører til storhet!\" - Arkitekten",
+    "DESCRIPTIONS": [
+      "I starten av runden din senkes din totale #ySkadeblokkering med #b",
+      " i steden for at den fjernes helt."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Kallets klokke",
+    "FLAVOR": "Denne mørke jernklokken klang 3 ganger da du fant den, men nå forblir den stille.",
+    "DESCRIPTIONS": [
+      "Motta #b3 #rForbannelseskort og #b3 #yRelikvier.",
+      "Klokken klinger...",
+      "Hopp over belønningene",
+      "Lukk"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Jerngryte",
+    "FLAVOR": "Kjøpmannen er faktisk en ganske begavet brygger innen trylledrikker. Kjøp 4, få 1 gratis.",
+    "DESCRIPTIONS": [
+      "Når du plukker opp denne relikvien, brygges det #b5 tilfeldige trylledrikker til deg.",
+      "Plupp plipp plopp...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Det hundrede puslespillet",
+    "FLAVOR": "Når du løser dette puslespillet, kjenner du en kraftfull varme i brystkassen.",
+    "DESCRIPTIONS": [
+      "Den første gangen du mister HP hver kamp kan du trekke #b",
+      " kort."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Kamelonens ring",
+    "FLAVOR": "Deprecated",
+    "DESCRIPTIONS": [
+      "Du kan nå #ybrygge trylledrikker ved leirbål."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Seierbeltet",
+    "FLAVOR": "Bare den modigste kan ikle seg dette beltet.",
+    "DESCRIPTIONS": [
+      "Når du gjør en fiende #ySårbar, #ySvekker du ham også med #b",
+      "."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Charons aske",
+    "FLAVOR": "Charon er omtalt som gjenoppstandelsens gud. Han døde og gjennoppsto i en flammende ild i uendelighet.",
+    "DESCRIPTIONS": [
+      "Når du #yVraker et kort, påfører du ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Kjemikalie X",
+    "FLAVOR": "ADVARSEL: Kan ikke kombineres med sukker, krydder, og andre fine ting.",
+    "DESCRIPTIONS": [
+      "Når du spiller et kort som koster #bX energi, blir effekten økt med #b",
+      "."
+    ]
+  },
+  "Circlet": {
+    "NAME": "Diadem",
+    "FLAVOR": "Det er ikke flere relikvier å finne... Imponerende!",
+    "DESCRIPTIONS": [
+      "Ser pent ut."
+    ]
+  },
+  "The Courier": {
+    "NAME": "Budbringeren",
+    "FLAVOR": "Kjøpmannens personlige kjæledegge!",
+    "DESCRIPTIONS": [
+      "Kjøpmannen kan ikke lenger gå tom for kort, relikvier, og trylledrikker, samt at prisene reduseres med #b20%."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Forbannelsens nøkkel",
+    "FLAVOR": "Du kan føle den skadelige energien som nøkkelen sprer om seg med. Styrke kommer med en kostnad!",
+    "DESCRIPTIONS": [
+      " Når du åpner en kiste som ikke tilhører en høvding, mottar du et #rForbannelseskort.",
+      "Få [E] i starten av hver runde."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "En død kvist",
+    "FLAVOR": "Kvisten av et tre fra en svunnen tid.",
+    "DESCRIPTIONS": [
+      "Når du #yVraker et kort, mottar du et tilfeldig kort på hånda."
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Den kresne monokkel",
+    "FLAVOR": "En veldig flott monokkel, det må jeg få si!",
+    "DESCRIPTIONS": [
+      "Kjøpmannens priser reduseres med #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "Runeinskribert tolvkant",
+    "FLAVOR": "Runene kan ikke leses.",
+    "DESCRIPTIONS": [
+      "Hvis du har full HP, får du ",
+      "[E] i starten av hver runde."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Drømmefanger",
+    "FLAVOR": "De nordlige stammene brukte ofte drømmefangere om natten, da de trodde dette skapte bedre versjoner av dem selv.",
+    "DESCRIPTIONS": [
+      "Når du hviler kan du legge til et kort i kortstokken din."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Du-Vu-dukke",
+    "FLAVOR": "En dukke som visstnok skal skape styrke fra ond energi.",
+    "DESCRIPTIONS": [
+      "For hvert #yForbannelseskort du har i kortstokken din, starter du hver kamp med #b",
+      " ekstra #yStyrke.",
+      " Du har ingen #yForbannelseskort.",
+      " Du har #b",
+      " #yForbannelseskort."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ektoplasma",
+    "FLAVOR": "Denne slimklumpen er full av energi og pulserende liv",
+    "DESCRIPTIONS": [
+      " Du kan ikke lenger opparbeide deg ekstra #ygull.",
+      "Få [E] i starten av hver runde."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Håndbok",
+    "FLAVOR": "Den legendarsike håndboken til en eldgammel udød.",
+    "DESCRIPTIONS": [
+      "Start hver kamp med et tilfeldig #ykraftkort på hånda. Kortet koster #b0 inntil den første runden er over."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Den evige fjær",
+    "FLAVOR": "Denne fjæren virker å være umulig å ødelegge. Hvilken fugl kan denne fjæren stamme fra?",
+    "DESCRIPTIONS": [
+      "For hvert #b",
+      " kort i kortstokken din, helbreder du #b",
+      " HP når du ankommer et leirbål."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Pokersjetong",
+    "FLAVOR": "Du kan se en liten innskripsjon på den ene siden. Det står: \"Bjørns lykkesjetong!\"",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp kan du kaste et valgfritt antall kort for så å trekke tilsvarende mengde nye kort."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Ingefær",
+    "FLAVOR": "En potent ingrediens i en rekke trylledrikker.",
+    "DESCRIPTIONS": [
+      "Du kan ikke lenger bli #ySvekket."
+    ]
+  },
+  "Girya": {
+    "NAME": "Vektkule",
+    "FLAVOR": "Denne vektkula er utrolig tung. Hvis du trener med denne, blir du merkbart sterkere.",
+    "DESCRIPTIONS": [
+      "Du kan nå øke #yStyrken din ved leirbål. (Max 3 ganger)."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Gulldiol",
+    "FLAVOR": "Laget av ekte gull. Du føler deg rikere bare ved å holde i det.",
+    "DESCRIPTIONS": [
+      "Fiender mister #b25% mer #ygull."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Gremlinghorn",
+    "FLAVOR": "\"Jålegremlinger er i stand til å vokse helt til den dagen de dør. Bemerkelsesverdig!\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Når en fiende dør, får du ",
+      "[E] og trekker #b1 kort."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Den glade blomst",
+    "FLAVOR": "Denne forskrekkelig fornøyde planten er en populær nipsgjenstand blant adelen.",
+    "DESCRIPTIONS": [
+      "Hver #b",
+      ". runde får du [E] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Iskrem",
+    "FLAVOR": "\"Nam!\"",
+    "DESCRIPTIONS": [
+      "Energi blir nå beholdt imellom rundene."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Juzus smykke",
+    "FLAVOR": "Beskytter mot det ukjente.",
+    "DESCRIPTIONS": [
+      "Vanlige fiender kan ikke lenger påtreffes i #y? rom."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Et sverd snikmorderene har foretrukket på grunn av at det er dødelig på avstand.",
+    "DESCRIPTIONS": [
+      "Hver gang du spiller #b",
+      " #yAngrep i en enkelt runde, øker #ySmidigheten din med #b",
+      "."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lanterne",
+    "FLAVOR": "En uhyggelig lanterne som lyser opp kun for den som holder den.",
+    "DESCRIPTIONS": [
+      "Få ",
+      "[E] ",
+      "den første runden hver kamp."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Brevåpner",
+    "FLAVOR": "Unaturlig skarp.",
+    "DESCRIPTIONS": [
+      "Hver gang du spiller #b3 #yEgenskapskort i en enkelt runde, påfører du ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "En levende kniv",
+    "FLAVOR": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "Du kan holde så mange kort på hånda som du vil."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Firfislehale",
+    "FLAVOR": "En falsk hale du kan utmanøvrere fienden med under kamp.",
+    "DESCRIPTIONS": [
+      "Hvis du skulle ha dødd, helbreder du til #b50% av Max HP isteden (fungerer kun en gang)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Magisk blomst",
+    "FLAVOR": "En blomst som er utdødd, men likevel har du den, i perfekt tilstand.",
+    "DESCRIPTIONS": [
+      "Helbreding er #b50% mer effektivt under kamp."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "Den mest begjærte av de glemte frukter. Denne har ikke spor av sykdommen Sporlyst på seg.",
+    "DESCRIPTIONS": [
+      "Øker Max HP med #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Smertens merke",
+    "FLAVOR": "Dette merket ble brukt av de nordiske stammene for å markere krigere som hadde blitt motstått kampens smerte.",
+    "DESCRIPTIONS": [
+      "Få [R] i starten av hver runde. Du starter kampen med #b2 #bSkadekort i trekkebunken din."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matryoshka",
+    "FLAVOR": "Pent malte dukker som kan stables i hverandre. Malingen avbilder en ukjent fugl med hvite øyne og blå fjær.",
+    "DESCRIPTIONS": [
+      "De neste #b2 kistene du åpner inneholder #b2 #bRelikvier. (Ikke inkludert høvdingkister)",
+      "Den neste kisten du åpner inneholder #b2 #bRelikvier. (Ikke inkludert høvdingkister)",
+      "Denne relikvien er oppbrukt."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Kjøtt på beinet",
+    "FLAVOR": "Kjøttet gjenoppstår når du forsyner deg, det virker som om det aldri blir tomt.",
+    "DESCRIPTIONS": [
+      "Hvis du har #b50% HP eller mindre ved slutten av kampen, helbreder du #b",
+      " HP."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Medisinskrin",
+    "FLAVOR": "\"Har alt du trenger! Anti-klø, anti-gift, og mer!!\"",
+    "DESCRIPTIONS": [
+      "#yStatuskort kan nå spilles. Spiller du et #yStatuskort, #yVrakes kortet."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Medlemskapsbevis",
+    "FLAVOR": "\"Bonusmedlemskap, et tilbud til mine mest verdifulle kunder!\"",
+    "DESCRIPTIONS": [
+      "I fremtidige episoder oppstår butikkene #b50% oftere. #yBONUS: #b20% avslag på alle produkter!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Timeglass med kvikksølv",
+    "FLAVOR": "Et forhekset timeglass som drypper evig.",
+    "DESCRIPTIONS": [
+      "I starten av runden påfører du ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Mumiehånd",
+    "FLAVOR": "Rører stadig på seg, spesielt hvis du har høy puls.",
+    "DESCRIPTIONS": [
+      "Når du spiller et #yKraftkort, koster et tilfeldig kort på hånda di #b0 denne runden."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Nekronomikon",
+    "FLAVOR": "Bare en idiot ville forsøkt å utnytte den onde kraften i denne boken. Om natten er drømmene dine hjemsøkt av bilder av at boken spiser hjernen din.",
+    "DESCRIPTIONS": [
+      "Det første #yAngrepet du spiller hver runde som koster #b",
+      " eller mer blir spilt to ganger. Når du tar opp denne #yRelikvien, blir du #rForbannet.",
+      " eller mer blir spilt to ganger."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Nilrys Kodebok",
+    "FLAVOR": "Skapt av den berømte mesteren i egen person. Det blir sagt at denne boken gjør deg visere.",
+    "DESCRIPTIONS": [
+      "I slutten av hver runde kan du velge #b1 til #b3 kort som du vil blande inn i trekkebunken din."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Ninjamanuskript",
+    "FLAVOR": "Inneholder hemmelighetene til de beste snikmorderne.",
+    "DESCRIPTIONS": [
+      "Start alle kamper med #b",
+      " #yKniver på hånda."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "N'loths gave",
+    "FLAVOR": "Den merkelige gaven fra N'loth. Hvis du forsøker å pakke den opp, finner du bare en ny innpakket gave inni.",
+    "DESCRIPTIONS": [
+      "#bTredobler sjansen for å finne sjeldne kort etter å ha bekjempet monstre."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nullsteins amulett",
+    "FLAVOR": "DEPRECATED.",
+    "DESCRIPTIONS": [
+      "Du kan se bort fra den neste #yNegative #yEffekten du får fra en fiende. NL Lades opp igjen etter #b10 runder."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "En merkelig, glatt stein",
+    "FLAVOR": "Du har aldri sett noe som er så glatt og ser så uberørt ut. Dette må være de gamles verk.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp starter du med en #ySmidighet på #b",
+      "."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "En merkelig sopp",
+    "FLAVOR": "\"Etter å ha spist trichella parastius følte jeg meg større, og litt mindre ... utsatt.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Hvis du er #ySårbar, tar du #b25% mer Skade, isteden for #b50%."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "En gammel mynt",
+    "FLAVOR": "Unike mynter er høyt verdsatt av kjøpmenn for deres historiske verdi og den sjeldne metallegeringen.",
+    "DESCRIPTIONS": [
+      "Få #b300 #yGull."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "Et vanlig smykke som brukes til å jage bort onde ånder. Denne ser faktisk ut til å inneholde en liten gnist guddommelig energi.",
+    "DESCRIPTIONS": [
+      "Se bort fra de neste #b2 #rForbannelseskortene du mottar.",
+      "Se bort fra det neste #rForbannelseskortet du mottar.",
+      "Denne Relikvien er oppbrukt."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orikalkum",
+    "FLAVOR": "Et grønnaktig metall av ukjent opprinnelse. Det virker helt uknuselig!",
+    "DESCRIPTIONS": [
+      "Hvis du ender runden uten #ySkadeblokkering, økes #ySkadeblokkeringen til #b",
+      "."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Orientalsk vifte",
+    "FLAVOR": "Viften kan virke å bli hardere og større når det blir blodig rundt den.",
+    "DESCRIPTIONS": [
+      "Hver gang du spiller #b3 #yAngrepskort på en enkelt runde, økes #yForsvarsblokkeringen med #b",
+      "."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Tellurium",
+    "FLAVOR": "\"Når man forstår universet...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Velg #b5 kort du kan legge til i kortstokken din.",
+      "Kunnskap!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Pandoras Eske",
+    "FLAVOR": "Du har en dårlig følelse for å ha åpnet denne.",
+    "DESCRIPTIONS": [
+      "#bTransformer alle Slag og Forsvarskort.",
+      "Pandoras Eske er åpnet..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograf",
+    "FLAVOR": "\"Et solid fundament er ikke tilfeldig. Verktøyene til å planlegge er nødvendige.\" - Arkitekten",
+    "DESCRIPTIONS": [
+      "I starten av kamper mot Høvdinger, helbreder du #b",
+      " HP."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Origamisvane",
+    "FLAVOR": "Origamikunst som avbilder en skapning fra en svunnen tid.",
+    "DESCRIPTIONS": [
+      "Fiender som er #ySvekket påfører deg #b50% mindre skade, heller enn #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Papirfrosk",
+    "FLAVOR": "Papiret bretter seg selv til en frosk, for så å brette seg opp igjen, hele tiden.",
+    "DESCRIPTIONS": [
+      "Fiender som er #ySårbare tar #b75% mer skade, isteden for #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Fredspipe",
+    "FLAVOR": "Klarner tankene og renser sjelen.",
+    "DESCRIPTIONS": [
+      "Du kan nå fjerne kort fra kortstokken din ved Leirbål."
+    ]
+  },
+  "Pear": {
+    "NAME": "Pære",
+    "FLAVOR": "Dette var en vanlig frukt før Tårnet våknet til liv.",
+    "DESCRIPTIONS": [
+      "Øk Max HP med #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pennespiss",
+    "FLAVOR": "Du holder pennespissen, og kan se alle som ble drept av den forrige eieren. En voldelig historie!",
+    "DESCRIPTIONS": [
+      "Hvert #btiende #yAngrep du spiller påfører dobbel Skade."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "De vises sten",
+    "FLAVOR": "Rå energi kommer ut av steinen, og alle som står rundt den blir sterkere.",
+    "DESCRIPTIONS": [
+      " ALLE fiender starter med #b2 #yStyrke.",
+      "Få [E] i starten av hver runde."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Bønnehjul",
+    "FLAVOR": "Hjulet slutter aldri å snurre.",
+    "DESCRIPTIONS": [
+      "Kister som ikke er Høvdingkister inneholder nå også kort."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Ukjent kort",
+    "FLAVOR": "\"De som har flere valg minimaliserer ulempene ved kaos.\" - Kublai den Store.",
+    "DESCRIPTIONS": [
+      "Når du får kort som belønning, vil du kunne velge mellom #y1 #yekstra #ykort."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Rødt diadem",
+    "FLAVOR": "Du kan ikke finne flere relikvier. Imponerende!",
+    "DESCRIPTIONS": [
+      "Ser veldig pent ut."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Rød maske",
+    "FLAVOR": "Denne veldig stilige masken tilhører lederen av De Røde Maskebandittene. Teknisk sett er vel du dermed blitt leder for dem nå?",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp, #ySvekk ALLE fiender med #b",
+      "."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Rød hodeskalle",
+    "FLAVOR": "En liten hodeskalle som er dekket med dekorativ maling.",
+    "DESCRIPTIONS": [
+      "Hvis du er på #b50% av max HP eller mindre, får du #b",
+      " ekstra #yStyrke."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Kongelig pute",
+    "FLAVOR": "Endelig kan du få hvile ordentlig om natten.",
+    "DESCRIPTIONS": [
+      "Du helbreder #b",
+      " HP ekstra når du hviler ved #yLeirbål."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Den store slangeringen",
+    "DESCRIPTIONS": [
+      "Erstatter #gSlangeringen. Hvis du beseirer en #yElitefiende, kan du øke Max HP med #b",
+      "At the start of your turn, draw #b1 additional card."
+    ],
+    "FLAVOR": "Your ring has morphed and changed forms."
+  },
+  "Runic Cube": {
+    "NAME": "Runeinskribert kube",
+    "FLAVOR": "Du greier ikke å tyde runene.",
+    "DESCRIPTIONS": [
+      "Max HP blir senket med #b",
+      "%. Når du mister HP får du trekke #b",
+      " kort."
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Runeinskribert halvkule",
+    "FLAVOR": "Du greier ikke å tyde runene.",
+    "DESCRIPTIONS": [
+      "i starten av hver runde. Du kan ikke lenger se hva en fiende #bPlanlegger.",
+      "Få [E] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Runeinskribert pyramide",
+    "FLAVOR": "Du greier ikke å tyde runene.",
+    "DESCRIPTIONS": [
+      "I slutten av runden din trenger du ikke lenger kaste resten av kortene på hånda. NL Du trekker #b",
+      " færre kort hver runde."
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Kitt som former seg selv",
+    "FLAVOR": "\"Veldig merkelig! Det ser ut til å forme seg selv basert på hva jeg tenker! Tele-kitt?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Når du mister HP i kamp, får du #b",
+      " #ySkadeblokkering neste runde."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Spade",
+    "FLAVOR": "Tårnet er hjem til et enormt antall Relikvier fra gamle sivilisasjoner og mektige eventyrere som er fortapte. Det er på tide å grave dem fram!",
+    "DESCRIPTIONS": [
+      "Du kan nå #yGrave etter skatter ved Leirbål."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Et lett kastevåpen. Det er anbefalt å sikte på øynene.",
+    "DESCRIPTIONS": [
+      "Hver gang du spiller #b",
+      " #yAngrepskort på en enkelt runde, får du #b",
+      " #yStyrke."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "En syngende skål",
+    "FLAVOR": "Denne godt brukte artefakten lyder en vidunderlig melodi når man slår den.",
+    "DESCRIPTIONS": [
+      "Når du hopper over kortbelønninger, kan du øke Max HP med #b"
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Smilende maske",
+    "FLAVOR": "En maske brukt av Kjøpmannen. Han må ha flere...",
+    "DESCRIPTIONS": [
+      "Kjøpmannens service for å fjerne kort koster nå alltid #b",
+      " #yGull."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Slangeringen",
+    "FLAVOR": "Skapt av en fossil slange. Representerer jaktkvinnens store egenskaper.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp, trekk #b",
+      " ekstra kort."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Slangulfs øye",
+    "FLAVOR": "Et øye fra en fallen Slangulf. Det er mye større enn du så for deg.",
+    "DESCRIPTIONS": [
+      "Trekk #b2 ekstra kort hver runde. Du starter hver kamp #yForvirret."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Slangulfs hodeskalle",
+    "FLAVOR": "En Slangulfskalle i perfekt stand. Den er merkelig ren og glatt, det er som om møkk preller av den.",
+    "DESCRIPTIONS": [
+      "Når du #yForgifter en fiende, påfører du #b",
+      " ekstra #yGift."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "Du merker at magiske drikker ser ut til å miste egenskapene sine når de er i nærheten av denne Relikvien.",
+    "DESCRIPTIONS": [
+      " Du kan ikke lenger bruke Trylledrikker. ",
+      "Få [E] i starten av hver runde."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Åndenes bæfj",
+    "FLAVOR": "De forstenede restene av ditt offer til åndene.",
+    "DESCRIPTIONS": [
+      "Det er ubehagelig."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Merkelig skje",
+    "FLAVOR": "Du ser på skjeen, og det ser ut til at den bøyer seg av seg selv.",
+    "DESCRIPTIONS": [
+      "Kort som #yVrakes når de spilles, vil heller kastes #b50% av gangene."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Jordbær",
+    "FLAVOR": "\"Deilig! Har ikke sett en slik siden tårnet dukke opp.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Øk Max HP med #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Solur",
+    "FLAVOR": "\"Oldtidens menneske var dumme nok til å forsøke å manipulere tiden. De så til himmelen for hjelp, med håp om en evig løsning.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Hver #b",
+      ". gang du blander kortstokken din får du [E] [E] ."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Gammelt te-service",
+    "FLAVOR": "Nøkkelen til en god natts søvn.",
+    "DESCRIPTIONS": [
+      "Når du ankommer et Leirbål får du starte neste kamp med [E] [E] ."
+    ]
+  },
+  "War Paint": {
+    "NAME": "Krigsmaling",
+    "FLAVOR": "I gamle dager brukte de Jernkledde å beskytte seg mot det onde ved å bruke forhekset krigsmaling før de gikk i kamp.",
+    "DESCRIPTIONS": [
+      "Når du plukker opp denne, får du #yOppgradere #b",
+      " tilfeldige #yEgenskapskort."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Et smykke av mørkestein",
+    "FLAVOR": "Steinen får sin kraft fra mørk energi, og gjør det om til styrke for den som bærer smykket.",
+    "DESCRIPTIONS": [
+      "Når du får et #yForbannelseskort, øker du Max HP med #b"
+    ]
+  },
+  "Test 1": {
+    "NAME": "Test 1",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Frossent øye",
+    "FLAVOR": "Mangler beskrivelse.",
+    "DESCRIPTIONS": [
+      "Når du ser på #yTrekkebunken din er kortene vist i rett rekkefølge."
+    ]
+  },
+  "Test 2": {
+    "NAME": "Test 2",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "When viewing your #yDraw #yPile, the cards are now shown in order."
+    ]
+  },
+  "Test 3": {
+    "NAME": "Test 3",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "When obtained, #yUpgrade all of your #yDefend cards."
+    ]
+  },
+  "Test 4": {
+    "NAME": "Test 4",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "At the start of combat, the cost of all #yStrike cards are set to #b0."
+    ]
+  },
+  "Test 5": {
+    "NAME": "Test 5",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Upon pick up, #yUpgrade #b",
+      " random #ySkills."
+    ]
+  },
+  "Test 6": {
+    "NAME": "Test 6",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "At the end of each turn, gain #b",
+      " #yBlock for every #b",
+      " #yGold you have."
+    ]
+  },
+  "Test 7": {
+    "NAME": "Test 7",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "#yElites now drop #b2 #yRelics when defeated."
+    ]
+  },
+  "Test 8": {
+    "NAME": "Test 8",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Draw #b2 additional cards each turn. Start each combat #yConfused."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Eksemplaret",
+    "FLAVOR": "\"Fasinerende! Jeg fant en mutert skapning som viste utrolige giftige egenskaper. Jeg tar med meg et eksemplar for å se nærmere på den senere.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Når en fiende dør kan du overføre all #yGiften den er påført til en tilfeldig fiende."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Nål og tråd",
+    "FLAVOR": "Du omgir kroppen med den magiske tråden, og kjenner at du er vanskeligere å få fatt på.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp får du #b",
+      " #ySkadeblokkering."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "Lyden fra dette instrumentet er i stand til å nå smertefulle lydnivå.",
+    "DESCRIPTIONS": [
+      "Når du kaster et kort i løpet av runden din påfører du en tilfeldig fiende #b",
+      " Skade for hvert kort du kastet."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "En bitteliten kiste",
+    "FLAVOR": "\"En fin prototype.\" - Arkitekten",
+    "DESCRIPTIONS": [
+      "Få #b",
+      " #yGull. Det er #b10%  mer sannsynlig at du finner skatter i ? rom.",
+      "Det er #b10%  mer sannsynlig at du finner skatter i ? rom."
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Et bittelite hus",
+    "FLAVOR": "\"Dette er nesten en perfekt miniatyr. Mitt flotteste arbeid til i dag, men fortsatt ikke bra nok.\" - Arkitekten",
+    "DESCRIPTIONS": [
+      "Få #b1 trylledrikk. NL Få #b",
+      " #yGull. NL Øk Max HP med #b",
+      ". NL Få #b1 kort.",
+      "Et bittelite hus!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Verktøyskrin",
+    "FLAVOR": "Et hverktøy for enhver jobb.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp får du et tilfeldig fargeløst kort på hånda."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Du holder den lille Torrien, og kjenner en ro og en trygghet som sakte siger inn i deg.",
+    "DESCRIPTIONS": [
+      "Nå du blir påført #b",
+      " eller mindre ublokkert #yAngrepsskade, reduseres den til #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Sterke bandasjer",
+    "FLAVOR": "Tap gir styrke.",
+    "DESCRIPTIONS": [
+      "Når du kaster et kort i løpet av runden din, økes #ySkadeblokkeringen din med #b",
+      "."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Lekefly",
+    "FLAVOR": "\"Denne lille leken er den perfekte følgesvenn for en ensom eventyrer!\"",
+    "DESCRIPTIONS": [
+      "Når du bruker en trylledrikk helbreder du #b",
+      " HP."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Evigvarende snurrebass",
+    "FLAVOR": "Snurrebassen spinner evig, som om du var i en drøm.",
+    "DESCRIPTIONS": [
+      "Når du ikke har flere kort igjen på hånda, trekker du et kort."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "En orientalsk Relikvie som ble gitt til krigere for å ha vist storhet i kamp.",
+    "DESCRIPTIONS": [
+      "I starten av hver kamp får du #b",
+      " #yStyrke."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Fløyelschoker",
+    "FLAVOR": "\"Ekstrem kraft, men for begrenset.\" - Kublai den Store",
+    "DESCRIPTIONS": [
+      "Du kan ikke spille mer enn #b",
+      " kort per runde.",
+      "Få [E] i starten av hver runde. ",
+      "Jeg kan bare spille opp til NL #r"
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lee sin vaffel",
+    "FLAVOR": "\"Den mest smakfulle av desserter i hele Tårnet. Bakt i dag, kun for deg!\"",
+    "DESCRIPTIONS": [
+      "Øk Max HP med #b",
+      " og helbred til full HP."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Slipestein",
+    "FLAVOR": "\"Huden kan aldri beseire stålet.\" - Kublai den Store",
+    "DESCRIPTIONS": [
+      "Når du plukker med deg denne Relikvien, kan du #yOppgradere #b",
+      " tilfeldige #yAngrepskort."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b",
+      " Charge. NL (Cannot be removed or transformed.)"
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neows sorg",
+    "FLAVOR": "Neows jamrende velsignelse.",
+    "DESCRIPTIONS": [
+      "Fiender i dine #b3 første kamper kommer til å ha bare 1 HP.",
+      "Velsignelsen er oppbrukt."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Statue av det Hvite Beist",
+    "FLAVOR": "En liten hvit statue av en skapning du aldri har sett før.",
+    "DESCRIPTIONS": [
+      "Du vil alltid motta en trylledrikk etter endt kamp."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Giftig egg",
+    "FLAVOR": "\"For en fantastisk oppdagelse! Dette ser ut til å være det urørlige egget til en magisk skapning. Hvem, eller hva, skapte dette?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Hver gang du legger til et #yEgenskapskort til kortstokken din, vil det bli #yOppgradert."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Magmaegg",
+    "FLAVOR": "Et Føniksegg. Det er rødglødende med kokende lava.",
+    "DESCRIPTIONS": [
+      "Hver gang du legger til et #yAngrepskort til kortstokken din, vil det bli #yOppgradert."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Frossent egg",
+    "FLAVOR": "Egget ligger der, urørlig og frossent, og vil aldri klekke.",
+    "DESCRIPTIONS": [
+      "Hver gang du legger til et #yKraftkort til kortstokken din, vil det bli #yOppgradert."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yFocus."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yPlasma."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "DESCRIPTIONS": [
+      "Every #b2 turns, gain #b1 Orb slot."
+    ]
+  },
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runic Capacitor",
+    "FLAVOR": "More is better.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 additional Orb slots."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Potion Belt",
+    "FLAVOR": "I can hold more Potions using this belt!",
+    "DESCRIPTIONS": [
+      "Upon pick up, gain #b1 Potion slot."
+    ]
+  },
+  "Boot": {
+    "NAME": "The Boot",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "DESCRIPTIONS": [
+      "Whenever you would deal #b",
+      " or less unblocked #yAttack damage, increase it to #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [E] at the start of each turn. "
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pick up, remove #b2 cards from your deck.",
+      "Choose 2 Cards to Remove."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incense Burner",
+    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+    "DESCRIPTIONS": [
+      "Every #b5 turns, gain #b1 #yIntangible."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusion Hammer",
+    "FLAVOR": "Once wielded, the owner can never let go.",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Smith at Rest Sites.",
+      "Gain [E] "
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Coffee Dripper",
+    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Rest at Rest Sites.",
+      "Gain [E] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Cultist Mask",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Tiny Gremlin Mask",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "The Abacus",
+    "FLAVOR": "One...Two...Three...Dead!",
+    "DESCRIPTIONS": [
+      "Gain #b6 #yBlock whenever you shuffle your draw pile.",
+      " #yBlock."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dolly's Mirror",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain an additional copy of a card in your deck.",
+      "Choose 1 Card to Copy."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP.",
+      " HP."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Discard #b1 card and gain [G] at the start of each turn."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "#yAttack cards that cost #b0 deal #b3 additional damage."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stone Calendar",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "At the end of turn #b",
+      ", deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " Attacks, gain [E] ."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Maw Bank",
+    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "DESCRIPTIONS": [
+      "Whenever you climb a floor, gain #b5 #yGold. No longer works when you spend any #yGold at the shop.",
+      " #yGold. No longer works when you spend any #yGold at the shop.",
+      "This relic has been used up."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength that is lost at the end of your turn.",
+      " #yStrength."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength.",
+      " #yStrength."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Warped Tongs",
+    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Winged Greaves",
+    "FLAVOR": "Stylish.",
+    "DESCRIPTIONS": [
+      "You may ignore paths when choosing the next room to travel to #b3 times."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ceramic Fish",
+    "FLAVOR": "Meticulously painted, these fish were revered to bring great fortune.",
+    "DESCRIPTIONS": [
+      "Whenever you add a card to your deck, gain #b",
+      " #yGold."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Strike Dummy",
+    "FLAVOR": "It's beat up.",
+    "DESCRIPTIONS": [
+      "Cards containing \"Strike\" deal #b",
+      " additional damage."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Violet Lotus",
+    "FLAVOR": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.",
+    "DESCRIPTIONS": [
+      "Whenever you exit #yCalm, gain an additional [E] ."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Sacred Bark",
+    "FLAVOR": "A bark rumored to originate from the World tree.",
+    "DESCRIPTIONS": [
+      "Double the effectiveness of potions."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Teardrop Locket",
+    "FLAVOR": "Its owner blind, its contents unseen.",
+    "DESCRIPTIONS": [
+      "Start each combat in #yCalm."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Slaver's Collar",
+    "FLAVOR": "Rusty miserable chains.",
+    "DESCRIPTIONS": [
+      "During Boss and Elite combats, gain [E] at the start of your turn."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Your first Attack each combat deals #b",
+      " additional damage."
+    ]
+  },
+  "Yang": {
+    "NAME": "Yang",
+    "FLAVOR": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, gain #b1 temporary #yDexterity."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Cloak Clasp",
+    "FLAVOR": "A simple but sturdy design.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yBlock for each card in your hand."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand.",
+      "."
+    ]
+  },
+  "Yin": {
+    "NAME": "Yin",
+    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Ink Bottle",
+    "FLAVOR": "Once exhausted, appears to refill itself in a different color.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b10 cards, draw #b1 card."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Tungsten Rod",
+    "FLAVOR": "It's very very heavy.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, if it is before turn #b",
+      ", gain #yBlock equal to the current turn."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Holy Water",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add #b3 #yMiracles into your hand."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Pure Water",
+    "FLAVOR": "Filtered through fine sand and free of impurities.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Horn Cleat",
+    "FLAVOR": "Pleasant to hold in the hand. What was it for?",
+    "DESCRIPTIONS": [
+      "At the start of your 2nd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Captain's Wheel",
+    "FLAVOR": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.",
+    "DESCRIPTIONS": [
+      "At the start of your 3rd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Golden Eye",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Whenever you #yScry, #yScry #b",
+      " addtional cards."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
+  }
+}

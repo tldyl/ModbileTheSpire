@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Ancla",
+    "FLAVOR": "Sujetar esta baratija diminuta te hace sentir más pesado y con más equilibrio.",
+    "DESCRIPTIONS": [
+      "Comienza cada combate con #b",
+      " #yBloqueo."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Juego de Té Antiguo",
+    "FLAVOR": "La clave para un descanso nocturno refrescante.",
+    "DESCRIPTIONS": [
+      "Cada vez que llegues a un sitio de descanso comienza el próximo combate con [E] [E] ."
+    ]
+  },
+  "Art of War": {
+    "NAME": "El Arte de la Guerra",
+    "FLAVOR": "Este manuscrito antiguo contiene la sabiduría de una era pasada.",
+    "DESCRIPTIONS": [
+      "Si no juegas ningún #yAtaque durante tu turno, gana un ",
+      "[E] extra el próximo turno."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolabio",
+    "FLAVOR": "Una herramienta para derivar conocimiento indispensable de las estrellas.",
+    "DESCRIPTIONS": [
+      "Al recogerlo, escoge y #yTransforma #b3 cartas, luego #ymejóralas .",
+      "Escoge 3 cartas para "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Bolsa de Canicas",
+    "FLAVOR": "De antaño un juguete popular en la Ciudad. Útil para desequilibrar a tus enemigos.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate aplica #b",
+      " #yvulnerable a TODOS los enemigos."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Bolsa de Preparación",
+    "FLAVOR": "Paquete de aventurero de tamaño exagerado. Tiene abundantes bolsillos y correas.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate roba #b",
+      " cartas adicionales."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Urna con Cara de Ave",
+    "FLAVOR": "Esta urna muestra al dios cuervo Mazaleth con aspecto travieso.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegas un #yPoder, cura #b",
+      " PV."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Sangre negra",
+    "FLAVOR": "La furia se vuelve aún más tenebrosa.",
+    "DESCRIPTIONS": [
+      "Reemplaza #rSangre #rardiente. Al final del combate cura #b",
+      " PV."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Estrella Negra",
+    "FLAVOR": "Originalmente descubierta en el pueblo de la serpiente, al lado de una vela solitaria.",
+    "DESCRIPTIONS": [
+      "Los #yélites ahora sueltan #b2 #yReliquias cuando son abatidos."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Vial de Sangre",
+    "FLAVOR": "Un frasco con la sangre de un anciano vampiro de pura raza.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate cura #b",
+      " PV."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Ídolo Ensangrentado",
+    "FLAVOR": "El ídolo ahora llora sangre constantemente.",
+    "DESCRIPTIONS": [
+      "Cada vez que ganas #yOro, cura #b",
+      " PV."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Vela Azul",
+    "FLAVOR": "La llama se enciende cuando le envuelven las tinieblas.",
+    "DESCRIPTIONS": [
+      "Las cartas de #ymaldición injugables ahora se pueden jugar. NL NL Jugar una #ymaldición te hará perder #b",
+      " PV y la #yAgota."
+    ]
+  },
+  "Boot": {
+    "NAME": "La Bota",
+    "FLAVOR": "Cuando le das cuerda, la bota se hace más grande.",
+    "DESCRIPTIONS": [
+      "Cuando vayas a infligir #b",
+      " o menos daño de #yAtaque sin bloquear, aumenta a #b5."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Llama Embotellada",
+    "FLAVOR": "Dentro de la botella reside una llama que arde eternamente.",
+    "DESCRIPTIONS": [
+      "Al recoger, escoge una carta de #yataque. Al comienzo de cada combate esta carta estará en tu mano.",
+      "Escoge una carta para ",
+      "Al comienzo de cada combate añade ",
+      " a tu mano."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Relámpago Embotellado",
+    "FLAVOR": "Si miras dentro del ojo del remolino, puedes ver parte de ti que te mira de vuelta.",
+    "DESCRIPTIONS": [
+      "Al recoger, escoge una carta de #yhabilidad. Al comienzo de cada combate esta carta estará en tu mano.",
+      "Escoge una carta para ",
+      "Al comienzo de cada combate añade ",
+      " a tu mano."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Tornado Embotellado",
+    "FLAVOR": "La botella silba y se revuelve suavemente.",
+    "DESCRIPTIONS": [
+      "Al recoger, escoge una carta de Poder. Al comienzo de cada combate esta carta estará en tu mano.",
+      "Escoge una carta para ",
+      "Al comienzo de cada combate añade ",
+      " a tu mano."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Escamas de Bronce",
+    "FLAVOR": "Las escamas afiladas de El Guardián. Se reorganizan por sí solas para proteger a su usuario. ",
+    "DESCRIPTIONS": [
+      "Cada vez que recibas un ataque, inflige #b",
+      " de daño de vuelta."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Sangre Ardiente",
+    "FLAVOR": "La propia sangre de tu cuerpo arde con una furia imbatible.",
+    "DESCRIPTIONS": [
+      "Al final del combate cura #b",
+      " PV."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Corona Reventada",
+    "FLAVOR": "La corona del campeón... ¿o una simple imitación?",
+    "DESCRIPTIONS": [
+      "En la pantalla de recompensa de cartas, tienes #b2 #ycartas menos entre las que elegir.",
+      "Gana [E] al comienzo de cada turno. "
+    ]
+  },
+  "Cables": {
+    "NAME": "Cables Bañados en Oro",
+    "FLAVOR": "\"¡Interesante! Hasta los autómatas se ven afectados por los placebos.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "El orbe más a la derecha activa su pasiva una vez de forma adicional."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Calibrador",
+    "FLAVOR": "\"La precisión mecánica lleva a la grandeza\" - El Arquitecto",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno pierde #b",
+      " #yBloqueo en vez de todo tu #yBloqueo."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Campana de Invocación",
+    "FLAVOR": "Esta campana de hierros oscuros sonó 3 veces cuando la encontraste, pero ahora se mantiene en silencio.",
+    "DESCRIPTIONS": [
+      "Al cojerla, obtén una #rMaldición especial y #b3 #yReliquias.",
+      "La Campana Suena...",
+      "Omitir Recompensas",
+      "Cerrar"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Caldero",
+    "FLAVOR": "El Comerciante es en realidad un alquimista muy habilidoso de pociones. Compra 4 y llévate 1 gratis.",
+    "DESCRIPTIONS": [
+      "Cuando lo obtienes puedes obtener #b5 pociones al azar.",
+      "Glug glip glup...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Rompecabezas Centenario",
+    "FLAVOR": "Tras resolver el rompecabezas sientes un poderoso calor en tu pecho.",
+    "DESCRIPTIONS": [
+      "La primera vez que pierdes PV cada combate roba #b",
+      " cartas."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Anillo de Camaleón",
+    "FLAVOR": "Obsoleto",
+    "DESCRIPTIONS": [
+      "Ahora puedes #yBrebar en las Áreas de Descanso."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Cinturón de Campeón",
+    "FLAVOR": "Solo los mejores podrán vestir este cinturón.",
+    "DESCRIPTIONS": [
+      "Cada vez que apliques #yVulnerable, también aplica #b",
+      " #yDébil."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Cenizas de Caronte",
+    "FLAVOR": "De Caronte se decía que era el dios del renacer, eternamente muriendo y reviviendo en una ráfaga de llamas.",
+    "DESCRIPTIONS": [
+      "Cada vez que #yAgotas una carta, haz #b",
+      " de daño a TODOS los enemigos."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Sustancia X",
+    "FLAVOR": "ADVERTENCIA: No mezclar con azucar, especias y muchas cosas bonitas.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegas una carta de coste #bX sus efectos incrementan por #b",
+      "."
+    ]
+  },
+  "Circlet": {
+    "NAME": "Coronilla",
+    "FLAVOR": "Has encontrado todas las reliquias que puedes encontrar. ¡Impresionante!",
+    "DESCRIPTIONS": [
+      "Es mona."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Souvenir de Aparato de Relojería",
+    "FLAVOR": "\"Muchos engranajes intrincados.\"",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, gana #b1 #yartefacto."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Taza de Café",
+    "FLAVOR": "\"Si, otra taza por favor. Vuelta al trabajo. ¡Vuelta al trabajo!\" - The Architect",
+    "DESCRIPTIONS": [
+      "al comienzo de cada turno. Ya no puedes descansar en las áreas de descanso.",
+      "Gana [E] "
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Núcleo Roto",
+    "FLAVOR": "La misteriosa fuerza vital que da vida a los autómatas en la Torre. Parece estar roto.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, #yinvoca #b1 #yrelámpago."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Máscara de Cultista",
+    "FLAVOR": "¡Parte de la bandada!",
+    "DESCRIPTIONS": [
+      "Te sientes más hablador.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Llave Maldita",
+    "FLAVOR": "Puedes sentir las energías maliciosas emanando de la llave. El poder viene con un precio.",
+    "DESCRIPTIONS": [
+      " Cada vez que abres un cofre obtienes una #rmaldición.",
+      "Gana [E] al comienzo de cada turno."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Amuleto de Piedraoscura",
+    "FLAVOR": "La piedra obtiene poder de energía oscura, convirtiéndola en vitalidad para el que la usa.",
+    "DESCRIPTIONS": [
+      "Cada vez que obtengas una #ymaldición, incrementa tus PV Máximos por #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Disco de Datos",
+    "FLAVOR": "Este disco contiene datos preciados de pájaros y serpientes.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, gana #b",
+      " #yconcentración."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Rama Marchita",
+    "FLAVOR": "La rama de un árbol de una era ya olvidada.",
+    "DESCRIPTIONS": [
+      "Cada vez que #yagotas una carta, añade una carta al azar a tu mano."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Roca Derp",
+    "FLAVOR": "Marcador",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada turno gana #b",
+      " Carga. NL (No puede ser eliminada o transformada.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Monóculo Perceptivo",
+    "FLAVOR": "Un monóculo muy apuesto, de verdad.",
+    "DESCRIPTIONS": [
+      "Los precios del Comerciante son reducidos por un #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "DEPRECATED Dodecaedro Rúnico",
+    "FLAVOR": "Las runas son indescifrables.",
+    "DESCRIPTIONS": [
+      "Si tus PV están al máximo gana, ",
+      "[E] al comienzo de cada turno."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Espejo de Dolly",
+    "FLAVOR": "\"Me veo divertido en esto.\"",
+    "DESCRIPTIONS": [
+      "Al recoger esta reliquia, obtén una copia adicional de una carta de tu mazo.",
+      "Elige 1 carta que copiar."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Atrapasueños",
+    "FLAVOR": "Las tribus norteñas a menudo usan los atrapasueños en las noches, creyendo que esto los llevaría a la mejora personal.",
+    "DESCRIPTIONS": [
+      "Cada vez que descanses, puedes añadir una carta a tu mazo."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Muñeco de Du-Vu",
+    "FLAVOR": "Un muñeco ideado para ganar fuerzas de la energía maliciosa.",
+    "DESCRIPTIONS": [
+      "Por cada #yMaldición en tu mazo, comienza cada combate con #b",
+      " de #yfuerza adicional.",
+      " No tienes #ymaldiciones.",
+      " Tienes #b",
+      " #ymaldiciones."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ectoplasma",
+    "FLAVOR": "Esta bola de baba y energía parece palpitar con vida.",
+    "DESCRIPTIONS": [
+      " Ya no puedes ganar #yoro.",
+      "Gana [E] al comienzo de cada turno."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Chip de Emoción",
+    "FLAVOR": "¿...<3...?",
+    "DESCRIPTIONS": [
+      "Si recibiste daño el turno anterior, activa la habilidad pasiva de todos tus orbes al comienzo de tu turno."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Jaula Vacía",
+    "FLAVOR": "\"Qué raro que es enjaular aquello que adoras.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Al recoger esta reliquia, elimina #b2 cartas de tu mazo.",
+      "Elige 2 cartas para eliminar."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enchiridión",
+    "FLAVOR": "El diario legendario de un antiguo liche.",
+    "DESCRIPTIONS": [
+      "Comienza cada combate con una carta de #yPoder al azar en tu mano. Te cuesta #b0 jugarla hasta el final del turno."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Pluma Eterna",
+    "FLAVOR": "Esta pluma parece ser completamente indestructible. ¿De que clase de ave podría venir? ",
+    "DESCRIPTIONS": [
+      "Por cada #b",
+      " cartas en tu mazo, cura #b",
+      " PV cada vez que entres en una área de descanso."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Cara del Clérigo",
+    "FLAVOR": "Todo el mundo quiere al Clérigo.",
+    "DESCRIPTIONS": [
+      "Aumenta tus PV máximos en #b1 después de cada combate."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Huevo Congelado",
+    "FLAVOR": "Este huevo yace inerte y congelado, y nunca eclosionará.",
+    "DESCRIPTIONS": [
+      "Cuando agregues una carta de #ypoder a tu mazo, estará #ymejorada."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Ojo Congelado",
+    "FLAVOR": "Mirando fijamente al ojo, puedes vislumbrar tu futuro.",
+    "DESCRIPTIONS": [
+      "Cuando consultes tu #ypila #yde #yextracción en combate, las cartas ahora aparecen en el orden en el que salen."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Núcleo Congelado",
+    "FLAVOR": "La grieta en tu núcleo se ha llenado con energía fría pulsante.",
+    "DESCRIPTIONS": [
+      "Sustituye #rNúcleo #rroto. Si acabas tu turno con espacios de orbes vacíos, #yinvoca #b1 #yescarcha."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Martillo de Fusión",
+    "FLAVOR": "Una vez empuñado, el dueño nunca podrá dejarlo ir.",
+    "DESCRIPTIONS": [
+      "al comienzo de cada turno. Ya no puedes forjar en áreas de descanso.",
+      "Gana [E] "
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Ficha de Apostar",
+    "FLAVOR": "Puedes ver una pequeña inscripción en un lado. Dice: \"¡Ficha de la Suerte de Oso!\"",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate descarta cualquier número de cartas y después roba esa misma cantidad."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Jengibre",
+    "FLAVOR": "Muy útil en muchos tónicos.",
+    "DESCRIPTIONS": [
+      "Ya no puedes ser #ydebilitado."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girya",
+    "FLAVOR": "Esta Girya es indescriptiblemente pesada. Podrías entrenar con esto para hacerte mucho más fuerte.",
+    "DESCRIPTIONS": [
+      "Ahora puedes ganar #yfuerza en las áreas de descanso. (3 veces máximo)"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Ídolo Dorado",
+    "FLAVOR": "Hecho de oro sólido, te sientes enriquecido con tan solo sostenerlo.",
+    "DESCRIPTIONS": [
+      "Los enemigos ahora sueltan #b25% más de #yoro."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Cuerno de Gremlin",
+    "FLAVOR": "\"Los Gremlins Cabecillas son capaces de crecer hasta el día en que mueren. Extraordinario.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Cada vez que un enemigo muere gana ",
+      "[E] y roba #b1 carta."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Máscara Pequeña de Gremlin",
+    "FLAVOR": "Hora de correr.",
+    "DESCRIPTIONS": [
+      "Empieza cada combate con #b1 #ydébil."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Taladro de Mano",
+    "FLAVOR": "\"Las espirales son peligrosas.\"",
+    "DESCRIPTIONS": [
+      "Cada vez que rompas el bloqueo de un enemigo, aplica #b2 #yvulnerable."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Flor Alegre",
+    "FLAVOR": "Esta planta de felicidad incesante está de moda entre los nobles.",
+    "DESCRIPTIONS": [
+      "Cada #b",
+      " turnos, gana [E] ."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Cometa Voladora",
+    "FLAVOR": "La cometa flota a tu alrededor en combate, impulsada por una fuerza misteriosa.",
+    "DESCRIPTIONS": [
+      "La primera vez de cada turno que descartes una carta, gana [E]."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Helado",
+    "FLAVOR": "\"¡Delicioso!\"",
+    "DESCRIPTIONS": [
+      "La Energía ahora se conserva entre turnos."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incensario",
+    "FLAVOR": "Un incensario de hace mucho tiempo. Quemar madera preciosa parece inimaginable.",
+    "DESCRIPTIONS": [
+      "Cada #b6 turnos, gana #b1 #yintangible."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Insertador",
+    "FLAVOR": "Empuja. Tira. Apila. Repite.",
+    "DESCRIPTIONS": [
+      "Cada #b2 turnos, gana #b1 hueco de orbe."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Brazalete Juzu ",
+    "FLAVOR": "Una protección contra lo desconocido.",
+    "DESCRIPTIONS": [
+      "Los combates contra enemigos regulares ya no se encuentran en habitaciones #y? ."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Cuchilla favorita de los asesinos por su letalidad a distancia.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #b",
+      " #yataques en un mismo turno gana #b",
+      " #ydestreza."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lámpara",
+    "FLAVOR": "Una lámpara misteriosa que ilumina solo para quien la sujeta.",
+    "DESCRIPTIONS": [
+      "Empieza cada combate con un ",
+      "[E] ",
+      "adicional."
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Gofre de Lee",
+    "FLAVOR": "\"¡El deleite más sabroso que encontrarás en toda la Torre! Horneado hoy solo para ti.\"",
+    "DESCRIPTIONS": [
+      "Incrementa tus PV Máximos por #b",
+      " y cura todo tus PV."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Abrecartas",
+    "FLAVOR": "Extrañamente afilado.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #b3 habilidades en un mismo turno inflige #b",
+      " de daño a TODOS los enemigos."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Espada Viviente",
+    "FLAVOR": "OBSOLETO",
+    "DESCRIPTIONS": [
+      "Puedes obtener cualquier cantidad de cualquier carta."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Cola de Lagarto",
+    "FLAVOR": "Una cola postiza para confundir a los enemigos durante el combate.",
+    "DESCRIPTIONS": [
+      "Cuando fueras a morir, en su lugar, cúrate el #b50% de tus PV Máximos (funciona una vez)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Flor Mágica",
+    "FLAVOR": "Una flor por largo tiempo creída extinta y de alguna manera preservada en condición perfecta.",
+    "DESCRIPTIONS": [
+      "La curación es un #b50% más efectiva durante el combate."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "La más codiciada de las frutas olvidadas. Impecablemente preservada sin ninguna señal de la Plaga de la Torre.",
+    "DESCRIPTIONS": [
+      "Aumenta tus PV Máximos por #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "La Marca del Dolor",
+    "FLAVOR": "Esta marca era utilizada por las tribus norteñas para reconocer a los guerreros que habían dominado el dolor durante el combate.",
+    "DESCRIPTIONS": [
+      "Gana [R] al comienzo de cada turno. Comienza los combates con #b2 #rHeridas en tu pila de extracción."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "La Marca del Florecimiento",
+    "FLAVOR": "En el Más Allá, los pensamientos y la realidad son uno.",
+    "DESCRIPTIONS": [
+      "Ya no puedes curarte."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matrioshka",
+    "FLAVOR": "Un conjunto apilable de muñecas pintadas. La pintura muestra un ave desconocida con ojos blancos y plumaje azul.",
+    "DESCRIPTIONS": [
+      "Los próximos #b2 cofres que abras contendrán #b2 #yReliquias. (Excluye los cofres de jefes)",
+      "EL próximo cofre que abras contendrá #b2 #yReliquias. (Excluye los cofres de jefes)",
+      "Esta reliquia se ha usado por completo."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emana un calor infernal.",
+    "DESCRIPTIONS": [
+      "Al principio de tu turno, ganas #b",
+      " #yFuerza y TODOS los enemigos ganan #b",
+      " #yFuerza."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Insecto Preservado",
+    "FLAVOR": "El Insecto parece crear un aura que hace más pequeños a los enemigos particularmente grandes.",
+    "DESCRIPTIONS": [
+      "Los enemigos en los combates Élite tienen #b",
+      "% menos PV."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Reloj de Bolsillo",
+    "FLAVOR": "Las agujas parecen atascadas en las 3 en punto.",
+    "DESCRIPTIONS": [
+      "Cuando juegues #b3 o menos cartas en un turno, roba #b3 cartas adicionales al comienzo de tu proximo turno."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fósil Hélix",
+    "FLAVOR": "Parece indestructible, lo que te lleva a plantearte que a clase de criatura perteneció.",
+    "DESCRIPTIONS": [
+      "Evita la primera vez que pierdas PV en un combate."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Fragmento Prismático",
+    "FLAVOR": "Al mirar a traves del cristal puedes ver perspectivas completamente nuevas.",
+    "DESCRIPTIONS": [
+      "Las recompensas de combate ahora contienen cartas incoloras y de otros colores."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Hucha de Maw",
+    "FLAVOR": "Sorprendentemente popular, aunque los ataques de Maw ocurran de forma regular.",
+    "DESCRIPTIONS": [
+      "Cada vez que escales un piso, gana #b",
+      " #yOro. Esta reliquia dejará de funcionar cuando gastes #yoro en la tienda.",
+      "Esta reliquia ha sido agotada."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Vale para una Comida",
+    "FLAVOR": "\"¡Albóndigas complementarias con cada visita!\"",
+    "DESCRIPTIONS": [
+      "Cada vez que entres en una tienda, cura #b",
+      " PV."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Carne en un Hueso",
+    "FLAVOR": "La carne se sigue regenerando, aparentemente hasta nunca acabar.",
+    "DESCRIPTIONS": [
+      "Si tus PV son iguales o inferiores al #b50% al final del combate, cura #b",
+      " PV."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Kit Médico",
+    "FLAVOR": "\"¡Tiene todo lo que necesitas! ¡Anti-picaduras, anti-quemaduras, anti-venenos, y más!\"",
+    "DESCRIPTIONS": [
+      "Las cartas de #yestado injugables ahora se pueden jugar. Jugar un #yestado #yagotará la carta."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Carné de Socio",
+    "FLAVOR": "\"¡Descuento de socio para mis clientes más valiosos!\"",
+    "DESCRIPTIONS": [
+      "¡ #b50% de descuento en todos los productos!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Reloj de Mercurio",
+    "FLAVOR": "Un reloj de arena encantado que gotea incesantemente.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno haz #b",
+      " de daño a TODOS los enemigos."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Huevo Fundido",
+    "FLAVOR": "El huevo de un Fénix. Tiene un brillo rojo candente por su lava burbujeante.",
+    "DESCRIPTIONS": [
+      "Cuando agregues una carta de #yataque a tu mazo, estará #ymejorada."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Mano Momificada",
+    "FLAVOR": "Se contrae con frecuencia, especialmente cuando tu pulso está alterado.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegas un #ypoder, una carta en tu mano al azar cuesta #b0 por este turno."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicón",
+    "FLAVOR": "Solamente un tonto intentaría usar y dominar este poder malvado. En la noche tus sueños son embrujados por las imágenes del libro devorando tu mente.",
+    "DESCRIPTIONS": [
+      "El primer #yataque jugado cada turno que cueste #b",
+      " o más se juega dos veces. Cuando tomes esta reliquia quedas #rmaldecido.",
+      " o más se juega dos veces."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Bendición de Neow",
+    "FLAVOR": "La bendición del lamento otorgada a ti por Neow.",
+    "DESCRIPTIONS": [
+      "Los enemigos en tus primeros #b3 combates tendrán #b1 PV.",
+      "La bendición fue usada totalmente."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Códice de Nilry",
+    "FLAVOR": "Manufacturado por el infame maestro de juegos mismo. Se dice que expande la mente de uno.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada turno puedes escoger #b1 de #b3 cartas al azar para barajar dentro de tu pila de extracción."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Pergamino Ninja",
+    "FLAVOR": "Contiene los secretos del asesinato.",
+    "DESCRIPTIONS": [
+      "Comienza cada combate con #b",
+      " #yNavajas en mano."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Regalo de N'Loth",
+    "FLAVOR": "El extraño regalo de N'Loth. Cada vez que intentas abrirlo, otra caja envuelta del mismo tamaño es todo su contenido.",
+    "DESCRIPTIONS": [
+      "#bTriplica la posibilidad de recibir cartas raras como recompensa de monstruos."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Cara Hambrienta de N'Loth",
+    "FLAVOR": "Te sientes hambriento.",
+    "DESCRIPTIONS": [
+      "El próximo cofre que no sea de jefe que abras estará vacío.",
+      ""
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Batería Nuclear",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, #yinvoca #b1 #yplasma."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Amuleto de Nullstone",
+    "FLAVOR": "OBSOLETO.",
+    "DESCRIPTIONS": [
+      "Niega el próximo #yperjuicio que recibas de un enemigo. NL Se recarga en #b10 turnos."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "Una buena herramienta de entrenamiento. Mejora la postura y la agilidad del portador.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #b",
+      " #yataques, gana [E] ."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Hongo Extraño",
+    "FLAVOR": "\"Tras consumir trichella parastius me sentí más grande y menos... susceptible.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Cuando estés #yvulnerable, recibes un #b25% de daño en vez de #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Piedra Inusualmente Suave",
+    "FLAVOR": "Nunca has visto algo tan suave y prístino. Esto debe ser obra de los Antiguos.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate gana #b",
+      " #yDestreza."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Moneda Antigua",
+    "FLAVOR": "Las monedas únicas son altamente codiciadas por los Comerciantes por su valor histórico y su rara composición metálica.",
+    "DESCRIPTIONS": [
+      "Gana #b300 de #yoro."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Amuleto Omamori",
+    "FLAVOR": "Un talismán común para mantener alejados a los espíritus viles. Este parece poseer una chispa de energía divina.",
+    "DESCRIPTIONS": [
+      "Niega las próximas #b2 #rmaldiciones que obtengas.",
+      "Niega la próxima #rMaldición que obtengas.",
+      "Esta reliquia fue usada por completo."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Gránulos naranja",
+    "FLAVOR": "\"Hechos con varios hongos encontrados a lo largo de la Torre, evitarán cualquier aflicción.\"",
+    "DESCRIPTIONS": [
+      "Cada vez que juegas un #ypoder, #yataque y #yhabilidad en el mismo turno, elimina todos tus perjuicios."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Oricalco",
+    "FLAVOR": "Un metal con tintes verdes de origen desconocido. Al parecer indestructible.",
+    "DESCRIPTIONS": [
+      "Si terminas tu turno sin #ybloqueo, gana #b",
+      " #ybloqueo."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Abanico Ornamental",
+    "FLAVOR": "El abanico parece extenderse y endurecerse a medida que se derrama la sangre.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #b3 #yataques en un mismo turno, gana #b",
+      " #ybloqueo."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Planetario",
+    "FLAVOR": "\"Una vez que entiendas el universo...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Escoge y añade #b5 cartas a tu mazo.",
+      "¡Conocimiento!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Caja de Pandora",
+    "FLAVOR": "Tienes un mal presentimiento acerca de abrirla.",
+    "DESCRIPTIONS": [
+      "#bTransforma todos los golpes y defiendes.",
+      "La Caja de Pandora ha sido abierta..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantógrafo",
+    "FLAVOR": "\"Los cimientos sólidos no son accidentales. Las herramientas para planear son imprescindibles.\" - El Arquitecto",
+    "DESCRIPTIONS": [
+      "Al comienzo de un combate contra jefes cura #b",
+      " PV."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Grulla de Papel",
+    "FLAVOR": "Un origami de una criatura de épocas pasadas.",
+    "DESCRIPTIONS": [
+      "Enemigos con #ydébil infligen #b40% menos daño en vez de #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Rana de Papel",
+    "FLAVOR": "El papel continuamente se dobla y desdobla en la forma de una criatura pequeña.",
+    "DESCRIPTIONS": [
+      "Los enemigos con #yvulnerable reciben #b75% de daño en vez de #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Pipa de la Paz",
+    "FLAVOR": "Aclara la mente y purifica el alma.",
+    "DESCRIPTIONS": [
+      "Ahora puedes eliminar cartas de tu mazo en las áreas de descanso."
+    ]
+  },
+  "Pear": {
+    "NAME": "Pera",
+    "FLAVOR": "Una fruta común antes de la Plaga de la Torre.",
+    "DESCRIPTIONS": [
+      "Aumenta tus PV Máximos por #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Punta de Pluma",
+    "FLAVOR": "Al sostener esta punta puedes ver a todos los abatidos por el dueño anterior de la pluma. Una violenta historia.",
+    "DESCRIPTIONS": [
+      "Cada #b10º #yataque que juegues hace doble daño."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Piedra Filosofal",
+    "FLAVOR": "Energía cruda emana de la piedra, dando poder a todo lo cercano.",
+    "DESCRIPTIONS": [
+      "Gana [E] al inicio de tu turno. TODOS los enemigos empiezan el combate con #b",
+      " de #yFuerza."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Cinturón de Pociones",
+    "FLAVOR": "¡Puedo llevar más pociones usando este cinturón!",
+    "DESCRIPTIONS": [
+      "Al recoger esta reliquia, gana #b2 espacios para pociones."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Rueda de Oración",
+    "FLAVOR": "La rueda continúa girando, sin parar nunca.",
+    "DESCRIPTIONS": [
+      "Los enemigos normales ahora dan una recompensa de carta adicional."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Tarjeta de Preguntas",
+    "FLAVOR": "\"Aquellos con más opciones minimizan las desventajas del caos.\" - Kublai el Magno",
+    "DESCRIPTIONS": [
+      "En la pantalla de recompensa de cartas tienes #y1 #ycarta #yadicional de las cuales elegir."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Coronilla Roja",
+    "FLAVOR": "Se te acabaron las reliquias. ¡Impresionante!",
+    "DESCRIPTIONS": [
+      "Se ve muy bonita."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Máscara Roja",
+    "FLAVOR": "Esta máscara con tanto estilo pertenece al líder de los Bandidos Máscaras Rojas. Técnicamente eso te convierte en su líder ahora.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate aplica #b",
+      " #ydébil a TODOS los enemigos."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Calavera Roja",
+    "FLAVOR": "Un cráneo pequeño cubierto de pintura ornamental.",
+    "DESCRIPTIONS": [
+      "Mientras tus PV sean iguales o inferiores al #b50%, tienes #b",
+      " de #yfuerza adicionales."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Almohada Real",
+    "FLAVOR": "Ahora puedes tener un descanso nocturno apropiado.",
+    "DESCRIPTIONS": [
+      "Cura #b",
+      " PV adicionales cuando #ydescanses."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Anillo de Víbora",
+    "DESCRIPTIONS": [
+      "Reemplaza #gAnillo #gserpentino. ",
+      "Al comienzo de cada turno, saca #b1 carta adicional"
+    ],
+    "FLAVOR": "Tu anillo ha mutado y cambiado su forma."
+  },
+  "Ring of the Snake": {
+    "NAME": "Anillo de Serpiente",
+    "FLAVOR": "Hecho con una serpiente fosilizada. Representa una gran habilidad como cazadora.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate roba #b",
+      " cartas adicionales."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Condensador Rúnico",
+    "FLAVOR": "Cuanto más, mejor.",
+    "DESCRIPTIONS": [
+      "Comienza cada combate con #b3 huecos de orbe adicionales."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Cubo Rúnico",
+    "FLAVOR": "Las runas son indescifrables.",
+    "DESCRIPTIONS": [
+      "Cada vez que pierdas PV, roba #b",
+      " carta.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Cúpula Rúnica",
+    "FLAVOR": "Las runas son indescifrables.",
+    "DESCRIPTIONS": [
+      "al comienzo de cada turno. Ya no puedes ver la #bintención del enemigo.",
+      "Gana [E] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Pirámide Rúnica",
+    "FLAVOR": "Las runas son indescifrables.",
+    "DESCRIPTIONS": [
+      "Al final de tu turno ya no descartas tu mano.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Arcilla Autoforme",
+    "FLAVOR": "\"¡Muy curioso! ¡Parece formarse a sí misma según mis pensamientos! ¿Tele-Arcilla?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Cada vez que pierdas PV en combate gana #b",
+      " #ybloqueo el próximo turno."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Pala",
+    "FLAVOR": "La Torre es hogar de un gran número de reliquias de civilizaciones pasadas y de poderosos aventureros perdidos en el tiempo. ¡Hora de ir a excavarlas!",
+    "DESCRIPTIONS": [
+      "Ahora puedes #yexcavar para encontrar botín en las áreas de descanso."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Arma arrojadiza ligera. Se recomienda apuntar a los ojos.",
+    "DESCRIPTIONS": [
+      "Cada vez que juegues #b",
+      " #yataques en un mismo turno gana #b",
+      " #yfuerza."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Cuenco Tibetano",
+    "FLAVOR": "Este artefacto de buen uso resuena con una bella melodía cuando se lo golpea.",
+    "DESCRIPTIONS": [
+      "Cuando estes agregando cartas a tu mazo, podrás en su lugar incrementar tus PV Máximos por #b+2"
+    ]
+  },
+  "Sling": {
+    "NAME": "Honda del Coraje",
+    "FLAVOR": "\"Una herramienta útil para enfrentarte a oponentes particularmente duros.\"",
+    "DESCRIPTIONS": [
+      "Empieza cada combate de élite con #b",
+      " #yfuerza."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Máscara Sonriente",
+    "FLAVOR": "Máscara vestida por el Comerciante. Debe tener de sobra...",
+    "DESCRIPTIONS": [
+      "El servicio del Comerciante de eliminar cartas ahora siempre cuesta #b",
+      " de #yoro."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Cráneo de Serpiente",
+    "FLAVOR": "Un cráneo de serpentija en condición prístina. Misteriosamente limpio y suave, la tierra y la mugre se le caen inexplicablemente.",
+    "DESCRIPTIONS": [
+      "Cada vez que apliques #yveneno, aplica #b",
+      " #yveneno adicional."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Ojo de Serpentija",
+    "FLAVOR": "El ojo de una serpentija abatida. Mucho más grande de lo que imaginabas.",
+    "DESCRIPTIONS": [
+      "Roba #b2 cartas adicionales cada turno. Comienza cada combate #yconfundido."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "Te das cuenta que los líquidos mágicos parecen perder sus propiedades cuando están cerca de esta reliquia.",
+    "DESCRIPTIONS": [
+      "Ya no puedes obtener pociones.",
+      "Gana [E] al comienzo de cada turno."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Caca Espiritual",
+    "FLAVOR": "Los despojos carbonizados de tu ofrenda a los espíritus.",
+    "DESCRIPTIONS": [
+      "No es agradable."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Cabeza de Ssserpiente",
+    "FLAVOR": "¡La más plena de las vidas es aquella en la que puedes comprar de todo!",
+    "DESCRIPTIONS": [
+      "Cada vez que empiezas un evento, gana #b",
+      " de #yoro."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Fuerza Mutágena",
+    "FLAVOR": "\"Los resultados parecen fugaces, activándose cuando el sujeto esta en peligro.\" - Desconocido",
+    "DESCRIPTIONS": [
+      "Empieza cada combate con #b",
+      " #yFuerza. Al final de tu primer turno, pierde ",
+      " #yFuerza."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Calendario de Piedra",
+    "FLAVOR": "El paso del tiempo es imperceptible en la Torre.",
+    "DESCRIPTIONS": [
+      "Al final del turno #b",
+      ", hace #b",
+      " daño a todos los enemigos."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Cuchara Extraña",
+    "FLAVOR": "Al mirar la cuchara, parece que se dobla y se retuerce delante de tus propios ojos.",
+    "DESCRIPTIONS": [
+      "La cartas que se #yagotan cuando son jugadas ahora se descartan el #b50% de la veces."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Fresa",
+    "FLAVOR": "\"¡Delicioso! No he visto ninguna de estas desde la plaga.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Incrementa tus PV Máximos por #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Reloj de Sol",
+    "FLAVOR": "\"La absurda obsesión de los primeros hombres con el tiempo les llevó a alzar la vista al cielo en busca de guía, con la esperanza de que algo fuera permanente.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Cada #b",
+      " veces que barajes tu mazo gana [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virus Simbiótico",
+    "FLAVOR": "Un poco de mal puede hacer mucho bien...",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, #yinvoca #b1 #yoscuro."
+    ]
+  },
+  "Test 1": {
+    "NAME": "Prueba 1",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "Prueba 2",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Cuando veas tu #yPila #yExtraccion, las cartas ahora aparecen en orden."
+    ]
+  },
+  "Test 3": {
+    "NAME": "Prueba 3",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Cuando es obtenida, #yMejora todas tus cartas #yDefiende."
+    ]
+  },
+  "Test 4": {
+    "NAME": "Prueba 4",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Al comienzo del combate el costo de todas las cartas #yGolpe se ajusta a #b0."
+    ]
+  },
+  "Test 5": {
+    "NAME": "Prueba 5",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Al recoger #yMejora #b",
+      " #yHabilidades al azar."
+    ]
+  },
+  "Test 6": {
+    "NAME": "Prueba 6",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Al final de cada turno gana #b",
+      " #yBloqueo por cada #b",
+      " de #yOro que tengas."
+    ]
+  },
+  "Test 7": {
+    "NAME": "Prueba 7",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Los #yElites ahora sueltan #b2 #yReliquias cuando derrotados."
+    ]
+  },
+  "Test 8": {
+    "NAME": "Prueba 8",
+    "FLAVOR": "Reliquia de prueba para la beta. Si te gusta déjale saber a los devs.",
+    "DESCRIPTIONS": [
+      "Roba #b2 cartas adicionales cada turno. Comienza cada combate #yConfundido."
+    ]
+  },
+  "The Courier": {
+    "NAME": "El Mensajero",
+    "FLAVOR": "¡La mascota personal del Comerciante!",
+    "DESCRIPTIONS": [
+      "Al Comerciante ya no se le acaban las cartas, reliquias ni pociones y sus precios se reducen en un #b20%."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "El Espécimen",
+    "FLAVOR": "\"¡Fascinante! He encontrado una criatura mutada que demuestra desorbitantes propiedades tóxicas. Almacenando una muestra para posterior examinación.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Cada vez que un enemigo muere transfiere todo el #yveneno que tiene a un enemigo al azar."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "El Ábaco",
+    "FLAVOR": "Uno...dos...tres...¡Muerto!",
+    "DESCRIPTIONS": [
+      "Cada vez que reinices tu pila de descartes gana #b",
+      " de #ybloqueo "
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Hilo y Aguja",
+    "FLAVOR": "Enrollando el hilo mágico alrededor de tu cuerpo te hace sentir mas duro al tacto.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate gana #b",
+      " #yarmadura #yde #yplacas."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "El sonido que este instrumento genera parece ser capaz de reverberar a niveles de volumen dolorosos.",
+    "DESCRIPTIONS": [
+      "Cada vez que descartas una carta durante tu turno haz #b",
+      " de daño a un enemigo al azar."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Cofre Diminuto",
+    "FLAVOR": "\"Un buen prototipo.\" - El Arquitecto",
+    "DESCRIPTIONS": [
+      "Cada #b",
+      "º habitación #y? es una habitación de #yTesoro.",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Casa Diminuta",
+    "FLAVOR": "\"Una implementación casi perfecta de miniaturización. Mi mejor trabajo hasta la fecha, pero aun asi inadecuado.\" - El Arquitecto",
+    "DESCRIPTIONS": [
+      "Al recoger esta reliquia, obtén #b1 poción. NL Gana #b",
+      " de #yoro. NL Aumenta tus PV Máximos por #b",
+      ". NL Obtén #b1 carta. NL Mejora #b1 carta al azar",
+      "¡Casa Diminuta!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Caja de Herramientas",
+    "FLAVOR": "Una herramienta para cada trabajo.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, elige #b1 entre #b3 cartas Incoloras y añádela a tu mano."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Sujetando la pequeña Torii, sientes un sensación de calma y seguridad flotando en tu mente.",
+    "DESCRIPTIONS": [
+      "Cada vez que fueras a recibir #b",
+      " o menos daño de #yataque no bloqueado, redúcelo a #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Vendas Fuertes",
+    "FLAVOR": "La pérdida da fuerza.",
+    "DESCRIPTIONS": [
+      "Cada vez que descartas una carta durante tu turno gana #b",
+      " #ybloqueo."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Huevo Tóxico",
+    "FLAVOR": "\"¡Qué descubrimiento más maravilloso! Este parece ser el huevo inerte de alguna criatura mágica. ¿Quién o qué ha creado esto?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Cuando agregues una carta de #yhabilidad a tu mazo, estará #ymejorada."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Ornitóptero de Juguete",
+    "FLAVOR": "\"Este pequeño juguete es el compañero perfecto para el aventurero solitario.\"",
+    "DESCRIPTIONS": [
+      "Cada vez que uses una poción cura #b",
+      " PV."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Nabo",
+    "FLAVOR": "Está mejor con gengibre.",
+    "DESCRIPTIONS": [
+      "No puedes volverte #yfrágil."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Embudo Retorcido",
+    "FLAVOR": "\"Yo no bebería de ahí.\"",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate, aplica #b4 de #yveneno a TODOS los enemigos."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Peonza Incesante",
+    "FLAVOR": "La peonza continúa girando sin esfuerzo como si estuvieras en un sueño.",
+    "DESCRIPTIONS": [
+      "Cada vez que no tengas cartas en mano durante tu turno roba una carta."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Una reliquia ornamental dada a los guerreros que demuestren gloria en la batalla.",
+    "DESCRIPTIONS": [
+      "Al comienzo de cada combate gana #b",
+      " #yfuerza."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Gargantilla de Terciopelo",
+    "FLAVOR": "\"Poder inmenso, pero muy limitado.\" - Kublai el Magno",
+    "DESCRIPTIONS": [
+      "No puedes jugar más de #b",
+      " cartas por turno.",
+      "Gana [E] al comienzo de cada turno. ",
+      "Solo puedo jugar hasta NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "Pintura de Guerra",
+    "FLAVOR": "En el pasado, los Blindados creaban runas usando pintura de guerra antes de lanzarse a una batalla",
+    "DESCRIPTIONS": [
+      "Al recoger esta reliquia, #ymejora #b",
+      " #yhabilidades al azar."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Tenazas Deformadas",
+    "FLAVOR": "Las tenazas malditas emiten un fuerte deseo de volver al lugar del que fueron robadas.",
+    "DESCRIPTIONS": [
+      "Al inicio de tu turno, #yMejora una carta aleatoria de tu mano por el resto del combate."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Piedra de Afilar",
+    "FLAVOR": "\"La carne nunca vence al acero.\" - Kublai el Magno",
+    "DESCRIPTIONS": [
+      "Al recoger, #ymejora #b",
+      " #yataques al azar."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Estatua de la Bestia Blanca",
+    "FLAVOR": "Una pequeña estatua blanca de una criatura que jamás has visto antes.",
+    "DESCRIPTIONS": [
+      "Siempre encuentras pociones después de un combate."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Botas Aladas",
+    "FLAVOR": "Elegante.",
+    "DESCRIPTIONS": [
+      "Puedes ignorar caminos cuando elijas la siguiente habitación a la que viajar hasta #b3 veces."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Cuchilla de Muñeca",
+    "FLAVOR": "Útil para asesinatos.",
+    "DESCRIPTIONS": [
+      "Las cartas de #yataque que cuestan #b0 infligen #b4 de daño adicional."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Pez de Cerámica",
+    "FLAVOR": "Pintado cuidadosamente, estos peces eran adorados por traer buena suerte.",
+    "DESCRIPTIONS": [
+      "Cuando añadas una carta a tu mazo, gana #b",
+      " #yOro."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Maniquí de Pruebas",
+    "FLAVOR": "Está desgastado.",
+    "DESCRIPTIONS": [
+      "Las cartas que contienen \"Golpe\" hacen #b",
+      " de daño adicional."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Loto Violeta",
+    "FLAVOR": "Los antiguos textos dicen que la superficie de las \"reservas de mana\" estaban cubiertas de estas flores.",
+    "DESCRIPTIONS": [
+      "Cuando salgas de #yCalma, gana un [E] adicional."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Corteza Sagrada",
+    "FLAVOR": "Una corteza que se dice que creció del arbol del Mundo.",
+    "DESCRIPTIONS": [
+      "Las pociones tienen el doble de efecto."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Medallón de Lágrima",
+    "FLAVOR": "Su propietario ciego, sus contenidos nunca vistos.",
+    "DESCRIPTIONS": [
+      "Empieza cada combate en #yCalma."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Collar de Esclavo",
+    "FLAVOR": "Cadenas miserables oxidadas.",
+    "DESCRIPTIONS": [
+      "Durante peleas de Jefes y Élites, gana [E] al comienzo de tu turno."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Tu primer Ataque en cada combate hace #b",
+      " de daño adicional."
+    ]
+  },
+  "Yang": {
+    "NAME": "Dualidad",
+    "FLAVOR": "\"Y el sol se desvaneció para siempre, como si cayera el telón sobre él.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Cuando juegues un #yAtaque, gana #b1 de #yDestreza temporal."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Broche de Capa",
+    "FLAVOR": "Un diseño simple pero robusto.",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, gana #b",
+      " de #yBloqueo por cada carta en tu mano."
+    ]
+  },
+  "Melange": {
+    "NAME": "Mezcla",
+    "FLAVOR": "Arenas misteriosas de origen desconocido. Huele a canela.",
+    "DESCRIPTIONS": [
+      "Siempre que barajes tu pila de extracción, #yAdivina #b",
+      "."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "No puedes tener luz sin oscuridad. ¿O tal vez sí?",
+    "DESCRIPTIONS": [
+      "Cuando juegues una #yHabilidad, gana #b1 de #yFuerza temporal."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Botella de tinta",
+    "FLAVOR": "Cuando se agota, parece rellenarse con un color diferente.",
+    "DESCRIPTIONS": [
+      "Cuando juegas #b10 cartas, roba #b1 carta."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Barra de Tungsteno",
+    "FLAVOR": "Es muy muy pesada.",
+    "DESCRIPTIONS": [
+      "Cada vez que fueras a perder PV, pierde #b",
+      " menos."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Agua Pura",
+    "FLAVOR": "Filtrada usando arena fina y sin ninguna impureza.",
+    "DESCRIPTIONS": [
+      "Al principio de cada combate, añade un #yMilagro a tu mano."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Agua Bendita",
+    "FLAVOR": "Recolectada antes de que la Aguja existiera.",
+    "DESCRIPTIONS": [
+      "Reemplaza #pAgua #pPura. Al principio de cada combate, añade #b3 #yMilagros a tu mano."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Cornamusa",
+    "FLAVOR": "Es agradable tenerla en tu mano. ¿Para que sirve?",
+    "DESCRIPTIONS": [
+      "Al principio de tu segundo turno, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Rueda del Capitán",
+    "FLAVOR": "Baratija de madera tallada con precisión delicada. Tiene un nombre esculpido, pero está en otro idioma.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu tercer turno, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Ojo Dorado",
+    "FLAVOR": "Observa las mentes de aquellos que están cerca, prediciendo sus futuros movimientos.",
+    "DESCRIPTIONS": [
+      "Cuando #yAdivinas, #yAdivina #b",
+      " cartas adicionales."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damru",
+    "FLAVOR": "El sonido de un pequeño tambor te mantiene despierto, allanando el camino.",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, gana #b",
+      " #yMantra."
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Tombak Wabah",
+    "DESCRIPTION": [
+      "Lawan memberi #b",
+      "% damage tambahan."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Perisai Wabah",
+    "DESCRIPTION": [
+      "Lawan punya #b",
+      "% HP tambahan."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labirin Waktu",
+    "DESCRIPTION": [
+      "Kamu hanya boleh memainkan #b",
+      " kartu tiap giliran.",
+      "Aku hanya bisa memainkan hingga NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Benak Sinting",
+    "DESCRIPTION": [
+      "Pada akhir giliran, tambahkan #b",
+      " kartu Status acak di atas tumpukan ambil.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Terkutuk",
+    "DESCRIPTION": [
+      "Setiap kali kamu mengalahkan Bos, peroleh #b",
+      " kartu #yKutukan acak.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Otak Dengkul",
+    "DESCRIPTION": [
+      "Ambil #b",
+      " kartu lebih sedikit tiap giliran.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Wabah Mimic",
+    "DESCRIPTION": [
+      "Ruangan Harta pada babak selanjutnya diganti oleh Elit. Elit tidak lagi menjatuhkan Pusaka."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Kenyang",
+    "DESCRIPTION": [
+      "Kamu tidak bisa meningkatkan HP Maksimum lagi. Semua penyembuhan dibagi dua."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Trofi Menjijikkan",
+    "DESCRIPTION": [
+      "Ketika diambil, peroleh #b",
+      " #rHarga #rDiri.",
+      "Harga Dirimu terkoyak-koyak..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Durian",
+    "DESCRIPTION": [
+      "Kamu kehilangan #b",
+      "% HP Maksimum."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Intisari Kehampaan",
+    "DESCRIPTION": [
+      "Dapatkan #b",
+      " lebih sedikit [E] tiap permulaan giliran."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Dihantui",
+    "DESCRIPTION": [
+      "Lawan memiliki #b",
+      " #yIntangible pada awal pertarungan."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Augmentasi Purbakala",
+    "DESCRIPTION": [
+      "Lawan memulai pertarungan dengan #b",
+      " #yArtefak, #b",
+      " #yZirah #yBerpelat, and #b",
+      " #yRegenerasi."
+    ]
+  }
+}

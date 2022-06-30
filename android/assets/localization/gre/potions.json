@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Αρχαίο Φίλτρο",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΜαγική #yΑσπίδα."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Φίλτρο Επίθεσης",
+    "DESCRIPTIONS": [
+      "Βάλε μια τυχαία επίθεση στο χέρι σου, κοστίζει #b0 αυτό το γύρο.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Φίλτρο Μπλοκαρίσματος",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΜπλοκάρισμα."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Φίλτρο Αίματος",
+    "DESCRIPTIONS": [
+      "Γιάτρεψε #b",
+      "% των μέγιστων ΒΥ."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Φίλτρο Δεξιότητας",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΔεξιότητα."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Ελιξήριο",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#yΕξάντλησε όλες τις κάρτες #yΚατάσταση και #yΚατάρα απ΄το χέρι σου.",
+      "",
+      "Κανένα αποτέλεσμα..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Φίλτρο Ενέργειας",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " Ενέργεια."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Εντροπικό Απόσταγμα",
+    "DESCRIPTIONS": [
+      "Γέμισε όλες τις άδειες θέσεις Φίλτρων με τυχαία Φίλτρα."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Ουσία Ατσαλιού",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΕπιστρωμένο #yΜπλοκάρισμα."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Εκρηκτικό Φίλτρο",
+    "DESCRIPTIONS": [
+      "Κάνε #b",
+      " ζημιά σε ΌΛΟΥΣ τους εχθρούς."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Νεράιδα σε Μπουκαλάκι",
+    "DESCRIPTIONS": [
+      "Όταν θα πέθαινες, Γιατρέψου στο #b10% των Μέγιστων ΒΥ και πέταξε αυτό το Φίλτρο.",
+      "% of your Max HP instead and discard this potion."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Φίλτρο Φόβου",
+    "DESCRIPTIONS": [
+      "Εφάρμοσε #b",
+      " #yΕυάλωτος."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Φίλτρο Φωτιάς",
+    "DESCRIPTIONS": [
+      "Κάνε #b",
+      " ζημιά."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Φίλτρο Συγκέντρωσης",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΣυγκέντρωση."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Φρουτοχυμός",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " Μέγιστους ΒΥ."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Απόσταγμα Τζόγου",
+    "DESCRIPTIONS": [
+      "Απέρριψε όσες κάρτες θέλεις και τράβηξε τόσες."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Φάντασμα σε Γυάλα",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΆυλος."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Φίλτρο Υγείας",
+    "DESCRIPTIONS": [
+      "Γιάτρεψε #b",
+      " ΒΥ."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Υγρός Μπρούτζος",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΑγκάθια."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Δηλητηριώδες Φίλτρο",
+    "DESCRIPTIONS": [
+      "Εφάρμοσε #b",
+      " #yΔηλητήριο."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Θέση Φίλτρου",
+    "DESCRIPTIONS": [
+      "Χρησιμοποίησε Φίλτρα στη μάχη για να #gενισχυθείς ή να #rενοχλήσεις εχθρούς.",
+      "Θέση Φίλτρου"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Φίλτρο Δύναμης",
+    "DESCRIPTIONS": [
+      "Πάρε μια τυχαία Δύναμη στο χέρι σου, κοστίζει #b0 αυτό το γύρο.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Φίλτρο Αναγέννησης",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΑναγέννηση.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Φίλτρο Ικανότητας",
+    "DESCRIPTIONS": [
+      "Πάρε μια τυχαία Ικανότητα στο χέρι, κοστίζει #b0 αυτό το γύρο.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Βόμβα Καπνού",
+    "DESCRIPTIONS": [
+      "Φύγε απο τη μάχη (εκτός αρχηγών). Δεν παίρνεις ανταμοιβή.",
+      "Είμαι περικυκλωμένος!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Έλαιο Σαυρόφιδου",
+    "DESCRIPTIONS": [
+      " Πάθε #yΣύγχυση. Τράβηξε #b",
+      " κάρτες.",
+      " κάρτες."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Φίλτρο Ταχύτητας",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΔεξιότητα. Στο τέλος του γύρου σου, χάσε #b",
+      " #yΔεξιότητα."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Φίλτρο Στεροειδών",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΔύναμη. Στο τέλος του γύρου σου, χάσε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Φίλτρο Δύναμης",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Γρήγορο Φίλτρο",
+    "DESCRIPTIONS": [
+      "",
+      "Τράβηξε #b",
+      " κάρτες."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Φίλτρο Αδυναμίας",
+    "DESCRIPTIONS": [
+      "Εφάρμοσε #b",
+      " #yΑδύναμος."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Heart of Iron",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "CunningPotion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yShivs to your hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion Of Capacity",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence Of Darkness",
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+      " #yDark for each orb slot."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Bottled Miracle",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilled Chaos",
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Liquid Memories",
+    "DESCRIPTIONS": [
+      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b ",
+      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Cultist Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Colorless Potion",
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Blessing of the Forge",
+    "DESCRIPTIONS": [
+      "Upgrade all cards in your hand."
+    ]
+  }
+}

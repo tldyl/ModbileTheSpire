@@ -1,0 +1,649 @@
+{
+    "Apology Slime": {
+        "MOVES": [],
+        "NAME": "WWWWWWW WWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "CorruptHeart": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWW WWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Nemesis": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Chosen": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            "~WWWWWW...~"
+        ]
+    },
+    "Byrd": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWW",
+        "DIALOG": [
+            "@WWW!@ WW @WWWWW@",
+            "WWWWWWW..."
+        ]
+    },
+    "Snecko": {
+        "MOVES": [
+            "WWWWWWWWWW WWWWW",
+            "WWWW WWWW",
+            "WWWW"
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "GremlinWizard": {
+        "MOVES": [
+            "WWWWWWWW",
+            "WWWWWWWW WWWWW"
+        ],
+        "NAME": "WWWWWWW WWWWWW",
+        "DIALOG": [
+            "@WWWW'W@ @WWWW!@ WW @WWWW@ @WW@ @WWW'W@ @WWWW!@ ",
+            "WWWWWWWW WW!",
+            "~WWWW~ ~WW~ ~WWWWW!!~",
+            "@W...@ @WWW...@ WW @WWWW...!@",
+            "~WWW...~ WW ~WWWWWWWWW...~ WW ~WWW...~"
+        ]
+    },
+    "BanditChild": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            "WWWWWWWW!!!!"
+        ]
+    },
+    "Orb Walker": {
+        "MOVES": [
+            "WWWWWWWW WW"
+        ],
+        "NAME": "WWW WWWWWW",
+        "DIALOG": [
+            "WWWWWWWWWW WW WWWWWWW."
+        ]
+    },
+    "TheGuardian": {
+        "MOVES": [
+            "WWWWWWWWW WWWW",
+            "WWWWWW WWWW",
+            "WWWW",
+            "WWWW WWWW",
+            "WWWWWWWWW",
+            "WWWWWWWW WW",
+            "WWWW WWWWW"
+        ],
+        "NAME": "WWW WWWWWWWW",
+        "DIALOG": [
+            "#W~..WWWWWWW...~ WW #W~...WWWW...~",
+            "WWWWWWWWW...",
+            "#W@WWWWWWW@ WW #W@WWWWWWW@ WW #W@WWWWWWW@",
+            "#W@WWWWWW@ WW #W@WWWWWW@ WW #W@WWWWWW@"
+        ]
+    },
+    "TheGuardianOrb": {
+        "MOVES": [],
+        "NAME": "",
+        "DIALOG": []
+    },
+    "GremlinWarrior": {
+        "MOVES": [
+            "WWWW"
+        ],
+        "NAME": "WWW WWWWWWW",
+        "DIALOG": [
+            "@WWWW'W@ @WWWW!@ WW @WWWW@ @WW@ @WWW'W@ @WWWW!@ ",
+            "@WWWWW@ @WW@ WW @WWW@ @WWWW!@",
+            "W'W WWWWW WWWW!"
+        ]
+    },
+    "GremlinThief": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWW WWWWWWW",
+        "DIALOG": [
+            "@WWWW'W@ @WWWW!@ WW @WWWW@ @WW@ @WWW'W@ @WWWW!@ ",
+            "@W'WW@ @WW@ WW @WWW@ @WWWW!@ ",
+            "@WWWW@ @WWW!?@"
+        ]
+    },
+    "Cultist": {
+        "MOVES": [
+            "WWWW WWWWWW",
+            "WWWWWWW WWWWWWWW",
+            "WWWWWWWWWWW"
+        ],
+        "NAME": "WWWWWWW",
+        "DIALOG": [
+            "@WW@ @WWWWW@ @WW@ WW @WWWWWWWWW!@",
+            "@WWW@ @WW@ @WWW@ WW @WWWWWW@ @WWWW!@",
+            "~WW~ ~WWWWWW~ WW ~WWWW~ ~WWWWWWW...~"
+        ]
+    },
+    "FlameBruiser": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWW WWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "GremlinLeader": {
+        "MOVES": [
+            "WWWWW!"
+        ],
+        "NAME": "WWWWWWW WWWWWW",
+        "DIALOG": [
+            "WWW'W WWWW WWWW WW!",
+            "WW'WW WWW WWWW WWW!",
+            "WWW WW WWWW!",
+            "@WWWWWWW@ WW @WWWWWWWWW!@",
+            "@WWWWWWWWW!@"
+        ]
+    },
+    "Centurion": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "GiantHead": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWW WWWW",
+        "DIALOG": [
+            "~WW~ ~WW~ ~WWWW~",
+            "~WWWW~ ~WWW~",
+            "~WWWW~ ~WWWW~ WW ~WWWW~ ~WWWW~",
+            "~WWW~ ~WWW~ ~WWW~ WW ~WWWWW~ ~WWWW?~"
+        ]
+    },
+    "BanditBear": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "BanditLeader": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWW",
+        "DIALOG": [
+            "WWWW WW' WWWW!!",
+            "WWW WWWW WWW WWW WWWW!!",
+            "WWWWWWWWW WWWW!"
+        ]
+    },
+    "SpikeSlime_M": {
+        "MOVES": [
+            "WWWW"
+        ],
+        "NAME": "WWWWW WWWWW (W)",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "SpikeSlime_S": {
+        "MOVES": [],
+        "NAME": "WWWWW WWWWW (W)",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Mugger": {
+        "MOVES": [
+            "WWWWW",
+            "WWW"
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            "WWWW WW WWWW!",
+            "W'W WWWWW WWWW!"
+        ]
+    },
+    "TimeEater": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWW WWWWW",
+        "DIALOG": [
+            "~WW...~ WW ~..WWWWWWW...~",
+            "~WWWWWWW..~ WW @WWWWWWWW!@"
+        ]
+    },
+    "TheCollector": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWW WWWWWWWWW",
+        "DIALOG": [
+            "@WWW@ @WWW@ @WWWW!@"
+        ]
+    },
+    "TorchHead": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWW WWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "AcidSlime_M": {
+        "MOVES": [
+            "WWWWWWWWW WWWW",
+            "WWWW"
+        ],
+        "NAME": "WWWW WWWWW (W)",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "AcidSlime_S": {
+        "MOVES": [],
+        "NAME": "WWWW WWWWW (W)",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "SnakePlant": {
+        "MOVES": [
+            "WWWWWWWWWW WWWWWW"
+        ],
+        "NAME": "WWWWW WWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Champ": {
+        "MOVES": [
+            "WWWWWWWWW WWWWWW",
+            "WWWWWWW",
+            "WWWW WWWW"
+        ],
+        "NAME": "WWW WWWWW",
+        "DIALOG": [
+            "WWW WWWW WWWW W WWWWWW?",
+            "WWWW WW WW!",
+            "WW WWWW WWWWW! WW @WWWWWW!@",
+            "WWWW W WWWW WWWW! WW WWWWWW WWWWWWWW!",
+            "~WWW'WW~ ~WWWW~ ~WW~ ~WWW...~",
+            "@WWWWWW??@ WW @WWWWWWWWWW!!@",
+            "~WWW~ ~.~ ~.~ ~.~",
+            "WWWW WW WWWWW!"
+        ]
+    },
+    "Exploder": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "FungiBeast": {
+        "MOVES": [
+            "WWWW"
+        ],
+        "NAME": "WWWWW WWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Spiker": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "SlaverBoss": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Repulsor": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Looter": {
+        "MOVES": [
+            "WWWWW",
+            "WWW"
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            "WWWW WW WWWW WWWW!",
+            "@WWWWWWWW!@",
+            "WWWWW'W WW WWWWW WWWW... WWW'W WWW WWWW...",
+            "WWWWWW WWW WWW WWWWWW WWWW"
+        ]
+    },
+    "Sentry": {
+        "MOVES": [
+            "WWWWWWWWWWWW"
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "FuzzyLouseDefensive": {
+        "MOVES": [
+            "WWWW WWW"
+        ],
+        "NAME": "WWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "FuzzyLouseNormal": {
+        "MOVES": [
+            "WWWW"
+        ],
+        "NAME": "WWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Puppeteer": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Shelled Parasite": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWW WWWWWWWW",
+        "DIALOG": []
+    },
+    "BronzeOrb": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Hexaghost": {
+        "MOVES": [
+            "WWWWWWW",
+            "WWWW",
+            "WWWWWWW"
+        ],
+        "NAME": "WWWWWWWWW",
+        "DIALOG": []
+    },
+    "HexaghostBody": {
+        "MOVES": [],
+        "NAME": "",
+        "DIALOG": []
+    },
+    "HexaghostOrb": {
+        "MOVES": [],
+        "NAME": "",
+        "DIALOG": []
+    },
+    "SlaverRed": {
+        "MOVES": [
+            "WWWWWW",
+            "WWWWWWWW"
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "SlaverBlue": {
+        "MOVES": [
+            "WWWW"
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "SlimeBoss": {
+        "MOVES": [
+            "WWWW",
+            "WWWWWWWWW",
+            "WWWWW",
+            "WWWW WWWWW"
+        ],
+        "NAME": "WWWWW WWWW",
+        "DIALOG": [
+            "~WWWWW...~ WW #W~WWWWW!!!~",
+            "WWWWWWWWWWW!"
+        ]
+    },
+    "AcidSlime_L": {
+        "MOVES": [
+            "WWWWWWWWW WWWW",
+            "WWWWW",
+            "WWWW"
+        ],
+        "NAME": "WWWW WWWWW (W)",
+        "DIALOG": [
+            "WWWWWWWWWWW!"
+        ]
+    },
+    "GremlinTsundere": {
+        "MOVES": [
+            "WWWWWWW",
+            "WWWWWW WWWW"
+        ],
+        "NAME": "WWWWWW WWWWWWW",
+        "DIALOG": [
+            "@WWWW'W@ @WWWW!@ WW @WWWW@ @WW@ @WWW'W@ @WWWW!@ ",
+            "~WWWW~ ~WWW...~",
+            "WWWW WW WW WWWW..."
+        ]
+    },
+    "Lagavulin": {
+        "MOVES": [
+            "WWWWWW WWWW"
+        ],
+        "NAME": "WWWWWWWWW",
+        "DIALOG": [
+            "WWWWWWW!",
+            "... WW .....",
+            "...? WW .....!?",
+            "@!!!@ WW @!???@"
+        ]
+    },
+    "JawWorm": {
+        "MOVES": [
+            "WWWWWW",
+            "WWWWWW"
+        ],
+        "NAME": "WWW WWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Donu": {
+        "MOVES": [
+            "WWWWWW WW WWWWW"
+        ],
+        "NAME": "WWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "Serpent": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "BronzeAutomaton": {
+        "MOVES": [
+            "WWWWW WWWW"
+        ],
+        "NAME": "WWWWWW WWWWWWWWW",
+        "DIALOG": [
+            "WWWWWWW!"
+        ]
+    },
+    "Healer": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "GremlinFat": {
+        "MOVES": [
+            "WWWWW"
+        ],
+        "NAME": "WWW WWWWWWW",
+        "DIALOG": [
+            "@WWWW'W@ @WWWW!@ WW @WWWW@ @WW@ @WWW'W@ @WWWW!@",
+            "W'WW WWW #WWWW #WWWW!",
+            "@WW@ @WWW@ WW @WW@ @WWW@ WW @WW@ @WW!@"
+        ]
+    },
+    "Deca": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "BookOfStabbing": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWW WW WWWWWWWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "AwakenedOne": {
+        "MOVES": [
+            "WWWW WWWWWW",
+            "WWWW WWWW",
+            "WWWWWWW",
+            "WWWWWW"
+        ],
+        "NAME": "WWWWWWWW WWW",
+        "DIALOG": [
+            "~WWW~ ~.~ ~.~ ~.~",
+            "~WW~ ~.~ ~.~ ~.~ ~WW~ ~.~ ~.~ WW ~.~ ~.~ ~WW~ ~.~ ~.~ ~.~"
+        ]
+    },
+    "SpikeSlime_L": {
+        "MOVES": [
+            "WWWW",
+            "WWWWW"
+        ],
+        "NAME": "WWWWW WWWWW (W)",
+        "DIALOG": [
+            "WWWWWWWWWWW!"
+        ]
+    },
+    "FireOrb": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWW WWW",
+        "DIALOG": [
+            ""
+        ]
+    },
+    "SphericGuardian": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWWWWWW WWWWWWWW",
+        "DIALOG": [
+            "~WWWWWWWW~ WW ~WWWWWWWW~"
+        ]
+    },
+    "Darkling": {
+        "MOVES": [
+            "WWWWW! WWWWW!"
+        ],
+        "NAME": "WWWWWWWW",
+        "DIALOG": [
+            "WWWWWWWWW..."
+        ]
+    },
+    "Maw": {
+        "MOVES": [
+            ""
+        ],
+        "NAME": "WWW WWW",
+        "DIALOG": [
+            "@WWWWWWWWWWWWW!!@"
+        ]
+    },
+    "GremlinNob": {
+        "MOVES": [
+            "WWWWW WWWW",
+            "WWWW WWWW"
+        ],
+        "NAME": "WWWWWWW WWW",
+        "DIALOG": [
+            "@WWWWWWWWWWWWWWWW!!@"
+        ]
+    }
+}

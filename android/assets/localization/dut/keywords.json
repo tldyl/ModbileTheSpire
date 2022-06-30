@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefact"
+      ],
+      "DESCRIPTION": "Negeert het eerstvolgende negatieve effect."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "blok",
+        "blokkeert"
+      ],
+      "DESCRIPTION": "Tot de volgende beurt, voorkomt schade."
+    },
+    "BURN": {
+      "NAMES": [
+        "brandwond",
+        "brandwonden"
+      ],
+      "DESCRIPTION": "Brandwonden zijn onspeelbare statuskaarten die schade op jou aanrichten."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "kanaliseer",
+        "gekanaliseerd"
+      ],
+      "DESCRIPTION": "Een bol Kanaliseren plaatst het in je eerste lege sleuf. Als je geen lege sleuf hebt, dan wordt je eerste Bol automatisch #yOpgeroepen om plaats vrij te maken."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "verward"
+      ],
+      "DESCRIPTION": "Wanneer je een kaart trekt, worden zijn kosten willekeurig toegewezen."
+    },
+    "CURSE": {
+      "NAMES": [
+        "vloek"
+      ],
+      "DESCRIPTION": "Vloekkaarten zijn negatieve kaarten die in je stok blijven."
+    },
+    "DARK": {
+      "NAMES": [
+        "duistere",
+        "duistere+"
+      ],
+      "DESCRIPTION": "Bol: Schade neemt toe elke beurt. Als het #yOpgeroepen wordt, richt het zijn schade aan op de vijand met de minste LP."
+    },
+    "DAZED": {
+      "NAMES": [
+        "versuft"
+      ],
+      "DESCRIPTION": "Versuft zijn onspeelbare statuskaarten."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "behendigheid"
+      ],
+      "DESCRIPTION": "Behendigheid verbetert Blok verkregen van kaarten."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "etherisch"
+      ],
+      "DESCRIPTION": "Als deze kaart in je hand is aan het einde van je beurt, dan wordt het uitgeput. Uitgeputte kaarten worden verwijderd uit je stok tot het einde van het gevecht."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "oproepen",
+        "opgeroepen"
+      ],
+      "DESCRIPTION": "Consumeer je meest rechtse Bol en gebruik zijn Oproep effect."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "uitputten",
+        "uitgeput",
+        "put-uit"
+      ],
+      "DESCRIPTION": "Verwijderd tot het einde van het gevecht."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus verbetert de effectiviteit van #yGekanaliseerde Bollen ."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragiel"
+      ],
+      "DESCRIPTION": "Terwijl je fragiel bent, krijg je #b25% minder #yBlok van kaarten."
+    },
+    "FROST": {
+      "NAMES": [
+        "vorst",
+        "vorst+"
+      ],
+      "DESCRIPTION": "Bol: Krijg #yBlok."
+    },
+    "INNATE": {
+      "NAMES": [
+        "aangeboren"
+      ],
+      "DESCRIPTION": "Begin elk gevecht met deze kaart in je hand."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "ontastbaar"
+      ],
+      "DESCRIPTION": "Verminder ALLE genomen schade en LP verlies tot #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "bliksem",
+        "bliksem+"
+      ],
+      "DESCRIPTION": "Bol: Richt schade aan op willekeurige vijanden."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "vergrendeld"
+      ],
+      "DESCRIPTION": "Deze kaart moet nog ontgrendeld worden."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "in-vizier"
+      ],
+      "DESCRIPTION": "Doelwitten die in het vizier zijn ontvangen #b50% meer schade van Bollen."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener kaarten mogen alleen worden gespeeld als de eerste kaart elke beurt."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Bol: Verkrijg Energie."
+    },
+    "POISON": {
+      "NAMES": [
+        "gif",
+        "vergiftigd"
+      ],
+      "DESCRIPTION": "Vergiftigde wezens verliezen LP aan het begin van hun beurt. Elke beurt wordt Gif verminderd met #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "behoud",
+        "behoudt",
+        "behouden"
+      ],
+      "DESCRIPTION": "Behouden kaarten worden niet afgelegd aan het einde van de beurt."
+    },
+    "SHIV": {
+      "NAMES": [
+        "mes",
+        "messen"
+      ],
+      "DESCRIPTION": "Messen zijn #b0 kostende Aanval kaarten die Uitputten."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status"
+      ],
+      "DESCRIPTION": "Statuskaarten worden verwijderd aan het einde van het gevecht."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "sterkte"
+      ],
+      "DESCRIPTION": "Sterkte voegt extra schade toe aan aanvallen."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "slag"
+      ],
+      "DESCRIPTION": "Elke kaart met het woord \"Slag\" in zijn naam."
+    },
+    "TEXT": [
+      "Energie wordt gebruikt om kaarten uit je hand te spelen."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "doornen"
+      ],
+      "DESCRIPTION": "Wanneer je #yAanval schade neemt, richt schade aan op de aanvaller."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformeer"
+      ],
+      "DESCRIPTION": "Getransformeerde kaarten worden een andere willekeurige kaart van welke zeldzaamheid dan ook."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "onbekend"
+      ],
+      "DESCRIPTION": "Deze kaart moet je nog tegenkomen."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "onspeelbaar"
+      ],
+      "DESCRIPTION": "Onspeelbare kaarten kunnen niet worden gespeeld uit je hand."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "upgrade",
+        "geüpgraded"
+      ],
+      "DESCRIPTION": "Het upgraden van kaarten maakt ze sterker. Kaarten kunnen maar één keer geüpgraded worden."
+    },
+    "VOID": {
+      "NAMES": [
+        "leegte",
+        "leegtes"
+      ],
+      "DESCRIPTION": "Leegtes zijn onspeelbare statuskaarten die energie consumeren wanneer ze getrokken worden."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "kwetsbaar"
+      ],
+      "DESCRIPTION": "Kwetsbare wezens nemen #b50% meer schade van Aanvallen."
+    },
+    "WEAK": {
+      "NAMES": [
+        "zwak",
+        "verzwakken",
+        "verzwakt",
+        "verzwakt"
+      ],
+      "DESCRIPTION": "Verzwakte wezens richten #b25% minder schade aan met Aanvallen."
+    },
+    "WOUND": {
+      "NAMES": [
+        "wond",
+        "wonden"
+      ],
+      "DESCRIPTION": "Wonden zijn onspeelbare statuskaarten."
+    },
+    "STANCE": {
+      "NAMES": [
+        "houding",
+        "houdingen"
+      ],
+      "DESCRIPTION": "Je kan maar één houding tegelijkertijd hebben."
+    },
+    "WRATH": {
+      "NAMES": [
+        "toorn"
+      ],
+      "DESCRIPTION": "In deze #yHouding richt je dubbele schade aan, maar ontvang je ook dubbele schade."
+    },
+    "CALM": {
+      "NAMES": [
+        "kalmte"
+      ],
+      "DESCRIPTION": "Bij het verlaten van deze #yHouding, krijg [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "goddelijkheid"
+      ],
+      "DESCRIPTION": "Bij het overgaan in deze #yHouding, krijg [W] [W] [W] . Aanvallen richten drie keer zoveel schade aan. Verlaat deze #yHouding aan het begin van je volgende beurt."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "door geweld"
+      ],
+      "DESCRIPTION": "Wanneer je #b10 #yMantra hebt verkregen, ga over in #yGoddelijkheid."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Kijk naar de bovenste X kaarten van je trekstapel. Je mag elk van deze wegleggen."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regenereren"
+      ],
+      "DESCRIPTION": "Regenereren geneest LP aan het einde van je beurt. Na elke beurt verlaagt Regenereren met #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "kracht"
+      ],
+      "DESCRIPTION": "Je volgende Aanval richt extra schade aan."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritueel"
+      ],
+      "DESCRIPTION": "Krijg #ySterkte aan het einde van je beurt."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fataal"
+      ],
+      "DESCRIPTION": "Activeert wanneer deze kaart een niet-volgeling vijand doodt."
+    }
+  }
+}

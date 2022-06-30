@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Kalau dek ambilmu kosong, acak ulang dek buang dan masukkan ke dek ambil. NL NL Lihat isi dek buangmu.",
+      "Kalau dek ambilmu kosong, acak ulang dek buang dan masukkan ke dek ambil. NL NL Lihat isi dek buangmu."
+    ],
+    "LABEL": [
+      "Dek Buang"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Pada awal giliran, ambil NL #b",
+      " kartu dari sini. NL NL Lihat isi dek ambil (teracak).",
+      " kartu dari sini. NL NL Lihat isi dek ambil.",
+      " kartu diambil dari sini. NL NL Lihat kartu-kartu di dalam dek ambilmu (teracak).",
+      " kartu diambil dari sini. NL NL Lihat kartu-kartu di dalam dek ambilmu."
+    ],
+    "LABEL": [
+      "Dek Ambil"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Tekan tombol ini untuk mengakhiri giliranmu. NL NL Buang kartu tanganmu, musuh akan mengambil giliran mereka, lalu kamu mengambil ",
+      " kartu, kemudian giliranmu akan mulai kembali."
+    ],
+    "LABEL": [
+      "Akhiri Giliran"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Jumlah energimu. Kartu memerlukan energi untuk dimainkan."
+    ],
+    "LABEL": [
+      "Energi"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Kartu perlu energi untuk dimainkan! NL Orb di pojokan kiri-bawah ini menandakan sisa energi yang kamu miliki untuk giliran ini."
+    ],
+    "LABEL": [
+      "Harga Energi"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Lihat kartu yang dihanguskan pada pertarungan ini.",
+      "Lihat kartu yang dihanguskan pada pertarungan ini."
+    ],
+    "LABEL": [
+      "Kartu Hangus"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Tip: ",
+      "Oke Mengerti"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Kalahkan lawan dengan memainkan kartu tanganmu! NL NL Kartu memerlukan #yEnergi untuk dimainkan. NL Kalau #yEnergimu habis, akhiri giliranmu. NL NL Pada tiap awal giliranmu, kartu baru akan diambil dari #yDek #yAmbil dan #yEnergimu akan diisi ulang.",
+      "Mainkan kartu pertahanan untuk memperoleh #yBlok ketika lawan akan menyerangmu. NL NL #yBlok mengurangi damage yang kamu terima, NL tetapi akan #rhilang pada awal giliranmu selanjutnya.",
+      "Pada giliranmu, kamu bisa mengecek #yNiat lawanmu di atas mereka. NL NL Kalau mereka berniat menyerangmu, segera bangun #yBlok!"
+    ],
+    "LABEL": [
+      "Lanjut",
+      "Siap!",
+      "Tutorial",
+      "(Hal. ",
+      " of 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Data Gameplay dan rekaman error dikirimkan ke Mega Crit untuk pengembangan game. NL NL Identitas personal TIDAK AKAN direkam dan dikirim.",
+      "Slay the Spire berjalan paling lancar pada mode true fullscreen. Disarankan untuk macOS agar Docknya dan Menubarnya disembunyikan. NL CATATAN: Pada PC, alt-tab ke Slay the Spire bisa jadi tidak berfungsi pada fullscreen.",
+      "Karena Slay the Spire bukan game berat, kami merekomendasikan Borderless Fullscreen untuk alt-tab yang efisien. Paling baik di PC.",
+      "Catatan: Kalau VSync dinyalakan, Framerate Maks tidak bisa melebihi frame rate monitormu.",
+      "Support stik controller masih belum sempurna untuk tampilan ini.",
+      "Ubah monitor yang digunakan ketika memasuki mode Fullscreen"
+    ],
+    "LABEL": [
+      "Metrik",
+      "Fullscreen",
+      "Borderless Fullscreen",
+      "Framerate Maks",
+      "Monitor Fullscreen"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Kartu ini menerapkan Kekuatan ke kamu jika digunakan. NL Kekuatan adalah efek pasif yang berlangsung sampai akhir pertarungan.",
+      "Kartu memerlukan energi untuk dimainkan! NL Orb di pojok bawah-kiri ini menandakan sisa energimu pada giliran kali ini.",
+      "Tanganku #rsudah #rPenuh!",
+      "Kapasitas Orb sudah #rMaksimum.",
+      "Aku tidak punya petak Orb."
+    ],
+    "LABEL": [
+      "Kartu Kekuatan",
+      "Harga Energi"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Lempar ramuan ini ke musuhmu.",
+      "Minum ramuan ini.",
+      "Buang ramuan ini NL #r(tidak #rbisa #rdikembalikan)"
+    ],
+    "LABEL": [
+      "Lempar",
+      "Minum",
+      "Buang"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Minum atau gunakan ramuan untuk membantumu! NL Ramuan yang tidak digunakan akan disimpan sampai akhir petualangan."
+    ],
+    "LABEL": [
+      "Ramuan"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Diskusikan strategi baru dan efektif dengan pemain lain.",
+      "Sebelum bos pasti ada tempat istirahat.",
+      "Belanjakan uangmu di toko! (Tip ini dibayar oleh Pedagang)",
+      "Jangan main terus. Istirahat sesekali lah.",
+      "Semua perhitungan persen dibulatkan ke bawah.",
+      "Saat bertarung, kamu bisa mengecek isi dek ambil dan dek buang.",
+      "Tidak ada batasan jumlah Pusaka yang bisa kamu miliki.",
+      "Peti harta selalu mengeluarkan Pusaka.",
+      "Tiap jalan yang kamu ambil selalu memiliki setidaknya 1 ruang harta.",
+      "Elit selalu menjatuhkan Pusaka.",
+      "Kamu tidak akan pernah memiliki dua Pusaka yang sama dalam satu run.",
+      "Kartu jarang memiliki bingkai dan panji berwarna biru.",
+      "Kartu langka memiliki bingkai dan panji berwarna keemasan.",
+      "Kelangkaan kartu bisa dilihat dari warna bingkai dan panjinya.",
+      "Terkadang, tidak mengambil kartu sebagai imbalan adalah pilihan tepat.",
+      "Kartu yang dihanguskan tidaklah dihapus dari dekmu.",
+      "Kamu hanya bisa memegang hingga 10 kartu di tangan.",
+      "Kartu status dibuang pada akhir pertarungan.",
+      "Kartu kutukan tidak bisa ditingkatkan. Ngapain coba?",
+      "Kartu yang ditingkatkan bisa muncul sebagai imbalan setelah Babak 1.",
+      "Ruangan misteri bisa berisi harta, monster, toko, atau event.",
+      "Pedagang tidak menerima pengembalian barang. Memang dia sialan.",
+      "Biaya layanan penghapusan kartu selalu naik tiap penggunaan.",
+      "Layanan penghapusan kartu hanya bisa digunakan sekali tiap toko.",
+      "Damage dari ramuan, pusaka, dan kekuatan tidak termasuk sebagai damage serangan.",
+      "Efek yang membuat kartu acak dalam pertarungan tidak akan pernah menyembuhkanmu."
+    ],
+    "LABEL": [
+      "Kamu bisa membuang ramuan untuk memberi ruang ke ramuan lain."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Klik kanan kartu pada layar hadiah kartu untuk melihat info detail.",
+      "Info detail bisa dilihat dengan mengarahkan mouse pada objek tertentu.",
+      "Klik kanan bisa digunakan untuk membatalkan kartu yang akan kamu mainkan.",
+      "Arahkan mouse ke lawan untuk melihat nama dan info Kekuatan mereka.",
+      "Gunakan scroll-wheel atau geser layar untuk menggulirkan tampilan ke atas/bawah.",
+      "Ketika kamu mengecek item, cursormu akan berbentuk kaca pembesar.",
+      "Gunakan scroll-wheel atau geser layar untuk menggulirkan tampilan peta, dek, dll."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Pusaka yang diperoleh di sepanjang Spire memberikanmu bonus yang istimewa, berlangsung sepanjang run. NL Mereka bisa diperoleh dengan mengalahkan lawan yang kuat atau di dalam peti.",
+      "Pusaka ini belum ditemukan.",
+      "Kekuatan Pusaka ini sudah habis."
+    ],
+    "LABEL": [
+      "Pusaka",
+      "Misteri",
+      "Pusaka ini masih terkunci.",
+      "Terkunci"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Jangan lupa dengan hadiahmu!",
+      "Jangan lupa dengan hadiahmu!"
+    ],
+    "LABEL": [
+      "Hadiah"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Hapus satu kartu dari dekmu. Biaya layanan ini meningkat #b",
+      " untuk run kali ini."
+    ],
+    "LABEL": [
+      "Layanan Penghapusan Kartu"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Kalau tidak ada kartu di dek ambil, dek buangmu akan dikocok dan dimasukkan ke dek ambil."
+    ],
+    "LABEL": [
+      "Dek Ambil Kosong?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Buka menu game. NL NL Ubah pengaturan grafik, audio, dan gameplay di sini.",
+      "Lihat semua kartu di dek kartumu.",
+      "Lihat peta Babak ini.",
+      "Kalau kamu kehabisan HP, mati.",
+      "Jumlah uang yang kamu miliki. Emas adalah mata uang di Spire.",
+      "",
+      "",
+      "Rekaman waktu untuk game kali ini."
+    ],
+    "LABEL": [
+      "Pengaturan",
+      "Dek Kartu",
+      "Peta",
+      "Hit Points (HP)",
+      "Kantong Uang",
+      "Timer"
+    ]
+  }
+}

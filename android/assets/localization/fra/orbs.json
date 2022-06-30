@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPassif: À la fin du tour, augmente les dégâts de cet Orbe de #b",
+      ". NL #yActivation: Inflige #b",
+      " dégâts à l'ennemi qui a le moins de PV."
+    ],
+    "NAME": "Orbe Obscur"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Les Orbes peuvent être canalisés dans ces emplacements."
+    ],
+    "NAME": "Emplacement d'Orbe"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPassif: À la fin du tour, gagnez #b",
+      " #yd'Armure. NL #yActivation: Gagnez #b",
+      " #yd'Armure."
+    ],
+    "NAME": "Orbe Glaciaire"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPassif: À la fin du tour, infligez #b",
+      " dégâts à un ennemi aléatoire. NL #yActivation: Infligez #b",
+      " dégâts à un ennemi aléatoire."
+    ],
+    "NAME": "Orbe Kéraunique"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPassif: Au début du tour, gagnez [B] . NL #yActivation: Gagnez #b",
+      " [B] . NL Les Orbes Plasmiques ne sont pas affectés par la #yConcentration."
+    ],
+    "NAME": "Orbe Plasmique"
+  }
+}

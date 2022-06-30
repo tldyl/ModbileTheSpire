@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Run abbrechen"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Gesperrt",
+      "Unbekannt"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Fortfahren"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Tot",
+      "Geblockt",
+      "Max. TP +",
+      "Betäubt!",
+      "Unterbrochen!",
+      "Relikte"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Fortfahren",
+      "Fäulnis:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Aggressiv",
+      "Dieser Gegner will für NL #b",
+      " Schaden #b",
+      " Mal #yangreifen.",
+      "Dieser Gegner will für NL #b",
+      " Schaden #yangreifen.",
+      "Aggressiv",
+      "Dieser Gegner will einen #yBuff einsetzen und für #b",
+      " Mal #yangreifen.",
+      "Dieser Gegner will einen #yBuff einsetzen und für #b",
+      "Strategisch",
+      "Dieser Gegner will einen #ynegativen #yEffekt auf dich wirken und für #b",
+      "Dieser Gegner will #yblocken und für #b",
+      "Defensiv",
+      "Feige",
+      "Magisch",
+      "Schlafend",
+      "Betäubt",
+      "Unbekannt",
+      "Dieser Gegner will einen #yBuff einsetzen.",
+      "Dieser Gegner will einen #ynegativen #yEffekt auf dich wirken.",
+      "Dieser Gegner will einen mächtigen #ynegativen #yEffekt auf dich wirken.",
+      "Dieser Gegner will in seinem Zug #yblocken.",
+      "Dieser Gegner will #yblocken und einen #ynegativen #yEffekt auf dich wirken.",
+      "Dieser Gegner will #yblocken und einen #yBuff einsetzen.",
+      "Dieser Gegner will #yfliehen.",
+      "Dieser Gegner will in seinem Zug mysteriöse #yMagie einsetzen.",
+      "Dieser Gegner schläft.",
+      "Dieser Gegner ist in seinem Zug #ybetäubt.",
+      "Die Absichten dieses Gegners sind #yunbekannt (wird nicht angreifen).",
+      "Geblockt"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Geblockt",
+      "der Eiserne",
+      "die Stille",
+      "das Defekte",
+      "die Seherin"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Ich kann keine NL weiteren Tränke tragen."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Ausgeraubt...",
+      "Geflohen..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf die Hand nimmst.",
+      "Wähle Karten, die du auf die Hand nimmst."
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Negiert",
+      "Immun",
+      "Annuliert",
+      "\n gesenkt"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "verbesserst"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Eliten spawnen öfter.",
+      "2. Normale Gegner sind tödlicher.",
+      "3. Eliten sind tödlicher.",
+      "4. Bosse sind tödlicher.",
+      "5. Weniger Heilung nach Bosskämpfen.",
+      "6. Beginne jeden Run verletzt.",
+      "7. Normale Gegner halten mehr aus.",
+      "8. Eliten halten mehr aus.",
+      "9. Bosse halten mehr aus.",
+      "10. Beginne jeden Run verflucht.",
+      "11. Weniger Trank-Slots.",
+      "12. Verbesserte Karten erscheinen seltener.",
+      "13. Arme Bosse.",
+      "14. Weniger max. TP.",
+      "15. Ungünstige Ereignisse.",
+      "16. Läden sind teurer.",
+      "17. Normale Gegner haben schwerere Fähigkeiten.",
+      "18. Eliten haben schwerere Fähigkeiten.",
+      "19. Bosse haben schwerere Fähigkeiten.",
+      "20. (Höchstes Level) Doppelter Boss."
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Aufstiegsmodus Level ",
+      " freigeschaltet!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Aufstiegsmodus freigeschaltet!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Wähle einen Angriff, den du auf die Hand nimmst."
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Kampfbeginn",
+      "Spielerzug",
+      "Gegnerzug",
+      ". Zug"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Beta-Kartenbilder Der Eiserne freigeschaltet!",
+      "Beta-Kartenbilder Die Stille freigeschaltet!",
+      "Beta-Kartenbilder Das Defekte freigeschaltet!",
+      "Alle Beta-Kartenbilder freigeschaltet!",
+      "Beta-Kartenbilder Die Seherin freigeschaltet!"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf die Hand nimmst.",
+      "Wähle ",
+      " Karten, die du auf die Hand nimmst."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Fortfahren"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Bestätigen",
+      "Bestätige deine Auswahl",
+      "Wähle ein Relikt",
+      "Überspringen",
+      "JETZT ABSTIMMEN: ",
+      "s übrig.",
+      "Wähle eine Fäulnis:"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf deinen Nachziehstapel legst.",
+      "Wähle Karten, die du auf deinen Nachziehstapel legst."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Traum?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Wähle eine Karte zum Verbessern."
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Wähle eine Karte zum Entfernen."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Was tun?",
+      "Hmm...",
+      "Was soll ich tun?",
+      "Zeit für eine Pause",
+      "So viele Möglichkeiten...",
+      "Ich sollte mich ausruhen",
+      "So müde..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Speicherstand löschen"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Seltenheit",
+      "Typ",
+      "A–Z",
+      "Kosten",
+      "Springe zu:",
+      "Erhalten"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Zurückkehren",
+      "Rot",
+      "Grün",
+      "Blau",
+      "Farblos",
+      "Flüche",
+      "Status",
+      "Verbesserung ansehen",
+      "Lila"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Überspringen",
+      "Wähle eine Karte",
+      "+2 max. TP",
+      "JETZT ABSTIMMEN: ",
+      "s übrig.",
+      "Verbesserung ansehen",
+      "Choose One"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Gesperrt",
+      "Dieser Charakter wird durch das Abschließen eines einzigen Runs freigeschaltet.",
+      "Dieser Charakter ist während Early Access noch nicht erhältlich.",
+      "Dieser Charakter wird durch das Abschließen eines Runs mit der Stillen freigeschaltet.",
+      "TP: ",
+      "Gold: ",
+      " verbleibende Freischaltungen",
+      "Unbekannt",
+      "???",
+      " zur nächsten Freischaltung",
+      "Dieser Charakter wird durch das Gewinnen eines normalen Runs freigeschaltet, nachdem der 3. Charakter freigeschaltet wurde."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Wähle deinen Charakter",
+      "Beginnen",
+      "Der Eiserne",
+      "Die Stille",
+      "Das Defekte",
+      "Zurück",
+      "Aufstiegsmodus",
+      "Level ",
+      "Aufstiegsmodus",
+      "Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)",
+      "Seed ",
+      "Zufälliger Seed",
+      "Mit einem Startseed wird bestimmt, was in diesem Run zufällig auftaucht.",
+      "Seed einstellen",
+      "Die Seherin"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Wähle eins"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Fortfahren",
+      "Karte überspringen",
+      "Gold überspringen",
+      "Trank überspringen",
+      "Relikt überspringen",
+      "Belohnungen überspringen",
+      "Schließen",
+      "Schatz!",
+      "Was ist drin?",
+      "Belohnungen!",
+      "Raubgut!",
+      "Beute!",
+      "Tipp: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Bestätigen"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Zurückkehren",
+      "Speicherstand löschen",
+      "Ja",
+      "Nein"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "kopierst"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Zum Verlassen nochmal klicken",
+      "zum Verlassen",
+      "Zum Verlassen nochmal tippen"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Spezialmodus",
+      "Errungenschaften und Ranglisten sind abgeschaltet.",
+      "Charakter",
+      "Aufstieg",
+      "Level ",
+      "Aufstiegsmodus",
+      "Regeln",
+      "Seed",
+      "Seed einstellen",
+      "Trophäen und Ranglisten sind abgeschaltet."
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Run des Tages",
+      "Verbindung zum Zeitserver wird hergestellt...",
+      "#yHINWEIS: Du hast die heutige Herausforderung abgeschlossen. NL Weitere Versuche tauchen nicht auf der Rangliste auf.",
+      "Zurück",
+      "Aufbrechen",
+      "Heutiger Charakter: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Übrige Zeit: ",
+      "#yEbene #yerreicht: NL ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelikte: NL  ",
+      " NL Heutige Herausforderung: NL TAB #yKlasse: NL TAB ",
+      " NL TAB #yMods: ",
+      "Regeln: ",
+      "Ranglisten",
+      "*Errungenschaften sind beim Run des Tages abgeschaltet.",
+      "  [OFFLINEMODUS]",
+      "dd. MMMM yyyy",
+      "*Trophäen sind beim Run des Tages abgeschaltet."
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Fortsetzen",
+      "Sieg?",
+      "Ebenen aufgestiegen",
+      "Bosse besiegt",
+      "Spielzeit",
+      "Spielzeit",
+      "Punktzahl",
+      "Bezwungen",
+      "Tot...",
+      "Niederlage",
+      "Besiegt!",
+      "Entweiht",
+      "Zerstörung",
+      "Überwältigt",
+      "Du wurdest erschlagen!",
+      "Ein vertrautes Gefühl.",
+      "Ein Nickerchen klingt gut.",
+      "Was du säst, das erntest du.",
+      "Das lief verkehrt.",
+      "Darauf war ich nicht vorbereitet.",
+      "Ich versuch’s morgen nochmal.",
+      "Nächstes Mal auf einer anderen Karte.",
+      "Unzureichend vorbereitet.",
+      "Unfassbar!",
+      "Ist das mein wahres Potenzial?",
+      "War ja klar...",
+      "Nicht so...",
+      "Nicht ganz an der Spitze.",
+      "Der Spire verschlingt den Nächsten...",
+      "Dein Bewusstsein schwindet...",
+      "Niederlage",
+      "Akzeptierung",
+      "Fortsetzen",
+      "Erneut versuchen",
+      "Hauptmenü",
+      "Fortfahren",
+      "Freischalten",
+      "Hauptmenü",
+      "Erneut versuchen",
+      "Fortfahren",
+      "Freischalten",
+      "Freischaltungen übrig: ",
+      "Freischaltung übrig: ",
+      "Gegner erschlagen",
+      "Eliten getötet",
+      "Nicht verwendetes Gold",
+      "TP-Bonus"
+    ],
+    "EXTRA_TEXT": [
+      "Exordium-Eliten getötet",
+      "Stadt-Eliten getötet",
+      "Jenseits-Eliten getötet",
+      "Sprinter",
+      "Lichtgeschwindigkeit",
+      "Highlander",
+      "Sammlung",
+      "Volles Set",
+      "Bettler",
+      "Bibliothekar",
+      "Enzyklopädie",
+      "Gut genährt",
+      "Vollgestopft",
+      "Verflucht!",
+      "Selbst schuld",
+      "Champion",
+      "Perfekt",
+      "Mehr als Perfekt",
+      "Overkill",
+      "K-k-k-kombo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Aufstiegsmodus Level ",
+      " Freigeschaltet!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Spielstand löschen?",
+      "Ja",
+      "Nein",
+      "ACHTUNG: Dies kann nicht rückgängig gemacht werden."
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Graben",
+      "Grabe ein zufälliges Relikt aus."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "abwirfst"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Mein Abwurfstapel ist #rleer."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du zurück auf deine Hand nimmst."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf deinen Nachziehstapel legst."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Diese Karten werden in deinen Nachziehstapel gemischt, wenn dort die Karten ausgehen.",
+      "Zurückkehren",
+      "Abwurfstapel"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Mein Nachziehstapel ist #rleer."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Von hier werden zu Beginn jedes Zuges Karten gezogen.",
+      "(Gezeigte Karten sind nach Seltenheit sortiert)",
+      "Zurückkehren",
+      "Nachziehstapel"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "duplizierst"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Wähle einen Startraum",
+      "Zurückkehren"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Tutorials",
+      "Möchtest du während des Spiels Spieltipps sehen?",
+      "1. Akt",
+      "Exordium",
+      "2. Akt",
+      "Die Stadt",
+      "3. Akt",
+      "Das Jenseits",
+      "Letzter Akt",
+      "Das Ende",
+      "Klicke irgendwohin, um fortzufahren"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Was ist Early Access?",
+      "Was ist eine Open Beta?",
+      "Slay the Spire befindet sich noch in der aktiven Entwicklung! Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich noch in der aktiven Entwicklung! Noch dazu spielst du die Beta-Version des Spiels. NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Klicke zum Starten irgendwohin",
+      "Weiter"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Zug beenden",
+      "Gegnerzug"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "erschöpfst"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Diese Karten wurden in diesen Kampf erschöpft.",
+      "Zurück"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du zurück auf die Hand nimmst."
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Spiel verlassen"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Exordium"
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "unter deinen Nachziehstapel legst."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "ersetzt (Spielchip)",
+      "ersetzt"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Spiel~ #y~gespeichert~"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Bestätigen",
+      "Abbrechen",
+      "Bestätige deine Auswahl",
+      "Verlassen"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Karte bestätigen, die du ",
+      "Karten bestätigen, die du ",
+      "Wähle ",
+      " Karten, die du ",
+      "Wähle beliebig viele Karten, die du ",
+      "Wähle eine Karte, die du ",
+      "kopierst"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "erschöpfst"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Entf",
+      "Delete": "Backspace"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Eingabeoptionen",
+      "Spieloptionen",
+      "Zurück",
+      "Befehle",
+      "Tastatur",
+      "Controller",
+      "Auf Standard zurücksetzen",
+      "Karte bestätigen",
+      "Abbrechen / Schließen",
+      "Karte des Spire",
+      "Deck ansehen",
+      "Nachziehstapel",
+      "Abwurfstapel",
+      "Erschöpfte Karten",
+      "Zug beenden",
+      "Links",
+      "Rechts",
+      "Wähle 1. Karte",
+      "Wähle 2. Karte",
+      "Wähle 3. Karte",
+      "Wähle 4. Karte",
+      "Wähle 5. Karte",
+      "Wähle 6. Karte",
+      "Wähle 7. Karte",
+      "Wähle 8. Karte",
+      "Wähle 9. Karte",
+      "Wähle 10. Karte",
+      "Karte loslassen",
+      "Auswählen*",
+      "Abbrechen*",
+      "Obere Leiste*",
+      "Weiter / Zug beenden*",
+      "Tab links / Deck ansehen*",
+      "Tab rechts / Erschöpfte Karten*",
+      "Karte des Spire*",
+      "Einstellungen*",
+      "Nachziehstapel*",
+      "Abwurfstapel*",
+      "Hoch*",
+      "Runter*",
+      "Links*",
+      "Rechts*",
+      "Hoch (Alt)*",
+      "Runter (Alt)*",
+      "Links (Alt)*",
+      "Rechts (Alt)*",
+      "Hoch",
+      "Runter",
+      "Controller aktiviert",
+      "Touchscreen-Modus",
+      "Ansicht verbergen"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brasilian. Portugiesisch",
+      "Chinesisch (Vereinfacht)",
+      "Chinesisch (Traditionell)",
+      "Englisch",
+      "Französisch",
+      "Deutsch",
+      "Italienisch",
+      "Japanisch",
+      "Koreanisch",
+      "Polnisch",
+      "Russisch",
+      "Spanisch",
+      "Hebräisch",
+      "Türkisch",
+      "Schwedisch",
+      "Norwegisch",
+      "Thai",
+      "Serbisch",
+      "Ukrainisch",
+      "Vietnamesisch",
+      "Ungarisch",
+      "Serbisch (Latinisiert)",
+      "Katalanisch",
+      "Griechisch",
+      "Indonesisch",
+      "Esperanto",
+      "Niederländisch"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Der Eiserne",
+      "Die Stille",
+      "Das Defekte",
+      "Durschnittlich erreichte Ebene (Letzte 20 Versuche)",
+      "Durchschnittliche Punkte (Letzte 20 Versuche)",
+      "Beste Siegesserie",
+      "Schnellster Sieg",
+      "Meiste Punkte",
+      "Option 6. DO NOT TRANSLATE",
+      "Freunde",
+      "Global",
+      "Die Seherin"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Zurück",
+      "Filter",
+      "Charakter",
+      "Region",
+      "Typ",
+      "Eigene Punkte zeigen",
+      "Rang",
+      "Name",
+      "Punkte",
+      "Lade Daten...",
+      "Rangliste",
+      "Nicht mit Steam verbunden",
+      "Keine Punkte gefunden \n Geh und Schlag den Spire!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Unbekannt",
+      "???",
+      "Ein unbekannter Raum. NL NL Du könntest auf Monster, Schätze, Läden oder etwas völlig anderes treffen.",
+      "Händler",
+      "Läden",
+      "Ein mysteriöser Händler verkauft seine Waren in diesen Räumen. NL NL Gib hier dein wohlverdientes #yGold aus!",
+      "Schatz",
+      "Schatzräume",
+      "In diesen begehrten Räumen kannst du #yRelikte und #yGold finden.",
+      "Lagerfeuer",
+      "Lagerfeuer",
+      "Halte an diesen Orten inne, um deine TP zu #gheilen oder eine Karte zu #yverbessern.",
+      "Gegner",
+      "Gegner",
+      "Feindselige Gegner hausen in diesen Räumen.",
+      "Elite",
+      "Eliten",
+      "Mächtige Gegner befinden sich in diesen Räumen. NL NL Sie zu besiegen, beschert dir ein Relikt.",
+      "Legende"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Trainieren",
+      "Beginne Kämpfe mit +1 Stärke (bis zu 3).",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yBuild: ",
+      "Beginnen",
+      "Zurückkehren",
+      "Klicke zum Bearbeiten",
+      "Bearbeiten",
+      "Tippe zum Bearbeiten"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Mit diesen Karten beginnst du jeden Kampf.",
+      "Zurückkehren"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Spielen",
+      "",
+      "",
+      "Fortsetzen",
+      "",
+      "Statistiken",
+      "",
+      "Verlassen",
+      "Patchnotizen",
+      "Run abbrechen",
+      "",
+      "Einstellungen",
+      "",
+      "Kompendium"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Brich auf zu einer Quest in den Spire! Kämpfe dich an die Spitze des mysteriösen Turmes.",
+      "Run des Tages",
+      "",
+      "Jeden Tag gibt es eine neue Herausforderung.\nMiss dich mit anderen Spielern um die höchste Punktzahl!",
+      "Aufstiegsmodus",
+      "",
+      "Der Spire wird mit jedem Sieg stärker.\nTeste die Grenzen deiner stärksten Strategien.",
+      "Kartenbibliothek",
+      "",
+      "Sieh dir alle Karten an, denen du bisher im Spire begegnet bist.",
+      "Reliktsammlung",
+      "",
+      "Untersuche die Schmuckstücke und Artefakte, die du in deinen Runs erhalten hast.",
+      "Bestiarium",
+      "",
+      "Dieses Feature ist noch nicht verfügbar.",
+      "Charakter- Statistiken",
+      "",
+      "Fortschritte und Statistiken jedes Charakters können hier eingesehen werden.",
+      "Ranglisten",
+      "",
+      "Erfahre deine Punktzahl und vergleiche sie mit Freunden und anderen Spielern.",
+      "Run-Historie",
+      "",
+      "Wirf einen Blick auf deine vergangenen Versuche, den Spire zu erschlagen.",
+      "Spiel- Einstellungen",
+      "",
+      "Ändere deine Auflösung und wähle weitere Optionen für das Spiel.",
+      "Eingabeoptionen",
+      "",
+      "Ändere deine Steuerung und Tastenbelegungen.",
+      "Credits",
+      "",
+      "Schau dir an, welche Leute an Slay the Spire mitgewirkt haben!",
+      "Unbekannt",
+      "Gewinne einen Run des Tages, um diesen Spielmodus freizuschalten.",
+      "Dieses Feature ist noch nicht verfügbar.",
+      "Spezialmodus",
+      "Stelle deinen individuellen Run mit eigenen Sonderregeln zusammen.",
+      "Ändere deine Steuerung.",
+      "Ändere deine Optionen für das Spiel.",
+      "Tranklabor",
+      "Studiere die zahlreichen Tränke, die beim Erklimmen des Spire zu finden sind."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Kartenentfernungsdienst",
+      "AUSVERKAUF",
+      "Unverkäuflich",
+      "Ausverkauft",
+      "Oh nein!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Drücke ",
+      " zum Starten",
+      "Profil wechseln",
+      "Anzeigebereich",
+      "Ein Wechsel bei der Anmeldung ist aufgetreten. Melde dich bitte wieder an oder verlasse das Spiel in den Titelbildschirm.",
+      "Anmelden",
+      "Verlassen"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Dieser Gegner hat nicht vor anzugreifen!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Spieleinstellungen",
+      "Grafik",
+      "Auflösung: NL Max. Framerate:",
+      "Vollbild NL Vollbild-Fenster (empfohlen) NL Screenshake",
+      "Ton",
+      "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
+      "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
+      "Präferenzen",
+      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Einzelne Karte wählen ohne Bestätigen",
+      "Schnellmodus",
+      "",
+      "Diverses",
+      "Sprache:",
+      "Spieldaten hochladen #b(?)",
+      "Spiel verlassen",
+      "Speichern & Verlassen",
+      "NL NL VSync",
+      "Beta-Kartenbilder",
+      "Zeige Tasten für Kartenschnellwahl",
+      "Eingabeoptionen",
+      "Partikeleffekte deaktivieren",
+      "Auflösung:",
+      "Auflösung: NL Vollbild-Monitor:",
+      "Stelle ein, welcher Monitor im Vollbildmodus genutzt wird.",
+      "Lang Drücken zum Bestätigen",
+      "Größerer Text"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Zurückkehren",
+      "#yPatchnotizen",
+      " NL (VORÜBERGEHEND: Benutze die Pfeiltasten, um durch ältere Protokolle zu navigieren)"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Werfen",
+      "Trinken",
+      "Abwerfen",
+      "Ich kann keine Tränke verwenden!",
+      "Im Kampf kann ich das nicht tun!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "endet"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Fortfahren"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "auf deinen Nachziehstapel legst"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Erinnern",
+      "Erhalte den Rubinschlüssel."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "erschöpfst"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Zurückkehren",
+      "Start:",
+      "Mit diesen Relikten können Charaktere beginnen.",
+      "Gewöhnlich:",
+      "Schwache Relikte, die desöfteren zu finden sind.",
+      "Ungewöhnlich:",
+      "Stärkere Relikte, die nicht so oft auftauchen wie gewöhnliche Relikte.",
+      "Selten:",
+      "Einzigartige und mächtige Relikte, die man nur selten sieht.",
+      "Boss:",
+      "Nur in Bosstruhen auffindbare Relikte.",
+      "Ereignis:",
+      "Nur durch Ereignisse zu entdeckende Relikte.",
+      "Laden:",
+      "Nur beim Händler erhältliche Relikte."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<kein Name>",
+      "Gib deinen Namen ein",
+      "Bestätigen",
+      "Abbrechen"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Dieser Gegner will angreifen!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Wähle beliebig viele Karten, die du abwirfst"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Ausruhen",
+      "Heile dich um 20% deiner max. TP (",
+      " TP von ",
+      "Heile dich um 30% deiner max. TP (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Starte das Spiel neu, damit die Änderungen übernommen werden."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "behältst"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Gold (zurückgestohlen)",
+      " Gold",
+      "Erhalte eine Karte",
+      "",
+      "Wähle eine Karte",
+      "Smaragdschlüssel",
+      "Saphirschlüssel",
+      "Verbunden",
+      "Das Aufheben dieses Relikts entfernt ",
+      "."
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Tagesrun - Ebene %s",
+      "Spezial - Ebene %s",
+      " Eb.%s",
+      "Hauptmenü",
+      " A%s"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gremlingruppe",
+      "Großer Schleim",
+      "Exordium-Diebe",
+      "Exordium-Fauna",
+      "Schleimschwarm",
+      "Kleine Schleime",
+      "Stadt-Räuber",
+      "Drei Fögl",
+      "Vier Fögl",
+      "Kultisten-Trio",
+      "Erwählte und Fogl",
+      "Wache und Sphärischer Wächter",
+      "Zenturio und Mystikerin",
+      "Parasit und Pilzbestie",
+      "Bande maskierter Banditen",
+      "Kolosseum-Aristos",
+      "Kolosseum-Sklavenhändler",
+      "Drei Schwebewesen",
+      "Kieferwurmhorde",
+      "Vier Schwebewesen",
+      "Sphärischer Wächter mit Schwebewesen",
+      "Zwei Kugelwandler",
+      "Donu und Deca",
+      "Drei Wachen",
+      "Erwählte und Kultist",
+      "(Veraltet) Flammenschläger",
+      "(Veraltet) Sklavenhändler und Parasit",
+      "(Veraltet) Snecko und Mystikerinnen",
+      "Schild und Speer"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Unbekannt",
+      "Gegner",
+      "Elite",
+      "Ereignis",
+      "Boss",
+      "Schatz",
+      "Boss-Schatz",
+      "Ruheort",
+      "Händler",
+      "Unbekannt (Gegner)",
+      "Unbekannt (Händler)",
+      "Unbekannt (Schatz)",
+      "Ebene %1$s - %2$s",
+      "Ebene %s",
+      "#r%s Schaden",
+      "#r%s Runden",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Erhalten: ",
+      "Übersprungen:",
+      "Fehlende Infos",
+      "+2 max. TP",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bAusgeruht",
+      "#bVerbessert: %s",
+      "#bEntfernt: %s",
+      "#bGegraben",
+      "#bTrainiert %s/%s",
+      "#yGekauft:",
+      "#rBezahlt: ",
+      "#rNahm ",
+      "#rVerloren: ",
+      "%s max. TP",
+      "#bGeheilt: ",
+      "#bErhalten: ",
+      "#bIgnoriert ",
+      "%s TP",
+      "%s #berhalten",
+      "#rVerflucht #rmit #r%s",
+      "%s Schaden",
+      "%s #bverbessert",
+      "%s #btransformiert",
+      "%s #rverloren",
+      "#bErinnert"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Der Eiserne",
+      "Die Stille",
+      "Das Defekte",
+      "Zurück",
+      "Keine Run-Historie gefunden. NL Geh und Schlag den Spire!",
+      "Aufstieg Level: ",
+      "Besiegt auf Ebene %1$d - Gegner: %2$s",
+      "Run verlassen auf Ebene %d",
+      "Sieg!",
+      "Karten",
+      "Relikte",
+      "Starter",
+      "Gewöhnlich",
+      "Ungewöhnlich",
+      "Selten",
+      "Besondere",
+      "Fluch",
+      "Boss",
+      "Laden",
+      "Unbekannt",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Punkte: %d",
+      "Alle Charaktere",
+      "Siege & Niederlagen",
+      "Siege",
+      "Niederlagen",
+      "Run des Tages",
+      "Jeder Spielmodus",
+      "Nur Normal",
+      "Nur Aufstieg",
+      "Run des Tages",
+      "Seed: %s",
+      "Eigener Seed: %s",
+      "d.M.yyyy, H:mm",
+      "Die Seherin"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Spielzeit ",
+      "Freier Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Wähle einen Spielstand",
+      "Umbenennen",
+      "Diesen Spielstand löschen"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Gib einen neuen Seed ein",
+      "Bestätigen",
+      "Abbrechen",
+      "*Errungenschaften und Ranglisten sind abgeschaltet, wenn ein eigener Seed benutzt wird.",
+      "*Trophäen und Ranglisten sind abgeschaltet, wenn ein eigener Seed benutzt wird."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Bist du sicher?",
+      "Dein Fortschritt wird automatisch gespeichert.",
+      "Ein abgebrochener Run wird als verloren gewertet.",
+      "ACHTUNG:\nFortschritt NICHT gespeichert.\n\nErreiche die nächste Ebene, um den aktuellen Run zu speichern.",
+      "Zurückkehren",
+      "Fortschritt wird für Runs des Tages NICHT gespeichert."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "auf deinen Nachziehstapel legst."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Händler überspringen"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Angriff",
+      "Fertigkeit",
+      "Macht",
+      "Fluch",
+      "Gesperrt",
+      "Unbekannt",
+      "Verbesserung",
+      "Status",
+      "",
+      "Ich kann Karten nur während meines Zuges spielen.",
+      "Ich bin #rVerwickelt ! NL Ich kann keine Angriffskarten spielen.",
+      "Nicht genug #rEnergie.",
+      "Nicht genug #rLadung.",
+      "Diese Karte kann NL ich nicht spielen.",
+      "Beta-Grafik"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Boss-",
+      "Gewöhnliches ",
+      "Veraltetes ",
+      "Seltenes ",
+      "Laden-",
+      "Ereignis-",
+      "Start-",
+      "Ungewöhnliches ",
+      "Gesperrt",
+      "Unbekannt",
+      "Relikt",
+      "Dieses Relikt muss noch freigeschaltet werden.",
+      "Dieses Relikt muss noch entdeckt werden."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Wähle eine Fertigkeit, die du auf die Hand nimmst."
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Schmieden",
+      "Verbessere eine Karte in deinem Deck.",
+      "Keine verbesserbaren Karten."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Du hast keinen Platz dafür"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Das Jenseits"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "Die Stadt"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Das Ende"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energie"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Zug",
+      "Entferne eine Karte aus deinem Deck."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      ". Ebene",
+      " - Aufstieg ",
+      " (höchstes Level)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Truhe überspringen"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Truhe überspringen"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "JETZT ABSTIMMEN: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Fortsetzen"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Karten freigeschaltet!",
+      "Neue Ausrüstungsgegenstände",
+      "Relikte freigeschaltet!",
+      "Neuer Charakter",
+      "Hinweis: Freigeschaltete Karten tauchen in zukünftigen Runs auf.",
+      "Hinweis: Freigeschaltete Relikte tauchen in zukünftigen Runs auf."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Karten freigeschaltet!",
+      "Relikte freigeschaltet!",
+      "Neuer Charakter",
+      "Hinweis: Freigeschaltete Karten tauchen in zukünftigen Runs auf.",
+      "Hinweis: Freigeschaltete Relikte tauchen in zukünftigen Runs auf."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Neue Freischaltung!"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Weiter",
+      "Ebenen erklommen",
+      "Bosse getötet",
+      "Spielzeit",
+      "Punkte",
+      "Freigeschalten",
+      "Freischaltbares übrig: ",
+      "Freischaltbares übrig: ",
+      "Gegner erschlagen",
+      "Eliten getötet",
+      "Unverbrauchtes Gold",
+      "TP Bonus",
+      "Gewonnen!"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Das muss mein einziger #rAngriff sein!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Zurück",
+      "Gewöhnlich:",
+      "Im Spire findet man diese Tränke am häufigsten.",
+      "Ungewöhnlich:",
+      "Stärkere Tränke, die seltener auftauchen als gewöhnliche Tränke.",
+      "Selten:",
+      "Einzigartige und mächtige Tränke, welche man selten sieht."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Wähle 1 Karte, die du behältst. Der Rest wird erschöpft."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du ausspielst."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Syncing data..."
+    ]
+  }
+}

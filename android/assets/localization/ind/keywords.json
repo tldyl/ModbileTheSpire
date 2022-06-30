@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefak"
+      ],
+      "DESCRIPTION": "Tiadakan debuff yang akan datang."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "blok",
+        "blok"
+      ],
+      "DESCRIPTION": "Sampai giliran selanjutnya, cegah damage."
+    },
+    "BURN": {
+      "NAMES": [
+        "terbakar",
+        "terbakar"
+      ],
+      "DESCRIPTION": "Terbakar adalah kartu status statis yang memberi damage."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "salur",
+        "disalurkan"
+      ],
+      "DESCRIPTION": "Menyalurkan sebuah Orb menempatkannya ke petak kosong pertama. Jika kamu tidak punya petak kosong, Orb pertamamu otomatis #yBangkit untuk memberi ruang."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "bingung"
+      ],
+      "DESCRIPTION": "Ketika kamu mengambil kartu, acak harganya."
+    },
+    "CURSE": {
+      "NAMES": [
+        "kutukan"
+      ],
+      "DESCRIPTION": "Kartu kutukan adalah kartu buruk yang menetap di dek kartumu."
+    },
+    "DARK": {
+      "NAMES": [
+        "hitam",
+        "hitam+"
+      ],
+      "DESCRIPTION": "Orb: Damage naik setiap giliran. Ketika #yTerbangkitkan, beri damage ke musuh dengan HP terendah."
+    },
+    "DAZED": {
+      "NAMES": [
+        "lamunan"
+      ],
+      "DESCRIPTION": "Lamunan adalah kartu status yang statis."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "ketangkasan"
+      ],
+      "DESCRIPTION": "Ketangkasan meningkatkan Blok yang didapat dari kartu."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "ethereal"
+      ],
+      "DESCRIPTION": "Jika kartu ini ada di tangan pada akhir giliran, hanguskan. Kartu hangus dihapus dari dek hingga akhir pertarungan."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "bangkit",
+        "terbangkitkan"
+      ],
+      "DESCRIPTION": "Pakai Orb paling kanan dan gunakan efek bangkitnya."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "hangus",
+        "dihanguskan",
+        "hangus"
+      ],
+      "DESCRIPTION": "Dihapus hingga akhir pertarungan."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "fokus"
+      ],
+      "DESCRIPTION": "Fokus meningkatkan keefektifan Orb yang #yDisalurkan."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "rapuh"
+      ],
+      "DESCRIPTION": "Ketika rapuh, #yBlok dari kartu berkurang #b25%."
+    },
+    "FROST": {
+      "NAMES": [
+        "beku",
+        "beku+"
+      ],
+      "DESCRIPTION": "Orb: Dapatkan #yBlok."
+    },
+    "INNATE": {
+      "NAMES": [
+        "permulaan"
+      ],
+      "DESCRIPTION": "Mulai pertarungan dengan kartu ini di tangan."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "kegaiban"
+      ],
+      "DESCRIPTION": "Kurangi SEMUA damage yang didapat dan kehilangan HP ke #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "petir",
+        "petir+"
+      ],
+      "DESCRIPTION": "Orb: Beri damage ke musuh secara acak."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "terkunci"
+      ],
+      "DESCRIPTION": "Kartu ini belum terbuka."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "sasar"
+      ],
+      "DESCRIPTION": "Target sasar menerima #b50% lebih damage dari Orb."
+    },
+    "OPENER": {
+      "NAMES": [
+        "pembuka"
+      ],
+      "DESCRIPTION": "Kartu pembuka hanya boleh dimainkan sebagai kartu pertama tiap giliran."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Dapatkan Energi."
+    },
+    "POISON": {
+      "NAMES": [
+        "racun",
+        "teracuni"
+      ],
+      "DESCRIPTION": "Makhluk yang teracuni kehilangan HP pada awal gilirannya. Setiap giliran, Racun berkurang sebanyak #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "tahan",
+        "tahan",
+        "ditahan"
+      ],
+      "DESCRIPTION": "Kartu yang ditahan tidak dibuang pada akhir giliran."
+    },
+    "SHIV": {
+      "NAMES": [
+        "shiv",
+        "shiv"
+      ],
+      "DESCRIPTION": "Shivs adalah kartu Serangan berharga #b0 yang Hangus."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status"
+      ],
+      "DESCRIPTION": "Kartu status dihapus setelah akhir pertarungan."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "daya"
+      ],
+      "DESCRIPTION": "Daya menambah damage untuk serangan."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "serang"
+      ],
+      "DESCRIPTION": "Kartu apapun dengan kata \"Serang\" di namanya."
+    },
+    "TEXT": [
+      "Energi digunakan untuk memainkan kartu dari tangan."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "duri"
+      ],
+      "DESCRIPTION": "Ketika menerima damage #ySerangan, beri damage balasan."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformasi"
+      ],
+      "DESCRIPTION": "Kartu yang ditransformasi menjadi kartu acak dari kelangkaan apapun."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "misteri"
+      ],
+      "DESCRIPTION": "Kartu ini masih belum ditemui."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "statis"
+      ],
+      "DESCRIPTION": "Kartu ini tidak bisa dimainkan dari tangan."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "peningkatan",
+        "ditingkatkan"
+      ],
+      "DESCRIPTION": "Peningkatan kartu membuatnya semakin kuat. Kartu hanya bisa ditingkatkan sekali."
+    },
+    "VOID": {
+      "NAMES": [
+        "hampa",
+        "hampa"
+      ],
+      "DESCRIPTION": "Hampa adalah kartu status statis yang memakan energi ketika diambil ke tangan."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "rentan"
+      ],
+      "DESCRIPTION": "Makhluk yang rentan mengambil damage Serangan #b50% lebih banyak."
+    },
+    "WEAK": {
+      "NAMES": [
+        "lemah",
+        "melemahkan",
+        "terlemahkan",
+        "melemah"
+      ],
+      "DESCRIPTION": "Makhluk yang terlemahkan memberi damage Serangan #b25% lebih sedikit."
+    },
+    "WOUND": {
+      "NAMES": [
+        "luka",
+        "luka"
+      ],
+      "DESCRIPTION": "Luka adalah kartu status yang statis."
+    },
+    "WRATH": {
+      "NAMES": [
+        "dendam"
+      ],
+      "DESCRIPTION": "Dalam #ySikap ini, kamu memberi dan menerima damage serangan ganda."
+    },
+    "CALM": {
+      "NAMES": [
+        "tenang"
+      ],
+      "DESCRIPTION": "Ketika keluar dari #ySikap ini, dapatkan [W] [W] ."
+    },
+    "STANCE": {
+      "NAMES": [
+        "sikap",
+        "sikap"
+      ],
+      "DESCRIPTION": "Kamu hanya bisa memiliki satu sikap pada satu waktu."
+    },
+    "SCRY": {
+      "NAMES": [
+        "ramal"
+      ],
+      "DESCRIPTION": "Lihat X kartu atas dari dek ambil. Kamu boleh buang kartu tersebut."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "keilahian"
+      ],
+      "DESCRIPTION": "Ketika memasuki sikap ini, dapatkan [W] [W] [W] . Serangan memberi damage tiga kali lipat. Keluar dari #ySikap ini pada awal giliran berikutnya."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "lewat kekerasan"
+      ],
+      "DESCRIPTION": "Ketika kamu memperoleh #b10 #yMantra, masuk #yKeilahian."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "tenaga"
+      ],
+      "DESCRIPTION": "Serangan berikutnya memberi damage tambahan."
+    },
+    "REGEN": {
+      "NAMES": [
+        "Regenerasi"
+      ],
+      "DESCRIPTION": "Regeerasin menyembuhkan HP pada akhir giliran. Tiap giliran, Regenerasi berkurang sebanyak #b1."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Dapatkan #yDaya di akhir giliranmu turn."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Terpenuhi setiap kali kartu ini membunuh musuh yang bukan prajurit."
+    }
+  }
+}

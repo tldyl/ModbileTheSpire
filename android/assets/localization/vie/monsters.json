@@ -1,0 +1,704 @@
+{
+  "AcidSlime_L": {
+    "MOVES": [
+      "Đờm bào mòn",
+      "Chia Tách",
+      "Liếm"
+    ],
+    "NAME": "Nhớt Acid (L)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Đờm bào mòn",
+      "Liếm"
+    ],
+    "NAME": "Nhớt Acid (TB)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Nhớt Acid (N)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Nhớt Hối Cải",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Xuyên thấu linh hồn",
+      "Âm vang tuyệt vọng",
+      "Rửa sạch",
+      "Sa lầy"
+    ],
+    "NAME": "Kẻ Bị Đánh Thức",
+    "DIALOG": [
+      "~Grrừ~ ~.~ ~.~ ~.~",
+      "~Không~ ~.~ ~.~ ~.~ ~không~ ~.~ ~.~ NL ~.~ ~.~ ~không~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gấu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Nhọn",
+    "DIALOG": [
+      "~Gấuuuuu!!!!~"
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lãng Tử",
+    "DIALOG": [
+      "~Tóm~ ~nó~ ~đi~ ~Gấu!!~",
+      "~Ngươi~ ~sẽ~ ~phải~ ~trả~ ~giá!!~",
+      "~Gấu~ ~ơiiiiiiii!~"
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Cuốn Sách Đâm Chém",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "TIA HỦY DIỆT"
+    ],
+    "NAME": "Người Máy Giáp Đồng",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ngọc",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Chym",
+    "DIALOG": [
+      "@QUÁC!@ NL @QUÁÁÁC@",
+      ""
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bách Quân Đội Trưởng",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Thủ thế",
+      "Kết liễu",
+      "Cú tát vào mặt"
+    ],
+    "NAME": "Nhà Vô Địch",
+    "DIALOG": [
+      "Ngươi bảo thứ đó là vũ khí sao?",
+      "Giỏi lại đây!",
+      "Cố lên xem nào! NL @HAHAHA!@",
+      "À đánh trộm sao! NL Quân hèn hạ nhu nhược!",
+      "~Ngươi~ ~dám~ ~sao...~",
+      "@THUA??@ NL @HOANG@ @ĐƯỜNG!!@",
+      "~CHẾT~ ~ĐI~ ~.~ ~.~ ~.~",
+      "Hãy đối mặt với cơn thịnh nộ của ta!",
+      "@KIA@ @LÀ@ NL @ĐAI@ @CỦA@ @TA!!@"
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kẻ Được Lựa Chọn",
+    "DIALOG": [
+      "~Bể~ ~khổ...~"
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Trái Tim Tàn Ác",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Bùa ngải"
+    ],
+    "NAME": "Kẻ Sùng Đạo",
+    "DIALOG": [
+      "@SỨC@ @MẠNH@ @ICỦA@ @TA@ NL @LÀ@ @VÔ@ @SONG!@",
+      "@SAO@ @NGƯƠI@ @DÁM@ NL @XUẤT@ @HIỆN?@",
+      "~Kỳ~ ~phùng~ NL ~địch~ ~thủ...~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Nhồm nhoàm!"
+    ],
+    "NAME": "Hắc Đệ",
+    "DIALOG": [
+      "Đang tái sinh..."
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deca",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Vòng năng lượng"
+    ],
+    "NAME": "Donu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ngọc Nổ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ngọc Lửa",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dao Găm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Hỏa Sĩ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Xà Pháp Sư",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Lớn mạnh"
+    ],
+    "NAME": "Quái Thú Nấm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Giăng tơ"
+    ],
+    "NAME": "Chấy",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Lớn mạnh"
+    ],
+    "NAME": "Chấy",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Đầu Khổng Lồ",
+    "DIALOG": [
+      "~Đã~ ~đến~ ~lúc~ ~rồi~",
+      "~Tạm~ ~biệt~",
+      "~Tích~ ~tắc~ NL ~Tích~ ~tắc~",
+      "~Sao~ ~ngươi~ ~vẫn~ NL ~còn~ ~ở~ ~đây?~"
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Đập"
+    ],
+    "NAME": "Yêu Tinh Béo",
+    "DIALOG": [
+      "",
+      "",
+      "@Ôi@ @không,@ NL @ôi@ @không,@ NL @ôI@ @KHÔNG!@"
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Tập hợp!"
+    ],
+    "NAME": "Tướng Yêu Tinh",
+    "DIALOG": [
+      "Chớ bỏ cuộc!",
+      "Chúng ta chưa xong đâu!",
+      "Thịt nó đi chúng mày!",
+      "@Rút@ @quân@ NL @Rút@ @quâânnnnnn!@",
+      "@Tééééééééé!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Đập sọ",
+      "Bò húc"
+    ],
+    "NAME": "Đại Ca Yêu Tinh",
+    "DIALOG": [
+      "@GGRrrrààÀOOoo!!@"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Yêu Tinh Lén Lút",
+    "DIALOG": [
+      "",
+      "@Ta@ @đi@ NL @gọi@ @viện@ @trợ!@ ",
+      "@Hả!?@"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Bảo vệ",
+      "Húc khiên"
+    ],
+    "NAME": "Yêu Tinh Cầm Khiên",
+    "DIALOG": [
+      "",
+      "~Tạm~ ~biệt...~",
+      "Thế là hỏng rồi..."
+    ]
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Cào móng"
+    ],
+    "NAME": "Yêu Tinh Điên",
+    "DIALOG": [
+      "",
+      "@Đi@ @gọi@ NL @thêm@ @viện@ @quân!@",
+      "Ta chạy trốn đây!"
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Đang tụ",
+      "Tia năng lượng mạnh"
+    ],
+    "NAME": "Yêu Tinh Pháp Sư",
+    "DIALOG": [
+      "",
+      "Đang tụ khí lực!",
+      "~Đỡ~ ~lấy~ ~này!!~",
+      "@Ta...@ @tìm...@ NL @cứu...!@",
+      "~nguy...~ NL ~hiểm...~ NL ~quá...~"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pháp Sư",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Rực lửa",
+      "Đốt cháy",
+      "Cuồng hỏa"
+    ],
+    "NAME": "Lục Linh",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Gầm",
+      "Nện"
+    ],
+    "NAME": "Giun Hàm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Hút linh hồn"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "",
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Lao tới",
+      "Cướp"
+    ],
+    "NAME": "Cướp Đường",
+    "DIALOG": [
+      "Đưa tiền đây!",
+      "@KHÔôôngg!@",
+      "Bom khói của mình đâu rồi... Xem nào...",
+      "Cảm ơn nhé, hehe"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Hàm Khổng Lồ",
+    "DIALOG": [
+      "@Grừừừừừ!!@"
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Lao tới",
+      "Cướp"
+    ],
+    "NAME": "Lưu Manh",
+    "DIALOG": [
+      "Mau nộp ra đây!",
+      "Ta chạy trốn đây!"
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Thủ Ác",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Tăng sức mạnh"
+    ],
+    "NAME": "Ngọc Thiết Giáp",
+    "DIALOG": [
+      "Khởi động NL khiên chắn."
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tên Múa Rối",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Phản Lực",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Phân rã"
+    ],
+    "NAME": "Tháp Canh",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ung Thư Tháp Xoáy",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ký Sinh Thân Giáp",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Cào"
+    ],
+    "NAME": "Kẻ Buôn Nô Lệ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tên Chỉ Huy Nô Lệ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Cào Cấu",
+      "Trói"
+    ],
+    "NAME": "Kẻ Buôn Nô Lệ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Dập",
+      "Chuẩn bị",
+      "Chia Tách",
+      "Phun đờm"
+    ],
+    "NAME": "Trùm Nhớt",
+    "DIALOG": [
+      "~Nhớt...~ NL #r~ĐÈ~ #r~NÁT!!!~",
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Tảo hút sức mạnh"
+    ],
+    "NAME": "Cây Rắn",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Ánh mắt bối rối",
+      "Quất đuôi",
+      "Cắn"
+    ],
+    "NAME": "Xà Tắc Kè",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Khối Cầu Hộ Vệ",
+    "DIALOG": [
+      "~Phát~ ~hiện~ NL ~người~ ~ngoài~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Liếm",
+      "Chia Tách"
+    ],
+    "NAME": "Nhớt Gai (L)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Liếm"
+    ],
+    "NAME": "Nhớt Gai (TB)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Nhớt Gai (N)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Cầu Gai",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Nhà Sưu Tầm",
+    "DIALOG": [
+      "@Ngươi@ @thuộc@ @về@ @ta!@"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Chế độ phòng thủ",
+      "Đòn đánh hung bạo",
+      "Lăn",
+      "Dập hai lần",
+      "Lốc xoáy",
+      "Nạp vào",
+      "Xả khói"
+    ],
+    "NAME": "Hộ Vệ",
+    "DIALOG": [
+      "#b~..HỒI...~ NL #b~...PHỤC...~",
+      "Phòng thủ...",
+      "#r@TIÊU@ #r@DIỆT@ NL #r@TIÊU@ #r@DIỆT@ NL #r@TIÊU@ #r@DIỆT@",
+      "#r@NGUY@ #r@HIỂM@ NL #r@NGUY@ #r@HIỂM@ NL #r@NGUY@ #r@HIỂM@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Thực Tử Thời Gian",
+    "DIALOG": [
+      "~Ah...~ NL ~..có..~ ~..khách...~",
+      "~Ngu~ ~lắm..~ NL @NGUUUUU!@",
+      "~Chưa~ ~bao~ ~giờ....~ NL ~...ưa..~ NL ~..ngươi...~"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vệ Sĩ Đuốc",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bóng Ma Đột Tử",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Khiên Tháp Xoáy",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Giáo Tháp Xoáy"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Búi Xoắn",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

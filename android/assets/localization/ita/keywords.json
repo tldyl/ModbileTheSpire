@@ -1,0 +1,329 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefatto"
+      ],
+      "DESCRIPTION": "Nega il prossimo debuff."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "blocco",
+        "blocca",
+        "blocchi"
+      ],
+      "DESCRIPTION": "Bloccare previene il danno."
+    },
+    "BURN": {
+      "NAMES": [
+        "ustione",
+        "ustioni"
+      ],
+      "DESCRIPTION": "Le Ustioni sono carte stato ingiocabili che ti infliggono danni."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "crea",
+        "creato",
+        "crei",
+        "creati"
+      ],
+      "DESCRIPTION": "Crei un Globo nel tuo primo spazio libero. Se non ne hai, il tuo primo Globo (a destra) viene #yEvocato per fare spazio."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confuso"
+      ],
+      "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."
+    },
+    "CURSE": {
+      "NAMES": [
+        "maledizione",
+        "maledizioni"
+      ],
+      "DESCRIPTION": "Le Maledizioni sono carte con effetto negativo che rimangono nel mazzo."
+    },
+    "DARK": {
+      "NAMES": [
+        "oscurità",
+        "oscurità+"
+      ],
+      "DESCRIPTION": "Globo: Incrementa il proprio danno da evocazione ogni turno. Quando viene #yEvocata infligge  il proprio danno al nemico con meno PV."
+    },
+    "DAZED": {
+      "NAMES": [
+        "disorientato"
+      ],
+      "DESCRIPTION": "Le carte Disorientato sono delle carte Eteree che non possono essere giocate."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "destrezza"
+      ],
+      "DESCRIPTION": "La Destrezza aumenta il Blocco ottenuto dalle carte."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "eterea"
+      ],
+      "DESCRIPTION": "Se questa carta è nella Mano a fine turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoca",
+        "evocato"
+      ],
+      "DESCRIPTION": "Consuma il tuo primo Globo (a destra) e usa i suoi effetti di Evocazione."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "esaurisci",
+        "esaurita",
+        "esauriscila",
+        "esaurire",
+        "esauriscono"
+      ],
+      "DESCRIPTION": "Rimossa dal mazzo per questo combattimento."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Il Focus aumenta l'efficacia dei Globi #yCreati."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragile"
+      ],
+      "DESCRIPTION": "Se sei Fragile, ottieni il #b25% di #yBlocco in meno dalle carte."
+    },
+    "FROST": {
+      "NAMES": [
+        "ghiaccio",
+        "ghiaccio+"
+      ],
+      "DESCRIPTION": "Globo: #yBlocca per te."
+    },
+    "INNATE": {
+      "NAMES": [
+        "innata"
+      ],
+      "DESCRIPTION": "Inizia ogni combattimento con questa carta in Mano."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangibile"
+      ],
+      "DESCRIPTION": "Riduce TUTTO il danno e la perdita di PV ad #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "fulmine",
+        "fulmine+",
+        "fulmini"
+      ],
+      "DESCRIPTION": "Globo: infligge danni a un nemico casuale."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "bloccata"
+      ],
+      "DESCRIPTION": "Questa carta deve essere ancora sbloccata."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "mirino"
+      ],
+      "DESCRIPTION": "I globi infliggono 50% danni bonus ai bersagli nel Mirino."
+    },
+    "OPENER": {
+      "NAMES": [
+        "apertura"
+      ],
+      "DESCRIPTION": "Le carte d'apertura possono essere giocate soltanto come prima carta in ogni turno."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni Energia a inizio turno."
+    },
+    "POISON": {
+      "NAMES": [
+        "veleno",
+        "avvelenato"
+      ],
+      "DESCRIPTION": "Prima di agire le creature Avvelenate perdono PV. Ogni turno, il Veleno viene ridotto di #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "conservi",
+        "permanente",
+        "conservata"
+      ],
+      "DESCRIPTION": "Le carte che Conservi non vengono scartate a fine turno. Le carte Permanenti vengono sempre Conservate."
+    },
+    "SHIV": {
+      "NAMES": [
+        "pugnale",
+        "pugnali"
+      ],
+      "DESCRIPTION": "I Pugnali sono carte Attacco con costo #b0 che si Esauriscono."
+    },
+    "STATUS": {
+      "NAMES": [
+        "stato"
+      ],
+      "DESCRIPTION": "Le carte Stato vengono rimosse a fine combattimento."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "forza"
+      ],
+      "DESCRIPTION": "La Forza aggiunge danno agli attacchi."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "colpo"
+      ],
+      "DESCRIPTION": "Qualsiasi carta con la parola \"Colpo\" nel nome."
+    },
+    "TEXT": [
+      "L'Energia viene usata per giocare carte dalla Mano."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "spine"
+      ],
+      "DESCRIPTION": "Quando riceve danno da #yAttacco, danneggia l'attaccante."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "trasforma"
+      ],
+      "DESCRIPTION": "Le carte Trasformate diventano una carta a caso di qualsiasi rarità."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "sconosciuta"
+      ],
+      "DESCRIPTION": "Questa carta deve essere ancora trovata."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "ingiocabile"
+      ],
+      "DESCRIPTION": "Se peschi carte Ingiocabili non puoi giocarle dalla Mano."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "potenzia",
+        "potenziata"
+      ],
+      "DESCRIPTION": "Potenziare le carte le rende più forti. Le carte possono essere potenziate una sola volta."
+    },
+    "VOID": {
+      "NAMES": [
+        "vuoto",
+        "vuoti"
+      ],
+      "DESCRIPTION": "Vuoto è una carta stato ingiocabile che consuma energia quando viene pescata."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnerabile"
+      ],
+      "DESCRIPTION": "Le creature Vulnerabili prendono il #b50% di danno in più dagli Attacchi."
+    },
+    "WEAK": {
+      "NAMES": [
+        "debole",
+        "weaken",
+        "weakened",
+        "weakens"
+      ],
+      "DESCRIPTION": "Il danno inflitto da attacchi di creature Deboli è ridotto del #b25%."
+    },
+    "WOUND": {
+      "NAMES": [
+        "ferita",
+        "ferite"
+      ],
+      "DESCRIPTION": "Le Ferite sono carte stato ingiocabili."
+    },
+    "STANCE": {
+      "NAMES": [
+        "Aspetto",
+        "Aspetti"
+      ],
+      "DESCRIPTION": "Puoi avere un solo Aspetto per volta."
+    },
+    "WRATH": {
+      "NAMES": [
+        "furia"
+      ],
+      "DESCRIPTION": "In questo #yAspetto infliggi e ricevi doppio danno da attacchi."
+    },
+    "CALM": {
+      "NAMES": [
+        "quiete"
+      ],
+      "DESCRIPTION": "Quando abbandoni questo #yAspetto ottieni [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divino"
+      ],
+      "DESCRIPTION": "Quando ottieni l'Aspetto Divino, ottieni [W] [W] [W] . Gli attacchi infliggono triplo danno. Abbandoni questo #yAspetto all'inizio del prossimo turno."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "Quando ottieni #b10 #yMantra ottieni l'Aspetto #yDivino."
+    },
+    "SCRY": {
+      "NAMES": [
+        "profetizzi",
+        "profetizza"
+      ],
+      "DESCRIPTION": "Guarda le prime X carte della pila e scartane quante desideri."
+    },
+    "REGEN": {
+      "NAMES": [
+        "rigenera"
+      ],
+      "DESCRIPTION": "Rigenerazione restituisce PV a fine turno. Ogni turno viene il numero è ridotto di #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigore"
+      ],
+      "DESCRIPTION": "Il tuo prossimo attacco infligge doppio danno"
+    },
+    "RITUAL": {
+      "NAMES": [
+        "rituale"
+      ],
+      "DESCRIPTION": "Ottieni #yForza a fine turno."
+    },
+    "FATAL": {
+      "NAMES": [
+        "letale"
+      ],
+      "DESCRIPTION": "Si attiva quando un nemico che non è un seguace viene ucciso da questa carta."
+    }
+  }
+}

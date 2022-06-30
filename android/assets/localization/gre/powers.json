@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Aκρίβεια",
+    "DESCRIPTIONS": [
+      "Τα #yΛεπίδια κάνουν #b",
+      " παραπάνω ζημιά."
+    ]
+  },
+  "After Image": {
+    "NAME": "Μετα-είδωλο",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις μια κάρτα, πάρε #b",
+      " #yΜπλοκάρισμα."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Ενίσχυση",
+    "DESCRIPTIONS": [
+      "Αυτό το γύρο, η επόμενη #yΔύναμη παίζεται 2 φορές.",
+      "Αυτό το γύρο, οι επόμενες ",
+      " #yΔυνάμεις παίζονται 2 φορές."
+    ]
+  },
+  "Anger": {
+    "NAME": "Εξοργισμός",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις μια #yΙκανότητα, πάρε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Angry": {
+    "NAME": "Εξαγριωμένος",
+    "DESCRIPTIONS": [
+      "Όποτε ",
+      " δέχεται ζημιά από #yΕπίθεση , παίρνει #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Μαγική Ασπίδα",
+    "DESCRIPTIONS": [
+      "Ακυρώνει #b",
+      " Αρνητική Επίδραση.",
+      " Αρνητικές Επιδράσεις."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Καμμένη Επίθεση",
+    "DESCRIPTIONS": [
+      "Για #b",
+      " γύρο, όποτε παίζεις #yΕπίθεση, #yΕξάντλησε τη.",
+      "Για τους επόμενους #b",
+      " γύρους, όποτε παίζεις #yΕπίθεση, #yΕξάντλησε τη."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Περίφραξη",
+    "DESCRIPTIONS": [
+      "Το #yΜπλοκάρισμα δεν φεύγει στην αρχή του γύρου σου.",
+      "Το #yΜπλοκάρισμα δεν φεύγει στην αρχή του γύρου σου."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Έξω φρενών",
+    "DESCRIPTIONS": [
+      "Πάρε ",
+      "  στην αρχή του γύρου σου."
+    ]
+  },
+  "Bias": {
+    "NAME": "Προκατάληψη",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, χάσε #b",
+      " #yΣυγκέντρωση."
+    ]
+  },
+  "Blur": {
+    "NAME": "Θολούρα",
+    "DESCRIPTIONS": [
+      "Το #yΜπλοκάρισμα δεν φεύγει στην αρχή του επόμενου γύρου σου.",
+      "Το #yΜπλοκάρισμα δεν φεύγει στην αρχή των επόμενων #b",
+      " γύρων σου."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Κτηνωδία",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, χάσε #b",
+      " ΒΥ και τράβηξε #b",
+      " κάρτα.",
+      "Στην αρχή του γύρου σου, χάσε #b",
+      " ΒΥ και τράβηξε #b",
+      " κάρτες."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Προφυλακτήρας",
+    "DESCRIPTIONS": [
+      "Ακύρωσε την επόμενη φορά που θα έχανες ΒΥ.",
+      "Ακύρωσε τις επόμενες #b",
+      " φορές που θα έχανες ΒΥ."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Ώρα για Σφαίρες",
+    "DESCRIPTIONS": [
+      "Όλες οι πράσινες κάρτες κοστίζουν #b0."
+    ]
+  },
+  "Burst": {
+    "NAME": "Έκρηξη",
+    "DESCRIPTIONS": [
+      "Αυτό το γύρο, παίξε την επόμενη #yΙκανότητα 2 φορές.",
+      "Αυτό το γύρο, παίξε τις επόμενες ",
+      " #yΙκανότητες 2 φορές."
+    ]
+  },
+  "Choked": {
+    "NAME": "Πνηγμός",
+    "DESCRIPTIONS": [
+      "Χάνει #b",
+      " ΒΥ όποτε παίζεις κάρτα αυτό το γύρο."
+    ]
+  },
+  "Combust": {
+    "NAME": "Ανάφλεξη",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου, χάσε #b",
+      " ΒΥ και κάνε #b",
+      " ζημιά σε ΌΛΟΥΣ τους εχθρούς."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Σύγχυση",
+    "DESCRIPTIONS": [
+      "Όποτε τραβάς κάρτα, έχει τυχαίο κόστος."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Συντήρηση",
+    "DESCRIPTIONS": [
+      "Η #yΕνέργεια μεταφέρεται αυτό το γύρο.",
+      "Η #yΕνέργεια μεταφέρεται για τους επόμενους #b",
+      " γύρους."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Συσφιγμένος",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου κάνε #b",
+      " ζημιά."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Διαφθορά",
+    "DESCRIPTIONS": [
+      "Οι Ικανότητες κοστίζουν #b0. Όποτε παίζεις #yΙκανότητα, #yΕξάντλησε τη.",
+      "Όποτε παίζεις #yΙκανότητα, #yΕξάντλησε τη."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Τεχνιτή Νοημοσύνη",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, βάλε #b",
+      " τυχαία Δύναμη στο χέρι σου.",
+      " τυχαίες Δυνάμεις στο χέρι σου."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Περιέργεια",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #yΔύναμη, πάρε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Κουλούριασμα",
+    "DESCRIPTIONS": [
+      "Όταν δεχθεί ζημιά από #yΕπίθεση, μαζεύεται και πέρνει ",
+      " #yΜπλοκάρισμα. (1 φορά ανά μάχη)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Χόρεψε Μαριονέττα",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις κάρτα που δεν είναι Ικανότητα, πάρε #b",
+      " ζημιά. (Το είδος της κάρτας αλλάζει κάθε γύρο)",
+      "Όποτε παίζεις κάρτα που δεν είναι Επίθεση, πάρε #b",
+      "+1 Χόρεψε Μαριονέττα"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Σκοτεινή Αγκαλιά",
+    "DESCRIPTIONS": [
+      "Όποτε μια κάρτα #yΕξαντλείται, τράβηξε #b1 κάρτα.",
+      "Όποτε μια κάρτα #yΕξαντλείται, τράβηξε #b",
+      " κάρτες."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Δαιμονική Μορφή",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου, πάρε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Πτώση Δεξιότητας",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου, χάσε #b",
+      " #yΔεξιότητα."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Δεξιότητα",
+    "DESCRIPTIONS": [
+      "Αυξάνει το #yΜπλοκάρισμα από κάρτες κατά #b",
+      "Μειώνει το #yΜπλοκάρισμα από κάρτες κατά #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Διπλή Ζημιά",
+    "DESCRIPTIONS": [
+      "Οι #yΕπιθέσεις κάνουν διπλή ζημιά για #b",
+      " γύρο.",
+      " γύρους."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Διπλό Χτύπημα",
+    "DESCRIPTIONS": [
+      "Αυτο το γύρο, παίξε την επόμενη #yΕπίθεση 2 φορές.",
+      "Αυτο το γύρο, παίξε τις επόμενες ",
+      " #yΕπιθέσεις 2 φορές."
+    ]
+  },
+  "Draw": {
+    "NAME": "Τράβηγμα",
+    "DESCRIPTIONS": [
+      "Τράβηξε #b",
+      " περισσότερη κάρτα στην αρχή κάθε γύρου.",
+      " λιγότερη κάρτα στην αρχή κάθε γύρου.",
+      " περισσότερες κάρτες στην αρχή κάθε γύρου.",
+      " λιγότερες κάρτες στην αρχή κάθε γύρου."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Τράβηξε Κάρτα",
+    "DESCRIPTIONS": [
+      "Τράβηξε #b",
+      " κάρτες τον επόμενο γύρο.",
+      " κάρτα τον επόμενο γύρο."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Κακό Τράβηγμα",
+    "DESCRIPTIONS": [
+      "Τράβηξε #b",
+      " λιγότερη κάρτα τον επόμενο γύρο.",
+      " λιγότερες κάρτες τον επόμενο γύρο."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Μείωση Τραβήγματος",
+    "DESCRIPTIONS": [
+      "Τράβηξε #b1 λιγότερη κάρτα τον επόμενο γύρο.",
+      "Τράβηξε #b1 λιγότερη κάρτα τους επόμενους #b",
+      " γύρους."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Ηχωμορφή",
+    "DESCRIPTIONS": [
+      "Η πρώτη κάρτα που παίζεις κάθε γύρο παίζεται 2 φορές.",
+      "Οι πρώτες #b",
+      " κάρτες που παίζεις κάθε γύρο παίζονται 2 φορές."
+    ]
+  },
+  "Electro": {
+    "NAME": "Ηλεκτρο",
+    "DESCRIPTIONS": [
+      "Ο #yΚεραυνός χτυπά ΌΛΟΥΣ τους εχθρούς.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Ενεργοποιημένος",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " παραπάνω [G] τον επόμενο γύρο.",
+      " παραπάνω [G] τους επόμενους γύρους.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Μπερδεμένος",
+    "DESCRIPTIONS": [
+      "Δεν μπορείς να παίξεις #yΕπιθέσεις για ένα γύρο."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Δηλητηρίαση",
+    "DESCRIPTIONS": [
+      "Όποτε κάνεις Αμπλοκάριστη ζημιά με #yΕπίθεση, εφάρμοσε #b",
+      " #yΔηλητήριο."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Εξέλιξη",
+    "DESCRIPTIONS": [
+      "Όποτε τραβάς μια #yΚατάσταση, τράβηξε μια κάρτα.",
+      "Όποτε τραβάς μια #yΚατάσταση, τράβηξε #b",
+      " κάρτες."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Εκρηκτικότητα",
+    "DESCRIPTIONS": [
+      "Σε #b",
+      " γύρους, εκρήγνυται προκαλώντας #b",
+      " ζημιά.",
+      "Στο γύρο του, εκρήγνυται προκαλώντας #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Περισσότερες Κάρτες",
+    "DESCRIPTIONS": [
+      "Τράβηξε #b1 περισσότερη κάρτα τον επόμενο γύρο.",
+      "Τράβηξε #b",
+      " περισσότερες κάρτες τον επόμενο γύρο."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Δε Νιώθω Πόνο",
+    "DESCRIPTIONS": [
+      "Όποτε μια κάρτα #yΕξαντλείται, Πάρε #b",
+      " #yΜπλοκάρισμα."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Ανάσα Φωτιάς",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου σου, για κάθε #yΕπίθεση που έπαιξες αυτό το γύρο κάνε #b",
+      " ζημιά σε ΌΛΟΥΣ τους εχθρούς."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Φράγμα Φωτιάς",
+    "DESCRIPTIONS": [
+      "Όποτε δέχεσαι ζημιά από #yΕπίθεση , κάνε #b",
+      " ζημιά."
+    ]
+  },
+  "Flex": {
+    "NAME": "Μείωση Δύναμης",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου σου, χάσε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Flight": {
+    "NAME": "Πτήση",
+    "DESCRIPTIONS": [
+      "Μειώνει τη ζημιά από #yΕπίθεση κατά #b50%. Ακυρώνετε εάν δεχθεί #b3 φορές #yΕπίθεση σε ένα γύρο.",
+      " times in one turn."
+    ]
+  },
+  "Focus": {
+    "NAME": "Συγκέντρωση",
+    "DESCRIPTIONS": [
+      "Αυξάνει την αποτελεσματικότητα των Σφαιρών κατά #b",
+      "Μειώνει την αποτελεσματικότητα των Σφαιρών κατά #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Ευπαθής",
+    "DESCRIPTIONS": [
+      "Πάρε #b25% λιγότερο #yΜπλοκάρισμα από κάρτες για #b",
+      " γύρο.",
+      " γύρους."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Ελιγμός",
+    "DESCRIPTIONS": [
+      "Μετά από #b",
+      " γύρο, Πάρε ",
+      " γύρους, Πάρε ",
+      " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου του, παίρνει #b",
+      " #yΔύναμη."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Ανάπτυξη",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου του, παίρνει #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Ψύκτρα",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις μια Δύναμη, τράβηξε #b",
+      " κάρτα.",
+      " κάρτες."
+    ]
+  },
+  "Hello": {
+    "NAME": "Γεια",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, πάρε #b",
+      " τυχαίες Κοινές κάρτες στο χέρι.",
+      " τυχαία Κοινή κάρτα στο χέρι."
+    ]
+  },
+  "Hex": {
+    "NAME": "Μάγεμα",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις κάρτα που δεν είναι Επίθεση, ανακάτεψε #b",
+      " #yΖαλισμένος στη Στοίβα Τραβήγματος."
+    ]
+  },
+  "Hide": {
+    "NAME": "Κρύψου",
+    "DESCRIPTIONS": [
+      "Δε μπορείς να δεχθείς ζημιά μέχρι την αρχή του επόμενου γύρου σου.",
+      "Δε μπορείς να δεχθείς ζημιά για #b",
+      " γύρους."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Ατέλειωτες Λεπίδες",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, τράβηξε #b",
+      " #yΛεπίδια.",
+      " #yΛεπίδι."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Άυλος",
+    "DESCRIPTIONS": [
+      "Μειώνει ΌΛΗ τη ζημιά και την απώλεια ΒΥ σε #b1 αυτό το γύρο. Το Άυλος εφαρμόζεται κάθε δεύτερο γύρο."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Άυλος",
+    "DESCRIPTIONS": [
+      "Μείωσε ΌΛΗ τη ζημιά και την απώλεια ΒΥ σε #b1."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Αντίστροφος",
+    "DESCRIPTIONS": [
+      "Απρόσβλητος από ζημιά. Όποτε πέρνει #yΜπλοκάρισμα, χάνει τόσους ΒΥ."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Τριαξονικός",
+    "DESCRIPTIONS": [
+      "Όποτε πάρεις #yΜπλοκάρισμα, κάνε #b",
+      " ζημιά σε έναν τυχαίο εχθρό."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Γνώση",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #yΔύναμη, τράβηξε #b",
+      " κάρτες."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Ζωτικός Σύνδεσμος",
+    "DESCRIPTIONS": [
+      "Αν υπάρχουν άλλοι ζωντανοί εχθροί, αναγεννάτε σε #b2 γύρους με #b50% ΒΥ."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Κλείδωμα",
+    "DESCRIPTIONS": [
+      "Σφαίρες #yΚεραυνός και #yΣκότος συμαδεύουν αυτόν τον εχθρό για #b",
+      " γύρους.",
+      "Σφαίρες #yΚεραυνός και #yΣκότος συμαδεύουν αυτόν τον εχθρό αυτό το γύρο.",
+      " turns."
+    ]
+  },
+  "Loop": {
+    "NAME": "Βρόχος",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, ενεργοποίησε το παθητικό της επόμενης Σφαίρας σου.",
+      "Στην αρχή του γύρου σου, ενεργοποίησε το παθητικό της επόμενης Σφαίρας σου #b",
+      " φορές."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Εκμάθηση Μηχανής",
+    "DESCRIPTIONS": [
+      "Τράβηξε #b",
+      " παραπάνω κάρτα στην αρχή καθε γύρου.",
+      " παραπάνω κάρτες στην αρχή καθε γύρου."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Μαγνητισμός",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, βάλε #b%s τυχαία άχρωμη κάρτα στο χέρι σου.",
+      "Στην αρχή του γύρου σου, βάλε #b%s τυχαίες άχρωμες κάρτες στο χέρι σου."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Εύπλαστος",
+    "DESCRIPTIONS": [
+      "Όταν δεχθεί ζημιά από #yΕπίθεση , παίρνει #b",
+      " #yΜπλοκάρισμα. Το #yΜπλοκάρισμα αυξάνει όσο",
+      " ενεργοποιείται. Επαναφέρεται σε #b",
+      " στην αρχή του γύρου σου."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Μεταλλοποίηση",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΜπλοκάρισμα στο τέλος του γύρου σου.",
+      "Παίρνει #b",
+      " #yΜπλοκάρισμα στο τέλος του γύρου του."
+    ]
+  },
+  "Minion": {
+    "NAME": "Τσιράκι",
+    "DESCRIPTIONS": [
+      "Τα τσιράκια εγκαταλείπουν τη μάχη χωρίς τον αρχηγό τους."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Αλλαγή Λειτουργείας",
+    "DESCRIPTIONS": [
+      "Μόλις δεχτεί #b",
+      " ζημιά, αλλάζει σε αμυντική λειτουργεία."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Μπλοκάρισμα επόμενου Γύρου",
+    "DESCRIPTIONS": [
+      "Στην αρχή του επόμενου γύρου, Πάρε #b",
+      " #yΜπλοκάρισμα."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Εφιάλτης",
+    "DESCRIPTIONS": [
+      "Στην αρχή του επόμενου γύρου, βάλε #b",
+      " κάρτες στο χέρι σου."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Καμία Επίθεση",
+    "DESCRIPTIONS": [
+      "Δεν μπορείς να παίξεις #yΕπίθεση αυτό το γύρο."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Κανένα Τράβηγμα",
+    "DESCRIPTIONS": [
+      "Δεν μπορείς να τραβήξεις κάρτες ως το τέλος του γύρου."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Επιβλαβείς Αναθυμιάσεις",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, εφάρμοσε #b",
+      " #yΔηλητήριο σε ΌΛΟΥΣ τους εχθρούς."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Αχρήστευση Επίθεσης",
+    "DESCRIPTIONS": [
+      "Πλήρες #yΜπλοκάρισμα μιας #yΕπίθεση κάθε γύρο."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Επίπονες Μαχαιριές",
+    "DESCRIPTIONS": [
+      "Όποτε δεχθείς ζημιά από αυτόν τον εχθρό, βάλε μια #yΠληγή στη Στοίβα Απόρριψης."
+    ]
+  },
+  "Panache": {
+    "NAME": "Καμάρι",
+    "DESCRIPTIONS": [
+      "Αν παίξεις #b",
+      " παραπάνω κάρτα αυτό το γύρο, κάνε #b",
+      " ζημιά σε ΌΛΟΥΣ τους εχθρούς.",
+      " παραπάνω κάρτες αυτό το γύρο, κάνε #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Αιχμηρή Πένα",
+    "DESCRIPTIONS": [
+      "Η επόμενη σου #yΕπίθεση κάνει διπλή ζημιά."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Φαντασματικός",
+    "DESCRIPTIONS": [
+      "Κάνε #yΔιπλή #yΖημιά τον επόμενο γύρο.",
+      "Κάνε #yΔιπλή #yΖημιά τους επόμενους ",
+      " γύρους."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Επιστρωμένη Πανοπλία",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " #yΜπλοκάρισμα στο τέλος του γύρου σου. Αν χάσεις ΒΥ απο μια Επίθεση μείωσε την #yΕπιστρωμένη #yΠανοπλία κατά #b1.",
+      "Δίνει #b",
+      " #yΜπλοκάρισμα στο τέλος του γύρου του. Αν χάσεις ΒΥ απο μια Επίθεση μείωσε την #yΕπιστρωμένη #yΠανοπλία κατά #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Δηλητήριο",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, χάσε #b",
+      " ΒΥ, και μείωσε το #yΔηλητήριο κατά #b1.",
+      "Στην αρχή του γύρου του, χάνει #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Ακμή",
+    "DESCRIPTIONS": [
+      "Όποτε #yΔιοχετεύσεις μια Σφαίρα, τράβηξε #b",
+      " κάρτα.",
+      " κάρτες."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Πρωτόγονος",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις μια Κοινή κάρτα, τράβηξε #b",
+      " κάρτα.",
+      " κάρτες."
+    ]
+  },
+  "Rage": {
+    "NAME": "Οργή",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις Επίθεση αυτό το γύρο, Πάρε #b",
+      " #yΜπλοκάρισμα."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Αναπήδηση",
+    "DESCRIPTIONS": [
+      "Η επόμενη κάρτα που θα παίξεις αυτό το γύρο επιστρέφει στην κορυφή της Στοίβας Τραβήγματος.",
+      "Οι επόμενες #b",
+      " κάρτες που θα παίξεις αυτό το γύρο επιστρέφουν στην κορυφή της Στοίβας Τραβήγματος."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Μείωση Ζημιάς",
+    "DESCRIPTIONS": [
+      "Μειώνει τη ζημιά που δέχεσαι κατά #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Αναγέννηση",
+    "DESCRIPTIONS": [
+      "Γιατρεύει #b",
+      " #yΒΥ στο τέλος του γύρου του."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Αναγέννηση",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου σου, γιάτρεψε #b",
+      " #yΒΥ, και μείωσε την #yΑναγέννηση κατά #b1.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Επισκευή",
+    "DESCRIPTIONS": [
+      "Στο τέλος της μάχης, γιάτρεψε #b",
+      " ΒΥ."
+    ]
+  },
+  "Repulse": {
+    "NAME": "Απώθηση",
+    "DESCRIPTIONS": [
+      "Όποτε ",
+      " δέχεται ζημιά από Επίθεση, βάζει μια #yΠληγή στο χέρι σου."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Κράτηση καρτών",
+    "DESCRIPTIONS": [
+      "Στο τέλος κάθε γύρου, Μπορείς να κρατήσεις #b",
+      " κάρτα.",
+      " κάρτες."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Κράτηση Χεριού",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου σου, δεν απορρίπτεις το χέρι σου για #b",
+      " γύρους.",
+      "Στο τέλος του γύρου σου, δεν απορρίπτεις το χέρι σου."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Αντιξιφισμός",
+    "DESCRIPTIONS": [
+      "Μια φορά το γύρο κάνει #b",
+      " ζημιά πίσω όταν παίζεις μια #yΕπίθεση."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Τελετουργικό",
+    "DESCRIPTIONS": [
+      "στο τέλος του γύρου του, παίρνει #b",
+      " #yΔύναμη.",
+      "At the end of your turn, gain #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "Ρήξη",
+    "DESCRIPTIONS": [
+      "Μόλις χάσεις ΒΥ από μια κάρτα, Πάρε #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Σαδιστής",
+    "DESCRIPTIONS": [
+      "Όποτε εφαρμόζεις μια Αρνητική Επίδραση σε έναν εχθρό, κάνε #b",
+      " ζημιά."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Οφιοειδής",
+    "DESCRIPTIONS": [
+      "Απρόσβλητος σε #yΦίλτρα."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Δεσμευμένος",
+    "DESCRIPTIONS": [
+      "Ξαναπαίρνει #b",
+      " #yΔύναμη στο τέλος του γύρου του."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Κοφτερό Τομάρι",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #yΕπίθεση, πάρε #b",
+      " ζημιά."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Στρίγκλισμα απο το ΥπερΠέραν",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #yΕπίθεση, απέρριψε μια τυχαία κάρτα."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Κάψιμο Ικανότητας",
+    "DESCRIPTIONS": [
+      "Για #b",
+      " γύρους, όποτε παίζεις #yΙκανότητα, #yΕξάντλησε τη.",
+      "Για τους επόμενους #b",
+      " γύρους, όποτε παίζεις #yΙκανότητα, #yΕξάντλησε τη."
+    ]
+  },
+  "Slow": {
+    "NAME": "Αργός",
+    "DESCRIPTIONS": [
+      "Για κάθε κάρτα που παίζεις αυτό το γύρο, ",
+      " παίρνει #b10% περισσότερη ζημιά από #yΕπιθέσεις.",
+      " (Παίρνει #b",
+      "% περισσότερη ζημιά)"
+    ]
+  },
+  "Split": {
+    "NAME": "Χωρισμός",
+    "DESCRIPTIONS": [
+      "Όταν οι ΒΥ του είναι #b50% ή λιγότερο, χωρίζεται σε #b2 μικρότερες γλίτσες με τους ",
+      " τωρινούς ΒΥ."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Σύννεφο Σποριδίων",
+    "DESCRIPTIONS": [
+      "Μόλις πεθάνει, εφαρμόζει #yΕυάλωτος πάνω σου για #b",
+      " γύρους."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Στάσις",
+    "DESCRIPTIONS": [
+      "Μόλις πεθάνει, η κάρτα",
+      " επιστρέφει στο χέρι σου."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Στατική Εκκένωση",
+    "DESCRIPTIONS": [
+      "Όταν δέχεσε ζημιά από #yΕπίθεση, #yΔιοχέτευσε #b",
+      " #yΚεραυνός."
+    ]
+  },
+  "Storm": {
+    "NAME": "Καταιγιδα",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #bΔύναμη, #yΔιοχέτευσε #b ",
+      " Κεραυνός."
+    ]
+  },
+  "Strength": {
+    "NAME": "Δύναμη",
+    "DESCRIPTIONS": [
+      "Ανεβάζει τη ζημιά Επίθεσης κατά #b",
+      "Κατεβάζει τη ζημιά Επίθεσης κατά #b",
+      "."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Ληστεία",
+    "DESCRIPTIONS": [
+      " Κλέβει #b",
+      " #yΧρυσό Όποτε επιτίθεται."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Αγκάθια",
+    "DESCRIPTIONS": [
+      "Όταν δεχθεί ζημιά από #yΕπίθεση, κάνει #b",
+      " ζημιά πίσω."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Χίλια Κοψήματα",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις κάρτα, κάνε #b",
+      " ζημιά σε ΌΛΟΥΣ τους εχθρούς."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Χρονική Στρέβλωση",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #b",
+      " κάρτες, ο γύρος σου τελειώνει και ο Χρονοφάγος παίρνει #b",
+      " #yΔύναμη."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Εργαλεία της Δουλειάς",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου σου, τράβηξε #b",
+      " κάρτα και απέρριψε #b",
+      " κάρτα.",
+      " κάρτες και απέρριψε #b",
+      " κάρτες."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Κοιμισμένος",
+    "DESCRIPTIONS": [
+      "Αυτός ο εχθρός δεν έχει αφυπνιστεί ακόμη..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Αστάθεια",
+    "DESCRIPTIONS": [
+      "Κάνε αρκετή ζημιά για να βγεί εκτός ισορροπίας."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Δηλητηριολογία",
+    "DESCRIPTIONS": [
+      "Το #yΔηλητήριο αυξάνεται κατά #b",
+      " αντί να μειώνεται κάθε γύρο."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Ευάλωτος",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      "% περισσότερη ζημιά από #yΕπιθέσεις για #b",
+      " γύρο.",
+      " γύρους."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Αδύναμος",
+    "DESCRIPTIONS": [
+      "Οι #yΕπιθέσεις κάνουν #b",
+      "% λιγότερη ζημιά για #b",
+      " γύρο.",
+      " γύρους."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Μορφή Φαντάσματος ",
+    "DESCRIPTIONS": [
+      "Στο τέλος του γύρου σου, χάσε #b",
+      " #yΔεξιότητα."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Ισορροπία",
+    "DESCRIPTIONS": [
+      "Κράτησε το χέρι σου αυτό το γύρο.",
+      "Κράτησε το χέρι σου για #b",
+      " γύρους."
+    ]
+  },
+  "Fading": {
+    "NAME": "Ξεθώριασμα",
+    "DESCRIPTIONS": [
+      "Πεθαίνει σε #b",
+      " γύρους.",
+      "Πεθαίνει αυτό το γύρο."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Μετατόπιση",
+    "DESCRIPTIONS": [
+      "Όποτε ",
+      " δέχεται ζημιά, χάνει τόση #yΔύναμη ως το τέλος του γύρου."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Ενεργοποίηση",
+    "DESCRIPTIONS": [
+      "Πάρε #b",
+      " παραπάνω [B] τον επόμενο γύρο.",
+      " παραπάνω [B] τον επόμενο γύρο.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Χρονικός Λαβύρινθος",
+    "DESCRIPTIONS": [
+      "Όποτε παίζεις #b",
+      " κάρτες, ο γύρος σου τελειώνει"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Αδυναμία Μπλοκαρίσματος",
+    "DESCRIPTIONS": [
+      "Δεν μπορείς να πάρεις #yΜπλοκάρισμα."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Πανδαιμόνιο",
+    "DESCRIPTIONS": [
+      "Στην αρχή του γύρου, παίξε την πρώτη κάρτα στη στοίβα Τραβήγματος.",
+      "Στην αρχή του γύρου, παίξε τις πρώτες #b",
+      " κάρτες στη στοίβα Τραβήγματος."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage and increase this powers damage by #b1. Resets every turn."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100.",
+      " more HP this round.",
+      "Can no longer be harmed this round."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Free Attack Power",
+    "DESCRIPTIONS": [
+      "Ignore energy cost on the next #yAttack you play.",
+      "Ignore energy cost on the next #b",
+      " #yAttacks you play."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "Your next card is played twice this turn.",
+      "Your next ",
+      " cards are played twice this turn."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "No Skills",
+    "DESCRIPTIONS": [
+      "You cannot play #ySkills this turn."
+    ]
+  },
+  "Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTIONS": [
+      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Master Reality",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      "s into your hand.",
+      " into your hand.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+    ]
+  },
+  "Retribution": {
+    "NAME": "Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Establishment",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yRetained, lower its cost by #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Controlled",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega Power",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal ",
+      " damage to ALL enemies."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, #yUpgrade it.",
+      " Block."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Wireheading",
+    "DESCRIPTIONS": [
+      "At the end of your turn, #yScry ",
+      "."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTIONS": [
+      "The first card you draw each turn has its cost reduced by #b",
+      " that turn.",
+      " #ySmite into your hand."
+    ]
+  },
+  "Grounded": {
+    "NAME": "Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "When you obtain #b",
+      " #yMantra, enter #yDivinity."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Strike Up",
+    "DESCRIPTIONS": [
+      "Cards containing #yStrike deal #b",
+      " additional damage."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Adaptation",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Cannot Change Stance",
+    "DESCRIPTIONS": [
+      "Cannot change your stance this turn."
+    ]
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTIONS": [
+      "Receives #b",
+      " damage at the start of your next turn."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Block Return",
+    "DESCRIPTIONS": [
+      "When attacked, you gain #b",
+      " #yBlock."
+    ]
+  },
+  "HotHot": {
+    "NAME": "Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Collect": {
+    "NAME": "Collect",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain [B] [B] .",
+      "At the start of your next #b",
+      " turns, gain [B] [B] ."
+    ]
+  },
+  "Condense": {
+    "NAME": "Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Serenity": {
+    "NAME": "Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Blasphemer",
+    "DESCRIPTIONS": [
+      "At the start of your turn, die."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Vigor",
+    "DESCRIPTIONS": [
+      "Your next Attack deals #b",
+      " additional damage."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Devotion",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Simmering Rage",
+    "DESCRIPTIONS": [
+      "Enter #yWrath at the start of your turn."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [W] ",
+      "At the start of your turn, gain [W] #b",
+      " times ",
+      "and increase this by #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenver you #yScry, #yScry #b",
+      " additional cards."
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Wave Of The Hand",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "Wave Of The Hand2",
+    "DESCRIPTIONS": [
+      "Whenever you gain change #yStances, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "Discipline",
+    "DESCRIPTIONS": [
+      "If you end your turn with unused [W]  , draw that many additional cards next turn."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Path to Victory",
+    "DESCRIPTIONS": [
+      "Whenever you play #yPath #yto #yVictory, loses #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+      "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
+    ]
+  }
+}

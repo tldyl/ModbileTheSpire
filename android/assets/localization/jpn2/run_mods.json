@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "オールスター",
+    "DESCRIPTION": "無色のカード5枚を所持してスタートする。"
+  },
+  "Binary": {
+    "NAME": "二者択一",
+    "DESCRIPTION": "カード報酬が2枚に減る。"
+  },
+  "Brewmaster": {
+    "NAME": "[DEPRECATED] 醸造マスター",
+    "DESCRIPTION": "5枚の錬金術と白き獣の像を所持してスタートする。"
+  },
+  "Cursed Run": {
+    "NAME": "呪われし道程",
+    "DESCRIPTION": "ボスを倒すたび、呪われる。スターターレリックが呪いの鍵、ダークストーンの護符、ドゥーブー人形に置き換わる。"
+  },
+  "Diverse": {
+    "NAME": "多様性",
+    "DESCRIPTION": "カードはキャラクターの制限を受けない。"
+  },
+  "Draft": {
+    "NAME": "ドラフト",
+    "DESCRIPTION": "カードをドラフトして初期デッキを作る。"
+  },
+  "Elite Swarm": {
+    "NAME": "大物狙い",
+    "DESCRIPTION": "エリート達が塔で群れを成し、より良いものをドロップするようになる。"
+  },
+  "Heirloom": {
+    "NAME": "先祖伝来の家宝",
+    "DESCRIPTION": "ランダムなレアレリック1つを所持してスタートする。"
+  },
+  "Hoarder": {
+    "NAME": "収集癖",
+    "DESCRIPTION": "カードをデッキに加えるたび、その複製を2枚追加する。あなたは商人のカード削除サービスを利用できなくなる。"
+  },
+  "Insanity": {
+    "NAME": "狂気の沙汰",
+    "DESCRIPTION": "ランダムな50枚のデッキでスタートする。"
+  },
+  "Lethality": {
+    "NAME": "致命傷",
+    "DESCRIPTION": "戦闘開始時、あなたとすべての敵は筋力3を得る。"
+  },
+  "Night Terrors": {
+    "NAME": "夜の恐怖",
+    "DESCRIPTION": "休憩場所での回復量が100％になるが、最大HP5を失うようになる。"
+  },
+  "Shiny": {
+    "NAME": "ピカピカ",
+    "DESCRIPTION": "初期デッキのカードをすべてレアカードと置き換える。"
+  },
+  "Midas": {
+    "NAME": "ミダス",
+    "DESCRIPTION": "敵が落とすゴールドが2倍になるが、休憩場所でカードのアップグレードができなくなる。"
+  },
+  "Specialized": {
+    "NAME": "特化",
+    "DESCRIPTION": "同じレアカード5枚を所持してスタートする。"
+  },
+  "Terminal": {
+    "NAME": "ターミナル",
+    "DESCRIPTION": "新しい部屋に入るたび、最大HP1を失う。 戦闘開始時、プレートアーマー 5 を得る。"
+  },
+  "Time Dilation": {
+    "NAME": "時間の遅れ",
+    "DESCRIPTION": "敵全体にスローのデバフを付与する。"
+  },
+  "Uncertain Future": {
+    "NAME": "確定的未来",
+    "DESCRIPTION": "マップが一本道になる。"
+  },
+  "Vintage": {
+    "NAME": "ヴィンテージ",
+    "DESCRIPTION": "通常の敵がカードの代わりにレリックをドロップするようになる。"
+  },
+  "Endless": {
+    "NAME": "エンドレス",
+    "DESCRIPTION": "クリアするとデッキはそのままで序章に戻る。 気をつけろ、災厄はすべてを貪りつくす…"
+  },
+  "One Hit Wonder": {
+    "NAME": "一発屋",
+    "DESCRIPTION": "最大HP1でスタートする。"
+  },
+  "Starter Deck": {
+    "NAME": "初期デッキ",
+    "DESCRIPTION": "壊れた王冠と二者択一を所持してゲームを開始する。敵はカードを1枚も落とさない。"
+  },
+  "Praise Snecko": {
+    "NAME": "スネッコを称えよ",
+    "DESCRIPTION": "スターターレリックをスネッコアイと置き換える。"
+  },
+  "Inception": {
+    "NAME": "インセプション",
+    "DESCRIPTION": "スターターレリックを永久コマと置き換える。"
+  },
+  "My True Form": {
+    "NAME": "我が真なる姿を見よ",
+    "DESCRIPTION": "悪魔化、死霊化、反響化、神人化を1枚ずつ所持してスタートする。"
+  },
+  "Blight Chests": {
+    "NAME": "災厄の櫃",
+    "DESCRIPTION": "エンドレスにおいて、Act3のボス討伐後のボス宝箱には災厄が封じられるようになる。"
+  },
+  "Stunted Growth": {
+    "NAME": "発育不全",
+    "DESCRIPTION": "エンドレスにおいて、Act3のボス討伐後、敵はカードをドロップしなくなる。"
+  },
+  "Blue Cards": {
+    "NAME": "ブルーカード",
+    "DESCRIPTION": "ブルーカードが報酬とショップに出現する。"
+  },
+  "Red Cards": {
+    "NAME": "レッドカード",
+    "DESCRIPTION": "レッドカードが報酬とショップに出現する。"
+  },
+  "Colorless Cards": {
+    "NAME": "無色カード",
+    "DESCRIPTION": "無色カードが報酬とショップに出現する。"
+  },
+  "Green Cards": {
+    "NAME": "グリーンカード",
+    "DESCRIPTION": "グリーンカードが報酬とショップに出現する。"
+  },
+  "SealedDeck": {
+    "NAME": "シールドデッキ",
+    "DESCRIPTION": "30枚のランダムなカードからデッキを作成する。"
+  },
+  "IntelligentEnemies": {
+    "NAME": "知性ある敵たち",
+    "DESCRIPTION": "すべての敵はより強力な行動と能力を持つ。"
+  },
+  "MonsterHunter": {
+    "NAME": "コロッサス",
+    "DESCRIPTION": "敵は追加のHPを得るが、より良い報酬を落とす。"
+  },
+  "NeowTime": {
+    "NAME": "ネオーの時間だ",
+    "DESCRIPTION": "ネオーから3つの祝福と1つの災厄を受け取る。"
+  },
+  "Flight": {
+    "NAME": "飛翔",
+    "DESCRIPTION": "次の部屋を選択するとき、あなたは道を無視して飛ぶことができる。"
+  },
+  "ControlledChaos": {
+    "NAME": "制御された混沌",
+    "DESCRIPTION": "凍った目を所持してスタートする。ターン開始時、10枚のランダムなカードを山札の底に置く。"
+  },
+  "Careless": {
+    "NAME": "不注意",
+    "DESCRIPTION": "ターン開始時、山札の一番上のカードを捨てる。"
+  },
+  "Chimera": {
+    "NAME": "キメラ",
+    "DESCRIPTION": "あなたの初期デッキは、全てのキャラクターの初期デッキを融合させたものになる。"
+  },
+  "DeadlyEvents": {
+    "NAME": "命がけのイベント",
+    "DESCRIPTION": "?の部屋でエリートが出現する可能性があるが、財宝部屋の出現率が上がる。"
+  },
+  "Daily Mods": {
+    "NAME": "デイリー",
+    "DESCRIPTION": "3つのランダムなデイリーチャレンジの特殊効果を付与してスタートする。"
+  },
+  "The Ending": {
+    "NAME": "終点",
+    "DESCRIPTION": "最終階層を解放する。"
+  },
+  "Purple Cards": {
+    "NAME": "パープルカード",
+    "DESCRIPTION": "パープルカードが報酬とショップに出現する。"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Promašaj"
+    ],
+    "TEXT": [
+      "Borbeni automaton koji je postao svestan. NL Drevna tehnologija mu dozvoljava da manipuliše sferama."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Železni"
+    ],
+    "TEXT": [
+      "Jedini preostali vitez iz odreda Železnih. NL Trampio dušu za đavolje moći."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Nastavi",
+      "~Dobar~ ~dan!~"
+    ],
+    "TEXT": [
+      "Ćao! NL Kupi nešto! NL Kupi kupi kupi!",
+      "Sviđa mi se tvoja frizura",
+      "Imaš li malo vremena?",
+      "Jel više voliš kuce ili mace?",
+      "Izgledaš ~opasno,~ NL hehe...",
+      "Polako, bez žurbe... NL ..... NL ... ili sa",
+      "Jel ti se sviđa ovaj tepih? NL Nije na prodaju",
+      "Podrži male preduzetnike!",
+      "Maske su kul, prvi bih znao!",
+      "Hmm... NL ...hmm... NL O!",
+      "Sedi i podivani!",
+      "Opasno je lutati sam! Poveri mi sve svoje zlato!",
+      "Kupi neš'",
+      "~*ZEV*~",
+      "Volim zlato.",
+      "Moja omiljena boja je plava. NL Tvoja?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Njova"
+    ],
+    "TEXT": [
+      "~Pozdrav...~ NL ~Ja..~ ~sam~ ~Njova...~",
+      "~Zdravo...~ NL ~Ponovo..~",
+      "~Pozdrav...~",
+      "~Još~ ~jedan~ NL ~pokušaj...?~",
+      "~Stigni~ ~do~ ~vožda...~ NL ~ako~ ~želiš~ ~moj..~ ~blagoslov...~",
+      "~Za~ ~početak...~ NL ~se~ ~barem~ ~suoči..~ NL ~sa~ ~prvim~ ~voždom...~",
+      "~Ja~ ~te~ ~vratih...~",
+      "~Biraj...~",
+      "~Podato...~",
+      "~Rizik...~ NL ~..nagrada....~",
+      "~Vreme~ ~je~ ~za~ NL ~IZAZOV...~",
+      "Nagrade",
+      "~Hajmo~ ~da~ ~nastavimo...~",
+      "~Samo~ ~postaje~ ~teže...~",
+      "~Impresivno...~ ~još...~",
+      "Uklet!",
+      "Pošandrcao!",
+      "Preobraženje!"
+    ],
+    "OPTIONS": [
+      "[Nastavi]",
+      "[Razgovaraj]",
+      "[Preskoči]",
+      "[Pođi]",
+      "Choose 10 cards to add to your deck."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gIzaberi #gkartu ]",
+      "[ #gZadobi #gnasumičnu #gretku #gkartu ]",
+      "[ #gUkloni #gkartu ]",
+      "[ #gPoboljšaj #gkartu ]",
+      "[ #gPreobrazi #gkartu ]",
+      "[ #gZadobi #gtri #gnasumična #gnapitka ]",
+      "[ #gZadobi #gnasumičnu #gobičnu #grelikviju ]",
+      "[ #gMaks. #gž. #gp. #g+",
+      "[ #gZadobi #g",
+      " #gzlata ]",
+      "#gUkloni #gdve #gkarte ]",
+      "#gZadobi #gnasumičnu #gretku #grelikviju ]",
+      "#gIzaberi #gretku #gkartu ]",
+      "#gZadobi #g",
+      " #gzlata ]",
+      "#gPreobrazi #gdve #gkarte ]",
+      "#gMaks. #gž. #gp. #g+",
+      "[ #rŽrtvuj #r",
+      " #rmaks. #rž. #rp. ",
+      "[ #rOdbaci #rsve #rzlato ",
+      "[ #rPostani #ruklet ",
+      "[ #rŽrtvuj #r50% #rtrenutnih #rž. #rp. ",
+      "Izaberi kartu",
+      "Ukloni kartu",
+      "Ukloni dve karte",
+      "Preobrazi kartu",
+      "Preobrazi dve karte",
+      "Poboljšaj kartu",
+      "[ #gNeprijatelji #gu #gsledeće #gtri #gborbe #gimaju #gpo #gjedan #gž. #gp. ]",
+      " #rdamage",
+      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+      "#gObtain #g2 #grandom #gcolorless #gCards ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rOdbaci #rurođenu #rrelikviju #gZadobi #gnasumičnu #gvoždovsku #grelikviju ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Zdravo~ NL ~zdravo!~",
+      "'Ajde sad, NL treba ti NL još #rzlata.",
+      "'Ej drugar, nemaš dovoljno #rnovca!",
+      "Švorc?",
+      "Nem'š dovoljno #rzlata.",
+      "To ne možeš da priuštiš.",
+      "Ovde ne doniramo.",
+      "~Hvaaaala~",
+      "Još jedna prodaja... NL hohoho! NL Zvec - @ZVEC!@",
+      "@PRODATO!@",
+      "Nema povraćaja.",
+      "Prijatan dan.",
+      "Pođi",
+      "Ukloni kartu iz špila."
+    ],
+    "TEXT": [
+      "Ćao! NL Kupi nešto! NL Kupi kupi kupi!",
+      "Sviđa mi se tvoja frizura",
+      "Imaš li malo vremena?",
+      "Jel više voliš kuce ili mace?",
+      "Izgledaš ~opasno,~ NL hehe...",
+      "Polako, bez žurbe... NL ..... NL ... ili sa",
+      "Jel ti se sviđa ovaj tepih? NL Nije na prodaju",
+      "Podrži male preduzetnike!",
+      "Maske su kul, prvi bih znao!",
+      "Da nisi video mog kurira?",
+      "Podivani i poslušaj!",
+      "Opasno je lutati sam! Poveri mi sve svoje zlato!",
+      "Kupi neš'",
+      "~*ZEV*~",
+      "Volim zlato.",
+      "Moja omiljena boja je plava. NL Tvoja?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Nema"
+    ],
+    "TEXT": [
+      "Smrtonosni lovac iz maglom opasanih zemalja. NL Neprijatelje istrebljuje bodežima i otrovom."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps..... NL So...... shall...",
+      "..I......."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
+  }
+}

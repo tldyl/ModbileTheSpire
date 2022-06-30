@@ -1,0 +1,232 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "Derrote os inimigos jogando cartas de sua mão! NL NL Cartas requerem #yEnergia para jogar. NL Assim que estiver sem, termine seu turno. NL NL No início do seu turno, novas cartas são compradas e sua #yEnergia enche novamente.",
+      "Jogue cartas defensivas para ganhar #yProteção quando os inimigos estão prestes a te atacar. NL NL #yProteção reduz o dano de ataques recebidos, mas NL #rdesaparece no início do seu próximo turno.",
+      "Durante seu turno, você pode observar a #yIntenção do inimigo acima deles. NL NL Se um inimigo tem a intenção de te atacar, certifique-se de ganhar alguma #yProteção!"
+    ],
+    "LABEL": [
+      "Próximo",
+      "Estou Pronto!",
+      "Tutorial",
+      "(Página ",
+      " de 3)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Dica: ",
+      "Entendi"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Beba ou jogue poções durante o combate! NL As Poções permanecem com você entre salas."
+    ],
+    "LABEL": [
+      "Poções"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "As cartas requerem energia para jogar! NL Este orbe no canto inferior esquerdo indica a quantidade de energia restante que você tem para o turno."
+    ],
+    "LABEL": [
+      "Custo de Energia"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Se não houver cartas para comprar, sua pilha de descarte será embaralhada na pilha de compra."
+    ],
+    "LABEL": [
+      "Sem Cartas?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Esta carta aplica a você um Poder quando usada. NL Poderes são habilidades passivas que permanecem durante o combate.",
+      "As cartas requerem energia para jogar! NL Este orbe no canto inferior esquerdo indica a quantidade de energia restante que você tem para o turno.",
+      "Minha #rMão #rEstá #rCheia!",
+      "#rMaximum Orb capacity has been met.",
+      "I have no Orb slots."
+    ],
+    "LABEL": [
+      "Cartas de Poder",
+      "Custo de Energia"
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Você pode clicar com o botão direito na tela de recompensa de cartas para ver informações extras.",
+      "Informações úteis podem ser reveladas ao passar o mouse por cima da maioria dos objetos.",
+      "Clique com o botão direito irá soltar qualquer carta que você esteja arrastando.",
+      "Passe o mouse por cima de um inimigo para ver seu nome e informação de Poderes.",
+      "Use a roda de scroll ou clique e arraste para fazer subir e descer a tela.",
+      "Se você pode inspeconar um item, o seu cursor irá se tornar uma lupa.",
+      "Use a roda de scroll ou clique e arraste para se movimentar por mapas, telas de cartas, e outros."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "As relíquias encontradas ao longo do pináculo concedem bônus únicos e permanecem ao longo de sua jornada. NL Elas podem ser encontradas derrotando inimigos poderosos ou dentro de baús.",
+      "Essa relíquia ainda está para ser vista.",
+      "Esta relíquia foi usada."
+    ],
+    "LABEL": [
+      "Relíquias",
+      "Desconhecida",
+      "Essa relíquia ainda deve ser desbloqueada.",
+      "Bloqueada"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Não esqueça suas recompensas! NL Basta clicar nelas para as pegar.",
+      "Não esqueça suas recompensas!"
+    ],
+    "LABEL": [
+      "Recompensas"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "No início de cada turno, NL #b",
+      " cartas são compradas daqui. NL NL Clique para ver as cartas na sua pilha de compra (embaralhadas).",
+      " cartas são compradas daqui. NL NL Clique para ver as cartas na sua pilha de compra.",
+      " cartas são compradas daqui. NL NL Veja as cartas na sua pilha de compra (embaralhadas).",
+      " cartas são compradas daqui. NL NL Veja as cartas na sua pilha de compra."
+    ],
+    "LABEL": [
+      "Pilha de Compra"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Clique para ver as cartas Exauridas neste combate.",
+      "Ver as cartas Exauridas neste combate."
+    ],
+    "LABEL": [
+      "Cartas Exauridas"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Os dados de jogo e logs de erro são enviados para a Mega Crit para fins de balanceamento do jogo. NL NL Informação de identificação pessoal NÃO é coletada.",
+      "Slay the Spire roda o mais rápido quando está rodando em tela cheia verdadeira. Recomendado para OSX como o Dock e o Menubar são escondidos. NL NOTA: No PC, o alt-tab de volta para Slay the Spire pode não funcionar com tela cheia.",
+      "Como Slay the Spire não é um jogo exigente, recomendamos o modo Tela Cheia Sem Bordas para alt-tab rápido. Funciona melhor no PC.",
+      "Nota: Se o VSync estiver ligado, o Framerate Máximo não pode ultrapassar a taxa de atualização do seu monitor.",
+      "Controller support incomplete for this screen.",
+      "Changes which monitor is utilized when Fullscreen."
+    ],
+    "LABEL": [
+      "Métricas",
+      "Tela Cheia",
+      "Tela Cheia Sem Bordas",
+      "Framerate Máximo",
+      "Fullscreen Monitor"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Remova uma carta do seu baralho. O custo desse serviço aumenta em #b",
+      " pelo resto dessa jornada."
+    ],
+    "LABEL": [
+      "Serviço de Remoção de Carta"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Pressionar este botão terminará a seu turno. NL NL Você descartará sua mão, os inimigos tomarão seus turnos, você comprará",
+      " cartas, então será seu turno novamente."
+    ],
+    "LABEL": [
+      "Terminar Turno"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "Se sua pilha de compra estiver vazia, a pilha de descarte será embaralhada na pilha de compra. NL NL Clique para ver as cartas na sua pilha de descarte.",
+      "Se sua pilha de compra estiver vazia, a pilha de descarte será embaralhada na pilha de compra. NL NL Veja as cartas na sua pilha de descarte."
+    ],
+    "LABEL": [
+      "Pilha de Descarte"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Sua contagem de energia atual. Cartas requerem energia para jogar."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Jogue essa poção no seu inimigo.",
+      "Consuma essa poção.",
+      "Descarte essa poção. NL #r(não #rpode #rser #rdesfeito)"
+    ],
+    "LABEL": [
+      "Jogar",
+      "Beber",
+      "Descartar"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Abre o menu do jogo. NL NL Mude ou atualize suas preferências de gráficos, áudio e jogabilidade aqui.",
+      "Veja todas as cartas no seu baralho.",
+      "Veja o mapa atual deste calabouço.",
+      "Se você ficar sem PV, você morre.",
+      "Mostra o quanto de ouro você carrega. Ouro é a moeda dentro do Pináculo.",
+      "",
+      "",
+      "Tempo gasto nesta jornada."
+    ],
+    "LABEL": [
+      "Configurações",
+      "Baralho",
+      "Mapa",
+      "Pontos de Vida (PV)",
+      "Bolsa de Dinheiro",
+      "Cronômetro de Jornada"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Envolva-se com outros jogadores para descobrir estratégias novas e efetivas.",
+      "Há sempre um local de descanso antes de um chefe.",
+      "Gaste ouro nas lojas! (Dica paga pelo Vendedor)",
+      "Faça uma pausa de vez em quando.",
+      "Cálculos baseados em percentagem sempre arredondam para baixo no fim.",
+      "Durante o combate, você pode ver o conteúdo das suas pilhas de compra e descarte.",
+      "Não há limites para quantas relíquias você pode carregar.",
+      "Baús sempre deixarão uma relíquia.",
+      "Todo caminho que você tomar sempre terá pelo menos 1 sala de tesouro.",
+      "Inimigos Elite sempre deixarão uma relíquia.",
+      "Você nunca verá a mesma relíquia duas vezes em uma jornada.",
+      "Cartas Incomuns tem quadro e insígnia azuis.",
+      "Cartas Raras tem quadro e insígnia dourados.",
+      "A raridade de uma carta é visível na carta em si.",
+      "Não é sempre sensato adicionar cartas ao seu deck.",
+      "Cartas exauridas durante o combate não são removidas do seu baralho.",
+      "Você só pode ter até 10 cartas na sua mão.",
+      "Cartas de condição desaparecem no fim do combate.",
+      "Maldições não podem ser aprimoradas. Por que você o faria?",
+      "Cartas aprimoradas podem aparecer em recompensas passado o Ato 1.",
+      "Salas desconhecidas podem conter tesouros, monstros, lojas ou eventos.",
+      "O Vendedor não dá reembolsos. Ele é um babaca.",
+      "O serviço de remoção de carta aumenta em preço quando você o usa.",
+      "O serviço de remoção de carta só pode ser usado uma vez a cada loja.",
+      "Dano de poções, relíquias, e poderes não são considerados dano de ataque.",
+      "Efeitos que geram cartas aleatórias durante o combate nunca irão curar você."
+    ],
+    "LABEL": [
+      "Você pode descartar poções para abrir espaço para outras."
+    ]
+  }
+}

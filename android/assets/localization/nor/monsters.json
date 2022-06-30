@@ -1,0 +1,704 @@
+{
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Beklageligslim",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Korrupt hjerte",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Erkefiende",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Den utvalgte",
+    "DIALOG": [
+      "~Lid...~"
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Fugl",
+    "DIALOG": [
+      "@KRA!@ NL @KRAAAA@",
+      "Svimeslått..."
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Forvirrende stirring",
+      "Halepisk",
+      "Bitt"
+    ],
+    "NAME": "Slangulf",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Gå På!",
+      "Ultimat slag"
+    ],
+    "NAME": "Magikergremling",
+    "DIALOG": [
+      "",
+      "Lader opp!",
+      "~Her~ ~kommer~ ~jeg!!~",
+      "@Jeg...@ @får...@ NL @hjelp...!@",
+      "~for...~ NL ~farlig...~ NL ~adjø...~"
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Piggen",
+    "DIALOG": [
+      "Bjøøøøøøørn!!!!"
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Mer Styrke"
+    ],
+    "NAME": "Kulegjengeren",
+    "DIALOG": [
+      "Lader NL skjoldene."
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Forsvarsmodus",
+      "Voldsomt slag",
+      "Rulle",
+      "Tvillingslag",
+      "Hvirvelvind",
+      "Lader",
+      "Pust ut"
+    ],
+    "NAME": "Vokteren",
+    "DIALOG": [
+      "#b~..KJØLER...~ NL #b~...MEG...NED...~",
+      "Forsvar...",
+      "#r@ØDELEGG@ NL #r@ØDELEGG@ NL #r@ØDELEGG@",
+      "#r@FARE@ NL #r@FARE@ NL #r@FARE@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Klo"
+    ],
+    "NAME": "Gal Gremling",
+    "DIALOG": [
+      "",
+      "@Jeg@ @stikker@ NL @etter@ @hjelp!@",
+      "Detta gidder jeg ikke!"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gremlingsnok",
+    "DIALOG": [
+      "",
+      "@Jeg@ @stikker@ NL @etter@ @hjelp!@",
+      "@Hva@ @f...!?@"
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Besvergelse"
+    ],
+    "NAME": "Sektleder",
+    "DIALOG": [
+      "@KRAFTEN@ @MIN@ @KAN@ NL @INGEN@ @MÅLE@ @SEG@ @MED!@",
+      "@DU@ @HØRER@ @IKKE@ NL @TIL@ @HER!@",
+      "~Jeg~ ~var~ NL ~for~ ~svak...~"
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Flammeslageren",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Rally!"
+    ],
+    "NAME": "Ledergremlingen",
+    "DIALOG": [
+      "Ikke gi opp!",
+      "Vi er ikke ferdige her!",
+      "Ta dem, gutter!",
+      "@Trekk@ @tilbake@ NL @Tilbaaaaaaaaaake!@",
+      "@Stiiiiiiiiiikk!@"
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Høvedsmannen",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Det store hodet",
+    "DIALOG": [
+      "~Tiden~ ~er~ ~kommet~",
+      "~Far~ ~vel~",
+      "~Tikk~ ~Takk~ NL ~Tikk~ ~Takk~",
+      "~Hvorfor~ ~er~ ~du~ NL ~her~ ~fortsatt?~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bjørn",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Romeo",
+    "DIALOG": [
+      "Ta dem, Bjørn!!",
+      "Dette skal du få betale for!!",
+      "Neeeeeeei, Bjøøøørn!"
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Slikk"
+    ],
+    "NAME": "Piggeslim (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Piggeslim (S)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Lang ut",
+      "Stjel"
+    ],
+    "NAME": "Tjuvradd",
+    "DIALOG": [
+      "Få det!",
+      "Jeg stikker!"
+    ]
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tidsspiseren",
+    "DIALOG": [
+      "~Ah...~ NL ~..selskap...~",
+      "~Dårskap..~ NL @DÅÅRSKAP!@",
+      "~Never....~ NL ~...liked..~ NL ~..you...~"
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Samleren",
+    "DIALOG": [
+      "@Du@ @er@ @min!@"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Fakkelhode",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Korroderende spytt",
+      "Slikk"
+    ],
+    "NAME": "Syreslim (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Syreslim (S)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Svekkende frø"
+    ],
+    "NAME": "Slangeplante",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Defensiv holdning",
+      "Henrett",
+      "Slag i fjeset"
+    ],
+    "NAME": "Mesteren",
+    "DIALOG": [
+      "Kaller du det der et våpen?",
+      "Kom hit!",
+      "Få se hva du kan! NL @HAHAHA!@",
+      "Du skal få slå uten motstand! NL Feige svekling!",
+      "~Nå~ ~har~ ~du~ ~virkelig~ ~gjort~ ~det...~",
+      "@SLO0@ @DU@ @MEG???@ NL @UMULIG!!@",
+      "~DØ~ ~.~ ~.~ ~.~",
+      "Møt min vrede!",
+      "@THAT'S@ NL @MY@ @BELT!!@"
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Eksplodereren",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Voks"
+    ],
+    "NAME": "Soppbeist",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spiker",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Oppgavemesteren",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Motståeren",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Lang ut",
+      "Stjel"
+    ],
+    "NAME": "Tyven",
+    "DIALOG": [
+      "Gi meg gullet ditt!",
+      "@NEEEeeei!@",
+      "Hvor er røykbomba mi... La oss nå se...",
+      "Takk for penga, hehe"
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Oppløs"
+    ],
+    "NAME": "Soldat",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Spytt spindelvev"
+    ],
+    "NAME": "Lus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Voks"
+    ],
+    "NAME": "Lus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dukkemester",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Skjellete parasitt",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sfære",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Betennelse",
+      "Svi",
+      "Helvete"
+    ],
+    "NAME": "Spøkelset",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Skrap",
+      "Vikle sammen"
+    ],
+    "NAME": "Slaveeier",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Riv"
+    ],
+    "NAME": "Slaveeier",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Dæng",
+      "Forbereder",
+      "Oppdeling",
+      "Slimsprut"
+    ],
+    "NAME": "Slimhøvding",
+    "DIALOG": [
+      "~Slim...~ NL #r~KNUS!!!~",
+      "Avbrutt!"
+    ]
+  },
+  "AcidSlime_L": {
+    "MOVES": [
+      "Korroderende spytt",
+      "Oppdeling",
+      "Slikk"
+    ],
+    "NAME": "Syreslim (L)",
+    "DIALOG": [
+      "Avbrutt!"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Bekytt",
+      "Skjolddæng"
+    ],
+    "NAME": "Skjoldgremling",
+    "DIALOG": [
+      "",
+      "~Far~ ~vel...~",
+      "Dette går aldri bra..."
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Sug opp sjelen"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "Svimeslått!",
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Wræl",
+      "Knus"
+    ],
+    "NAME": "Glefseorm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Kraftsirkel"
+    ],
+    "NAME": "Donu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Slange",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "HYPERSTRÅLE"
+    ],
+    "NAME": "Bronseautomat",
+    "DIALOG": [
+      "Svimeslått"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mystiker",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Knus"
+    ],
+    "NAME": "Feit gremling",
+    "DIALOG": [
+      "",
+      "",
+      "@Å@ @nei,@ NL @å@ @nei,@ NL @Å@ @NEI!@"
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deca",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Boken om knivstikking",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Sjeleslag",
+      "Mørkt ekko",
+      "Renselse",
+      "Sleipt slim"
+    ],
+    "NAME": "Den Oppvåknede",
+    "DIALOG": [
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~Nei~ ~.~ ~.~ ~.~ ~nei~ ~.~ ~.~ NL ~.~ ~.~ ~nei~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Slikk",
+      "Oppdeling"
+    ],
+    "NAME": "Taggete slim (L)",
+    "DIALOG": [
+      "Avbrutt!"
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ildsfære",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sirkulær vokter",
+    "DIALOG": [
+      "~Utenforstående~ NL ~Oppdaget~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Glefs! Gnafs!"
+    ],
+    "NAME": "Mørkling",
+    "DIALOG": [
+      "Gror tilbake..."
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Glefset",
+    "DIALOG": [
+      "@VrææææÆÆÆæl!!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Skalleknas",
+      "Okseknus"
+    ],
+    "NAME": "Mestergremling",
+    "DIALOG": [
+      "@VrææææÆÆÆæl!!@"
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Transient",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Writhing Mass",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Spear"
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Shield",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

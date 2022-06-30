@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Arızalı"
+    ],
+    "TEXT": [
+      "BİP BİP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Arızalı"
+    ],
+    "TEXT": [
+      "Farkındalık kazanmış bir savaş robotu. NL Asırlar öncesinden bir teknoloji ona Küre kontrolü sağlıyor."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Demirkaplı"
+    ],
+    "TEXT": [
+      "Demirkaplıların geriye kalan son askeri. NL Şeytani güçleri kullanabilmek için ruhunu sattı."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "İlerle",
+      "~Hoşgeldin!~"
+    ],
+    "TEXT": [
+      "Selam! NL Bir şeyler satın al! NL Alalalal!",
+      "Saç kesimini beğendim",
+      "Zamanın var mı?",
+      "Kedi insanı mısın köpek insanı mı?",
+      "~Tehlikeli~ görünüyorsun NL hehe...",
+      "Acele etme... NL ..... NL ... ya da et",
+      "Halı hoşuna gitti mi? NL Satılık değil",
+      "Küçük işyerlerini destekle!",
+      "Maskeler havalıdır, bilirim!",
+      "Hmm... NL ...hmm... NL Aa!",
+      "Hele bi' otur da soluklan yeğenim",
+      "Yalnız gitmek tehlikelidir! NL Tüm altınını bana bırak!",
+      "Bi' şeyler al!",
+      "~*OOOAAH*~",
+      "Altın severim.",
+      "En sevdiğim renk mavi. NL Ya senin?"
+    ],
+    "OPTIONS": [
+      "Buraya nasıl geldim? NL Anlayamıyorum.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "Ben bir kedi insanıyım.",
+      "Acele etme. NL Acele etme.",
+      "Bu @heyecan verici!@ değil mi?",
+      "Eskiden senin gibiydim.",
+      "Yukarı mı yolculuk?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Selam...~ NL ~Ben...~ ~Neow...~",
+      "~Tekrardan...~ NL ~Merhaba...~",
+      "~Selam...~",
+      "~Yeniden~ ~mi~ NL ~deniyorsun...?~",
+      "~Kutsamamı~ ~alabilmek~ ~için...~ NL ~Boss'a~ ~ulaş...~",
+      "~En~ ~azından...~ ~ilk~ ~Boss'la~ NL ~karşılaş...~",
+      "~Seni~ ~geri~ ~getirdim...~",
+      "~Seç...~",
+      "~Yerine~ ~getirildi...~",
+      "~Risk...~ NL ~...ödül....~",
+      "~MEYDAN~ ~OKUMA~ NL ~zamanı...~",
+      "Rewards",
+      "~Hadi~ ~devam~ ~edelim...~",
+      "~Yalnızca~ ~daha~ ~da~ ~zorlaşacak...~",
+      "~Etkileyici...~ ~daha~ ~fazla...~",
+      "Lanetlendin!",
+      "Sersem!",
+      "Dönüşüm!"
+    ],
+    "OPTIONS": [
+      "[Devam Et]",
+      "[Konuş]",
+      "[Devam]",
+      "[Ayrıl]",
+      "Destene eklemek için 10 kart seç."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gEdinmek #gistediğin #gbir #gKart #gseç ]",
+      "[ #gRastgele #gbir #gnadir #gKart #gedin ]",
+      "[ #gDestenden #gbir #gKart #gçıkar ]",
+      "[ #gBir #gKart #ggeliştir ]",
+      "[ #gBir #gKart #gdönüştür ]",
+      "[ #gRastgele #g3 #gİksir #gedin ]",
+      "[ #gRastgele #gbir #gyaygın #gKalıntı #gedin ]",
+      "[ #gMaksimum #gCP #g+",
+      "[ #g",
+      " #gAltın #gedin ]",
+      "#g2 #gKart #gçıkar ]",
+      "#gRastgele #gbir #gnadir #gKalıntı #gedin ]",
+      "#gEdinmek #gistediğin #gbir #gnadir #gKart #gseç ]",
+      "#g",
+      " #gAltın #gedin ]",
+      "#g2 #gKart #gdönüştür ]",
+      "#gMaksimum #gCP #g+",
+      "[ #r",
+      " #rMaksimum #rCP #rkaybet ",
+      "[ #rTüm #rAltınını #rkaybet ",
+      "[ #rBir #rLanet #redin ",
+      "[ #r",
+      "Kart Seç",
+      "Çıkarmak için Kart seç",
+      "Çıkarmak için 2 Kart seç",
+      "Dönüştürmek için Kart seç",
+      "Dönüştürmek için 2 Kart seç",
+      "Geliştirmek için Kart seç",
+      "[ #gSıradaki #g3 #gdövüşte #gdüşmanların #g1 #gCP'si #golur ]",
+      " #rhasar #ral",
+      "[ #gEdinmek #gistediğin #grenksiz #gbir #gKart #gseç ]",
+      "#gEdinmek #gistediğin #grenksiz #gnadir #gbir #gKart #gseç ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rBaşlangıç #rKalıntını #rkaybet #grastgele #gbir #gBoss #gKalıntısı #gedin ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Ooooo~ NL ~Hoşgeldin!~",
+      "Bak şimdi, NL daha çok NL #rAltın gerekiyor.",
+      "Hey kanka #rParan yok!",
+      "Fakir misin?",
+      "Yeteri kadar #rAltının yok.",
+      "Senin paran buna yetmez.",
+      "Burda hayır işi yapmıyoruz.",
+      "~Teşekkürleeerr~",
+      "Bi satış daha... NL hahaha! NL Dıt - @Dırırım!@",
+      "@SATILDI!@",
+      "İade almıyoruz.",
+      "İyi günler dilerim.",
+      "Ayrıl",
+      "Destenden çıkarmak için bir kart seç."
+    ],
+    "TEXT": [
+      "Selam! NL Bir şeyler satın al! NL Alalalal!",
+      "Saç kesimin iyiymiş",
+      "Zamanın var mı?",
+      "Kedi insanı mısın köpek insanı mı?",
+      "~Tehlikeli~ görünüyorsun, NL ehehe...",
+      "Acele etme... NL ..... NL ... ya da et",
+      "Halı hoşuna gitti mi? NL Satılık değil",
+      "Küçük işletmeleri destekle!",
+      "Maskeler havalıdır, bilirim!",
+      "Benim kuryeyi gördün mü?",
+      "Hele bi' otur da soluklan yeğenim.",
+      "Yalnız gitmek tehlikelidir! Tüm altınını bana ver!",
+      "Bi' şeyler al.",
+      "~*OOOAAH*~",
+      "Altın severim.",
+      "En sevdiğim renk mavi. NL Ya senin?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Sessiz"
+    ],
+    "TEXT": [
+      "Sisli toprakların ölümcül kadın avcısı. NL Düşmanlarını zehir ve hançerlerle yok eder."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Ya... şimdi..? NL ..sonunda... bitti mi....?",
+      "...Spire uyuyor.....",
+      "..o halde...... ben... NL ....de......"
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "Gözlemci"
+    ],
+    "TEXT": [
+      "Spire'ı \"Değerlendirmeye\" gelmiş kör bir sofu. NL İlahi Duruşların ustası."
+    ]
+  }
+}

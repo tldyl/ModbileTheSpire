@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Dendam",
+    "DESCRIPTION": [
+      "Seranganmu memberi damage ganda dan kamu menerima damage ganda dari serangan."
+    ]
+  },
+  "Calm": {
+    "NAME": "Tenang",
+    "DESCRIPTION": [
+      "Ketika keluar dari #ySikap ini, dapatkan [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Keilahian",
+    "DESCRIPTION": [
+      "Ketika memasuki #ySikap ini, dapatkan [W] [W] [W] . Serangan memberi damage tiga kali lipat. Keluar dari #ySikap ini pada awal giliran berikutnya."
+    ]
+  }
+}

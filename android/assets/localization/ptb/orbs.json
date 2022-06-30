@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPassiva: No fim do seu turno, aumente o dano desta Orbe em #b",
+      ". NL #yEvocar: Cause #b",
+      " de dano ao inimigo com menos PV."
+    ],
+    "NAME": "Trevas"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Orbes podem ser canalizados para estes slots."
+    ],
+    "NAME": "Slot de Orbe"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPassiva: No fim do seu turno, ganhe #b",
+      " #yProteção. NL #yEvocar: Ganhe #b",
+      " #yProteção."
+    ],
+    "NAME": "Gelo"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPassiva: No fim do seu turno, cause #b",
+      " de dano a um inimigo aleatório. NL #yEvocar: Cause #b",
+      " de dano a um inimigo aleatório."
+    ],
+    "NAME": "Relâmpago"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPassiva: No começo do seu turno, ganhe [B] . NL #yEvocar: Ganhe #b",
+      " [B] . NL Plasma não é afetada por #yFoco."
+    ],
+    "NAME": "Plasma"
+  }
+}

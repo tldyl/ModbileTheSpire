@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Cólera",
+    "DESCRIPTION": [
+      "Tus Ataques hacen el doble de daño y recibes el doble de daño de Ataques."
+    ]
+  },
+  "Calm": {
+    "NAME": "Calma",
+    "DESCRIPTION": [
+      "Al salir de esta #yPostura, gana [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Divinidad",
+    "DESCRIPTION": [
+      "Al entrar en esta #yPostura, gana [W] [W] [W] . Los Ataques hacen el triple de daño. Sal de esta #yPostura al final de tu próximo turno."
+    ]
+  }
+}

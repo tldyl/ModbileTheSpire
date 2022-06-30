@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Jeśli twój stos rozgrywający jest pusty, stos kart odrzuconych zostanie przetasowany i przeniesiony do stosu rozgrywającego. NL NL Kliknij, aby zobaczyć odrzucone karty.",
+      "Jeśli twój stos rozgrywający jest pusty, stos kart odrzuconych zostanie przetasowany i przeniesiony do stosu rozgrywającego. NL NL Zobacz odrzucone karty."
+    ],
+    "LABEL": [
+      "Stos kart odrzuconych"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Na początku każdej tury NL dobierasz #b",
+      " kart(y). NL NL Kliknij, aby zobaczyć karty ze stosu rozgrywającego NL (przetasowane).",
+      " kart(y). NL NL Kliknij, aby zobaczyć karty ze stosu rozgrywającego.",
+      " kart(y). NL NL Zobacz karty ze stostu rozgrywającego (przetasowane).",
+      " kart(y). NL NL Zabacz karty ze stostu rozgrywającego."
+    ],
+    "LABEL": [
+      "Stos rozgrywający"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Wciśnięcie tego przycisku zakończy turę. NL NL Pozostałe karty w ręce zostaną odrzucone, przeciwnik wykona swój ruch, dobierzesz ",
+      " kart(y) i znów rozpocznie się twoja tura."
+    ],
+    "LABEL": [
+      "Koniec tury"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Ilość obecnie posiadanej energii. Karty wymagają jej do działania."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Karty potrzebują energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze."
+    ],
+    "LABEL": [
+      "Koszt Energii"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Kliknij, aby zobaczyć karty Wykluczone z walki.",
+      "Zobacz karty Wykluczone z walki."
+    ],
+    "LABEL": [
+      "Wykluczone karty"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Porada: ",
+      "Jasne"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Pokonuj przeciwników grając kartami z twojej ręki! NL NL Karty wymagają #yEnergii do zagrania. NL Kiedy wykonasz wszystkie ruchy, zakończ turę. NL NL Na początku każdej tury nowe karty pobierane są ze stosu rozgrywającego, a twoja #yEnergia jest odnawiana.",
+      "Graj kartami defensywnymi, aby otrzymać punkty #yBloku do obrony przed atakującym przeciwnikiem. NL NL #yBlok zmniejsza otrzymywane obrażenia, NL ale #rprzestaje #rdziałać z początkiem kolejnej tury.",
+      "W trakcie twojej tury możesz obserwować #yZamiar przeciwnika nad jego głową. NL NL Jeśli przeciwnik zamierza cię zaatakować, upewnij się, NL że masz wystarczająco dużo punktów #yBloku!"
+    ],
+    "LABEL": [
+      "Dalej",
+      "Poradzę sobie!",
+      "Samouczek",
+      "(Strona ",
+      " z 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Informacje o rozgrywce oraz logi błędów są wysyłane do Mega Crit, aby wspomóc proces balansowania mechanik gry. NL NL Dane osobowe NIE są zbierane.",
+      "Slay the Spire działa najlepiej w trybie pełnoekranowym. Jest on zalecany dla macOS, gdyż Dock oraz pasek menu są wtedy ukryte. NL Uwaga – Na PC powrót do gry przy pomocy Alt+Tab może wyłączyć tryb pełnoekranowy.",
+      "Jako że Slay the Spire to gra o niewielkich wymaganiach sprzętowych, zalecamy korzystanie z bezramkowego trybu pełnoekranowego dla sprawnego alt-tabowania. Działa najlepiej na PC!",
+      "Uwaga – Włączenie synchronizacji pionowej ograniczy liczbę klatek na sekundę do maksymalnej wartości odświeżania monitora.",
+      "Wsparcie kontrolera niekompletne dla tego ekranu.",
+      "Zmiana monitora używanego w trybie pełnoekranowym."
+    ],
+    "LABEL": [
+      "Telemetria",
+      "Pełny ekran",
+      "Bezramkowy pełny ekran",
+      "Maksymalne FPS-y",
+      "Monitor pełnoekranowy"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Ta karta, po zagraniu, nadaje postaci Moc. NL Moce to pasywne zdolności, które działają przez całą potyczkę.",
+      "Karty wymagają energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze.",
+      "Moja #rręka #rjest #rpełna!",
+      "#rMaksymalna ilość Sfer została osiągnięta.",
+      "Brak miejsca na Sferę."
+    ],
+    "LABEL": [
+      "Karty Mocy",
+      "Koszt Energii"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Rzuć tą miksturą w przeciwnika.",
+      "Wypij tę miksturę.",
+      "Wyrzuć tę miksturę NL #r(nie #rmoże #rzostać #rcofnięte)"
+    ],
+    "LABEL": [
+      "Rzuć",
+      "Wypij",
+      "Wyrzuć"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Pij lub rzucaj mikstury w trakcie walki! NL Mikstury nie znikają po walce."
+    ],
+    "LABEL": [
+      "Mikstury"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Dyskutuj z innymi graczami, aby poznawać nowe i bardziej efektywne strategie.",
+      "Przed walką z bossem zawsze znajduje się obóz.",
+      "Złoto wydawaj u Handlarza! (Porada opłacona przez Handlarza)",
+      "Rób przerwy od czasu do czasu.",
+      "Wartości w procentach są zaokrąglane w dół.",
+      "Podczas walki możesz przeglądać stos rozgrywający oraz stos kart odrzuconych.",
+      "Możesz posiadać dowolną liczbę artefaktów.",
+      "Skrzynie zawsze zawierają artefakty.",
+      "Każda, dowolnie wybrana, ścieżka posiada przynajmniej jedno pomieszczenie ze skarbem.",
+      "Elitarne jednostki zawsze pozostawiają artefakty.",
+      "Nigdy nie trafisz na ten sam artefakt dwa razy podczas wyprawy.",
+      "Niepospolite karty posiadają niebieską wstążkę i ramkę.",
+      "Rzadkie karty posiadają złotą wstążkę i ramkę.",
+      "Rzadkość karty można poznać zawsze po jej wyglądzie.",
+      "Nie zawsze warto dodawać kartę do talii.",
+      "Karty wykluczone podczas potyczki nie są usuwane z talii.",
+      "Możesz mieć do maksymalnie 10 kart w ręce.",
+      "Karty stanu są usuwane z talii po zakończeniu potyczki.",
+      "Karty klątw nie mogą zostać ulepszone. Czemu w ogóle o tym myślisz?",
+      "Po Akcie 1 możesz znaleźć ulepszone karty jako łupy.",
+      "Nieznane pomieszczenia (ze znakiem '?') mogą zawierać skarby, przeciwników, Handlarza oraz różne wydarzenia.",
+      "Handlarz nie przyjmuje zwrotów. To dlatego, że jest bucem.",
+      "Usługa usuwania kart jest droższa z każdym kolejnym użyciem.",
+      "Usługa usuwania kart może zostać użyta tylko raz podczas wizyty u Handlarza.",
+      "Obrażenia od mikstur, artefaktów oraz mocy nie są zaliczane do obrażeń od ataków.",
+      "Efekty generujące losowe karty podczas walki nie przywracają twoich PŻ."
+    ],
+    "LABEL": [
+      "Możesz wyrzucać mikstury, aby zwolnić miejsce dla innych."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Możesz kliknąć prawym przyciskiem myszy na karcie, aby przeczytać dodatkowe informacje.",
+      "Możesz uzyskać przydatne informacje po najechaniu kursorem na większość obiektów.",
+      "Wciśnięcie prawego przycisku myszy zwolni dowolną aktualnie trzymaną kartę.",
+      "Najedź kursorem na przeciwnika, aby poznać jego nazwę oraz zdobyć informacje o efektach.",
+      "Używaj rolki myszy lub przeciągaj kursorem, aby przesuwać ekran.",
+      "Zmiana kursora w lupę oznacza, że możesz podejrzeć szczegółowe informacje o obiekcie.",
+      "Używaj rolki myszy lub przeciągaj kursorem, aby poruszać się po mapie, ekranie kart i itp."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Rozsiane po całej Iglicy artefakty gwarantują unikalne bonusy, pozostając w ekwipunku przez całą wyprawę. NL Zdobyć je można po pokonaniu potężnych przeciwników lub z rozproszonych po Iglicy skrzyń.",
+      "Ten artefakt należy najpierw odnaleźć.",
+      "Przedmiot utracił swoją moc."
+    ],
+    "LABEL": [
+      "Artefakty",
+      "Nieznany",
+      "Ten artefakt należy odblokować.",
+      "Zablokowane"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Nie zapomnij o łupach! NL Kliknij na nie, aby je zebrać.",
+      "Nie zapomnij o łupach!"
+    ],
+    "LABEL": [
+      "Łupy"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Usuń kartę z talii. Koszt usługi zostanie zwiększony o #b",
+      " na czas trwania tej wyprawy."
+    ],
+    "LABEL": [
+      "Usługa usuwania kart"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Jeśli karty ze stosu rozgrywającego się skończą, karty ze stosu odrzuconych zostaną do niego wtasowane."
+    ],
+    "LABEL": [
+      "Brak kart?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Otwiera menu gry. NL NL Zmień opcje graficzne, dźwiękowe oraz preferencje rozgrywki.",
+      "Przeglądaj wszystkie karty w swojej talii.",
+      "Obejrzyj mapę obecnego poziomu.",
+      "Kiedy skończą ci się PŻ, umierasz.",
+      "Pokazuje ilość posiadanego złota. Jest ono główną walutą w Iglicy.",
+      "",
+      "",
+      "Odmierza czas rozgrywki."
+    ],
+    "LABEL": [
+      "Ustawienia",
+      "Talia",
+      "Mapa",
+      "Punkty Życia (PŻ)",
+      "Sakiewka",
+      "Stoper"
+    ]
+  }
+}

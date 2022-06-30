@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "災厄の槍",
+    "DESCRIPTION": [
+      "敵の与えるダメージが #b",
+      "% 増加する。"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "災厄の盾",
+    "DESCRIPTION": [
+      "敵のHPが #b",
+      "% 増加する。"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "時の迷宮",
+    "DESCRIPTION": [
+      "1ターンでカードを #b",
+      " 枚までしか使用できない。",
+      "使用できるカードの数は最高 NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "精神錯乱",
+    "DESCRIPTION": [
+      "ターン終了時、ランダムな状態異常カードが #b",
+      " 枚山札の一番上に置かれる。",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "たたり",
+    "DESCRIPTION": [
+      "ボスを倒すたび、ランダムな #y呪い カードを #b",
+      " 枚得る。",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "注意散漫",
+    "DESCRIPTION": [
+      "ターン開始時に引くカードの枚数が #b",
+      " 枚減る。",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "ミミック侵食",
+    "DESCRIPTION": [
+      "次の章から宝箱部屋がエリート部屋に置き換わる。エリートがレリックを落とさなくなる。"
+    ]
+  },
+  "FullBelly": {
+    "NAME": "さるぐつわ",
+    "DESCRIPTION": [
+      "最大HPを増やせなくなる。すべての回復量が半減。"
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "奇怪なトロフィー",
+    "DESCRIPTION": [
+      "獲得時、 #r傲慢 を #b",
+      " 枚得る。",
+      "ゆがんだ自尊心…。"
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "腐敗したドリアン",
+    "DESCRIPTION": [
+      "最大HPの #b",
+      "% を失う。"
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "虚無のエキス",
+    "DESCRIPTION": [
+      "ターン開始時に得るエナジーが #b",
+      " [E] 少なくなる。"
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "さまよう魂",
+    "DESCRIPTION": [
+      "戦闘開始時に敵が #y無形 #b",
+      " を得る。"
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "古代の工夫",
+    "DESCRIPTION": [
+      "戦闘開始時に敵が #y人の作りし物 #b",
+      " 、 #yプレートアーマー #b",
+      " 、 NL #y再生 #b",
+      " を得る。"
+    ]
+  }
+}

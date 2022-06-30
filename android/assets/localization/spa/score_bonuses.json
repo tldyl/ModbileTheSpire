@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Alquimista",
+    "DESCRIPTIONS": [
+      "Compraste 5 pociones."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Ascensión",
+    "DESCRIPTIONS": [
+      "+5% de puntuación por cada Nivel de Ascensión."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Élites del Más Alla Derrotados",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Más que Perfecto",
+    "DESCRIPTIONS": [
+      "Derrota a 3 jefes sin recibir daño."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Jefes Derrotados",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Campeón",
+    "DESCRIPTIONS": [
+      "Derrota a un Élite sin recibir daño."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Tramposo",
+    "DESCRIPTIONS": [
+      "Te pillamos haciendo trampa. Si pasa dos veces, tu puntuación nunca se subirá a la Clasificación."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Élites de la Ciudad Derrotados",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Coleccionista.",
+    "DESCRIPTIONS": [
+      "Ten 4 copias de cualquier carta no inicial."
+    ]
+  },
+  "Combo": {
+    "NAME": "¡C-c-c-combo!",
+    "DESCRIPTIONS": [
+      "Juega 20 cartas en un solo turno."
+    ]
+  },
+  "Curses": {
+    "NAME": "¡Maldición!",
+    "DESCRIPTIONS": [
+      "Tu mazo contiene 5 maldiciones."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Enciclopédico",
+    "DESCRIPTIONS": [
+      "Tamaño del Mazo superior a 50 cartas."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Élites de Exordium Derrotados",
+    "DESCRIPTIONS": []
+  },
+  "Highlander": {
+    "NAME": "Highlander",
+    "DESCRIPTIONS": [
+      "Tu mazo no contiene cartas duplicadas (excluyendo las iniciales)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Me Gusta el Oro",
+    "DESCRIPTIONS": [
+      "Conseguiste 3,000 de Oro."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliotecario",
+    "DESCRIPTIONS": [
+      "Tamaño del Mazo superior a 35 cartas."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Velocidad de la Luz",
+    "DESCRIPTIONS": [
+      "Victoria en menos de 45 minutos."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalista",
+    "DESCRIPTIONS": [
+      "Eliminaste más de 5 cartas de tu mazo."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Dinero Dinero",
+    "DESCRIPTIONS": [
+      "Conseguiste 1,000 de Oro."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Máquina del Misterio",
+    "DESCRIPTIONS": [
+      "Viajaste a 15+ cuartos desconocidos."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "En Mis Propios Términos",
+    "DESCRIPTIONS": [
+      "Te suicidaste."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Overkill",
+    "DESCRIPTIONS": [
+      "Causa 99 de daño con un solo ataque."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Indigente",
+    "DESCRIPTIONS": [
+      "No obtengas ninguna carta rara."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfecto",
+    "DESCRIPTIONS": [
+      "Derrota a un Jefe sin recibir daño."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Caca",
+    "DESCRIPTIONS": [
+      "Recibiste los Desechos de Espíritu."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Lloviendo Dinero",
+    "DESCRIPTIONS": [
+      "Conseguiste 2,000 de oro."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Me Gusta Lo Brillante",
+    "DESCRIPTIONS": [
+      "Ten 25+ reliquias."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Velocista",
+    "DESCRIPTIONS": [
+      "Victoria en menos de 60 minutos."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Lleno",
+    "DESCRIPTIONS": [
+      "Subiste tus PV Máximos 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Bien Alimentado",
+    "DESCRIPTIONS": [
+      "Subiste tus PV Máximos 15+."
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "Rompecorazones",
+    "DESCRIPTIONS": [
+      "Derrota al Corazón."
+    ]
+  }
+}

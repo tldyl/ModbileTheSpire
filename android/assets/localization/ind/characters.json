@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Robot Gagak"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Defect"
+    ],
+    "TEXT": [
+      "Sebuah robot petarung yang menjadi sadar diri. NL Teknologi kuno membolehkannya memanipulasi Orb."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "Watcher"
+    ],
+    "TEXT": [
+      "Pertapa buta yang telah datang untuk \"Mengevaluasi\" Spire. NL Ahli dari Sikap ilahi."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Ironclad"
+    ],
+    "TEXT": [
+      "Prajurit tersisa dari Ironclad. NL Menjual jiwanya untuk mendapatkan energi iblis."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Lanjut",
+      "~Selamat datang!~"
+    ],
+    "TEXT": [
+      "Hai! NL Beli sesuatu! NL Beli beli beli!",
+      "Aku suka potongan rambutmu",
+      "Apa kamu punya waktu sebentar?",
+      "Kamu orang anjing apa orang kucing?",
+      "Kamu terlihat ~berbahaya,~ NL hehe...",
+      "Ambil waktumu... NL ..... NL ... atau tidak",
+      "Kamu suka karpet ini? NL Ini bukan untuk dijual",
+      "Dukung bisnis kecil!",
+      "Topeng itu keren, Aku seharusnya tahu!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Tunggu sebentar dan dengar!",
+      "Pergi sendiri itu berbahaya! Beri aku semua emasmu!",
+      "Beli dong",
+      "~*YAWN*~",
+      "Aku suka emas.",
+      "Warna favoritku biru. NL Kamu?"
+    ],
+    "OPTIONS": [
+      "Bagaimana aku bisa ada disini? NL Entah.",
+      "Kesempatan terakhir buat beli sesuatu! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "Aku orang kucing.",
+      "Santai saja. NL Santai saja.",
+      "Bukankah ini @menarik!?@",
+      "Aku dulu sepertimu.",
+      "Mau naik?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Selamat~ ~datang...~ NL ~Aku..~ ~Neow...~",
+      "~Halo...~ NL ~Lagi..~",
+      "~Selamat~ ~datang...~",
+      "~Coba~ NL ~lagi...?~",
+      "~Capai~ ~bos...~ NL ~untuk~ ~mendapatkan~ ~berkah..~ ~lebih...~",
+      "~Paling~ ~tidak...~ ~hadapi~ NL ~bos~ ~pertama...~",
+      "~Aku~ ~membawamu~ ~kembali...~",
+      "~Pilih...~",
+      "~Terkabulkan...~",
+      "~Risiko...~ NL ~..ganjaran....~",
+      "~Waktunya~ ~untuk~ ~sebuah~ NL ~TANTANGAN...~",
+      "Ganjaran",
+      "~Ayo~ ~terus~ ~lanjut...~",
+      "~Ini~ ~hanya~ ~akan~ ~lebih~ ~susah...~",
+      "~Mengesankan...~ ~lagi...~",
+      "Terkutuk!",
+      "Scatterbrain!",
+      "Transformasi!"
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Bicara]",
+      "[Abaikan]",
+      "[Pergi]",
+      "Pilih 10 kartu untuk ditambah ke dek."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gPilih #gsebuah #gKartu #guntuk #gdidapat ]",
+      "[ #gMemperoleh #gsebuah #gKartu #glangka #gacak ]",
+      "[ #gHapus #gsebuah #gKartu #gdari #gdek ]",
+      "[ #gPeningkatan #gsebuah #gKartu ]",
+      "[ #gTranformasi #gsebuah #gKartu ]",
+      "[ #gMemperoleh #g3 #gRamuan #gacak ]",
+      "[ #gMemperoleh #gsebuah #gPusaka #gbiasa #gacak ]",
+      "[ #gHP #gMaks #g+",
+      "[ #gMemperoleh #g",
+      " #gEmas ]",
+      "#gHapus #g2 #gKartu ]",
+      "#gMemperoleh #gsebuah #gPusaka #glangka #gacak ]",
+      "#gPilih #gsebuah #gKartu #glangka #guntuk #gdidapat ]",
+      "#gDapatkan #g",
+      " #gEmas ]",
+      "#gTransformasi #g2 #gKartu ]",
+      "#gHP #gMaks #g+",
+      "[ #rKehilangan #r",
+      " #rHP #rMaksimum ",
+      "[ #rKehilangan #rsemua #rEmas ",
+      "[ #rMemperoleh #rsebuah #rKutukan ",
+      "[ #rTerima #r",
+      "Pilih sebuah Kartu",
+      "Pilih sebuah Kartu untuk Dihapus",
+      "Pilih 2 Kartu untuk Dihapus",
+      "Pilih sebuah Kartu untuk Transformasi",
+      "Pilih 2 Kartu untuk Transformasi",
+      "Pilih sebuah Kartu untuk Peningkatan",
+      "[ #gMusuh #gdi #gtiga #gpertarungan #gselanjutnya #gmempunyai #g1 #gHP ]",
+      " #rdamage",
+      "[ #gMemperoleh #gsebuah #gKartu #gtanpa #gwarna #gjarang #gacak ]",
+      "#gMemperoleh #g2 #gKartu #gtanpa #gwarna #gacak ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rKehilangan #rPusaka #rawal #runtuk #gMemperoleh #gsebuah #gPusaka #gbos #gacak ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Selamat~ NL ~datang!~",
+      "Hey hey, NL kamu butuh NL lebih banyak #rEmas.",
+      "Hey kawan, kamu nggak punya #rUang!",
+      "Kamu miskin?",
+      "Kamu nggak punya cukup #rEmas.",
+      "Kamu nggak mampu bayar itu.",
+      "Ini bukan gratisan.",
+      "~Makasiiiih~",
+      "Terjual lagi... NL hohoho! NL Cha - @Ching!@",
+      "@TERJUAL!@",
+      "Nggak boleh dikembalikan lo ya.",
+      "Semoga harimu baik.",
+      "Pergi",
+      "Pilih sebuah kartu untuk dihapus dari dek."
+    ],
+    "TEXT": [
+      "Hai! NL Beli sesuatu! NL Beli beli beli!",
+      "Aku suka potongan rambutmu",
+      "Apa kamu punya waktu sebentar?",
+      "Kamu orang anjing apa orang kucing?",
+      "Kamu terlihat ~berbahaya,~ NL hehe...",
+      "Ambil waktumu... NL ..... NL ... atau tidak",
+      "Kamu suka karpet ini? NL Ini bukan untuk dijual",
+      "Dukung bisnis kecil!",
+      "Topeng itu keren, Aku seharusnya tahu!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Tunggu sebentar dan dengar!",
+      "Pergi sendiri itu berbahaya! Beri aku semua emasmu!",
+      "Beli dong",
+      "~*MENGUAP*~",
+      "Aku suka emas.",
+      "Warna favoritku biru. NL Kamu?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Silent"
+    ],
+    "TEXT": [
+      "Pemburu mematikan dari daratan berkabut. NL Membasmi musuh dengan pisau belati dan racun."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Sekarang... apa..? NL ..sudahkah ini... selesai....?",
+      "...Spire tertidur.....",
+      "..dan begitulah...... juga... NL ....aku......"
+    ]
+  }
+}

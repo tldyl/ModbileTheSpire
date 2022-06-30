@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Hàng tuyển",
+    "DESCRIPTION": "Bắt đầu với 5 lá bài không màu."
+  },
+  "Binary": {
+    "NAME": "Nhị phân",
+    "DESCRIPTION": "Bài thưởng chỉ bao gồm 2 lá."
+  },
+  "Brewmaster": {
+    "NAME": "[KHÔNG DÙNG] Nhà pha chế",
+    "DESCRIPTION": "Bắt đầu với 5 lá bài Giả kim và Tượng thú trắng."
+  },
+  "Cursed Run": {
+    "NAME": "Hành trình nguyền rủa",
+    "DESCRIPTION": "Bị Nguyền mỗi khi bạn tiêu diệt một con Trùm. Cổ vật khởi đầu được thay thế bằng Chìa Khóa Bị Nguyền, Bùa Đá Đen, và Búp Bê Du-Vu."
+  },
+  "Diverse": {
+    "NAME": "Đa dạng",
+    "DESCRIPTION": "Bài không bị giới hạn theo nhân vật của bạn."
+  },
+  "Red Cards": {
+    "NAME": "Bài đỏ",
+    "DESCRIPTION": "Bài thưỏng và trong cửa hàng giờ bao gồm bài đỏ."
+  },
+  "Green Cards": {
+    "NAME": "Bài xanh lá",
+    "DESCRIPTION": "Bài thưởng và trong cửa hàng giờ bao gồm bài xanh lá."
+  },
+  "Blue Cards": {
+    "NAME": "Bài xanh lam",
+    "DESCRIPTION": "Bài thưởng và trong cửa hàng giờ bao gồm bài xanh lam."
+  },
+  "Colorless Cards": {
+    "NAME": "Bài không màu",
+    "DESCRIPTION": "Bài thưởng giờ bao gồm bài không màu."
+  },
+  "Draft": {
+    "NAME": "Chọn lựa",
+    "DESCRIPTION": "Tự chọn một bộ bài khởi đầu."
+  },
+  "Elite Swarm": {
+    "NAME": "Thợ săn thú lớn",
+    "DESCRIPTION": "Tinh quái giờ xuất hiện khắp Tháp Xoáy và rơi phần thưởng xịn hơn."
+  },
+  "Endless": {
+    "NAME": "Vô tận",
+    "DESCRIPTION": "Sau khi thắng bạn sẽ trở lại Hồi 1 với cùng một bộ bài. Nhưng hãy cẩn trọng, tai ương sẽ dần nuốt trọn tất cả..."
+  },
+  "Blight Chests": {
+    "NAME": "Rương tai ương",
+    "DESCRIPTION": "Rương Trùm có chứa tai ương sau khi thắng Hồi 3 trong chế độ Vô tận."
+  },
+  "Stunted Growth": {
+    "NAME": "Tăng trưởng chậm",
+    "DESCRIPTION": "Quân địch không còn rơi ra bài thưởng sau khi thắng Hồi 3 trong chế độ Vô tận."
+  },
+  "Heirloom": {
+    "NAME": "Đồ gia truyền",
+    "DESCRIPTION": "Bắt đầu với 1 cổ vật Hiếm."
+  },
+  "Hoarder": {
+    "NAME": "Kẻ tích trữ",
+    "DESCRIPTION": "Mỗi khi bạn thêm một lá vào bộ bài, nhận thêm hai bản sao của lá bài đó. Bạn không thể hủy bài tại cửa hàng của Thương gia."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Thay thế cổ vật ban đầu với Con Quay Vĩnh Cửu."
+  },
+  "Insanity": {
+    "NAME": "Điên loạn",
+    "DESCRIPTION": "Bắt đầu với bộ bài 50 lá ngẫu nhiên."
+  },
+  "Lethality": {
+    "NAME": "Chết người",
+    "DESCRIPTION": "Bạn bắt đầu mỗi trận đấu với +3 Sức mạnh. Tất cả quân địch bắt đầu mỗi trận đấu với +3 Sức mạnh."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Quân địch rơi thêm 200% vàng, nhưng bạn không thể Rèn tại Khu nghỉ ngơi."
+  },
+  "My True Form": {
+    "NAME": "Hình hài thật của tôi",
+    "DESCRIPTION": "Bắt đầu với một lá Quỷ Hình, Yêu Hình, Vọng Hình và Chư Thiên Hình."
+  },
+  "Night Terrors": {
+    "NAME": "Giấc ngủ kinh hoàng",
+    "DESCRIPTION": "Ngủ tại Khu nghỉ ngơi sẽ hồi 100% HP của bạn, nhưng HP tối đa sẽ bị giảm 5."
+  },
+  "One Hit Wonder": {
+    "NAME": "Đấm phát chết luôn",
+    "DESCRIPTION": "Bắt đầu trò chơi với 1 HP tối đa."
+  },
+  "Praise Snecko": {
+    "NAME": "Xà Tắc Kè muôn năm",
+    "DESCRIPTION": "Thay thế cổ vật khởi đầu bằng Mắt Xà Tắc Kè."
+  },
+  "Shiny": {
+    "NAME": "Lấp lánh",
+    "DESCRIPTION": "Bộ bài khởi đầu được thay thế bằng 1 bản sao của mọi lá bài hiếm."
+  },
+  "Specialized": {
+    "NAME": "Chuyên dụng",
+    "DESCRIPTION": "Bắt đầu với 5 bản sao của cùng một lá bài."
+  },
+  "Starter Deck": {
+    "NAME": "Bộ bài khởi đầu",
+    "DESCRIPTION": "Bắt đầu với Vương miện sứt mẻ và Nhị phân, nên quân địch không còn rơi ra bài nữa."
+  },
+  "Terminal": {
+    "NAME": "Giai đoạn cuối",
+    "DESCRIPTION": "Mỗi khi bạn vào phòng mới, mất 1 HP tối đa. Bắt đầu mỗi trận đấu với 5 Giáp Mạ."
+  },
+  "Time Dilation": {
+    "NAME": "Thời gian giãn nở",
+    "DESCRIPTION": "Tất cả quân địch bắt đầu với trạng thái bất lợi Chậm chạp."
+  },
+  "Uncertain Future": {
+    "NAME": "Tương lai định sẵn",
+    "DESCRIPTION": "Bản đồ chỉ bao gồm một lối đi."
+  },
+  "Vintage": {
+    "NAME": "Đồ cổ",
+    "DESCRIPTION": "Quái thường sẽ rơi ra cổ vật thay vì bài."
+  },
+  "SealedDeck": {
+    "NAME": "Bài niêm phong",
+    "DESCRIPTION": "Soạn một bộ bài từ 30 lá ngẫu nhiên."
+  },
+  "Flight": {
+    "NAME": "Bay lượn",
+    "DESCRIPTION": "Bạn có thể bỏ qua tuyến đường hiện tại khi bạn chọn phòng ở tầng tiếp theo."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Bộ bài ban đầu của bạn hợp tất cả các nhân vật."
+  },
+  "NeowTime": {
+    "NAME": "Giây phút của Neow",
+    "DESCRIPTION": "Nhận 3 phước lành và 1 tai ương từ Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Kẻ địch thông minh",
+    "DESCRIPTION": "Tất cả quân địch có khả năng và tuyệt chiêu khó hơn."
+  },
+  "Careless": {
+    "NAME": "Bất cẩn",
+    "DESCRIPTION": "Khi bắt đầu mỗi lượt, bỏ lá trên cùng trong chồng bài bốc của bạn."
+  },
+  "ControlledChaos": {
+    "NAME": "Hỗn loạn có kiểm soát",
+    "DESCRIPTION": "Bắt đầu với Mắt Băng. Khi bắt đầu lượt của bạn thêm 10 lá bài ngẫu nhiên vào đáy chồng bài rút."
+  },
+  "MonsterHunter": {
+    "NAME": "[KHÔNG DÙNG] Người khổng lồ",
+    "DESCRIPTION": "Quân địch có thêm HP nhưng rơi phần thưởng xịn hơn."
+  },
+  "DeadlyEvents": {
+    "NAME": "Sự kiện chết người",
+    "DESCRIPTION": "Phòng ? giờ có thêm Tinh quái nhưng cũng tăng khả năng là phòng Kho báu."
+  },
+  "Daily Mods": {
+    "NAME": "Chỉnh sửa Hàng ngày",
+    "DESCRIPTION": "Bắt đầu hành trình với 3 Bộ chỉnh sửa Hàng ngày ngẫu nhiên."
+  },
+  "The Ending": {
+    "NAME": "Cái kết",
+    "DESCRIPTION": "Mở Hồi Cuối."
+  },
+  "Purple Cards": {
+    "NAME": "Bài tím",
+    "DESCRIPTION": "Bài thưởng và trong cửa hàng giờ bao gồm bài tím."
+  }
+}

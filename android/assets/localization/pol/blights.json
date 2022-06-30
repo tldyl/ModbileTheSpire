@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Włócznia Plagi",
+    "DESCRIPTION": [
+      "Przeciwnicy zadają #b",
+      "% więcej obrażeń."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Tarcza Plagi",
+    "DESCRIPTION": [
+      "Przeciwnicy mają #b",
+      "% więcej PŻ."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labirynt czasu",
+    "DESCRIPTION": [
+      "Nie możesz zagrać więcej niż #b",
+      " kart na turę.",
+      "Mogę jeszcze zagrać: NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Pokrętny umysł",
+    "DESCRIPTION": [
+      "Na koniec tury dodaj #b",
+      " losowych kart Stanu na szczyt stosu rozgrywającego.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Przekleństwo",
+    "DESCRIPTION": [
+      "Kiedykolwiek pokonasz Bossa, otrzymasz #b",
+      " losowych kart #yKlątwy.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Roztrzepaniec",
+    "DESCRIPTION": [
+      "Dobierz #b",
+      " kartę mniej na turę.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Plaga Mimików",
+    "DESCRIPTION": [
+      "Pokoje Skarbów w kolejnych aktach zostaną zastąpione przez pokoje Elit. Przeciwnicy Elitarni nie gubią już artefaktów."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Kaganiec",
+    "DESCRIPTION": [
+      "Nie zyskujesz już maksymalnych PŻ. Efekty leczące są zmniejszone o połowę."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteskowe trofeum",
+    "DESCRIPTION": [
+      "Po podniesieniu otrzymaj #b",
+      " karty Klątw - #rDuma.",
+      "Twoja Duma jest wynaturzona..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Skażony durian",
+    "DESCRIPTION": [
+      "Utrać #b",
+      "% maksymalnych PŻ."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Esencja otchłani",
+    "DESCRIPTION": [
+      "Otrzymaj #b",
+      " mniej [E] na początku każdej tury."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Nawiedzony",
+    "DESCRIPTION": [
+      "Przeciwnicy zaczynają walkę z #b",
+      " pkt. #yNieuchwytności."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Starożytna technologia",
+    "DESCRIPTION": [
+      "Przeciwnicy zaczynają walkę z #b",
+      " pkt. #yHartu, #b",
+      " pkt. #yPancerza i #b",
+      " pkt. #yRegeneracji."
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "先古藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y人工製品"
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "攻擊藥水",
+    "DESCRIPTIONS": [
+      "從 #b3 張隨機 #y攻擊牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "從 #b3 張隨機 #y攻擊牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
+    ]
+  },
+  "Block Potion": {
+    "NAME": "格擋藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y格擋"
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "鮮血藥水",
+    "DESCRIPTIONS": [
+      "回復最大生命值的 #b",
+      "%"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "敏捷藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y敏捷"
+    ]
+  },
+  "Elixir": {
+    "NAME": "不死藥",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "DEPRECATED",
+      "",
+      "DEPRECATED"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "能量藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點能量"
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "混沌藥水",
+    "DESCRIPTIONS": [
+      "在所有空藥水欄位中獲得隨機藥水"
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "鋼之精華",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y多層護甲"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆炸藥水",
+    "DESCRIPTIONS": [
+      "對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "瓶中精靈",
+    "DESCRIPTIONS": [
+      "當你要被殺死時，免死並回復到最大生命值的 #b",
+      "% ，丟棄這瓶藥水"
+    ]
+  },
+  "FearPotion": {
+    "NAME": "恐懼藥水",
+    "DESCRIPTIONS": [
+      "給予 #b",
+      " 層 #y易傷"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "火焰藥水",
+    "DESCRIPTIONS": [
+      "造成 #b",
+      " 點傷害"
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "集中藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y集中"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "果汁",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點最大生命"
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "賭徒特釀",
+    "DESCRIPTIONS": [
+      "丟棄任意張牌，然後抽相同數量的牌"
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "罐裝幽靈",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y無實體"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "生命藥水",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "流動銅液",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y荊棘"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒藥水",
+    "DESCRIPTIONS": [
+      "給予 #b",
+      " 層 #y中毒"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "藥水欄",
+    "DESCRIPTIONS": [
+      "在戰鬥中使用藥水來獲得 #g增益 或 #r阻撓 敵人",
+      "藥水欄"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "能力藥水",
+    "DESCRIPTIONS": [
+      "從 #b3 張隨機 #y能力牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "從 #b3 張隨機 #y能力牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "再生藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y再生",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "技能藥水",
+    "DESCRIPTIONS": [
+      "從 #b3 張隨機 #y技能牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "從 #b3 張隨機 #y技能牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "煙霧彈",
+    "DESCRIPTIONS": [
+      "從一場非首領戰鬥中逃離，不獲得任何獎勵",
+      "我被夾擊了，無法逃脫！"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "異蛇之油",
+    "DESCRIPTIONS": [
+      "抽 #b",
+      " 張牌。隨機所有手牌的耗能",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "速度藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 敏捷 。在你的回合結束時，失去 #b",
+      " 點 敏捷"
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "類固醇藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 力量 。在你的回合結束時，失去 #b",
+      " 點 力量"
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "力量藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 點 #y力量"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "迅捷藥水",
+    "DESCRIPTIONS": [
+      "",
+      "抽 #b",
+      " 張牌"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "虛弱藥水",
+    "DESCRIPTIONS": [
+      "給予 #b",
+      " 層 #y虛弱"
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "複製藥水",
+    "DESCRIPTIONS": [
+      "本回合下1張牌將被打出2次",
+      "本回合下2張牌將被打出2次"
+    ]
+  },
+  "StancePotion": {
+    "NAME": "姿態藥水",
+    "DESCRIPTIONS": [
+      "進入 #y平靜 或 #y憤怒 "
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "萬靈藥水",
+    "DESCRIPTIONS": [
+      "#y消耗 任意張手牌"
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "鐵之心",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y金屬化 "
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "狡詐藥水",
+    "DESCRIPTIONS": [
+      "增加 #b",
+      " 張 #y小刀+ 到手牌"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "擴容藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 個充能球欄位"
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "暗之精華",
+    "DESCRIPTIONS": [
+      "每個充能球欄位 #y生成 #b",
+      " 個 #y黑暗 充能球"
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "瓶裝奇蹟",
+    "DESCRIPTIONS": [
+      "增加 #b",
+      " 張 #y奇蹟 到手牌"
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "仙饌密酒",
+    "DESCRIPTIONS": [
+      "進入 #y神格 #y姿態 "
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "精煉混沌",
+    "DESCRIPTIONS": [
+      "打出抽牌堆頂部的 #b",
+      " 張牌"
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "液態記憶",
+    "DESCRIPTIONS": [
+      "選擇棄牌堆中的1張牌放入手牌。這張牌在本回合的耗能變為 #b0 ",
+      "選擇棄牌堆中的 #b ",
+      " 張牌放入你的手牌。它們在本回合的耗能變為 #b0 "
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "邪教徒藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y儀式 "
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "無色藥水",
+    "DESCRIPTIONS": [
+      "從 #b3 張隨機 #y無色牌 中選擇 #b1 張加入手牌。該牌在本回合耗能變為 #b0",
+      "從 #b3 張隨機 #y無色牌 中選擇 #b1 張加入手牌 #b2 次。這些牌在本回合耗能變為 #b0"
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "熔爐的祝福",
+    "DESCRIPTIONS": [
+      "在本場戰鬥中升級所有手牌"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Nộ",
+    "DESCRIPTION": [
+      "Bài Tấn công của bạn gây gấp đôi sát thương và bạn nhận gấp đôi sát thương."
+    ]
+  },
+  "Calm": {
+    "NAME": "Tĩnh",
+    "DESCRIPTION": [
+      "Khi thoát khỏi #yThế này, nhận [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Phật",
+    "DESCRIPTION": [
+      "Khi vào #yThế này, nhận [W] [W] [W] . Bài Tấn công gây sát thương gấp ba lần. Thoát khỏi #yThế này khi bắt đầu lượt tiếp theo."
+    ]
+  }
+}

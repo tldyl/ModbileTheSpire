@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Krähbot"
+    ],
+    "TEXT": [
+      "BIEP BUUP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Das Defekte"
+    ],
+    "TEXT": [
+      "Ein Kampf-Automaton, das Selbstbewusstsein erlangte. NL Manipuliert Orbs mithilfe vorzeitlicher Technologie."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Der Eiserne"
+    ],
+    "TEXT": [
+      "Der verbliebene Soldat der Eisernen. NL Verkaufte seine Seele, um dämonische Energien nutzen zu können."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Fortfahren",
+      "~Willkommen!~"
+    ],
+    "TEXT": [
+      "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
+      "Ich mag deine Frisur.",
+      "Hast du so viel Zeit?",
+      "Bist du ein Hunde- oder ein Katzentyp?",
+      "Du siehst ~gefährlich~ aus, NL hehe ...",
+      "Lass dir Zeit ... NL ...... NL oder halt nicht.",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
+      "Unterstütze Kleinunternehmen!",
+      "Masken sind cool, ich muss es ja wissen!",
+      "Hmm ... NL ... hmm ... NL Oh!",
+      "Bleib eine Weile und hör zu!",
+      "Allein ist es gefährlich hier! Gib mir all dein Gold!",
+      "Kauf was!",
+      "~*GÄHN*~",
+      "Ich mag Gold.",
+      "Meine Lieblingsfarbe ist Blau. NL Und deine?"
+    ],
+    "OPTIONS": [
+      "Wie ich hierher gekommen bin? NL Keine Ahnung.",
+      "Letzte Chance was zu kaufen! NL ~*zwinker*~ ~*zwinker*~",
+      "..... NL .... NL .........",
+      "Ich bin ein Katzentyp.",
+      "Keine Eile. NL Keine Eile.",
+      "Ist das nicht @aufregend!?@",
+      "Ich war mal so wie du.",
+      "Auf dem Weg nach oben?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Niau"
+    ],
+    "TEXT": [
+      "~Sei~ ~gegrüßt...~ NL ~Ich~ ~bin~ ~Niau~ ~...~",
+      "~Hallo...~ NL ~Noch~ ~mal...~",
+      "~Sei~ ~gegrüßt~ ~...~",
+      "~Noch~ ~ein~ NL ~Versuch~ ~...?~",
+      "~Erreiche~ ~den~ ~Boss...~ NL ~um~ ~mehr..~ ~Segen~ ~zu~ ~erhalten...~",
+      "~Stelle~ ~dich~ ~zumindest~ ~...~ NL ~dem~ ~ersten~ ~Boss~ ~...~",
+      "~Ich~ ~habe~ ~dich~ ~zurückgeholt~ ~...~",
+      "~Wähle...~",
+      "~Gewährt...~",
+      "~Wer~ ~nicht~ ~wagt,~ NL ~der~ ~nicht~ ~gewinnt...~",
+      "~Zeit~ ~für~ ~eine~ NL ~HERAUSFORDERUNG...~",
+      "Belohnungen",
+      "~Weiter~ ~geht's...~",
+      "~Es~ ~wird~ ~nur~ ~schwerer...~",
+      "~Beeindruckend...~ ~weiter...~",
+      "Verflucht!",
+      "Wirrkopf!",
+      "Transformation!"
+    ],
+    "OPTIONS": [
+      "[Fortsetzen]",
+      "[Reden]",
+      "[Überspringen]",
+      "[Verlassen]",
+      "Wähle 10 Karten und füge sie deinem Deck hinzu."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gWähle #geine #gKarte #gfür #gdein #gDeck ]",
+      "[ #gErhalte #geine #gzufällige #gseltene #gKarte ]",
+      "[ #gEntferne #geine #gKarte #gaus #gdeinem #gDeck ]",
+      "[ #gVerbessere #geine #gKarte ]",
+      "[ #gTransformiere #geine #gKarte ]",
+      "[ #gErhalte #g3 #gzufällige #gTränke ]",
+      "[ #gErhalte #gein #gzufälliges #ggewöhnliches #gRelikt ]",
+      "[ #gMax. #gTP #g+",
+      "[ #gErhalte #g",
+      " #gGold ]",
+      "#gentferne #g2 #gKarten ]",
+      "#gerhalte #gein #gzufälliges #gseltenes #gRelikt ]",
+      "#gwähle #geine #gseltene #gKarte #gfür #gdein #gDeck ]",
+      "#gerhalte #g",
+      " #gGold ]",
+      "#gtransformiere #g2 #gKarten ]",
+      "#gmax. #gTP #g+",
+      "[ #rVerliere #r",
+      " #rmax. #rTP und ",
+      "[ #rVerliere #rdein #rgesamtes #rGold und ",
+      "[ #rErhalte #reinen #rFluch und ",
+      "[ #rVerliere #r",
+      "Wähle eine Karte",
+      "Wähle eine Karte, die du entfernst",
+      "Wähle 2 Karten, die du entfernst",
+      "Wähle eine Karte, die du transformierst",
+      "Wähle 2 Karten, die du transformierst",
+      "Wähle eine Karte, die du verbesserst",
+      "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]",
+      " #rTP und",
+      "[ #gWähle #geine #gfarblose #gKarte #gfür #gdein #gDeck ]",
+      "#gwähle #geine #gseltene #gfarblose #gKarte ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Was... nun..? NL ..ist es endlich... geschehen....?",
+      "...der Spire schläft.....",
+      "..und das.... werde... auch.. NL ....ich......"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Willkommen,~ NL ~willkommen!~",
+      "He, NL du brauchst NL mehr #rGold.",
+      "Hey, Kumpel, du hast kein #rGeld!",
+      "Biste pleite?",
+      "Du hast nicht genug #rGold.",
+      "Das kannst du dir nicht leisten.",
+      "Das ist hier nicht die Wohlfahrt.",
+      "~Daaaanke~",
+      "Wieder was verkauft... NL hohoho! NL Ka – @Ching!@",
+      "@VERKAUFT!@",
+      "Rückerstattungen gibt’s bei mir nicht.",
+      "Einen schönen Tag noch.",
+      "Verlassen",
+      "Wähle eine Karte, die du aus deinem Deck entfernen möchtest."
+    ],
+    "TEXT": [
+      "Hi! NL Kauf etwas! NL Kauf, kauf, kauf!",
+      "Ich mag deine Frisur.",
+      "Hast du die Zeit?",
+      "Bist du ein Hunde- oder ein Katzenliebhaber?",
+      "Du siehst ~gefährlich~ aus, NL hehe ...",
+      "Lass dir Zeit ... NL ...... NL ... oder auch nicht.",
+      "Gefällt dir dieser Teppich? NL Der steht nicht zum Verkauf.",
+      "Unterstütze Kleinunternehmen!",
+      "Masken sind cool, ich muss es ja wissen!",
+      "Hast du meine Kurierin gesehen?",
+      "Bleib eine Weile und hör zu!",
+      "Allein ist es gefährlich hier! Gib mir all dein Gold!",
+      "Kauf was!",
+      "~*GÄHN*~",
+      "Ich mag Gold.",
+      "Meine Lieblingsfarbe ist Blau. NL Und deine?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Die Stille"
+    ],
+    "TEXT": [
+      "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "Die Seherin"
+    ],
+    "TEXT": [
+      "Eine blinde Asketin, die kam, um den Spire \"auszuwerten\". NL Meisterin der göttlichen Haltungen."
+    ]
+  }
+}

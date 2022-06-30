@@ -1,0 +1,933 @@
+{
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Avslutt]"
+    ]
+  },
+  "Accursed Blacksmith": {
+    "NAME": "Illevarslende smie",
+    "DESCRIPTIONS": [
+      "Du dukker inn i en liten hytte. Inne finner du noe som ser ut som en smie. Verktøyene er dekket med støv, men likevel er det brann i essa. Du føler deg litt utenfor...",
+      "Du bestemmer deg for å prøve smia, og... NL #y@KLANG@ #y@KLAAANG@ #y@KLANG!@ NL ...oppgraderer arsenalet ditt!",
+      "Du bestemmer deg for å se om du finner noe brukbart. Etter å ha sett bak presenninger, letet igjennom esker og sjekket i alle hjørner, finner du en nedstøvet #y~relikvie!~ ",
+      "Mens du gjør det avsluttende arbeidet, hopper flammene fra essa ut mot deg, de #r@brenner@ #r@og@ #r@skader@ armene dine..",
+      "Du kan ikke helt riste av deg en #r~ekkel~ #r~følelse~ i det du går ut av hytta. Kanskje forstyrret du en slags ånd?",
+      "Det ser ikke ut til at det er noe brukbart i hytta. Du går ut samme vei du kom inn. Flammene i essa kaster #p~uhyggelige~ #p~skygger~ på veggene i hytta..."
+    ],
+    "OPTIONS": [
+      "[Smi] #gOppgrader #get #gkort. #r25%: #rBli #rforbannet #r- #rSkade.",
+      "[Let] #gFå #gen #grelikvie. #r75%: #rBli #rforbannet #r- #rNormalitet.",
+      "[Stikk]",
+      "Velg et kort du vil Oppgradere",
+      "[Låst] Du trenger: Oppgraderbare kort"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Ånder i bålet",
+    "DESCRIPTIONS": [
+      "Du snubler over en gruppe av noe som ser ut som #plilla #pånder #pav #pild som ~danser~ rundt et stort bål. NL ",
+      "Åndene kaster små ben og fragmenter på bålet, som ~bryter~ ~ut~ ~i~ ~et~ ~brilliant~ ~lys~ hver gang. NL I det du nærmer deg, snur alle åndene seg mot deg og ser forventende på deg...",
+      "Du kaster et offer inn i bålet. NL NL ",
+      "Åndene er imidlertid ikke fornøyde med at du ga dem en #pForbannelse... Kortet freser i en tykk, svart røyk. Du får en ... #p~noe~ tilbake.",
+      "Ingenting hender... NL Åndene ser ut til å overse deg nå. Skuffende...",
+      "Flammene blir litt skarpere. NL Åndene fortsetter dansen sin. Du føler deg litt varmere av deres nærhet... NL Du #ghelbreder #b5 HP.",
+      "Flammene bryter ut, og gror tydelig kraftigere! NL Åndene danser rundt deg og fyller deg med en  ~varm~ ~følelse.~ NL Du #ghelbredes til full HP.",
+      "Flammene @bryter@ @ut,@ og slår deg nesten i bakken, i det ildens styrke @dobles@. NL Åndene danser ivrige rundt deg før de ~blir~ ~ett~ ~med~ ~deg,~ og fyller deg med varme og styrke. NL Din max HP øker med #b10 og du #ghelbredes til full HP."
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      "[Stikk]",
+      "[Offer] Motta en belønning basert på ditt offer.",
+      "Velg et kort du vil ofre."
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Bildelotto!",
+    "DESCRIPTIONS": [
+      "\" #bTolv kort! Finn to like for å beholde dem! #bFem forsøk, ingen angrerett. NL Er du klar? La oss starte!\"",
+      "Du fullfører gremlingens spill og ser opp. NL Han forsvant?",
+      "En gremling stokker kort som en gal på et bord. Monsteret ser harmløst ut. Du nærmer deg ham nysgjerrig."
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      "[Stikk]",
+      "[Spill]",
+      "Gjenstående forsøk: #y"
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Duplikator",
+    "DESCRIPTIONS": [
+      "Foran deg ligger et dekorert alter til en eller annen gammel gudeskikkelse.",
+      "Du kneler respektfullt. Et spøkelsesaktig speilbilde dukker opp i alteret og kolliderer inn i deg.",
+      "Du ignorerer alteret, sikker på at du har gjort det rette."
+    ],
+    "OPTIONS": [
+      "[Be] #gDupliser #get #gkort #gi #gkortstokken #gdin.",
+      "[Stikk]",
+      "Velg et kort du vil duplisere."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "Den hellige fontenen",
+    "DESCRIPTIONS": [
+      "Du oppdager et #b~glitrende~ #b~vann~ som flyter endeløst ut av en fontene i en vegg i nærheten.",
+      "I det du drikker ~vannet~ kjenner du at et  #pmørkt #pgrep løsner.",
+      "Du er usikker på hvor vannet kommer fra, og drar din vei igjen, uttørket."
+    ],
+    "OPTIONS": [
+      "[Drikk] #gFjern #galle #gForbannelseskort #gfra #gkortstokken #gdin.",
+      "[Stikk]"
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Den gylne helligdomen",
+    "DESCRIPTIONS": [
+      "Foran deg ligger en utsmykket helligdom til ære for en gammel ånd. ",
+      "I det hånda di berører helligdommen, regner det #ygull ned fra himlingen, og ~dusjer~ ~deg~ ~i~ ~rikdom.~ ",
+      "Hver gang du berører helligdommen tyter det ut #ygull igjen og igjen! NL NL Mens du putter all rikdommen i lomma di, kjenner du at noe #rveier #rtungt #rpå #rskuldrene #rdine.",
+      "Du ignorerer helligdommen."
+    ],
+    "OPTIONS": [
+      "[Be] #gFå #g",
+      " #gGull.",
+      "[Ødelegg] #gFå #g250 #ggull. #rBli #rforbannet #r- #rAnger.",
+      "[Stikk]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Laboratorium",
+    "DESCRIPTIONS": [
+      "Du befinner deg i et rom fylt med hyller med prøverør, begre, flasker, tenger, klemmer, rørepinner, beskyttelsesbriller, trakter, pipetter, sylindre, kondensatorer, og til og med en sjelden glasspiral. NL NL Hvorfor kan du navnet på alle disse verktøyene? Det har ikke noe å si, du ser deg rundt."
+    ],
+    "OPTIONS": [
+      "[Let] #gFinn #gnoen #gtrylledrikker!"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Renselse",
+    "DESCRIPTIONS": [
+      "Foran deg ligger en utsmykket helligdom til en glemt ånd.",
+      "I det du kneler foran det kjenner du at en vekt løfter seg fra skuldrene dine.",
+      "Du ignorerer helligdommen."
+    ],
+    "OPTIONS": [
+      "[Be] #gFjern #get #gkort #gfra #gkortstokken #gdin.",
+      "[Stikk]",
+      "Velg et kort du vil fjerne."
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Forvandlingsmaskin",
+    "DESCRIPTIONS": [
+      "Foran deg ligger en utsmykket helligdom til en glemt ånd.",
+      "I det kraften fra helligdommen flyter igjennom deg, kjenner du at sinnet ditt endres.",
+      "Du ignorerer helligdommen."
+    ],
+    "OPTIONS": [
+      "[Be] #gTransformer #get #gkort.",
+      "[Stikk]",
+      "Velg et kort du vil Transformere."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Oppgraderingshelligdom",
+    "DESCRIPTIONS": [
+      "Foran deg ligger en utsmykket helligdom til en glemt ånd.",
+      "Helligdommens energi flyter igjennom deg og gjør deg sterkere.",
+      "Du ignorerer helligdommen."
+    ],
+    "OPTIONS": [
+      "[Be] #gOppgrader #get #gkort.",
+      "[Stikk]",
+      "Velg et kort du vil Oppgradere.",
+      "[Låst] Du trenger: Oppgraderbare kort"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Lykkehjul",
+    "DESCRIPTIONS": [
+      "Du kommer fram til en pent kledd, veldig fornøyd gremling. NL \"Det er på tide å spinne lykkehjulet! Er du ~K~ ~L~ ~A~ ~R~ ~?~ Selvsagt er du klar!\"",
+      "\"Du vinner litt #yGULL! NL JIPPI!!!!\"",
+      "\"Oj, en #ggave! NL Kos deg!\"",
+      "\"Wow! Helt gratis #ghelbredelse bare til deg!\"",
+      "\"Ser ut som om du vant en #pForbannelse! NL Det er ikke bra. NL Jaja! Bedre lykke neste gang!\"",
+      "\"Ah, #r~mørkets~ kraft... NL Velg et kort du vil fjerne fra kortstokken din!\"",
+      "\"Uff da! NL Du taper!\" NL Du ser at han gjør klar en Kniv...",
+      "Du fekter etter den gale gremlingen, men han er alt for rask for deg! NL Han stikker deg et par ganger med den sløve Kniven sin. NL \"Den som vil leke leken, må smake steken!!\" NL og med det forsvinner både gremlingen og lykkehjulet i en sky av røyk."
+    ],
+    "OPTIONS": [
+      "[Spill]",
+      "[Premie!] YAY!!!!",
+      "[Premie!] #gFå #gen #grelikvie.",
+      "[Premie!] #gHelbred #gfullt #gopp.",
+      "[Premie?] #rForbannelse #r- #gForfall.",
+      "[Premie!] #gFjern #get #gkort #gfra #gkortstokken #gdin.",
+      "[Premie?] #rTap #r",
+      " #rHP.",
+      "[Stikk]",
+      "Velg et kort du vil fjerne."
+    ]
+  },
+  "Falling": {
+    "NAME": "Faller",
+    "DESCRIPTIONS": [
+      "Du hopper oppover fra en flytende form til en annen, og plutselig sklir du. NL NL Du faller.",
+      "Mens du faller vurderer du mulighetene dine: NL Lande sikkert med dine beste teknikker. NL Kanaliser krefter nok til å overleve fallet. NL Slå sverdet ditt i veggen slik at du henger fast og bremser fallet.",
+      "Du lander elegant, og fortsetter ferden.",
+      "Du samler rå kraft og klarer på en eller annen måte å lande uten skade.",
+      "Du får til å klamre deg fast i veggen, og gjør et kort hopp over til en stabil plattform.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      "[Land] #rMist ",
+      "[Låst] Krever: Egenskapkort",
+      "[Kanaliser] #rMist ",
+      "[Låst] Krever: Kraftkort",
+      "[Slå] #rMist ",
+      "[Låst] Krever: Angrepskort",
+      "[Stikk]",
+      "[Land] "
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "Moai-hodet",
+    "DESCRIPTIONS": [
+      "Du snubler over noe som føles *veldig* unaturlig. Foran deg ser du et enormt steinhode som kommer ut av et stort veggsegment som ikke forandrer seg på samme måte som resten av området du er i. NL Hodets munn er vidåpen, og avslører store, truende tenner som er rødflekket av blod. Overflaten av statuen er dekket av bilder som viser folk som kaster seg inn i munnen av dette hodet og blir spist levende. Hvorfor ville noen gjøre noe slikt?",
+      "Med en gang du går inn i munnen av statuen skjer det ikke noe. Du føler deg litt dum, i det de enorme molarene smeller ned og knuser deg hel. NL @Mørke.@ NL Litt senere, fra inne i mørket, ser du en lysstrime, og hører det du innser er lyden av steintenner som sakte siger oppover. NL NL NL Du forlater området, om enn litt omtåket.",
+      "Du hopper bakover litt i det de enorme molarene smeller ned på idolet, og pulveriserer det. I det tennene sakte går oppover igjen, tyter det #ygull fra åpningen, og du blir begravet i rikdom.",
+      "Du drar, mens du lurer på hva som ville skjedd."
+    ],
+    "OPTIONS": [
+      "[Hopp inn] #gHelbred #gfullt #gopp. #gSenk #rMax #rHP #rmed #r",
+      ".",
+      "[Offer: Gullidol] #gMotta #g333 #ggull. #rMist #rGullidolet #rditt.",
+      "[Låst] Krever: Gullidol.",
+      "[Stikk]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Mystisk sfære",
+    "DESCRIPTIONS": [
+      "Fra det kaotiske terrenget rundt deg stikker det opp en sfære av bein, som omringer et mystisk glødende objekt. NL Du er åpenbart nysgjerrig på hva som er der inne, men du ser også at det er soldater som passer på det.",
+      "I det du slår på sfæren våkner soldatene til live rundt deg!",
+      "Man trenger jo ikke være grådig."
+    ],
+    "OPTIONS": [
+      "[Åpne sfæren] #rSlåss. #gBelønning: #gRelikvie.",
+      "[Stikk]",
+      "[Slåss]"
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Søledamportaler",
+    "DESCRIPTIONS": [
+      "Du plasker rett uti en søledam... og faller ut av himlingen rett ovenfor den! NL Mens du faller vurderer du mulighetene dine.",
+      "Du flakser med armene i panikk og forsøker alle dine hemmelige triks for å forhindre at du skader deg. Isteden faller du ned i sølepytten igjen... og igjen... og igjen. Det går flere dager før du innser hvordan du skal komme deg ut. I sannhet elendig.",
+      "Du gjør deg klar til å lande, men det er enkelt og greit ingen god måte å lande på når man kaster seg ut av en slik merkelig innretning. @PANG@ NL NL ...du ligger der en stund, mens du banner og sverger hevn over alle sølepytter, både de flytende og de magiske."
+    ],
+    "OPTIONS": [
+      "[Nedsølt] #rMist #ret #rtilfeldig #rsjeldent #rkort.",
+      "[Land på trynet] #rTa #r",
+      " #rSkade. #rFå #ren #rForbannelse #r- #rSkadekort.",
+      "[Stikk]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Den røde maskes grav",
+    "DESCRIPTIONS": [
+      "En dekorert grav kan skimtes på den andre siden av en flytende sti. Når du kommer fram til graven, ser du at det er en spalte til #ygullmynter, med en inskripsjon over seg.",
+      "Du tar på deg maska, og graven ~går~ ~i~ ~oppløsning...~ en hemmelig passasje! NL NL Passasjen går midt iblant en enorm mengde stjålne ting, og hauger med #ygull!",
+      "En åpning viser seg, og ut glir en liten rød maske med en lapp festet på. \"Ta fra andre, som jeg har tatt fra deg!\""
+    ],
+    "OPTIONS": [
+      "[Ta på den røde masken] #gMotta #g222 #ggull.",
+      "[Låst] Krever: Rød maske.",
+      "[Ofre: ",
+      " Gull] #rMist #ralt #rgull. #gMotta #gen #grelikvie.",
+      "[Stikk]"
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Svingete ganger",
+    "DESCRIPTIONS": [
+      "Du går sakte igjennom svingete stier, og skjønner etterhvert at du stadig vekk går deg bort. Det kan virke som om veggene og bakken beveger på seg foran øynene dine. De stadige hviskende stemmene i bakhodet ditt hjelper ikke akkurat, heller.",
+      "Du passerer en struktur du er sikker på du har sett før, og begynner å stille spørsmål ved din egen tilregnelighet. Kan det være den umulige geografien på dette stedet som er i ferd med å vippe deg over? Du må endre noe, og det raskt. Det er i alle fall det stemmene sier, og hvorfor skulle vel de lyve?",
+      "Det er noe som bryter sammen inne i deg. Det er bare de som er gale på ordentlig som kan forstå et sted som dette, så du gir etter for de masete stemmene og fortsetter med et \"nytt\" perspektiv på tingene. Det hele virker så mye mer logisk nå.",
+      "Du tar en pause, og begynner å legge merke til detaljer med landskapet rundt deg. Et hint av mønster begynner å vise seg i tilfeldighetene. Når de horrible lydene begynner å avbryte tankene dine, strever du deg igjennom den mentale smerten og ignorerer det. NL NL Etter hvert greier du å kartlegge hvor du skal, og fortsetter reisen din. Du har bygget deg opp en resistans ovenfor dette fremmede stedet.",
+      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Omfavn galskapen] #gMotta #g2 #gGalskap. #rMist #r10 #r",
+      " HP.",
+      "[Fokuser] #rMotta #ren #rForbannelse #r- #rVri #rseg. #gHelbred #g",
+      "[Stikk]",
+      " #gHP.",
+      "[Retrace Your Steps] #rLose #r",
+      " #rMax #rHP."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Lys i tunnellen",
+    "DESCRIPTIONS": [
+      "Du går nedover en korridor, i det du legger merke til en #ybanan, en #ysmultring og en #yeske som  ~flyter~ i løse luften. Nei... ved nærmere ettersyn legger du merke til at de henger i tråder som kommer ut av hull i taket. Det er en stille @latter@ ovenfra i det du nærmer deg objekstene. NL Hva gjør du?",
+      "Du spiser #ybananen. Den er næringsrik og litt #bmagisk, og helbreder deg.",
+      "Du spiser #ysmultringen. Den treffer akkurat der den skal! Din Max HP øker.",
+      "",
+      "Du tar esken. Inni finner du en #yrelikvie!",
+      " NL Du hadde imidlertid veldig lyst på smultringen. NL Du føler ~tristhet,~ men mest av alt føler du en enorm #ranger."
+    ],
+    "OPTIONS": [
+      "[Banan] #gHelbred #g",
+      " #gHP.",
+      "[Smultring] #gMax #gHP #g+",
+      ".",
+      "[Eske] #gMotta #gen #grelikvie. #rMotta #rogså #ren #rForbannelse #r- #rAnger.",
+      "[Stikk]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "Presten",
+    "DESCRIPTIONS": [
+      "En merkelig blå menneskelignende skikkelse med en gullhjelm (?) nærmer seg deg. Han har et stort smil rundt munnen. NL @\"Hallo@ @kjære@ @venn!@ Jeg er #bpresten! Kan jeg interessere deg i mine tjenester?!\" roper skikkelsen, høyt.",
+      "Et varmt, gyllent lys omfavner kroppen din og forsvinner. NL Skikkelsen gliser. \"Presten er beste helbreder. @Ha@ @en@ @fin@ @dag!\"@",
+      "En kald blå flamme omfavner kroppen din og forsvinner. NL Skikkelsen gliser. \"Presten er talentfull. @Ha@ @en@ @fin@ @dag!\"@",
+      "Du stoler ikke på denne #b\"presten\", så du stikker."
+    ],
+    "OPTIONS": [
+      "[Helbred] #y35 #yGull: #gHelbred #g",
+      "[Låst] Krever: ",
+      " Gull.",
+      "[Renselse] #y",
+      " #yGull: #gFjern #get #gkort #gfra #gkortstokken #gdin.",
+      "[Låst] Krever: 50 Gull.",
+      "[Stikk]",
+      "Velg et kort du vil fjerne.",
+      " #gHP."
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "En død eventyrer",
+    "DESCRIPTIONS": [
+      "Mens du sjekker lommene til eventyreren, blir du overrasket!",
+      "Du drar derfra uten en lyd.",
+      "Du kommer over en #rdød #reventyrer på gulvet. NL #bBuksene han er stjålet. I tillegg ",
+      "ser det ut som om ansiktet og rustningen hans er #r@brent@ #r@av@ #r@ild.@ ",
+      "ser det ut som om han er #r@tråkket@ #r@på@ av et digert beist. ",
+      "ser det ut til at han har blitt #r@revet@ #r@opp@ #r@og@ #r@hakket@ på av enorme klør. ",
+      "NL Eiendelene hans ser ut til å #yfortsatt #yvære #yintakte, men du har ikke lyst til å finne ut hva som egentlig skjedde her...",
+      "Du fant litt #ygull! NL Ønsker du å fortsette å lete?",
+      "Hmm, kunne ikke finne noe... NL Ønsker du å fortsette å lete?",
+      "Du fant en #yrelikvie! Ønsker du å fortsette å lete?",
+      "Det ser ut som om du har letet igjennom alle eiendelene hans uten å møte motstand!"
+    ],
+    "OPTIONS": [
+      "[Lete] #gFinn #gskatter. #r",
+      "[Stikk]",
+      "[Slåss]",
+      "[Fortsett] #gFinn #gskatter. #r",
+      "%: #rsjanse #rfor #rat #rmonsteret #rreturnerer."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Gullidol",
+    "DESCRIPTIONS": [
+      "Du finner en iøynefallende sokkel som har et #yskinnende #gullidol plassert på toppen. Det ser utrolig verdifullt ut. NL Du ser i alle fall ingen feller i nærheten.",
+      "I det du tar idolet og putter det i sekken, kommer en enorm kampestein igjennom taket og lander rett ved siden av deg. NL Du merker at gulvet heller mot deg, og steinen ruller sakte mot deg.",
+      "@LØØØØØØØØØP!@ NL Du hopper såvidt unna inn i en sidegang. Uheldigvis kjennes det ut som om du forstuet noe.",
+      "Du kaster deg mot steinen med alle dine krefter. Når støvet legger seg, kommer du deg trygt ut.",
+      "@SKVIS!@ NL Steinen ruller over deg, og du kjenner at du blir litt flatere. Bortsett fra det kommer du deg ut.",
+      "Hvis det skulle lages en definisjon for åpenbar felle, ville dette være den. NL Du bestemmer deg for ikke å ha noe med objekter som står på sokler å gjøre."
+    ],
+    "OPTIONS": [
+      "[Ta den] #gMotta #gGullidolet. #rUtløs #ren #rfelle.",
+      "[Stikk]",
+      "[Løp fra den] #rBli #rforbannet #r- #rSkade.",
+      "[Knus] #rTa #r",
+      " #rskade.",
+      "[Gjem deg] #rMist #r",
+      " #rMax #rHP."
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Bevinget statue",
+    "DESCRIPTIONS": [
+      "Blant steiner og berg, legger du merke til en intrikat, stor, blå statue som ligner en vinge. NL Du ser at det er #ygull som kommer ut fra en sprekk i den. Kanskje er det mer inni den?",
+      "Noen fortalte deg en gang om en kult som tilba en enorm fugl. I det du kneler i bønn, ~føler~ ~du~ ~deg~ ... ~Svimmel~ . NL NL Du våkner en stund senere, og føler deg merkelig rask til fots.",
+      "Med all din kraft hakker du løs på statuen. NL Den går i @oppløsning,@ og avslører en #yhaug #ymed #ygull. Du tar så mye du greier og fortsetter reisen din.",
+      "Statuen gjør at du føler deg ~uvel.~ Du går forbi den og fortsetter reisen din."
+    ],
+    "OPTIONS": [
+      "[Tilbe] #gFjern #get #gkort #gfra #gkortstokken #gdin. #rMist #r",
+      " #rHP.",
+      "[Ødelegg] #gMotta #g",
+      " #g- #g",
+      " #ggull.",
+      "[Låst] Krever: Kort med ",
+      " eller mer skade.",
+      "[Stikk]",
+      "[Fortsett]",
+      "Velg et kort du vil fjerne."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "En verden av slim",
+    "DESCRIPTIONS": [
+      "Du ramler i en sølepytt. NL @DEN@ @ER@ @LAGET@ #g@AV@ #g@SLIM!!@ NL Du klamrer deg panisk ut i flere minutter, og kjenner at slimet brenner huden din. NL DU kan føle slim i ørene, slim i nesa, slim over alt. NL NL Du kommer deg til slutt ut, men oppdager at noe av #ygullet ditt mangler. Du ser ned i slimpytten igen, og ser at i tillegg til ditt eget, er det faktisk #ygull fra andre uheldige sjeler i slimet.",
+      "Du føler at slimet brenner mer når du utsetter deg for slimet igjen, og huden din er i ferd med å smelte bort. Du greier i det minste å fiske ut litt #ygull.",
+      "Du bestemmer deg for at det ikke er verdt det."
+    ],
+    "OPTIONS": [
+      "[Samle gull] #gMotta #g",
+      " #ggull. #rMist #r",
+      " #rHP.",
+      "[La det være] #rMist #r",
+      " #rgull.",
+      "[Stikk]"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "Ssssssssssssslangen",
+    "DESCRIPTIONS": [
+      "Du går inn i et rom og ser et stort hull i bakken. I det du nærmer deg hullet, kommer det en enorm slangelignende skapning ut av det. NL NL ~\"Ha~ ~haaaa!~ ~Hei~ ~hei!~ ~Hva~ ~har~ ~vi~ ~her?~ Hallo eventyrer. Jeg stiller et enkelt spørsmål. NL De beste livene lever de som kan kjøpe  #y~hva~ #y~som~ #y~helst~ NL Er du ikke enig?\"",
+      "~\"Sssssså sssssssssant!~ NL ~Dette~ ~er~ ~helt~ ~sssssikkert~ ~verdt~ ~det.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Slangen ser på deg med et ekstremt skuffet uttrykk.",
+      "Slangen trekker hodet sitt bakover og spyr ut en enorm strøm av #ygull. NL Det er utrolig og skremmende, på en og samme tid. NL Du samler sammen gullet, takker slangen, og kommer deg videre."
+    ],
+    "OPTIONS": [
+      "[Enig] #gMotta #g",
+      " #ggull. #rFå #ren #rForbannelse #r- #rTvil.",
+      "[Uenig]",
+      "[Fortsett]",
+      "[Stikk]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "En levende vegg",
+    "DESCRIPTIONS": [
+      "Du kommer til en blindvei og er i ferd med å snu, i det vegger @slamrer@ @ned@ fra taket, og fanger deg. NL NL Tre ansikter materialiserer seg fra veggene og snakker til deg NL #b\"Glem #balt #bdu #bvet, #bog #bså #blar #bjeg #bdeg #bgå.\" NL #p\"Jeg #ptrenger #pforandring #pfor #på #pse #pnye #psteder.\" NL #y\"Hvis #ydu #yvil #ypassere #ymeg #ymå #ydu #yvokse.\"",
+      "Tydelig fornøyd går veggene opp i taket igjen, og viser deg en vei videre."
+    ],
+    "OPTIONS": [
+      "[Glem] #gFjern #get #gkort #gi #gkortstokken #gdin.",
+      "[Forandre] #gTransformer #get #gkort #gi #gkortstokken #gdin.",
+      "[Voks] #gOppgrader #get #gkort #gi #gkortstokken #gdin.",
+      "Velg et kort du vil fjerne.",
+      "Velg et kort du vil Transformere.",
+      "Velg et kort du vil Oppgradere.",
+      "[Stikk]",
+      "[Låst] Krever: Oppgraderbare kort"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Sopp",
+    "DESCRIPTIONS": [
+      "Du gir etter for den unaturlige trangen til å spise. I det du spiser sopp etter sopp, føler du at du blir omtåket og svimer av. I det du våkner, føler du deg merkelig. NL Du #ghelbreder #g25% av HPen din, men du blir også #rinfisert..",
+      "#r@Bakholdsangrep!!@ NL Rotter som er infisert med sopp kommer ut av intet!",
+      "Du entrer en korridor som er full av #b~hypnotiserende,~ #b~farget~ #b~sopp.~ NL Siden du skulket alle skoletimene i mykologi, kjenner du ikke igjen artene. NL Du ønsker å stikke av, men kjenner en merkelig trang til å spise en #b~sopp...~"
+    ],
+    "OPTIONS": [
+      "[Tramp] #rGjør #rsoppen #rsint.",
+      "[Spis] #gHelbred #g",
+      " #gHP. #rFå #ret #rForbannelseskort #r- #rParasitt.",
+      "[Slåss]",
+      "[Stikk]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "En merkelig skapning med pukkelrygg, og med en rekke tentakler, leter igjennom en skrothaug foran deg. I det du nærmer deg snur han seg mot deg på en ikke-truende måte. NL \"N'loth sulten. Mat N'loth.\"",
+      "Du holder #yrelikvien din mot ham, N'loth snapper den ut av hånda di med tentaklene sine, avhengsler gapet sitt og slurper i seg det du tilbyr i et stort jafs. NL Han gliser med de store tennene sine mot deg, og flere tentakler dukker opp fra kappen hans. Disse tentaklene holder en utrolig flott eske. Han dytter den inn i hendene dine.",
+      "Du rister på hodet. N'loth sukker tungt, og kravler sin vei."
+    ],
+    "OPTIONS": [
+      "[Tilby: ",
+      "] #rMist #rdenne #rrelikvien. #gFå #gen #gny #gspesiell #grelikvie.",
+      "[Stikk]"
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Skrapeslim",
+    "DESCRIPTIONS": [
+      "I det du entrer rommet hører du ~gurgling~ og et @klang@ av metall. Foran deg er et slimaktig vesen som har spist mer skrap enn det tåler. I midten av skapningen ser du et merkelig lys, som fra noe magisk. Det ser ut som om du kan hente ut en #yskatt bare ved å strekke ut hånda og hente det ut av vesenet. Det kan imidlertid virke som om syren og de skarpe objektene skapningen har spist kan påføre deg #rSkade.",
+      "#r@AU!@ NL Du finner bare rustnet metall og en stor mengde #r@brennende #r@smerte. NL Du er imidlertid fortsatt overbevist om at det finnes en #yrelikvie der inne...",
+      "#gSuksess! NL Etter å ha rotet rundt inne i skapningen blant metall og brennende syre, finner du til slutt en #yrelikvie og drar den ut. NL Du får endelig hånden ut av slimet, men den er likevel #rskadet.",
+      "Du bestemmer deg for å forlate området. Den slimete skapningen bryr seg ikke om deg. Den er for opptatt med å spise mer."
+    ],
+    "OPTIONS": [
+      "[Let i skapningen] #rMist #r",
+      " #rHP. #g",
+      "%: #gFinn #gen #grelikvie.",
+      "[Stikk]",
+      "[Dypere] #rMist #r"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Et skinnende lys",
+    "DESCRIPTIONS": [
+      "Du finner et #yglitrende #ylys som omfavner senteret i rommet. NL NL Den ~varme~ ~gløden~ og de ~forheksende~ ~mønstrene~ inviterer deg inn.",
+      "I det du går igjennom lyset merker du at lyset absorberes inn i deg. NL Lyset er #r@brennende@ #r@hett@ ! Smerten gir seg heldigvis raskt. NL Du føler deg styrket, som om du nettopp fikk et velfortjent dask i fjeset.",
+      "Du går rundt det, men greier ikke å unngå å tenke på hva som ville skjedd om du entret lyset."
+    ],
+    "OPTIONS": [
+      "[Gå inn i lyset] #gOppgrader #g2 #gtilfeldige #gkort. #rMist #r",
+      " #rHP.",
+      "[Stikk]",
+      "[Låst] Krever: Oppgraderbare kort"
+    ]
+  },
+  "Addict": {
+    "NAME": "Avhengig",
+    "DESCRIPTIONS": [
+      "Du forføker å snike deg forbi en gruppe figurer dekket av skygge, men en naken, rødhudet mann kommer bort til deg. NL \"Har du noe #yJ.A.X., min venn? Jeg har @abstinenser@. Det er ille. Vær så snill... Kanskje du i det minste har litt #ypenger?\" NL Han virker lite tilregnelig, men harmløs.",
+      "\"Åh. Ja. ~Ja!~ Her, her skal du få, et rettferdig bytte!\"",
+      "Den rødhudete mannen slår seg fullstendig vrang, og hyler og banner til deg. NL Du stikker av før han tiltrekker seg for mye oppmerksomhet fra de skyggekledte."
+    ],
+    "OPTIONS": [
+      "[Tilby gull] #y",
+      " #ygull: #gMotta #gen #grelikvie.",
+      "[Låst] Krever: ",
+      " gull.",
+      "[Gi ham J.A.X] #gMotta #gen #grelikvie. #rMist #rJ.A.X.",
+      "[Låst] Krever: J.A.X.",
+      "[Stikk] Ikke bry deg om mannen.",
+      "[Stikk]"
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Gammel skrift",
+    "DESCRIPTIONS": [
+      "Du går igjennom byen, og oppdager en vegg full av skriften til #y~De~. #y~Gamle.~ Du forsøker å forstå hva de merkelige symbolene skal bety, men plutselig begynner skriften å #b~gløde.~ NL Plutselig står beskjeden klar foran deg...",
+      "Svaret var selvsagt eleganse.",
+      "Sannheten er alltid enkel."
+    ],
+    "OPTIONS": [
+      "[Eleganse] #gFjern #get #gkort #gfra #gkortstokken #gdin.",
+      "[Enkelhet] #gOppgrader #galle #gSlag #gog #gForsvarskort.",
+      "Velg et kort du vil fjerne.",
+      "[Stikk]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Gammel tigger",
+    "DESCRIPTIONS": [
+      "En pelskledd gammel tigger strekker ut hendene mot deg i det du går forbi. \"Har du en tier til bussen, mitt barn?\"",
+      "Tiggeren ser ned på gulvet i det du passerer. NL \"Du kommer aldri til å gjøre noen forskjell... Det gjør du aldri.\"",
+      "Tiggeren tar av seg pelsen og avslører at det er #bpresten! NL @\"Du@ @er@ @en@ @snill@ @sjel.@ @Motta@ @min@ @renselse!\"@ skriker han. NL Du er usikker på om han er takknemmlig eller gal.",
+      "@\"Jeg@ @håper@ @du@ @gjør@ @det@ @bedre@ @denne@ @gangen,@ @min@ @venn!\"@ roper han. NL Du lurer på hva han egentlig mente med det, i det du fortsetter."
+    ],
+    "OPTIONS": [
+      "[Tilby gull] #y",
+      " #ygull: #gFjern #get #gkort #gfra #gkortstokken #gdin.",
+      "[Låst] Krever: ",
+      " gull.",
+      "[Fortsett]",
+      "[Stikk]",
+      "Velg et kort du vil fjerne."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Den fordømte boka",
+    "DESCRIPTIONS": [
+      "I et forlatt tempel finner du en enorm bok. Boka er åpen, og du ser #p@kryptisk@ #p@skrift@ inni den. NL NL I det du forsøker å forstå den intrikate skriften, begynner den å #b~vri~ og #b~snu~ på seg, til den blir skrift du kjenner godt fra før.",
+      "Merkelig. Boken ser ut til å være om en #ygammel #yskapning som heter #yNeow. NL NL Dette gjør deg interessert, men du har en generell følelse av #p~utilpasshet.~",
+      "Den gamle skapningen som var ansvarlig for gjenskapelse, #yNeow, ble forvist til tårnets bunn. NL NL Du føler at du er nødt til å lese videre, kroppen din #r~verker.~",
+      "#yNeow ønsket hevn, så han gir sin velsignelse til utenforstående for å mele sin egen kake. NL NL Du kjenner at du er i ferd med å bli svært #r~svak~ #r~og~ #r~trøtt...~",
+      "De som blir gjennopplivet av #yNeow husker bare små fragmenter av sine tidligere selv, og er fordømt til å slåss i evigheten. NL NL I det du nærmer deg den siste siden, kjenner du at dine #r@gamle@ #r@skader@ #r@er@ #r@i@ #r@ferd@ #r@med@ #r@å@ #r@åpnes@ #r@igjen!@",
+      "Du leser ferdig boken, og bestemmer deg for å ta den med. Med dette beviset i hendene, kommer du til å huske alt sammen?",
+      "Du drar derfra, men du føler at #p~mørk~ #p~energi~ #p~siver~ ut av boken på sokkelen.",
+      "Det er et utrolig slit, men med all viljestyrken du eier greier du å motstå bokens transe og @SLAMRER@ den igjen. NL Du snur deg for å gå ut av tempelet, og kjenner at du er helt #b~utkjørt...~"
+    ],
+    "OPTIONS": [
+      "[Les]",
+      "[Fortsett] #rMist #r1 #rHP.",
+      "[Fortsett] #rMist #r2 #rHP.",
+      "[Fortsett] #rMist #r3 #rHP.",
+      "[Stopp] #rMist #r3 #rHP.",
+      "[Ta boka] #gTa #gmed #gboka. #rMist #r",
+      " #rHP",
+      "[Stikk]"
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "J.A.X.-langer",
+    "DESCRIPTIONS": [
+      "En mann med lapp for øyet og et djevelsk smil kommer slentrende bort til deg. NL \"Hei fremmede. Kan jeg interessere deg i litt #yJ.A.X? Det kommer til å gjøre deg sterkere enn noen form for trening kan. Du kommer til å trenge det hvis du er en av disse heltene som har et dødsønske. NL Hva sier du? Vil du JAXXES OPP?\" NL ",
+      "~\"Supert.\"~ NL Mannen gir deg en skummel sprøyte fylt med glødende væske, før han sniker seg bort i en skyggelagt bakgate.",
+      "\"Det går bra, nestemann vil sikkert ha...\" NL Mannen slentrer vekk.",
+      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
+    ],
+    "OPTIONS": [
+      "[Betal] #y",
+      " #ygull: #gBli #gJAXXET #gOPP.",
+      "[Låst] Krever: ",
+      " gull.",
+      "[Stikk]",
+      "[Nei takk]"
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Det glemte alteret",
+    "DESCRIPTIONS": [
+      "Foran deg står det et alter til en glemt gud. NL Oppe på alteret er en utsmykket statue med utstrekte armer. NL Hun roper på deg, krever et offer.",
+      "I det du forsiktig setter gullidolet på alteret kommer det en #bkald vind som brer seg rundt i rommet. NL Armene til statuen blir misfarget og begynner å gå i oppløsning. NL NL #yGullidolet ditt begynner også å bli misfarget, og det begynner å blø fra øynene. NL Blodet stopper aldri å flyte.",
+      "Du står på alteret og skjærer deg i armen. NL I det #rblodet ditt treffer alteret, begynner armene til statuen å strekke seg mot deg, og de slås om øynene dine. NL Alt blir mørkt. NL Du våkner opp kort tid senere, og kjenner nytt potensiale bre seg i kroppen din.",
+      "Du langer ut og knuser statuen foran deg, og kjenner at det magiske fengselet du har følt deg fanget i slipper taket. NL Et mørkt jammer gjaller i veggene, og du kan føle den #p~magiske~ #p~Forbannelsen~ krype inn til beinene dine."
+    ],
+    "OPTIONS": [
+      "[Ofre: Gullidolet] #gMotta #gen #gspesiell #grelikvie. #rMist #rgullidolet.",
+      "[Låst] Krever: Gullidol.",
+      "[Ofre] #gMotta #g",
+      " #gMax #gHP. #rMist #r",
+      " #rHP.",
+      "[Låst] Krever: Menneskelighet.",
+      "[Skjend] #rBli #rforbannet #r- #rForfall."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Den allvitende skalle",
+    "DESCRIPTIONS": [
+      "Du befinner deg i et gammelt, dekorert kammer. I midten av rommet står en stor hodeskalle på toppen av en dekorert sokkel. Når du nærmer deg, #g@tar@ #g@hodeskallen@ #g@fyr@ og snur seg mot deg.",
+      "\"HVA SØKER DU? HVA TILBYR DU?\" NL Samtidig med at den ytrer det siste ordet, @slår@ @døren@ @bak@ @deg@ @igjen.@",
+      " NL NL \"NOE ANNET?\"",
+      " ",
+      "\"DRIKK OPP!\" NL Du mottar en trylledrikk.",
+      "\"KANSKJE DETTE VIL HJELPE?\" NL Du mottar et kort.",
+      "\"DERE DØDELIGE ENDRER DERE ALDRI. DU SKAL FÅ DET SOM DU VIL.\" NL #yGull regner ned over deg!",
+      "\"BAK DEG, DØDELIGE.\" NL Du ser bak hodeskallen, og der er det sannelig en dør!"
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      " #rHP.",
+      "[Informasjon?] #gAvslør #ghvilken #ghøvding #gdu #gmøter. #rMist #r",
+      "[Suksess?] #gFå #get #gfargeløst #gkort. #rMist #r",
+      "[En oppkvikker?] #gFå #gen #gtrylledrikk. #rMist #r",
+      "[Riches?] #gFå #g",
+      " #ggull. #rMist #r",
+      "[Hvordan drar jeg herfra?] #rMist #r",
+      "[Stikk]"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Maskerte banditter",
+    "DESCRIPTIONS": [
+      "Hehehe.. Takk for #ygullet! NL Åh, jeg elsker #ygull. Det er så flott. NL #y~skinnende~ #y~skinnende~ ting er de!",
+      "Hei #bBjørn, hei! NL Denne fyren ga oss alt #ygullet sitt! For en lettlurt tulling, ikke sant? NL Hør på dette da, jeg trengte bare spørre ham! Hvem hadde trodd det!? NL Ikke jeg i alle fall. For en fyr!",
+      "Hør folkent, la oss le over denne vidunderlige hendelsen. NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Åh? Er du her fortsatt? NL Hørte du hva vi sa? Nei, jeg trodde ikke det. NL #r@*snøft*@ ~...taper....~ @Hahaha@ ~haaah~",
+      "Du kommer over en gruppe banditter som har på seg store #rrøde #rmasker. NL \"Hallo, betal oss for å passere.... En rettferdig sum.... av @ALT@ #ygullet ditt, tenker jeg burde holde. Hehe!\""
+    ],
+    "OPTIONS": [
+      "[Betal] #rMist#rALT #ygullet ditt.",
+      "[Slåss!]",
+      "[Fortsett]",
+      "[Stikk]"
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Spirets hjerte",
+    "DESCRIPTIONS": [
+      "@bo-bomp@ ... @bo-bomp@ ... @bo-bomp@ ... NL En dyp, pulserende frykt kan føles i hele rommet... NL Er dette #r~spirets~ #r~hjerte~? Kilden til all denne ondskapen?",
+      "Du påfører det #b",
+      " Skade! NL Hjertet #r@vrir@ #r@seg@ og #r~blør~ ...men banker unektelig fortsatt. NL Er dine mektigste angrep fortsatt ikke nok?",
+      "Du spør deg seg, ~\"Har~ ~jeg~ ~vært~ ~her~ ~før?\"~ NL Du føler at du har påført hjertet totalt #b",
+      " Skade.",
+      " NL Totalt har #b",
+      " Skade blitt påført hjertet av alle som har utfordret det..",
+      " NL Hjertet pulserer høyere og høyere inntil #y~bevisstheten~ #y~din~ #y~falmer...~",
+      "NL Du gjør klart sverdet ditt...",
+      "NL Du gjør klar Knivene dine...",
+      "NL Du lader din indre kjerne opp til sitt maksimum...",
+      " NL The heart #gretreats upwards! A large door is revealed in its place.",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place.",
+      "NL You prime your staff with divine energy..."
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      "[Angrip] #b???",
+      "[Sov]",
+      "[Approach Door]"
+    ]
+  },
+  "The Joust": {
+    "NAME": "Lansekamp",
+    "DESCRIPTIONS": [
+      "I det du beveger deg imellom de store bygningene kommer du over en lang smal bro og ser at det står riddere på hver side. De ser på hverandre. Du nærmer deg... NL @\"Holdt!\"@ NL NL En ridder antyder at du skal stoppe ved å holde opp den enorme lansen sin.",
+      "\"I dag er dagen jeg skal gjøre opp med mannen som #rmyrdet mitt elskede kjæledyr, #ySnufse. Inntil vi har gjort opp, kan du ikke passere. NL NL Mitt kjære vitne, kanskje du vil vedde på hvem som kommer til å vinne denne kampen?\"",
+      "\"Jeg kan ikke tro at du vedder IMOT Snufse!?\" NL NL I sinne slår han igjen hjelmen sin og stormer mot erkefienden sin.",
+      "\"Gi meg styrke, Snufse!\" NL NL Han slår ned hjelmen sin og stormer framover.",
+      "NL #y@*KRÆSJ!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POFF!*@",
+      "Erkefienden ble slaktet NL NL ",
+      "Snufses eier døde. NL NL ",
+      "Du #gvinner veddemålet. Du er litt usikker på hva du skal gjøre, så du bare tar med deg det du vant og stikker.",
+      "Du #rtapte veddemålet, men du ble i det minste ikke spiddet av en lanse."
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      "[Morderen] #yVedd #y",
+      " #ygull - #g70%: #gvinn #g",
+      " #ygull .",
+      "[Eieren] #yVedd #y",
+      " #ygull - #g30%: #gvinn #g",
+      "[Se på]",
+      "[Stikk]"
+    ]
+  },
+  "The Library": {
+    "NAME": "Biblioteket",
+    "DESCRIPTIONS": [
+      "Du kommer over en utsmykket bygning som ser forlatt ut. NL Et skilt som har blitt revet ned fra veggen ligger på gulvet. NL På skiltet står det #b\"BIBLIOTEKET\". NL Inne i biblioteket ser du at det er uendelig mange skriftruller og bøker. NL Du plukker deg ut en og setter det ned i en behagelig stol for å få litt ro og fred.",
+      "Å lese er for tosker. Du sovner i en komfortabel stol isteden. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Du våkner opp med en forfrisket følelse.",
+      "Historien handler om en jente som kan kontrollere insekter, og som har planer om å bli en helt. Boken er fylt av kreative måter å bruke krefter på, kampstrategier og forskjellige perspektiver. NL Det er svært tilfredsstillende.",
+      "Historien handler om en mann som reiste forbi stjernene og til slutt ble sittende fast på en fjern planet. Oppfinnsomhet, flaks og utholdenhet gjorde at han beholdt sinnet intakt. NL Det er svært fascinerende.",
+      "Historien finner sted i en enorm, isolert bygning under jorden, på grunn av at verden utenfor har blitt ulevelig. Boken er fylt med konspirasjonsteorier, propaganda og urettferdighet. NL Det er svært bekymringsfult."
+    ],
+    "OPTIONS": [
+      "[Les] #gVelg #g1 #gav #g20 #gkort #gdu #gkan #glegge #gtil #gkortstokken #gdin.",
+      "[Sov] #gHelbred #g",
+      " #gHP.",
+      "[Stikk]",
+      "Legg til et kort i kortstokken din."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "Mausoleet",
+    "DESCRIPTIONS": [
+      "Du går igjennom en rekke gravkammer, til du til slutt står foran en stor sarkofag som er ~dekket~ ~med~ ~edelstener.~ Den står midt i rommet. NL Du greier ikke å se hva som står på den, men du legger merke til at #p~sort~ #p~tåke~ lekker ut av sidene.",
+      "Du åpner sarkofagen. I det du gjør deg, spyr den ut #p~sort~ #p~tåke~ og dekker hele rommet! Inne i sarkofagen er det ingen død kropp, bare en #y~relikvie.~ Du tar den og går videre mens du #r@hoster@ #r@kraftig.@",
+      "Du åpner kisten. Tåken går harmløst i oppløsning. Inne i kisten finner du det som er igjen av en høyt dekorert soldat, som holder en gammel #yrelikvie. Du stjeler den og drar din vei.",
+      "Du fortsetter på fin vei, og lar de døde være døde."
+    ],
+    "OPTIONS": [
+      "[Åpne kisten] #gMotta #gen #gRelikvie. #r",
+      "%: #rMotta #ret #rForbannelseskort #r- #rVri #rseg.",
+      "[Stikk]"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Vampyrer(?)",
+    "DESCRIPTIONS": [
+      "Du navigerer igjennom en mørk gate, i det du kommer fram til flere figurer som skjuler seg under hetter, mens de utfører et mørkt rituale. I det du kommer bort til dem snur de seg mot deg. Den høyeste av dem smiler et smil fullt av hoggtenner, og rekker en lang blek hånd mot deg. NL ~\"Bli~ ~en~ ~av~ ~oss,~ ~bror,~ ~og~ ~føl~ ~tårnets~ ~varme!\"~",
+      "Du navigerer igjennom en mørk gate, i det du kommer fram til flere figurer som skjuler seg under hetter, mens de utfører et mørkt rituale. I det du kommer bort til dem snur de seg mot deg. Den høyeste av dem smiler et smil fullt av hoggtenner, og rekker en lang blek hånd mot deg. NL ~\"Bli~ ~en~ ~av~ ~oss,~ ~søster,~ ~og~ ~føl~ ~tårnets~ ~varme!",
+      "Den høye personene tar tak i armen din og drar deg mot seg, og biter deg i halsen. Du føler en @mørk@ @kraft@ som siver inn i nakken din og som @strømmer@ videre ut i kroppen din. NL ... NL Du våkner en stund senere, helt alene. En intens ~sult~ kan føles i magen din. Du #rmå #rha #rmat...",
+      "Du tar et skritt bakover og tar frem våpenet ditt i forsvar. Den høye personen sukker. \"Okei.\" Hele gruppen forvandles til en tykk, mørk tåke og flyter bort fra deg. NL Du er alene igjen.",
+      "Den bleke personen gisper i det du tar frem #yBlodflasken NL ~\"Mesterens~ ~blod...~ ~mesterens~ ~blod!~ @MESTERENS@ @BLOD!\"@ NL De roper i kor i det den høyeste av dem bukker foran deg. \" Drikk fra hans blod, og bli en med #y~Ham.\"~ NL De roper høyere, og du konsumerer innholdet i flasken. Synet ditt blir tåkete, og til slutt blir alt mørkt. NL NL Du våkner en stund , helt alene. En intens ~sult~ kan føles i magen din. Du #rmå #rha #rmat...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ],
+    "OPTIONS": [
+      "[Aksepter] #gFjern #galle #gSlag. #gMotta #g5 #gBit. #rMist #r",
+      " #rMax #rHP.",
+      "[Nekt]",
+      "[Mist ",
+      "] #gFjern #galle #gSlag. #gMotta #g5 #gbit.",
+      "[Stikk]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "Kvinnen i blått",
+    "DESCRIPTIONS": [
+      "Fra mørket dukker det opp en arm som drar deg inn i en liten butikk. I det øynene dine venner seg til mørket ser du en blek kvinne i skarpe klær som peker mot en vegg med trylledrikker. NL \"Kjøp en trylledrikk. NÅ!\" sier hun.",
+      "\"Bra. Nå, dra.\" NL Du går forsiktig ut av butikken.",
+      "#r@PANG@ NL Den behanskede hånden hennes kolliderer med ansiktet ditt, og slår deg nesten i bakken. NL \"Kom deg ut før jeg sprer innvollene dine utover gulvet mitt.\" Du tar henne på ordet, og forlater butikken mens innvollene dine fortsatt er trygt inne i kroppen din."
+    ],
+    "OPTIONS": [
+      "[Kjøp 1 trylledrikk] #y",
+      "[Kjøp 2 trylledrikker] #y",
+      "[Kjøp 3 trylledrikker] #y",
+      " #yGull",
+      "[Stikk]",
+      "[Stikk] #rTa #r",
+      " #rSkade."
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Secret Portal",
+    "DESCRIPTIONS": [
+      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
+      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
+      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+    ],
+    "OPTIONS": [
+      "[Enter the Portal] IMMEDIATELY travel to the boss.",
+      "[Leave]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Council of Ghosts",
+    "DESCRIPTIONS": [
+      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "",
+      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
+      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
+      " #rMax #rHP.",
+      "[Refuse]",
+      "",
+      "",
+      "[Leave]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Sensory Stone",
+    "DESCRIPTIONS": [
+      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
+      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
+      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
+      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
+      "#b~UNKNOWN.~ NL NL Not yet implemented.",
+      "#p~SERENITY.~ NL NL Two primitive creatures fight over a carcass on the side of the road. You observe, devoid of emotion. NL #yWatch. #yRemember. #yLive. This is the Watcher's mission. NL NL Recently, one of your peers had stopped reporting on their assignmenet: a Spire of unknown origin. NL NL As the fight ends, you continue onward, unphased by the bloody scene that took place."
+    ],
+    "OPTIONS": [
+      "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
+      "[Recall] #gAdd #g2 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
+      "[Recall] #gAdd #g3 #gColorless #gcards #gto #gyour #gdeck. #rLose #r",
+      " #rHP.",
+      "[Leave]",
+      "[Interact]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
+      "MIXED",
+      "MIXED"
+    ],
+    "OPTIONS": [
+      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
+      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
+      "[Leave]",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+      "",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
+      ".",
+      "[Smash and Grab] #gObtain #g150 #gGold.",
+      "[Locked] Requires: Upgraded Card.",
+      "[Leave]",
+      "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]",
+      "[Continue]",
+      " #rHP, #ggain #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "A Note For Yourself",
+    "DESCRIPTIONS": [
+      "You spot a loose brick within a pillar that catches your eye.",
+      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
+      "Choose a Card to Store.",
+      "What is going on?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Take and Give] #gReceive ",
+      " #gand #gStore #ga #gCard.",
+      "[Ignore]",
+      "[Leave]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "We Meet Again!",
+    "DESCRIPTIONS": [
+      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
+      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
+      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
+      "\"Exemplary! I shall study this further in my chambers.\"",
+      "\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He ran away.",
+      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+    ],
+    "OPTIONS": [
+      "[Give Potion] #rLose ",
+      "[Locked] Requires: Potion",
+      "[Give Gold] #rLose #r",
+      "[Locked] Requires: At least 50 Gold.",
+      "[Give Card] #rLose ",
+      "[Locked] Requires: Card",
+      ". #gReceive #ga #gRelic",
+      "[Attack]",
+      "[Leave]",
+      " #rGold"
+    ]
+  },
+  "Designer": {
+    "NAME": "Designer In-Spire",
+    "DESCRIPTIONS": [
+      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
+      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
+      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
+      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Adjustments] #rLose #r",
+      "[Clean Up] #rLose #r",
+      "[Full Service] #rLose #r",
+      "[Punch] #rLose #r",
+      " #rHP.",
+      " #rGold. ",
+      "#gUpgrade #g",
+      " #grandom #gcards.",
+      "#gUpgrade #ga #gcard.",
+      "#gRemove #ga #gcard.",
+      "#gTransform #g",
+      " #gcards.",
+      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
+      "[Leave]",
+      "Choose a Card to Upgrade",
+      "Choose 2 Cards to Transform",
+      "Choose a Card to Remove"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "The Colosseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
+      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
+      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
+      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
+      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Fight]",
+      "[COWARDICE] Escape.",
+      "[VICTORY] A powerful fight with many rewards."
+    ]
+  }
+}

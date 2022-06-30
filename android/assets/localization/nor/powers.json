@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Nøyaktighet",
+    "DESCRIPTIONS": [
+      "#yKniver påfører #b",
+      " ekstra Skade."
+    ]
+  },
+  "After Image": {
+    "NAME": "Luftspeiling",
+    "DESCRIPTIONS": [
+      "Når du spiller et kort, #yBlokker #b ekstra Skade",
+      "."
+    ]
+  },
+  "Anger": {
+    "NAME": "Irritasjon",
+    "DESCRIPTIONS": [
+      "Når du spiller en #yEgenskap, øker #yStyrken dens med #b",
+      "."
+    ]
+  },
+  "Angry": {
+    "NAME": "Sinne",
+    "DESCRIPTIONS": [
+      "Når ",
+      " tar Skade fra et #yAngrep, får det #b",
+      " #yStyrke."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Magimotstand",
+    "DESCRIPTIONS": [
+      "Avviser #b",
+      " nedgradering.",
+      " nedgraderinger."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Brannangrep",
+    "DESCRIPTIONS": [
+      "I #b",
+      " runde, når du spiller et #yangrep, #yVrak det.",
+      "I de neste #b",
+      " rundene, når du spiller et #yangrep, #yVrak det."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barrikade",
+    "DESCRIPTIONS": [
+      "#ySkadeblokkering blir ikke fjernet i starten av runden din.",
+      "#ySkadeblokkering blir ikke fjernet i starten av runden."
+    ]
+  },
+  "Blur": {
+    "NAME": "Uklar",
+    "DESCRIPTIONS": [
+      "#ySkadeblokkering blir ikke fjernet i starten av den neste runden din.",
+      "#ySkadeblokkering blir ikke fjernet i starten av de neste #b",
+      " rundene dine."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Brutalt",
+    "DESCRIPTIONS": [
+      "I starten av runden din, mist #b",
+      " HP og trekk #b",
+      " kort.",
+      "I starten av runden din, mist #b",
+      " HP og trekk #b",
+      " kort."
+    ]
+  },
+  "Burst": {
+    "NAME": "Utblåsning",
+    "DESCRIPTIONS": [
+      "Denne runden kan du spille ditt neste #yegenskapkort to ganger.",
+      "Denne runden kan du spille dine neste ",
+      " #yegenskapkort to ganger."
+    ]
+  },
+  "Choked": {
+    "NAME": "Kvalt",
+    "DESCRIPTIONS": [
+      "Mister #b",
+      " HP når du spiller et kort denne runden."
+    ]
+  },
+  "Combust": {
+    "NAME": "Flamber",
+    "DESCRIPTIONS": [
+      "I slutten av runden din mister du #b",
+      " HP og påfører ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Forvirret",
+    "DESCRIPTIONS": [
+      "Når du trekker et kort blir kostnaden på kortet tilfeldig."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Innsnevring",
+    "DESCRIPTIONS": [
+      "På slutten av runden din tar du #b",
+      " Skade."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Korrupsjon",
+    "DESCRIPTIONS": [
+      "Egenskapskort koster #b0. Når du spiller en #yegenskap, #yVrakes  den.",
+      "Når du spiller en #yegenskap, #yVrakes den."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Nysgjerrighet",
+    "DESCRIPTIONS": [
+      "Når du spiller et #ykraftkort, økes #yStyrken din med #b",
+      "."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Sammenkrølling",
+    "DESCRIPTIONS": [
+      "Tar den Skade etter #yangrep, ruller den seg sammen og #ySkadeblokkerer med ",
+      ". (En gang per kamp)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Dansedukke",
+    "DESCRIPTIONS": [
+      "Når du spiller et kort som ikke er en #yegenskap, tar du #b",
+      " Skade. (Korttype endres hver runde)",
+      "Når du spiller et kort som ikke er et #yangrep, tar du #b",
+      "+1 Dansedukke"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Mørk omfavnelse",
+    "DESCRIPTIONS": [
+      "Når et kort #ykastes, trekk #b1 kort.",
+      "Når et kort #ykastes, trekk #b",
+      " kort."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Demonskikkelse",
+    "DESCRIPTIONS": [
+      "I starten av runden din økes #yStyrken din med #b",
+      "."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Smidighet",
+    "DESCRIPTIONS": [
+      "Øker #ySkadeblokkeringen du får ved å spille kort med #b",
+      "Minsker #ySkadeblokkeringen du får ved å spille kort med #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Dobbel skade",
+    "DESCRIPTIONS": [
+      "#yAngrep påfører dobbel Skade i #b",
+      " runde.",
+      " runder."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Dobbelt avtrekk",
+    "DESCRIPTIONS": [
+      "Denne runden kan du spille ditt neste #yangrep to ganger.",
+      "Denne runden kan du spille dine neste ",
+      " #yangrep to ganger."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Trekk kort",
+    "DESCRIPTIONS": [
+      "Trekk #b",
+      " kort neste runde.",
+      " kort neste runde."
+    ]
+  },
+  "Draw": {
+    "NAME": "Trekk",
+    "DESCRIPTIONS": [
+      "Trekk #b",
+      " ekstra kort i starten av hver runde.",
+      " færre kort i starten av hver runde.",
+      " ekstravkort i starten av hver runde.",
+      " færre kort i starten av hver runde."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Trekk færre",
+    "DESCRIPTIONS": [
+      "Trekk #b",
+      " færre kort neste runde.",
+      " færre kort neste runde."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Trekkereduksjon",
+    "DESCRIPTIONS": [
+      "Trekk #b1 færre kort neste runde.",
+      "Trekk #b1 færre kort i #b",
+      " runder."
+    ]
+  },
+  "Energized": {
+    "NAME": "Energiboost",
+    "DESCRIPTIONS": [
+      "Få #b",
+      " ekstra [G] neste runde.",
+      " ekstra [G] neste runde.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Sammenviklet",
+    "DESCRIPTIONS": [
+      "Du kan ikke spille #yangrepskort i èn runde."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Forgift",
+    "DESCRIPTIONS": [
+      "Når du påfører Skade fra et angrep, og Skaden ikke Skadeblokkeres, påfører du også #b",
+      " #yForgiftning."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Utvikle",
+    "DESCRIPTIONS": [
+      "Når du trekker et #ySkadekort, kan du trekke ett kort.",
+      "Når du trekker et #ySkadekort, kan du trekke #b",
+      " kort."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Eksplosiv",
+    "DESCRIPTIONS": [
+      "Når den dør, påfører den #b",
+      " Skade på deg.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Høy smerteterskel",
+    "DESCRIPTIONS": [
+      "Når et kort #ykastes, økes #ySkadeblokkeringen med #b",
+      "."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Blåser flammer",
+    "DESCRIPTIONS": [
+      "Ved slutten av runden din, for hvert #yangrep du spilte denne runden, påfør ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Flammeskjold",
+    "DESCRIPTIONS": [
+      "Når du blir påført Skade fra et #yangrep, påfører du #b",
+      " Skade tilbake."
+    ]
+  },
+  "Flight": {
+    "NAME": "Flyvende",
+    "DESCRIPTIONS": [
+      "Reduserer #yAngrepsskade tatt med #b50%. Kanselleres hvis påført #yAngrepsskade #b3 ganger på en runde.",
+      " times in one turn."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Nuller ut angrep",
+    "DESCRIPTIONS": [
+      "#yBlokkerer all Skade fra ett #yangrep hver runde."
+    ]
+  },
+  "Frail": {
+    "NAME": "Skjør",
+    "DESCRIPTIONS": [
+      "Får #b25% mindre #ySkadeblokkering fra kort i #b",
+      " runde.",
+      " runder."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Lenket",
+    "DESCRIPTIONS": [
+      "Gjenvinner #b",
+      " #yStyrke i slutten av runden sin."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Offeråpning",
+    "DESCRIPTIONS": [
+      "Etter #b",
+      " tur, få ",
+      " turer, få ",
+      " [B] ."
+    ]
+  },
+  "Hex": {
+    "NAME": "Forheks",
+    "DESCRIPTIONS": [
+      "Når du spiller et kort som ikke er et Angrepskort, må du blande inn #b",
+      " #ySvimmel i trekkebunken din."
+    ]
+  },
+  "Hide": {
+    "NAME": "Skjul",
+    "DESCRIPTIONS": [
+      "Du kan ikke ta Skade inntil begynnelsen av din neste runde.",
+      "Du kan ikke ta Skade de neste #b",
+      " rundene."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Uendelige blader",
+    "DESCRIPTIONS": [
+      "I starten av runden din trekker du #b",
+      " #yKniver.",
+      " #yKniv."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Stopp tiden",
+    "DESCRIPTIONS": [
+      "Energikostnaden til alle grønne kort er nå #b0."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Immateriell",
+    "DESCRIPTIONS": [
+      "Reduser ALL Skade som tas, og ALL tap av HP til #b1 neste runde."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Omvendt",
+    "DESCRIPTIONS": [
+      "Immun for Skade. Når #ySkadeblokkeringen din øker, mister du tilsvarende mye HP."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Kjempekraft",
+    "DESCRIPTIONS": [
+      "Når din #ySkadeblokkering øker, påfører du #b",
+      " Skade på en tilfeldig fiende."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Kunnskap",
+    "DESCRIPTIONS": [
+      "Når du spiller et #yKraftkort, trekk #b",
+      " kort."
+    ]
+  },
+  "Flex": {
+    "NAME": "Vis muskler",
+    "DESCRIPTIONS": [
+      "I slutten av runden din mister du #b",
+      " #yStyrke."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Smibar",
+    "DESCRIPTIONS": [
+      "Når han tar Skade fra #yAngrep, økes #ySkadeblokkeringen med #b",
+      " #ySkadeblokkeringen øker i det ",
+      " hender. Settes ned til #b",
+      " i starten av din runde."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metalliser",
+    "DESCRIPTIONS": [
+      "Få #b",
+      " #ySkadeblokkering i slutten av runden din.",
+      "Får #b",
+      " #ySkadeblokkering i slutten av runden sin."
+    ]
+  },
+  "Minion": {
+    "NAME": "Minion",
+    "DESCRIPTIONS": [
+      "Minioner stikker av fra kamp hvis de ikke har noen leder."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Skifte modus",
+    "DESCRIPTIONS": [
+      "Etter å ha tatt #b",
+      " Skade, bytter han til defensiv modus."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Blokkerer neste runde",
+    "DESCRIPTIONS": [
+      "I starten av din neste runde øker #ySkadeblokkeringen din med #b",
+      "."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Mareritt",
+    "DESCRIPTIONS": [
+      "I starten av din neste runde kan du legge til #b",
+      " kort til hånda di."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Ingen kort trekkes",
+    "DESCRIPTIONS": [
+      "Du kan ikke trekke kort inntil slutten av runden."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Giftige gasser",
+    "DESCRIPTIONS": [
+      "I starten av runden din påfører du ALLE fiender #b",
+      " #yForgiftning."
+    ]
+  },
+  "Panache": {
+    "NAME": "Bravur",
+    "DESCRIPTIONS": [
+      "Hvis du spiller #b",
+      " flere kort denne runden, påfører du ALLE fiender #b",
+      " Skade.",
+      "flere kort denne runden, påfører du ALLE fiender #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pennespiss",
+    "DESCRIPTIONS": [
+      "Ditt neste #yAngrep påfører dobbel Skade."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Spøkelse",
+    "DESCRIPTIONS": [
+      "Påfør #yDobbel #ySkade neste runde.",
+      "Påfør #yDobbel #ySkade de neste ",
+      " rundene."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Jernrustning",
+    "DESCRIPTIONS": [
+      "Få #b",
+      " #ySkadeblokkering i slutten av runden din. Mister du HP fra et Angrep reduseres #yJernrustning med #b1.",
+      "Får #b",
+      " #ySkadeblokkering i slutten av runden sin. Mister han HP fra et Angrep reduseres #yJernrustning med #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Forgiftning",
+    "DESCRIPTIONS": [
+      "I starten av runden din, mister du #b",
+      " HP, så reduseres #yForgiftning med #b1.",
+      "I starten av runden sin, mister han #b"
+    ]
+  },
+  "Rage": {
+    "NAME": "Sinne",
+    "DESCRIPTIONS": [
+      "Når du spiller et Angrep denne runden, økes #ySkadeblokkeringen din med #b",
+      "."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Reduserer skade",
+    "DESCRIPTIONS": [
+      "Reduserer Skade påført med #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regenerering",
+    "DESCRIPTIONS": [
+      "Helbreder #b",
+      " #yHP i slutten av runden sin."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regenerering",
+    "DESCRIPTIONS": [
+      "Helbreder #b",
+      " #yHP i slutten av runden din i #b",
+      " runder."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Livslenke",
+    "DESCRIPTIONS": [
+      "Hvis det er andre fiender som fortsatt er i live, gjennoppstår denne om #b2 runder med #b50% HP."
+    ]
+  },
+  "Repulse": {
+    "NAME": "Frastøtning",
+    "DESCRIPTIONS": [
+      "Når ",
+      " mottar Skade fra et Angrep, gir han deg et #ySkadekort på hånda."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Behold kort",
+    "DESCRIPTIONS": [
+      "I slutten av hver runde kan du Beholde #b",
+      " kort på hånda.",
+      " kort på hånda."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Behold hånda",
+    "DESCRIPTIONS": [
+      "I slutten av hver runde kan du la være å kaste resterende kort på hånda i #b",
+      " runder.",
+      "I slutten av runden din kan du la være å kaste resterende kort på hånda."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Riposte",
+    "DESCRIPTIONS": [
+      "En gang i runden kan han påføre #b",
+      " Skade tilbake når du spiller et #yAngrep."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Rituale",
+    "DESCRIPTIONS": [
+      "I slutten av runden sin økes #yStyrken dens med #b",
+      ".",
+      "At the end of your turn, gain #b"
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "I slutten av runden sin økes #yStyrken dens med #b",
+      "."
+    ]
+  },
+  "Rupture": {
+    "NAME": "Revner",
+    "DESCRIPTIONS": [
+      "Når du mister HP fra et kort, økes #yStyrken din med #b",
+      "."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadistisk",
+    "DESCRIPTIONS": [
+      "Når du gir en fiende en Ulempe, påfører du også #b",
+      " Skade."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Serpentin",
+    "DESCRIPTIONS": [
+      "Immun ovenfor #yTrylledrikker."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Skarp hud",
+    "DESCRIPTIONS": [
+      "Når du spiller et #yAngrep, tar du #b",
+      " Skade."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Skrik fra Bortenfor",
+    "DESCRIPTIONS": [
+      "Når du spiller et #yAngrep, kast et tilfeldig kort."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Smertende stikk",
+    "DESCRIPTIONS": [
+      "Når du tar Skade fra denne fienden, må du legge et #ySkadekort i Kastebunken din."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Brenn egenskapene",
+    "DESCRIPTIONS": [
+      "I #b",
+      " runde, når du spiller et #yEgenskapkort, #yVrak det.",
+      "I de neste #b",
+      " rundene, når du spiller et #yEgenskapkort, #yVrak det."
+    ]
+  },
+  "Slow": {
+    "NAME": "Treg",
+    "DESCRIPTIONS": [
+      "For hvert kort du spiller denne runden, tar ",
+      " #b10% mer Skade fra #yAngrep.",
+      " (Tar #b",
+      "% mer Skade)"
+    ]
+  },
+  "Split": {
+    "NAME": "Splitt",
+    "DESCRIPTIONS": [
+      "Når HPen dens er på eller under #b50%, deles den opp i #bto mindre slim, med ",
+      "s nåværende HP."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Sporesky",
+    "DESCRIPTIONS": [
+      "Når den dør, #ySvekker den deg i #b",
+      " runder."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Immobil",
+    "DESCRIPTIONS": [
+      "Når den dør, blir ",
+      " returnert til hånda di."
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Ekstra kort",
+    "DESCRIPTIONS": [
+      "Trekk #b1 kort ekstra neste runde.",
+      "Trekk #b",
+      " kort ekstra neste runde."
+    ]
+  },
+  "Strength": {
+    "NAME": "Styrke",
+    "DESCRIPTIONS": [
+      "Øker Skade påført fra angrep med #b",
+      "Minsker Skade påført fra angrep med #b",
+      "."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Tyveri",
+    "DESCRIPTIONS": [
+      " stjeler #b",
+      " #yGull når den angriper."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Torner",
+    "DESCRIPTIONS": [
+      "Ved Skade påført fra #yAngrep, påfører #b",
+      " Skade tilbake."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Tusen kutt",
+    "DESCRIPTIONS": [
+      "Når du spiller et kort, påfører du ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTIONS": [
+      "Hvis HPen din er på eller under #b50%, får du ",
+      " i starten av runden din."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Tidsforstyrrelse",
+    "DESCRIPTIONS": [
+      "Når du spiller #b",
+      " kort, avsluttes runden din og Tidsspiseren øker #yStyrken sin med #b",
+      "."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Verktøyene som trengs",
+    "DESCRIPTIONS": [
+      "I starten av runden din, kan du trekke #b",
+      " kort og kaste #b",
+      " kort.",
+      " kort og kaste #b",
+      " kort."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Sovende",
+    "DESCRIPTIONS": [
+      "Denne fienden har ikke våknet ennå..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Ustabil",
+    "DESCRIPTIONS": [
+      "Påfør nok Skade for å gjøre den ustabil."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Giftkunne",
+    "DESCRIPTIONS": [
+      "#yForgiftning øker med #b",
+      " isteden for å minske hver runde."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Sårbar",
+    "DESCRIPTIONS": [
+      "Ta #b",
+      "% mer Skade fra #yAngrep i #b",
+      " runde.",
+      " runder."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Svekket",
+    "DESCRIPTIONS": [
+      "#yAngrep påfører #b",
+      "% mindre Skade i #b",
+      " runde.",
+      " runder."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Vekst",
+    "DESCRIPTIONS": [
+      "I slutten av runden sin, øker #yStyrken med #b",
+      "."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b ",
+      " Dexterity."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Heatsink",
+    "DESCRIPTIONS": [
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Repair": {
+    "NAME": "Repair",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetism",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yFocus."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Power card into your hand.",
+      " random Power cards into your hand."
+    ]
+  },
+  "No Attack": {
+    "NAME": "No Attack",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks this turn."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebound",
+    "DESCRIPTIONS": [
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echo Form",
+    "DESCRIPTIONS": [
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Whenever you #yChannel an Orb, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next #b",
+      " Orbs."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Common cards to your hand.",
+      " random Common card to your hand."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn.",
+      " turns."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block Power",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage and increase this powers damage by #b1. Resets every turn."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100.",
+      " more HP this round.",
+      "Can no longer be harmed this round."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Free Attack Power",
+    "DESCRIPTIONS": [
+      "Ignore energy cost on the next #yAttack you play.",
+      "Ignore energy cost on the next #b",
+      " #yAttacks you play."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "Your next card is played twice this turn.",
+      "Your next ",
+      " cards are played twice this turn."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "No Skills",
+    "DESCRIPTIONS": [
+      "You cannot play #ySkills this turn."
+    ]
+  },
+  "Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTIONS": [
+      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Master Reality",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      "s into your hand.",
+      " into your hand.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+    ]
+  },
+  "Retribution": {
+    "NAME": "Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Establishment",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yRetained, lower its cost by #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Controlled",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega Power",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal ",
+      " damage to ALL enemies."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, #yUpgrade it.",
+      " Block."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Wireheading",
+    "DESCRIPTIONS": [
+      "At the end of your turn, #yScry ",
+      "."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTIONS": [
+      "The first card you draw each turn has its cost reduced by #b",
+      " that turn.",
+      " #ySmite into your hand."
+    ]
+  },
+  "Grounded": {
+    "NAME": "Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "When you obtain #b",
+      " #yMantra, enter #yDivinity."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Strike Up",
+    "DESCRIPTIONS": [
+      "Cards containing #yStrike deal #b",
+      " additional damage."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Adaptation",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Cannot Change Stance",
+    "DESCRIPTIONS": [
+      "Cannot change your stance this turn."
+    ]
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTIONS": [
+      "Receives #b",
+      " damage at the start of your next turn."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Block Return",
+    "DESCRIPTIONS": [
+      "When attacked, you gain #b",
+      " #yBlock."
+    ]
+  },
+  "HotHot": {
+    "NAME": "Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Collect": {
+    "NAME": "Collect",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain [B] [B] .",
+      "At the start of your next #b",
+      " turns, gain [B] [B] ."
+    ]
+  },
+  "Condense": {
+    "NAME": "Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Serenity": {
+    "NAME": "Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Blasphemer",
+    "DESCRIPTIONS": [
+      "At the start of your turn, die."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Vigor",
+    "DESCRIPTIONS": [
+      "Your next Attack deals #b",
+      " additional damage."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Devotion",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Simmering Rage",
+    "DESCRIPTIONS": [
+      "Enter #yWrath at the start of your turn."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [W] ",
+      "At the start of your turn, gain [W] #b",
+      " times ",
+      "and increase this by #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenver you #yScry, #yScry #b",
+      " additional cards."
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Wave Of The Hand",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "Wave Of The Hand2",
+    "DESCRIPTIONS": [
+      "Whenever you gain change #yStances, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "Discipline",
+    "DESCRIPTIONS": [
+      "If you end your turn with unused [W]  , draw that many additional cards next turn."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Path to Victory",
+    "DESCRIPTIONS": [
+      "Whenever you play #yPath #yto #yVictory, loses #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+      "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Zestaw małego alchemika",
+    "DESCRIPTIONS": [
+      "Kupiono 5 mikstur."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Wyniesienie",
+    "DESCRIPTIONS": [
+      "+5% do wyniku za każdy poziom Wyniesienia."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Elitarni - Pogranicze",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Lepiej niż Perfekcyjnie",
+    "DESCRIPTIONS": [
+      "Pokonano 3 bossów bez odniesienia obrażeń."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Pokonani bossowie",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Czempion",
+    "DESCRIPTIONS": [
+      "Pokonano jednostkę elitarną bez odniesienia obrażeń."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Oszust",
+    "DESCRIPTIONS": [
+      "Przyłapano cię na oszukiwaniu. Ponowne wykroczenie wykluczy twoje wyniki z Tablicy dożywotnio."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Elitarni – Miasto",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Kolekcjoner",
+    "DESCRIPTIONS": [
+      "Posiadaj 4 kopie jednej karty (poza startową)."
+    ]
+  },
+  "Combo": {
+    "NAME": "C-c-c-combo",
+    "DESCRIPTIONS": [
+      "Zagraj 20 kart w jednej turze."
+    ]
+  },
+  "Curses": {
+    "NAME": "A niech to!",
+    "DESCRIPTIONS": [
+      "Twoja talia zawiera 5 Klątw."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Encyklopedia",
+    "DESCRIPTIONS": [
+      "Talia zawiera przynajmniej 50 kart."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Elitarni – Exordium",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Łamacz serc",
+    "DESCRIPTIONS": [
+      "Pokonaj Serce."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Może być tylko jeden",
+    "DESCRIPTIONS": [
+      "Talia nie zawiera duplikatów (pomijając karty startowe)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Lubię złoto",
+    "DESCRIPTIONS": [
+      "Zgromadzono 3000 szt. złota."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Biblioteka",
+    "DESCRIPTIONS": [
+      "Talia zawiera co najmniej 35 kart."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Z prędkością światła",
+    "DESCRIPTIONS": [
+      "Pokonaj Iglicę w ciągu 45 minut."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalizm",
+    "DESCRIPTIONS": [
+      "Usunięto z talii przynajmniej 5 kart."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Kasa wszędzie",
+    "DESCRIPTIONS": [
+      "Zgromadzono 1000 szt. złota."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Wehikuł Tajemnic",
+    "DESCRIPTIONS": [
+      "Zwiedź przynajmniej 15 „?” pokoi."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Na moich zasadach",
+    "DESCRIPTIONS": [
+      "Samobójstwo."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Overkill",
+    "DESCRIPTIONS": [
+      "Zadaj 99 pkt. obrażeń jednym atakiem."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Nędznik",
+    "DESCRIPTIONS": [
+      "Nie posiadaj żadnej rzadkiej karty."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfekcyjnie",
+    "DESCRIPTIONS": [
+      "Pokonaj bossa bez odnoszenia żadnych obrażeń."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Łajno",
+    "DESCRIPTIONS": [
+      "Otrzymaj artefakt „Dusze odchody”."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Deszcz pieniądza",
+    "DESCRIPTIONS": [
+      "Zgromadzono 2000 szt. złota."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Mój ssskarb",
+    "DESCRIPTIONS": [
+      "Posiadaj przynajmniej 25 artefaktów."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Maniak prędkości",
+    "DESCRIPTIONS": [
+      "Pokonaj Iglicę w ciągu 60 minut."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Wypchany",
+    "DESCRIPTIONS": [
+      "Zwiększono maksymalną liczbę PŻ o 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Pełny brzuch",
+    "DESCRIPTIONS": [
+      "Zwiększono maksymalną liczbę PŻ o 15+."
+    ]
+  }
+}

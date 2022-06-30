@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Se via prenstako estas malplena, la forĵetstako estos miksata en la prenstakon. NL NL Klaku por vidi la kartojn en via forĵetstako.",
+      "Se via prenstako estas malplena, la forĵetstako estos miksata en la prenstakon. NL NL Vidu la kartojn en via forĵetstako."
+    ],
+    "LABEL": [
+      "Forĵetstako"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Je la komenco de ĉiu vico, NL #b",
+      " kartoj estas prenataj de ĉi tie. NL NL Klaku por vidi la kartojn en via prenstako (miksita).",
+      " kartoj estas prenataj de ĉi tie. NL NL Klaku por vidi la kartojn en via prenstako.",
+      " kartoj estas prenataj de ĉi tie. NL NL Vidu la kartojn en via prenstako (miksita).",
+      " kartoj estas prenataj de ĉi tie. NL NL Vidu la kartojn en via prenstako."
+    ],
+    "LABEL": [
+      "Prenstako"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Premi ĉi tiun butonon finos vian vicon. NL NL Vi forĵetos vian manon, malamikoj ludos sian vicon, vi prenos ",
+      " kartojn, kaj denove estos via vico."
+    ],
+    "LABEL": [
+      "Fini vicon"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Via nuna energikvanto. Kartoj postulas energion por ludi."
+    ],
+    "LABEL": [
+      "Energio"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Kartoj postulas energion por ludi! NL Ĉi tiu sfero malsupre maldekstre indikas kiom da energio restas al vi por la vico."
+    ],
+    "LABEL": [
+      "Kosto de energio"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Klaku por vidi kartojn elĉerpigitajn ĉi-batale.",
+      "Vidu kartojn elĉerpigitajn ĉi-batale."
+    ],
+    "LABEL": [
+      "Elĉerpigitaj kartoj"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Konsileto: ",
+      "Komprenita"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Venku malamikojn ludante kartojn de via mano! NL NL Kartoj postulas #yenergion por ludi. NL Kiam vi ne plu havas, finu vian vicon. NL NL Je la komenco de via vico, novaj kartoj estos prenataj kaj via #yenergio reŝargos.",
+      "Ludu defendajn kartojn por gajni #yŝirmon kiam malamikoj preparas atakojn kontraŭ vi. NL NL #yŜirmo malaltigas atakan damaĝon sed NL #rforiĝas je la komenco de via sekvonta vico.",
+      "Dum via vico, eblas observi la #ycelon de malamiko super ĝi. NL NL Se malamiko celas ataki vin, nepre gajnu iom da #yŝirmo!"
+    ],
+    "LABEL": [
+      "Sekvonta",
+      "Mi pretas!",
+      "Instruilo",
+      "(Paĝo ",
+      " el 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Datenoj pri ludado kaj erarprotokoloj estas sendataj al Mega Crit por helpi ekvilibrigi la ludon. NL NL Informoj, kiuj identigas vin persone NE estas kolektataj.",
+      "Slay the Spire plej rapide rulas en vere tutekrana reĝimo. Rekomendate por macOS, ĉar la Dock kaj la Menubreto estos kaŝitaj. NL NOTO: Por PK, reiru al Slay the Spire per alt-tabo eble ne funkcias por la tutekrana reĝimo.",
+      "Ĉar Slay the Spire ne postulas tre multe, ni rekomendas la Tutekranan Reĝimon sen Borderoj por rapida alt-tabo. Funkcias plej bone por PK.",
+      "Noto: Se Vertikala Sinkronigo estas ŝaltata, la Maks. Bildrapido ne povas superi la aktualigan rapidon de via ekrano.",
+      "Subteno por ludregilo ne estas plena por ĉi tiu ekrano.",
+      "Ŝanĝas kiu monitoro estas uzata kiam Tutekrane."
+    ],
+    "LABEL": [
+      "Donitaĵoj",
+      "Tutekrana",
+      "Tutekrana sen borderoj",
+      "Maks. bildrapido",
+      "Tutekrana monitoro"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Ĉi tiu karto donos potencon al vi, kiam vi uzas ĝin. NL Potencoj estas pasivaj povoj, kiuj restas por la cetero de la batalo.",
+      "Kartoj postulas energion por ludi! NL Ĉi tiu sfero malsupre maldekstre indikas kiom da energio restas al vi por la vico.",
+      "Mia #rmano #restas #rplena!",
+      "#rMaksimumo de sferkapablo atingita.",
+      "Mi ne havas sferingojn."
+    ],
+    "LABEL": [
+      "Potencokartoj",
+      "Kosto de energio"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Ĵeti ĉi tiun pocion al via malamiko.",
+      "Konsumi ĉi tiun pocion.",
+      "Forĵeti ĉi tiun pocion. NL #r(ne #reblas #rmalfari)"
+    ],
+    "LABEL": [
+      "Ĵeti",
+      "Trinki",
+      "Forĵeti"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Trinku aŭ ĵetu pociojn dum batalo! NL Vi retenas pociojn inter ĉambroj."
+    ],
+    "LABEL": [
+      "Pocioj"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Parolu al aliaj ludantoj por malkovri novajn kaj efikajn strategiojn.",
+      "Ĉiam estas ripozejo tuj antaŭ estro.",
+      "Elspezu monon ĉe butikoj! (Konsileto pagita de la Komercisto)",
+      "De tempo al tempo, prenu paŭzon.",
+      "Laŭprocentaj kalkuloj fine ĉiam rondigatas suben.",
+      "Dum batalo, vi povas kontroli la enhavon de viaj prenstako kaj forĵetstako.",
+      "Ne ekzistas limo pri la kvanto de relikvoj, kiun vi povas kunporti.",
+      "Kofroj ĉiam faligos relikvon.",
+      "Ĉiu vojo, kiun vi elektas, ĉiam havos almenaŭ unu trezorĉambron.",
+      "Elitaj malamikoj ĉiam faligos relikvon.",
+      "Vi neniam vidos la saman relikvon du fojojn dum unu ludado.",
+      "Neoftaj kartoj havas bluajn kadron kaj rubandon.",
+      "Maloftaj kartoj havas orkolorajn kadron kaj rubandon.",
+      "La ofteco de karto estas videbla sur la karto mem.",
+      "Ne ĉiam estas saĝe aldoni kartojn al via kartaro.",
+      "Kartoj, kiuj estas elĉerpigataj dum batalo, ne estas forigataj de via kartaro.",
+      "Vi povas havi nur 10 kartojn en via mano.",
+      "Statkartoj malaperas je la fino de batalo.",
+      "Malbenojn oni ne povas plibonigi. Kial vi volus?",
+      "Plibonigitaj kartoj povas aperi en premioj post Akto 1.",
+      "Nekonataj ĉambroj povas enhavi trezorojn, monstrojn, butikojn aŭ okazaĵojn.",
+      "La Komercisto ne donas ristornojn. Kia aĉulo.",
+      "La kartforiga servo iĝas pli multekosta je ĉiu uzado.",
+      "Vi povas uzi la kartforigan servon nur unu fojon ĉe ĉiu butiko.",
+      "Damaĝo de pocioj, relikvoj kaj potencoj ne estas ataka damaĝo.",
+      "Efikoj, kiuj generas hazardajn kartojn dum batalo, neniam resanigos vin."
+    ],
+    "LABEL": [
+      "Vi povas forĵeti pociojn por krei spacon por aliaj."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Vi povas dekstre klaki karton je la kartpremia ekrano por vidi pli da informoj.",
+      "Utilaj informoj aperos je musumado de la plimulto de aferoj.",
+      "Dekstre klaku por malteni ajnan karton, kiun vi trenas.",
+      "Musumu malamikon por vidi ĝian nomon kaj informon pri ĝiaj potencoj.",
+      "Uzu la rulumilon aŭ klaku kaj trenu la ekranon por rulumi.",
+      "Se vi povas inspekti aĵon, la musmontrilo fariĝos lupeo.",
+      "Uzu la rulumilon aŭ klaku kaj trenu por rulumi tra mapoj, kartekranoj, kaj aliaj aferoj."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Relikvoj, kiuj estas troveblaj tra la tuta Turego, donas unikajn bonusojn kaj restas kun vi dum la tuta ludado. NL Trovu ilin venkante fortajn kontraŭulojn aŭ serĉante kofrojn.",
+      "Ĉi tiu relikvo ankoraŭ ne estas vidita.",
+      "Ĉi tiu relikvo estas eluzita."
+    ],
+    "LABEL": [
+      "Relikvoj",
+      "Nekonata",
+      "Ĉi tiu relikvo ankoraŭ ne estas malŝlosita.",
+      "Ŝlosita"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Ne forgesu viajn premiojn! NL Simple alklaku por preni ilin.",
+      "Ne forgesu viajn premiojn!"
+    ],
+    "LABEL": [
+      "Premioj"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Forigu karton de via kartaro. La kosto de ĉi tiu servo plialtiĝas je #b",
+      " por la cetero de ĉi tiu ludado."
+    ],
+    "LABEL": [
+      "Kartforiga servo"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Se ne estas kartoj por preni, via forĵetstako estos miksata en la prenstakon."
+    ],
+    "LABEL": [
+      "Ne plu restas kartoj?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Aperigas la menuon de la ludo. NL NL Ŝanĝu aŭ ĝisdatigu viajn preferojn pri grafikoj, aŭdio kaj ludado ĉi tie.",
+      "Vidu ĉiujn kartojn en via kartaro.",
+      "Vidu la mapon de la nuna akto.",
+      "Kiam vi ne plu havas vivpoentojn, vi mortas.",
+      "Montras kiom da mono vi kunportas. Oro estas la valuto en la Turego.",
+      "",
+      "",
+      "Kiom da tempo pasis en ĉi tiu ludado."
+    ],
+    "LABEL": [
+      "Agordoj",
+      "Kartaro",
+      "Mapo",
+      "Vivpoentoj (vivo)",
+      "Monsaketo",
+      "Daŭro de ludado"
+    ]
+  }
+}

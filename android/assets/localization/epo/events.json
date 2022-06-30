@@ -1,0 +1,933 @@
+{
+  "Accursed Blacksmith": {
+    "NAME": "Minaca forĝejo",
+    "DESCRIPTIONS": [
+      "Vi eniras etan kabanon. En ĝi ŝajne troviĝas forĝejo. La forĝiloj estas kovritaj de polvo, sed fajro brulas en la forno. Vi sentas vin maltrankvila...",
+      "Vi decidas funkciigi la forĝejon kaj... NL #y@TINT@ #y@TIIINT@ #y@TINT!@ NL ...plibonigas vian armilaron!",
+      "Vi decidas serĉi uzeblaĵon. Post kiam vi malkovras baŝojn, traserĉas skatolojn kaj kontrolas ĉiujn angulojn, vi trovas #y~relikvon~ kovritan de polvo! ",
+      "Dum vi finas vian laboron, la flamoj de la forĝejo saltas al vi, kaj #r@brulvundas@ viajn brakojn...",
+      "NL NL Post vi prenas la relikvon, ne forlasas vin subita sento de #r~akra~ #r~doloro~ kiam vi eliras la kabanon. Ĉu eblas, ke vi ĝenis ian spiriton?",
+      "Ne ŝajnas esti uzeblaĵo. Vi eliras tien, de kie vi venis, dum la fornaj flamoj aperigas #p~timigajn~ #p~ombrojn~ sur la murojn en la kabano..."
+    ],
+    "OPTIONS": [
+      "[Forĝi] #gPlibonigi #gkarton #gen #gvia #gkartaro.",
+      "[Traserĉi] #gAkiru #gspecialan #gRelikvon. #rFariĝi #rmalbenita #r- #rDoloro.",
+      "[Foriri]",
+      "Elektu karton por plibonigi",
+      "[Ŝlosita] Postulas: plibonigeblajn kartojn"
+    ]
+  },
+  "Addict": {
+    "NAME": "Petema vagulo",
+    "DESCRIPTIONS": [
+      "Kiam vi provas kaŝiri preter grupon de figuroj en mortvestoj, unu el ili proksimiĝas al vi. NL \"Ĉu ion por mi, amiko? Bonvolu... eble kelkajn #yMonerojn?\" NL \"Mi nur bezonas lokon por tranokti, mi havas trezorojn por komerci...\" Li ŝajnas konfuzita, sed ne danĝera.",
+      "\"Ho jes, ~jes!~ Jen, jen justa komerco!\"",
+      "Vi ekprenas la altvaloran #yrelikvon el liaj manoj kaj forpaŝas. NL De malantaŭ vi, vi aŭdas: NL \"Ĉu vi ne hontas? ~ĈU~ ~VI~ ~NE~ ~HONTAAAAAS?!\"~ NL Vi iom #phontas."
+    ],
+    "OPTIONS": [
+      "[Doni oron] #y",
+      " #yda #yOro: #gakiru #grelikvon.",
+      "[Ŝlosita] Postulas: ",
+      " da Oro.",
+      "[Rabi] #gAkiri #grelikvon. #rFariĝu #rmalbenita #r- #rHonto.",
+      "[Foriri]",
+      "",
+      ""
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Antikva skribaĵo",
+    "DESCRIPTIONS": [
+      "Vi grimpas la urbon kaj rimarkas muron kovritan en la skribaĵo de #y~Antikvuloj.~ Dum vi provas ekkompreni la puzlajn simbolojn kaj signojn, la skribaĵo #b~ekbrilas.~ NL Subite, mesaĝo klariĝas...",
+      "La respondo estis eleganteco. NL Kompreneble.",
+      "La vero ĉiam simplas."
+    ],
+    "OPTIONS": [
+      "[Eleganteco] #gForigi #gkarton #gel #gvia #gkartaro.",
+      "[Simpleco] #gPlibonigi #gĉiujn #gBatojn #gkaj #gDefendojn.",
+      "Elektu karton por forigi.",
+      "[Foriri]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Maljuna almozulo",
+    "DESCRIPTIONS": [
+      "Maljuna almozulo en fela kapuĉmantelo etendas la manojn al vi dum vi preterpasas. \"Ĉu iom da mono, mia infano?\"",
+      "La almozulo rigardas al la planko dum vi preterpasas. NL \"Vi neniam atingos ion ajn... neniam.\"",
+      "La almozulo demetas sian mantelon kaj rivelas, ke li estas #bkleriko! NL @\"Vi@ @estas@ @afabla@ @animo.@ @Ricevu@ @mian@ @purigon!\"@ li kriegas. NL Vi ne certas ĉu li estas danka aŭ freneza.",
+      "@\"Mi@ @esperas,@ @ke@ @vi@ @pli@ @sukcesos@ @ĉi-foje,@ @amiko!\"@ li krias. NL Vi demandas vin, kion li intencas per tio, kaj antaŭeniras."
+    ],
+    "OPTIONS": [
+      "[Doni oron] #y",
+      " #yda #yOro: #gForigi #gkarton #gel #gvia #gkartaro.",
+      "[Ŝlosita] Postulas: ",
+      " da Oro.",
+      "[Daŭrigi]",
+      "[Foriri]",
+      "Elektu karton por foriri."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Fiŝego",
+    "DESCRIPTIONS": [
+      "Kiam vi trapaŝas longan koridoron, vi vidas #ybananon, #ybenjeton kaj #yskatolon ~ŝvebantajn.~ Ne... kiam vi rigardas de pli proksime, vi vidas, ke ili pendas de dratoj tra truoj en la plafono. Venas kvieta @kaŝrido@ desupre dum vi alproksimiĝas la aferojn. NL Kion vi faras?",
+      "Vi manĝas la #ybananon. Estas nutre kaj iom #bmagie, tia ke ĝi vin resanigas.",
+      "Vi manĝas la #ybenjeton. Estas ege bonguste! Via maksimuma vivo plialtiĝas.",
+      "",
+      "Vi prenas la skatolon. En ĝi troviĝas #yrelikvon!",
+      " NL Tamen, vi fakte ege volis la benjeton... NL Pleniĝas vi de ~malĝojo,~ sed plejparte #rbedaŭro."
+    ],
+    "OPTIONS": [
+      "[Bananon] #gResaniĝi #g",
+      " #gHP.",
+      "[Benjeton] #gMaks. #gvivo #g+",
+      ".",
+      "[Skatolon] #gAkiri #grelikvon. #rFariĝi #rmalbenita #r- #rBedaŭro.",
+      "[Foriri]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Ŝtipfajrospiritoj",
+    "DESCRIPTIONS": [
+      "Vi hazarde trovas ŝajne grupon de #ppurpuraj #pfajrospiritoj, kiuj ~dancas~ ĉirkaŭ granda ŝtipfajro. NL ",
+      "La spiritoj ĵetas etajn ostojn kaj erojn en la fajron, kiu ~erupcias~ ~brilege~ ĉiun fojon. NL Kiam vi alproksimiĝas, la spiritoj ĉiuj turniĝas kaj rigardas al vi, plenaj je atendo...",
+      "Vi ĵetas oferon en la ŝtipfajron. NL NL ",
+      "Tamen, la spiritoj ne estas kontentaj pri tio, ke vi oferis #pMalbenon... La karto fumiĝas nigre. Vi reciproke ricevas... #p~ion.~",
+      "Nenio okazas... NL La spiritoj nun ŝajnas ignori vin. Elreviga...",
+      "La flamoj iomete plibriliĝas. NL La spiritoj daŭre dancas. Vi sentas vin iom pli varma pro ilia ĉeesto... NL Vi #gresaniĝas #b5 da vivo.",
+      "La flamoj erupcias kaj ege plifortiĝas! NL La spiritoj dancas ĉirkaŭ vi entuziasme kaj donas al vi ~senton~ ~de~ ~varmo.~ NL Vi #gresaniĝas vian plenan vivon.",
+      "La flamoj @ekflagras@ kaj preskaŭ faligas vin kiam la forteco de la fajro @duobliĝas@. NL La spiritoj dancas ĉirkaŭ vi entuziasme antaŭ ol ili ~kuniĝas~ ~kun~ ~via~ ~formo,~ plenigante vin per varmo kaj forto. NL Via maks. vivo pliboniĝas je #b10 kaj vi #gresaniĝas vian plenan vivon."
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Foriri]",
+      "[Oferi] Ricevi premion laŭ la ofero.",
+      "Elektu karton por oferi."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Malbenita volumo",
+    "DESCRIPTIONS": [
+      "En forlasita templo, vi trovas enorman libron, malfermitan kaj tutplenan je #p@kriptaj@ #p@vortoj.@ NL NL Kiam vi provas interpreti la detalajn skribaĵojn, ili ekas #b~moviĝi~ kaj #b~transformi~ en skribsistemon, kiun vi konas.",
+      "Strange. La libro ŝajne parolas pri #yAntikvulo, kiu nomiĝas #yNiaŭ. NL NL Tio vekas vian intereson, sed vi havas ĝeneralan senton de #p~malbonfarto.~",
+      "La Antikvulo de Reviviĝo, #yNiaŭ, estis ekzilata al la malsupro de la Turego. NL NL Vi sentas vin devigita legi plu, sed via korpo #r~ekdoloras.~",
+      "Por trovi venĝon, #yNiaŭ benas eksterulojn kaj uzas ilin por ŝiaj propraj celoj. NL NL Vi eksentas vin tre #r~malforta~ #r~kaj~ #r~laca...~",
+      "Tiuj, kiujn #yNiaŭ relevigis, memoras nur fragmentojn de siaj antaŭaj memoj, kaj estas malbenitaj al eterna batalo. NL NL Kiam vi alproksimiĝas la lastan paĝon, viaj #r@antaŭaj@ #r@vundoj@ #r@ekresangas!@",
+      "Kiam vi finas legi la volumon, vi decidas porti ĝin kun vi. Portante pruvon, ĉu vi retenos viajn memorojn?",
+      "Vi sentas #p~malhelan~ #p~energion~ #p~eliĝantan~ la libron sur la piedestalo kaj eliras.",
+      "Per nekredebla streĉo kaj volforto, vi rezistas la hipnotigon de la volumo kaj @BATE@ fermas ĝin. NL Vi turnas vin kaj eliras la templon kun sento de #b~lacego...~"
+    ],
+    "OPTIONS": [
+      "[Legi]",
+      "[Daŭrigi] #rPerdi #r1 #rda #rvivo.",
+      "[Daŭrigi] #rPerdi #r2 #rda #rvivo.",
+      "[Daŭrigi] #rPerdi #r3 #rda #rvivo.",
+      "[Ĉesi] #rPerdi #r3 #rda #rvivo.",
+      "[Preni] #gAkiri #gla #glibron. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Foriri]"
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "Morta aventuristo",
+    "DESCRIPTIONS": [
+      "Dum vi priserĉas la aventuriston, subite aperas io!",
+      "Vi foriras sensone.",
+      "Vi trovas #rmortan #raventuriston sur la planko. NL Iu ŝtelis lian #bpantalonon! Krome, ",
+      "la armaĵo kaj vizaĝo ŝajne estas #r@brulitaj@ #r@de@ #r@flamoj.@ ",
+      "ŝajne kornhava besto #r@distranĉis@ #r@kaj@ #r@surtretis@ lin. ",
+      "laŭaspekte enormaj ungegoj #r@seninternaĵigis@ #r@kaj@ #r@dishakis@ lin. ",
+      "NL Kvankam liaj #yposedaĵoj #yankoraŭ #yrestas, vi ne emas malkovri tion, kio okazis ĉi tie...",
+      "Vi trovis iom da #yoro! NL Ĉu serĉi plu?",
+      "Hmm, ne povis trovi ion ajn... NL Ĉu serĉi plu?",
+      "Vi trovis #yrelikvon! NL Ĉu serĉi plu?",
+      "Ŝajne vi traserĉis la tuton de liaj posedaĵoj senprobleme!"
+    ],
+    "OPTIONS": [
+      "[Serĉi] #gTrovi #ghavindaĵojn. #r",
+      "[Foriri]",
+      "[Batali]",
+      "[Daŭrigi] #gTrovi #ghavindaĵojn. #r",
+      "%: #rmonstro #rrevenas."
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Pliigulo",
+    "DESCRIPTIONS": [
+      "Viro kun okulflikaĵo kaj demona ridaĉo paŝegas al vi. NL \"Hej nekonato. Ĉu vi interesiĝas pri progresigi sciencon? Mi povas fari vin pli forta ol ajna trejnado aŭ beno. Vi ja bezonos ĝin se vi estas unu el tiaj herooj, kiuj ĉiam provas morti ĉie.\" NL NL ~\"Kion~ ~pensas?\"~",
+      "~\"Bonege.\"~ NL La viro donas danĝeraspektan injektilon plenan je #b~brilanta~ #b~likvo,~ antaŭ ol li forŝteliĝas en ombran koridoron.",
+      "~\"Grandioze.\"~ NL La viro injektas vin per tri nekonataj substancoj kaj elprenas notblokon. Dum vi eksentas iom da vertiĝo, li komencas freneze skribi notojn. NL Vi tute perdas vian temposenton, kaj kiam vi reekvilibriĝas, la ombra ulo estas jam for.",
+      "~\"Mirinde.\"~ NL Vi fortrinkas la misteran substancon. Tuj vi vigliĝas, kaj vi sentas la muskolojn @tremeti.@"
+    ],
+    "OPTIONS": [
+      "[Testi J.A.X.] #gIĝi #gJAXita.",
+      "[Fariĝi studobjekto] #gTransformi #g2 #gkartojn.",
+      "[Ingesti mutaciigilojn] #gAkiri #gspecialan #grelikvon.",
+      "[Foriri]",
+      "[Ŝlosita] Postulas: 3 aŭ pli da kartoj en kartaro.",
+      "Elektu kartojn por transformi."
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Duobligilo",
+    "DESCRIPTIONS": [
+      "Antaŭ vi troviĝas ornamita altaro al iu antikva estaĵo.",
+      "Vi surgenuiĝas respekte. Fantoma spegulbildo aperas el la altaro kaj kolizie iras en vin.",
+      "Vi ignoras la preĝejon, memfida pri via elekto."
+    ],
+    "OPTIONS": [
+      "[Preĝi] #gDuobligi #gkarton #gen #gvia #gkartaro.",
+      "[Foriri]",
+      "Elektu karton por duobligi."
+    ]
+  },
+  "Falling": {
+    "NAME": "Fali",
+    "DESCRIPTIONS": [
+      "Kiam vi supreniras saltante de unu ŝvebanta formo al alia, vi ekglitas. NL NL Vi ekfalas.",
+      "Dum vi falas, vi konsideras viajn elektojn: NL Alteriĝi sekure per viaj plej bonaj teknikoj. NL Ensorĉi potencon por travivi la falon. NL Bati al la muro por pendiĝi de ĝi.",
+      "Vi alteriĝas graciege antaŭ ol vi daŭrigas vojaĝi.",
+      "Uzante kaj elspezante iom da via kruda potenco, vi sukcesas alteriĝi senvunda.",
+      "Vi sukcesas fiksiĝi al la muro kaj per eta salto atingi alian stabilan platformon.",
+      "Vi ŝajnas fali malrapide kiel plumo kaj atingas la malsupraĵon sen ajna vundo."
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Alteriĝi] #rPerdi ",
+      "[Ŝlosita] Postulas: kapablokarton",
+      "[Ensorĉi] #rPerdi ",
+      "[Ŝlosita] Postulas: potencokarton",
+      "[Bati] #rPerdi ",
+      "[Ŝlosita] Postulas: atakokarton",
+      "[Foriri]",
+      "[Alteriĝi] "
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Forgesita altaro",
+    "DESCRIPTIONS": [
+      "Antaŭ vi troviĝas altaro al forgesita dio. NL Sur la altaro staras ornama ina statuo kun etenditaj brakoj. NL Ŝi vokas vin kaj postulas oferon.",
+      "Kiam vi zorge remetas la idolon sur la altaron #bmalvarma vento ĉirkaŭiras la ĉambron. NL La brakoj de la statuo komencas senkoleriĝi kaj dispeciĝi. NL NL Via #yora #yidolo komencas paliĝi kaj eksangas el la okuloj. NL La sangado neniam ĉesas.",
+      "Vi staras sur la altaro kaj tranĉas viajn pojnojn. NL Dum la #rsango elfluas kiel oferdono, la brakoj de la statuo etendas al viaj okuloj kaj blokas vian vidon. NL Ĉio iĝas malluma. NL Vi vekiĝas post ne multe da tempo kun sento de nova potenco, kiu trafluas vin.",
+      "Vi ekbatas kaj detruas la statuon antaŭ vi kaj tiel rompas la magion, per kiu la ĉambro tenis vin. NL Akuta vekrio eĥas ĉie ĉirkaŭ vi, kaj vi sentas la #p~malbenitan~ #p~magion~ sorbiĝi en la ostojn."
+    ],
+    "OPTIONS": [
+      "[Oferdoni: Oran idolon] #gAkiri #gspecialan #grelikvon. #rPerdi #rOran #ridolon.",
+      "[Ŝlosita] Postulas: Oran idolon.",
+      "[Oferi] #gGajni #g",
+      " #gda #gmaks. #gvivo. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Ŝlosita] Postulas: humanecon.",
+      "[Profani] #rIĝi #rmalbenita #r- #rPutro."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "La dieca fontano",
+    "DESCRIPTIONS": [
+      "Vi trafas #b~lumetan~ #b~akvon~ senĉese elfluantan fontanon sur proksima muro.",
+      "Kiam vi trinkas la #b~akvon,~ vi sentas la maltenon de #pio #pmalhela.",
+      "Vi ne certas pri la karaktero de ĉi tiu akvo, do vi daŭrigas laŭ via vojo, soifega."
+    ],
+    "OPTIONS": [
+      "[Trinki] #gForigi #gĉiujn #gmalbenojn #gel #gvia #gkartaro.",
+      "[Foriri]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Konsilio de fantomoj",
+    "DESCRIPTIONS": [
+      "Dum vi daŭrigas vian grimpadon, #p~densa~ #p~nigra~ #p~fumo~ ekruliĝis el la grundo kaj la ĉirkaŭaj muroj kaj kuniĝas iĝante tri maskitaj formoj, kiuj ekparolas. NL NL ~\"Alia~ ~marioneto~ ~de~ #y~Niaŭ,~ ~pensas~ ~mi.\"~ NL #r@\"KONSENTITE!@ #r@ŜI@ #r@ĈIAM@ #r@FARAS@ #r@AMUZEGAJN@ #r@LUDILOJN!\"@ NL NL Vi rimarkas trograndan ridetaĉon kiam la tria alparolas vin. NL \"Malatentu la aliajn... Ĉu vi ŝatus provi nian #y~potencon?\"~ ",
+      "",
+      "#y\"Bonege!\" NL Dum la fantoma formo parolas, vi rimarkas, ke ĝia granda buŝo pli kaj pli larĝe malfermiĝas. #p~Densa~ #p~nigra~ #p~fumo~ ŝutiĝas el ĝi kaj plenigas la ĉambron. Vi povas nek vidi nek spiri... NL NL Tuj antaŭ vi senkonsciiĝus, la sento haltas. NL NL Kio ajn estis tiuj aferoj, ili nun estas for. Vi daŭrigas kun sufiĉe #bkava sento.",
+      "\"Kia elreviĝo...\" NL ~\"Vi~ ~ja~ ~aliĝos~ ~al~ ~ni~ ~iam~.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL La formoj forfadas kaj lasas nur la resonon de la malkuraĝiga ridado en la oreloj.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Akcepti] #gRicevi #g5 da Aperaĵo. #rPerdi #r",
+      " #rda #rmaks. #rvivo.",
+      "[Malakcepti]",
+      "[Akcepti] #gRicevi #g3 da Aperaĵo. #rPerdi #r",
+      "",
+      "[Foriri]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Ora idolo",
+    "DESCRIPTIONS": [
+      "Vi hazarde trovas ne tre atentokaptan piedestalon kun pace sur ĝi #ybrila #yora #yidolo. Aspektas nekredeble altvalore. NL NL Vi certe ne vidas ajnajn insidojn proksimajn.",
+      "Kiam vi prenas la idolon, enorma rokego frakasas la plafonon kaj falegas sur la teron apud vi. NL Vi ekkonscias, ke la planko deklinas suben, kaj la rokego ekrulas al vi.",
+      "@KURUUUUUUUUUU!@ NL Vi apenaŭ ĝustatempe saltas en flankan koridoron kaj la rokego preterpasegas. Bedaŭrinde laŭsente vi distordis ion, tamen.",
+      "Vi ĵetas vin al la rokego kun ĉiom da via forto. Kiam la polvo surteriĝis, vi povas sekure eliri.",
+      "@ŜPLĈ!@ NL La rokego pliplatigas vin iomete dum ĝi preterpasas, sed krom tio vi povas sekure foriri.",
+      "Se iam ekzistus evidentan insidon, estus ĉi tio. NL Vi decidas ne perturbi objektojn sur piedestaloj."
+    ],
+    "OPTIONS": [
+      "[Preni] #gAkiri #gOran #gidolon. #rAktivigi #rinsidon.",
+      "[Foriri]",
+      "[Kureskapi] #rFariĝi #rmalbenita #r- #rKontuzo.",
+      "[Frakasi] #rPreni #r",
+      " #rda #rdamaĝo.",
+      "[Kaŝiĝi] #rPerdi #r",
+      " #rda #rmaks. #rvivo."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Ora preĝejo",
+    "DESCRIPTIONS": [
+      "Antaŭ vi troviĝas detala preĝejo al antikva spirito. ",
+      "Kiam via mano tuŝas la preĝejon, pluvas #yoro de la plafono, kiu ~kovras~ ~vin~ ~per~ ~riĉaĵoj.~ ",
+      "Ĉiam, kiam vi frapas la altaron, #yoro elŝutas denove kaj denove! NL NL Dum vi prenas la riĉaĵojn, io #rege #rpezas #rsur #rvin.",
+      "Vi ignoras la preĝejon."
+    ],
+    "OPTIONS": [
+      "[Preĝi] #gGajni #g",
+      " #gda #goro.",
+      "[Profani] #gGajni #g275 #gda #goro. #rFariĝi #rmalbenita #r- #rBedaŭro.",
+      "[Foriri]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Flugilstatuo",
+    "DESCRIPTIONS": [
+      "Inter la ŝtonoj kaj la rokoj, vi rimarkas komplika blua statuego, kiu aspektas kiel flugilo. NL Vi trovas #yoron, kiu fluis el la fendoj. Eble estas pli da ĝi ene...",
+      "Iu parolis al vi pri iu sekto, kiu kultis enorman birdon. Kiam vi surgenuiĝas por preĝi, vi ~eksentas~ ... ~vertiĝon.~ NL NL Vi vekiĝas post iom da tempo, strange malpezigita.",
+      "Kun ĉiom da via forto, vi hakas al la statuo. NL Ĝi baldaŭ @diseriĝas@ kaj malkaŝas #yamason #yda #yoro. Vi prenas kiel eble plej kaj daŭrigas antaŭen.",
+      "La statuo donas al vi ~maltrankvilan~ ~senton.~ Vi preterpaŝas kaj daŭrigas antaŭen."
+    ],
+    "OPTIONS": [
+      "[Preĝi] #gForigi #gkarton #gel #gvia #gkartaro. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Detrui] #gGajni #g",
+      " #g- #g",
+      " #gda #goro.",
+      "[Ŝlosita] Postulas: karton kun ",
+      " aŭ pli da damaĝo.",
+      "[Foriri]",
+      "[Daŭrigi]",
+      "Elektu karton por forigi."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Sciohava kranio",
+    "DESCRIPTIONS": [
+      "Vi trovas malnovan, ornamitan ĉambron. En la mezo de la ĉambro, granda kranio sidas sur bela piedestalo. Kiam vi alproksimiĝas, la kranio #g@ekflamas@ kaj turnas sin al vi.",
+      "\"KION VI SERĈAS? KION VI OFERAS?\" NL Sinkrone kun ĝiaj finaj vortoj, la pordo malantaŭ vi @batfermiĝas.@",
+      " NL NL \"ĈU ION ALIAN?\"",
+      " ",
+      "\"TRINKU!\" NL Vi akiras pocion.",
+      "\"EBLE ĈI TIO HELPAS?\" NL Vi akiras karton.",
+      "\"VI MORTEMULOJ ĈIUJ SAMAS. FARITE.\" NL #yOro pluvas sur vin!",
+      "\"MALANTAŬ VI, MORTEMULO.\" NL Vi rigardas malantaŭ la kranion. Ja estas pordo tie."
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      " #rda #rvivo.",
+      "[Informon?] #gMalkaŝi #gla #gestron. #rPerdi #r",
+      "[Sukceson?] #gRicevi #gsenkoloran #gkarton. #rPerdi #r",
+      "[Revigliĝon?] #gRicevi #gpocion. #rPerdi #r",
+      "[Riĉaĵojn?] #gGajni #g",
+      " #gda #goro. #rPerdi #r",
+      "[Kiel mi foriras?] #rPerdi #r",
+      "[Foriri]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Laboratorio",
+    "DESCRIPTIONS": [
+      "Vi troviĝas en ĉambro plena je traboj kun provtuboj, boteletoj, flakonoj, forcepsoj, krampoj, kirliloj, tenajloj, sekurokulvitroj, funeloj, pipetoj, cilindroj, kondensiloj, kaj eĉ malofta spirala vitra tubo. NL NL Kial vi konas la nomojn de ĉiuj tiuj iloj? Nu, ne gravas, vi decidas iom esplori."
+    ],
+    "OPTIONS": [
+      "[Serĉi] #gTrovi #gkelkajn #gpociojn!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "La ssssserpento",
+    "DESCRIPTIONS": [
+      "Vi eniras ĉambron kaj trovas grandan truon en la planko. Kiam vi alproksimiĝas ĝin, enorma serpenta estaĵo aperas de ĝi. NL NL ~\"Ho~ ~hooo!~ ~Saluton~ ~saluton!~ ~Kio~ ~jen~ ~aperas?~ Saluton aventuristo, mi demandas simplan demandon. NL La plej kontentiga vivo estas tiu, en kiu vi povas #y~ĉion~ #y~aĉeti!~ NL Ĉu vi konsentas?\"",
+      "~\"Jeeeeeeessssssssssessss!~ NL ~Tio~ ~tute~ ~valorasss.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "La serpento rigardadas al vi ege elrevigite.",
+      "La serpento levas la kapon kaj elŝutas fluon de #yoro supren! NL Estas samtempe mirinde kaj terure. NL Vi kolektas ĉiom da la #yoro, dankas la serpenton, kaj ekiras."
+    ],
+    "OPTIONS": [
+      "[Konsenti] #gGajni #g",
+      " #gda #goro. #rFariĝi #rmalbenita #r- #rDubo.",
+      "[Malkonsenti]",
+      "[Daŭrigi]",
+      "[Foriri]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Living Wall",
+    "DESCRIPTIONS": [
+      "Vi trovas senelirejon kaj komencas turni vin kiam subite muroj @fermegas@ de la supra plafono kaj kaptas vin! NL NL Tri vizaĝoj materiiĝas el la muroj kaj parolas. NL #b\"Forgesu #btion, #bkion #bvi #bscias #bkaj #bmi #blasos #bvin #beliri.\" NL #p\"Mi #pbezonas #pŝanĝon #ppor #pvidi #pnovan #pspacon.\" NL #y\"Se #yvi #yvolas #ypreterpasi #ymin, #yvi #ydevos #ykreski.\"",
+      "La muroj kontentas kaj kuniĝas kun la plafono, lasante vojon antaŭen."
+    ],
+    "OPTIONS": [
+      "[Forgesi] #gForigi #gkarton #gel #gvia #gkartaro.",
+      "[Ŝanĝi] #gTransformi #gkarton #gen #gvia #gkartaro.",
+      "[Kreski] #gPlibonigi #gkarton #gen #gvia #gkartaro.",
+      "Elektu karton por forigi.",
+      "Elektu karton por transformi.",
+      "Elektu karton por plibonigi.",
+      "[Foriri]",
+      "[Ŝlosita] Postulas: plibonigeblajn kartojn"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Masked Bandits",
+    "DESCRIPTIONS": [
+      "Hehehe.. Dankon pro la #yoro! NL Ho, mi amas #yoron. Estas tiel agrable. NL Estas #y~brilaj~ #y~brilaj~ cendoj!",
+      "Hej #bUrso, hej! NL Jen ulo kiu donis al ni ĉiom da sia #yoro! Kia kreteno, ĉu ne? NL Aŭskultu bone, mi nur devis peti ĝentile. Kiu atendis tion?! NL Certe ne mi! Kia idioto!",
+      "Amikoj, ni ĉiuj ridu pri ĉi tiu miriga okazo! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Ho? Ĉu vi ankoraŭ restas? NL Ĉu vi subaŭdis ion? Jam pensis, ke ne. NL #r@*snufeg'*@ ~...malspritulo....~ @Hahaha@ ~haaah~",
+      "Vi renkontas grupon de banditoj, kiuj portas grandajn #rruĝajn #rmaskojn. NL \"Sal, pagu por preterpasi... temas pri tre aprobinda kosto de @ĈIOM@ da via #yoro! Heh heh!\""
+    ],
+    "OPTIONS": [
+      "[Pagi] #rPerdi #rĈIOM da via #yoro.",
+      "[Batali!]",
+      "[Daŭrigi]",
+      "[Foriri]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Akordigu kaj prenu!",
+    "DESCRIPTIONS": [
+      "\" #bDek du kartoj! Akordigu ilin por preni ilin! #bKvin provojn, ne pli. NL Ĉu vi pretas! Ek!\"",
+      "Vi finas la ludon de la gremlino kaj suprenrigardas. NL Li malaperis?",
+      "Gremlino freneze miksas kartojn sur tablo. Ĉi tiu monstro ŝajnas esti nedanĝera. Vi proksimiĝas al li pro scivolemo."
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Foriri]",
+      "[Ludi]",
+      "Restantaj provoj: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Fungoj",
+    "DESCRIPTIONS": [
+      "Vi cedas al la nenatura deziro manĝi. Ju pli vi manĝas fungon post fungo, des pli vi malfortiĝas, kaj fine vi perdas la konscion. Kiam vi vekiĝas, vi sentas vin tre stranga. NL Vi #gresaniĝas #b25% da via vivo, sed vi ja #rinfektiĝis.",
+      "#r@Embuskita!!@ NL Ronĝuloj infestitaj de fungoj ekaperas subite!",
+      "Vi eniras koridoron plenan je #b~hipnotigaj~ #b~koloraj~ #b~fungoj.~ Pro via manko de sperto pri mikologio, vi ne scipovas identigi la tipojn. NL Vi ŝatus forkuri, sed sentas vin strange devigita manĝi #b~fungon...~"
+    ],
+    "OPTIONS": [
+      "[Piedpremi] #rKolerigi #rla #rfungojn.",
+      "[Manĝi] #gResaniĝi #g",
+      " #gda #gvivo. #rFariĝi #rmalbenita #r- #rParazito.",
+      "[Batali]",
+      "[Foriri]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Mistera globo",
+    "DESCRIPTIONS": [
+      "El la ĥaosa tereno ĉirkaŭ vi elstaras osta globo, kiu entenas misteran brilan objekton. NL Vi scivolas, kio enestas, sed vi rimarkas kelkajn sentinelojn, kiuj atentas pri ĝi.",
+      "Tuj kiam vi batas la globon, la sentineloj vigliĝas ĉirkaŭ vi!",
+      "Oni ne estu avara."
+    ],
+    "OPTIONS": [
+      "[Malfermi globon] #rBatali. #gPremio: #gmalofta #grelikvo.",
+      "[Foriri]",
+      "[Batali]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "Kurioza ĝiba estaĵo el kiu kreskas pluraj tentakloj traserĉaĉas amason da rubaĵoj kaj malbonodoraĵoj antaŭ vi. Kiam vi alproksimiĝas, li paŝetas al vi en neminaca maniero. NL \"N'loth malsata. Donu manĝon N'loth.\"",
+      "Vi etendas la #yrelikvon al li kaj N'loth ekprenas ĝin el via mano per siaj tentakloj, elartikigas la faŭkon kaj en unu rapida gluto formanĝas vian donacon. NL Li donas larĝan, dentmontran ridon kaj pli da tentakloj aperas de malantaŭ ĝia mantelo, kiuj tenas nekredeble netan skatolon. Li puŝas ĝin al vi ĝis vi prenas ĝin.",
+      "Vi kapneas. N'loth eĉ pli ĝibiĝas kaj elspiras, kaj poste fortrotas."
+    ],
+    "OPTIONS": [
+      "[Doni: ",
+      "] #rPerdi #rĉi #rtiun #rrelikvon. #gAkiri #gspecialan #grelikvon.",
+      "[Foriri]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Foriri]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Purigilo",
+    "DESCRIPTIONS": [
+      "Antaŭ vi troviĝas detala preĝejo al forgesita spirito.",
+      "Kiam vi riverencas, vi sentas kvazaŭ pezo leviĝas de viaj ŝultroj.",
+      "Vi ignoras la preĝejon."
+    ],
+    "OPTIONS": [
+      "[Preĝi] #gForigi #gkarton #gel #gvia #gkartaro.",
+      "[Foriri]",
+      "Elektu karton por forigi."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Pecetpusulo",
+    "DESCRIPTIONS": [
+      "Kiam vi eniras la ĉambron vi aŭdas ~gluglon~ kaj la @grincon@ de metaloj. Antaŭ vi estas ŝlima estaĵo, kiu manĝis tro da pecetoj por sia propra sano. El la mezo de la estaĵo vi ekvidas strangajn briletojn, ĉu eble io magia? Aspektas kvazaŭ vi povus akiri iom da #ytrezoro se vi povus nur mane atingi ĝin tra ĝia... truo. Tamen la acidaj kaj akraj objektoj povus #rdolorigi vin.",
+      "#r@Aj!@ NL Vi nur trovas koroditajn metalpecojn kaj iom da #r@bruldoloro.@ NL Malgraŭ tio, vi restas certa, ke estas #yrelikvo....",
+      "#gSukceso! NL Post ade serĉi tra la metalo kaj la brula acido, vi finfine ekprenas #yrelikvon kaj eltiras ĝin. NL Vi eskapas el la pusulo #rdamaĝita sed kun premio.",
+      "Vi decidas forlasi tiun lokon. NL La ŝlimo, kontenta pri ĝia manĝo, ne atentas vin."
+    ],
+    "OPTIONS": [
+      "[Atingi enen] #rPerdi #r",
+      " #rda #rvivo. #g",
+      "%: #gTrovi #grelikvon.",
+      "[Foriri]",
+      "[Pli profunden] #rPerdi #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Sekreta portalo",
+    "DESCRIPTIONS": [
+      "Antaŭ vi estas vido ŝajne ne taŭga en la fremda pejzaĝo. Strange metita en unu el la vivaj muroj de la Pretero estas enfermita ŝtona enirejo plena je #p~turbula~ #p~magia~ #p~portalo.~ NL NL Vi ne certas pri kien kondukas, sed povas esti, ke plirapidigus vian vojaĝon tra la Turego.",
+      "Kiam vi saltas tra la portalo, via sento de tempo kaj spaco tute neniiĝas. NL NL Kiam vi reorientas vin al la novaj ĉirkaŭaĵoj, vi ekkonscias, ke tuj antaŭ vi estas timiga batalego.",
+      "Prudente kaj zorge ŝajnas esti la pli bona maniero por atingi la supraĵon de la Turego. Vi ignoras la portalon kaj daŭrigas antaŭen."
+    ],
+    "OPTIONS": [
+      "[Eniri la portalon] TUJ vojaĝi al la estro.",
+      "[Foriri]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Sensila ŝtono",
+    "DESCRIPTIONS": [
+      "Kiam vi travojaĝas la Preteron, vi ektrovas #bbrilan #b4-hiperkubon, kiu @turbas@ kaj ~moviĝas~ milde en la aero.",
+      "Vi tuŝas ĝin. NL NL #r@Akra@ #r@doloro@ fluas tra vi kaj sekvas ĝin vivoveraj eroj de fora memoro. NL ...kies memoroj estas ĉi tiuj?",
+      "#r~TIMO.~ NL NL Demona estaĵo staras grandega super vi kun etenditaj flugiloj. Ĝia rido estas kvazaŭ hojlo. Kadavroj de iu tribo ĉirkaŭas vin dum la vilaĝo malaperas pro teruraj #p~malhelaj~ #p~flamoj.~ NL NL La demono elvokas kaj mokas vin. NL NL \" #r@JEN@ #r@VI@ #r@VERE@ #r@ESTAS@ #r@LA@ #r@PLEJ@ #r@FORTA!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Tiu rido eĥas eterne... ",
+      "#g~TRIUMFO.~ NL NL La restaĵoj de #p~fantoma~ #p~estaĵo,~ apenaŭ videblaj en la lunlumo, malrapide enkotiĝas antaŭ vi. Vi pruvis, ke vi meritas esti inter viaj fratinoj. NL NL Venkinte, senvorte, vi atendas dum la aliaj ceremonie metas la #ykranio #yde #yla #yestaĵo sur vian kapon. La rito finiĝis. NL NL Vi ekvojaĝas al la Turego...",
+      "#b~KONFUZO.~ NL NL #y[CELO] #gDevas #gcertigi #gBALANCON NL #y[DEKLARO] #gBALANCO NL #y[ERARO] #gBALANCO #gNE #gTROVEBLAS NL #y[DEKLARO] #gBALANCO NL #y[ERARO] #gBALANCO #gNE #gTROVEBLAS NL #y[AVERTO] #rGranda #robjekto #ralproksimiĝas NL NL ~\"Mi...~ ~..estas~ ~....Niaŭ..\"~",
+      "#p~SERENECO.~ NL NL Du primitivaj estaĵoj batalas por kadavro je la flanko de la vojo. Vi rigardas sen ajna emocio. NL #yObservu. #yMemoru. #yVivu. Jen la misio de la Observulo. NL NL Lastatempe, unu el viaj kunuloj ĉesis raporti pri sia komisio: Turego de nekonata origino. NL NL Kiam la batalo finiĝas, vi pluiras antaŭen, nemalkvietigita de la sanga sceno, kiu okazis."
+    ],
+    "OPTIONS": [
+      "[Memori] #gAldoni #g1 #gsenkoloran #gkarton #gal #gvia #gkartaro.",
+      "[Memori] #gAldoni #g2 #gsenkolorajn #gkartojn #gal #gvia #gkartaro. #rPerdi #r",
+      "[Memori] #gAldoni #g3 #gsenkolorajn #gkartojn #gal #gvia #gkartaro. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Foriri]",
+      "[Interagi]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Brila lumo",
+    "DESCRIPTIONS": [
+      "Vi trovas tremetantan #yfonton #yde #ylumo en la centro de la ĉambro. NL NL Ĝiaj ~varma~ ~brilo~ kaj ~ravaj~ ~figuroj~ invitas vin en ĝin.",
+      "Kiam vi paŝas tra la lumo, vi rimarkas, ke la lumo ensorbiĝas en vin. NL Estas #r@brule@ #r@varmege!@ Sed la doloro rapide forpasas. NL Vi sentas vin #brevigligita, kvazaŭ vi ricevis tutmeritan survangon.",
+      "Vi ĉirkaŭe preterpasas ĝin kaj demandas vin, kio povus okazi."
+    ],
+    "OPTIONS": [
+      "[Eniri] #gPlibonigi #g2 #ghazardajn #gkartojn. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Foriri]",
+      "[Ŝlosita] Postulas: pligoneblajn kartojn"
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Koro de la Turego",
+    "DESCRIPTIONS": [
+      "@fra-frap@ ... @fra-frap@ ... @fra-frap@ ... NL Profunda pulsanta maltrankvilego senteblas en la tuta ĉambro... NL Ĉu tio estas la #r~koro~ de la Turego? La fonto de ĉi tiu malbono?",
+      "Vi faras #b",
+      " da damaĝo! NL La koro #r@fortiriĝas@ kaj #r~sangas~ ... sed ja ankoraŭ batas. NL Ĉu viaj plej fortaj atakoj ne sufiĉas?",
+      "Vi demandas vin: ~\"Ĉu~ ~mi~ ~estis~ ~ĉi~ ~tie~ ~antaŭe?\"~ NL Vi sentas, ke vi faris tuton de #b",
+      " da damaĝo al la koro.",
+      " NL Tuto de #b",
+      " da damaĝo estas farita de ĉiuj, kiuj provokis ĝin.",
+      " NL La koro pulsas pli kaj pli laŭte dum via #y~konscio~ #y~fadas...~",
+      "NL Vi pretigas vian glavon...",
+      "NL Vi preparas viajn tranĉilojn...",
+      "NL Vi kiel eble plej ŝargas vian kernon...",
+      "Vi demandas vin, ~\"Ĉu~ ~mi~ ~estis~ ~ĉi~ ~tie~ ~antaŭe?\"~",
+      " NL La koro pulsas pli kaj pli laŭte dum via #p~konscio~ #p~ekfadas...~",
+      " NL Subita ekflamo de #y@energio@ eliĝas el via eno kaj #b@ekvekas@ vin.",
+      " NL La koro #gretiriĝas supren! Granda pordo malkaŝiĝas tie, kie ĝi estis.",
+      "NL Vi preparas vian vergon per dia energio..."
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Ataki] #b???",
+      "[Dormi]",
+      "[Alproksimiĝi pordon]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "La kleriko",
+    "DESCRIPTIONS": [
+      "Stranga blua humanoido kun ora kasko(?) alproksimiĝas al vi kun grandega rideto. NL @\"Saluton@ @amiko!@ Mi estas #bKleriko! Ĉu vi interesiĝas pri miaj servoj?!\" krias la estaĵo, laŭte.",
+      "Varma ora lumo envolvas vian korpon kaj foriĝas. NL La estaĵo ridetaĉas. \"Kleriko plej bona sanigisto. @Havu@ @bonan@ @tagon!\"@",
+      "Malhela blua flamo envolvas vian korpon kaj foriĝas. NL La estaĵo ridetaĉas. \"Kleriko klerega. @Havu@ @bonan@ @tagon!\"@",
+      "Vi ne fidas al ĉi tiu #b\"Kleriko\", do vi foriras."
+    ],
+    "OPTIONS": [
+      "[Resaniĝi] #y35 #yda #yoro: #gResaniĝi #g",
+      "[Ŝlosita] Postulas: ",
+      " da oro.",
+      "[Purigi] #y",
+      " #yda #yoro: #gForigi #gkarton #gel #gvia #gkartaro.",
+      "[Ŝlosita] Postulas: 50 da oro.",
+      "[Foriri]",
+      "Elektu karton por forigi.",
+      " #gda #gvivo."
+    ]
+  },
+  "The Joust": {
+    "NAME": "La ĉevalsturmo",
+    "DESCRIPTIONS": [
+      "Kiam vi preterpasas la grandajn konstruaĵojn, vi renkontas longan mallarĝan ponton kaj rimarkas kavalirojn je ambaŭ flankoj, kiuj rigardas unu al la alia. Vi alproksimiĝas... NL @\"Haltu!\"@ NL NL Per sia enorma lanco, kavaliro forte gestas, ke vi haltu.",
+      "\"Jen la tago, ke mi devas venĝi la #rmurdon de mia amita hejmbesto, #yNudeloj. Ĝis tiam, vi ne rajtas preterpasi. NL NL Kunatestanto, kial ne #bveti je kiu laŭ vi estos venkinta?\"",
+      "\"Mi ne povas kredi, ke vi vetas kontraŭ #yNudeloj!\" NL NL Furioze, li batfermas sian kaskon kaj rapidegas al sia pleja malamiko.",
+      "\"Donu al mi forton, #yNudeloj!\" NL NL Batfermante sian kaskon, la kavaliro sturmas antaŭen.",
+      "NL #y@*KRAŜ!!!*@ #r@*KLAAAANG!*@ NL NL #g@*BAM!*@",
+      "La malamiko estas venkita. NL NL ",
+      "La posedinto mortis. NL NL ",
+      "Vi #ggajnis pro la veto. Necerte kion pensi, vi prenas la gajnaĵojn kaj foriras.",
+      "Vi #rperdis la veton, sed almenaŭ lanco ne trapikis vin."
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Murdisto] #yVeti #y",
+      " #yda #yoro - #g70%: #ggajni #g",
+      " #gda #goro.",
+      "[Posedinto] #yVeti #y",
+      " #yda #yoro - #g30%: #ggajni #g",
+      "[Spekti]",
+      "[Foriri]"
+    ]
+  },
+  "The Library": {
+    "NAME": "La biblioteko",
+    "DESCRIPTIONS": [
+      "Vi trovas ornamitan konstruaĵon, kiu ŝajnas esti forlasita. NL Ŝildo, kiu estas ŝirita de muro, troviĝas sur la planko. Estas skribate sur ĝi: #b\"LA #bBIBLIOTEKO\". NL Ene, vi trovas sennombrajn vicojn de volvolibroj, manuskriptoj kaj libroj. NL Vi elektas unu kaj faras vin komforta en seĝo por iom da trankvileco.",
+      "Legado estas malŝparo de tempo. NL Anstataŭe vi ekdormas en komforta seĝo. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Vi revekiĝas pli freŝa.",
+      "La rakonto temas pri dekkelkjarulino, kiu regas insektojn kaj celas fariĝi heroo. La libro estas plena je kreema uzado de potencoj, batalstrategioj kaj diversaj perspektivoj. NL Kontentiga.",
+      "La rakonto temas pri viro, kiu vojaĝis preter la steloj kaj nun troviĝas seneskape sur dezerta fremda planedo. Genio, ŝanco, persistemo kaj humuro por reteni sian mensan sanon estis liaj nuraj iloj por reveni hejmen. NL Fascina.",
+      "La rakonto okazas en enorma izola subtera konstruaĵo, ĉar la ekstera situacio fariĝis neeltenebla. La romano superfluas je konspiroj, propogando kaj maljusteco. Vi demandas vin ĉu simile funkcias la Turego. NL Malkvietiga."
+    ],
+    "OPTIONS": [
+      "[Legi] #gElekti #g1 #gel #g20 #gkartoj #gpor #galdoni #gal #gvia #gkartaro.",
+      "[Dormi] #gResaniĝi #g",
+      " #gda #gvivo.",
+      "[Foriri]",
+      "Aldonu karton al via kartaro."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "La maŭzoleo",
+    "DESCRIPTIONS": [
+      "Kiam vi esploras serion de tombejoj, vi trovas grandan sarkofagon ~kadritan~ ~per~ ~gemoj~ en la mezo de cirkla ĉambro. NL Vi ne povas legi la skribaĵojn sur la ĉerko, sed vi ja rimarkas #p~nigran~ #p~nebulon~ elfluetantan la flankojn.",
+      "Vi malfermas la ĉerkon per puŝo. Tiam, #p~nigra~ #p~nebulo~ elondegas ĝin kaj kovras la tutan ĉambron! Ene, vi trovas ne korpon, sed nur #y~relikvon.~ Vi prenas ĝin kaj antaŭeniras dum vi #r@tusas@ #r@fortege.@",
+      "Vi malfermas la ĉerkon per puŝo. La nebulo sendanĝere forvaporiĝas. Ene, vi trovas la mortan restaĵon de medalita soldato, kiu tenas malnovan #yrelikvon. Vi ŝtelas ĝin kaj daŭrigas.",
+      "Vi daŭrigas vian vojon kaj lasas la forgesitajn mortintojn neĝenitaj."
+    ],
+    "OPTIONS": [
+      "[Malfermi ĉerkon] #gAkiri #grelikvon. #r",
+      "%: #rFariĝi #rmalbenita #r- #rBarakto.",
+      "[Foriri]"
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "La Moai-kapo",
+    "DESCRIPTIONS": [
+      "Vi hazarde renkontas ion, kiu ŝajnas *ege* netaŭga. Antaŭ vi elstaras enorma ŝtona kapo el granda murpeco, kiu ne moviĝas kaj ŝanĝiĝas kiel faras la cetero de ĉi tiu loko. NL La buŝo de la kapo estas larĝe malfermita kaj montras grandajn minacajn dentojn ruĝajn pro sango. La supraĵo de la statuo abundas je piktogramoj, kiuj ŝajnas montri homojn, kiuj ĵetas sin en la buŝon de ĉi tiu kapo kaj estas formanĝataj. Kial oni farus ion tian?",
+      "Unue kiam vi enpaŝas la buŝon de la statuo, nenio okazas. Vi komencas senti vin sufiĉe stulta kiam subite, la grandegaj molaroj batfermas desupre kaj tute maĉas vin. NL @Mallumo.@ NL Post iom da tempo vi vidas de la mallumo iun etan lumon kaj vi aŭdas ion, kiun vi baldaŭ rekonas kiel la sono de ŝtonaj dentoj, kiuj malrapide sin levas. NL NL NL Konfuza, vi foriras.",
+      "Vi iom saltas malantaŭen kiam la gigantaj molaroj batfermas sur la idolon kaj maĉas ĝin ĝis polvo. Kiam denove la dentoj ekleviĝas, elfluas #yoro el la truo. Vi ricevas multe da riĉaĵoj!",
+      "Vi foriras kaj demandas vin, kio povus okazi."
+    ],
+    "OPTIONS": [
+      "[Salti enen] #gResaniĝi #gvian #gplenan #gvivon. #rPerdi #r",
+      " #rda #rmaks. #rvivo.",
+      "[Doni: Oran idolon] #gGajni #g333 #gda #goro. #rPerdi #rOran #ridolon.",
+      "[Ŝlosita] Postulas: Oran idolon.",
+      "[Foriri]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "La bluvestulino",
+    "DESCRIPTIONS": [
+      "El la mallumo, brako tiras vin en etan butikon. Kiam viaj okuloj alkutimiĝas, vi vidas palan virinon en severaj vestaĵoj, kiu gestas al muro de pocioj. NL \"Aĉetu pocion. Tuj!\" ŝi deklaras.",
+      "\"Bone. Foriru.\" NL Vi eliras la butikon singarde.",
+      "#r@KRAŜ@ NL Ŝia gantita pugno ektrafegas vian vizaĝon kaj preskaŭ faligas vin. NL \"Eliru aŭ mi kovros la plankon per viaj internaĵoj.\" Vi kredas ŝin kaj eliras kun viaj internaĵoj sekure en via korpo."
+    ],
+    "OPTIONS": [
+      "[Aĉeti 1 pocion] #y",
+      "[Aĉeti 2 pociojn] #y",
+      "[Aĉeti 3 pociojn] #y",
+      " #yda #yoro.",
+      "[Foriri]",
+      "[Foriri] #rPreni #r",
+      " #rda #rdamaĝo."
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Pensi per flakoj",
+    "DESCRIPTIONS": [
+      "Vi paŝas en tremantan flakon... kaj vi falas el la plafono tuj supra! NL Dum vi falas, vi konsideras viajn elektojn.",
+      "Panike, vi freneze svingas la brakojn kaj uzas ĉiujn viajn kaŝitajn kapablojn por eviti kontuzon. Anstataŭe vi falas en la flakon denove... kaj denove... kaj denove. Tagoj preterpasas antaŭ ol vi ekkomprenas kiel eliri. Mizerega.",
+      "Vi preparas kontraŭ la surteriĝo, sed simple ne estas bona maniero surteriĝi el tia strangega situacio. @KRAŜ@ NL NL ...vi kuŝas tie dum iom da tempo kaj malbenas la ekziston de flakoj kaj likvaj kaj magiaj."
+    ],
+    "OPTIONS": [
+      "[Ŝlimigita] #rPerdi #rhazardan #rmaloftan #rkarton.",
+      "[Surteriĝi per la vizaĝo] #rPreni #r",
+      " #rda #rdamaĝo. #rFariĝi #rmalbenita #r- #rKontuzo.",
+      "[Foriri]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Tombejo de lordo Ruĝa Masko",
+    "DESCRIPTIONS": [
+      "Ege garnita tombejo videblas je la alia flanko de ŝvebanta pado. Kiam vi atingas la tombejon, vi rimarkas ingon por #yoraj moneroj kun gratskribitaĵo supera.",
+      "Vi surmetas la maskon kaj la tombejo komencas ~dispeciĝi...~ jen sekreta pasejo! NL NL La pasejo kadritas per sennombraj ŝtelitaĵoj kaj amasoj da #yoro!",
+      "Truo aperas en la tombejo kaj el ĝi glitas etan ruĝan maskon kunligita kun noto. \"Prenu de aliuloj kiel mi prenis de vi!\""
+    ],
+    "OPTIONS": [
+      "[Surmeti la Ruĝan maskon] #gGajni #g222 #gda #goro.",
+      "[Ŝlosita] Postulas: Ruĝan maskon.",
+      "[Doni: ",
+      " da oro] #rPerdi #rĉiom #rda #rvia #roro. #gAkiri #grelikvon.",
+      "[Foriri]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Aliformigilo",
+    "DESCRIPTIONS": [
+      "Antaŭ vi troviĝas detala preĝejo al forgesita spirito.",
+      "Kiam la potenco de la preĝejo trafluas vin, via menso sentas malsame.",
+      "Vi ignoras la preĝejon."
+    ],
+    "OPTIONS": [
+      "[Preĝi] #gTransformi #gkarton.",
+      "[Foriri]",
+      "Elektu karton por transformi."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Plibonigita preĝejo",
+    "DESCRIPTIONS": [
+      "Antaŭ vi troviĝas detala preĝejo al forgesita spirito.",
+      "La energio de la preĝejo fluas en vin kaj faras vin pli forta.",
+      "Vi ignoras la preĝejon."
+    ],
+    "OPTIONS": [
+      "[Preĝi] #gPlibonigi #gkarton.",
+      "[Foriri]",
+      "Elektu karton por plibonigi.",
+      "[Ŝlosita] Postulas: plibonigeblajn kartojn"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Vampiroj(?)",
+    "DESCRIPTIONS": [
+      "Kiam vi travojaĝas senluman straton, vi renkontas plurajn personojn kun kapuĉoj, kiuj estas farantaj iun malluman riton. Kiam vi alproksimiĝas, ili turniĝas al vi tremige sinkrone. La plej alta el ili montras kojnajn dentojn kaj etendas longan palan manon al vi. NL ~\"Aniĝu~ ~frato,~ ~kaj~ ~sentu~ ~la~ ~varmon~ ~de~ ~la~ ~Turego.\"~",
+      "Kiam vi travojaĝas senluman straton, vi renkontas plurajn personojn kun kapuĉoj, kiuj estas farantaj iun malluman riton. Kiam vi alproksimiĝas, ili turniĝas al vi tremige sinkrone. La plej alta el ili montras kojnajn dentojn kaj etendas longan palan manon al vi. NL ~\"Aniĝu~ ~fratino,~ ~kaj~ ~sentu~ ~la~ ~varmon~ ~de~ ~la~ ~Turego.\"~",
+      "La altulo prenas vian brakon, tiras vin antaŭen kaj enigas siajn dentojn en vian kolon. Vi sentas @malluman@ @potencon@ enflui vian kolon kaj @trapasi@ vian korpon. NL ... NL Vi vekiĝas post iom da tempo, sola. Intensa ~malsato~ trairas vian ventron. Vi #rdevas #rnutri #rvin...",
+      "Vi paŝas malantaŭen kaj levas vian armilon kuraĝe. La altulo elspiras. \"Bone.\" La tuta grupo de kapuĉuloj fariĝas densa nigra nebulo, kiu forfluas de vi. NL Vi estas sola denove.",
+      "La palaj personoj spiregas kiam vi elprenas la #ySangoboteleton. NL ~\"La~ ~sango~ ~de~ ~la~ ~mastro...~ ~la~ ~sango~ ~de~ ~la~ ~mastro!~ @LA@ @SANGO@ @DE@ @LA@ @MASTRO!\"@ NL Ili ĉiuj ĉantas fervore dum la plej alta klinas sin antaŭ vi. \"Trinku Lian sangon, kaj unuiĝu kun #y~Li.\"~ NL La ĉanto plilaŭtiĝas kiam vi trinkas la enhavon de la boteleto. Via vido tuj ~tordiĝas~ kaj malheliĝas. NL NL Vi vekiĝas post iom da tempo, sola. You wake up some time later, alone. Intensa ~malsato~ trairas vian ventron. Vi #rdevas #rnutri #rvin.",
+      "Kiam vi travojaĝas senluman straton, vi renkontas plurajn personojn kun kapuĉoj, kiuj estas farantaj iun malluman riton. Kiam vi alproksimiĝas, ili turniĝas al vi tremige sinkrone. La plej alta el ili montras kojnajn dentojn kaj etendas longan palan manon al vi. NL ~\"Aniĝu~ ~rompito,~ ~kaj~ ~sentu~ ~la~ ~varmon~ ~de~ ~la~ ~Turego.\"~"
+    ],
+    "OPTIONS": [
+      "[Akcepti] #gForigi #gĉiujn Batojn. #gRicevi #g5 Mordojn. #rPerdi #r",
+      " #rda #rmaks. #rvivo.",
+      "[Malakcepti]",
+      "[Perdi ",
+      "] #gForigi #gĉiujn Batojn. #gRicevi #g5 Mordojn.",
+      "[Foriri]"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Rado de ŝanĝo",
+    "DESCRIPTIONS": [
+      "Vi trovas netaspektan, gajan gremlinon. NL \"Estas tempo por turni la radon! Ĉu vi ~P~ ~R~ ~E~ ~T~ ~A~ ~S~ ~?~ Kompreneble ja!\"",
+      "\"Vi gajnas iom da #yORO! NL JEJ!!!!\"",
+      "\"Ha, #gdonacon! NL Ĝuu ĝin!\"",
+      "\"Hooo, senkosta #gresaniĝo por vi!\"",
+      "\"Ŝajne vi gajnis #pmalbenon! NL Tio ne estas bona. NL Nu! Eble sekvontfoje vi havos pli da fortuno!\"",
+      "\"Hoo, la potendo de #r~mallumo...~ NL Elektu karton por forigi el via kartaro!\"",
+      "\"Ho ve! NL Vi malgajnas!\" NL Vi rimarkas, ke li pretigas pikilon...",
+      "Vi svingas al la freneza gremlino, sed li simple estas tro rapida! NL Li trafas vin kelkajn fojojn per kruda pikilo. NL \"La prezo estas pagita!!\" NL kaj subite kaj la gremlino kaj la rado malaperas per iom da fumo."
+    ],
+    "OPTIONS": [
+      "[Ludi]",
+      "[Premio!] JEJ!!!!",
+      "[Premio!] #gAkiri #grelikvon.",
+      "[Premio!] #gResaniĝi #gvian #gplenan #gvivon.",
+      "[Premio?] #rMalbeno #r- #rPutro.",
+      "[Premio!] #gForigi #gkarton #gel #gvia #gkartaro.",
+      "[Premio?] #rPerdi #r",
+      " #rda #rvivo.",
+      "[Foriri]",
+      "Elektu karton por forigi."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Turnemaj koridoroj",
+    "DESCRIPTIONS": [
+      "Kiam vi malrapide grimpas la turnemajn koridorojn, vi sentadas, ke vi perdas vian vojon, ĉar la muroj kaj grundo ŝajnas neklarigeble moviĝi antaŭ vi. NL NL Ankaŭ la daŭraj #p~flustraj~ #p~voĉoj~ en via kapo tute ne helpas.",
+      "Kiam vi preterpasas konstruaĵon, pri kiu vi certas, ke vi vidis ĝin antaŭe, vi ekdemandas vin ĉu vi freneziĝas, aŭ ĉu la neebla strukturo de ĉi tiu loko simple konfuzas vin. Vi bezonas baldaŭ ŝanĝi ion. NL NL Almenaŭ tion diras la #p~voĉoj,~ kaj tiuj certe ne mensogus, ĉu?",
+      "Io en vi rompiĝas. NL NL Nur tiuj, kiuj estas ege frenezaj, povas kompreni ĉi tian lokon, do vi akceptas la klaĉemajn voĉojn kaj daŭrigas per #p~\"nova\"~ perspektivo. NL Ĉio nun ŝajnas havi multe pli da senco.",
+      "Kiam vi haltas dum momento kaj zorge rigardas al la ondoforma pejzaĝo ĉirkaŭ vi, ekaperas eta reguleco el la hazardaĵoj. Ĉiam, kiam la psikozaj sonoj ekas interrompi viajn pensojn, vi baraktas kontraŭ la mensa doloro kaj ignoras ĝin. NL NL Finfine vi sukcese trovas vojon antaŭen kaj daŭrigas, nun rezista kontraŭ la malica karaktero de ĉi tiu fremda loko.",
+      "Vi pasigas ŝajne eternon serĉi eliron el la labirinto. Ege malrapide, vi sukcesas repaŝi laŭ via vojo, reorientiĝas kaj trovas vojon el la tordajn koridorojn. NL NL Vi sentas vin #r~lacega~ pro la sperto."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Enlasi frenezecon] #gRicevi #g2 #gda Frenezeco. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Atentegi] #rFariĝi #rmalbenita #r- #rBarakto. #gResaniĝi #g",
+      "[Foriri]",
+      " #gda #gvivo.",
+      "[Repaŝi laŭ via vojo] #rPerdi #r",
+      " #rda #rmaks. #rvivo."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Mondo de koto",
+    "DESCRIPTIONS": [
+      "Vi falas en flakon. NL @ĜI@ @ESTAS@ @EL@ #g@ŜLIMA@ #g@KOTO!!@ NL Vi furioze penas eltiri vin dum pluraj minutoj kaj dum vi sentas, ke la koto ekvundas vin. NL Vi sentas koton en la oreloj, koton en la nazo, koton ĉie. NL NL Kiam vi elgrimpas, vi rimarkas, ke iom da via #yoro mankas. Kiam vi rerigardas al la flako, vi vidas, ke viaj moneroj kunvenis kun #yoro de malbonŝancaj aventuristoj en la flako.",
+      "Vi sentas la pikon de la koto dum la daŭra tuŝado komencas forbruli vian haŭton. Tamen, vi sukcesas elpreni la #yoron.",
+      "Vi decidas, ke vi bezonus pli da pago por reeniri tiun fiaĵon."
+    ],
+    "OPTIONS": [
+      "[Kolekti oron] #gGajni #g",
+      " #gda #goro. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Lasi tion] #rPerdi #r",
+      " #rda #roro.",
+      "[Foriri]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mensflorado",
+    "DESCRIPTIONS": [
+      "Dum vi paŝas kaj trairas la ĥaoson de la Turego, viaj pensoj subite eksentas tre... #p~realaj...~ NL NL Imagoj de #rmonstroj kaj #yriĉaĵoj komencas manifestas sin en la reala mondo. NL La sento rapide foriĝas. Kion vi faros?",
+      "Ĉu vere povas esti tiel facile?",
+      "Ĉio nun havas sencon. NL La manko de memoroj, la leviĝo, la #yAntikvulo. NL NL Jen kiel aferoj ĉiam estis. NL Jen kiel aferoj ĉiam estos. NL Ĉio baldaŭ denove estos forgesita..."
+    ],
+    "OPTIONS": [
+      "[Mi estas Milito] #rBatali #restron #rde #rAkto #r1. #gAkiri #gmaloftan #grelikvon.",
+      "[Mi estas Riĉa] #gGajni #g999 #gda #goro. #rMalbenita #r- #r2 #rda #rNormaleco.",
+      "[Mi estas Sana] #gResaniĝi #gvian #gplenan #gvivon. #rMalbenita #r- #rDubo.",
+      "[Mi estas Veka] #gPlibonigi #gĉiujn #gkartojn. #rVi #rne #rplu #rpovas #rresaniĝi.",
+      "[Foriri]"
+    ]
+  },
+  "Nest": {
+    "NAME": "La nesto",
+    "DESCRIPTIONS": [
+      "Videblas longa vico de #b~kapuĉuloj,~ kiuj eniras NL #psenpretendan #pkatedralon.",
+      "Kompreneble, vi decidas resti en la vico kaj baldaŭ estas ĉirkaŭata de #rKultistoj! NL Ili ne atentas pri vi sed gaje @ĉantas@ kaj ~svingas~ siajn armilojn. NL NL #r@\"MURDO!!@ #r@MURDO@ #r@MURDO!!\"@ NL #b~\"KAA~ #b~KAA~ #b~KAAAAAAAA!\"~ NL #r@\"MURDO!@ #r@MURDO@ #r@MURDOO!!\"@ NL #b~\"KAAA~ #b~KAA~ #b~KAAAAAAAA!!\"~ NL NL Vi okulumas #ydonacoskatolon...",
+      "Vi decidas resti en la vico (pro timo) por vidi kio okazos. NL NL Finfine, vi alrigardas la estron. Nete vestita kultisto donas al vi #yornamitan #ytranĉilon. Kiel la aliaj antaŭ vi, vi tranĉas la antaŭbrakon kaj lasas la sangon guti en misformitan bovlon. NL NL La kultistoj @ĉantas@ kaj @krias@ por vi! NL NL #b~\"KAAA~ #b~KAA~ #b~KAAAAAAAA!!\"~ NL NL Ankaŭ vi ĉantas. Kial ne?",
+      "Ili eĉ ne rimarkis.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Resti en la vico] #gAkiri Ritan tranĉilon. #rPerdi #r",
+      " #rda #rvivo.",
+      "[Frakasi kaj preni] #gAkiri #g",
+      " #gda #goro.",
+      "[Foriri]",
+      "[Daŭrigi]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Vizaĝkomercisto",
+    "DESCRIPTIONS": [
+      "Vi preterpasas tremigan statuon, kiu tenas plurajn maskojn... NL Io malantaŭ vi mallaŭte flustras: NL ~\"Haltu.\"~",
+      "Vi turniĝegas por kontraŭstari la statuon, kiu nun rigardas al vi! NL Kiam vi rigardas pli bone, iĝas klare, ke ne estas statuo sed statua, maldika viro. Ĉu li eĉ spiras? NL NL ~\"Vizaĝon.~ ~Lasu~ ~min~ ~tuŝi?~ ~Eble~ ~komerci?\"~",
+      "~\"Kompenson?~ ~Kompenson.\"~ NL Mekanike, li aperigas netan stakon de #yoro kaj metas ĝin en vian sakon. NL NL ~\"Kia~ ~bona~ ~vizaĝo.~ ~Bona~ ~vizaĝo.\"~ NL Dum li tuŝas vian vizaĝon, vi spertas la senton de via vivo eliĝi ĝin! NL Dume, lia masko defalas kaj frakasiĝas. Kriegante, li rapide kovras sian vizaĝon per ĉiuj ses brakoj kaj tiel faligas eĉ pli da maskoj! Dum la kriado kaj la frakasiĝado, vi forkuras. NL NL Lia vizaĝo estis tute malplena.",
+      "~\"Por~ ~mi?~ @POR@ @MI?@ ~Ho~ ~jes..~ ~Jes.~ ~Jes..~ ~mmm...\"~ NL NL Vi vidas ekmoviĝon de unu el liaj brakoj kaj via vizaĝo estas en lia mano! Via vizaĝo estis interŝanĝita. NL NL ~\"Bona~ ~vizaĝo.~ ~Bona~ ~vizaĝo.\"~",
+      "~\"Haltu.~ ~Haltu.~ ~Haltu.~ ~Haltu.~ ~Haltu.\"~ NL NL Verŝajne estis la ĝusta elekto."
+    ],
+    "OPTIONS": [
+      "[Tuŝi] #rPerdi #r",
+      " #gda #goro.",
+      "[Komerci] #g50%: #gBonan #gvizaĝon. #r50%: #rMalbonan #rvizaĝon.",
+      "[Foriri]",
+      "[Daŭrigi]",
+      " #rda #rvivo, #ggajni #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "Noto de vi",
+    "DESCRIPTIONS": [
+      "Vi rimarkas malfirman brikon en kolono, kiu kaptas vian atenton.",
+      "Vi trovas falditan noton kaj #ykarton ene. Estas skribite: NL \"La Koro atendas.\" NL NL Estas via skribkaraktero.",
+      "Elektu karton por konservi.",
+      "Kio okazas?"
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Preni kaj doni] #gRicevi ",
+      " #gkaj #gkonservi #gkarton.",
+      "[Ignori]",
+      "[Foriri]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "Jen vi denove!",
+    "DESCRIPTIONS": [
+      "\"Jen vi denove!\" NL Gaja malorda ulo alproksimiĝas vin bonhumore. Vi ne konas tiun viron. NL NL \"Estas mi, #yRanwid! Ĉu vi havas ion por mi hodiaŭ? La kutimaj aferoj? Iu kiel mi ne povas travivi sole, vi komprenas.\" NL Vi okulumas lin suspekteme kaj konsideras viajn elektojn...",
+      "\"Ravega! Sentis min soifega.\" NL #b~Glut~ #b~glut~ #b~glut~ NL NL Li trinkas la pocion tuj kaj ellasas kontentan @rukton.@",
+      "\"Grandioze! Tio estos sufiĉe utila se mi denove renkontas tiujn #rbanditojn #ren #rmaskoj.\"",
+      "\"Mirinde! Mi pristudos ĉi tion plu en miaj ĉambroj.\"",
+      "\" @Aaaaaaĥĥ!!@ Kia aĉulo vi estas fojfoje!\" NL Li forkuras.",
+      "  NL NL Li traserĉas siajn diversajn poŝojn... NL \"Jen, rigardu kion mi havas por vi hodiaŭ! Prenu prenu prenu!\""
+    ],
+    "OPTIONS": [
+      "[Doni pocion] #rPerdi ",
+      "[Ŝlosita] Postulas: pocion.",
+      "[Doni oron] #rPerdi #r",
+      "[Ŝlosita] Postulas: almenaŭ 50 da oro.",
+      "[Doni karton] #rPerdi ",
+      "[Ŝlosita] Postulas: karton.",
+      ". #gAkiri #grelikvon.",
+      "[Ataki]",
+      "[Foriri]",
+      " #rda #roro"
+    ]
+  },
+  "Designer": {
+    "NAME": "Tuj-Reĝo en la turego",
+    "DESCRIPTIONS": [
+      "Vi renkontas #g~buntan~ butikon kun la rubando \"TUJ-REĜO\" kaj eniras por vidi kio estas. NL \"Ne, certe ne. Ne. Ne povas lasi vin eniri!\" NL NL Viro kun ridindaj vestaĵoj aperas ĉe la enirejo por bloki vin.",
+      "\"Tio ne eblas, ne ne. Kio estas tiu stilo? @Abomena!@ Ĉu vi #rsangaaaaas? #p~Fiii.~ @Komerco??@ Vi kliento? Nu. ~Mi~ ~fajfaaas.\"~ NL Li ellasas troan elspiron kaj indikas liston de servoj. NL NL La servoj ŝajnas bonaj, sed vi preferas pugni ĉi tiun memkontentulo en sian memkontentan vizaĝon.",
+      "\"Bone, ĝis laaa.\" NL NL ...devis pugni lin.",
+      "Vi pugnas lin tiel forte, ke la pugno vin doloras. NL \"Mia @VIZAĜ'!!@ Nun mi devos-\" NL NL Li svenis. Kiu nun #p~fiiiie~ #rsangaaaas?"
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Alĝustigi] #rPerdi #r",
+      "[Netigi] #rPerdi #r",
+      "[Plena servo] #rPerdi #r",
+      "[Pugni] #rPerdi #r",
+      " #rda #rvivo.",
+      " #rda #roro. ",
+      "#gPlibonigi #g",
+      " #ghazardajn #gkartojn.",
+      "#gPlibonigi #gkarton.",
+      "#gForigi #gkarton.",
+      "#gTransformi #g",
+      " #gkartojn.",
+      "#gForigi #gkarton #gkaj #gplibonigi #ghazardan #gkarton.",
+      "[Foriri]",
+      "Elektu karton por plibonigi",
+      "Elektu 2 kartojn por transformi",
+      "Elektu karton por forigi"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "La koloseo",
+    "DESCRIPTIONS": [
+      "@Bat!!!@ NL .. NL ...... NL ... NL ~Oni~ ~senkonsciigis~ ~vin...~",
+      "~Ŝanceliĝema~ kaj kun la kapo @pulsanta,@ vi vekiĝas meze de enorma stadiono kun trogranda spektantaro de #bSklavistoj, #pKultistoj kaj aliaj enloĝantoj de la Urbo! NL ",
+      " NL Giganto en armaĵo kun #yora #ykrono muĝas al vi de supre: NL @\"JEN@ @KOMENCIĜAS@ @LA@ @",
+      "-A@ @BATALO!!!!\"@ NL Pordego je la alia flanko malfermiĝas...",
+      "@\"BONE@ @FARITE,@ @MALFORTULO!\"@ NL La giganto falsklapas dum li entuziasmigas la homamaso per troaj gestoj. NL #y~Oro~ ~kaj~ #y~konfetoj~ ~falas~ ~sur~ ~vin!~ NL @\"FINFINE@ @LA@ @VERA@ @DEFIO!!\"@ NL NL La lasta batalo lasis etan truon en la muro de la koloseo, do vi povas facile forkuri tra tiu dum ĉiu estas distrata. NL Ĉu vi restos kaj batalos?"
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Batali]",
+      "[MALKURAĜO] Eskapi.",
+      "[VENKO] Batalego por multaj premioj."
+    ]
+  }
+}

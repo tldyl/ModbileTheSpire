@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "올스타",
+    "DESCRIPTION": "무작위 무색 카드 5장을 얻고 시작합니다."
+  },
+  "Binary": {
+    "NAME": "양자택일",
+    "DESCRIPTION": "카드 보상에서 3장이 아닌 2장의 카드 중에서 선택하게 됩니다."
+  },
+  "Blight Chests": {
+    "NAME": "역병의 상자",
+    "DESCRIPTION": "무한 모드에서 3막 이후 등장하는 보스 상자에 역병이 들어있습니다."
+  },
+  "Blue Cards": {
+    "NAME": "파랑 카드",
+    "DESCRIPTION": "카드 보상과 상점에서 파랑 카드가 나타납니다."
+  },
+  "Brewmaster": {
+    "NAME": "[폐기됨] 양조 장인",
+    "DESCRIPTION": "연금 카드 5장, 하얀 짐승 석상 유물을 가진 채 시작합니다."
+  },
+  "Careless": {
+    "NAME": "덜렁댐",
+    "DESCRIPTION": "매 턴 시작 시, 뽑을 카드 더미 맨 위의 카드 한 장을 버립니다."
+  },
+  "Chimera": {
+    "NAME": "키메라",
+    "DESCRIPTION": "모든 캐릭터를 섞은 스타팅 덱을 들고 시작합니다."
+  },
+  "Colorless Cards": {
+    "NAME": "무색 카드",
+    "DESCRIPTION": "무색 카드가 좀 더 자주 나타납니다."
+  },
+  "ControlledChaos": {
+    "NAME": "통제된 혼돈",
+    "DESCRIPTION": "얼어붙은 눈을 들고 시작합니다. 턴이 시작될 시, 무작위 카드 10장을 뽑을 카드 더미 맨 밑에 둡니다."
+  },
+  "Cursed Run": {
+    "NAME": "저주받은 도전",
+    "DESCRIPTION": "보스를 처치할 때마다 저주를 받습니다. 시작 유물이 저주받은 열쇠, 흑옥 부적, 저주 인형으로 교체됩니다."
+  },
+  "Daily Mods": {
+    "NAME": "일일 모드들",
+    "DESCRIPTION": "정확히 3개의 무작위 일일 도전 모드가 적용된 상태로 도전합니다."
+  },
+  "DeadlyEvents": {
+    "NAME": "위험천만한 이벤트",
+    "DESCRIPTION": "? 방에 이제 엘리트가 등장할 수 있게 되지만 보물 방이 등장할 확률이 증가합니다."
+  },
+  "Diverse": {
+    "NAME": "다양성",
+    "DESCRIPTION": "플레이하는 캐릭터와 상관없이 모든 카드가 등장합니다."
+  },
+  "Draft": {
+    "NAME": "드래프트",
+    "DESCRIPTION": "시작 덱 15장을 직접 만듭니다."
+  },
+  "Elite Swarm": {
+    "NAME": "나 이런 사냥꾼이야",
+    "DESCRIPTION": "엘리트가 첨탑에 바글거리며 더 좋은 보상을 줍니다."
+  },
+  "Endless": {
+    "NAME": "무한",
+    "DESCRIPTION": "승리할 시 동일한 덱을 지니고 1막으로 돌아갑니다. 하지만 조심하세요, 역병은 결국 모든 것을 집어삼킬 것입니다..."
+  },
+  "Flight": {
+    "NAME": "비행",
+    "DESCRIPTION": "이동할 다음 방을 선택할 때 경로를 무시할 수 있습니다."
+  },
+  "Green Cards": {
+    "NAME": "초록 카드",
+    "DESCRIPTION": "카드 보상과 상점에서 초록 카드가 나타납니다."
+  },
+  "Heirloom": {
+    "NAME": "가보",
+    "DESCRIPTION": "무작위 유물 1개를 얻고 시작합니다."
+  },
+  "Hoarder": {
+    "NAME": "저장 강박증",
+    "DESCRIPTION": "덱에 카드를 추가할 때마다, 두 장 더 복사해서 가져옵니다. 상점에서 카드를 제거할 수 없습니다."
+  },
+  "Inception": {
+    "NAME": "인셉션",
+    "DESCRIPTION": "시작 유물이 멈추지 않는 팽이로 대체됩니다."
+  },
+  "Insanity": {
+    "NAME": "정신 이상",
+    "DESCRIPTION": "50장의 무작위 카드로 구성된 덱으로 시작합니다."
+  },
+  "IntelligentEnemies": {
+    "NAME": "똑똑한 적",
+    "DESCRIPTION": "모든 적들이 더 난이도 있는 행동 패턴과 능력치를 지닙니다."
+  },
+  "Lethality": {
+    "NAME": "양날의 검",
+    "DESCRIPTION": "전투 시작 시, 힘을 3 얻습니다. 전투 시작 시, 모든 적이 힘을 3 얻습니다."
+  },
+  "Midas": {
+    "NAME": "마이더스",
+    "DESCRIPTION": "적 처치시 골드를 2배 추가로 얻지만 더 이상 모닥불에서 재련을 할 수 없습니다."
+  },
+  "MonsterHunter": {
+    "NAME": "콜로서스",
+    "DESCRIPTION": "적들의 HP가 증가하지만 보상의 질이 상승합니다."
+  },
+  "My True Form": {
+    "NAME": "내 진정한 모습",
+    "DESCRIPTION": "악마의 형상, 유령의 형상, 메아리의 형상, 천신의 형상이 주어진 채로 시작합니다."
+  },
+  "NeowTime": {
+    "NAME": "니오우 타임",
+    "DESCRIPTION": "니오우에게서 보상 3개와 역병 1개를 받습니다."
+  },
+  "Night Terrors": {
+    "NAME": "밤의 공포",
+    "DESCRIPTION": "모닥불에서 휴식하면 체력이 100% 회복되지만, 최대 체력이 5 감소됩니다."
+  },
+  "One Hit Wonder": {
+    "NAME": "일촉즉발",
+    "DESCRIPTION": "최대 체력이 1인 상태로 시작합니다."
+  },
+  "Praise Snecko": {
+    "NAME": "스네코 만세",
+    "DESCRIPTION": "시작 유물이 스네코의 눈으로 대체됩니다."
+  },
+  "Purple Cards": {
+    "NAME": "보라 카드",
+    "DESCRIPTION": "카드 보상과 상점에서 보라 카드가 나타납니다."
+  },
+  "Red Cards": {
+    "NAME": "빨강 카드",
+    "DESCRIPTION": "카드 보상과 상점에서 빨강 카드가 나타납니다."
+  },
+  "SealedDeck": {
+    "NAME": "봉인된 덱",
+    "DESCRIPTION": "무작위 카드 30장으로 덱을 구성합니다."
+  },
+  "Shiny": {
+    "NAME": "빛나는 것이 좋아",
+    "DESCRIPTION": "시작 덱이 모든 희귀 카드가 1장씩 있는 덱으로 변경됩니다."
+  },
+  "Specialized": {
+    "NAME": "전문화",
+    "DESCRIPTION": "무작위 카드 한 종류를 5장 가진 채 시작합니다."
+  },
+  "Starter Deck": {
+    "NAME": "스타터 덱",
+    "DESCRIPTION": "부서진 왕관이 주어지고 양자택일 모드가 적용됩니다. 적들이 카드 보상을 주지 않습니다."
+  },
+  "Stunted Growth": {
+    "NAME": "억제된 성장",
+    "DESCRIPTION": "무한 모드에서 3막 이후로 적들이 카드 보상을 주지 않습니다."
+  },
+  "Terminal": {
+    "NAME": "불치병",
+    "DESCRIPTION": "새로운 방에 입장할 때마다, 최대 체력을 1 잃습니다. 전투 시작 시, 판금 갑옷을 5 얻습니다."
+  },
+  "The Ending": {
+    "NAME": "엔딩",
+    "DESCRIPTION": "마지막 막을 활성화합니다."
+  },
+  "Time Dilation": {
+    "NAME": "시간 팽창",
+    "DESCRIPTION": "모든 적이 둔화 디버프를 가진 채로 시작합니다."
+  },
+  "Uncertain Future": {
+    "NAME": "확실한 미래",
+    "DESCRIPTION": "지도에 단 하나의 길만 존재합니다."
+  },
+  "Vintage": {
+    "NAME": "빈티지",
+    "DESCRIPTION": "일반 적들의 보상으로 카드가 아닌 유물을 받습니다."
+  }
+}

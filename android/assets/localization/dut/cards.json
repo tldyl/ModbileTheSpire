@@ -1,0 +1,1886 @@
+{
+  "A Thousand Cuts": {
+    "NAME": "Duizend Sneden",
+    "DESCRIPTION": "Telkens als je een kaart speelt, richt !M! schade aan op ALLE vijanden."
+  },
+  "Accuracy": {
+    "NAME": "Nauwkeurigheid",
+    "DESCRIPTION": "*Messen richten !M! meer schade aan."
+  },
+  "Acrobatics": {
+    "NAME": "Acrobatiek",
+    "DESCRIPTION": "Trek !M! kaarten. NL Leg 1 kaart af."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenaline",
+    "DESCRIPTION": "Krijg [G]. NL Trek 2 kaarten. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Krijg [G] [G]. NL Trek 2 kaarten. NL Put-uit."
+  },
+  "After Image": {
+    "NAME": "Nabeeld",
+    "DESCRIPTION": "Telkens als je een kaart speelt, krijg 1 Blok.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Telkens als je een kaart speelt, krijg 1 Blok."
+  },
+  "Aggregate": {
+    "NAME": "Aggregaat",
+    "DESCRIPTION": "Krijg [B] voor iedere !M! kaarten in je trekstapel."
+  },
+  "All For One": {
+    "NAME": "Allen voor Een",
+    "DESCRIPTION": "Richt !D! schade aan. Stop alle kosten 0 kaarten van je aflegstapel in je hand."
+  },
+  "All Out Attack": {
+    "NAME": "Groot Offensief",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Leg 1 kaart willekeurig af."
+  },
+  "Allocate": {
+    "NAME": "Allocatie",
+    "DESCRIPTION": "Krijg !M! Focus. NL Verlies 1 Sterkte. NL Verlies 1 Behendigheid."
+  },
+  "Amplify": {
+    "NAME": "Versterken",
+    "DESCRIPTION": "In deze beurt, wordt je volgende Kracht kaart tweemaal gespeeld.",
+    "UPGRADE_DESCRIPTION": "In deze beurt, worden je volgende !M! Kracht kaarten tweemaal gespeeld."
+  },
+  "Anger": {
+    "NAME": "Woede",
+    "DESCRIPTION": "Richt !D! schade aan. NL Voeg een kopie van deze kaart toe aan je aflegstapel."
+  },
+  "Apotheosis": {
+    "NAME": "Apotheose",
+    "DESCRIPTION": "Upgrade ALLE kaarten voor de rest van het gevecht. NL Put-uit."
+  },
+  "Armaments": {
+    "NAME": "Bewapening",
+    "DESCRIPTION": "Krijg !B! Blok. NL Upgrade een kaart in je hand voor de rest van het gevecht.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Upgrade ALLE kaarten in je hand voor de rest van het gevecht."
+  },
+  "AscendersBane": {
+    "NAME": "Bestijgers Verderf",
+    "DESCRIPTION": "Onspeelbaar. NL Etherisch. NL Kan niet uit je stok worden verwijderd."
+  },
+  "Auto Shields": {
+    "NAME": "Automatische Schilden",
+    "DESCRIPTION": "Als je geen Blok hebt, krijg !B! Blok."
+  },
+  "Axe Kick": {
+    "NAME": "Bijlschop",
+    "DESCRIPTION": "Richt !D! schade aan. NL Roep je volgende Bol op."
+  },
+  "Backflip": {
+    "NAME": "Achterwaartse salto",
+    "DESCRIPTION": "Krijg !B! Blok. NL Trek 2 kaarten."
+  },
+  "Backstab": {
+    "NAME": "Ruggesteek",
+    "DESCRIPTION": "Aangeboren. NL Richt !D! schade aan. NL Put-uit."
+  },
+  "Ball Lightning": {
+    "NAME": "Balbliksem",
+    "DESCRIPTION": "Richt !D! schade aan. Kanaliseer !M! Bliksem."
+  },
+  "Bandage Up": {
+    "NAME": "Verband Opleggen",
+    "DESCRIPTION": "Genees !M! LP. NL Put-uit."
+  },
+  "Bane": {
+    "NAME": "Verderf",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de vijand Gif heeft, richt nogmaals !D! schade aan."
+  },
+  "Barrage": {
+    "NAME": "Spervuur",
+    "DESCRIPTION": "Richt !D! schade aan voor elke Gekanaliseerde Bol."
+  },
+  "Barricade": {
+    "NAME": "Barricade",
+    "DESCRIPTION": "Blok wordt niet verwijderd aan het begin van je beurt."
+  },
+  "Bash": {
+    "NAME": "Dreun",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Kwetsbaar toe."
+  },
+  "Battle Trance": {
+    "NAME": "Gevechtstrance",
+    "DESCRIPTION": "Trek !M! kaarten. NL Je kunt geen extra kaarten trekken deze beurt."
+  },
+  "Beam Cell": {
+    "NAME": "Straalcel",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Kwetsbaar toe."
+  },
+  "Berserk": {
+    "NAME": "Woest",
+    "DESCRIPTION": "Krijg !M! Kwetsbaar. NL Aan het begin van je beurt, krijg [R]."
+  },
+  "Biased Cognition": {
+    "NAME": "Bevooroordeelde Cognitie",
+    "DESCRIPTION": "Krijg !M! Focus. NL Aan het begin van je beurt, verlies 1 Focus."
+  },
+  "Bite": {
+    "NAME": "Beet",
+    "DESCRIPTION": "Richt !D! schade aan. NL Genees !M! LP."
+  },
+  "Blade Dance": {
+    "NAME": "Messendans",
+    "DESCRIPTION": "Voeg !M! *Messen toe aan je hand."
+  },
+  "Blaster": {
+    "NAME": "Blaster",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Krijg [B] voor elke Gekanaliseerde Bol. NL Put-uit."
+  },
+  "Blind": {
+    "NAME": "Verblinden",
+    "DESCRIPTION": "Pas !M! Zwak toe.",
+    "UPGRADE_DESCRIPTION": "Pas !M! Zwak toe op ALLE vijanden."
+  },
+  "Blizzard": {
+    "NAME": "Sneeuwstorm",
+    "DESCRIPTION": "Richt schade aan gelijk aan !M! maal het aantal Vorst Gekanaliseerd in dit gevecht op ALLE vijanden.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Richt !D! schade aan.)",
+      ""
+    ]
+  },
+  "Blood for Blood": {
+    "NAME": "Bloed voor Bloed",
+    "DESCRIPTION": "Kost 1 [R] minder NL voor elke keer dat je LP verliest in dit gevecht. NL Richt !D! schade aan."
+  },
+  "Bloodletting": {
+    "NAME": "Aderlating",
+    "DESCRIPTION": "Verlies 3 LP. NL Krijg [R] [R].",
+    "UPGRADE_DESCRIPTION": "Verlies 3 LP. NL Krijg [R] [R] [R]."
+  },
+  "Bludgeon": {
+    "NAME": "Ploertendoder",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Blur": {
+    "NAME": "Waas",
+    "DESCRIPTION": "Krijg !B! Blok. NL Blok wordt niet verwijderd aan het begin van je volgende beurt."
+  },
+  "Body Slam": {
+    "NAME": "Lijfstraf",
+    "DESCRIPTION": "Richt schade aan gelijk aan je Blok.",
+    "UPGRADE_DESCRIPTION": " NL (Richt !D! schade aan.)"
+  },
+  "BootSequence": {
+    "NAME": "Opstartprocedure",
+    "DESCRIPTION": "Aangeboren. NL Krijg !B! Blok. NL Put-uit."
+  },
+  "Bouncing Flask": {
+    "NAME": "Stuiterende Flacon",
+    "DESCRIPTION": "Pas 3 Gif toe op een willekeurige vijand !M! keer."
+  },
+  "Brutality": {
+    "NAME": "Wreedheid",
+    "DESCRIPTION": "Aan het begin van je beurt, verlies 1 LP en trek 1 kaart.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Aan het begin van je beurt, verlies 1 LP en trek 1 kaart."
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTION": "Voorkom de volgende keer dat je LP zou verliezen.",
+    "UPGRADE_DESCRIPTION": "Voorkom de volgende !M! keren dat je LP zou verliezen."
+  },
+  "Bullet Time": {
+    "NAME": "Kogeltijd",
+    "DESCRIPTION": "Je kunt geen kaarten meer trekken deze beurt. Verminder de kosten van alle kaarten in je hand tot 0 deze beurt."
+  },
+  "Burn": {
+    "NAME": "*Brandwond",
+    "DESCRIPTION": "Onspeelbaar. NL Aan het einde van je beurt, neem 2 schade.",
+    "UPGRADE_DESCRIPTION": "Onspeelbaar. NL Aan het einde van je beurt, neem 4 schade."
+  },
+  "Burning Pact": {
+    "NAME": "Brandend Pact",
+    "DESCRIPTION": "Put 1 kaart uit. NL Trek !M! kaarten."
+  },
+  "Burst": {
+    "NAME": "Uitbarsting",
+    "DESCRIPTION": "In deze beurt, wordt je volgende Vaardigheid tweemaal gespeeld.",
+    "UPGRADE_DESCRIPTION": "In deze beurt, worden je volgende !M! Vaardigheden tweemaal gespeeld."
+  },
+  "Calculated Gamble": {
+    "NAME": "Berekende Gok",
+    "DESCRIPTION": "Leg je hand af, NL trek dan hetzelfde aantal kaarten. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Leg je hand af, NL trek dan hetzelfde aantal kaarten."
+  },
+  "Caltrops": {
+    "NAME": "Voetangels",
+    "DESCRIPTION": "Telkens als je wordt aangevallen, richt !M! schade aan op de aanvaller."
+  },
+  "Capacitor": {
+    "NAME": "Condensator",
+    "DESCRIPTION": "Krijg !M! Bol sleuven.",
+    "UPGRADE_DESCRIPTION": "Krijg !M! Bol sleuven."
+  },
+  "Carnage": {
+    "NAME": "Bloedbad",
+    "DESCRIPTION": "Etherisch. NL Richt !D! schade aan."
+  },
+  "Catalyst": {
+    "NAME": "Katalysator",
+    "DESCRIPTION": "Verdubbel een vijands Gif. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Verdriedubbel een vijands Gif. NL Put-uit."
+  },
+  "Chaos": {
+    "NAME": "Chaos",
+    "DESCRIPTION": "Kanaliseer !M! willekeurige Bol.",
+    "UPGRADE_DESCRIPTION": "Kanaliseer !M! willekeurige Bollen."
+  },
+  "Chill": {
+    "NAME": "Afkoelen",
+    "DESCRIPTION": "Kanaliseer !M! Vorst voor iedere vijand in het gevecht. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Kanaliseer !M! Vorst voor iedere vijand in het gevecht. NL Put-uit."
+  },
+  "Choke": {
+    "NAME": "Verstikking",
+    "DESCRIPTION": "Richt !D! schade aan. NL Telkens als je een kaart speelt deze beurt, verliest de vijand !M! LP."
+  },
+  "Chrysalis": {
+    "NAME": "Pop",
+    "DESCRIPTION": "Schud !M! willekeurige Vaardigheden in je trekstapel. Ze kosten 0 dit gevecht. NL Put-uit."
+  },
+  "Clash": {
+    "NAME": "Botsen",
+    "DESCRIPTION": "Kan alleen worden gespeeld als elke kaart in je hand een Aanval is. NL Richt !D! schade aan.",
+    "EXTENDED_DESCRIPTION": [
+      "Ik heb niet-Aanval kaarten in mijn hand."
+    ]
+  },
+  "Cleave": {
+    "NAME": "Klieven",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Verborgen Dolk",
+    "DESCRIPTION": "Krijg !B! Blok. NL Voeg !M! *Mes toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Voeg !M! *Messen toe aan je hand."
+  },
+  "Clothesline": {
+    "NAME": "Waslijn",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Zwak toe."
+  },
+  "Clumsy": {
+    "NAME": "Onhandig",
+    "DESCRIPTION": "Onspeelbaar. NL Etherisch."
+  },
+  "Cold Snap": {
+    "NAME": "Koudegolf",
+    "DESCRIPTION": "Richt !D! schade aan. Kanaliseer !M! Vorst."
+  },
+  "Combust": {
+    "NAME": "Verbranden",
+    "DESCRIPTION": "Aan het einde van je beurt, verlies 1 LP en richt !M! schade aan op ALLE vijanden."
+  },
+  "Concentrate": {
+    "NAME": "Concentreren",
+    "DESCRIPTION": "Leg !M! kaarten af. NL Krijg [G] [G]."
+  },
+  "Conserve Battery": {
+    "NAME": "Batterij Opladen",
+    "DESCRIPTION": "Krijg !B! Blok. NL In de volgende beurt, krijg [B]."
+  },
+  "Consume": {
+    "NAME": "Consumeren",
+    "DESCRIPTION": "Krijg !M! Focus. NL Verlies 1 Bol sleuf."
+  },
+  "Coolheaded": {
+    "NAME": "Koelbloedig",
+    "DESCRIPTION": "Kanaliseer 1 Vorst. NL Trek !M! kaart.",
+    "UPGRADE_DESCRIPTION": "Kanaliseer 1 Vorst. NL Trek !M! kaarten."
+  },
+  "Corpse Explosion": {
+    "NAME": "Lijkexplosie",
+    "DESCRIPTION": "Pas !M! Gif toe. NL Wanneer de vijand doodgaat, richt schade gelijk aan zijn Max LP aan op ALLE vijanden.",
+    "UPGRADE_DESCRIPTION": "deprecated",
+    "EXTENDED_DESCRIPTION": [
+      "deprecated"
+    ]
+  },
+  "Corruption": {
+    "NAME": "Corruptie",
+    "DESCRIPTION": "Vaardigheden kosten 0. NL Wanneer je een Vaardigheid speelt, Put het uit."
+  },
+  "Creative AI": {
+    "NAME": "Creatieve AI",
+    "DESCRIPTION": "Aan het begin van je beurt, voeg een willekeurige Kracht kaart toe aan je hand."
+  },
+  "Crippling Poison": {
+    "NAME": "Verlammende Wolk",
+    "DESCRIPTION": "Pas !M! Gif en 2 Zwak toe op ALLE vijanden. NL Put-uit."
+  },
+  "Dagger Spray": {
+    "NAME": "Dolkennevel",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden tweemaal."
+  },
+  "Dagger Throw": {
+    "NAME": "Dolkworp",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek 1 kaart. NL Leg 1 kaart af."
+  },
+  "Dark Embrace": {
+    "NAME": "Duistere Omhelzing",
+    "DESCRIPTION": "Telkens als een kaart wordt Uitgeput, NL trek 1 kaart."
+  },
+  "Dark Shackles": {
+    "NAME": "Duistere Boeien",
+    "DESCRIPTION": "Vijand verliest !M! Sterkte deze beurt. NL Put-uit."
+  },
+  "Darkness": {
+    "NAME": "Duisternis",
+    "DESCRIPTION": "Kanaliseer !M! Duistere.",
+    "UPGRADE_DESCRIPTION": "Kanaliseer !M! Duistere. NL Activeer de passieve vaardigheid van alle Duistere bollen."
+  },
+  "Dash": {
+    "NAME": "Spurt",
+    "DESCRIPTION": "Krijg !B! Blok. NL Richt !D! schade aan."
+  },
+  "Dazed": {
+    "NAME": "Versuft",
+    "DESCRIPTION": "Onspeelbaar. NL Etherisch."
+  },
+  "Deadly Poison": {
+    "NAME": "Dodelijk Gif",
+    "DESCRIPTION": "Pas !M! Gif toe."
+  },
+  "Decay": {
+    "NAME": "Verval",
+    "DESCRIPTION": "Onspeelbaar. NL Aan het eind van je beurt, neem 2 schade."
+  },
+  "Deep Breath": {
+    "NAME": "Diepe Adem",
+    "DESCRIPTION": "Schud je aflegstapel in je trekstapel. NL Trek !M! kaart.",
+    "UPGRADE_DESCRIPTION": "Schud je aflegstapel in je trekstapel. NL Trek !M! kaarten."
+  },
+  "Defend_B": {
+    "NAME": "Verdedig",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "Defend_G": {
+    "NAME": "Verdedig",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "Defend_R": {
+    "NAME": "Verdedig",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "Deflect": {
+    "NAME": "Afweren",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "Defragment": {
+    "NAME": "Defragmenteren",
+    "DESCRIPTION": "Krijg !M! Focus."
+  },
+  "Demon Form": {
+    "NAME": "Demonenvorm",
+    "DESCRIPTION": "Aan het begin van je beurt, krijg !M! Sterkte."
+  },
+  "Die Die Die": {
+    "NAME": "Sterf Sterf Sterf",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Put-uit."
+  },
+  "Disarm": {
+    "NAME": "Ontwapenen",
+    "DESCRIPTION": "Vijand verliest !M! Sterkte. NL Put-uit."
+  },
+  "Distraction": {
+    "NAME": "Afleiding",
+    "DESCRIPTION": "Voeg een willekeurige Vaardigheid toe aan je hand. NL Het kost 0 deze beurt. NL Put-uit."
+  },
+  "Dodge and Roll": {
+    "NAME": "Ontwijken en Rollen",
+    "DESCRIPTION": "Krijg !B! Blok. NL In de volgende beurt, krijg !B! Blok."
+  },
+  "Doom and Gloom": {
+    "NAME": "Kommer en Kwel",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Kanaliseer !M! Duistere."
+  },
+  "Doppelganger": {
+    "NAME": "Dubbelganger",
+    "DESCRIPTION": "In de volgende beurt, trek X kaarten en krijg X [G]. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "In de volgende beurt, trek X+1 kaarten en krijg X+1 [G]. NL Put-uit."
+  },
+  "Double Energy": {
+    "NAME": "Dubbele Energie",
+    "DESCRIPTION": "Verdubbel je Energie. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Verdubbel je Energie."
+  },
+  "Double Tap": {
+    "NAME": "Dubbeltik",
+    "DESCRIPTION": "In deze beurt, wordt je volgende Aanval tweemaal gespeeld.",
+    "UPGRADE_DESCRIPTION": "In deze beurt, worden je volgende !M! Aanvallen tweemaal gespeeld."
+  },
+  "Doubt": {
+    "NAME": "Twijfel",
+    "DESCRIPTION": "Onspeelbaar. NL Aan het einde van je beurt, krijg 1 Zwak."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Dramatische Entree",
+    "DESCRIPTION": "Aangeboren. NL Richt !D! schade aan op ALLE vijanden. NL Put-uit."
+  },
+  "Dropkick": {
+    "NAME": "Dropkick",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de vijand Kwetsbaar heeft, NL krijg [R] en NL trek 1 kaart."
+  },
+  "Dual Wield": {
+    "NAME": "Dubbel Gewapend",
+    "DESCRIPTION": "Kies een Aanval of Kracht kaart. Voeg een kopie van die kaart toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Kies een Aanval of Kracht kaart. Voeg twee kopieën van die kaart toe aan je hand."
+  },
+  "Dualcast": {
+    "NAME": "Dubbel-Cast",
+    "DESCRIPTION": "Roep je volgende Bol tweemaal op."
+  },
+  "Echo Form": {
+    "NAME": "Echovorm",
+    "DESCRIPTION": "Etherisch. NL De eerste kaart die je speelt elke beurt wordt tweemaal gespeeld.",
+    "UPGRADE_DESCRIPTION": "De eerste kaart die je speelt elke beurt wordt tweemaal gespeeld."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamica",
+    "DESCRIPTION": "Bliksem raakt nu ALLE vijanden. NL Kanaliseer !M! Bliksem.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Endless Agony": {
+    "NAME": "Eindeloze Kwelling",
+    "DESCRIPTION": "Richt !D! schade aan. NL Telkens als je deze kaart trekt, voeg een kopie hiervan toe aan je hand. NL Put-uit."
+  },
+  "Energy Pulse": {
+    "NAME": "Energiepuls",
+    "DESCRIPTION": "Krijg Blok gelijk aan je Energie.",
+    "UPGRADE_DESCRIPTION": "Krijg Blok gelijk aan tweemaal je Energie."
+  },
+  "Enlightenment": {
+    "NAME": "Verlichting",
+    "DESCRIPTION": "Verminder de kosten van alle kaarten in je hand tot 1 deze beurt.",
+    "UPGRADE_DESCRIPTION": "Verminder de kosten van alle kaarten in je hand tot 1 dit gevecht."
+  },
+  "Entrench": {
+    "NAME": "Ingraven",
+    "DESCRIPTION": "Verdubbel je Blok.",
+    "UPGRADE_DESCRIPTION": "Verdubbel je Blok."
+  },
+  "Envenom": {
+    "NAME": "Vergiftigen",
+    "DESCRIPTION": "Wanneer een Aanval ongeblokkeerde schade aanricht, pas 1 Gif toe."
+  },
+  "Escape Plan": {
+    "NAME": "Ontsnappingsplan",
+    "DESCRIPTION": "Trek 1 kaart. NL Als je een Vaardigheid trekt, krijg !B! Blok."
+  },
+  "Eviscerate": {
+    "NAME": "Uithalen",
+    "DESCRIPTION": "Kost 1 [G] minder NL voor elke kaart afgelegd deze beurt. NL Richt !D! schade aan 3 keer."
+  },
+  "Evolve": {
+    "NAME": "Evolueren",
+    "DESCRIPTION": "Telkens als je een Status kaart trekt, trek !M! kaart.",
+    "UPGRADE_DESCRIPTION": "Telkens als je een Status kaart trekt, trek !M! kaarten."
+  },
+  "Exhume": {
+    "NAME": "Opgraven",
+    "DESCRIPTION": "Plaats een kaart van je uitputstapel in je hand. NL Put-uit."
+  },
+  "Expertise": {
+    "NAME": "Expertise",
+    "DESCRIPTION": "Trek kaarten totdat je !M! in je hand hebt."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Richt !D! schade aan. Als je minder dan !M! kaarten hebt gespeeld deze beurt, trek 1 kaart.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " kaart gespeeld.)",
+      " kaarten gespeeld.)"
+    ]
+  },
+  "Feed": {
+    "NAME": "Voeden",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als dit Fataal is, verhoog je Max LP met !M!. Put-uit."
+  },
+  "Feel No Pain": {
+    "NAME": "Voel Geen Pijn",
+    "DESCRIPTION": "Telkens als een kaart wordt Uitgeput, NL krijg !M! Blok."
+  },
+  "Fiend Fire": {
+    "NAME": "Duivels Vuur",
+    "DESCRIPTION": "Put alle kaarten in je hand uit. NL Richt !D! schade aan voor elke Uitgeputte kaart. NL Put-uit."
+  },
+  "Finesse": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Krijg !B! Blok. NL Trek 1 kaart."
+  },
+  "Finisher": {
+    "NAME": "Afmaker",
+    "DESCRIPTION": "Richt !D! schade aan voor elke gespeelde Aanval deze beurt.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " Aanval gespeeld.)",
+      " Aanvallen gespeeld.)"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Vuurspuwen",
+    "DESCRIPTION": "Telkens als je een Status of Vloek kaart trekt, richt !M! schade aan op ALLE vijanden."
+  },
+  "Fission": {
+    "NAME": "Kernsplijting",
+    "DESCRIPTION": "Verwijder ALLE Bollen. Krijg [B] en trek !M! kaart voor elke verwijderde Bol. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Roep ALLE Bollen op. Krijg [B] en trek !M! kaart voor elke Opgeroepen Bol. NL Put-uit."
+  },
+  "Flame Barrier": {
+    "NAME": "Vlammenbarrière",
+    "DESCRIPTION": "Krijg !B! Blok. NL Telkens als je wordt aangevallen deze beurt, richt !M! schade aan op de aanvaller."
+  },
+  "Flash of Steel": {
+    "NAME": "Flits van Staal",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek 1 kaart."
+  },
+  "Flechettes": {
+    "NAME": "Werppijltjes",
+    "DESCRIPTION": "Richt !D! schade aan voor elke Vaardigheid in je hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Je hebt ",
+      " Vaardigheid).",
+      " Vaardigheden)."
+    ]
+  },
+  "Flex": {
+    "NAME": "Flex",
+    "DESCRIPTION": "Krijg !M! Sterkte. NL Aan het einde van deze beurt, verlies !M! Sterkte."
+  },
+  "Flux Capacitor": {
+    "NAME": "Flux Condensator",
+    "DESCRIPTION": "Vervang alle Gekanaliseerde Bollen door Plasma. NL Put-uit."
+  },
+  "Flying Knee": {
+    "NAME": "Vliegende Knie",
+    "DESCRIPTION": "Richt !D! schade aan. NL In de volgende beurt, krijg [G]."
+  },
+  "Footwork": {
+    "NAME": "Voetenwerk",
+    "DESCRIPTION": "Krijg !M! Behendigheid."
+  },
+  "Force Field": {
+    "NAME": "Krachtveld",
+    "DESCRIPTION": "Kost 1 [B] minder voor elke gespeelde Kracht kaart in dit gevecht. NL Krijg !B! Blok."
+  },
+  "Fusion": {
+    "NAME": "Fusie",
+    "DESCRIPTION": "Kanaliseer !M! Plasma."
+  },
+  "Gash": {
+    "NAME": "Klauw",
+    "DESCRIPTION": "Richt !D! schade aan. NL Verhoog de schade van ALLE Klauw kaarten met !M! dit gevecht."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Genetisch Algoritme",
+    "DESCRIPTION": "Krijg !B! Blok. Verhoog permanent de Blok van deze kaart met !M!. NL Put-uit."
+  },
+  "Ghostly": {
+    "NAME": "Spookverschijning",
+    "DESCRIPTION": "Etherisch. NL Krijg 1 Ontastbaar. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Krijg 1 Ontastbaar. NL Put-uit."
+  },
+  "Ghostly Armor": {
+    "NAME": "Spookpantser",
+    "DESCRIPTION": "Etherisch. NL Krijg !B! Blok."
+  },
+  "Glacier": {
+    "NAME": "Gletsjer",
+    "DESCRIPTION": "Krijg !B! Blok. NL Kanaliseer !M! Vorst.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Kanaliseer !M! Vorst."
+  },
+  "Glass Knife": {
+    "NAME": "Glazen Mes",
+    "DESCRIPTION": "Richt !D! schade aan tweemaal. Verlaag de schade van deze kaart met 2 dit gevecht."
+  },
+  "Go for the Eyes": {
+    "NAME": "Ga voor de Ogen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de vijand van plan is om aan te vallen, pas !M! Zwak toe."
+  },
+  "Good Instincts": {
+    "NAME": "Goede Instincten",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "Grand Finale": {
+    "NAME": "Grote Finale",
+    "DESCRIPTION": "Kan alleen worden gespeeld als er geen kaarten in je trekstapel zitten. NL Richt !D! schade aan op ALLE vijanden.",
+    "UPGRADE_DESCRIPTION": "Mijn trekstapel NL moet #rLeeg zijn."
+  },
+  "Havoc": {
+    "NAME": "Ravage",
+    "DESCRIPTION": "Speel de bovenste kaart van je trekstapel en Put het uit."
+  },
+  "Headbutt": {
+    "NAME": "Kopstoot",
+    "DESCRIPTION": "Richt !D! schade aan. NL Plaats een kaart van je aflegstapel bovenop je trekstapel."
+  },
+  "Heatsinks": {
+    "NAME": "Hittegeleiders",
+    "DESCRIPTION": "Telkens als je een Kracht kaart speelt, trek !M! kaart.",
+    "UPGRADE_DESCRIPTION": "Telkens als je een Kracht kaart speelt, trek !M! kaarten."
+  },
+  "Heavy Blade": {
+    "NAME": "Zwaar Lemmet",
+    "DESCRIPTION": "Richt !D! schade aan. NL Sterkte beïnvloedt deze kaart !M! maal.",
+    "UPGRADE_DESCRIPTION": "Richt !D! schade aan. NL Sterkte beïnvloedt deze kaart !M! maal."
+  },
+  "Heel Hook": {
+    "NAME": "Hielhaak",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de vijand Zwak heeft, NL krijg [G] en NL trek 1 kaart."
+  },
+  "Hello World": {
+    "NAME": "Hallo Wereld",
+    "DESCRIPTION": "Aan het begin van je beurt, voeg een willekeurig Gewone kaart toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Aan het begin van je beurt, voeg een willekeurig Gewone kaart toe aan je hand."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemokinese",
+    "DESCRIPTION": "Verlies !M! LP. NL Richt !D! schade aan."
+  },
+  "Hide": {
+    "NAME": "Verbergen",
+    "DESCRIPTION": "Je kunt geen LP verliezen tot het begin van je volgende beurt. NL Put-uit."
+  },
+  "Hologram": {
+    "NAME": "Hologram",
+    "DESCRIPTION": "Krijg !B! Blok. NL Plaats een kaart van je aflegstapel in je hand. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Plaats een kaart van je aflegstapel in je hand."
+  },
+  "Hyperbeam": {
+    "NAME": "Hyperstraal",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Verlies !M! Focus."
+  },
+  "Immolate": {
+    "NAME": "Opofferen",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Voeg een *Brandwond toe aan je aflegstapel."
+  },
+  "Impervious": {
+    "NAME": "Ondoordringbaar",
+    "DESCRIPTION": "Krijg !B! Blok. NL Put-uit."
+  },
+  "Infernal Blade": {
+    "NAME": "Duivels Zwaard",
+    "DESCRIPTION": "Voeg een willekeurige Aanval toe aan je hand. NL Het kost 0 deze beurt. NL Put-uit."
+  },
+  "Infinite Blades": {
+    "NAME": "Oneindige Messen",
+    "DESCRIPTION": "Aan het begin van je beurt, voeg een *Mes toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Aan het begin van je beurt, voeg een *Mes toe aan je hand."
+  },
+  "Inflame": {
+    "NAME": "Ontvlammen",
+    "DESCRIPTION": "Krijg !M! Sterkte."
+  },
+  "Injury": {
+    "NAME": "Letsel",
+    "DESCRIPTION": "Onspeelbaar."
+  },
+  "Intimidate": {
+    "NAME": "Intimideren",
+    "DESCRIPTION": "Pas !M! Zwak toe op ALLE vijanden. NL Put-uit."
+  },
+  "Iron Wave": {
+    "NAME": "IJzeren Golf",
+    "DESCRIPTION": "Krijg !B! Blok. NL Richt !D! schade aan."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Verlies 3 LP. NL Krijg !M! Sterkte."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Manusje van Alles",
+    "DESCRIPTION": "Voeg !M! willekeurige Kleurloze kaart toe aan je hand. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Voeg !M! willekeurige Kleurloze kaarten toe aan je hand. NL Put-uit."
+  },
+  "Juggernaut": {
+    "NAME": "Kolos",
+    "DESCRIPTION": "Telkens als je Blok krijgt, richt !M! schade aan op een willekeurige vijand."
+  },
+  "Leap": {
+    "NAME": "Sprong",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "Leg Sweep": {
+    "NAME": "Beenveeg",
+    "DESCRIPTION": "Pas !M! Zwak toe. NL Krijg !B! Blok."
+  },
+  "Limit Break": {
+    "NAME": "Limietbreuk",
+    "DESCRIPTION": "Verdubbel je Sterkte. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Verdubbel je Sterkte."
+  },
+  "Lockon": {
+    "NAME": "In de Roos",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! In-Vizier toe."
+  },
+  "Loop": {
+    "NAME": "Lus",
+    "DESCRIPTION": "Aan het begin van je beurt, activeer de passieve vaardigheid van je volgende Bol.",
+    "UPGRADE_DESCRIPTION": "Aan het begin van je beurt, activeer de passieve vaardigheid van je volgende Bol !M! keer."
+  },
+  "Machine Learning": {
+    "NAME": "Machinaal Leren",
+    "DESCRIPTION": "Aan het begin van je beurt, trek !M! extra kaart.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Aan het begin van je beurt, trek !M! extra kaart."
+  },
+  "Madness": {
+    "NAME": "Krankzinnigheid",
+    "DESCRIPTION": "Verlaag de kosten van een willekeurige kaart in je hand naar 0 dit gevecht. NL Put-uit."
+  },
+  "Magnetism": {
+    "NAME": "Magnetisme",
+    "DESCRIPTION": "Aan het begin van je beurt, voeg een willekeurige Kleurloze kaart toe aan je hand."
+  },
+  "Malaise": {
+    "NAME": "Malaise",
+    "DESCRIPTION": "Vijand verliest X Sterkte. Pas X Zwak toe. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Vijand verliest X+1 Sterkte. Pas X+1 Zwak toe. NL Put-uit."
+  },
+  "Master of Strategy": {
+    "NAME": "Meester van Strategie",
+    "DESCRIPTION": "Trek !M! kaarten. NL Put-uit."
+  },
+  "Masterful Stab": {
+    "NAME": "Meesterlijke Steek",
+    "DESCRIPTION": "Kost 1 extra [G] NL voor elke keer dat je LP verliest dit gevecht. NL Richt !D! schade aan.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Mayhem": {
+    "NAME": "Wanorde",
+    "DESCRIPTION": "Aan het begin van je beurt, speel de bovenste kaart van je trekstapel."
+  },
+  "Melter": {
+    "NAME": "Smelter",
+    "DESCRIPTION": "Verwijder alle Blok van de vijand. NL Richt !D! schade aan."
+  },
+  "Metallicize": {
+    "NAME": "Metaliseren",
+    "DESCRIPTION": "Aan het einde van je beurt, krijg !M! Blok."
+  },
+  "Metamorphosis": {
+    "NAME": "Metamorfose",
+    "DESCRIPTION": "Schud !M! willekeurige Aanvallen in je trekstapel. Ze kosten 0 dit gevecht. NL Put-uit."
+  },
+  "Meteor Strike": {
+    "NAME": "Meteoorinslag",
+    "DESCRIPTION": "Richt !D! schade aan. NL Kanaliseer !M! Plasma."
+  },
+  "Mind Blast": {
+    "NAME": "Gedachtenstraal",
+    "DESCRIPTION": "Aangeboren. NL Richt schade aan gelijk aan het aantal kaarten in je trekstapel.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Richt !D! schade aan.)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "Multi-Cast",
+    "DESCRIPTION": "Roep je volgende Bol X keer op.",
+    "UPGRADE_DESCRIPTION": "Roep je volgende Bol X+1 keer op."
+  },
+  "Necronomicurse": {
+    "NAME": "Necronomivloek",
+    "DESCRIPTION": "Onspeelbaar. NL Er is geen ontkomen aan deze Vloek."
+  },
+  "Neutralize": {
+    "NAME": "Neutraliseer",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Zwak toe."
+  },
+  "Night Terror": {
+    "NAME": "Nachtmerrie",
+    "DESCRIPTION": "Kies een kaart. NL In de volgende beurt, voeg !M! kopieën van die kaart toe aan je hand. Put-uit.",
+    "EXTENDED_DESCRIPTION": [
+      "Ik kan NL ",
+      " NL alleen eenmaal per beurt gebruiken."
+    ]
+  },
+  "Normality": {
+    "NAME": "Normaliteit",
+    "DESCRIPTION": "Onspeelbaar. NL Wanneer je deze kaart in je hand hebt, kun je niet meer dan 3 kaarten spelen deze beurt.",
+    "EXTENDED_DESCRIPTION": [
+      "Ik kan alleen tot NL #r3 kaarten spelen deze beurt.",
+      "Onspeelbaar. NL Je kunt niet meer dan ",
+      " kaarten spelen per beurt.",
+      " kaarten spelen per beurt. NL Je hebt ",
+      " kaart gespeeld deze beurt.",
+      " kaarten gespeeld deze beurt."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Schadelijke Dampen",
+    "DESCRIPTION": "Aan het begin van je beurt, pas !M! Gif toe op ALLE vijanden."
+  },
+  "Offering": {
+    "NAME": "Offer",
+    "DESCRIPTION": "Verlies 6 LP. NL Krijg [R] [R]. NL Trek !M! kaarten. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Verlies 6 LP. NL Krijg [R] [R]. NL Trek !M! kaarten. NL Put-uit."
+  },
+  "Outmaneuver": {
+    "NAME": "Uitmanoeuvreren",
+    "DESCRIPTION": "In de volgende beurt, NL krijg [G] [G].",
+    "UPGRADE_DESCRIPTION": "In de volgende beurt, NL krijg [G] [G] [G]."
+  },
+  "Pain": {
+    "NAME": "Pijn",
+    "DESCRIPTION": "Onspeelbaar. NL Wanneer je deze kaart in je hand hebt, NL verlies 1 LP telkens als je een andere kaart speelt."
+  },
+  "Panacea": {
+    "NAME": "Wondermiddel",
+    "DESCRIPTION": "Krijg !M! Artefact. NL Put-uit."
+  },
+  "Panache": {
+    "NAME": "Zwier",
+    "DESCRIPTION": "Elke keer dat je 5 kaarten speelt in een enkele beurt, richt !M! schade aan op ALLE vijanden."
+  },
+  "Parasite": {
+    "NAME": "Parasiet",
+    "DESCRIPTION": "Onspeelbaar. NL Als deze kaart wordt getransformeerd of uit je stok wordt verwijderd, verlies 3 Max LP."
+  },
+  "Perfected Strike": {
+    "NAME": "Perfecte Slag",
+    "DESCRIPTION": "Richt !D! schade aan. NL Richt !M! extra schade aan voor ALLE kaarten die \"Slag\" bevatten.",
+    "UPGRADE_DESCRIPTION": "Richt !D! schade aan. NL Richt !M! extra schade aan voor ALLE kaarten die \"Slag\" bevatten."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Schimmige Moordenaar",
+    "DESCRIPTION": "In de volgende beurt, richten je Aanvallen dubbele schade aan."
+  },
+  "PiercingWail": {
+    "NAME": "Doordringend Gejammer",
+    "DESCRIPTION": "ALLE vijanden verliezen !M! Sterkte deze beurt. NL Put-uit."
+  },
+  "Poisoned Stab": {
+    "NAME": "Vergiftigde Steek",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Gif toe."
+  },
+  "Pommel Strike": {
+    "NAME": "Pommelslag",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek !M! kaart.",
+    "UPGRADE_DESCRIPTION": "Richt !D! schade aan. NL Trek !M! kaarten."
+  },
+  "Power Through": {
+    "NAME": "Doorzetten",
+    "DESCRIPTION": "Voeg 2 Wonden toe aan je hand. NL Krijg !B! Blok."
+  },
+  "Predator": {
+    "NAME": "Jager",
+    "DESCRIPTION": "Richt !D! schade aan. NL In de volgende beurt, trek 2 extra kaarten."
+  },
+  "Prepared": {
+    "NAME": "Voorbereid",
+    "DESCRIPTION": "Trek !M! kaart. NL Leg !M! kaart af.",
+    "UPGRADE_DESCRIPTION": "Trek !M! kaarten. NL Leg !M! kaarten af."
+  },
+  "Pummel": {
+    "NAME": "Afrossen",
+    "DESCRIPTION": "Richt !D! schade aan !M! keer. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Richt !D! schade aan !M! keer. NL Put-uit."
+  },
+  "Purity": {
+    "NAME": "Puurheid",
+    "DESCRIPTION": "Put tot !M! kaarten in je hand uit. NL Put-uit."
+  },
+  "Quick Slash": {
+    "NAME": "Snelle Snede",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek 1 kaart."
+  },
+  "Rage": {
+    "NAME": "Razernij",
+    "DESCRIPTION": "Telkens als je een Aanval speelt deze beurt, krijg !M! Blok."
+  },
+  "Rainbow": {
+    "NAME": "Regenboog",
+    "DESCRIPTION": "Kanaliseer 1 Bliksem. NL Kanaliseer 1 Vorst. NL Kanaliseer 1 Duistere. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Kanaliseer 1 Bliksem. NL Kanaliseer 1 Vorst. NL Kanaliseer 1 Duistere."
+  },
+  "Rampage": {
+    "NAME": "Tekeergaan",
+    "DESCRIPTION": "Richt !D! schade aan. NL Verhoog de schade van deze kaart met !M! dit gevecht."
+  },
+  "Reaper": {
+    "NAME": "Oogster",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. Genees LP gelijk aan ongeblokkeerde schade. NL Put-uit."
+  },
+  "Reboot": {
+    "NAME": "Herstart",
+    "DESCRIPTION": "Voeg ALLE kaarten toe aan je trekstapel en schud deze. NL Trek !M! kaarten. NL Put-uit."
+  },
+  "Rebound": {
+    "NAME": "Terugkaatsen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Plaats de volgende kaart die je speelt deze beurt bovenop je trekstapel."
+  },
+  "Reckless Charge": {
+    "NAME": "Roekeloze Aanval",
+    "DESCRIPTION": "Richt !D! schade aan. NL Schud een *Versuft in je trekstapel."
+  },
+  "Recycle": {
+    "NAME": "Recycle",
+    "DESCRIPTION": "Put een kaart uit. NL Krijg [B] gelijk aan de kosten van de kaart."
+  },
+  "Redo": {
+    "NAME": "Recursie",
+    "DESCRIPTION": "Roep je volgende Bol op. NL Kanaliseer de Bol die net was opgeroepen."
+  },
+  "Reflex": {
+    "NAME": "Reflex",
+    "DESCRIPTION": "Onspeelbaar. NL Als deze kaart wordt afgelegd van je hand, trek !M! kaarten.",
+    "UPGRADE_DESCRIPTION": "Onspeelbaar. NL Als deze kaart wordt afgelegd van je hand, trek !M! kaarten.",
+    "EXTENDED_DESCRIPTION": [
+      "Ik kan deze kaart niet spelen."
+    ]
+  },
+  "Regret": {
+    "NAME": "Spijt",
+    "DESCRIPTION": "Onspeelbaar. NL Aan het einde van je beurt, verlies LP gelijk aan het aantal kaarten in je hand."
+  },
+  "Reinforced Body": {
+    "NAME": "Versterkt Lichaam",
+    "DESCRIPTION": "Krijg !B! Blok X keer."
+  },
+  "Reprogram": {
+    "NAME": "Herprogrammeren",
+    "DESCRIPTION": "Verlies !M! Focus. NL Krijg !M! Sterkte. NL Krijg !M! Behendigheid.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Riddle With Holes": {
+    "NAME": "Doorzeven",
+    "DESCRIPTION": "Richt !D! schade aan 5 keer."
+  },
+  "Rip and Tear": {
+    "NAME": "Verscheuren",
+    "DESCRIPTION": "Richt !D! schade aan op een willekeurige vijand tweemaal."
+  },
+  "Rupture": {
+    "NAME": "Ruptuur",
+    "DESCRIPTION": "Telkens als je LP verliest door een kaart, NL krijg !M! Sterkte."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadistische Aard",
+    "DESCRIPTION": "Telkens als je een negatief effect toepast op een vijand, nemen zij !M! schade."
+  },
+  "Scrape": {
+    "NAME": "Schrapen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek !M! kaarten. NL Leg alle kaarten af die op deze manier worden getrokken en niet 0 kosten."
+  },
+  "Searing Blow": {
+    "NAME": "Schroeiende Klap",
+    "DESCRIPTION": "Richt !D! schade aan. NL Kan zo vaak worden Geüpgraded als je wilt."
+  },
+  "Second Wind": {
+    "NAME": "Tweede Adem",
+    "DESCRIPTION": "Put alle niet-Aanval kaarten in je hand uit. Krijg !B! Blok voor elke Uitgeputte kaart."
+  },
+  "Secret Technique": {
+    "NAME": "Geheime Techniek",
+    "DESCRIPTION": "Plaats een Vaardigheid van je trekstapel in je hand. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Plaats een Vaardigheid van je trekstapel van je trekstapel in je hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Er zijn geen Vaardigheden NL in mijn trekstapel."
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "Geheim Wapen",
+    "DESCRIPTION": "Plaats een Aanval van je trekstapel in je hand. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Plaats een Aanval van je trekstapel in je hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Er zijn geen Aanvallen NL in mijn trekstapel."
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "Doordraaien",
+    "DESCRIPTION": "Krijg [R] [R]. NL Put-uit."
+  },
+  "Seek": {
+    "NAME": "Zoeken",
+    "DESCRIPTION": "Plaats !M! kaart van je trekstapel in je hand. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Plaats !M! kaarten van je trekstapel in je hand. NL Put-uit."
+  },
+  "Self Repair": {
+    "NAME": "Zelfreparatie",
+    "DESCRIPTION": "Aan het eind van het gevecht, genees !M! LP."
+  },
+  "Sentinel": {
+    "NAME": "Schildwacht",
+    "DESCRIPTION": "Krijg !B! Blok. NL Als deze kaart wordt Uitgeput, NL krijg [R] [R].",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Als deze kaart wordt Uitgeput, NL krijg [R] [R] [R]."
+  },
+  "Setup": {
+    "NAME": "Opstellen",
+    "DESCRIPTION": "Plaats een kaart van je hand bovenop je trekstapel. NL Het kost 0 totdat het wordt gespeeld."
+  },
+  "Sever Soul": {
+    "NAME": "Zielscheiding",
+    "DESCRIPTION": "Put alle niet-Aanval kaarten in je hand uit. NL Richt !D! schade aan."
+  },
+  "Shame": {
+    "NAME": "Schaamte",
+    "DESCRIPTION": "Onspeelbaar. NL Aan het einde van je beurt, krijg 1 Fragiel."
+  },
+  "Shiv": {
+    "NAME": "*Mes",
+    "DESCRIPTION": "Richt !D! schade aan. NL Put-uit."
+  },
+  "Shockwave": {
+    "NAME": "Schokgolf",
+    "DESCRIPTION": "Pas !M! Zwak en Kwetsbaar toe op ALLE vijanden. NL Put-uit."
+  },
+  "Shrug It Off": {
+    "NAME": "Afschudden",
+    "DESCRIPTION": "Krijg !B! Blok. NL Trek 1 kaart."
+  },
+  "Skewer": {
+    "NAME": "Spit",
+    "DESCRIPTION": "Richt !D! schade aan X keer."
+  },
+  "Skim": {
+    "NAME": "Inkijken",
+    "DESCRIPTION": "Trek !M! kaarten."
+  },
+  "Slice": {
+    "NAME": "Snede",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Slimed": {
+    "NAME": "Verslijmd",
+    "DESCRIPTION": "Put-uit."
+  },
+  "Spot Weakness": {
+    "NAME": "Zwakte spotten",
+    "DESCRIPTION": "Als de vijand van plan is om aan te vallen, krijg !M! Sterkte."
+  },
+  "Stack": {
+    "NAME": "Opstapelen",
+    "DESCRIPTION": "Krijg Blok gelijk aan het aantal kaarten in je aflegstapel.",
+    "UPGRADE_DESCRIPTION": "Krijg Blok gelijk aan het aantal kaarten in je aflegstapel +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Krijg !B! Blok.)"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "Statische Ontlading",
+    "DESCRIPTION": "Telkens als je ongeblokkeerde aanvalsschade ontvangt, Kanaliseer !M! Bliksem.",
+    "UPGRADE_DESCRIPTION": "Telkens als je ongeblokkeerde aanvalsschade ontvangt, Kanaliseer !M! Bliksem."
+  },
+  "Steam": {
+    "NAME": "Stoombarrière",
+    "DESCRIPTION": "Krijg !B! Blok. Verlaag de Blok van deze kaart met 1 dit gevecht."
+  },
+  "Steam Power": {
+    "NAME": "Overklokken",
+    "DESCRIPTION": "Trek !M! kaarten. NL Voeg een *Brandwond toe aan je aflegstapel."
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTION": "Telkens als je een Kracht kaart speelt, Kanaliseer 1 Bliksem.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Telkens als je een Kracht kaart speelt, Kanaliseer 1 Bliksem."
+  },
+  "Storm of Steel": {
+    "NAME": "Storm van Staal",
+    "DESCRIPTION": "Leg je hand af. NL Voeg 1 *Mes toe aan je hand voor elke afgelegde kaart.",
+    "UPGRADE_DESCRIPTION": "Leg je hand af. NL Voeg 1 *Mes+ toe aan je hand voor elke afgelegde kaart."
+  },
+  "Streamline": {
+    "NAME": "Stroomlijn",
+    "DESCRIPTION": "Richt !D! schade aan. NL Verminder de kosten van deze kaart met !M! dit gevecht."
+  },
+  "Strike_B": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Strike_G": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Strike_R": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Sucker Punch": {
+    "NAME": "Onverwachte Stoot",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Zwak toe."
+  },
+  "Sunder": {
+    "NAME": "Splijten",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als dit een vijand doodt, krijg [B] [B] [B]."
+  },
+  "Survivor": {
+    "NAME": "Overlevende",
+    "DESCRIPTION": "Krijg !B! Blok. NL Leg 1 kaart af."
+  },
+  "Sweeping Beam": {
+    "NAME": "Zwaaiende Straal",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Trek !M! kaart."
+  },
+  "Swift Strike": {
+    "NAME": "Snelle Slag",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Sword Boomerang": {
+    "NAME": "Zwaardboemerang",
+    "DESCRIPTION": "Richt !D! schade aan op een willekeurige vijand !M! keer."
+  },
+  "Tactician": {
+    "NAME": "Tacticus",
+    "DESCRIPTION": "Onspeelbaar. NL Als deze kaart wordt afgelegd van je hand, krijg [G].",
+    "UPGRADE_DESCRIPTION": "Onspeelbaar. NL Als deze kaart wordt afgelegd van je hand, krijg [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Ik kan deze kaart niet spelen."
+    ]
+  },
+  "Tempest": {
+    "NAME": "Onweer",
+    "DESCRIPTION": "Kanaliseer X Bliksem. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Kanaliseer X+1 Bliksem. NL Put-uit."
+  },
+  "Terror": {
+    "NAME": "Verschrikking",
+    "DESCRIPTION": "Pas 99 Kwetsbaar toe. NL Put-uit."
+  },
+  "The Bomb": {
+    "NAME": "De Bom",
+    "DESCRIPTION": "Aan het einde van 3 beurten, richt !M! schade aan op ALLE vijanden."
+  },
+  "Thinking Ahead": {
+    "NAME": "Vooruit Denken",
+    "DESCRIPTION": "Trek 2 kaarten. NL Plaats een kaart van je hand bovenop je trekstapel. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Trek 2 kaarten. NL Plaats een kaart van je hand bovenop je trekstapel."
+  },
+  "Thunder Strike": {
+    "NAME": "Donderslag",
+    "DESCRIPTION": "Richt !D! schade aan op een willekeurige vijand voor elke Bliksem Gekanaliseerd in dit gevecht.",
+    "EXTENDED_DESCRIPTION": [
+      " ( !M! Bliksem Gekanaliseerd.)"
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Donderklap",
+    "DESCRIPTION": "Richt !D! schade aan en pas 1 Kwetsbaar toe op ALLE vijanden."
+  },
+  "Tools of the Trade": {
+    "NAME": "Vakmanschap",
+    "DESCRIPTION": "Aan het begin van je beurt, trek 1 kaart en leg 1 kaart af."
+  },
+  "Transmutation": {
+    "NAME": "Transmutatie",
+    "DESCRIPTION": "Voeg X willekeurige Kleurloze kaarten toe aan je hand. Ze kosten 0 deze beurt. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Voeg X willekeurige Geüpgradede Kleurloze kaarten toe aan je hand. Ze kosten 0 deze beurt. NL Put-uit."
+  },
+  "Trip": {
+    "NAME": "Struikelen",
+    "DESCRIPTION": "Pas !M! Kwetsbaar toe.",
+    "UPGRADE_DESCRIPTION": "Pas !M! Kwetsbaar toe op ALLE vijanden."
+  },
+  "True Grit": {
+    "NAME": "Vastberaden",
+    "DESCRIPTION": "Krijg !B! Blok. NL Put 1 willekeurige kaart uit.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Put 1 kaart uit."
+  },
+  "Turbo": {
+    "NAME": "TURBO",
+    "DESCRIPTION": "Krijg [B] [B]. NL Voeg een *Leegte toe aan je aflegstapel.",
+    "UPGRADE_DESCRIPTION": "Krijg [B] [B] [B]. NL Voeg een *Leegte toe aan je aflegstapel."
+  },
+  "Twin Strike": {
+    "NAME": "Dubbele Slag",
+    "DESCRIPTION": "Richt !D! schade aan tweemaal."
+  },
+  "Underhanded Strike": {
+    "NAME": "Gluiperige Slag",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als je een kaart hebt afgelegd deze beurt, NL krijg [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Ik kan deze kaart niet spelen."
+    ]
+  },
+  "Undo": {
+    "NAME": "Evenwicht",
+    "DESCRIPTION": "Krijg !B! Blok. NL Behoud je hand deze beurt."
+  },
+  "Unload": {
+    "NAME": "Ontladen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Leg alle niet-Aanval kaarten in je hand af."
+  },
+  "Uppercut": {
+    "NAME": "Uppercut",
+    "DESCRIPTION": "Richt !D! schade aan. NL Pas !M! Zwak toe. NL Pas !M! Kwetsbaar toe."
+  },
+  "Venomology": {
+    "NAME": "Alchemie",
+    "DESCRIPTION": "Verkrijg een willekeurig drankje. NL Put-uit."
+  },
+  "Void": {
+    "NAME": "Leegte",
+    "DESCRIPTION": "Onspeelbaar. NL Etherisch. NL Telkens als deze kaart wordt getrokken, verlies 1 Energie."
+  },
+  "Warcry": {
+    "NAME": "Oorlogskreet",
+    "DESCRIPTION": "Trek !M! kaart. NL Plaats een kaart van je hand bovenop je trekstapel. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Trek !M! kaarten. NL Plaats een kaart van je hand bovenop je trekstapel. NL Put-uit."
+  },
+  "Well Laid Plans": {
+    "NAME": "Overzichtelijke Plannen",
+    "DESCRIPTION": "Aan het einde van je beurt, Behoud tot !M! kaart.",
+    "UPGRADE_DESCRIPTION": "Aan het einde van je beurt, Behoud tot !M! kaarten."
+  },
+  "Whirlwind": {
+    "NAME": "Wervelwind",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden X keer."
+  },
+  "White Noise": {
+    "NAME": "Witte Ruis",
+    "DESCRIPTION": "Voeg een willekeurige Kracht kaart toe aan je hand. NL Het kost 0 deze beurt. NL Put-uit."
+  },
+  "Wild Strike": {
+    "NAME": "Wilde Slag",
+    "DESCRIPTION": "Richt !D! schade aan. NL Schud een *Wond in je trekstapel."
+  },
+  "Wound": {
+    "NAME": "Wond",
+    "DESCRIPTION": "Onspeelbaar."
+  },
+  "Wraith Form v2": {
+    "NAME": "Schimmenvorm",
+    "DESCRIPTION": "Krijg !M! Ontastbaar. NL Aan het einde van je beurt, verlies 1 Behendigheid."
+  },
+  "Writhe": {
+    "NAME": "Verwrongen",
+    "DESCRIPTION": "Onspeelbaar. NL Aangeboren."
+  },
+  "Zap": {
+    "NAME": "Zap",
+    "DESCRIPTION": "Kanaliseer !M! Bliksem."
+  },
+  "Core Surge": {
+    "NAME": "Kernoverspanning",
+    "DESCRIPTION": "Richt !D! schade aan. NL Krijg !M! Artefact. NL Put-uit."
+  },
+  "Compile Driver": {
+    "NAME": "Compilatiestuurprogramma",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek !M! kaart voor elke unieke Bol die je hebt."
+  },
+  "RitualDagger": {
+    "NAME": "Rituele Dolk",
+    "DESCRIPTION": "Richt !D! schade aan. Als dit Fataal is, verhoog permanent de schade van deze kaart met !M!. NL Put-uit."
+  },
+  "Pride": {
+    "NAME": "Trots",
+    "DESCRIPTION": "Aangeboren. NL Aan het einde van je beurt, plaats een kopie van deze kaart bovenop je trekstapel. Put-uit."
+  },
+  "PanicButton": {
+    "NAME": "Paniekknop",
+    "DESCRIPTION": "Krijg !B! Blok. Je kunt geen Blok krijgen van kaarten voor !M! beurten. NL Put-uit."
+  },
+  "HandOfGreed": {
+    "NAME": "Hand van Hebzucht",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als dit Fataal is, krijg !M! Goud."
+  },
+  "Violence": {
+    "NAME": "Geweld",
+    "DESCRIPTION": "Plaats !M! willekeurige Aanvallen van je trekstapel in je hand. NL Put-uit."
+  },
+  "Impatience": {
+    "NAME": "Ongeduld",
+    "DESCRIPTION": "Als je geen Aanvallen in je hand hebt, trek !M! kaarten."
+  },
+  "Forethought": {
+    "NAME": "Voorbedachtheid",
+    "DESCRIPTION": "Plaats een kaart van je hand onderop je trekstapel. Het kost 0 totdat het wordt gespeeld.",
+    "UPGRADE_DESCRIPTION": "Plaats elk gewenst aantal kaarten van je hand onderop je trekstapel. Ze kosten 0 totdat ze gespeeld worden."
+  },
+  "Discovery": {
+    "NAME": "Ontdekking",
+    "DESCRIPTION": "Kies 1 uit 3 willekeurige kaarten om toe te voegen aan je hand. Het kost 0 deze beurt. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Kies 1 uit 3 willekeurige kaarten om toe te voegen aan je hand. Het kost 0 deze beurt."
+  },
+  "SpiritShield": {
+    "NAME": "Geestenschild",
+    "DESCRIPTION": "Krijg !M! Blok voor elke kaart in je hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Krijg !B! Blok.)"
+    ]
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "Put-uit. NL At the start of your turn, draw 1 card. NL Behoud."
+  },
+  "Wrath": {
+    "NAME": "Toorn",
+    "DESCRIPTION": "Richt twee keer zoveel schade aan maar ontvang ook twee keer zoveel schade."
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Enter Calm or Wrath. NL Put-uit."
+  },
+  "Tantrum": {
+    "NAME": "Woedeaanval",
+    "DESCRIPTION": "Richt !D! schade aan !M! keer. NL Ga over in Toorn. NL Schud deze kaart in je trekstapel."
+  },
+  "Adaptation": {
+    "NAME": "Stormloop",
+    "DESCRIPTION": "Telkens als je overgaat in Toorn, trek !M! kaarten.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Causality": {
+    "NAME": "Causaliteit",
+    "DESCRIPTION": "Trek kaarten tot je hand vol is. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Behoud. NL Trek kaarten tot je hand vol is. NL Put-uit."
+  },
+  "Devotion": {
+    "NAME": "Toewijding",
+    "DESCRIPTION": "Aan het begin van je beurt, krijg !M! Mantra."
+  },
+  "EmptyFist": {
+    "NAME": "Lege Vuist",
+    "DESCRIPTION": "Richt !D! schade aan. NL Verlaat je Houding."
+  },
+  "Wisdom": {
+    "NAME": "Wijsheid",
+    "DESCRIPTION": "Behoud. NL Trek !M! kaarten. NL Put-uit."
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+  },
+  "FlowState": {
+    "NAME": "DEPRECATED Vloeiende Houding",
+    "DESCRIPTION": "Toorn: Ga over in Kalmte. NL Kalmte: Ga over in Toorn. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Toorn: Ga over in Kalmte. NL Kalmte: Ga over in Toorn."
+  },
+  "Swivel": {
+    "NAME": "Draaien",
+    "DESCRIPTION": "Krijg !B! Blok. NL De volgende Aanval die je speelt kost 0."
+  },
+  "Wish": {
+    "NAME": "Wens",
+    "DESCRIPTION": "Kies één: NL Krijg !B! Gepantserde Bescherming, !D! Sterkte, of !M! Goud. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED Fury Aura",
+    "DESCRIPTION": "Gain !M! temporary Sterkte. NL At the start of your turn, gain 1 temporary Sterkte. Retains."
+  },
+  "DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Onspeelbaar. NL Wanneer je deze kaart trekt, voeg !M! *Mirakels toe aan je hand en Put-uit."
+  },
+  "ThroughViolence": {
+    "NAME": "Door Geweld",
+    "DESCRIPTION": "Behoud. NL Richt !D! schade aan. NL Put-uit."
+  },
+  "Metaphysics": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Clarity": {
+    "NAME": "Helderheid",
+    "DESCRIPTION": "Kijk naar de bovenste !M! kaarten van je trekstapel. Voeg 1 toe aan je hand. NL Put de ander uit.",
+    "UPGRADE_DESCRIPTION": "Kijk naar de bovenste !M! kaarten van je trekstapel. Voeg 1 toe aan je hand. NL Put de rest uit."
+  },
+  "WreathOfFlame": {
+    "NAME": "Krans van Vlammen",
+    "DESCRIPTION": "Je volgende Aanval richt !M! extra schade aan."
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED Flicker",
+    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+  },
+  "Alpha": {
+    "NAME": "Alfa",
+    "DESCRIPTION": "Schud een *Bèta in je trekstapel. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Schud een *Bèta in je trekstapel. NL Put-uit."
+  },
+  "FollowUp": {
+    "NAME": "Opvolgen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de laatst gespeelde kaart in dit gevecht een Aanval was, krijg [W]."
+  },
+  "Vault": {
+    "NAME": "Springen",
+    "DESCRIPTION": "Neem na deze beurt nog een beurt. NL Beëindig je beurt. NL Put-uit."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+  },
+  "Wallop": {
+    "NAME": "Meppen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Krijg Blok gelijk aan het aantal ongeblokkeerde aangerichte schade."
+  },
+  "Consecrate": {
+    "NAME": "Inzegenen",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden."
+  },
+  "Conclude": {
+    "NAME": "Concluderen",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Beëindig je beurt."
+  },
+  "MasterReality": {
+    "NAME": "Realiteit Beheersen",
+    "DESCRIPTION": "Telkens als er een kaart wordt gecreëerd tijdens het gevecht, Upgrade het."
+  },
+  "CleanseEvil": {
+    "NAME": "Reinig het Kwaad",
+    "DESCRIPTION": "Voeg X *Straffen toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Voeg X *Straffen+ toe aan je hand."
+  },
+  "WindmillStrike": {
+    "NAME": "Windmolen Slag",
+    "DESCRIPTION": "Behoud. NL Richt !D! schade aan. NL Wanneer Behouden, verhoog zijn schade met !M! voor dit gevecht."
+  },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Put-uit."
+  },
+  "LessonLearned": {
+    "NAME": "Les Geleerd",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als dit Fataal is, Upgrade een willekeurige kaart in je stok. Put-uit."
+  },
+  "Calm": {
+    "NAME": "Kalmte",
+    "DESCRIPTION": "Bij het verlaten van Kalmte, krijg [W] [W]."
+  },
+  "ThirdEye": {
+    "NAME": "Derde Oog",
+    "DESCRIPTION": "Krijg !B! Blok. NL Scry !M!."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survey",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+  },
+  "FlyingSleeves": {
+    "NAME": "Vliegende Mouwen",
+    "DESCRIPTION": "Behoud. NL Richt twee keer !D! schade aan."
+  },
+  "Wireheading": {
+    "NAME": "Vooruitzien",
+    "DESCRIPTION": "Aan het begin van je beurt, Scry !M!.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Sanctity": {
+    "NAME": "Onschendbaarheid",
+    "DESCRIPTION": "Krijg !B! Blok. NL Als de laatst gespeelde kaart in dit gevecht een Vaardigheid was, trek !M! kaarten."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+  },
+  "Mastery": {
+    "NAME": "Meesterschap",
+    "DESCRIPTION": "Telkens als je je Houding probeert te veranderen naar je huidige Houding, krijg [B]."
+  },
+  "Beta": {
+    "NAME": "Bèta",
+    "DESCRIPTION": "Schud een *Omega in je trekstapel. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FearNoEvil": {
+    "NAME": "Vrees Geen Kwaad",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de vijand van plan is om aan te vallen, ga over in Kalmte."
+  },
+  "Perseverance": {
+    "NAME": "Volharding",
+    "DESCRIPTION": "Behoud. NL Krijg !B! Blok. NL Wanneer Behouden, verhoog zijn Blok met !M! voor dit gevecht."
+  },
+  "Ragnarok": {
+    "NAME": "Ragnarok",
+    "DESCRIPTION": "Richt !D! schade aan op een willekeurige vijand !M! keer."
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Awakened Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Blessed",
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Put-uit."
+  },
+  "Eruption": {
+    "NAME": "Uitbarsting",
+    "DESCRIPTION": "Richt !D! schade aan. NL Ga over in Toorn."
+  },
+  "LetFateDecide": {
+    "NAME": "DEPRECATED Let Fate Decide",
+    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
+  },
+  "CutThroughFate": {
+    "NAME": "Het Lot Doorsnijden",
+    "DESCRIPTION": "Richt !D! schade aan. NL Scry !M!. NL Trek 1 kaart."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Golf van de Hand",
+    "DESCRIPTION": "Telkens als je Blok krijgt deze beurt, pas !M! Zwakte toe op ALLE vijanden."
+  },
+  "Vigilance": {
+    "NAME": "Waakzaamheid",
+    "DESCRIPTION": "Krijg !B! Blok. NL Ga over in Kalmte.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "PathToVictory": {
+    "NAME": "Drukpunten",
+    "DESCRIPTION": "Pas !M! *Merk toe. NL ALLE vijanden verliezen LP gelijk aan hun *Merk.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Evaluate": {
+    "NAME": "Evalueren",
+    "DESCRIPTION": "Krijg !B! Blok. NL Schud een *Inzicht in je trekstapel.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Schud een *Inzicht+ in je trekstapel."
+  },
+  "Establishment": {
+    "NAME": "Vaststelling",
+    "DESCRIPTION": "Telkens als een kaart wordt Behouden, verlaag zijn kosten met !M! in dit gevecht.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Telkens als een kaart wordt Behouden, verlaag zijn kosten met !M! in dit gevecht."
+  },
+  "Collect": {
+    "NAME": "Verzamelen",
+    "DESCRIPTION": "Voeg een *Mirakel+ toe aan je hand aan het begin van je volgende X beurten. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Voeg een *Mirakel+ toe aan je hand aan het begin van je volgende X+1 beurten. NL Put-uit."
+  },
+  "Experienced": {
+    "NAME": "DEPRECATED Experienced",
+    "DESCRIPTION": "Krijg !B! Blok for each Upgraded kaart in your hand."
+  },
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Perfected Form",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+  },
+  "JustLucky": {
+    "NAME": "Gewoon Geluk",
+    "DESCRIPTION": "Scry !M!. NL Krijg !B! Blok. NL Richt !D! schade aan."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Put-uit."
+  },
+  "Peace": {
+    "NAME": "Vrede",
+    "DESCRIPTION": "Behoud. NL ALLE vijanden verliezen !M! Sterkte deze beurt. NL Put-uit."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Restraining Palm",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "Protect": {
+    "NAME": "Beschermen",
+    "DESCRIPTION": "Behoud. NL Krijg !B! Blok."
+  },
+  "Worship": {
+    "NAME": "Aanbidden",
+    "DESCRIPTION": "Krijg !M! Mantra.",
+    "UPGRADE_DESCRIPTION": "Behoud. NL Krijg !M! Mantra."
+  },
+  "EmptyMind": {
+    "NAME": "Lege Gedachten",
+    "DESCRIPTION": "Trek !M! kaarten. NL Verlaat je Houding.",
+    "UPGRADE_DESCRIPTION": "Trek !M! kaarten. NL Verlaat je Houding."
+  },
+  "Miracle": {
+    "NAME": "Mirakel",
+    "DESCRIPTION": "Behoud. NL Krijg [W]. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Behoud. NL Krijg [W] [W]. NL Put-uit."
+  },
+  "DevaForm": {
+    "NAME": "Devavorm",
+    "DESCRIPTION": "Etherisch. NL Aan het begin van je beurt, krijg [W] NL en verhoog dit met !M!.",
+    "UPGRADE_DESCRIPTION": "Aan het begin van je beurt, krijg [W] NL en verhoog dit met !M!."
+  },
+  "TalkToTheHand": {
+    "NAME": "Praat tegen de Hand",
+    "DESCRIPTION": "Richt !D! schade aan. NL Telkens als je deze vijand aanvalt, krijg !M! Blok. NL Put-uit."
+  },
+  "Strike_P": {
+    "NAME": "Slag",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Meditate": {
+    "NAME": "Mediteren",
+    "DESCRIPTION": "Plaats een kaart van je aflegstapel in je hand en Behoudt deze. NL Ga over in Kalmte. NL Beëindig je beurt.",
+    "UPGRADE_DESCRIPTION": "Plaats 2 kaarten van je aflegstapel in je hand en Behoudt deze. NL Ga over in Kalmte. NL Beëindig je beurt."
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTION": "Telkens als je Scry gebruikt, krijg !M! Blok.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "DeceiveReality": {
+    "NAME": "Realiteit Bedriegen",
+    "DESCRIPTION": "Krijg !B! Blok. NL Voeg een *Veiligheid toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. NL Voeg een *Veiligheid+ toe aan je hand."
+  },
+  "RetreatingHand": {
+    "NAME": "DEPRECATED Retreating Hand",
+    "DESCRIPTION": "Etherisch. NL Krijg !B! Blok. If the previous kaart played was an Attack, return this kaart to your hand.",
+    "UPGRADE_DESCRIPTION": "Krijg !B! Blok. If the previous kaart played was an Attack, return this kaart to your hand."
+  },
+  "Halt": {
+    "NAME": "Halt",
+    "DESCRIPTION": "Krijg !B! Blok. NL Als je in Toorn bent, krijg !M! extra Blok."
+  },
+  "CurseOfTheBell": {
+    "NAME": "Vloek van de Bel",
+    "DESCRIPTION": "Onspeelbaar. NL Kan niet worden verwijderd van je stok."
+  },
+  "Brilliance": {
+    "NAME": "Pracht",
+    "DESCRIPTION": "Richt !D! schade aan. NL Richt extra schade aan gelijk aan Mantra verkregen in dit gevecht.",
+    "EXTENDED_DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "ClearTheMind": {
+    "NAME": "Rust",
+    "DESCRIPTION": "Behoud. NL Ga over in Kalmte. NL Put-uit."
+  },
+  "Safety": {
+    "NAME": "Veiligheid",
+    "DESCRIPTION": "Behoud. NL Krijg !B! Blok. NL Put-uit."
+  },
+  "Scrawl": {
+    "NAME": "Krabbelen",
+    "DESCRIPTION": "Trek kaarten totdat je hand vol zit. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Prostrate": {
+    "NAME": "Uitgestrekt",
+    "DESCRIPTION": "Krijg !M! Mantra. NL Krijg !B! Blok.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Pray": {
+    "NAME": "Bidden",
+    "DESCRIPTION": "Krijg !M! Mantra. NL Schud een *Inzicht in je trekstapel.",
+    "UPGRADE_DESCRIPTION": "Krijg !M! Mantra. NL Schud een *Inzicht+ in je trekstapel."
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Trek 1 kaart. NL Behoud. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Trek 1 kaart. NL Behoud."
+  },
+  "ForeignInfluence": {
+    "NAME": "Uitheemse Invloed",
+    "DESCRIPTION": "Kies 1 uit 3 Aanvallen van welke kleur dan ook om toe te voegen aan je hand. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Kies 1 uit 3 Aanvallen van welke kleur dan ook om toe te voegen aan je hand. NL Het kost 0 deze beurt. NL Put-uit."
+  },
+  "SignatureMove": {
+    "NAME": "Kenmerkende Zet",
+    "DESCRIPTION": "Kan alleen gespeeld worden als dit de enige Aanval in je hand is. NL Richt !D! schade aan."
+  },
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sublime Slice",
+    "DESCRIPTION": "Richt !D! schade aan. NL Enter a random Houding."
+  },
+  "ReachHeaven": {
+    "NAME": "Bereik de Hemel",
+    "DESCRIPTION": "Richt !D! schade aan. NL Schud een NL *Door *Geweld in je trekstapel.",
+    "UPGRADE_DESCRIPTION": "Richt !D! schade aan. NL Schud een *Door *Geweld+ in je trekstapel."
+  },
+  "Insight": {
+    "NAME": "Inzicht",
+    "DESCRIPTION": "Behoud. NL Trek !M! kaarten. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Behoud. NL Trek !M! kaarten. NL Put-uit."
+  },
+  "BattleHymn": {
+    "NAME": "Strijdzang",
+    "DESCRIPTION": "Aan het begin van elke beurt, voeg een *Straffen toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Aangeboren. NL Aan het begin van elke beurt, voeg een *Straffen toe aan je hand."
+  },
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Behoud."
+  },
+  "BowlingBash": {
+    "NAME": "Bowling Beuk",
+    "DESCRIPTION": "Richt !D! schade aan voor elke vijand in het gevecht."
+  },
+  "Truth": {
+    "NAME": "Waarheid",
+    "DESCRIPTION": "Behoud. NL Richt !D! schade aan. NL Trek !M! kaart. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Behoud. NL Richt !D! schade aan. NL Trek !M! kaarten. NL Put-uit."
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Houding."
+  },
+  "Smite": {
+    "NAME": "Straffen",
+    "DESCRIPTION": "Behoud. NL Richt !D! schade aan. NL Put-uit."
+  },
+  "Omniscience": {
+    "NAME": "Alwetendheid",
+    "DESCRIPTION": "Kies een kaart in je trekstapel. NL Speel de gekozen kaart twee keer en put het uit. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "Aan het einde van je beurt, richt !M! schade aan op ALLE vijanden."
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Sereniteit",
+    "DESCRIPTION": "Terwijl je in Kalmte bent, LP verlies is verlaagd met !M!."
+  },
+  "Judgement": {
+    "NAME": "Oordeel",
+    "DESCRIPTION": "Als de vijand !M! of minder LP heeft, zet hun NL LP op 0.",
+    "EXTENDED_DESCRIPTION": [
+      "BEOORDEELD"
+    ]
+  },
+  "MentalFortress": {
+    "NAME": "Mentaal Fort",
+    "DESCRIPTION": "Telkens als je verandert van Houding, krijg !M! Blok."
+  },
+  "EmptyBody": {
+    "NAME": "Leeg Lichaam",
+    "DESCRIPTION": "Krijg !B! Blok. NL Verlaat je Houding."
+  },
+  "Crescendo": {
+    "NAME": "Crescendo",
+    "DESCRIPTION": "Behoud. NL Ga over in Toorn. NL Put-uit."
+  },
+  "SandsOfTime": {
+    "NAME": "Zanden van Tijd",
+    "DESCRIPTION": "Behoud. NL Richt !D! schade aan. NL Wanneer Behouden, verlaag zijn kosten met 1 voor dit gevecht."
+  },
+  "Blasphemy": {
+    "NAME": "Godslastering",
+    "DESCRIPTION": "Ga over in Goddelijkheid. NL Sterf de volgende beurt. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Behoud. NL Ga over in Goddelijkheid. NL Sterf de volgende beurt. NL Put-uit."
+  },
+  "Transcendence": {
+    "NAME": "Transcendentie",
+    "DESCRIPTION": "Upgrade alle kaarten die worden Behouden in je hand."
+  },
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "Richt !D! schade aan op ALLE vijanden. NL Toorn: Krijg [W] [W] ."
+  },
+  "Unraveling": {
+    "NAME": "Ontrafelen",
+    "DESCRIPTION": "Speel al je kaarten van links naar rechts. Doelwitten worden willekeurig gekozen. NL Put-uit."
+  },
+  "Weave": {
+    "NAME": "Weven",
+    "DESCRIPTION": "Richt !D! schade aan. NL Telkens als je Scry gebruikt, komt deze kaart van de aflegstapel terug naar je Hand."
+  },
+  "CrushJoints": {
+    "NAME": "Gewrichten Verbrijzelen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de laatst gespeelde kaart in dit gevecht een Vaardigheid was, pas !M! Kwetsbaar toe."
+  },
+  "Vengeance": {
+    "NAME": "Sudderende Woede",
+    "DESCRIPTION": "Scry !M!. NL Ga over in Toorn aan het begin van je volgende beurt."
+  },
+  "CarveReality": {
+    "NAME": "Realiteit Kerven",
+    "DESCRIPTION": "Richt !D! schade aan. NL Voeg een *Straffen toe aan je hand.",
+    "UPGRADE_DESCRIPTION": "Richt !D! schade aan. NL Voeg een *Straffen+ toe aan je hand."
+  },
+  "Defend_P": {
+    "NAME": "Verdedig",
+    "DESCRIPTION": "Krijg !B! Blok."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Richt !D! schade aan. NL If you have Vigor, NL Krijg [W] en NL trek 1 kaart."
+  },
+  "Thwack": {
+    "NAME": "DEPRECATED Thwack",
+    "DESCRIPTION": "Richt !D! schade aan."
+  },
+  "Fasting": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Swipe": {
+    "NAME": "DEPRECATED Swipe",
+    "DESCRIPTION": "Richt !D! schade aan. Deal half this damage to all other enemies."
+  },
+  "InnerPeace": {
+    "NAME": "Innerlijke Rust",
+    "DESCRIPTION": "Als je in Kalmte bent, trek !M! kaarten, ga anders over in Kalmte."
+  },
+  "StepAndStrike": {
+    "NAME": "DEPRECATED Stap en Slag",
+    "DESCRIPTION": "Kost 1 minder per gewisselde Houding deze beurt. NL Krijg !B! Blok. NL Richt !D! schade aan."
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediction",
+    "DESCRIPTION": "Krijg !B! Blok at the start of je next beurt."
+  },
+  "Flow": {
+    "NAME": "DEPRECATED Flow",
+    "DESCRIPTION": "When you play an Attack, Krijg 1 temporary Dexterity. When you play a Skill, Krijg 1 temporary Sterkte."
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Flame Mastery",
+    "DESCRIPTION": "Krijg !M! Sterkte."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Vlaag van Klappen",
+    "DESCRIPTION": "Richt !D! schade aan. NL Telkens als je van Houding verandert, komt deze kaart van de aflegstapel terug naar je Hand."
+  },
+  "SashWhip": {
+    "NAME": "Sjerpzweep",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als de laatst gespeelde kaart in dit gevecht een Aanval was, pas !M! Zwak toe."
+  },
+  "WheelKick": {
+    "NAME": "Draaitrap",
+    "DESCRIPTION": "Richt !D! schade aan. NL Trek !M! kaarten.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Indignation": {
+    "NAME": "Verontwaardiging",
+    "DESCRIPTION": "Als je in Toorn bent, pas !M! Kwetsbaar toe op ALLE vijanden, ga anders over in Toorn."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Word Almachtig",
+    "DESCRIPTION": "Krijg !M! Sterkte."
+  },
+  "FameAndFortune": {
+    "NAME": "Roem en Rijkdom",
+    "DESCRIPTION": "Krijg !M! Goud."
+  },
+  "LiveForever": {
+    "NAME": "Leef voor Eeuwig",
+    "DESCRIPTION": "Krijg !M! *Gepantserde *Bescherming."
+  },
+  "Expunger": {
+    "NAME": "Vernietiger",
+    "DESCRIPTION": "Richt !D! schade aan X keer.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "Richt !D! schade aan !M! keer.",
+      "Deal !D! damage !M! time."
+    ]
+  },
+  "ConjureBlade": {
+    "NAME": "Zwaard Construeren",
+    "DESCRIPTION": "Schud een *Vernietiger in je trekstapel. NL Put-uit.",
+    "UPGRADE_DESCRIPTION": "Schud een *Vernietiger met X+1 in je trekstapel. NL Put-uit."
+  },
+  "WaveOfTheHand2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Fasting2": {
+    "NAME": "Vastend",
+    "DESCRIPTION": "Krijg !M! Sterkte. NL Krijg !M! Behendigheid. NL Krijg 1 [W] minder aan het begin van elke beurt."
+  },
+  "Discipline": {
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTION": "Als je je beurt eindigt met ongebruikte [W] , trek dat aantal kaarten extra in de volgende beurt."
+  },
+  "Flick": {
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTION": "Richt !D! schade aan. NL Als een vijand 3 keer is *Geflicked, dan krijgt deze !M! schade aangericht."
+  },
+  "LikeWater": {
+    "NAME": "Zoals Water",
+    "DESCRIPTION": "Aan het einde van je beurt, als je in Kalmte bent, krijg !M! Blok."
+  },
+  "Study": {
+    "NAME": "Bestuderen",
+    "DESCRIPTION": "Aan het einde van je beurt, schud een *Inzicht in je trekstapel."
+  }
+}

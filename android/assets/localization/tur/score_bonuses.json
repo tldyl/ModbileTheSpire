@@ -1,0 +1,180 @@
+{
+  "Ascension": {
+    "NAME": "Yükseliş",
+    "DESCRIPTIONS": [
+      "Her yükseliş seviyesi için +%5 puan."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Ölen 'Ötesi' Elitleri ",
+    "DESCRIPTIONS": []
+  },
+  "Bosses Slain": {
+    "NAME": "Yenilen Bosslar",
+    "DESCRIPTIONS": []
+  },
+  "City Elites Killed": {
+    "NAME": "Ölen 'Şehir' Elitleri ",
+    "DESCRIPTIONS": []
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Ölen 'Başlangıç' Elitleri ",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Şampiyon",
+    "DESCRIPTIONS": [
+      "Bir Eliti hasar almadan yendin."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Mükemmel",
+    "DESCRIPTIONS": [
+      "Bir Boss'u hasar almadan yendin."
+    ]
+  },
+  "Beyond Perfect": {
+    "NAME": "Mükemmel Ötesi",
+    "DESCRIPTIONS": [
+      "Tüm bossları hasar almadan yendin."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Aşırı Yükleme",
+    "DESCRIPTIONS": [
+      "Tek bir saldırıyla 99 hasar verdin."
+    ]
+  },
+  "Combo": {
+    "NAME": "K-k-k-kombo",
+    "DESCRIPTIONS": [
+      "Tek bir turda 20 kart oynadın."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Kaka",
+    "DESCRIPTIONS": [
+      "Ruh Boku'nu elde ettin."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Hileci",
+    "DESCRIPTIONS": [
+      "Hile yaparken yakalandın. Eğer ikinci kez olursa, skorların Lider Tablosu'na asla yüklenmeyecek."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Hızlı Sürücü",
+    "DESCRIPTIONS": [
+      "60 dakika altında galibiyet."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Işık Hızı",
+    "DESCRIPTIONS": [
+      "45 dakika altında galibiyet."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Para Para",
+    "DESCRIPTIONS": [
+      "1000 altın elde ettin."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Para Yağmuru",
+    "DESCRIPTIONS": [
+      "2000 altın elde ettin."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Altın Severim",
+    "DESCRIPTIONS": [
+      "3000 altın elde ettin."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalist",
+    "DESCRIPTIONS": [
+      "Destenden 5+ kart çıkardın."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Yalnız Kalmış",
+    "DESCRIPTIONS": [
+      "Desten çift kart içermiyor (başlangıç kartları hariç)."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Parlak Şeylerden Hoşlanırım",
+    "DESCRIPTIONS": [
+      "25+ kalıntın var."
+    ]
+  },
+  "Collector": {
+    "NAME": "Koleksiyoncu",
+    "DESCRIPTIONS": [
+      "Başlangıç kartları hariç herhangi bir karttan 4 kopya bulundurdun."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Yoksul",
+    "DESCRIPTIONS": [
+      "0 Nadir kartın var."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Kütüphaneci",
+    "DESCRIPTIONS": [
+      "En az 35 tane kart olan deste."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Ansiklopedici",
+    "DESCRIPTIONS": [
+      "En az 50 tane kart olan deste."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "İyi Beslenmiş",
+    "DESCRIPTIONS": [
+      "Maksimum CP'ni 15+ artırdın."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Tıka Basa Doymuş",
+    "DESCRIPTIONS": [
+      "Maksimum CP'ni 30+ artırdın."
+    ]
+  },
+  "Curses": {
+    "NAME": "Lanetler!",
+    "DESCRIPTIONS": [
+      "Desten 5 lanet içeriyor."
+    ]
+  },
+  "Alchemist": {
+    "NAME": "Simyager",
+    "DESCRIPTIONS": [
+      "5 İksir satın alındı."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Gizemli Makine",
+    "DESCRIPTIONS": [
+      "15+ ? odasına gittin."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Kendi Kurallarım",
+    "DESCRIPTIONS": [
+      "Kendini öldürdün."
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "Kalp Kırıcı",
+    "DESCRIPTIONS": [
+      "Kalbi yenilgiye uğrattın."
+    ]
+  }
+}

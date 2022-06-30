@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Kraaibot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Het Mankement"
+    ],
+    "TEXT": [
+      "Een gevechtsautomaat die zelfbewust is geworden. NL Aloude technologie zorgt voor de manipulatie van Bollen."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "De Gepantserde"
+    ],
+    "TEXT": [
+      "De overgebleven soldaat van de Gepantserden. NL Verkocht zijn ziel om demonische energieën te gebruiken."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Ga Verder",
+      "~Welkom!~"
+    ],
+    "TEXT": [
+      "Hoi! NL Koop iets! NL Kopen kopen kopen!",
+      "Ik vind je kapsel leuk",
+      "Heb je even tijd?",
+      "Ben je meer een honden- of kattenmens?",
+      "Jij ziet er ~gevaarlijk~ uit, NL hehe...",
+      "Neem je tijd... NL ..... NL ... of niet",
+      "Vind je dit een mooi kleedje? NL Het is niet te koop hoor",
+      "Ondersteun kleine bedrijfjes!",
+      "Maskers zijn cool, ik kan het weten!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Blijf een tijdje en luister!",
+      "Het is gevaarlijk om alleen te gaan! Geef mij al je goud!",
+      "Koop iets",
+      "~*GAAP*~",
+      "Ik hou van goud.",
+      "Mijn favoriete kleur is blauw. NL Wat is die van jou?"
+    ],
+    "OPTIONS": [
+      "Hoe ben ik hier gekomen? NL Boeit mij het.",
+      "Laatste kans om iets te kopen! NL ~*knipoog*~ ~*knipoog*~",
+      "..... NL .... NL .........",
+      "Ik ben een kattenmens.",
+      "Geen haast. NL Geen haast.",
+      "Is dit niet @opwindend!?@",
+      "Ik was ooit zoals jij.",
+      "Op weg naar boven?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Gegroet...~ NL ~Ik..~ ~ben~ ~Neow...~",
+      "~Hallo...~ NL ~Alweer..~",
+      "~Gegroet..~",
+      "~Nog~ ~een~ NL ~poging...?~",
+      "~Bereik~ ~de~ ~baas...~ NL ~om~ ~meer~ ~zegens..~ ~te...~ ~krijgen....~",
+      "~Confronteer~ ~minstens...~ NL ~de~ ~eerste~ ~baas...~",
+      "~Ik~ ~bracht~ ~je~ ~terug...~",
+      "~Kies...~",
+      "~Toegekend...~",
+      "~Risico...~ NL ~..beloning....~",
+      "~Tijd~ ~voor~ ~een~ NL ~UITDAGING...~",
+      "Beloningen",
+      "~Laten~ ~we~ ~blijven~ ~gaan...~",
+      "~Het~ ~wordt~ ~alleen~ ~maar~ ~moeilijker...~",
+      "~Indrukwekkend...~ ~meer...~",
+      "Vervloekt!",
+      "Warhoofd!",
+      "Transformatie!"
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Praat]",
+      "[Sla Over]",
+      "[Verlaat]",
+      "Kies 10 kaarten om aan je stok toe te voegen."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gKies #geen #gKaart #gom #gte #gontvangen ]",
+      "[ #gOntvang #geen #gwillekeurige #gzeldzame #gKaart ]",
+      "[ #gVerwijder #geen #gKaart #guit #gje #gstok ]",
+      "[ #gUpgrade #geen #gKaart ]",
+      "[ #gTransformeer #geen #gKaart ]",
+      "[ #gOntvang #g3 #gwillekeurige #gDrankjes ]",
+      "[ #gOntvang #geen #gwillekeurige #ggewone #gRelikwie ]",
+      "[ #gMax #gLP #g+",
+      "[ #gOntvang #g",
+      " #gGoud ]",
+      "#gVerwijder #g2 #gKaarten ]",
+      "#gOntvang #geen #gwillekeurige #gzeldzame #gRelikwie ]",
+      "#gKies #geen #gzeldzame #gKaart #gom #gte #gontvangen ]",
+      "#gVerkrijg #g",
+      " #gGoud ]",
+      "#gTransformeer #g2 #gKaarten ]",
+      "#gMax #gLP #g+",
+      "[ #rVerlies #r",
+      " #rMax #rLP ",
+      "[ #rVerlies #ral #rhet #rGoud ",
+      "[ #rOntvang #reen #rVloek ",
+      "[ #rNeem #r",
+      "Kies een Kaart",
+      "Selecteer een Kaart om te Verwijderen",
+      "Selecteer 2 Kaarten om te Verwijderen",
+      "Selecteer een Kaart om te Transformeren",
+      "Selecteer 2 Kaarten om te Transformeren",
+      "Selecteer een Kaart om te Upgraden",
+      "[ #gVijanden #gin #gje #gvolgende #gdrie #ggevechten #ghebben #g1 #gLP ]",
+      " #rschade",
+      "[ #gKies #geen #gkleurloze #gKaart #gom #gte #gontvangen ]",
+      "#gKies #geen #gzeldzame #gkleurloze #gKaart #gom #gte #gontvangen ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rVerlies #rje #rstarter #rRelikwie #gOntvang #geen #gwillekeurige #gbaas #gRelikwie ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Welkom~ NL ~welkom!~",
+      "Hey daar, NL je hebt meer NL #rGoud nodig.",
+      "Hey maatje, jij hebt geen #rGeld!",
+      "Ben je blut?",
+      "Je hebt niet genoeg #rGoud.",
+      "Je kunt dat niet betalen.",
+      "Dit is niet een of ander goed doel.",
+      "~Daaaaaaaankje~",
+      "Weer iets verkocht... NL hohoho! NL Ka - @Ching!@",
+      "@VERKOCHT!@",
+      "Geen Terugbetalingen.",
+      "Nog een fijne dag verder.",
+      "Verlaat",
+      "Selecteer een kaart om uit je stok te verwijderen."
+    ],
+    "TEXT": [
+      "Hoi! NL Koop iets! NL Kopen kopen kopen!",
+      "Ik vind je kapsel leuk",
+      "Heb je even tijd?",
+      "Ben je meer een honden- of kattenmens?",
+      "Jij ziet er ~gevaarlijk~ uit, NL hehe...",
+      "Neem de tijd... NL ..... NL ... of niet",
+      "Vind je dit een mooi kleedje? NL Het is niet te koop hoor",
+      "Ondersteun kleine bedrijfjes!",
+      "Maskers zijn cool, ik kan het weten!",
+      "Heb je mijn koerier gezien?",
+      "Blijf een tijdje en luister!",
+      "Het is gevaarlijk om alleen te gaan! Geef mij al je goud!",
+      "Koop iets",
+      "~*GAAP*~",
+      "Ik hou van goud.",
+      "Mijn favoriete kleur is blauw. NL Wat is die van jou?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "De Stille"
+    ],
+    "TEXT": [
+      "Een dodelijke jaagster uit de mistlanden. NL Verdelgt vijanden met dolken en vergiffen."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Wat... nu..? NL ..is het... gedaan....?",
+      "...de Spire slaapt.....",
+      "..en dus...... ik... NL ....ook......"
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "De Waarneemster"
+    ],
+    "TEXT": [
+      "Een blinde asceet die gekomen is om de Spire te \"Evalueren\". NL Meesteres van de goddelijke Houdingen."
+    ]
+  }
+}

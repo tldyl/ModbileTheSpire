@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Alkemis",
+    "DESCRIPTIONS": [
+      "Beli 5 ramuan."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Kenaikan",
+    "DESCRIPTIONS": [
+      "+5% skor per level Kenaikan."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Elit Alam Jauh Terbunuh",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Melebihi Kesempurnaan",
+    "DESCRIPTIONS": [
+      "Kalahkan 3 bos tanpa menerima damage."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Bos Dikalahkan",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Juara",
+    "DESCRIPTIONS": [
+      "Kalahkan Elit tanpa menerima damage."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Cheater",
+    "DESCRIPTIONS": [
+      "Ketahuan curang. Kalau ketahuan dua kali, skormu tidak akan diunggah ke Papan Ranking."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Elit Kota Terbunuh",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Kolektor",
+    "DESCRIPTIONS": [
+      "Punya 4 salin kartu selain kartu pengawal."
+    ]
+  },
+  "Combo": {
+    "NAME": "K-k-k-kombo",
+    "DESCRIPTIONS": [
+      "Memainkan 20 kartu dalam satu giliran."
+    ]
+  },
+  "Curses": {
+    "NAME": "Terkutuk!",
+    "DESCRIPTIONS": [
+      "Dekmu berisi 5 kutukan."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Ensiklopedian",
+    "DESCRIPTIONS": [
+      "Ukuran dek minimal 50 kartu."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Elit Pendahuluan Terbunuh",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Penghancur Jantung",
+    "DESCRIPTIONS": [
+      "Mengalahkan sang Jantung."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Orang Pegunungan",
+    "DESCRIPTIONS": [
+      "Dek tidak mengandung duplikat (kecuali kartu pengawal)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Aku Suka Emas",
+    "DESCRIPTIONS": [
+      "Memperoleh 3,000 emas."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Pustakawan",
+    "DESCRIPTIONS": [
+      "Ukuran dek minimal 35 kartu."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Kecepatan cahaya",
+    "DESCRIPTIONS": [
+      "Menang di bawah 45 menit."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalis",
+    "DESCRIPTIONS": [
+      "Hapus 5+ kartu dari dekmu."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Uang Uang Uang",
+    "DESCRIPTIONS": [
+      "Memperoleh 1,000 emas."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Mesin Misteri",
+    "DESCRIPTIONS": [
+      "Lewati 15+ ruang ? ."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Caraku Sendiri",
+    "DESCRIPTIONS": [
+      "Bunuh diri."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Berlebihan",
+    "DESCRIPTIONS": [
+      "Beri 99 damage sekali serangan."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Fakir Miskin",
+    "DESCRIPTIONS": [
+      "Punya 0 kartu langka."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Sempurna",
+    "DESCRIPTIONS": [
+      "Kalahkan Bos tanpa menerima damage."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Tinja",
+    "DESCRIPTIONS": [
+      "Menerima Tinja Spirit."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Hujan Uang",
+    "DESCRIPTIONS": [
+      "Memperoleh 2,000 emas."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Aku suka kerlap-kerlip",
+    "DESCRIPTIONS": [
+      "Punya 25+ pusaka."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Si Cepat",
+    "DESCRIPTIONS": [
+      "Menang di bawah 60 menit."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Kenyang",
+    "DESCRIPTIONS": [
+      "Naikkan HP Maks sebesar 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Makan Cukup",
+    "DESCRIPTIONS": [
+      "Naikkan HP Maks sebesar 15+."
+    ]
+  }
+}

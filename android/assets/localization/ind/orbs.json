@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Hitam",
+    "DESCRIPTION": [
+      "#yPasif: Pada akhir giliran, naikkan damage Orb ini sebanyak #b",
+      ". NL #yBangkit: Beri #b",
+      " damage ke musuh dengan HP terendah."
+    ]
+  },
+  "Empty": {
+    "NAME": "Petak Orb",
+    "DESCRIPTION": [
+      "Orb dapat disalurkan ke petak tersebut."
+    ]
+  },
+  "Frost": {
+    "NAME": "Beku",
+    "DESCRIPTION": [
+      "#yPasif: Pada akhir giliran, dapatkan #b",
+      " #yBlok. NL #yBangkit: Dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Petir",
+    "DESCRIPTION": [
+      "#yPasif: Pada akhir giliran, beri #b",
+      " damage ke musuh acak. NL #yBangkit: Beri #b",
+      " damage ke musuh acak."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plasma",
+    "DESCRIPTION": [
+      "#yPasif: Pada awal giliran, dapatkan [B] . NL #yBangkit: Dapatkan #b",
+      " [B] . NL Plasma tidak terpengaruhi oleh #yFokus."
+    ]
+  }
+}

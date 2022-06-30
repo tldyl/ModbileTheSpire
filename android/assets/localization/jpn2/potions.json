@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "古代のポーション",
+    "DESCRIPTIONS": [
+      "#yアーティファクト #b",
+      " を得る。"
+    ]
+  },
+  "Block Potion": {
+    "NAME": "ブロックポーション",
+    "DESCRIPTIONS": [
+      "#yブロック #b",
+      " を得る。"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "機敏ポーション",
+    "DESCRIPTIONS": [
+      "#y敏捷性 #b",
+      " を得る。"
+    ]
+  },
+  "Elixir": {
+    "NAME": "エリクサー",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "エナジーポーション",
+    "DESCRIPTIONS": [
+      "#yエナジー #b",
+      " を得る。"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆発ポーション",
+    "DESCRIPTIONS": [
+      "ダメージ #b",
+      " を与える（敵全体）。"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "火炎ポーション",
+    "DESCRIPTIONS": [
+      "ダメージ #b",
+      " を与える。"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "回復ポーション",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒ポーション",
+    "DESCRIPTIONS": [
+      "#y毒 #b",
+      " を与える。"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "ポーションスロット",
+    "DESCRIPTIONS": [
+      "戦闘中にポーションを使用して #gボーナス 効果を得たり敵の #r妨害 をする。",
+      "ポーションスロット"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "再生ポーション",
+    "DESCRIPTIONS": [
+      "#y再生 #b",
+      " を得る。",
+      ""
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "筋力ポーション",
+    "DESCRIPTIONS": [
+      "#y筋力 #b",
+      " を得る。"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "加速ポーション",
+    "DESCRIPTIONS": [
+      "",
+      "カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "脱力ポーション",
+    "DESCRIPTIONS": [
+      "#y脱力 #b",
+      " を与える。"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "フルーツジュース",
+    "DESCRIPTIONS": [
+      "最大HP+ #b",
+      " 。"
+    ]
+  },
+  "FearPotion": {
+    "NAME": "恐怖ポーション",
+    "DESCRIPTIONS": [
+      "#y弱体 #b",
+      " を与える。"
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "スキルポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #yスキル から #b1 枚選び、手札に加える。このターン、そのコストは #b0 。",
+      "#b3 枚のランダムな #yスキル から #b1 枚選び、それを #b2 枚手札に加える。このターン、そのコストは #b0 。"
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "アタックポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #yアタック から #b1 枚選び、手札に加える。このターン、そのコストは #b0 。",
+      "#b3 枚のランダムな #yアタック から #b1 枚選び、それを #b2 枚手札に加える。このターン、そのコストは #b0 。"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "パワーポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #yパワー から #b1 枚選び、手札に加える。このターン、そのコストは #b0 。",
+      "#b3 枚のランダムな #yパワー から #b1 枚選び、それを #b2 枚手札に加える。このターン、そのコストは #b0 。"
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "ステロイドポーション",
+    "DESCRIPTIONS": [
+      "#y筋力 #b",
+      " を得る。このターン終了時に #y筋力 #b",
+      " を失う。"
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "スピードポーション",
+    "DESCRIPTIONS": [
+      "#y敏捷性 #b",
+      " を得る。このターン終了時に #y敏捷性 #b",
+      " を失う。"
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "幽霊瓶",
+    "DESCRIPTIONS": [
+      "#y無形 #b",
+      " を得る。"
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "集中ポーション",
+    "DESCRIPTIONS": [
+      "#y集中力 #b",
+      " を得る。"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "スネッコオイル",
+    "DESCRIPTIONS": [
+      "カードを #b",
+      " 枚引く。 手札のカードのコストがランダムに変化する。",
+      ""
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "液体ブロンズ",
+    "DESCRIPTIONS": [
+      "#yトゲ #b",
+      " を得る。"
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "賭博師の醸造酒",
+    "DESCRIPTIONS": [
+      "好きな枚数のカードを捨て、同じ枚数のカードを引く。"
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "鉄のエッセンス",
+    "DESCRIPTIONS": [
+      "#yプレートアーマー #b",
+      " を得る。"
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "ブラッドポーション",
+    "DESCRIPTIONS": [
+      "最大HPの #b",
+      "% を回復する。"
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "瓶詰の妖精",
+    "DESCRIPTIONS": [
+      "戦闘不能時、 最大HPの #b",
+      "% で復活し、このポーションを失う。"
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "煙玉",
+    "DESCRIPTIONS": [
+      "ボス以外の戦闘から逃走する。報酬は得られない。",
+      "囲まれている！"
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "エントロピー醸造",
+    "DESCRIPTIONS": [
+      "すべての空きポーションスロットをランダムなポーションで満たす。"
+    ]
+  },
+  "StancePotion": {
+    "NAME": "スタンスポーション",
+    "DESCRIPTIONS": [
+      "#y平静 か #y憤怒 の スタンス に入る。"
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "複製ポーション",
+    "DESCRIPTIONS": [
+      "このターン、次のカードを2回プレイする。",
+      "このターン、次の #b2 枚のカードを2回プレイする。"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "拡張ポーション",
+    "DESCRIPTIONS": [
+      "#yオーブスロット を #b",
+      " つ得る。"
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "鉄の心臓",
+    "DESCRIPTIONS": [
+      "#y金属化 #b",
+      " を得る。"
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "ミラクルボトル",
+    "DESCRIPTIONS": [
+      "#y奇跡 を #b",
+      " 枚手札に加える。"
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "アンブロシア",
+    "DESCRIPTIONS": [
+      "#y神聖 の スタンス に入る。"
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "闇のエッセンス",
+    "DESCRIPTIONS": [
+      "オーブスロット1つにつき、 #yダーク #b",
+      " を #y生成 する。"
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "狡猾ポーション",
+    "DESCRIPTIONS": [
+      "#yナイフ+ を #b",
+      " 枚手札に加える。"
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "エリクサー",
+    "DESCRIPTIONS": [
+      "手札から好きな枚数を #y廃棄 する。"
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "蒸留した混沌",
+    "DESCRIPTIONS": [
+      "山札の上から #b",
+      " 枚のカードをプレイする。"
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "記憶リキッド",
+    "DESCRIPTIONS": [
+      "捨て札のカードを #b1 枚選び、手札に戻す。このターンそのコストは #b0 。",
+      "捨て札のカードを #b",
+      " 枚選び、手札に戻す。このターンそれらのコストは #b0 。"
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "狂信者のポーション",
+    "DESCRIPTIONS": [
+      "#y儀式 #b",
+      " を得る。"
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "無色のポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #y無色 のカードから #b1 枚選び、手札に加える。このターン、そのコストは #b0 。",
+      "#b3 枚のランダムな #y無色 のカードから #b1 枚選び、それを #b2 枚手札に加える。このターン、そのコストは #b0 。"
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "鍛冶場の祝福",
+    "DESCRIPTIONS": [
+      "戦闘終了まで、手札のカードを全て アップグレード する。"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Fúria",
+    "DESCRIPTION": [
+      "Seus Ataques causam o dobro de dano e você recebe o dobro de dano de ataques."
+    ]
+  },
+  "Calm": {
+    "NAME": "Calma",
+    "DESCRIPTION": [
+      "Ao sair desta #yPostura, ganhe [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Divindade",
+    "DESCRIPTION": [
+      "Ao entrar nesta #yPostura, ganhe [W] [W] [W] . Ataques causam triplo de dano. Saia desta #yPostura ao começo do seu próximo turno."
+    ]
+  }
+}

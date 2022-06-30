@@ -1,0 +1,16 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Deadly Enemies",
+    "DESCRIPTION": [
+      "Enemies deal #b",
+	  "% more damage."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Tough Enemies",
+     "DESCRIPTION": [
+      "Enemies have #b",
+	  "% more HP."
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Алхемичар",
+    "DESCRIPTIONS": [
+      "Купио пет напитака."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Успињање",
+    "DESCRIPTIONS": [
+      "+5% на поене по нивоу Успињања."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Убиј. челника у Вани",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Пресавршен",
+    "DESCRIPTIONS": [
+      "Поразио три вожда без претрпљивања штете."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Убијених вождова",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Шампион",
+    "DESCRIPTIONS": [
+      "Поразио челника без претрпљивања штете."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Варалица",
+    "DESCRIPTIONS": [
+      "Ухваћен у варању. Резултати двапут ухваћених се не деле са другима."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Убиј. челника у Граду",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Колекционар",
+    "DESCRIPTIONS": [
+      "Имаш четири копије било које карте, не рачунајући урођене."
+    ]
+  },
+  "Combo": {
+    "NAME": "К-к-к-комбо",
+    "DESCRIPTIONS": [
+      "Одиграо 20 карата у једном потезу."
+    ]
+  },
+  "Curses": {
+    "NAME": "Судбо клета!",
+    "DESCRIPTIONS": [
+      "Имаш барем пет клетви."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Енциклопедиста",
+    "DESCRIPTIONS": [
+      "Имаш више од 50 карата у шпилу."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Убиј. челника у Прелуд.",
+    "DESCRIPTIONS": []
+  },
+  "Highlander": {
+    "NAME": "Брђанин",
+    "DESCRIPTIONS": [
+      "Имаш шпил без дупликата (искључујући урођене карте)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Волим злато",
+    "DESCRIPTIONS": [
+      "Барем 3000 златника ти је прошло кроз руке."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Библиотекар",
+    "DESCRIPTIONS": [
+      "Имаш више од 35 карата у шпилу."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Светлосном брзином",
+    "DESCRIPTIONS": [
+      "Победи испод 45 минута."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Минималиста",
+    "DESCRIPTIONS": [
+      "5+ карата уклоњених из шпила."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Паре паре паре",
+    "DESCRIPTIONS": [
+      "Барем 1000 златника ти је прошло кроз руке."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Малац радозналац",
+    "DESCRIPTIONS": [
+      "Посетио 15+ ? соба."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "На своју руку",
+    "DESCRIPTIONS": [
+      "Убио се се."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Прекољ",
+    "DESCRIPTIONS": [
+      "Начинио 99 штете једним нападом."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Сиромах",
+    "DESCRIPTIONS": [
+      "Имаш нула ретких карата."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Савршен",
+    "DESCRIPTIONS": [
+      "Поразио вожда без претрпљивања штете."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Гованцљив",
+    "DESCRIPTIONS": [
+      "Имаш гованце вилењака."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Баја Патак",
+    "DESCRIPTIONS": [
+      "Барем 2000 златника ти је прошло кроз руке."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Шљашт",
+    "DESCRIPTIONS": [
+      "Имаш 25+ реликвија."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Брзиша",
+    "DESCRIPTIONS": [
+      "Победи испод 60 минута."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Наждран",
+    "DESCRIPTIONS": [
+      "Макс. ж. п. повећани за 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Ухрањен",
+    "DESCRIPTIONS": [
+      "Макс. ж. п. повећани за 15+."
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "Heartbreaker",
+    "DESCRIPTIONS": [
+      "Defeat the Heart."
+    ]
+  }
+}

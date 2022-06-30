@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Alleskönner",
+    "DESCRIPTION": "Beginne mit 5 farblosen Karten."
+  },
+  "Binary": {
+    "NAME": "Binär",
+    "DESCRIPTION": "Kartenbelohnungen enthalten nur 2 Karten."
+  },
+  "Blight Chests": {
+    "NAME": "Fäulnis-Truhen",
+    "DESCRIPTION": "Im Endlosmodus enthalten Boss-Truhen nach dem 3. Akt Fäulnis."
+  },
+  "Blue Cards": {
+    "NAME": "Blaue Karten",
+    "DESCRIPTION": "Blaue Karten tauchen bei Belohnungen und im Laden auf."
+  },
+  "Brewmaster": {
+    "NAME": "[VERALTET] Braumeister",
+    "DESCRIPTION": "Beginne mit 5 Kopien von Alchemisieren und der Weißen Bestienstatue."
+  },
+  "Careless": {
+    "NAME": "Achtlos",
+    "DESCRIPTION": "Wirf am Anfang deines Zuges die oberste Karte des Nachziehstapels ab."
+  },
+  "Chimera": {
+    "NAME": "Chimäre",
+    "DESCRIPTION": "Dein Startdeck ist eine Kombination aller Charaktere."
+  },
+  "Colorless Cards": {
+    "NAME": "Farblose Karten",
+    "DESCRIPTION": "Farblose Karten tauchen bei Belohnungen auf."
+  },
+  "ControlledChaos": {
+    "NAME": "Herr des Chaos",
+    "DESCRIPTION": "Beginne mit Gefrorenes Auge. Erhalte am Anfang deines Zuges 10 zufällige Karten unter den Nachziehstapel."
+  },
+  "Cursed Run": {
+    "NAME": "Verfluchter Run",
+    "DESCRIPTION": "Erhalte einen Fluch, wenn du einen Boss besiegst. Dein Startrelikt ist ersetzt durch Verfluchter Schlüssel, Dunkelstein-Amulett und die Du-Vu-Puppe."
+  },
+  "Daily Mods": {
+    "NAME": "Der Tägliche",
+    "DESCRIPTION": "Beginne einen Run mit 3 zufälligen täglichen Modifikatoren."
+  },
+  "DeadlyEvents": {
+    "NAME": "Tödliche Ereignisse",
+    "DESCRIPTION": "In ?-Räumen können Eliten sein, aber es ist wahrscheinlicher dort Schätze zu finden."
+  },
+  "Diverse": {
+    "NAME": "Vielfalt",
+    "DESCRIPTION": "Karten sind nicht durch deinen Charakter eingeschränkt."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Drafte die Karten für dein Startdeck."
+  },
+  "Elite Swarm": {
+    "NAME": "Eliten-Schwarm",
+    "DESCRIPTION": "Elite schwärmen den Spire und hinterlassen bessere Beute."
+  },
+  "Endless": {
+    "NAME": "Endlos",
+    "DESCRIPTION": "Nach einem Sieg beginnst du wieder im 1. Akt mit demselben Deck. Aber hüte dich, am Ende verzehrt jeden die Fäulnis..."
+  },
+  "Flight": {
+    "NAME": "Fliegen",
+    "DESCRIPTION": "Beim Wählen des nächsten Raumes kannst du den Pfad ignorieren."
+  },
+  "Green Cards": {
+    "NAME": "Grüne Karten",
+    "DESCRIPTION": "Grüne Karten tauchen bei Belohnungen und im Laden auf."
+  },
+  "Heirloom": {
+    "NAME": "Erbstück",
+    "DESCRIPTION": "Beginne mit 1 seltenen Relikt."
+  },
+  "Hoarder": {
+    "NAME": "Sammler",
+    "DESCRIPTION": "Immer wenn du deinem Deck eine Karte hinzufügst, erhalte 2 weitere Exemplare. Du kannst beim Händler keine Karten entfernen."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Dein Startrelikt wird durch den Immerdrehenden Kreisel ersetzt."
+  },
+  "Insanity": {
+    "NAME": "Wahnsinn",
+    "DESCRIPTION": "Beginne mit einem zufälligen Deck aus 50 Karten."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Kluge Feinde",
+    "DESCRIPTION": "Alle Gegner haben anspruchsvollere Absichten und Fähigkeiten."
+  },
+  "Lethality": {
+    "NAME": "Tödlichkeit",
+    "DESCRIPTION": "Beginne jeden Kampf mit +3 Stärke. Alle Gegner beginnen den Kampf mit +3 Stärke."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Gegner lassen 200% mehr Gold fallen, aber du kannst am Lagerfeuer nicht schmieden."
+  },
+  "MonsterHunter": {
+    "NAME": "[VERALTET] Koloss",
+    "DESCRIPTION": "Gegner haben mehr TP, aber hinterlassen dafür bessere Belohnungen."
+  },
+  "My True Form": {
+    "NAME": "Meine wahre Form",
+    "DESCRIPTION": "Beginne mit einem Exemplar von Dämonenform, Geistform,  Echoform und Devaform."
+  },
+  "NeowTime": {
+    "NAME": "Zeit der Niau",
+    "DESCRIPTION": "Erhalte 3 Segen und 1 Fäulnis von Niau."
+  },
+  "Night Terrors": {
+    "NAME": "Nachtangst",
+    "DESCRIPTION": "Ausruhen an einem Lagerfeuer heilt dich komplett, aber kostet dich 5 max. TP."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Beginne das Spiel mit 1 max. TP."
+  },
+  "Praise Snecko": {
+    "NAME": "Preiset Snecko",
+    "DESCRIPTION": "Dein Startrelikt wird durch das Snecko-Auge ersetzt."
+  },
+  "Red Cards": {
+    "NAME": "Rote Karten",
+    "DESCRIPTION": "Rote Karten tauchen bei Belohnungen und im Laden auf."
+  },
+  "SealedDeck": {
+    "NAME": "Sealed-Deck",
+    "DESCRIPTION": "Erstelle ein Deck, indem du aus 30 zufälligen Karten wählst."
+  },
+  "Shiny": {
+    "NAME": "Glänzend",
+    "DESCRIPTION": "Das Startdeck wird ersetzt durch 1 von jeder seltenen Karte."
+  },
+  "Specialized": {
+    "NAME": "Spezialisiert",
+    "DESCRIPTION": "Beginne mit 5 Exemplaren einer Karte."
+  },
+  "Starter Deck": {
+    "NAME": "Startdeck",
+    "DESCRIPTION": "Beginne mit Zerbrochene Krone und Binär, sodass Gegner keine Karten hinterlassen."
+  },
+  "Stunted Growth": {
+    "NAME": "Verkümmerung",
+    "DESCRIPTION": "Im Endlosmodus hinterlassen Gegner nach dem Besiegen des 3. Aktes keine Kartenbelohnungen mehr."
+  },
+  "Terminal": {
+    "NAME": "Das Ende naht",
+    "DESCRIPTION": "Verliere 1 max. TP, wenn du einen Raum betrittst. Beginne jeden Kampf mit 5 Panzerrüstung."
+  },
+  "The Ending": {
+    "NAME": "Das Ende",
+    "DESCRIPTION": "Aktiviert den Letzten Akt."
+  },
+  "Time Dilation": {
+    "NAME": "Zeitverzögerung",
+    "DESCRIPTION": "Alle Gegner beginnen mit dem Debuff Langsam."
+  },
+  "Uncertain Future": {
+    "NAME": "Zukunftsgewissheit",
+    "DESCRIPTION": "Die Karte zeigt nur einen Pfad."
+  },
+  "Vintage": {
+    "NAME": "Antiquitäten",
+    "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
+  },
+  "Purple Cards": {
+    "NAME": "Lila Karten",
+    "DESCRIPTION": "Lila Karten tauchen bei Belohnungen und im Laden auf."
+  }
+}

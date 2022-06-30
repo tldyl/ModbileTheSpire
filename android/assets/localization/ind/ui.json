@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Tinggalkan Run"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Terkunci",
+      "Misteri"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Lanjut"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Mati",
+      "Tertahan",
+      "HP Maks +",
+      "Linglung!",
+      "Terputus!",
+      "Pusaka"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Lanjut",
+      "Wabah:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Agresif",
+      "Musuh ini berniat untuk NL #ySerang sebesar #b",
+      " damage #b",
+      " kali.",
+      "Musuh ini berniat untuk NL #ySerang sebesar #b",
+      " damage.",
+      "Agresif",
+      "Musuh ini berniat untuk melakukan #yBuff dan #ySerang sebanyak #b",
+      " kali.",
+      "Musuh ini berniat untuk melakukan #yBuff dan #ySerang sebesar #b",
+      "Strategis",
+      "Musuh ini berniat untuk menerapkan #yEfek #yNegatif ke kamu #ySerang sebesar #b",
+      "Musuh ini berniat untuk #yBlok dan #ySerang sebesar #b",
+      "Bertahan",
+      "Pecundang",
+      "Magis",
+      "Tidur",
+      "Linglung",
+      "Misteri",
+      "Musuh ini berniat untuk melakukan #yBuff.",
+      "Musuh ini berniat untuk menerapkan #yEfek #yNegatif ke kamu.",
+      "Musuh ini berniat untuk menerapkan #yEfek #yNegatif kuat ke kamu.",
+      "Musuh ini berniat untuk #yBlok di gilirannya.",
+      "Musuh ini berniat untuk #yBlok dan menerapkan #yEfek #yNegatif ke kamu.",
+      "Musuh ini berniat untuk #yBlok dan melakukan #yBuff.",
+      "Musuh ini berniat untuk #yKabur.",
+      "Musuh ini berniat untuk menggunakan #ySihir misterius di gilirannya.",
+      "Musuh ini tidur.",
+      "Musuh ini #yLinglung di gilirannya.",
+      "Niatan musuh ini #yMisteri (tidak menyerang).",
+      "Tertahan"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Tertahan",
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Watcher"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Aku tidak bisa membawa NL Ramuan lagi."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Dirampok...",
+      "Kabur..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Pilih satu Kartu untuk Tambah ke Tangan.",
+      "Pilih Kartu untuk Tambah ke Tangan."
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Dinegasikan",
+      "Kebal",
+      "Ditiadakan",
+      "\n Turun"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "Peningkatan"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "Elit lebih sering muncul.",
+      "Musuh biasa lebih mematikan.",
+      "Elit lebih mematikan.",
+      "Bos lebih mematikan.",
+      "Sembuhkan lebih sedikit setelah pertarungan Bos.",
+      "Mulai tiap run dengan damage.",
+      "Musuh biasa lebih tangguh.",
+      "Elit lebih tangguh.",
+      "Bos lebih tangguh.",
+      "Mulai tiap run dengan kutukan.",
+      "Petak Ramuan lebih sedikit.",
+      "Kartu yang sudah Ditingkatkan muncul lebih jarang.",
+      "Bos Miskin.",
+      "HP Maks lebih sedikit.",
+      "Event yang tidak menguntungkan.",
+      "Toko harganya lebih mahal.",
+      "Musuh biasa punya gerakan dan kemampuan yang lebih menantang.",
+      "Elit punya gerakan dan kemampuan yang lebih menantang.",
+      "Bos punya gerakan dan kemampuan yang lebih menantang.",
+      "(Level Maks) Bos Ganda."
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Mode Kenaikan Level ",
+      " Terbuka!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Kenaikan Terbuka!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Pilih satu Serangan untuk Tambah ke Tangan."
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Mulai Pertarungan",
+      "Giliran Pemain",
+      "Giliran Musuh",
+      " giliran"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Pilih satu kartu untuk Kembali ke Tangan",
+      "Pilih",
+      " Kartu untuk Kembali ke Tangan."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Lanjut"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Konfirmasi",
+      "Konfirmasi Pilihanmu",
+      "Pilih satu Pusaka",
+      "Abaikan",
+      "PILIH SEKARANG: ",
+      "s tersisa.",
+      "Pilih Wabah"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Pilih satu Kartu untuk Letakkan di Atas Dek Ambil.",
+      "Pilih Kartu untuk Letakkan di Atas Dek Ambil."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Mimpi?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Pilih satu Kartu untuk melakukan Peningkatan"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Pilih satu Kartu untuk Dihapus."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Lakukan apa ya?",
+      "Hmm...",
+      "Apa yang harus aku lakukan?",
+      "Waktunya untuk istirahat",
+      "Banyak sekali pilihan...",
+      "Aku seharusnya beristirahat",
+      "Capeknya..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Hapus Save"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Kelangkaan",
+      "Tipe",
+      "A-Z",
+      "Harga",
+      "Loncat ke:",
+      "Telat diperoleh"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Kembali",
+      "Merah",
+      "Hijau",
+      "Biru",
+      "Tanpa Warna",
+      "Kutukan",
+      "Status",
+      "Lihat Peningkatan",
+      "Ungu"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Abaikan",
+      "Pilih satu Kartu",
+      "HP Maks +2",
+      "PILIH SEKARANG: ",
+      "s tersisa.",
+      "Lihat Peningkatan",
+      "Pilih satu"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Terkunci",
+      "Karakter ini terbuka dengan menyelesaikan satu run.",
+      "Karakter ini masih belum tersedia di Early Access.",
+      "Karakter ini terbuka dengan menyelesaikan satu run dengan Silent.",
+      "HP: ",
+      "Emas: ",
+      " Kunci Tersisa",
+      "Misteri",
+      "???",
+      " Menuju Kunci Berikutnya",
+      " Karakter ini terbuka dengan menyelesaikan satu run Standar ketika karakter ketiga telah terbuka."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Pilih Karakter",
+      "Mulai",
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Kembali",
+      "Kenaikan",
+      "Level ",
+      "Mode Kenaikan",
+      "Run menjadi lebih susah setelah kamu menang... (Runtutan Kemenangan tidak terpengaruh)",
+      "Kode ",
+      "Kode acak",
+      "Kode awal digunakan untuk menentukan apa yang muncul secara acak di run.",
+      "Pasang Kode",
+      "Watcher"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Pilih Satu"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Lanjut",
+      "Abaikan Kartu",
+      "Abaikan Emas",
+      "Abaikan Ramuan",
+      "Abaikan Pusaka",
+      "Abaikan Hadiah",
+      "Tutup",
+      "Harta Karun!",
+      "Apa isinya?",
+      "Hadiah!",
+      "Jatuhan!",
+      "Jarahan!",
+      "Saran: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Konfirmasi"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Kembali",
+      "Hapus Save",
+      "Ya",
+      "Tidak"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Salin"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Klik lagi untuk keluar",
+      "untuk keluar",
+      "Tekan lagi untuk keluar"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Tantangan Harian",
+      "Menghubungkan ke Server Waktu...",
+      "#yCATATAN: Kamu sudah melakukan tantangan hari ini. NL Nilai percobaan ulang tidak akan dikirim.",
+      "Kembali",
+      "Mulai",
+      "Karakter hari ini: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Waktu tersisa: ",
+      "#yLantai #yTercapai: NL  ",
+      " NL NL  #yDek: NL ",
+      " NL NL  #yPusaka: NL  ",
+      " NL Tantangan Hari Ini: NL #yKelas: NL ",
+      " NL #yUbah: ",
+      "Pengubah: ",
+      "Papan Ranking",
+      "*Pencapaian tidak tersedia untuk Tantangan Harian.",
+      "  [MODE OFFLINE]",
+      "MMMM dd, yyyy",
+      "*Piala tidak tersedia untuk Tantangan Harian"
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Lanjut",
+      "Kemenangan?",
+      "Lantai Tercapai",
+      "Bos Terkalahkan",
+      "Waktu Main",
+      "Waktu Main",
+      "Nilai",
+      "Dikalahkan",
+      "Mati...",
+      "Kalah",
+      "Terkalahkan!",
+      "Ternodai",
+      "Hancur Lebur",
+      "Tewas",
+      "Kamu Terbunuh!",
+      "Perasaan yang familiar.",
+      "Tidur kedengarannya bagus.",
+      "Apa yang kamu tanam, itulah yang kamu dapatkan.",
+      "Pergi ke jalan yang salah.",
+      "Aku tidak siap untuk ini.",
+      "Aku akan coba lagi besok.",
+      "Aku akan butuh peta baru.",
+      "Kurang persiapan.",
+      "Tidak Mungkin!",
+      "Apa ini potensiku yang sebenarnya?",
+      "Hanya kurang beruntung...",
+      "Tidak seperti ini...",
+      "Masih bukan puncak.",
+      "Spire makan lagi...",
+      "Kesadaranmu menghilang...",
+      "Kalah",
+      "Menerima",
+      "Lanjut",
+      "Coba Lagi",
+      "Menu Utama",
+      "Lanjut",
+      "Kunci",
+      "Menu Utama",
+      "Coba Lagi",
+      "Lanjut",
+      "Segel",
+      "Segel Tersisa: ",
+      "Segel Tersisa: ",
+      "Musuh Dikalahkan",
+      "Elit Dibunuh",
+      "Emas Tersisa",
+      "Bonus HP"
+    ],
+    "EXTRA_TEXT": [
+      "Elit Pendahuluan Terbunuh",
+      "Elit Kota Terbunuh",
+      "Elit Alam Jauh Terbunuh",
+      "Si Cepat",
+      "Kecepatan Cahaya",
+      "Orang Pegunungan",
+      "Koleksi",
+      "Set Penuh",
+      "Fakir Miskin",
+      "Pustakawan",
+      "Ensiklopedia",
+      "Makan Cukup",
+      "Kenyang",
+      "Terkutuk!",
+      "Caraku Sendiri",
+      "Juara",
+      "Sempurna",
+      "Melebihi Kesempurnaan",
+      "Berlebihan",
+      "K-k-k-kombo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Mode Kenaikan Level ",
+      " Terbuka!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Hapus save ini?",
+      "Ya",
+      "Tidak",
+      "Peringatan: Aksi ini tidak bisa dikembalikan ulang."
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Gali",
+      "Menggali satu Pusaka acak."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "Buang"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Dek Buang #rkosong."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Pilih satu Kartu untuk Kembali ke Tangan."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Pilih satu Kartu untuk Letakkan di Atas Dek Ambil."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Kartu disini dikocok ke dek ambil ketika kehabisan kartu.",
+      "Kembali",
+      "Dek Buang"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Dek Ambil #rkosong."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Kartu diambil dari sana pada awal tiap giliran.",
+      "(Kartu terlihat diurutkan berdasarkan kelangkaan)",
+      "Kembali",
+      "Dek Ambil"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Gandakan"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Pilih Ruang Awal",
+      "Kembali"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Tutorial",
+      "Apakah kamu ingin melihat saran permainan selama memainkan game?",
+      "Act 1",
+      "Pendahuluan",
+      "Act 2",
+      "Kota",
+      "Act 3",
+      "Alam Jauh",
+      "Act ?",
+      "???",
+      "Klik Manapun untuk Lanjut"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Apa itu Early Access?",
+      "Apa itu Open Beta?",
+      "Slay the Spire masih dalam perkembangan aktif! NL Banyak fitur, kartu, dan musuh masih mengalami perubahan. NL NL Jika kamu mendapat masalah atau mempunyai saran, tolong beri tau kami di halaman #bSteam #bDiscussions. NL NL Cukup bacanya, kamu punya spire untuk didaki!",
+      "Slay the Spire masih dalam perkembangan aktif! NL Selain itu, kamu memainkan versi Beta dari game ini. NL NL Tolong beri tau kami masalah apapun yang kamu dapat saat bermain, tapi jangan kaget dengan gambar sementara untuk konten baru. NL NL Cukup bacanya, kamu punya spire untuk didaki!",
+      "Klik Manapun untuk Mulai",
+      "Lanjut"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Akhiri Giliran",
+      "Giliran Musuh"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Hangus"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Kartu tersebut telah Hangus pertarungan ini.",
+      "Kembali"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Pilih satu Kartu untuk Kembali ke Tangan"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Keluar Game"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Pendahuluan"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "Mengganti (Kepingan Judi)",
+      "Mengganti"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Game~ #y~Tersimpan~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Emas"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Konfirmasi",
+      "Batal",
+      "Konfirmasi Pilihanmu",
+      "Pergi"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Konfirmasi Kartu untuk ",
+      "Konfirmasi Kartu untuk ",
+      "Pilih ",
+      " Kartu untuk ",
+      "Pilih berapapun jumlah Kartu untuk ",
+      "Pilih satu Kartu untuk ",
+      "Jiplak "
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Hangus"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Pengaturan Masukan",
+      "Pengaturan Game",
+      "Kembali",
+      "Perintah",
+      "Keyboard",
+      "Controller",
+      "Reset ke Default",
+      "Konfirmasi Kartu",
+      "Batal / Keluar",
+      "Peta",
+      "Lihat Dek",
+      "Dek Ambil",
+      "Dek Buang",
+      "Dek Hangus",
+      "Akhiri Giliran",
+      "Kiri",
+      "Kanan",
+      "Pilih Kartu #1",
+      "Pilih Kartu #2",
+      "Pilih Kartu #3",
+      "Pilih Kartu #4",
+      "Pilih Kartu #5",
+      "Pilih Kartu #6",
+      "Pilih Kartu #7",
+      "Pilih Kartu #8",
+      "Pilih Kartu #9",
+      "Pilih Kartu #10",
+      "Lepas Kartu",
+      "Pilih*",
+      "Batal*",
+      "Panel Atas*",
+      "Lanjut / Akhiri Giliran*",
+      "Tab Kiri / Lihat Deck*",
+      "Tab Kanan / Dek Hangus*",
+      "Peta*",
+      "Pengaturan*",
+      "Dek Ambil*",
+      "Dek Buang*",
+      "Atas*",
+      "Bawah*",
+      "Kiri*",
+      "Kanan*",
+      "Atas (Alt)*",
+      "Bawah (Alt)*",
+      "Kiri (Alt)*",
+      "Kanan (Alt)*",
+      "Atas",
+      "Bawah",
+      "Controller Tersedia",
+      "Mode layar sentuh",
+      "Intip"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Portugis-Brazil",
+      "China (Sederhana)",
+      "China (Tradisional)",
+      "Inggris",
+      "Perancis",
+      "Jerman",
+      "Italia",
+      "Jepang",
+      "Korea",
+      "Polandia",
+      "Rusia",
+      "Spanyol",
+      "Hebrew",
+      "Turki",
+      "Swedia",
+      "Norwegia",
+      "Thai",
+      "Serbia (Cyrillic)",
+      "Ukrania",
+      "Vietnam",
+      "Hungaria",
+      "Serbia (Latin)",
+      "Catalan",
+      "Yunani",
+      "Indonesia",
+      "Esperanto",
+      "Belanda"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Rata-rata Lantai Tercapai (20 Percobaan Terakhir)",
+      "Nilai Rata-rata (20 Percobaan Terakhir)",
+      "Runtutan Kemengangan Terbaik",
+      "Kemenangan Tercepat",
+      "Nilai Tertinggi",
+      "Option 6. DO NOT TRANSLATE",
+      "Teman",
+      "Global",
+      "Watcher"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Kembali",
+      "Filter",
+      "Karakter",
+      "Region",
+      "Tipe",
+      "Lihat Nilaiku",
+      "Rank",
+      "Nama",
+      "Nilai",
+      "Mengambil Data...",
+      "Papan Ranking (CATATAN: Akan reset tiap minggu)",
+      "Tidak Tersambung ke Steam",
+      "Tidak ada Nilai Tersedia \n Ayo Slay the Spire!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Misteri",
+      "???",
+      "Sebuah ruang misteri. NL NL Kamu mungkin menemukan monster, harta karun, toko, atau sesuatu yang benar-benar berbeda.",
+      "Pedagang",
+      "Toko",
+      "Sang Pedagang misterius menjual barangnya di ruangan ini. NL NL Habiskan #yEmas yang kamu dapat disini!",
+      "Harta Karun",
+      "Ruang Harta Karun",
+      "#yPusaka dan #yEmas bisa ditemukan ruang idaman itu.",
+      "Istirahat",
+      "Tempat Istirahat",
+      "Berhenti di ruangan itu untuk #gSembuhkan beberapa HP atau melakukan #yPeningkatan satu kartu.",
+      "Musuh",
+      "Musuh",
+      "Musuh tinggal di ruangan tersebut.",
+      "Elit",
+      "Elit",
+      "Musuh kuat ada di ruangan tersebut. NL NL Mengalahkan mereka akan menghadiahkanmu satu Pusaka.",
+      "Legenda"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Angkat",
+      "Mulai pertarungan dengan +1 Daya. (Hingga 3)",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yVersi: ",
+      "Mulai",
+      "Kembali",
+      "klik untuk ganti",
+      "untuk ganti",
+      "Tekan untuk ganti"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Kamu mulai tiap pertarungan dengan semua kartu yang ada disini.",
+      "Kembali"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Main",
+      "",
+      "",
+      "Lanjut",
+      "",
+      "Statistik",
+      "",
+      "Keluar",
+      "Catatan Patch",
+      "Tinggalkan Run",
+      "",
+      "Pengaturan",
+      "",
+      "Ikhtisar"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standar",
+      "",
+      "Pergi dalam misi untuk Slay the Spire.",
+      "Dakian Harian",
+      "",
+      "Tantangan baru tersedia sehari sekali.\n\nKalahkan pemain lain dalam mendapatkan nilai tertinggi!",
+      "Kenaikan",
+      "",
+      "Spire tumbuh lebih kuat dengan setiap kemenangan.\n\nTes batas dari strategi terbaikmu.",
+      "Daftar Kartu",
+      "",
+      "Lihat semua kartu yang kamu temukan selama dalam Spire.",
+      "Koleksi Pusaka",
+      "",
+      "Perhatikan berbagai perhiasan dan pusaka yang didapat selama petualanganmu.",
+      "Monster",
+      "",
+      "Fitur ini belum tersedia.",
+      "Data Karakter",
+      "",
+      "Perkembangan dan statistik untuk tiap karakter bisa dilihat disini.",
+      "Papan Ranking",
+      "",
+      "Lihat dan bandingkan nilaimu dengan teman dan pemain lain.",
+      "Sejarah Run",
+      "",
+      "Kunjungi kembali percobaan lamamu dalam mengalahkan Spire.",
+      "Pengaturan Game",
+      "",
+      "Ubah resolusi dan mengubah beberapa pilihan nyala/mati.",
+      "Pengaturan Masukan",
+      "",
+      "Ubah kunci kontrol dan shortcut.",
+      "Kredit",
+      "",
+      "Lihat semua orang yang berkonstribusi dalam Slay the Spire!",
+      "Misteri",
+      "Mainkan Dakian Harian untuk membuka mode game ini.",
+      "Fitur ini belum tersedia.",
+      "Spesial",
+      "Ubah permainanmu dengan mode pengubah unik.",
+      "Ubah pengaturan kontrol",
+      "Ubah pengaturan grafis, audio dan permainan",
+      "Labolatorium Ramuan",
+      "Amati berbagai ramuan yang dapat ditemukan di Spire"
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Layanan Penghapusan Kartu",
+      "SALE",
+      "Tidak Untuk Dijual",
+      "Habis Terjual",
+      "Oh tidak!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Tekan ",
+      " untuk Mulai",
+      "Ubah Profil",
+      "Area Tampilan",
+      "Perubahan akun telah terjadi. Mohon masuk kembali atau keluar ke layar awal.",
+      "Masuk",
+      "Keluar"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Musuh itu tidak berniat untuk menyerang!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Pengaturan Game",
+      "Grafik",
+      "Resolusi: NL Framerate Maks:",
+      "Fullscreen NL Borderless Fullscreen (rekomendasi) NL Screenshake",
+      "Suara",
+      "Volume Utama NL Volume Music NL Volume Efek",
+      "Efek Suara Ambient NL Diam ketika di layar belakang",
+      "Pilihan",
+      "Lihat jumlah damage dalam Emas NL Lihat damage tertahan dalam biru NL Matikan konfirmasi ketika memilih 1 kartu",
+      "Mode Cepat",
+      "",
+      "Lain-lain",
+      "Bahasa:",
+      "Kirim data gameplay #b(?)",
+      "Keluar Game",
+      "Save & Keluar",
+      "NL NL VSync",
+      "Mode Gambar Playtester",
+      "Lihat Kunci Pilih Cepat Kartu",
+      "Pengaturan Masukan",
+      "Nonaktifkan Efek Partikel",
+      "Resolusi:",
+      "Resolusi: NL Layar penuh:",
+      "Merubah monitor yang dipakai ketika memasuki mode fullscreen",
+      "Tekan lama untuk konfirmasi",
+      "Tulisan besar"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Kembali",
+      "#yCatatan #yPatch",
+      " NL (SEMENTARA: gunakan panah untuk melihat logs lama)"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Lempar",
+      "Minum",
+      "Buang",
+      "Aku tidak bisa menggunakan ramuan!",
+      "Aku tidak bisa melakukan itu dalam pertarungan!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Hilang"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Lanjut"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "letakkan di atas dek ambil"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Mengingat",
+      "Memperoleh Kunci Rubi."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Hangus"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Kembali",
+      "Pemulai:",
+      "Karakter memulai dengan pusaka tersebut.",
+      "Biasa:",
+      "Pusaka lemah yang mudah ditemukan.",
+      "Jarang:",
+      "Pusaka lebih kuat yang muncul lebih jarang dari Pusaka Biasa.",
+      "Langka:",
+      "Pusakan unik dan kuat yang jarang ditemukan.",
+      "Bos:",
+      "Pusaka yang hanya ditemukan dalam peti Bos.",
+      "Event:",
+      "Pusaka yang hanya bisa didapat melalu event.",
+      "Toko:",
+      "Pusaka yang hanya bisa dibeli dari sang Pedagang."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<nama kosong>",
+      "Masukkan  Namamu",
+      "Konfirmasi",
+      "Batal"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Musuh itu berniat untuk menyerang!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Buang"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "",
+      "Pulihkan dengan 100% dari maks HP (",
+      " HP dari ",
+      "Pulihkan dengan 30% dari maks HP (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Restart game untuk pengaturan layar memperlihatkan efeknya."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "Tahan"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Emas (Ambil kembali)",
+      " Emas",
+      "Tambah satu kartu ke dek",
+      "",
+      "Pilih satu Kartu",
+      "Kunci Zamrud",
+      "Kunci Safir",
+      "Terikat",
+      "Mengambil ini akan menyingkirkan ",
+      "."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Misteri",
+      "Musuh",
+      "Elit",
+      "Event",
+      "Bos",
+      "Harta Karun",
+      "Harta Karun Bos",
+      "Istirahat",
+      "Pedagang",
+      "Misteri (Musuh)",
+      "Misteri (Pedagang)",
+      "Misteri (Harta Karun)",
+      "Lantai %1$s - %2$s",
+      "Lantai %s",
+      "#r%s Damage",
+      "#r%s Giliran",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yEmas",
+      "#yDapatkan:",
+      "#yAbaikan:",
+      "Info Hilang",
+      "HP Maks +2",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bTelah Istirahat",
+      "#bDitingkatkan %s",
+      "#bDihapus %s",
+      "#bGali",
+      "#bAngkat %s/%s",
+      "#yBeli:",
+      "#rBayar ",
+      "#rAmbil ",
+      "#rKehilangan ",
+      "%s Maks HP",
+      "#bSembuhkan ",
+      "#bDapatkan ",
+      "#bAbaikan ",
+      "%s HP",
+      "#bMemperoleh %s",
+      "#rTerkutuk #rdengan #r%s",
+      "%s Damage",
+      "#bPeningkatan %s",
+      "#bTransformasi %s",
+      "#rKehilangan %s",
+      "#bMengingat"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Kelompok Gremlin",
+      "Lendir Besar",
+      "Penjahat Alam Jauh",
+      "Satwa Alam Jauh",
+      "Kawanan Lendir",
+      "Lendir Kecil",
+      "Perampok Kota",
+      "Tiga Bhurung",
+      "Empat Bhurung",
+      "Tiga Pemuja",
+      "Jamaah Yang Terpilih",
+      "Penjaga dan Penjaga Bulat",
+      "Centurion and Mystik",
+      "Parasit dan Makhluk Jamur",
+      "Gang Bandit Bertopeng",
+      "Nob Colosseum",
+      "Budak Colosseum",
+      "Tiga Bentuk",
+      "Gerombolan Cacing Rahang",
+      "Empat Bentuk",
+      "Penjaga Bulat dengan Bentuk",
+      "Dua Orb Berjalan",
+      "Donu deka Deka",
+      "Banyak Penjaga",
+      "Yang Terpilih dan Pemuja",
+      "(Bekas) Flame Bruiser",
+      "(Bekas) Budak dan Parasit",
+      "(Bekas) Laroke dan Mystik",
+      "Tameng dan Tombak"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Kembali",
+      "Tidak ada sejarah run ditemukan. NL Ayo Slay the Spire!",
+      "Level Ascension: ",
+      "Terbunuh di Lantai %1$d by %2$s",
+      "Tinggalkan Run di Lantai %d",
+      "Menang!",
+      "Kartu",
+      "Pusaka",
+      "Pemulai",
+      "Biasa",
+      "Jarang",
+      "Langka",
+      "Spesial",
+      "Kutukan",
+      "Bos",
+      "Toko",
+      "Misteri",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Nilai: %d",
+      "Semua Karakter",
+      "Menang dan Kalah",
+      "Menang",
+      "Kalah",
+      "Harian",
+      "Tipe Game Apapun",
+      "Hanya Normal",
+      "Hanya Kenaikan",
+      "Hanya Tantangan Harian",
+      "Kode: %s",
+      "Kode Spesial: %s",
+      "M/d/yyyy. h:mm a",
+      "Watcher"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Masukkan Kode Baru",
+      "Konfirmasi",
+      "Batal",
+      "*Pencapaian dan Papan Ranking dimatikan jika Kode digunakan.",
+      "*Piala dan Papan Ranking dimatikan jika Kode digunakan."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Kamu yakin?",
+      "Perkembanganmu otomatis disimpan.",
+      "Meninggalkan game akan dianggap kalah.",
+      "WARNING:\nPerkembangan TIDAK tersimpan.\n\nCapai lantai selanjutnya untuk menyimpan run sekarang.",
+      "Kembali",
+      "Perkembangan TIDAK disimpan untuk dakian harian."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "letakkan di atas dek ambil."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "letakkan di dasar dek ambil."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Abaikan Pedagang"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Serangan",
+      "Kemampuan",
+      "Kekuatan",
+      "Kutukan",
+      "Terkunci",
+      "Misteri",
+      "Lihat Peningkatan",
+      "Status",
+      "",
+      "Aku hanya bisa memainkan kartu di giliranku.",
+      "Aku #rTerjerat! NL Tidak bisa memainkan Serangan",
+      "Tidak cukup #rEnergi.",
+      "Tidak cukup #rCharge.",
+      "Aku tidak bisa memainkan NL kartu ini.",
+      "Gambar Beta"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Bos",
+      "Biasa",
+      "Dihapus",
+      "Langka",
+      "Toko",
+      "Event",
+      "Pemulai",
+      "Jarang",
+      "Terkunci",
+      "Misteri",
+      " Pusaka",
+      "Pusaka ini belum terbuka.",
+      "Pusaka ini belum ditemukan."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Pilih satu Kemampuan untuk Tambah ke Tangan"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Tempa",
+      "Peningkatan satu kartu dari dek.",
+      "Tidak ada kartu yang bisa ditingkatkan."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Kamu tidak punya ruang untuk ini"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Alam Jauh"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "Kota"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Akhir"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energi"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Isap",
+      "Buang satu kartu dari dek."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " Lantai",
+      " - Kenaikan ",
+      " (Level Maks)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Abaikan Peti"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Abaikan Peti"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "PILIH SEKARANG: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Lanjut"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Kartu Terbuka!",
+      "",
+      "Pusaka Terbuka!",
+      "Karakter Baru",
+      "Catatan: kartu terbuka muncul di run yang akan datang.",
+      "Catatan: pusaka terbuka muncul di run yang akan datang."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Kartu Terbuka!",
+      "Pusaka Terbuka!",
+      "Karakter Baru",
+      "Catatan: kartu terbuka muncul di run yang akan datang.",
+      "Catatan: pusaka terbuka muncul di run yang akan datang."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Kunci Baru!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Mode Spesial",
+      "Pencapaian dan Papan Ranking tidak aktif.",
+      "Karakter",
+      "Kenaikan",
+      "Level ",
+      "Mode Kenaikan",
+      "Pengubah",
+      "Kode",
+      "Pasang Kode",
+      "Piala dan Papan Ranking tidak aktif."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Waktu Main ",
+      "Petak Kosong"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Pilih sebuah Petak Save",
+      "Ganti Nama",
+      "Hapus Save ini"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Lanjut",
+      "Lantai Tercapai",
+      "Bos Terkalahkan",
+      "Waktu Main",
+      "Nilai",
+      "Segel",
+      "Segel Tersisa: ",
+      "Segel Tersisa: ",
+      "Musuh Dikalahkan",
+      "Elit Terbunuh",
+      "Emas Tersisa",
+      "Bonus HP",
+      "Kemenangan!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Gambar Kartu Beta Ironclad Terbuka!",
+      "Gambar Kartu Beta Silent Terbuka!",
+      "Gambar Kartu Beta Defect Terbuka!",
+      "Semua Gambar Kartu Beta Terbuka!",
+      "Gambar Kartu  Beta Watcher Terbuka"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Harian - Lantai %s",
+      "Spesial - Lantai %s",
+      " F%s",
+      "Menu Utama",
+      "A%s "
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Pilih 1 Kartu untuk disimpan. Sisanya diHanguskan"
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Pilih 1 Kartu untuk dimainkan."
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Hanya bisa digunakan jika kartu ini satu-satunya kartu #rSerang di tanganku!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Balik",
+      "Biasa:",
+      "Ramuan-ramuan yang paling umum di Spire.",
+      "Jarang:",
+      "Ramuan-ramuan lebih ampuh yang sedikit lebih tidak umum.",
+      "Langka:",
+      "Ramuan-ramuan unik dan ampuh yang sangat susah untuk ditemui."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Menyinkronkan data..."
+    ]
+  }
+}

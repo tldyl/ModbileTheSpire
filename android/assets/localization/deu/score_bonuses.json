@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Alchemist",
+    "DESCRIPTIONS": [
+      "5 Tränke gekauft."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Aufstieg",
+    "DESCRIPTIONS": [
+      "+5% Punkte pro Aufstiegs-Level."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Jenseits-Eliten getötet",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Mehr als perfekt",
+    "DESCRIPTIONS": [
+      "Töte 3 Bosse, ohne Schaden zu nehmen."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Bosse getötet",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Champion",
+    "DESCRIPTIONS": [
+      "Gewinne einen Elite-Kampf, ohne Schaden zu nehmen."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Cheater",
+    "DESCRIPTIONS": [
+      "Beim Cheaten erwischt. Wenn du zweimal erwischt wurdest, werden deine Scores nicht mehr auf den Ranglisten zu sehen sein."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Stadt-Eliten getötet",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Sammler",
+    "DESCRIPTIONS": [
+      "Habe 4 Exemplare einer Nicht-Startkarte."
+    ]
+  },
+  "Combo": {
+    "NAME": "K-k-k-kombo",
+    "DESCRIPTIONS": [
+      "Spiele 20 Karten innerhalb eines Zuges."
+    ]
+  },
+  "Curses": {
+    "NAME": "Verflucht!",
+    "DESCRIPTIONS": [
+      "Dein Deck enthält 5+ Flüche."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Enzyklopädie",
+    "DESCRIPTIONS": [
+      "Deckgröße beträgt mehr als 50 Karten."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Exordium-Eliten getötet",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Herzensbrecher",
+    "DESCRIPTIONS": [
+      "Besiege das Herz."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Highlander",
+    "DESCRIPTIONS": [
+      "Dein Deck enthält keine Duplikate (außer Startkarten)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Ich mag Geld",
+    "DESCRIPTIONS": [
+      "3000 Gold angehäuft."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliothekar",
+    "DESCRIPTIONS": [
+      "Deckgröße beträgt mehr als 35 Karten."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Lichtgeschwindigkeit",
+    "DESCRIPTIONS": [
+      "Sieg in unter 45 Minuten."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalist",
+    "DESCRIPTIONS": [
+      "5+ Karten aus deinem Deck entfernt."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Geld, Geld!",
+    "DESCRIPTIONS": [
+      "1000 Gold angehäuft."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Wundermaschine",
+    "DESCRIPTIONS": [
+      "15+ ?-Räume besucht."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Selbst Schuld",
+    "DESCRIPTIONS": [
+      "Dich selbst getötet."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Overkill",
+    "DESCRIPTIONS": [
+      "Füge 99 Schaden mit einer Attacke zu."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Bettler",
+    "DESCRIPTIONS": [
+      "Habe 0 seltene Karten."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfekt",
+    "DESCRIPTIONS": [
+      "Töte einen Boss, ohne Schaden zu nehmen."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Dreckig",
+    "DESCRIPTIONS": [
+      "Geisterdreck erhalten."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Geldregen",
+    "DESCRIPTIONS": [
+      "2000 Gold angehäuft."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Ich mags glänzend",
+    "DESCRIPTIONS": [
+      "Habe 25+ Relikte."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Sprinter",
+    "DESCRIPTIONS": [
+      "Sieg in unter 60 Minuten."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Vollgestopft",
+    "DESCRIPTIONS": [
+      "Maximale TP um 30+ erhöht."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Gut genährt",
+    "DESCRIPTIONS": [
+      "Maximale TP um 15+ erhöht."
+    ]
+  }
+}

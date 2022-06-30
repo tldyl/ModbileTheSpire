@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Cổ Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yThánh #ytích."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Công Dược",
+    "DESCRIPTIONS": [
+      "Chọn #b1 trong #b3 lá #yTấn #ycông ngẫu nhiên để cầm lên tay, lá này tốn #b0 Năng lượng trong lượt này.",
+      "Chọn #b1 trong #b3 lá #yTấn #ycông ngẫu nhiên và cầm #b2 bản sao lên tay, lá này tốn #b0 Năng lượng trong lượt này."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Thủ Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yGiáp."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Huyết Dược",
+    "DESCRIPTIONS": [
+      "Hồi #b",
+      "% HP tối đa của bạn."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Hoạt Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Tiên Dược",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Lực Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " Năng lượng."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Hỗn Tửu",
+    "DESCRIPTIONS": [
+      "Lấp những chỗ đựng bình dược còn trống bằng những bình dược ngẫu nhiên."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Tinh Chất Sắt",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yGiáp #yMạ."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Thuốc Nổ",
+    "DESCRIPTIONS": [
+      "Gây #b",
+      " sát thương lên TẤT CẢ các quân địch."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Nàng Tiên Trong Bình",
+    "DESCRIPTIONS": [
+      "Thay vì hi sinh, bạn được hồi #b",
+      "% HP tối đa và bỏ thần dược này."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Khủng Cụ Dược",
+    "DESCRIPTIONS": [
+      "Gây #b",
+      " #ySơ #yhở."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Hỏa Dược",
+    "DESCRIPTIONS": [
+      "Gây #b",
+      " sát thương."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Thần Dược Tập Trung",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yTập #ytrung."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Nước Ép Trái Cây",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " HP tối đa."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Rượu Của Tay Cờ Bạc",
+    "DESCRIPTIONS": [
+      "Bỏ bao nhiêu lá bài tùy thích, bốc thêm chừng ấy lá bài."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Hồn Ma Trong Chai",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yVô #yhình."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Bình Dược Sinh Lực",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Đồng Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yGai."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Độc Dược",
+    "DESCRIPTIONS": [
+      "Gây #b",
+      " #yĐộc."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Ô đựng bình dược",
+    "DESCRIPTIONS": [
+      "Sử dụng các thần dược trong trận đấu để giành #glợi #gthế hoặc #rkìm #rchân quân thù.",
+      "Chỗ đựng bình dược"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Bình Dược Năng Lực",
+    "DESCRIPTIONS": [
+      "Chọn #b1 trong #b3 lá #yNăng #ylực ngẫu nhiên để cầm lên tay, lá này tốn #b0 Năng lượng trong lượt này.",
+      "Chọn #b1 trong #b3 lá #yNăng #ylực ngẫu nhiên và cầm #b2 bản sao lên tay, lá này tốn #b0 Năng lượng trong lượt này."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Bình Dược Phục Hồi",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yPhục #yHồi.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Bình Dược Kỹ Năng",
+    "DESCRIPTIONS": [
+      "Chọn #b1 trong #b3 lá #yKỹ #ynăng ngẫu nhiên để cầm lên tay, lá này tốn #b0 Năng lượng trong vòng này.",
+      "Chọn #b1 trong #b3 lá #yKỹ #ynăng ngẫu nhiên và cầm #b2 bản sao lên tay, lá này tốn #b0 Năng lượng trong lượt này."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Bom Khói",
+    "DESCRIPTIONS": [
+      "Trốn trận đánh với quân thù, ngoài trùm. Không được nhận phần thưởng.",
+      "Ta đã bị bao vây!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Dầu Xà Tắc Kè",
+    "DESCRIPTIONS": [
+      "Bốc #b",
+      " lá bài. Đổi ngẫu nhiên giá bài trên tay bạn.",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Tốc Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yLinh #yhoạt. Tới cuối lượt, mất #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Bình Dược Tăng Cơ",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #ySức #ymạnh. Tới cuối lượt, mất #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Cường Dược",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Tốc Dược",
+    "DESCRIPTIONS": [
+      "",
+      "Bốc thêm #b",
+      " lá bài."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Nhược Dược",
+    "DESCRIPTIONS": [
+      "Gây #b",
+      " #yYếu."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Sao Dược",
+    "DESCRIPTIONS": [
+      "Trong lượt này, lá bài tiếp theo của bạn sẽ được chơi hai lần.",
+      "Trong lượt này, #b2 lá bài tiếp theo của bạn sẽ được chơi hai lần."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Thế Dược",
+    "DESCRIPTIONS": [
+      "Vào thế #yTĩnh hoặc #yNộ."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Tiên Dược",
+    "DESCRIPTIONS": [
+      "#yĐốt bất kỳ số lượng bài nào trong tay bạn."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Thiết Tâm",
+    "DESCRIPTIONS": [
+      "Nhận #b",
+      " #yCứng #yCáp."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Xảo Dược",
+    "DESCRIPTIONS": [
+      "Thêm #b",
+      " lá #yDao #yGăm+ vào tay bạn."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Lượng Dược",
+    "DESCRIPTIONS": [
+      "Nhận #b",
+      " Ô ngọc."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Tinh Chất Hắc Ám",
+    "DESCRIPTIONS": [
+      "#yGọi #b",
+      " #yHắc #yNgọc với mỗi ô ngọc."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Phép Màu Đóng Chai",
+    "DESCRIPTIONS": [
+      "Thêm #b",
+      " lá #yPhép #yMàu vào tay bạn."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Vào #yThế #yPhật."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Hỗn Loạn Cô Đọng",
+    "DESCRIPTIONS": [
+      "Chơi #b",
+      " lá bài trên cùng chồng bài bốc của bạn."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Dung Dịch Ký Ức",
+    "DESCRIPTIONS": [
+      "Chọn một lá trong chồng bài bỏ của bạn và đưa trở lại tay bạn. Lá đó tốn #b0 trong lượt này.",
+      "Chọn #b",
+      " lá trong chồng bài bỏ của bạn và đưa trở lại tay bạn. Những lá đó tốn #b0 trong lượt này."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Đạo Dược",
+    "DESCRIPTIONS": [
+      "Nhận #b",
+      " #yLễ #ytế."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Bình Dược Không Màu",
+    "DESCRIPTIONS": [
+      "Chọn #b1 trong #b3 lá bài #yKhông #ymàu ngẫu nhiên và thêm vào tay, lá đó tốn #b0 trong lượt này.",
+      "Chọn #b1 trong #b3 lá bài #yKhông #ymàu ngẫu nhiên và thêm #b2 lá đó vào tay, những lá đó tốn #b0 trong lượt này."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Phước Lành Của Lò Rèn",
+    "DESCRIPTIONS": [
+      "Nâng cấp toàn bộ bài trên tay bạn."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Colère",
+    "DESCRIPTION": [
+      "Vos attaques infligent deux fois plus de dégâts et vous subissez deux fois plus de dégâts des attaques."
+    ]
+  },
+  "Calm": {
+    "NAME": "Calme",
+    "DESCRIPTION": [
+      "En quittant cette #yPosition, gagnez [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Divinité",
+    "DESCRIPTION": [
+      "En entrant dans cette #yPosition, gagnez [W] [W] [W] . Vos attaques infligent trois fois plus de dégâts. Quittez cette #yPosition au début de votre prochain tour."
+    ]
+  }
+}

@@ -1,0 +1,933 @@
+{
+  "Accursed Blacksmith": {
+    "NAME": "Tempa Mencurigakan",
+    "DESCRIPTIONS": [
+      "Kamu menunduk ke dalam rumah kecil. Di dalam, kamu menemukan yang terlihat seperti tempat pandai besi. Alat tempanya tertutup dengan debu, tapi api menggelora di dalam perapiannya. Kamu merasa gelisah...",
+      "Kamu memutuskan untuk menggunakan alat tempanya dan... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...memperbaiki gudang persenjataanmu!",
+      "Kamu memutuskan untuk melihat jika kamu menemukan apapun yang bisa kamu gunakan. Setelah membuka terpal, melihat di dalam boks, dan mengecek di sela-sela terkecil, kamu menemukan #y~pusaka!~ yang diselimuti debu ",
+      "Saat kamu melakukan sentuhan terakhir, api dari tempaan meloncat ke arahmu, #r@membakar@ #r@dan@ #r@melukai@ tanganmu..",
+      "NL NL Mengambil pusaka itu, kamu tidak bisa menghilangkan rasa #r~sakit~ #r~tajam~ tiba-tiba saat kamu keluar rumah itu. Mungkin kamu mengganggu suatu arwah?",
+      "Sepertinya tidak ada hal yang bisa kamu gunakan. Kamu keluar dari tempat kamu masuk, api dari perapian menimbulkan #p~bayangan~ #p~seram~ di tembok dalam rumah..."
+    ],
+    "OPTIONS": [
+      "[Tempa] #gPeningkatan #gsebuah #gkartu #gdi #gdek.",
+      "[Geledah] #gMemperoleh #gsebuah #gPusaka. #rMendapat #rKutukan #r- #rPenderitaan.",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk melakukan Peningkatan",
+      "[Terkunci] Butuh: Kartu yang bisa Ditingkatkan"
+    ]
+  },
+  "Addict": {
+    "NAME": "Permohonan Gelandangan",
+    "DESCRIPTIONS": [
+      "Saat kamu mencoba melewati sekelompok sosok terselubung, salah satu dari mereka mendatangimu. NL \"Sesuatu untukku kawan? Tolong... mungkin beberapa #yKoin?\" NL \"Aku hanya butuh tempat tinggal, aku punya harta karun yang bisa aku tukar...\" NL Dia telihat berkhayal, tapi tidak berbahaya.",
+      "\"Oh ya, ~ya!~ Sini sini, transaksi adil!\"",
+      "Kamu merampas #ypusaka berharga dari cengkeramannya dan pergi. NL Dari belakang kamu mendengar, NL \"Apa kamu tidak punya rasa malu? ~APA~ ~KAMU~ ~TIDAK~ ~MALUUUU?!\"~ NL Kamu merasa #pmalu."
+    ],
+    "OPTIONS": [
+      "[Tawarkan Emas] #y",
+      " #yEmas: #gMemperoleh #gsebuah #gPusaka.",
+      "[Terkunci] Butuh: ",
+      " Emas.",
+      "[Rampas] #gMemperoleh #gsebuah #gPusaka. #rMendapat #rKutukan #r- #rMalu.",
+      "[Pergi]",
+      "",
+      ""
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Tulisan Kuno",
+    "DESCRIPTIONS": [
+      "Mengelilingi kota, kamu menyadari sebuah tembok tertutupi dengan tulisan #y~kuno.~ Saat kamu mencoba mencari apa arti dari simbol-simbol dan tulisan aneh tersebut, tulisannya mulai #b~bercahaya.~ NL Tiba-tiba, pesannya menjadi jelas...",
+      "Jawabannya adalah keeleganan. NL Tentu saja.",
+      "Kebenaran itu selalu sederhana."
+    ],
+    "OPTIONS": [
+      "[Elegansi] #gHapus #gsebuah #gKartu #gdari #gdek.",
+      "[Kesederhanaan] #gPeningkatan #gsemua #gSerang #gdan #gBertahan.",
+      "Pilih sebuah Kartu untuk dihapus.",
+      "[Pergi]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Pengemis Tua",
+    "DESCRIPTIONS": [
+      "Seorang pengemis tua berselimut bulu mengeluarkan tangannya ke arahmu saat kamu lewat. \"Luangkan beberapa koin, anakku?\"",
+      "Pengemis menatap lantai saat kamu lewat. NL \"Kamu tidak akan membuat perbedaan... Tidak mungkin.\"",
+      "Pengemis melepas selimutnya untuk membeberkan bahwa dia sebenarnya #bCleric! NL @\"Kamu@ @berjiwa@ @baik.@ @Terimalah@ @penyucianku!\"@ dia berteriak. NL Kamu tidak yakin jika dia berterima kasih atau marah.",
+      "@\"Aku@ @harap@ @kamu@ @melakukannya@ @lebih@ @baik@ @kali@ @ini,@ @kawan!\"@ dia teriak. NL Heran dengan apa yang dia maksud, kamu terus maju."
+    ],
+    "OPTIONS": [
+      "[Tawarkan Emas] #y",
+      " #yEmas: #gHapus #gsebuah #gKartu #gdari #gdek.",
+      "[Terkunci] Butuh: ",
+      " Emas.",
+      "[Lanjut]",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk Dihapus."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Ikan Besar",
+    "DESCRIPTIONS": [
+      "Saat kamu berjalan melewati koridor panjang kamu melihat #ypisang, #ydonat, dan #ykotak ~melayang~. Tidak... setelah dilihat ulang mereka diikat ke tali datang dari lubang di langit-langit. Ada sedikit @kekehan@ dari atas saat kamu mendekati objek tersebut. NL Apa yang akan kamu lakukan?",
+      "Kamu makan #ypisang. Bernutrisi dan sedikit #bmagis, menyembuhkanmu.",
+      "Kamu makan #ydonat. Benar-benar memuaskan! Meningkatkan HP Maksimummu.",
+      "",
+      "Kamu ambil kotaknya. Di dalamnya kamu menemukan #yPusaka!",
+      " NL Namun, kamu benar-benar menginginkan donat... NL Kamu merasakan ~kesedihan,~ tapi terutama #rpenyesalan."
+    ],
+    "OPTIONS": [
+      "[Pisang] #gSembuhkan #g",
+      " #gHP.",
+      "[Donat] #gHP #gMaks #g+",
+      ".",
+      "[Boks] #gMemperoleh #gsebuah #gPusaka. #rMendapat #rKutukan #r- #rPenyesalan.",
+      "[Pergi]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Arwah Api Unggun",
+    "DESCRIPTIONS": [
+      "Kamu menemukan sekelompok yang terlihat seperti #parwah #papi #pungu ~menari~ melingkari api unggun besar. NL ",
+      "Arwah-arwah melempar tulang kecil dan fragmen ke dalam api, yang ~meletus~ ~hebat~ setiap kali. NL Saat kamu mendekat, arwah-arwah menatapmu, berharap...",
+      "Kamu melempar persembahan ke api unggun. NL NL ",
+      "Namun, arwah-arwah tidak suka kamu mengorbankan #pKutukan...Kartu mendesiskan asap hitam lemah. Kamu menerima... #p~sesuatu~ sebagai balasan.",
+      "Tidak terjadi apa-apa... NL Arwah-arwah sepertinya mengabaikanmu sekarang. Mengecewakan...",
+      "Apinya tumbuh sedikit lebih terang. NL Arwah-arwah terus menari. Kamu merasa lebih hangat dari keberadaan mereka.. NL Kamu #gmenyembuhkan #b5 HP.",
+      "Apinya meletus, tumbuh jauh lebih kuat! NL Arwah-arwah menari di sekitarmu dengan semangat, memberimu dengan ~rasa~ ~kehangatan.~ NL Kamu #gdisembuhkan ke HP penuh.",
+      "Apinya @meledak,@ hampir membuatmu jatuh, ketika apinya @mengganda@ kekuatannya. NL Arwah-arwah menari-nari dengan semangat sebelum ~bergabung~ ~dengan~ ~dirimu,~ mengisimu dengan kehangatan dan kekuatan. NL HP Maksimum meningkat sebanyak #b10 dan kamu #gdisembuhkan ke HP penuh."
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Pergi]",
+      "[Menyembahkan] Menerima hadiah berdasarkan pengorbanan.",
+      "Pilih sebuah Kartu untuk Pengorbanan."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Buku Terkutuk",
+    "DESCRIPTIONS": [
+      "Di dalam sebuah kuil yang ditinggalkan, kamu menemukan buku besar, terbuka, dipenuhi dengan #p@tulisan@ #p@rahasia.@ NL NL Saat kamu mencoba menerjemahkan naskah rumit itu, dia mulai #b~bergerak~ dan #b~berubah~ menjadi tulisan yang kamu mengerti.",
+      "Aneh. Buku ini sepertinya tentang seorang #yAncient bernama #yNeow. NL NL Hal ini menarik perhatianmu, tapi kamu memiliki perasaan #p~gelisah.~",
+      "Ancient Kebangkitan, #yNeow, telah diasingkan ke dasar Spire. NL NL Kamu merasakan dorongan untuk membaca terus, tapi tubuhmu mulai #r~sakit.~",
+      "Mencari balas dendam, #yNeow memberkati orang luar, menggunakan mereka untuk keinginannya sendiri. NL NL Kamu mulai merasa sangat #r~lemah~ #r~dan~ #r~lelah...~",
+      "Mereka yang dihidupkan kembali oleh #yNeow mengingat hanya potongan dari masa lalu mereka, terkutuk untuk bertarung selamanya. NL NL Mendekati halaman terakhir, #r@luka@ #r@lamamu@ #r@mulai@ #r@terbuka@ #r@kembali!@",
+      "Setelah menyelesaikan buku itu, kamu memutuskan untuk membawanya. Dengan bukti di tangan, akankah kamu menemukan kembali memorimu?",
+      "Kamu keluar, merasakan #p~energi~ #p~kegelapan~ #p~memancar~ dari buku yang bergeletak.",
+      "Dengan tekanan dan tekad yang kuat, kamu melawan rasukan dari buku itu dan @BANTING@ menutupnya. NL Kamu belok dan keluar dari kuil, merasa #b~terkuras...~"
+    ],
+    "OPTIONS": [
+      "[Baca]",
+      "[Lanjut] #rKehilangan #r1 #rHP.",
+      "[Lanjut] #rKehilangan #r2 #rHP.",
+      "[Lanjut] #rKehilangan #r3 #rHP.",
+      "[Berhenti] #rKehilangan #r3 #rHP.",
+      "[Ambil] #gDapatkan #gBukunya. #rKehilangan #r",
+      " #rHP.",
+      "[Pergi]"
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "Mayat Pengembara",
+    "DESCRIPTIONS": [
+      "Ketika kamu mencari-cari, kamu tertangkap basah!",
+      "Kamu keluar tanpa suara.",
+      "Kamu menemukan #rjasad #rpengembara di lantai. NL #bCelananya sudah dicuri! Selain itu, ",
+      "perisai dan wajahnya terlihat seperti #r@digosok@ #r@oleh@ #r@api.@ ",
+      "terlihat seakan dia sudah #r@dicungkil@ #r@dan@ #r@diinjak@ oleh makhluk bertanduk. ",
+      "dia terlihat telah #r@dihancurkan@ #r@dan@ #r@dipotong@ oleh cakar besar. ",
+      "NL Walaupun #ybarangnya #ymasih #yutuh, kamu tidak ingin tau apa yang terjadi disini...",
+      "Kamu menemukan beberapa #yEmas! NL Lanjut mencari?",
+      "Hmm, belum menemukan apapun... NL Lanjut mencari?",
+      "Kamu menemukan sebuah #yPusaka! NL Lanjut mencari?",
+      "Sepertinya kamu mencari semua barangnya tanpa ada masalah!"
+    ],
+    "OPTIONS": [
+      "[Cari] #gTemukan #gBarang. #r",
+      "[Pergi]",
+      "[Bertarung]",
+      "[Lanjut] #gTemukan #gBarang. #r",
+      "%: #rmonster #rkembali."
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Augmenter",
+    "DESCRIPTIONS": [
+      "Seorang lelaki dengan penutup mata dan senyum keji melangkah maju ke arahmu. NL \"Hey kamu orang asing. Tertarik untuk mengembangkan sains? Aku bisa membuatmu lebih kuat daripada latihan atau berkat apapun. Kamu bakal butuh ini jika kamu salah satu pahlawan dengan keinginan mati itu.\" NL NL ~\"Gimana~ ~huh?\"~",
+      "~\"Istimewa.\"~ NL Lelaki itu memberi suntik yang terlihat berbahaya berisi dengan #b~cairan~ #b~bercahaya~ sebelum menyelinap ke gang berbayang.",
+      "~\"Hebat.\"~ NL Lelaki itu menyuntikmu dengan tiga zat misterius dan mengeluarkan sebuah buku catatan. Saat kamu mulai merasa ringan kepala, dengan panik dia mulai menulis catatan. NL Benar-benar kehilangan jejak waktu, saat kamu mendapatkan kembali indramu, karakter mencurigakan itu telah hilang.",
+      "~\"Menakjubkan.\"~ NL Kamu meneguk zat misterius. Dengan segera kamu menjadi bersemangat dan merasakan serat ototmu @berkejang.@"
+    ],
+    "OPTIONS": [
+      "[Coba J.A.X.] #gMenjadi #gJAXXED.",
+      "[Menjadi Subjek Tes] #gTransformasi #g2 #gkartu.",
+      "[Telan Mutagen] #gMemperoleh #gsebuah #gpusaka #gspesial.",
+      "[Pergi]",
+      "[Terkunci] Butuh: 2 atau lebih kartu di dek.",
+      "Pilih Kartu untuk Tranformasi."
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Duplikator",
+    "DESCRIPTIONS": [
+      "Di depanmu terhampar sebuah altar yang terhias untuk sebuah wujud kuno.",
+      "Kamu berlutut dengan hormat. Sebuah gambar cermin mengerikan muncul dari kuil dan menabrakmu.",
+      "Kamu mengabaikan kuil, yakin dengan pilihanmu."
+    ],
+    "OPTIONS": [
+      "[Berdoa] #gSalin #gsebuah #gKartu #gdi #gdek.",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk Disalin."
+    ]
+  },
+  "Falling": {
+    "NAME": "Jatuh",
+    "DESCRIPTIONS": [
+      "Saat kamu mendaki ke atas, meloncat dari satu benda mengambang ke lainnya, kamu terpeleset. NL NL Kamu mulai terjun.",
+      "Ketika kamu terjun bebas kamu menentukan pilihanmu: NL Melandas aman dengan teknik terbaikmu. NL Salurkan sebuah Kekuatan untuk bertahan saat jatuh. NL Serang dinding agar bisa menggantung.",
+      "Kamu melandat dengan penuh keanggunan sebelum lanjut.",
+      "Memanfaatkan dan mencurahkan beberapa kekuatan murnimu, kamu berhasil mendarat tanpa bekas.",
+      "Kamu mampu menempel ke dinding, dan berhasil meloncat ke tempat stabil lainnya.",
+      "Kamu sepertinya jatuh seringan bulu, mencapai dasar tanpa gores."
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Mendarat] #rKehilangan ",
+      "[Terkunci] Butuh: Kartu Kemampuan",
+      "[Salurkan] #rKehilangan ",
+      "[Terkunci] Butuh: Kartu Kekuatan",
+      "[Serang] #rKehilangan ",
+      "[Terkunci] Butuh: Kartu Serangan",
+      "[Pergi]",
+      "[Mendarat]"
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Altar Terlupakan",
+    "DESCRIPTIONS": [
+      "Di depanmu terduduk sebuah altar untuk dewa yang terlupakan. NL Di puncak altar duduk sebuah hiasan patung perempuan yang menjulurkan tangan. NL Ia memanggilmu, menuntuk pengorbanan.",
+      "Dengan pelan kamu meletakkan berhala ke altar, #bangin dingin mengaduk memenuhi ruangan. NL Tangan dari patung mulai berubah warna dan meremuk. NL NL #yBerhala #yemas milikmu mulai memudar warnanya dan mengucurkan darah dari matanya. NL Tangisannya tidak pernah berhenti.",
+      "Kamu berdiri di atas altar dan menyayat pergelangan tanganmu. NL Saat #rdarah mengalir dalam pengorbanan, tangan patung itu menggapai dan menutup matamu. NL Semuanya menjadi gelap. NL Kamu bangun beberapa waktu kemudian merasakan potensial baru mengalir dalam tubuhmu.",
+      "Kamu mengamuk dan menghantam patung di depanmu, menhancurkan penahan magis yang ruangan berikan ke kamu. NL Sebuah tangisan gelap menggema di sekitarmu, dan kamu bisa merasakan #p~sihir~ #p~terkutuk~ merasuki tulangmu."
+    ],
+    "OPTIONS": [
+      "[Tawarkan: Berhala Emas] #gMemperoleh #gsebuah #gPusaka #gspesial. #rKehilangan #rBerhala #rEmas.",
+      "[Terkunci] Butuh: Berhala Emas.",
+      "[Pengorbanan] #gDapatkan #g",
+      " #gHP #gMaks. #rKehilangan #r",
+      " #rHP.",
+      "[Terkunci] Butuh: Kemanusiaan.",
+      "[Merusak] #Mendapat #rKutukan #r- #rMembusuk."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "Air Mancur Suci",
+    "DESCRIPTIONS": [
+      "Kamu menemukan #b~air~ #b~berkilauann~ mengalir tak hingga dari sebuah air mancur di tembok dekat.",
+      "Saat kamu meminum air #b~air,~ kamu merasa #pgenggaman #pkegelapan melemah.",
+      "Tidak yakin dengan sumber airnya, kamu melanjutkan perjalananmu, haus."
+    ],
+    "OPTIONS": [
+      "[Minum] #gHapus #gsemua #gKutukan #gdari #gdek.",
+      "[Pergi]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Majelis Hantu",
+    "DESCRIPTIONS": [
+      "Saat kamu meneruskan ke atas, #p~asap~ #p~hitam~ #p~tebal~ mulai to menggelembung dari tanah dan tembok sekitarmu, bergabung menjadi bentuk tiga topeng yang mulai berbicara. NL NL ~\"Boneka~ ~lain~ ~dari~ #y~Neow~ ~aku~ ~pikir.\"~ NL #r@\"SETUJU!@ #r@DIA@ #r@SELALU@ #r@MEMBUAT@ #r@MAINAN@ #r@YANG@ #r@PALING@ #r@MENYENANGKAN!\"@ NL NL Kamu menyadari sebuah senyum yang terlalu lebar saat yang ketiga berbicara ke kamu. NL \"Abaikan yang lain... Maukah kamu merasakan #y~kekuatan kami?\"~ ",
+      "",
+      "#y\"Luar Biasa!\" NL Saat bentuk hantu berbicara, kamu sadr mulut besarnya terbuka semakin lebar dan lebar. #p~Asap~ #p~hitam~ #p~tebal~ termuntahkan ke muka dan memenuhi ruangan. Kamu tidak bisa melihat atau bernapas... NL NL Sebelum kamu kehilangan kesadaran, sensasinya berhenti. NL NL Apapun mereka, mereka sudah pergi sekarang. Kamu lanjut, merasa agak #bkosong.",
+      "\"Mengecewakan sekali...\" NL ~\"Kamu~ ~akan~ ~bergabung~ ~dengan~ ~kami~ ~cepat~ ~atau~ ~lambat.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Bentuk-bentuk itu memudar, hanya meninggalkan tawa yang makin melemah bergetar di telingamu.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Terima] #gMenerima #g5 Arwah. #rKehilangan #r",
+      "% #rHP #rMaks.",
+      "[Tolak]",
+      "[Terima] #gMenerima #g3 Arwah. #rKehilangan #r",
+      "",
+      "[Pergi]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Berhala Emas",
+    "DESCRIPTIONS": [
+      "Kamu menemukan sebuah jalan yang tidak mencolok dengan sebuah #yberhala #yemas #ymengkilap duduk dengan damai di atasnya. Itu terlihat sangat berharga. NL NL Kamu yakin tidak melihat jebakan apapun di dekatnya.",
+      "Saat kamu mengambil Berhala itu dan memuatnya, sebuah batu besar jatuh melewati langit-langit ke tanah dekatmu. NL Kamu menyadari lantainya miring ke bawah saat batunya mulai menggelinding ke arahmu.",
+      "@LARIIIIIIIII!@ NL Kamu hampir tidak meloncat ke gang samping saat batunya melewatimu. Sayangnya kamu merasa seperti membuat terkilir sesuatu.",
+      "Kamu melempar dirimu ke batu dengan semua yang kamu punya. Ketika debu hilang, kamu bisa keluar dengan aman.",
+      "@SQUISH!@ NL Batu itu menggilingmu sedikit saat lewat, tapi selain itu kamu bisa keluar dari sini.",
+      "Jika ada jebakan yang jelas, ini pasti salah satunya. NL Kamu memutuskan untuk tidak menyentuh barang yang diletakkan di tengah jalan."
+    ],
+    "OPTIONS": [
+      "[Ambil] #gMenerima #gBerhala #gEmas. #rMengaktifkan #rsebuah #rjebakan.",
+      "[Pergi]",
+      "[Lari] #rMendapat #rKutukan #r- #rCedera.",
+      "[Pukul] #rMendapat #r",
+      " #rDamage.",
+      "[Sembunyi] #rKehilangan #r",
+      " #rHP #rMaks."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Kuil Emas",
+    "DESCRIPTIONS": [
+      "Di depanmu tersandar sebuah kuil rumit untuk sebuah arwah kuno. ",
+      "Saat kamu menyentuh kuil, #yemas jatuh dari langit-langit ~menghujanimu~ ~dalam~ ~kekayaan.~ ",
+      "Setiap kali kamu memukul kuil, #yemas jatuh lagi dan lagi! NL NL Saat kamu mengantonginya, ada #rbeban #rberat #rmenjatuhimu.",
+      "Kamu mengabaikan kuil itu."
+    ],
+    "OPTIONS": [
+      "[Berdoa] #gDapatkan #g",
+      " #gEmas.",
+      "[Merusak] #gDapatkan #g275 #gEmas. #rMendapat #rKutukan #r- #rPenyesalan.",
+      "[Pergi]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Patung Sayap",
+    "DESCRIPTIONS": [
+      "Di antara bebatuan, kamu menyadari sebuah patung biru besar berbentuk sayap yang rumit. NL Kamu menemukan #yemas keluar dari celanya. Mungkin masih ada lagi di dalamnya...",
+      "Seseorang pernah memberi tau sebuah pemujaan yang menyembah sebuah burung besar. Saat kamu berlutut berdoa, kamu mulai ~merasa~ ... ~ringan~ ~kepala~ . NL NL Kamu bangun beberapa waktu kemudian, merasakan kakimu anehnya ringan.",
+      "Dengan semua kekuatanmu, kamu meretas patungnya. NL Tidak lama kemudian @remuk,@ memunculkan #ytumpukan #yemas. Kamu ambil sebanyak mungkin dan melanjutkan perjalanan.",
+      "Patung itu membuatmu merasa ~gelisah.~ Kamu berjalan melewatinya dan terus maju."
+    ],
+    "OPTIONS": [
+      "[Berdoa] #gHapus #gsebuah #gKartu #gdari #gdek. #rKehilangan #r",
+      " #rHP.",
+      "[Hancurkan] #gDapatkan #g",
+      " #g- #g",
+      " #gEmas.",
+      "[Terkunci] Butuh: Kartu dengan ",
+      " atau lebih damage.",
+      "[Pergi]",
+      "[Lanjut]",
+      "Pilih satu Kartu untuk Dihapus."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Tengkorak Tau Segala",
+    "DESCRIPTIONS": [
+      "Kamu menemukan dirimu di sebuah ruang terhias tua. Di tengah ruangan, sebuah tengkorak besar duduk di atas tumpuan berhias. Saat mendekatinya, tengkoranknya #g@meledak@ #g@dalam@ #g@api@ dan menoleh ke arahmu.",
+      "\"APA YANG KAMU CARI? APA YANG KAMU TAWARKAN?\" NL Tepat dengan kata terakhirnya, pintu di belakangmu @tertutup@ @rapat.@",
+      " NL NL \"APA LAGI?\"",
+      " ",
+      "\"MINUMLAH!\" NL Kamu memperoleh sebuah ramuan.",
+      "\"MUNGKIN INI AKAN MEMBANTU?\" NL Kamu memperoleh sebuah kartu.",
+      "\"KAMU MORTAL TIDAK PERNAH BERUBAH. ITU SUDAH.\" NL #yEmas menghujanimu!",
+      "\"BELAKANGMU, MORTAL.\" NL Kamu mengintip di belakang tengkorak. Benar ternyata, ada pintu."
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      " #rHP.",
+      "[Informasi?] #gMemberitahukan #gBoss #gberikutnya. #rKehilangan #r",
+      "[Sukses?] #gMemperoleh #gsebuah #gKartu #gtanpa #gwarna. #rKehilangan #r",
+      "[Minuman Penyegar?] #gMemperoleh #gsebuah #gRamuan. #rKehilangan #r",
+      "[Kekayaan?] #gDapatkan #g",
+      " #gEmas. #rKehilangan #r",
+      "[Bagaimana Aku Pergi?] #rKehilangan #r",
+      "[Pergi]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Lab",
+    "DESCRIPTIONS": [
+      "Kamu menemukan dirimu dalam sebuah ruangan berisi banyak rak alat percobaan seperti tabung, gelas kimia, labu, forcep, penjepit, batang pengaduk, tong, kacamata, corong, pipet, silinder, pengembun, dan bahkan tabung gelas spiral yang langka. NL NL Mengapa kamu tau semua nama alat-alat itu? Itu tidak penting, kamu kemudian melihat-lihat."
+    ],
+    "OPTIONS": [
+      "[Cari] #gTemukan #gbeberapa #gRamuan!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "Ssssserpent",
+    "DESCRIPTIONS": [
+      "Kamu berjalan ke sebuah ruangan menemukan lubang besar di tanah. Saat kamu mendekati lubang itu, sebuah makhluk ular besar muncul dari dalamnya. NL NL ~\"Ho~ ~hooo!~ ~Halo~ ~halo!~ ~apa~ ~yang~ ~kita~ ~temukan~ ~disini?~ Halo petualang, Aku bertanya satu pertanyaan sederhana. NL Kehidupan yang paling memuaskan adalah kehidupan dimana kamu bisa #y~beli~ #y~apapun!~ NL Apakah kamu setuju?\"",
+      "~\"Yassssssssssassss!~ NL ~Ini~ ~sssssemua~ ~passsti~ ~menjadi~ ~sssssssssssangat~ ~berharga.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Serpent menatapmu dengan tatapan penuh kekecewaan.",
+      "Serpent memundurkan kepalanya dan memuncratkan aliran #yEmas ke atas! NL Kelihatan hebat dan menakutkan bersamaan. NL Kamu mengumpulkan semua #yEmas, berterima kasih ke serpent, dan melanjutkan perjalanan."
+    ],
+    "OPTIONS": [
+      "[Setuju] #gDapatkan #g",
+      " #gEmas. #rMendapat #rKutukan #r- #rKeraguan.",
+      "[Tidak Setuju]",
+      "[Lanjut]",
+      "[Pergi]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Tembok Hidup",
+    "DESCRIPTIONS": [
+      "Saat kamu menemukan jalan buntu dan mulai berbalik arah, tembok @jatuh@ dari langit-langit, menjebakmu! NL NL Tiga wajah dari tembok dan berbicara. NL #b\"Lupakan #byang #bkamu #btau, #bdan #baku #bakan #bmelepasmu.\" NL #p\"Aku #mensyaratkan #pperubahan #puntuk #pmemperlihatkanmu #pruang #pbaru.\" NL #y\"Jika #ykamu #yingin #ymelewatiku, #ykemudian #ykamu #yharus #yberkembang.\"",
+      "Puas, tembok di depanmu bergabung kembali ke langit-langit, meninggalkan jalur ke depan."
+    ],
+    "OPTIONS": [
+      "[Lupa] #gHapus #gsebuah #gKartu #gdari #gdek.",
+      "[Ubah] #gTransformasi #gsebuah #gKartu #gdari #gdek.",
+      "[Tumbuh] #gPeningkatan #gsebuah #gKartu #gdari #gdek.",
+      "Pilih sebuah Kartu untuk Dihapus.",
+      "Pilih sebuah Kartu untuk Transformasi.",
+      "Pilih sebuah Kartu untuk Peningkatan.",
+      "[Pergi]",
+      "[Terkunci] Butuh: Kartu yang bisa Ditingkatkan"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Bandit Bertopeng",
+    "DESCRIPTIONS": [
+      "Hehehe.. Terima kasih untuk #yEmasnya! NL Oh, Aku cinta #yEmas. Sangat indah. NL #y~mengkilat~ #y~mengkilat~ mereka semua!",
+      "Hey #bBeruang, hey! NL Orang ini memberi semua #yEmas miliknya! Orang yang tolol, kan? NL Ternyata aku cuma perlu bertanya saja. Siapa sangka?! NL Aku jelas tidak menyangka! Orang dungu!",
+      "Gang, ayo kita semua bersenang-senang untuk peristiwa menakjubkan ini! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Oh? Kamu masih disini? NL Apa kamu mendengar sesuatu? Kurasa tidak. NL #r@*snerk*@ ~...pecundang....~ @Hahaha@ ~haaah~",
+      "Kamu bertemu sebuah grup bandit memakai #rtopeng #rmerah besar. NL \"Halo, bayar untuk lewat... dengan bayaran yang layak, @SEMUA@ #yEmas milikmu akan cukup! Heh heh!\""
+    ],
+    "OPTIONS": [
+      "[Bayar] #rKehilangan #rSEMUA #yEmas milikmu.",
+      "[Tarung!]",
+      "[Lanjut]",
+      "[Pergi]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Cocok dan Simpan!",
+    "DESCRIPTIONS": [
+      "\" #bDua belas Kartu! Cocokkan untuk disimpan! #bLima percobaan, tidak ada coba ulang. NL Siap? Ayo Mulai!\"",
+      "Kamu menyelesaikan permainan gremlin dan menatap kembali. NL Dia menghilang?",
+      "Gremlin mengacak kartu dengan gila di meja. Monster ini sepertinya tidak berbahaya. Kamu mendekatinya karena penasaran."
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Pergi]",
+      "[Main]",
+      "Sisa Percobaan: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Jamur",
+    "DESCRIPTIONS": [
+      "Kamu menyerah ke hasrat tidak wajar untuk makan. Saat kamu memakan banyak jamur, kamu merasa memasuki kelinglungan dan pingsan. Saat kamu bangun, kamu merasa sangat aneh. NL Kamu #gSembuhkan #b25% dari HP, tapi kamu juga terkena #rinfeksi.",
+      "#r@Tersergap!!@ NL Tikus yang terinfeksi oleh jamur muncul secara tiba-tiba!",
+      "Kamu memasuki sebuah koridor penuh dengan #b~jamur~ #b~warna~ #b~menghipnotis.~ NL Karena kamu tidak ahli dalam mikologi kamu tidak mampu mengidentifikasi jenisnya. NL Kamu ingin kabur, tapi kamu anehnya merasa ingin memakan sebuah #b~jamur...~"
+    ],
+    "OPTIONS": [
+      "[Injak] #rMembuat #rmarah #rJamur.",
+      "[Makan] #gSembuhkan #g",
+      " #gHP. #rMendapat #rKutukan #r- #rParasit.",
+      "[Bertarung]",
+      "[Pergi]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Bola Misterius",
+    "DESCRIPTIONS": [
+      "Menonjol dari lahan semrawut di sekitarmu, rangka bola melingkupi sebuah objek menyala misterius di dalamnya. NL Walau kamu penasaran dengan apa yang ada di dalam, kamu menyadari beberapa penjaga menjaganya.",
+      "Sesaat kamu menyerang bolanya, penjaganya bangun di sekitarmu!",
+      "Tidak perlu rakus."
+    ],
+    "OPTIONS": [
+      "[Buka Bola] #rBertarung. #gHadiah: #gPusaka #gLangka.",
+      "[Pergi]",
+      "[Bertarung]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "Sebuah makhluk aneh dengan punggung membungkuk memperlihatkan beberapa tentakel itu mengemis tumpukan sampah dan reruntuhan di depanmu. Saat kamu mendekatinya, he menyeret dirinya ke arahmu dengan sikap yang tidak mengancam. NL \"N'loth lapar. Kasih makan N'loth.\"",
+      "Mengangkat #yPusaka ke arahnya, N’loth merenggutnya dari tanganmu dengan tentakelnya, merusak rahangnya, dan menelan tawaranmu dalam satu tegukan cepat. NL Dia memberimu senyum besar penuh gigi saat lebih banyak tentakel muncul dari belakang mantelnya, melambaikan sebuah kotak yang mustahilnya rapi. Dia mendorongnya ke arahmu hingga kamu mengambilnya.",
+      "Kamu menggelengkan kepalamu. N'loth membungkuk lebih dalam dan mengeluh, kemudian membenamkan diri."
+    ],
+    "OPTIONS": [
+      "[Tawarkan: ",
+      "] #rKehilangan #rPusaka #rini. #gMemperoleh #gsatu #gPusaka #gspesial #gbaru.",
+      "[Pergi]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Pergi]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Pembersihan",
+    "DESCRIPTIONS": [
+      "Di depanmu terbentang sebuah kuil rumit untuk seorang arwah terlupakan.",
+      "Saat kamu berlutut dalam penghormatan, kamu merasa sebuah beban hilang dari bahumu.",
+      "Kamu mengabaikan kuil itu."
+    ],
+    "OPTIONS": [
+      "[Berdoa] #gHapus #gsebuah #gKartu #gdari #gdek.",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk Dihapus."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Lumpur Kepingan",
+    "DESCRIPTIONS": [
+      "Saat kamu berjalan ke dalam ruangan kamu mendengar ~gemericik~ dan @gertakan@ dari logam. Di hadapanmu makhluk seperti lendir yang memakan terlalu banyak kepingan untuk kebaikannya sendiri. Dari inti makluk itu kamu melihat kilat cahaya aneh, mungkin sesuatu yang magis? Sepertinya kamu bisa mendapat suatu #yharta jika kamu meraih ke dalam... mulutnya. Namun, asam dan objek tajam bisa #rmenyakiti.",
+      "#r@Ouch!@ NL Apa yang kamu temukan hanyalah logam berkarat dan sedikit #r@sakit@ #r@membara.@ NL Namun, Kamu masih yakin ada sebuah #yPusaka...",
+      "#gSukses! NL Setelah menggeledah di antara logam dan asam panas, kamu akhirnya menangkap sebuah #yPusaka dan memaksanya keluar. NL Kamu menarik keluar dirimu dari lumpur itu #rterluka tapi tidak sia-sia.",
+      "Kamu memutuskan untuk meninggalkan area. NL Lendir itu tidak peduli, puas dengan makanannya."
+    ],
+    "OPTIONS": [
+      "[Meraih ke Dalam] #rKehilangan #r",
+      " #rHP. #g",
+      "%: #gTemukan #gsatu #gPusaka.",
+      "[Pergi]",
+      "[Lebih Dalam] #rKehilangan #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Portal Rahasia",
+    "DESCRIPTIONS": [
+      "Di hadapanmu ada pandangan yang sepertinya tidak tepat dalam pemandangan asing sekitarmu. Anehnya diletakkan dalam salah satu tembok hidup Alam Jauh, sebuah pintu masuk dari tumpukan batu berisi dengan #p~putaran~ #p~portal~ #p~magis.~ NL NL Kamu tidak yakin kemana tujuannya, tapi mungkin ini bisa mempercepat perjalananmu dalam Spire.",
+      "Meloncat ke dalam portal, rasa ruang dan waktumu benar-benar terkoyak. NL NL Saat kamu reorientasi dirimu dalam pemandangan baru, kamu sadar bahwa tepat didepanmu adalah pertarungan yang menakutkan.",
+      "Berhati-hati dan waspada sepertinya keputusan yang lebih baik untuk mencapai puncak Spire. Mengabaikan portal, kamu melanjutkan perjalanan."
+    ],
+    "OPTIONS": [
+      "[Masuk Portal] LANGSUNG pergi ke bos.",
+      "[Pergi]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Batu Indrawi",
+    "DESCRIPTIONS": [
+      "Berjalan melalui Alam Jauh, kamu menemukan sebuah #btesseract #bmenyala @berputar@ dan ~bergerak~ dengan lembut di udara.",
+      "Kamu menyentuhnya. NL NL Sebuah #r@kesakitan@ #r@tajam@ mengalir dalam dirimu, diteruskan dengan bayangan jelas dari ingatan lama. NL ...Ingatan milik siapakah ini?",
+      "#r~KETAKUTAN.~ NL NL Sebuah makhluk iblis berdiri tinggi di atasmu, sayapnya membentang lebar saat dia melolong penuh dengan tawa. Mayat tubuh dari sebuah suku mengelilingimu sedangkan desanya dilingkupi #p~api~ #p~gelap~ yang mengerikan. NL NL Iblis itu memanggilmu, mencemooh dirimu. NL NL \" #r@KAMU@ #r@BENAR-BENAR@ #r@MENJADI@ #r@YANG@ #r@TERKUAT@ #r@SEKARANG!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Tawa itu menggema selamanya... ",
+      "#g~KEMENANGAN.~ NL NL Sisa dari sebuah #p~makhluk~ #p~arwah,~ turun dengan pelan ke dalam lumpur di depanmu, hampir tidak terlihat dalam sinar rembulan. Kamu sudah membuktikan dirimu diantara saudara perempuanmu. NL NL Berdiri penuh dengan kemenangan, kamu menunggu dalam kesunyian saat yang lain sesuai upacara meletakkan #ytengkorak #ymakhluk itu di atas kepalamu. Ritual itu sudah selesai. NL NL Kamu berjalan menuju Spire...",
+      "#b~KEBINGUNGAN.~ NL NL #y[OBJECTIVE] #gBALANCE #gharus #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rObjek #rbesar #rmendekat NL NL ~\"Aku...~ ~....Neow..\"~",
+      "#p~SERENITY.~ NL NL Dua makhluk purba bertarung di dekat bangkai di samping jalan. Kamu mengamatinya, tanpa perasaan. NL #yAmati. #yIngati. #yHidup. Ini adalah misi Watcher. NL NL Belakangan ini, salah satu dari rekan mu berhenti melapor tugas mereka: sebuah Menara dengan asal tak diketahui. NL NL Ketika pertarungannya berakhir, kamu melanjuti perjalananmu, tidak terganggu dengan adegan kejam yang baru terjadi."
+    ],
+    "OPTIONS": [
+      "[Recall] #gTambah #g1 #gKartu #gTanpa #gWarna #gke #gdek.",
+      "[Recall] #gTambah #g2 #gKartu #gTanpa #gWarna #gke #gdek. #rKehilangan #r",
+      "[Recall] #gTambah #g3 #gKartu #gTanpa #gWarna #gke #gdek. #rKehilangan #r",
+      " #rHP.",
+      "[Pergi]",
+      "[Interact]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Cahaya Terang",
+    "DESCRIPTIONS": [
+      "Kamu menemukan sebuah kilauan #ycahaya melingkupi tengah ruangan. NL NL ~Sinar~ ~hangat~ dan ~pola~ ~mempesona~ itu mengundangmu ke dalam.",
+      "Saat kamu berjalan melewati sinar itu, kamu sadar bahwa sinarnya menyerap ke dalam dirimu. NL Rasanya #r@panas@ #r@membakar@ ! Namun, sakitnya cepat surut. NL Kamu merasa #bsemangat, seakan kamu mendapatkan sebuah tamparan yang layak.",
+      "Kamu berjalan melingkarinya, penasaran apa yang bisa terjadi."
+    ],
+    "OPTIONS": [
+      "[Enter] #gPeningkatan #g2 #gKartu #gacak. #rKehilangan #r",
+      " #rHP.",
+      "[Pergi]",
+      "[Terkunci] Butuh: Kartu yang bisa Ditingkatkan"
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Jantung Spire",
+    "DESCRIPTIONS": [
+      "@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Sebuah denyut dalam yang mengerikan dapat dirasakan di seluruh ruangan... NL Apakah ini #r~jantung~ dari Spire? Sumber kejahatan ini?",
+      "Kamu memberi #b",
+      " damage! NL Jantung itu #r@menggeliat@ dan #r~berdarah~ ...tapi pada akhirnya masih berdetak. NL Apa serangan terkuatmu masih tidak cukup?",
+      "Kamu bertanya pada dirimu, ~\"Apakah~ ~aku~ ~pernah~ ~kesini~ ~sebelumnya?\"~ NL Kamu merasa bahwa kamu sudah memberi total #b",
+      " damage ke jantung.",
+      " NL total #b",
+      " damage telah diberi oleh semua yang sudah menantangnya.",
+      " NL Jantung itu berdetak semakin keras saat #y~kesadaranmu~ #y~memudar...~",
+      "NL Kamu mempersiapkan pedangmu...",
+      "NL Kamu menyiapkan pisaumu...",
+      "NL Kamu mengisi intimu sepenuhnya...",
+      "Kamu bertanya pada dirimu, ~\"Apakah~ ~aku~ ~pernah~ ~kesini~ ~sebelumnya?\"~",
+      " NL Jantung itu berdetak semakin keras saat #p~kesadaranmu~ #p~mulai~ #p~memudar...~",
+      " NL Ledakan #y@energi@ tiba-tiba muncul dari dalam dirimu, #b@menyentak@ membangunkanmu.",
+      " NL Jantung itu #gkabur ke atas! Sebuah pintu besar terungkap di tempat ia berada.",
+      "NL You prime your staff with divine energy..."
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Serang] #b???",
+      "[Tidur]",
+      "[Dekati Pintu]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "Cleric",
+    "DESCRIPTIONS": [
+      "Humanoid aneh memakai helm emas (?) mendekatimu dengan senyum lebar. NL @\"Halo@ @kawan!@ Aku #bCleric! Apakah kamu tertarik dengan jasaku ?!\" makhluk ini berteriak dengan keras.",
+      "Cahaya hangat berwarna emas menyelimuti tubuhmu, lalu menghilang NL Dia menyeringai. \"Cleric penyembuh terbaik. @Semoga@ @harimu@ @menyenangkan!@\"@",
+      "Api dingin berwarna biru menyelimuti tubuhmu, lalu menghilang. NL Dia menyeringai. \"Cleric berbakat. @Semoga@ @harimu@ @menyenangkan!@\"@",
+      "Kamu tidak mempercayai #b\"Cleric\" ini, jadi kamu pergi."
+    ],
+    "OPTIONS": [
+      "[Penyembuhan] #y35 #yEmas: #gSembuhkan #g",
+      "[Terkunci] Butuh: ",
+      " Emas.",
+      "[Pensucian] #y",
+      " #yEmas: #gHapus #gsebuah #gKartu #gdari #gdek.",
+      "[Terkunci] Butuh: 50 Emas.",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk Dihapus.",
+      " #gHP."
+    ]
+  },
+  "The Joust": {
+    "NAME": "Joust",
+    "DESCRIPTIONS": [
+      "Saat kamu berjalan melewati bangunan besar, akhirnya kamu sampai pada jembatan sempit serta panjang, dan melihat dua ksatria pada akhir jembatan, saling berdampingan. Kamu mendekatinya... NL @\"Berhenti!\"@ NL NL Seorang ksatria memaksamu untuk berhenti menggunakan tombaknya.",
+      "\"Hari ini adalah hari dimana aku harus membalaskan dendamku kepada #rpembunuh yang membunuh peliharaanku, #yNoodles. Sampai itu terjadi, kamu tidak boleh lewat. NL NL Hai saksi, kenapa kamu tidak #bbertaruh pada siapa yang akan menerima kemenangan?\"",
+      "\"Aku tidak percaya kamu mempertaruhkan menentang #yNoodles!\" NL NL Marah, dia memakai helmnya dan maju kedepan menyerang musuh bebuyutannya.",
+      "\"Berikan aku kekuatan !, #yNoodles!\" NL NL Menutup penutup helmnya, sang ksatria menyerang kedepan.",
+      "NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
+      "Musuh telah dibunuh. NL NL ",
+      "Pemilik telah mati. NL NL ",
+      "Kamu #gMenang taruhan. Tidak pasti akan apa yang kamu pikirkan, Kamu mengambil hasil taruhanmu dan pergi.",
+      "Kamu #rKalah taruhan, paling tidak kamu tidak ditusuk dengan tombaknya."
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Pembunuh] #yBertaruh #y",
+      " #yEmas - #g70%: #gmenang #g",
+      " #gEmas.",
+      "[Pemilik] #yBertaruh #y",
+      " #yEmas - #g30%: #gmenang #g",
+      "[Tonton]",
+      "[Pergi]"
+    ]
+  },
+  "The Library": {
+    "NAME": "Perpustakaan",
+    "DESCRIPTIONS": [
+      "Kamu tiba disebuah bangunan terbengkalai yang mempunyai banyak hiasan. NL Sebuah plakat yang telah dirobek dari dinding, sekarang ada di lantai. Dibacalah, #b\"#bPERPUSTAKAAN\". NL Didalamnya, kamu menemukan banyak barisan surat gulung yang tak terhitung, naskah, dan buku. NL Kamu memilih salah satu dari tiga literatur tersebut, dan bersantai untuk beberapa waktu.",
+      "Membaca hanya untuk orang dungu. NL Sebagai gantinya kamu tertidur di kursi yang nyaman. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Kamu bangun dan merasa segar.",
+      "Kisah ini adalah tentang serangga yang mengendalikan seorang remaja perempuan yang mana dia bercita-cita menjadi pahlawan. Buku ini penuh dengan kreatifitas penggunaan kekuatan, strategi berperang, dan pandangan-pandangan yang berbeda. NL Memuaskan.",
+      "Kisah ini adalah tentang seorang pria yang melakukan perjalanan di luar angkasa yang terjebak di planet kecil yang tak berpenghuni. Kecerdikan, keberuntungan, ketekunan, dan humor untuk menjaga dirinya agar tetap waras adalah alat untuk menuntunnya kembali ke rumah. NL Mempesona.",
+      "Kisah ini bertempat pada bangunan besar terisolasi dibawah tanah, kondisi luar dari rumah sangat rusak parah. Novel ini menjorok pada konspirasi, propaganda, dan ketidakadlian. Kamu merenungkan jika dinamika yang sama sedang terjadi di Spire. NL Mengerikan."
+    ],
+    "OPTIONS": [
+      "[Baca] #gPilih #g1 #gdari #g20 #gKartu #guntuk #gditambah #gke #gdek.",
+      "[Tidur] #gSembuhkan #g",
+      " #gHP.",
+      "[Pergi]",
+      "Tambah sebuah Kartu ke dek."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "Makam",
+    "DESCRIPTIONS": [
+      "Berjalan melewati serangkaian makam, kamu berhadapan dengan sarkofagus besar ~bertahtakan~ ~permata~ ditengah ruangan yang berbentuk lingkaran. NL Kamu tidak bisa membaca tulisan yang ada pada peti mati, namun, kamu memperhatikan bahwa #p~kabut~ #p~hitam~ merembes pada sisi peti.",
+      "Kamu mendorong buka peti matinya. Saat kamu melakukannya, #p~kabut~ #p~hitam~ keluar dan menutupi seisi ruangan! Didalamnya, kamu tidak menemukan mayat, hanya sebuah #y~Pusaka.~ Kamu mengambilnya dan beranjak pergi, #r@berbatuk-batuk@ #r@keras.@",
+      "Kamu mendorong buka peti matinya. Kabut yang tidak berbahaya menghilang perlahan-lahan. Didalamnya, kamu menemukan mayat prajurit yang memegang #yPusaka. Kamu mencurinya dan beranjak pergi.",
+      "Kamu melanjutkan perjalananmu, tanpa mengganggu mayat-mayat yang ada."
+    ],
+    "OPTIONS": [
+      "[Buka Peti] #gMemperoleh #gPusaka. #r",
+      "%: #rMendapat #rKutukan #r- #rSakit #rHati.",
+      "[Pergi]"
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "Kepala Moai",
+    "DESCRIPTIONS": [
+      "Kamu tersandung sesuatu yang *sangat* tidak pada tempatnya. Sebelum kamu, kepala batu yang sangat besar muncul dari bagian tembok besar yang tidak bergeser atau berubah seperti yang lainnya.  NL Mulut dari kepala tersebut terbuka lebar, mulut mengerikan tersebut memperlihatkan gigi besar bernoda darah. Pada permukaan patung terdapat banyak piktograf yang menggambar banyak orang masuk kedalamnya dan termakan. Kenapa mereka melakukannya?",
+      "Pada awal kamu melangkah ke mulut patung tersebut, tidak terjadi apa-apa . Setelah kamu merasa cukup bodoh untuk melangkah ke dalam, geraham atas dari patung menghantammu, menghancurkan tubuhmu. NL @Kegelapan.@ NL Beberapa saat kemudian didalam kegelapan, kamu melihhat setitik cahaya, dan mendengar suara gigi patung perlahan-lahan membuka keatas. NL NL NL Kamu kebingungan.",
+      "Kamu meloncat kebelakang saat geraham patung menghantam berhala, menghancurkannya seperti debu. Saat giginya membuka lagi, #yEmas bertaburan dari mulut patung tersebut, membanjirimu dengan kekayaan.",
+      "Kamu pergi, bertanya-tanya terhadap apa yang bisa terjadi."
+    ],
+    "OPTIONS": [
+      "[Lompat ke Dalam] #gSembuhkan #gke #gHP #gpenuh. #rKehilangan #r",
+      " #rHP #rMaks.",
+      "[Tawarkan: Berhala Emas] #gDapatkan #g333 #gEmas. #rKehilangan #rBerhala #rEmas.",
+      "[Terkunci] Butuh: Berhala Emas.",
+      "[Pergi]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "Perempuan Berbaju Biru",
+    "DESCRIPTIONS": [
+      "Dari kegelapan, sebuah tangan menarikmu ke kios kecil. Saat matamu melihat barang-barang, kamu melihat seorang wanita berpakaian eksentrik menawarkan beberapa ramuan. NL \"Belilah ramuan. Sekarang!\" ujarnya.",
+      "\"Bagus. Sekarang, kamu bisa pergi.\" NL Kamu keluar kios secara perlahan.",
+      "#r@WHAM@ NL Sarung tangannya menghantam wajahmu, hampir membuatmu jatuh. NL \"Pergilah sebelum aku mengotori lantainya dengan isi perutmu.\" Kamu mematuhi perintahnya dan keluar dari kios secara aman."
+    ],
+    "OPTIONS": [
+      "[Beli 1 Ramuan] #y",
+      "[Beli 2 Ramuan] #y",
+      "[Beli 3 Ramuan] #y",
+      " #yEmas.",
+      "[Pergi]",
+      "[Pergi] #rTerima #r",
+      " #rDamage."
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Berpikir dalam Genangan Air",
+    "DESCRIPTIONS": [
+      "Kamu berjalan ke genangan air yang bersinar... dan ternyata kamu terjatuh dari atap! NL Pada saat terjatuh, pertimbangkanlah pilihanmu.",
+      "Kamu memukul tanganmu karena panik, dan melancarkan trik sulap untuk mencegah dirimu terluka. Malahan, kamu terjatuh di genangan air lagi... dan lagi... dan lagi. Beberapa hari terlewati sebelum kamu sadar bagaimana cara keluar. Sangat menyedihkan.",
+      "Kamu menyiapkan dirimu untuk pendaratan tetapi tidak ada cara lain untuk mendarat dengan selamat jika jatuh dari sebuah atap tua. @THUD@ NL NL ...kamu berbaring sesaat, mengutuk setiap dari genangan tersebut, baik secara fisik ataupun gaib."
+    ],
+    "OPTIONS": [
+      "[Basah] #rKehilangan #rsebuah #rkartu #rLangka #racak.",
+      "[Jatuh Kepala Dulu] #rTerima #r",
+      " #rdamage. #rMendapat #rKutukan #r- #rCedera.",
+      "[Pergi]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Nisan Penguasa Topeng Merah",
+    "DESCRIPTIONS": [
+      "Sebuah batu nisan yang banyak hiasan dan sangat menyala dapat terlihat dari sisi jalan yang lain, kamu melihat celah untuk koin #yEmas dengan tulisan yang telah tergores diatasnya.",
+      "Kamu memakai topengnya dan batu nisan mulai ~runtuh...~ jalan rahasia! NL NL Di jalan rahasia itu banyak berjejer barang curian dan banyak #yEmas!",
+      "Lubang muncul pada batu nisan dan sebuah topeng merah kecil dengan catatan pun terlihat. \"Ambillah dari mereka, seperti aku mengambil punyamu!\""
+    ],
+    "OPTIONS": [
+      "[Mengenakan Topeng Merah] #gDapatkan #g222 #gEmas.",
+      "[Terkunci] Butuh: Topeng Merah.",
+      "[Tawarkan: ",
+      " Emas] #rKehilangan #rsemua #rEmas. #gMemperoleh #gsebuah #gPusaka.",
+      "[Pergi]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Transmogrifier",
+    "DESCRIPTIONS": [
+      "Sebelum kamu terbentang sebuah kuil yang diciptakan untuk menghormati para pendahulu",
+      "Saat tenaga dari kuil masuk ketubuhmu, pikiranmu agak terganggu.",
+      "Kamu mengacuhkan kuilnya."
+    ],
+    "OPTIONS": [
+      "[Berdoa] #gTransformasi #gsebuah #gKartu.",
+      "[Pergi]",
+      "Pilih sebuah kartu untuk Tranformasi."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Kuil Peningkatan",
+    "DESCRIPTIONS": [
+      "Sebelum kamu terbentang sebuah kuil yang diciptakan untuk menghormati para pendahulu.",
+      "Tenaga dari kuil masuk ke tubuhmu, membuatmu menjadi lebih kuat",
+      "Kamu mengacuhkan kuilnya."
+    ],
+    "OPTIONS": [
+      "[Berdoa] #gPeningkatan #gsebuah #gKartu.",
+      "[Pergi]",
+      "Pilih satu Kartu untuk Peningkatan.",
+      "[Terkunci] Butuh: Kartu yang bisa Ditingkatkan"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Vampir(?)",
+    "DESCRIPTIONS": [
+      "Saat menyusuri jalan sepi dan gelap, kamu melewati beberapa sosok bertudung di tengah sebuah ritual kegelapan. Disaat kamu mendekat, mereka membalikan badan dan melihatmu dengan keji. Yang tertinggi dari mereka memperlihatkan gigi taringnya dan mengulurkan sebuah tangan yang panjang dan pucat ke arahmu. NL ~\"Wahai~ ~lelaki,~ ~bergabunglah~ ~dengan~ ~kami~ ~dan~ ~rasakan~ ~kehangatan~ ~Spire.\"~",
+      "Menyusuri jalan gelap, kamu menemukan beberapa sosok bertudung di tengah sebuah ritual kegelapan. Saat kamu mendekat, mereka belok menatapmu dalam keserempakan yang mengerikan. Yang tertinggi dari mereka memperlihatkan gigi taringnya dan mengulurkan sebuah tangan yang panjang dan pucat ke arahmu. NL ~\"Wahai~ ~perempuan,~ ~bergabunglah~ ~dengan~ ~kami~ ~dan~ ~rasakan~ ~kehangatan~ ~Spire.\"~",
+      "Sosok tinggi itu memegang tanganmu, menarikmu ke depan, dan menanam taringnya ke lehermu. Kamu merasakan sebuah @energi@ @kegelapan@ mengalir ke dalam lehermu dan @mengalir@ ke seluruh tubuhmu. NL ... NL Kamu bangun beberapa waktu kemudian, sendiri. Rasa ~lapar~ yang kuat datang dari perutmu. Kamu #rharus #rmakan...",
+      "Kamu mundur mengangkat senjatamu, menentang. Sosok tinggi itu menghela. \"Baiklah.\" Seluruh grup sosok bertudung itu berubah menjadi asap hitam tebal yang mengalir menjauh darimu. NL Kamu sendirian lagi.",
+      "Sosok pucat itu kaget saat kamu mengeluarkan #yVial #yDarah. NL ~\"Darah~ ~master...~ ~darah~ ~master!~ @DARAH@ @MASTER!\"@ NL Mereka semua bernyanyi keras saat yang paling tinggi menunduk di depanmu. \" Minumlah darahnya, dan menjadi satu dengan #y~Dia.\"~ NL Nyanyian menjadi semakin keras, kamu meminum isi vial itu. Pandanganmu segera ~berbengkok~ dan memudar dalam kegelapan. NL NL Kamu bangun beberapa waktu kemudian, sendiri. Rasa ~lapar~ yang kuat datang dari perutmu. Kamu #rharus #rmakan.",
+      "Menyusuri jalan gelap, kamu menemukan beberapa sosok bertudung di tengah sebuah ritual kegelapan. Saat kamu mendekat, mereka belok menatapmu dalam keserempakan yang mengerikan. Yang tertinggi dari mereka memperlihatkan gigi taringnya dan mengulurkan sebuah tangan yang panjang dan pucat ke arahmu. NL ~\"Wahai~ ~yang~ ~rusak,~ ~bergabunglah~ ~dengan~ ~kami~ ~dan~ ~rasakan~ ~kehangatan~ ~Spire.\"~"
+    ],
+    "OPTIONS": [
+      "[Terima] #gHapus #gsemua Serang. #gTerima #g5 Gigit. #rKehilangan #r",
+      "% #rHP #rMaks.",
+      "[Menolak]",
+      "[Kehilangan ",
+      "] #gHapus #gsemua Serang. #gTerima #g5 Gigit.",
+      "[Pergi]"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Roda Perubahan",
+    "DESCRIPTIONS": [
+      "Kamu sampai pada Gremlin yang sangat rapi. NL \"Saatnya memutar roda! Apakah kamu ~S~ ~I~ ~A~ ~P~ ~?~ Tentunya kamu siap!\"",
+      "\"Kamu memenangkan beberapa #yEmas! NL YAY!!!!\"",
+      "\"Oke, sebuah #ghadiah! NL Nikmatilah!\"",
+      "\"Oooh, #gpengobatan gratis untukmu!\"",
+      "\"Sepertinya kamu memenangkan #pKutukan! NL Itu tidak bagus. NL Ya sudahlah! Semoga lain kali beruntung!\"",
+      "\"Ohh, kekuatan dari #r~kegelapan...~ NL Pilih sebuah kartu untuk dihapus dari dek!\"",
+      "\"Uh oh! NL Kamu kalah!\" NL Kamu melihatnya mempersiapkan sebilah shiv...",
+      "Kamu mengayunkan pedang ke Gremlin, tetapi dia terlalu cepat! NL Dia menusukmu beberapa kali dengan shiv miliknya. NL \"Hutang telah dibayarkan!!\" NL dengan itu, baik roda berputar dan Gremlin menghilang di antara asap."
+    ],
+    "OPTIONS": [
+      "[Main]",
+      "[Hadiah!] YAY!!!!",
+      "[Hadiah!] #gMenerima #gPusaka.",
+      "[Hadiah!] #gSembuhkan #gke #gHP #gpenuh.",
+      "[Hadiah?] #rKutukan #r- #rMembusuk.",
+      "[Hadiah!] #gHapus #gsebuah #gKartu #gdari #gdek.",
+      "[Hadiah?] #rKehilangan #r",
+      " #rHP.",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk Dihapus."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Ruangan Berliku",
+    "DESCRIPTIONS": [
+      "Saat kamu dengan perlahan berjalan melewati jalan yang berputar-putar, kamu merasa selalu tersesat, tembok dan lantainya seperti bergeser secepat kilat. NL NL #p~Bisikan~ yang terus muncul di belakang kepalamu tidak membantu sama sekali.",
+      "Melewati beberapa bangunan yang kamu rasa telah kamu lewati sebelumnya, kamu mulai menanyakan kewarasan dirimu sendiri. Atau mungkin memang tata letak bangunannya seperti ini. Kamu harus melakukan sesuatu, dan itu harus dilakukan. NL NL Itu juga apa yang disarankan oleh #p~bisikan~ itu, buat apa mereka berbohong?",
+      "Kamu sudah tidak kuat untuk melihat realitas. NL NL Hanya orang yang tidak waras saja yang mengerti tempat ini, jadi kamu memberikan kesempatan untuk bisikan-bisikan itu dan melihat ini sebagai sudut pandang yang #p~\"baru\"~. NL Semuanya jadi masuk akal sekarang.",
+      "Saat kamu berhenti sebentar dan mencermati pemandangan yang agak tidak semestinya, kamu mulai melihat pola diantara pemandangan yang acak ini. Saat bisikan-bisikan itu mulai mengganggu pikiranmu, kamu berusaha untuk mengabaikannya. NL NL Akhirnya kamu berhasil keluar dari situ, dan melanjutkan perjalanan, sekarang kamu telah kebal dari keanehan tempat ini.",
+      "Kamu menghabiskan waktu seakan selamanya tersesat di maze. Pelan-pelan namun pasti, kamu mampu untuk melacak kembali jejakmu, mengorientasi dirimu, dan berhasil keluar dari jalan-jalan berlike. NL NL Kamu merasa #r~lelah~ dari kejadian ini."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Menerima Ketidakwarasan] #gTerima #g2 Kegilaan. #rKehilangan #r",
+      " #rHP.",
+      "[Fokus] #rMendapat #rKutukan #r- #rSakit #rHati. #gSembuhkan #g",
+      "[Pergi]",
+      " #gHP.",
+      "[Lacak Jejakmu] #rKehilangan #r",
+      " #rHP #rMaks."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Dunia Lumpur",
+    "DESCRIPTIONS": [
+      "Kamu terjatuh ke kubangan. NL @GENANGAN INI@ @DIBUAT@ @DARI@ #g@LENDIRAN@ #g@LUMPUR!!@ NL Dengan paniknya, kamu merangkak keluar untuk beberapa menit, sedangkan lumpurnya membakar tubuhmu. NL Kamu merasakannya di telingamu, di hidungmu, lumpurnya ada dimana-mana. NL NL Setelah keluar dari genangan itu, kamu sadar bahwa beberapa #yEmasmu telah hilang. Melihat lagi kebelakang #yEmasmu yang hilang bercampur dengan genangan lumpur tersebut.",
+      "Merasakan panasnya lumpur ditubuhmu, kulitmu mulai meleleh olehnya, kamu berhasil mengambil #yEmas.",
+      "Kamu memutuskan kembali ke kubangan tersebut hanya menyia-nyiakan waktu."
+    ],
+    "OPTIONS": [
+      "[Kumpulkan Emas] #gDapatkan #g",
+      " #gEmas. #rKehilangan #r",
+      " #rHP.",
+      "[Tinggalkan] #rKehilangan #r",
+      " #rEmas.",
+      "[Pergi]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Perkembangan Jiwa",
+    "DESCRIPTIONS": [
+      "Saat berjalan dan menjelajahi Spire yang sangat kacau, tiba-tiba pikiranmu menjadi seperti... #p~nyata...~ NL NL Membayangkan tentang #rmonster dan #ykekayaan mulai menunjukkan kejelasannya. NL Pikiran ini cepat hilang, apa yang kamu lakukan?",
+      "Apakah benar akan mudah seperti ini?",
+      "Semua terasa masuk akal sekarang. NL Kehilangan ingatan, pendakian, #ySang #yAncient. NL NL Ini adalah jalan yang semestinya. NL Ini adalah jalan yang selalu ditempuh. NL Semua akan segera dilupakan..."
+    ],
+    "OPTIONS": [
+      "[Aku adalah Petarung] #rMelawan #rBos #rdari #rAct #r1. #gMemperoleh #gsebuah #gPusaka #gLangka.",
+      "[Aku adalah Orang Kaya] #gDapatkan #g999 #gEmas. #rTerkutuk #r- #r2 #rNormalitas.",
+      "[Aku adalah Orang Sehat] #gSembuhkan #gke #gHP #gpenuh. #rTerkutuk #r- #rKeraguan.",
+      "[Aku adalah Orang Sadar] #gPeningkatan #gsemua #gKartu. #rKamu #rtidak #rbisa #rlagi #rmenyembuhkan #rdiri.",
+      "[Pergi]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Sarang",
+    "DESCRIPTIONS": [
+      "Antrian panjang #b~sosok~ #b~bertudung~ terlihat memasuki NL sebuah #pgereja #psederhana.",
+      "Tentu saja, kamu mengikuti antriannya dan langsung dikerubungi oleh #rPemuja! NL Mereka mengabaikanmu dan melanjutkan @nyanyiannya@ dan ~mengombang-ambingkan~ senjata mereka. NL NL #r@\"BUNUH!!@ #r@BUNUH@ #r@BUNUH!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"BUNUH!@ #r@BUNUH@ #r@BUNUH!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Kamu melihat #yKotak #yAmal...",
+      "Kamu memutuskan untuk mengantri (karena takut) untuk melihat apa yang terjadi. NL NL Akhirnya, kamu bertemu langsung dengan pemimpinnya. Seorang pemuja memakai baju yang sangat rapi memberimu #yPisau #yBerhias. Seperti mereka sebelummu, kamu menggores tanganmu dan membiarkan darahnya mengalir kedalam mangkuk. NL NL Para pemuja @bernyanyi@ dan @menyoraki@ untukmu! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Kamu menyoraki juga, kenapa tidak?",
+      "Mereka tidak sadar sama sekali.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Tetap di Antrian] #gMendapatkan Pisau Ritual. #rKehilangan #r",
+      " #rHP.",
+      "[Pukul dan Ambil] #gMemperoleh #g",
+      " #gEmas.",
+      "[Pergi]",
+      "[Lanjut]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Penukar Wajah",
+    "DESCRIPTIONS": [
+      "Kamu berjalan melewati patung yang mengerikan terlihat memegang beberapa topeng... NL Sesuatu dibelkangmu membisikkan kata-kata dengan lembut, NL ~\"Berhenti.\"~",
+      "Kamu menolehkan wajahmu ke patung, dan sekarang patungnyya menoleh kearahmu! NL Setelah pemeriksaan lebih dekat, itu tidak patung, tetapi berbentuk seperti patung, seorang kurus. Apakah dia bernafas? NL NL ~\"Wajah.~ ~Bolehkah~ ~aku~ ~menyentyuh?~ ~Mungkin~ ~tukar?\"~",
+      "~\"Kompensasi?~ ~Kompensasi.\"~ NL Seperti seorang yang kaku, dia mengambil beberapa #yemas dan menaruhnya di kantungmu. NL NL ~\"Sungguh~ ~wajah~ ~yang~ ~bagus.~ ~Wajah~ ~bagus.\"~ NL Saat dia memegang wajahmu, kamu merasakan nyawamu diserap olehnya! NL Pada saat ini, topengnya jatuh dan retak. Berteriak, bergegas dia menutupi wajahnya dengan keenam tangannya yang topengnya juga ikut jatuh! Ditengah tengan teriakannya, kamu melarikkan diri. NL NL Wajahnya benar-benar kosong.",
+      "~\"Untukku~?~ @UNTUKKU?@ ~Oh~ ~bagus..~ ~Bagus.~ ~Bagus..~ ~mmm...\"~ NL NL Kamu melihat salah satu tangannya berkedut, dan wajahmu ada di tangannya! Wajahmu telah ditukar. NL NL ~\"Wajah~ ~bagus.~ ~Wajah~ ~bagus.\"~",
+      "~\"Berhenti.~ ~Berhenti.~ ~Berhenti.~ ~Berhenti.~ ~berhenti.\"~ NL NL Ini mungkin keputusan yang tepat."
+    ],
+    "OPTIONS": [
+      "[Sentuh] #rKehilangan #r",
+      " #gEmas.",
+      "[Tukar] #g50%: #gWajah #gBaik. #r50%: #rWajah #rBuruk.",
+      "[Pergi]",
+      "[Lanjut]",
+      " #rHP, #gdapatkan #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "Sebuah Catatan untuk Dirimu",
+    "DESCRIPTIONS": [
+      "Kamu melihat bata yang longgar didalam pilar.",
+      "Kamu menemukan catatan terlipat dengan sebuah #ykartu didalamnya. Catatan itu berisi... NL \"Jantung menunggumu.\" NL NL Ini adalah tulisanmu.",
+      "Pilih sebuah Kartu untuk Disimpan.",
+      "Apa yang sebenarnya sedang terjadi?"
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Ambil dan Beri] #Terima ",
+      " #gdan #gSimpan #gsebuah #gKartu.",
+      "[Abaikan]",
+      "[Pergi]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "Kita Bertemu Kembali!",
+    "DESCRIPTIONS": [
+      "\"Kita bertemu kembali! NL Seorang yang kusut dan riang mendekatimu dengan gembira. Kamu tidak tau siapa orang ini. NL NL \"Ini aku, #yRanwid! Apakah kamu punya barang untukku hari ini? Seperti biasa? Orang sepertiku tidak bisa hidup sendiri, kamu tau kan?\" NL Kamu melihatnya dengan waspada dan menentukan pilihanmu...",
+      "\"Bagus sekali! Aku berasa sangat haus.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Dia meminum seisi ramuan dengan satu kali tegukan @burp.@",
+      "\"Indah sekali! Ini akan sangat berguna jika aku bertemu dengan #rpenjahat #rmemakai #rtopeng.\"",
+      "\"Patut dicontoh! Aku harus mempelajari tentang ini di ruanganku.\"",
+      "\" @Aaaaagghh!!@ Terkadang, kamu adalah orang yang buruk!\" NL Dia melarikan diri.",
+      "  NL NL Dia menggeledah kantungnya... NL \"Ini, lihat apa yang aku punya untukmu hari ini! Ambil! Ambil!\""
+    ],
+    "OPTIONS": [
+      "[Beri Ramuan] #rKehilangan ",
+      "[Terkunci] Membutuhkan Ramuan.",
+      "[Beri Emas] #rKehilangan #r",
+      "[Terkunci] Membutuhkan paling tidak 50 Emas.",
+      "[Beri Kartu] #rKehilangan ",
+      "[Terkunci] Butuh: Kartu.",
+      ". #gMenerima #gsebuah #gPusaka.",
+      "[Serang]",
+      "[Pergi]",
+      " #rEmas"
+    ]
+  },
+  "Designer": {
+    "NAME": "Perancang In-Spire",
+    "DESCRIPTIONS": [
+      "Kamu menemukan sebuah toko #g~penuh~ #g~warna~ dengan spanduk \"IN-SPIRE\" dan masuk untuk melihat apa di dalam. NL \"Nggak, kagak mungkin. Nggak. Dilarang masuk!\" NL NL Seorang lelaki dengan pakaian konyol muncul di pintu masuk untuk menghadangmu.",
+      "\"Ini nggak bagus, ck ck. Gaya macam apa ini? @Memuakkan!@ Apa kamu #rberdaraaaah? #p~Jijiiik.~ @Bisnis??@ Kamu pelanggan? Ok. ~Teeerserah.\"~ NL Dia mendesah berlebihan dan menunjuk daftar layanan. NL NL Layanannya terlihat biasa, tapi kamu ingin memukul lelaki sombong ini di wajah sombongnya.",
+      "\"Oke, dadah.\" NL NL ...seharusnya kupukul dia.",
+      "Kamu pukul dia sangat keras hingga tanganmu sakit. NL \"@WAJAHKU!!@ Sekarang aku harus-\" NL NL Dia pingsan. Siapa yang #p~menjijikkaaan~ dan #rberdaraaaah sekarang?"
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Penyesuaian] #rKehilangan #r",
+      "[Pembersihan] #rKehilangan #r",
+      "[Layanan Lengkap] #rKehilangan #r",
+      "[Pukul] #rKehilangan #r",
+      " #rHP.",
+      " #rEmas. ",
+      "#gPeningkatan #g",
+      " #gkartu #gacak.",
+      "#gPeningkatan #gsebuah #gkartu.",
+      "#gHapus #gsebuah #gkartu.",
+      "#gTransformasi #g",
+      " #gkartu.",
+      "#gHapus #gsebuah #gkartu #gdan #gpeningkatan #gsebuah #gkartu #gacak.",
+      "[Pergi]",
+      "Pilih sebuah Kartu untuk melakukan Peningkatan",
+      "Pilih 2 Kartu untuk melakukan Transformasi",
+      "Pilih sebuah Kartu untuk Dihapus"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "Coloseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Kamu~ ~jatuh~ ~tak~ ~sadarkan~ ~diri...~",
+      "~Pening~ dan dengan kepala yang @berdenyut@, kamu bangun untuk menemukan dirimu terlempar di tengah sebuah gelanggang besar dengan luapan penonton yang terdiri dari #bBudak, #pPemuja, dan penghuni Kota lainnya! NL ",
+      " NL Seorang raksasa berzirah bertahta #ymahkota #yemas berteriak ke arahmu dari atas, NL @\"SEKARANG@ @KITA@ @MULAI@ @PERTARUNGAN@ @KE@ @",
+      "!!!!\"@ NL Sebuah gerbang di sisi seberang terbuka...",
+      "@\"KERJA@ @BAGUS,@ @ORANG@ @LEMAH!\"@ NL Raksasa itu bertepuk tangan mencemooh sementara dia meramaikan penonton dengan gerakan berlebihan. NL #y~Emas~ ~dan~ #y~konfeti~ ~menghujanimu!~ NL @\"WAKTUNYA@ @UNTUK@ @TANTANGAN@ @YANG@ @SEBENARNYA!!\"@ NL NL Pertarungan sebelumnya meninggalkan celah kecil di tembok Coloseum, kamu bisa dengan mudah kabur lewat situ saat semua orang tidak menatapmu. NL Apa kamu tetap tinggal dan bertarung?"
+    ],
+    "OPTIONS": [
+      "[Lanjut]",
+      "[Bertarung]",
+      "[PECUNDANG] Kabur.",
+      "[KEMENANGAN] Sebuah pertarungan kuat dengan banyak hadiah."
+    ]
+  }
+}

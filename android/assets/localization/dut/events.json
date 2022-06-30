@@ -1,0 +1,933 @@
+{
+  "Accursed Blacksmith": {
+    "NAME": "Onheilspellende Smidse",
+    "DESCRIPTIONS": [
+      "Je duikt in een kleine hut. Binnenin vind je wat lijkt op een smidse. Het smeedgereedschap is bedekt met stof, maar een vuur brandt in de oven. Je bent op je hoede...",
+      "Je besluit om de smidse te gebruiken en... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...je arsenaal te verbeteren!",
+      "Je besluit om te kijken of je iets bruikbaars kunt vinden. Na dekzeilen te hebben opgetild, in dozen te hebben gekeken, en hoeken en gaten te hebben gecontroleerd, vind je een met stof bedekte #y~relikwie!~ ",
+      "Terwijl je er de laatste hand op legt, springen de vlammen van de smidse op je af. Ze #r@verbranden@ #r@en@ #r@laten@ #r@littekens@ #r@achter@ op je armen..",
+      "NL NL Wanneer je de relikwie meeneemt, kun je het plotselinge gevoel van een #r~scherpe~ #r~pijn~ niet van je afschudden terwijl je de hut verlaat. Misschien heb je een of andere geest verstoord?",
+      "Er schijnt niets nuttigs te zijn. Je verlaat op dezelfde manier waarop je kwam, de vlammen van de oven projecteren #p~griezelige~ #p~schaduwen~ op de muren in de hut..."
+    ],
+    "OPTIONS": [
+      "[Smeed] #gUpgrade #geen #gkaart #gin #gje #gstok.",
+      "[Doorzoeken] #gVerkrijg #geen #gspeciale #gRelikwie. #rWord #rVervloekt #r- #rPijn.",
+      "[Verlaat]",
+      "Kies een Kaart om te Upgraden",
+      "[Vergrendeld] Vereist: Upgradebare Kaarten"
+    ]
+  },
+  "Addict": {
+    "NAME": "Smekende Zwerver",
+    "DESCRIPTIONS": [
+      "Terwijl je langs een groep gehulde figuren sluipt, komt er een naar je toe. NL \"Heb je iets voor me, vriend? Alsjeblieft... misschien wat #yGeld?\" NL \"Ik wil ergens slapen vannacht, ik heb schatten die ik kan ruilen...\" NL Hij lijkt verward, maar ongevaarlijk.",
+      "\"O ja, ~ja!~ Hier hier, een eerlijke ruil!\"",
+      "Je rukt de kostbare #yrelikwie uit zijn klauwen en loopt weg. NL Van achteren hoor je, NL \"Heb je geen schaamte? ~HEB~ ~JE~ ~GEEN~ ~SCHAAMTE?!\"~ NL Je hebt wat #pschaamte."
+    ],
+    "OPTIONS": [
+      "[Bied Goud Aan] #y",
+      " #yGoud: #gVerkrijg #geen #gRelikwie.",
+      "[Vergrendeld] Vereist: ",
+      " Goud.",
+      "[Steel] #gVerkrijg #geen #gRelikwie. #rWord #rVervloekt #r- #rSchaamte.",
+      "[Verlaat]",
+      "",
+      ""
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Aloud Geschrift",
+    "DESCRIPTIONS": [
+      "Terwijl je door de stad klautert, zie je een muur bedekt in het geschrift van de #y~Alouden.~ Terwijl je probeert te begrijpen wat de raadselachtige symbolen en gliefen zouden kunnen betekenen, beginnen de tekens te #b~gloeien.~ NL Plotseling wordt het bericht duidelijk...",
+      "Het antwoord was elegantie. NL Natuurlijk.",
+      "De waarheid is altijd eenvoudig."
+    ],
+    "OPTIONS": [
+      "[Elegantie] #gVerwijder #geen #gkaart #guit #gje #gstok.",
+      "[Eenvoud] #gUpgrade #galle #gSlagen #gen #gVerdedigen.",
+      "Selecteer een Kaart om te Verwijderen.",
+      "[Verlaat]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Oude Bedelaar",
+    "DESCRIPTIONS": [
+      "Een oude bedelaar gehuld in vacht steekt zijn handen naar je uit terwijl je langsloopt. \"Heb je wat kleingeld, mijn kind?\"",
+      "De bedelaar kijkt naar de grond terwijl je langsloopt. NL \"Je zult nooit een verschil maken... Dat zal je nooit.\"",
+      "De bedelaar neemt zijn mantel af om te laten zien dat hij #bCleric is! NL @\"Jij@ @bent@ @een@ @aardige@ @ziel.@ @Ontvang@ @mijn@ @zuivering!\"@ schreeuwt hij. NL Je weet niet zeker of hij dankbaar is of boos.",
+      "@\"Ik@ @hoop@ @dat@ @je@ @het@ @deze@ @keer@ @beter@ @doet,@ @vriend!\"@ schreeuwt hij. NL Terwijl je je afvraagt wat hij hiermee bedoelt, ga je verder."
+    ],
+    "OPTIONS": [
+      "[Bied Goud Aan] #y",
+      " #yGoud: #gVerwijder #geen #gkaart #guit #gje #gstok.",
+      "[Vergrendeld] Vereist: ",
+      " Goud.",
+      "[Ga Door]",
+      "[Verlaat]",
+      "Selecteer een Kaart om te Verwijderen."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Grote Vis",
+    "DESCRIPTIONS": [
+      "Terwijl je door een lange gang naar beneden loopt zie je een #ybanaan, een #ydonut, en een #ydoos ~rondzweven~. Nee... bij nader inzien zijn ze verbonden met snaren die uit gaten in het plafond komen. Er is een rustig @gekakel@ die van bovenaf komt als je de voorwerpen nadert. NL Wat doe je?",
+      "Je eet de #ybanaan. Het is voedzaam en enigszins #bmagisch, het geneest je.",
+      "Je eet de #ydonut. Net wat je nodig had! Je Max LP neemt toe.",
+      "",
+      "Je pakt de doos. Binnenin vind je een #yrelikwie!",
+      " NL Echter, je smachtte echt naar de donut... NL Je bent vol ~verdriet,~ maar vooral #rspijt."
+    ],
+    "OPTIONS": [
+      "[Banaan] #gGenees #g",
+      " #gLP.",
+      "[Donut] #gMax #gLP #g+",
+      ".",
+      "[Doos] #gVerkrijg #geen #gRelikwie. #rWord #rVervloekt #r- #rSpijt.",
+      "[Verlaat]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Kampvuurgeesten",
+    "DESCRIPTIONS": [
+      "Je stuit op een groep die lijkt op #ppaarse #pvuurgeesten ~dansend~ rond een groot kampvuur. NL ",
+      "De geesten gooien kleine botten en fragmenten in het vuur, die elke keer ~briljant~ ~oplaait~. NL Terwijl je nadert, keren de geesten zich allemaal naar je toe, vol verwachting...",
+      "Je gooit een offer in het kampvuur. NL NL ",
+      "Echter, de geesten zijn niet blij dat je een #pVloek hebt geofferd... De kaart sist en gaat op in een zachtaardig zwarte wolk. Je krijgt... #p~iets~ terug.",
+      "Er gebeurt niets... NL De geesten lijken je nu te negeren. Teleurstellend...",
+      "De vlammen worden iets feller. NL De geesten gaan door met dansen. Je voelt je iets warmer door hun aanwezigheid.. NL Je #ggeneest #b5 LP.",
+      "De vlammen barsten uit en groeien aanzienlijk sterker! NL De geesten dansen opgewonden om je heen, en vullen je met een ~gevoel~ ~van~ ~warmte.~ NL Je wordt #ggenezen tot volle LP.",
+      "De vlammen @barsten@ @uit,@ en blazen je bijna omver, als het vuur @verdubbelt@ in kracht. NL De geesten dansen opgewonden om je heen voordat ze ~in~ ~je~ ~vorm~ ~samenvloeien,~ en vullen je met warmte en kracht. NL Je Max LP wordt verhoogd met #b10 en je wordt #ggenezen tot volle LP."
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Verlaat]",
+      "[Offer] Ontvang een beloning afhankelijk van het offer.",
+      "Selecteer een Kaart om op te Offeren."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Vervloekt Boek",
+    "DESCRIPTIONS": [
+      "In een verlaten tempel vind je een gigantisch boek, open, vol met #p@cryptische@ #p@geschriften.@ NL NL Terwijl je het uitgebreide script probeert te interpreteren, begint het te #b~verschuiven~ en #b~veranderen~ in een geschrift waar je bekend mee bent.",
+      "Vreemd. Het boek lijkt te gaan over een #yAloude genaamd #yNeow. NL NL Dit interesseert je, maar je hebt een algemeen gevoel van #p~malaise.~",
+      "De Aloude van Verrijzenis, #yNeow, was verbannen naar de bodem van de Spire. NL NL Je voelt je gedwongen om meer te lezen, maar je lichaam begint #r~pijn~ te doen.",
+      "Op zoek naar wraak, zegent #yNeow buitenstaanders, en gebruikt hen voor haar eigen doeleinden. NL NL Je begint je heel #r~zwak~ #r~en~ #r~moe~ te voelen...",
+      "Degenen die zijn opgewekt door #yNeow herinneren zich alleen fragmenten uit hun verleden, vervloekt om voor eeuwig te vechten. NL NL Als je de laatste pagina nadert, #r@beginnen@ #r@je@ #r@oude@ #r@wonden@ #r@zich@ #r@te@ #r@heropenen!@",
+      "Als je het boek uitgelezen hebt, besluit je het mee te nemen. Met bewijs in de hand, zal je je herinneringen behouden?",
+      "Je verlaat de tempel, je voelt een #p~duistere~ #p~energie~ #p~voortkomen~ uit het boek op het voetstuk.",
+      "Met ongelooflijke inspanning en wilskracht, weersta je de trance van het boek en @SLA@ je het dicht. NL Je draait je om en verlaat de tempel, je voelt je #b~uitgeput...~"
+    ],
+    "OPTIONS": [
+      "[Lees]",
+      "[Ga Door] #rVerlies #r1 #rLP.",
+      "[Ga Door] #rVerlies #r2 #rLP.",
+      "[Ga Door] #rVerlies #r3 #rLP.",
+      "[Stop] #rVerlies #r3 #rLP.",
+      "[Neem Mee] #gVerkrijg #ghet #gBoek. #rVerlies #r",
+      " #rLP.",
+      "[Verlaat]"
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "Dode Avonturier",
+    "DESCRIPTIONS": [
+      "Terwijl je de avonturier doorzoekt word je overrompeld!",
+      "Je verlaat stilletjes.",
+      "Je komt een #rdode #ravonturier tegen op de grond. NL Zijn #bbroek is gestolen! Verder ",
+      "lijken het pantser en gezicht #r@afgebrand@ te zijn #r@door@ #r@vlammen.@ ",
+      "het lijkt erop dat hij #r@uitgestoken@ #r@en@ #r@vertrapt@ is door een gehoornd beest. ",
+      "lijkt het dat er #r@uitgehaald@ #r@en@ #r@gehakt@ is door gigantische klauwen. ",
+      "NL Hoewel zijn #ybezittingen #ynog #yintact #yzijn, heb je geen zin om uit te vinden wat hier gebeurd is...",
+      "Je hebt wat ygoud gevonden! NL Ga door met zoeken?",
+      "Hmm, heb niets kunnen vinden... NL Ga door met zoeken?",
+      "Je hebt een #yrelikwie gevonden! NL Ga door met zoeken?",
+      "Het lijkt erop dat je al zijn spullen zonder problemen hebt doorzocht!"
+    ],
+    "OPTIONS": [
+      "[Zoeken] #gVind #gBuit. #r",
+      "[Verlaat]",
+      "[Vecht]",
+      "[Ga Door] #gVind #gBuit. #r",
+      "%: #rmonster #rkeert #rterug."
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Augmenter",
+    "DESCRIPTIONS": [
+      "Een man met een ooglap en een duivelse grijns schuift op je af. NL \"Hé daar, vreemdeling. Geïnteresseerd in het bevorderen van de wetenschap? Ik kan je sterker maken dan welke training of zegen dan ook. Je hebt het nodig als je een van die helden bent met een doodswens.\" NL NL ~\"Wat~ ~denk~ ~je~ ~ervan?\"~",
+      "~\"Uitstekend.\"~ NL De man overhandigt een gevaarlijk uitziende spuit gevuld met een #b~gloeiende~ #b~vloeistof~ voordat hij in een donker steegje verdwijnt.",
+      "~\"Fantastisch.\"~ NL De man injecteert je met drie onbekende stoffen en haalt een notitieblok tevoorschijn. Als je je licht in je hoofd begint te voelen, begint hij dol notities op te schrijven. NL Je verliest de tijd helemaal uit het oog, en als je weer bij zinnen komt, is de verdachte figuur verdwenen.",
+      "~\"Prachtig.\"~ NL Je drinkt het mysterieuze stofje. Onmiddellijk word je versterkt en voel je je spieren @aanspannen.@"
+    ],
+    "OPTIONS": [
+      "[Test J.A.X.] #gWord #gJAXXED.",
+      "[Word Proefpersoon] #gTransformeer #g2 #gkaarten.",
+      "[Slik Mutagenen] #gVerkrijg #geen #gspeciale #grelikwie.",
+      "[Verlaat]",
+      "[Vergrendeld] Vereist: 2 of meer kaarten in je stok.",
+      "Selecteer Kaarten om te Transformeren."
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Verdubbelaar",
+    "DESCRIPTIONS": [
+      "Voor je staat een versierd altaar voor een aloude entiteit.",
+      "Je knielt eerbiedig. Er verschijnt een akelig spiegelbeeld uit het altaar en botst tegen je.",
+      "Je negeert het altaar, vol vertrouwen in je keuze."
+    ],
+    "OPTIONS": [
+      "[Pray] #gDupliceer #geen #gkaart #gin #gje #gstok.",
+      "[Verlaat]",
+      "Selecteer een kaart om te Dupliceren."
+    ]
+  },
+  "Falling": {
+    "NAME": "Vallen",
+    "DESCRIPTIONS": [
+      "Terwijl je omhoog springt van de ene zwevende vorm naar de andere, glijd je weg. NL NL Je begint te vallen.",
+      "Terwijl je in een vrije val bent overweeg je je opties: NL Land veilig met je beste technieken. NL Kanaliseer een Kracht om de val te overleven. NL Sla tegen de muur om eraan te blijven hangen.",
+      "Je landt met extreme gratie voordat je verder gaat.",
+      "Je gebruikt wat van je ruwe kracht om ongedeerd te landen.",
+      "Je bent in staat om je aan de muur vast te grijpen, en slaagt erin om een kleine sprong te maken naar een andere stabiele platform.",
+      "Je lijkt zo langzaam als een veer te vallen en de bodem zonder een kras te bereiken."
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Land] #rVerlies ",
+      "[Vergrendeld] Vereist: Vaardigheid Kaart",
+      "[Kanaliseer] #rVerlies ",
+      "[Vergrendeld] Vereist: Kracht Kaart",
+      "[Sla] #rVerlies ",
+      "[Vergrendeld] Vereist: Aanval Kaart",
+      "[Verlaat]",
+      "[Land] "
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Vergeten Altaar",
+    "DESCRIPTIONS": [
+      "Voor je staat een altaar voor een vergeten god. NL Boven op het altaar bevindt zich een sierlijk vrouwenbeeld met uitgestrekte armen. NL Ze roept je en eist een offer.",
+      "Terwijl je het idool voorzichtig op het altaar zet wervelt een #bkoude wind door de kamer. NL De armen van het beeld beginnen te verkleuren en af te brokkelen. NL NL Je #ygouden #yidool begint dof van kleur te worden en begint uit zijn ogen te bloeden. NL Het bloeden houdt nooit op.",
+      "Je staat op het altaar en snijdt in je polsen. NL Als het #rbloed eruit vloeit als offer, reiken de armen van het beeld naar je uit en bedekken ze je ogen. NL Alles wordt donker. NL Kort erna word je wakker en voelt nieuwe potentie door je lichaam vloeien.",
+      "Je haalt uit en verplettert het beeld voor je, en breekt de magische greep die de kamer op je had. NL Een duister gekerm echoot rondom je, en je kunt de #p~vervloekte~ #p~magie~ in je botten voelen sijpelen."
+    ],
+    "OPTIONS": [
+      "[Bied Aan: Gouden Idool] #gVerkrijg #geen #gspeciale #gRelikwie. #rVerlies #rGouden #rIdool.",
+      "[Vergrendeld] Vereist: Gouden Idool.",
+      "[Opofferen] #gKrijg #g",
+      " #gMax #gLP. #rVerlies #r",
+      " #rLP.",
+      "[Vergrendeld] Vereist: Menselijkheid.",
+      "[Ontheiligen] #rWord #rVervloekt #r- #rVerval."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "De Goddelijke Fontein",
+    "DESCRIPTIONS": [
+      "Je komt #b~glinsterende~ #b~water~ tegen dat eindeloos uit een fontein op een nabijgelegen muur vloeit.",
+      "Terwijl je het #b~water~ drinkt, voel je een #pduistere #pgreep verslappen.",
+      "Niet zeker van de aard van dit water, ga je verder, uitgedroogd."
+    ],
+    "OPTIONS": [
+      "[Drink] #gVerwijder #galle #gVloeken #guit #gje #gstok.",
+      "[Verlaat]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Raad van Geesten",
+    "DESCRIPTIONS": [
+      "Naarmate je verder gaat met je bestijging, begint er #p~dikke~ #p~zwarte~ #p~rook~ uit de grond en muren om je heen te golven, samenvloeiend in drie gemaskerde vormen die beginnen te praten. NL NL ~\"Nog~ ~een~ ~marionet~ ~van~ #y~Neow~ ~denk~ ~ik.\"~ NL #r@\"AKKOORD!@ #r@ZE@ #r@MAAKT@ #r@ALTIJD@ #r@DE@ #r@LEUKSTE@ #r@SPEELTJES!\"@ NL NL Je merkt een extra grote grijns op terwijl de derde je aanspreekt. NL \"Negeer de anderen... Wil je een voorproefje van onze #y~kracht?\"~ ",
+      "",
+      "#y\"Uitstekend!\" NL Als de spookachtige gedaante spreekt, merk je dat hij zijn grote mond wijder en wijder opent. #p~Dikke~ #p~zwarte~ #p~rook~ spuwt eruit en omhult de kamer. Je kunt niet zien of ademen... NL NL Vlak voordat je het bewustzijn verliest, stopt de sensatie. NL NL Wat die dingen ook waren, ze zijn nu weg. Je gaat verder, en je voelt je enigszins #bleeg.",
+      "\"Wat een teleurstelling...\" NL ~\"Je~ ~zult~ ~je~ ~bij~ ~ons~ ~voegen~ ~vroeg~ ~of~ ~laat.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL De gedaantes vervagen, en laten alleen het ontzenuwende gelach achter dat in je oren blijft suizen.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Accepteer] #gOntvang #g5 Ontastbaar. #rVerlies #r",
+      "% #rMax #rLP.",
+      "[Weiger]",
+      "[Accepteer] #gOntvang #g3 Ontastbaar. #rVerlies #r",
+      "",
+      "[Verlaat]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Gouden Idool",
+    "DESCRIPTIONS": [
+      "Je komt een onopvallende voetstuk tegen met een #yglinsterend #ygouden #yidool die er vredig bovenop zit. Het ziet er ongelooflijk waardevol uit. NL NL Je ziet zeker geen vallen in de buurt.",
+      "Terwijl je het idool pakt en opbergt, valt er een gigantische rotsblok door het plafond op de grond naast je. NL Je realiseert je dat de vloer naar beneden is gekanteld als het rotsblok naar je toe begint te rollen.",
+      "@REEEEEEEEEEN!@ NL Je springt ternauwernood in een zijdoorgang als de rots voorbij raast. Helaas voelt het alsof je iets hebt verstuikt.",
+      "Je gooit jezelf tegen het rotsblok met alle kracht die je hebt. Wanneer de stof opklaart, kun je veilig ontsnappen.",
+      "@SQUISH!@ NL Het rotsblok plet je een beetje als het voorbij komt, maar je kunt nu echter hier weg.",
+      "Als er ooit een voor de hand liggende val was, dan zou dit het zijn. NL Je besluit om je niet te bemoeien met voorwerpen die op voetstukken zijn geplaatst."
+    ],
+    "OPTIONS": [
+      "[Neem] #gVerkrijg #gGouden #gIdool. #rActiveer #reen #rval.",
+      "[Verlaat]",
+      "[Rennen] #rWord #rVervloekt #r- #rLetsel.",
+      "[Vermorzelen] #rNeem #r",
+      " #rSchade.",
+      "[Verbergen] #rVerlies #r",
+      " #rMax #rLP."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Gouden Altaar",
+    "DESCRIPTIONS": [
+      "Voor je staat een uitgebreid altaar voor een aloude geest. ",
+      "Als je hand het altaar aanraakt, regent het #ygoud vanuit het plafond die je ~overspoelt~ ~met~ ~rijkdom.~ ",
+      "Elke keer dat je het altaar slaat, stroomt er #ygoud uit, telkens weer! NL NL Terwijl je het goud in je zakken steekt, #rzit #rer #rje #riets #rdwars.",
+      "Je negeert het altaar."
+    ],
+    "OPTIONS": [
+      "[Bidden] #gKrijg #g",
+      " #gGoud.",
+      "[Ontheiligen] #gKrijg #g275 #gGoud. #rWord #rVervloekt #r- #rSpijt.",
+      "[Verlaat]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Vleugelbeeld",
+    "DESCRIPTIONS": [
+      "Tussen de stenen en keien valt je een ingewikkeld groot blauw beeld op dat op een vleugel lijkt. NL Je vindt #ygoud dat uit zijn voegen komt. Misschien is er binnenin nog meer...",
+      "Iemand heeft je ooit verteld over een sekte die een gigantische vogel aanbad. Terwijl je knielt in gebed, begin je je ... ~licht~ ~in~ ~je~ ~hoofd~ ~te~ ~voelen~ . NL NL Je wordt een tijdje later wakker, en je voelt je ietwat vreemd lichtvoetig.",
+      "Met al je kracht hak je in het standbeeld. NL Het @verbrokkelt@ snel, en onthult een #ystapel #ygoud. Je pakt zoveel je kan en gaat verder.",
+      "Het beeld geeft je een ~ongemakkelijk~ ~gevoel.~ Je loopt er langs en gaat verder."
+    ],
+    "OPTIONS": [
+      "[Bidden] #gVerwijder #geen #gkaart #guit #gje #gstok. #rVerlies #r",
+      " #rLP.",
+      "[Vernietig] #gKrijg #g",
+      " #g- #g",
+      " #gGoud.",
+      "[Vergrendeld] Vereist: Kaart met ",
+      " of meer schade.",
+      "[Verlaat]",
+      "[Ga Door]",
+      "Selecteer een Kaart om te Verwijderen."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Wetende Schedel",
+    "DESCRIPTIONS": [
+      "Je bevindt je in een oude, versierde kamer. In het midden van de kamer zit een grote schedel bovenop een sierlijk voetstuk. Als je het nadert, #g@barst@ de schedel #g@uit@ #g@in@ #g@vlammen@ en draait naar je om.",
+      "\"WAT IS HET DAT JE ZOEKT? WAT BIEDT JE AAN?\" NL In overeenstemming met zijn laatste woorden, @slaat@ de deur achter je @dicht.@",
+      " NL NL \"NOG IETS ANDERS?\"",
+      " ",
+      "\"DRINK OP!\" NL Je verkrijgt een drankje.",
+      "\"MISSCHIEN ZAL DIT HELPEN?\" NL Je verkrijgt een kaart.",
+      "\"JULLIE STERVELINGEN VERANDEREN NOOIT. HET IS GEDAAN.\" NL #yGoud regent op je!",
+      "\"ACHTER JE, STERVELING.\" NL Je gluurt achter de schedel. En inderdaad, er is een deur."
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      " #rLP.",
+      "[Informatie?] #gOnthul #gde #gBaas. #rVerlies #r",
+      "[Succes?] #gKrijg #geen #gKleurloze #gKaart. #rVerlies #r",
+      "[Een Pak Me Op?] #gKrijg #geen #gDrankje. #rVerlies #r",
+      "[Rijkdom?] #gKrijg #g",
+      " #gGoud. #rVerlies #r",
+      "[Hoe verlaat ik de kamer?] #rVerlies #r",
+      "[Verlaat]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Lab",
+    "DESCRIPTIONS": [
+      "Je bevindt je in een ruimte gevuld met rekken van reageerbuisjes, bekers, flacons, pincetten, knijptangen, roerstaven, tangen, veiligheidsbrillen, trechters, pipetten, cilinders, condensors, en zelfs een enkele spiraalvormige buis van glas. NL NL Waarom ken je de namen van al deze instrumenten? Het maakt niet uit, je kijkt rond."
+    ],
+    "OPTIONS": [
+      "[Zoek] #gVind #geen #gpaar #gDrankjes!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "De Ssssserpent",
+    "DESCRIPTIONS": [
+      "Je loopt in een kamer en vindt een groot gat in de grond. Als je het gat nadert verschijnt er een enorm serpentwezen van binnenuit. NL NL ~\"Ho~ ~hooo!~ ~Hallo~ ~hallo!~ ~wat~ ~hebben~ ~we~ ~hier?~ Hallo avonturier, ik stel een eenvoudige vraag. NL De meest bevredigende levens zijn die waarin je #y~alles~ #y~kunt~ #y~kopen!~ NL Ben je het hiermee eens?\"",
+      "~\"Jaaaaaaaaaaaaaaaaaaaaaa!~ NL ~Ditttt~ ~zal~ ~het~ ~allemaal~ ~waarddd~ ~zijn.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "De serpent staart je aan met een blik van extreme teleurstelling.",
+      "De serpent steekt zijn kop op en schiet een stroom van #ygoud omhoog! NL Het is tegelijkertijd verbazingwekkend en angstaanjagend. NL Je verzamelt al het #ygoud, bedankt de slang, en gaat verder."
+    ],
+    "OPTIONS": [
+      "[Mee Eens] #gKrijg #g",
+      " #gGoud. #rWord #rVervloekt #r- #rTwijfel.",
+      "[Oneens]",
+      "[Ga Door]",
+      "[Verlaat]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Levende Muur",
+    "DESCRIPTIONS": [
+      "Als je pad doodloopt en je terug begint te keren, @slaan@ @muren@ @neer@ vanuit het plafond, waardoor je vast komt te zitten! NL NL Drie gezichten materialiseren vanuit de muren en spreken. NL #b\"Vergeet #bwat #bje #bweet, #ben #bik #bzal #bje #blaten #bgaan.\" NL #p\"Ik #pvereis #pverandering #pom #peen #pnieuwe #pplek #pte #pzien.\" NL #y\"Als #yje #ymij #ywilt #ypasseren, #ydan #ymoet #yje #ygroeien.\"",
+      "Tevreden, vloeien de muren voor je terug in het plafond en er verschijnt een pad voorwaarts."
+    ],
+    "OPTIONS": [
+      "[Vergeet] #gVerwijder #geen #gkaart #guit #gje #gstok.",
+      "[Verander] #gTransformeer #geen #gkaart #gin #gje #gstok.",
+      "[Groei] #gUpgrade #geen #gkaart #gin #gje #gstok.",
+      "Selecteer een Kaart om te Verwijderen.",
+      "Kies een Kaart om te Transformeren.",
+      "Kies een Kaart om te Upgraden.",
+      "[Verlaat]",
+      "[Vergrendeld] Vereist: Upgradebare Kaarten"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Gemaskerde Bandieten",
+    "DESCRIPTIONS": [
+      "Hehehe.. Bedankt voor het #ygoud! NL Oh, ik hou van #ygoud. Het is zo leuk. NL #y~glimmende~ #y~glimmende~ dingen zijn ze!",
+      "Hey #bBeer, hey! NL Deze gast gaf ons al zijn #ygoud! Wat een sukkel, toch? NL En weet je, ik moest het alleen maar netjes vragen. Wie had dat kunnen weten?! NL Ik in ieder geval niet! Wat een oen!",
+      "Gasten, laten we allemaal lachen om deze wonderlijke gelegenheid! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Oh? Je bent er nog steeds? NL Heb je iets gehoord? Dacht het niet. NL #r@*snerk*@ ~...loser....~ @Hahaha@ ~haaah~",
+      "Je komt een groep bandieten tegen met grote #rrode #rmaskers. NL \"Hallo, betaal om te passeren... een redelijke prijs van @AL@ je #ygoud is genoeg! Heh heh!\""
+    ],
+    "OPTIONS": [
+      "[Betaal] #rVerlies #rAL #rje #yGoud.",
+      "[Vecht!]",
+      "[Ga Door]",
+      "[Verlaat]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Matchen en Behouden!",
+    "DESCRIPTIONS": [
+      "\" #bTwaalf kaarten! Match ze om ze te behouden! #bVijf pogingen, geen doe-overs. NL Ben je klaar? Laten we beginnen!\"",
+      "Je voltooit het spel van de gremlin en kijkt op. NL Hij is verdwenen?",
+      "Een gremlin schudt kaarten als een bezetene op een tafel. Dit monster lijkt onschuldig. Je benadert hem uit nieuwsgierigheid."
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Verlaat]",
+      "[Speel]",
+      "Resterende Pogingen: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Paddestoelen",
+    "DESCRIPTIONS": [
+      "Je geeft toe aan het onnatuurlijke verlangen om te eten. Terwijl je paddestoel na paddestoel eet, voel je jezelf suf worden en je valt flauw. Als je wakker wordt, voel je je heel raar. NL Je #gGeneest #b25% van je LP, maar je raakt ook #rgeïnfecteerd.",
+      "#r@Hinderlaag!!@ NL Knaagdieren besmet door de paddestoelen komen uit het niets!",
+      "Je betreedt een gang vol #b~hypnotiserend~ #b~gekleurde~ #b~paddestoelen~. NL Door je gebrek aan specialisatie in mycologie kun je de exemplaren niet identificeren. NL Je wilt ontsnappen, maar je voelt een vreemde dwang om een #b~paddestoel~ ~te~ ~eten...~"
+    ],
+    "OPTIONS": [
+      "[Stamp] #rMaak #rde #rPaddestoelen #rboos.",
+      "[Eet] #gGenees #g",
+      " #gLP. #rWord #rVervloekt #r- #rParasiet.",
+      "[Vecht]",
+      "[Verlaat]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Mysterieuze Bol",
+    "DESCRIPTIONS": [
+      "Vooruitspringend vanuit het chaotische terrein om je heen, omvat een benige bol een mysterieus gloeiend object. NL Terwijl je nieuwsgierig bent naar wat er binnenin ligt, merk je een paar wachters op die het in de gaten houden.",
+      "Zodra je de bol aanraakt, komen de wachters tot leven om je heen!",
+      "Je hoeft niet hebzuchtig te zijn."
+    ],
+    "OPTIONS": [
+      "[Open de Bol] #rVecht. #gBeloning: #gZeldzame #gRelikwie.",
+      "[Verlaat]",
+      "[Vecht]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "Een vreemd schepsel met een gebogen rug waaruit verscheidene tentakels komen doorzoekt een hoop vuilnis en puin voor je. Terwijl je hem nadert, schuifelt hij naar je toe op een niet-bedreigende manier. NL \"N'loth hongerig. Voed N'loth.\"",
+      "Terwijl je de #yrelikwie in zijn richting houdt, grist N’loth het uit je hand met zijn tentakels, ontwricht zijn kaak, en slikt je aanbod in één snelle slok in. NL Hij geeft je een grote, brede grijns als er meer tentakels verschijnen vanuit achter zijn mantel, welke zwaaien met een onmogelijk netjes uitziend doosje. Hij duwt het naar je toe totdat je het aanneemt.",
+      "Je schudt je hoofd. N'loth buigt zich nog verder en zucht, en snelt dan weg."
+    ],
+    "OPTIONS": [
+      "[Bied Aan: ",
+      "] #rVerlies #rdeze #rrelikwie. #gVerkrijg #geen #gspeciale #grelikwie.",
+      "[Leave]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Verlaat]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Zuiveraar",
+    "DESCRIPTIONS": [
+      "Voor je staat een uitgebreid altaar voor een vergeten geest.",
+      "Terwijl je knielt in eerbied, voel je een last van je schouders afkomen.",
+      "Je negeert het altaar."
+    ],
+    "OPTIONS": [
+      "[Bidden] #gVerwijder #geen #gkaart #guit #gje #gstok.",
+      "[Verlaat]",
+      "Selecteer een Kaart om te Verwijderen."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Schrootslijk",
+    "DESCRIPTIONS": [
+      "Als je de kamer binnenloopt hoor je een ~rochel~ en het @slijpen@ van metalen. Voor je staat een wezen dat op slijm lijkt dat teveel schroot heeft gegeten voor zijn eigen bestwil. Vanuit het midden van het wezen zie je glimpen van vreemd licht, misschien iets magisch? Het lijkt erop dat je wat #yschatten kunt krijgen als je gewoon binnenin zijn... opening kunt komen. Echter, het zuur en de scherpe voorwerpen kunnen #rpijn doen.",
+      "#r@Auw!@ NL Alles wat je vindt is verroest metaal en wat #r@brandende@ #r@pijn.@ NL Echter, je bent er nog steeds van overtuigd dat er een #yrelikwie is...",
+      "#gSucces! NL Nadat je door het metaal en brandende zuur hebt gegrist, grijp je eindelijk een #yrelikwie en rukt het eruit. NL Je trekt je weg uit de slijk, #rbeschadigd maar beloond.",
+      "Je besluit het gebied te verlaten. NL Het slijm besteedt geen aandacht, tevreden met zijn maaltijd."
+    ],
+    "OPTIONS": [
+      "[Naar Binnen Reiken] #rVerlies #r",
+      " #rLP. #g",
+      "%: #gVind #geen #gRelikwie.",
+      "[Verlaat]",
+      "[Dieper] #rVerlies #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Geheim Portaal",
+    "DESCRIPTIONS": [
+      "Voor je is een aanblik die niet past in het vreemde landschap om je heen. Vreemd geplaatst in een van de levende muren van het Uiterste is een ingesloten stenen ingang gevuld met een #p~wervelend~ #p~magisch~ #p~portaal.~ NL NL Je bent er niet zeker van waar het naartoe leidt, maar het kan misschien je reis door de Spire versnellen.",
+      "Je springt door het portaal, je gevoel voor tijd en ruimte wordt volledig uit elkaar gerukt. NL NL Terwijl je je heroriënteert op de nieuwe omgeving, realiseer je je dat recht voor je een angstaanjagende strijd is.",
+      "Zorgvuldig en voorzichtig lijkt de betere aanpak om de top van de Spire te bereiken. Je negeert het portaal en gaat verder."
+    ],
+    "OPTIONS": [
+      "[Betreed het Portaal] Reis ONMIDDELLIJK naar de baas.",
+      "[Verlaat]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Zintuiglijke Steen",
+    "DESCRIPTIONS": [
+      "Als je je door het Uiterste navigeert, ontdek je een #bgloeiende #btesseract die zachtjes @draait@ en zich ~verplaatst~ in de lucht.",
+      "Je raakt het aan. NL NL Een #r@scherpe@ #r@pijn@ vloeit door je heen, gevolgd door levendige flitsen van een verre herinnering. NL ...wiens herinneringen zijn deze?",
+      "#r~ANGST.~ NL NL Een demonisch wezen torent boven je uit, vleugels wijd gespreid terwijl het luid lacht. Dode lichamen van een stam omringen je terwijl het dorp wordt gehuld in verschrikkelijke #p~donkere~ #p~vlammen.~ NL NL De demon roept en treitert je. NL NL \" #r@JIJ@ #r@BENT@ #r@ECHT@ #r@DE@ #r@STERKSTE@ #r@NU!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Dit gelach echoot voor altijd... ",
+      "#g~TRIOMF.~ NL NL De overblijfselen van een #p~spookachtig~ #p~wezen~ zinken langzaam in de modder voor je, nauwelijks zichtbaar in het maanlicht. Je hebt jezelf bewezen aan je zussen. NL NL Je staat zegevierend, en je wacht in stilte terwijl de anderen ceremonieus de #yschedel #yvan #yhet #ywezen bovenop je hoofd plaatsen. Het ritueel is afgelopen. NL NL Je gaat richting de Spire...",
+      "#b~VERWARRING.~ NL NL #y[DOEL] #gBALANS #gmoet #gworden #gAFGEDWONGEN NL #y[DEFINIEER] #gBALANS NL #y[ERROR] #gBALANS #gNIET #gGEVONDEN NL #y[DEFINIEER] #gBALANS NL #y[ERROR] #gBALANS #gNIET #gGEVONDEN NL #y[WAARSCHUWING] #rGroot #robject #rnadert NL NL ~\"Ik...~ ~..ben~ ~....Neow..\"~",
+      "#p~SERENITEIT.~ NL NL Twee primitieve wezens vechten over een karkas aan de zijkant van de weg. Je observeert ze, zonder enige emotie. NL #yKijk. #yHerinner. #yLeef. Dit is de missie van de Waarneemster. NL NL Recentelijk is een van je collega's gestopt met het rapporteren van zijn taak: een Spire van onbekende afkomst. NL NL Zodra het gevecht ten einde is, ga je verder, onaangedaan door het bloederige tafereel dat heeft plaatsgevonden."
+    ],
+    "OPTIONS": [
+      "[Herinner] #gVoeg #g1 #gKleurloze #gkaart #gtoe #gaan #gje #gstok.",
+      "[Herinner] #gVoeg #g2 #gKleurloze #gkaarten #gtoe #gaan #gje #gstok. #rVerlies #r",
+      "[Herinner] #gVoeg #g3 #gKleurloze #gkaarten #gtoe #gaan #gje #gstok. #rVerlies #r",
+      " #rLP.",
+      "[Verlaat]",
+      "[Raak Aan]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Schitterend Licht",
+    "DESCRIPTIONS": [
+      "Je vindt een glinsterende #ymassa #yvan #ylicht die het midden van de kamer omringt. NL NL Zijn ~warme~ ~gloed~ en ~betoverende~ ~patronen~ nodigen je uit.",
+      "Terwijl je door het licht loopt, merk je op dat het licht in je wordt opgenomen. NL Het is #r@gloeiend@ #r@heet@ ! Echter, de pijn neemt snel af. NL Je voelt je #bversterkt, alsof je een welverdiende klap hebt gekregen.",
+      "Je loopt er omheen en vraagt je af wat het zou kunnen zijn."
+    ],
+    "OPTIONS": [
+      "[Ga Naar Binnen] #gUpgrade #g2 #gwillekeurige #gkaarten. #rVerlies #r",
+      " #rLP.",
+      "[Verlaat]",
+      "[Vergrendeld] Vereist: Upgradebare Kaarten"
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Spire Hart",
+    "DESCRIPTIONS": [
+      "@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Een diepe pulserende angst verspreidt zich door de hele kamer... NL Is dit het #r~hart~ van de Spire? De bron van dit kwaad?",
+      "Je richt #b",
+      " schade aan! NL Het hart #r@kronkelt@ en #r~bloedt~ ...maar klopt uiteindelijk nog steeds. NL Zijn je sterkste aanvallen niet genoeg?",
+      "Je vraagt jezelf af, ~\"Ben~ ~ik~ ~hier~ ~eerder~ ~geweest?\"~ NL Je hebt het gevoel dat je een totaal van #b",
+      " schade hebt aangericht op het hart.",
+      " NL Een totaal van #b",
+      " schade is aangericht door iedereen die het heeft uitgedaagd.",
+      " NL Het hart pulseert luider en luider terwijl je #y~bewustzijn~ #y~vervaagt...~",
+      "NL Je bereidt je zwaard voor...",
+      "NL Je bereidt je dolken voor...",
+      "NL Je laadt je kern op tot zijn maximum...",
+      "Je vraagt jezelf af, ~\"Ben~ ~ik~ ~hier~ ~eerder~ ~geweest?\"~",
+      " NL Het hart pulseert luider en luider terwijl je #p~bewustzijn~ #p~begint~ #p~te~ #p~vervagen...~",
+      " NL Een plotselinge uitbarsting van #y@energie@ komt van binnenuit jou naar buiten, en #b@schudt@ je wakker.",
+      " NL Het hart #gtrekt zich terug naar boven! Een grote deur wordt onthuld op zijn plaats.",
+      "NL Je bereidt je staf vol met goddelijke energie..."
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Val Aan] #b???",
+      "[Slaap]",
+      "[Benader Deur]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "De Cleric",
+    "DESCRIPTIONS": [
+      "Een vreemde blauwe mensachtige met een gouden helm(?) komt met een enorme glimlach op je af. NL @\"Hallo@ @vriend!@ Ik ben #bCleric! Ben je geïnteresseerd in mijn diensten?!\" schreeuwt het wezen luid.",
+      "Een warm gouden licht omhult je lichaam en verdwijnt. NL Het wezen grijnst. \"Cleric beste genezer. @Nog@ @een@ @fijne@ @dag!\"@",
+      "Een koude blauwe vlam omhult je lichaam en verdwijnt. NL Het wezen grijnst. \"Cleric getalenteerd. @Nog@ @een@ @fijne@ @dag!\"@",
+      "Je vertrouwt deze #b\"Cleric\" niet, dus je vertrekt."
+    ],
+    "OPTIONS": [
+      "[Genees] #y35 #yGoud: #gGenees #g",
+      "[Vergrendeld] Vereist: ",
+      " Goud.",
+      "[Zuiver] #y",
+      " #yGoud: #gVerwijder #geen #gkaart #guit #gje #gstok.",
+      "[Vergrendeld] Vereist: 50 Goud.",
+      "[Verlaat]",
+      "Selecteer een Kaart om te Verwijderen.",
+      " #gLP."
+    ]
+  },
+  "The Joust": {
+    "NAME": "Het Steekspel",
+    "DESCRIPTIONS": [
+      "Als je je een weg baant door de grote gebouwen kom je een lange smalle brug tegen en spot je ridders aan elke kant, tegenover elkaar. Je nadert... NL @\"Halt!\"@ NL NL Een ridder gebaart krachtig met zijn gigantische lans dat je moet stoppen.",
+      "\"Vandaag is de dag dat ik wraak neem op de #rmoordenaar van mijn geliefde huisdier, #yNoodles. Tot die tijd mag je niet passeren. NL NL Mede-getuige, waarom #bwed je niet op wie je denkt dat zal overwinnen?\"",
+      "\"Ik kan niet geloven dat je tegen #yNoodles wedt!\" NL NL Woedend klemt hij zijn helm vast en snelt naar zijn aartsvijand.",
+      "\"Geef me kracht, #yNoodles!\" NL NL Hij klemt zijn helm vast, en de ridder snelt naar voren.",
+      "NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
+      "De aartsvijand is verslagen. NL NL ",
+      "De eigenaar stierf. NL NL ",
+      "Je #gwint de weddenschap. Onzeker over wat je ervan moet denken, pak je je winst en vertrekt.",
+      "Je #rverliest de weddenschap, maar je bent in ieder geval niet door een lans neergestoken."
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Moordenaar] #yWed #y",
+      " #yGoud - #g70%: #gwin #g",
+      " #gGoud.",
+      "[Eigenaar] #yWed #y",
+      " #yGoud - #g30%: #gwin #g",
+      "[Kijk Toe]",
+      "[Verlaat]"
+    ]
+  },
+  "The Library": {
+    "NAME": "De Bibliotheek",
+    "DESCRIPTIONS": [
+      "Je komt een sierlijk gebouw tegen dat verlaten lijkt. NL Een plaat die is losgerukt van een muur ligt op de grond. Er staat, #b\"DE #bBIBLIOTHEEK\". NL Binnen vind je ontelbare rijen met perkamentrollen, manuscripten, en boeken. NL Je kiest er een uit en gaat op je gemak in een stoel zitten voor een rustig moment.",
+      "Lezen is voor sukkels. NL Je neemt in plaats daarvan een dutje in een comfortabele stoel. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Je wordt wakker en je voelt je opgefrist.",
+      "Het verhaal gaat over een insectbeheersend tienermeisje dat een held wil worden. Het boek is gevuld met creatief gebruik van krachten, gevechtsstrategieën, en verscheidene perspectieven. NL Bevredigend.",
+      "Het verhaal gaat over een man die voorbij de sterren reisde en op een verlaten, vreemde planeet vast komt te zitten. Vindingrijkheid, geluk, doorzettingsvermogen, en humor om zijn gezond verstand te behouden waren zijn middelen om terug naar huis te keren. NL Fascinerend.",
+      "Het verhaal speelt zich af in een gigantisch, geïsoleerd gebouw onder de grond, aangezien de omstandigheden buiten ondraaglijk zijn geworden. De roman zit vol met samenzweringen, propaganda, en onrechtvaardigheid. Je vraagt je af of zich soortgelijke dynamieken afspelen binnenin de Spire. NL Verontrustend."
+    ],
+    "OPTIONS": [
+      "[Lees] #gKies #g1 #guit #g20 #gkaarten #gom #gaan #gje #gstok #gtoe #gte #gvoegen.",
+      "[Slaap] #gGenees #g",
+      " #gLP.",
+      "[Verlaat]",
+      "Voeg een kaart toe aan je stok."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "Het Mausoleum",
+    "DESCRIPTIONS": [
+      "Wanneer je je door een reeks graftomben begeeft, sta je voor een grote sarcofaag ~bezaaid~ ~met~ ~edelstenen~ in het midden van een ronde kamer. NL Je weet niet wat er op de kist geschreven staat, maar je merkt wel op dat er #p~zwarte~ #p~mist~ uit de zijkanten sijpelt.",
+      "Je duwt de kist open. Terwijl je dat doet, spuwt er #p~zwarte~ #p~mist~ uit en bedekt het de hele kamer! Binnenin vind je geen lichaam, maar alleen een #y~relikwie.~ Je pakt het en gaat verder, #r@hevig@ #r@hoestend.@",
+      "Je duwt de kist open. De mist verdwijnt onschadelijk. Binnenin vind je de stoffelijke overschotten van een versierde soldaat die een oude #yrelikwie vasthoudt. Je ontfutselt het en gaat verder.",
+      "Je vervolgt je weg en laat de vergeten doden ongemoeid."
+    ],
+    "OPTIONS": [
+      "[Open De Kist] #gVerkrijg #geen #gRelikwie. #r",
+      "%: #rWord #rVervloekt #r- #rVerwrongen.",
+      "[Verlaat]"
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "Het Moai Hoofd",
+    "DESCRIPTIONS": [
+      "Je stuit op iets dat *heel* erg misplaatst voelt. Voor je komt er een enorm groot stenen hoofd tevoorschijn vanuit een grote wandsegment dat niet verschuift en verandert zoals de rest van dit gebied. NL De mond van het hoofd is wijd open, en het onthult grote intimiderende tanden die rood gekleurd zijn door bloed. Het oppervlak van het standbeeld is bezaaid met pictogrammen die lijken aan te geven dat mensen zichzelf in de mond van dit hoofd gooien en verslonden worden. Waarom zou iemand dat doen?",
+      "In het begin, als je in de mond van het standbeeld stapt, gebeurt er niets. Als je je meer dan een beetje dwaas begint te voelen, slaan de enorme kiezen van boven neer en verpletteren je heel. NL @Duisternis.@ NL Enige tijd later vanuit de duisternis, zie je een strook van licht, en hoor je wat je nu realiseert dat het het geluid is van stenige tanden die langzaam naar boven rijzen. NL NL NL Je verlaat verward.",
+      "Je springt een beetje achteruit terwijl de gigantische kiezen naar beneden slaan op het idool, en het helemaal vergruizen tot stof. Als de tanden weer beginnen op te rijzen, stroomt er #ygoud uit in een stortvloed vanuit de opening, die je overspoelt met rijkdom.",
+      "Je gaat weg, je afvragend wat het zou kunnen zijn."
+    ],
+    "OPTIONS": [
+      "[Spring Erin] #gGenees #gtot #gvolle #gLP. #rVerlies #r",
+      " #rMax #rLP.",
+      "[Bied Aan: Gouden Idool] #gVerkrijg #g333 #gGoud. #rVerlies #rGouden #rIdool.",
+      "[Vergrendeld] Vereist: Gouden Idool.",
+      "[Verlaat]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "De Vrouw in Blauw",
+    "DESCRIPTIONS": [
+      "Vanuit de duisternis trekt een arm je naar een kleine winkel. Terwijl je ogen zich aanpassen, zie je een bleke vrouw in kekke kleding gebaren naar een muur met drankjes. NL \"Koop een drankje. Nu!\" zegt ze.",
+      "\"Mooi zo. Ga nu weg.\" NL Je verlaat de winkel voorzichtig.",
+      "#r@WHAM@ NL Haar gehandschoende vuist botst tegen je gezicht, waardoor je bijna van je stuk gaat. NL \"Ga weg voordat ik de vloer met je ingewanden bezaai.\" Je gelooft haar op haar woord en verlaat met je ingewanden nog steeds veilig in je lichaam."
+    ],
+    "OPTIONS": [
+      "[Koop 1 Drankje] #y",
+      "[Koop 2 Drankjes] #y",
+      "[Koop 3 Drankjes] #y",
+      " #yGoud.",
+      "[Verlaat]",
+      "[Verlaat] #rNeem #r",
+      " #rSchade."
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Denken met Plassen",
+    "DESCRIPTIONS": [
+      "Je loopt in een glinsterende plas... en je valt uit het plafond er recht boven! NL Terwijl je in vrije val zit, overweeg je je opties.",
+      "Je slaat met je armen rondom je in paniek en ontketent al je verborgen trucjes om te voorkomen dat je gewond raakt. In plaats daarvan, val je nog een keer in de plas... en nog een keer... en nog een keer. Dagen gaan voorbij voordat je je beseft hoe je eruit kunt komen. Daadwerkelijk ellendig.",
+      "Je zet je schrap voor de landing, maar er is simpelweg geen goede manier om te landen wanneer je gelanceerd wordt vanuit zo'n bizar ding. @THUD@ NL NL ...je ligt daar een tijdje, vloekend over het bestaan van plassen, zowel vloeibaar als magisch."
+    ],
+    "OPTIONS": [
+      "[Verslijmt] #rVerlies #reen #rwillekeurig #rZeldzame #rkaart.",
+      "[Land Met Je Gezicht] #rNeem #r",
+      " #rschade. #rWord #rVervloekt #r- #rLetsel.",
+      "[Verlaat]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Graftombe van Heer Rode Masker",
+    "DESCRIPTIONS": [
+      "Aan de andere kant van een zwevend pad is een zeer versierde graftombe te zien. Bij het bereiken van de graftombe zie je een gleuf voor #ygouden munten met een bekraste opschrift erboven.",
+      "Je zet het masker op en de tombe begint in ~stukjes~ te ~vallen...~ een geheime doorgang! NL NL De doorgang is omzoomd met talloze gestolen goederen en hopen #ygoud!",
+      "Er verschijnt een opening in de tombe en er schuift een klein rood masker uit met een briefje eraan. \"Neem van anderen zoals ik van jou heb genomen!\""
+    ],
+    "OPTIONS": [
+      "[Zet het Rode Masker op] #gVerkrijg #g222 #gGoud.",
+      "[Vergrendeld] Vereist: Rode Masker.",
+      "[Bied Aan: ",
+      " Goud] #rVerlies #ral #rje #rGoud. #gVerkrijg #geen #gRelikwie.",
+      "[Verlaat]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Transmogrifier",
+    "DESCRIPTIONS": [
+      "Voor je staat een uitgebreid altaar voor een vergeten geest.",
+      "Terwijl de kracht van het altaar door je heen stroomt, voelt je geest zich veranderd.",
+      "Je negeert het altaar."
+    ],
+    "OPTIONS": [
+      "[Bidden] #gTransformeer #geen #gkaart.",
+      "[Verlaat]",
+      "Selecteer een Kaart om te Transformeren."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Upgrade Altaar",
+    "DESCRIPTIONS": [
+      "Voor je staat een uitgebreid altaar voor een vergeten geest.",
+      "De energie van het altaar stroomt naar je toe, waardoor je sterker wordt.",
+      "Je negeert het altaar."
+    ],
+    "OPTIONS": [
+      "[Bidden] #gUpgrade #geen #gkaart.",
+      "[Verlaat]",
+      "Selecteer een Kaart om te Upgraden.",
+      "[Vergrendeld] Vereist: Upgradebare Kaarten"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Vampieren(?)",
+    "DESCRIPTIONS": [
+      "Navigerend door een onverlichte straat, kom je verscheidene figuren met capuchons tegen in het midden van een of ander donker ritueel. Terwijl je nadert, keren ze zich griezelig eensgezind naar je toe. De langste van hen heeft puntige tanden en strekt een lange, bleke hand naar je uit. NL ~\"Voeg~ ~je~ ~bij~ ~ons~ ~toe~ ~broer,~ ~en~ ~voel~ ~de~ ~warmte~ ~van~ ~de~ ~Spire.\"~",
+      "Navigerend door een onverlichte straat, kom je verscheidene figuren met capuchons tegen in het midden van een of ander donker ritueel. Terwijl je nadert, keren ze zich griezelig eensgezind naar je toe. De langste van hen heeft puntige tanden en strekt een lange, bleke hand naar je uit. NL ~\"Voeg~ ~je~ ~bij~ ~ons~ ~toe~ ~zuster,~ ~en~ ~voel~ ~de~ ~warmte~ ~van~ ~de~ ~Spire.\"~",
+      "De lange figuur pakt je arm, trekt je naar voren, en zet zijn tanden in je nek. Je voelt een @duistere@ @kracht@ in je nek gieten en door je lichaam @stromen@. NL ... NL Je wordt een tijdje later wakker, alleen. Een intense ~honger~ gaat door je buik. Je #rmoet #rje #rvoeden...",
+      "Je doet een stap achteruit en heft je wapen uitdagend op. De lange figuur zucht. \"Al goed.\" De hele groep van figuren met capuchons verandert in een dikke zwarte mist die van je wegstroomt. NL Je bent weer alleen.",
+      "De adems van de bleke figuren stokken als je de #yBloed #yFiool tevoorschijn haalt. NL ~\"Het~ ~bloed~ ~van~ ~de~ ~meester...~ ~het~ ~bloed~ ~van~ ~de~ ~meester!~ @HET@ @BLOED@ @VAN@ @DE@ @MEESTER!\"@ NL Ze roepen het allemaal vurig terwijl de lange voor je buigt. \"Drink van Zijn bloed, en word één met #y~Hem.\"~ NL Het geroep wordt luider, je consumeert de inhoud van de fiool. Je gezichtsvermogen ~vervormt~ onmiddellijk en vervaagt in duisternis. NL NL Je wordt een tijdje later wakker, alleen. Een intense ~honger~ gaat door je buik. Je #rmoet #rje #rvoeden.",
+      "Navigerend door een onverlichte straat, kom je verscheidene figuren met capuchons tegen in het midden van een of ander donker ritueel. Terwijl je nadert, keren ze zich griezelig eensgezind naar je toe. De langste van hen heeft puntige tanden en strekt een lange, bleke hand naar je uit. NL ~\"Voeg~ ~je~ ~bij~ ~ons~ ~toe~ ~gebrokene,~ ~en~ ~voel~ ~de~ ~warmte~ ~van~ ~de~ ~Spire.\"~"
+    ],
+    "OPTIONS": [
+      "[Accepteer] #gVerwijder #galle Slagen. #gOntvang #g5 Beten. #rVerlies #r",
+      " #rMax #rLP.",
+      "[Weiger]",
+      "[Verlies ",
+      "] #gVerwijder #galle Slagen. #gOntvang #g5 Beten.",
+      "[Verlaat]"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Rad van Verandering",
+    "DESCRIPTIONS": [
+      "Je stuit op een keurig uitziende, vrolijke gremlin. NL \"Het is tijd om aan het rad te draaien! Ben je ~K~ ~L~ ~A~ ~A~ ~R~ ~?~ Natuurlijk ben je dat!\"",
+      "\"Je wint wat #yGOUD! NL YAY!!!!\"",
+      "\"Ah, een #gcadeau! NL Geniet ervan!\"",
+      "\"Oooh, een gratis #gGenezing voor jou!\"",
+      "\"Het lijkt erop dat je een #pVloek hebt gewonnen! NL Dat is niet goed. NL Ach ja! Volgende keer beter!\"",
+      "\"Ohh, de kracht van #r~duisternis...~ NL Kies een kaart om te verwijderen uit je stok!\"",
+      "\"Uh oh! NL Je verliest!\" NL Je ziet hem een mes tevoorschijn halen...",
+      "Je haalt uit naar de gestoorde gremlin maar hij is simpelweg te snel! NL Hij krijgt je een paar keer te pakken met zijn ruwe mes. NL \"De prijs is betaald!!\" NL en daarmee verdwijnen zowel de gremlin als zijn rad in een rookwolk."
+    ],
+    "OPTIONS": [
+      "[Speel]",
+      "[Prijs!] JOEPIE!!!!",
+      "[Prijs!] #gVerkrijg #geen #gRelikwie.",
+      "[Prijs!] #gGenees #gtot #gvolle #gLP.",
+      "[Prijs?] #rVloek #r- #rVerval.",
+      "[Prijs!] #gVerwijder #geen #gkaart #guit #gje #gstok.",
+      "[Prijs?] #rVerlies #r",
+      " #rLP.",
+      "[Verlaat]",
+      "Selecteer een Kaart om te Verwijderen."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Kronkelende Hallen",
+    "DESCRIPTIONS": [
+      "Terwijl je langzaam je weg omhoog door de kronkelende paden baant, raak je constant de weg kwijt doordat de muren en de grond op onverklaarbare wijze recht voor je ogen lijken te verschuiven. NL NL De constant #p~fluisterende~ #p~stemmen~ in je achterhoofd helpen ook niet echt.",
+      "Als je voorbij een constructie komt waarvan je zeker weet dat je het al eerder hebt gezien, begin je je af te vragen of je gek wordt, of dat de onmogelijke geografie van deze plek je parten begint te spelen. Je moet iets veranderen, en gauw. NL NL Dat is tenminste wat de #p~stemmen~ zeggen, en waarom zouden ze liegen?",
+      "Iets in je knakt. NL NL Alleen de echt krankzinnigen kunnen een plek als deze begrijpen, dus geef je toe aan de kakelende stemmen en gaat verder met een #p~\"nieuw\"~ perspectief. NL Dingen lijken nu inderdaad veel logischer te zijn.",
+      "Terwijl je een moment neemt om te stoppen en zorgvuldig het golvende landschap rondom je te observeren, begint een tikje van een patroon uit de willekeur tevoorschijn te komen. Wanneer de demente geluiden je gedachten beginnen te onderbreken, vecht je je door de mentale pijn en negeert ze. NL NL Uiteindelijk zet je met succes een pad voorwaarts uit, en ga je verder, nu bestand tegen de snode aard van deze vreemde plek.",
+      "Je besteedt wat lijkt op een eeuwigheid verdwaald in het doolhof. Langzaam maar zeker ben je in staat om je stappen na te gaan, jezelf te heroriënteren, en de draaiende gangen te verlaten. NL NL Je voelt je #r~uitgeput~ door deze ervaring."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Krankzinnigheid Omarmen] #gOntvang #g2 Krankzinnigheid. #rVerlies #r",
+      " #rLP.",
+      "[Focus] #rWord #rVervloekt #r- #rVerwrongen. #gGenees #g",
+      "[Verlaat]",
+      " #gLP.",
+      "[Ga Je Stappen Na] #rVerlies #r",
+      " #rMax #rLP."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Wereld van Smurrie",
+    "DESCRIPTIONS": [
+      "Je valt in een plas. NL @HET@ @BESTAAT@ @UIT@ #g@SLIJM@ #g@SMURRIE!!@ NL Als een bezetene probeer je een paar minuten eruit te klauteren terwijl je voelt dat de smurrie begint te branden. NL Je kunt smurrie voelen in je oren, smurrie in je neus, smurrie overal. NL NL Als je eruit klautert merk je op dat er wat #ygoud mist. Terugkijkend op de plas zie je je ontbrekende munten in combinatie met #ygoud van ongelukkige avonturiers samen gemengd in de plas.",
+      "Je voelt de prikkeling van de smurrie naarmate de langdurige blootstelling je huid begint weg te smelten, maar het lukt je om het #ygoud eruit te vissen.",
+      "Je besluit dat die puinhoop het niet waard is."
+    ],
+    "OPTIONS": [
+      "[Goud Bijeenrapen] #gVerkrijg #g",
+      " #gGoud. #rVerlies #r",
+      " #rLP.",
+      "[Laat Het Liggen] #rVerlies #r",
+      " #rGoud.",
+      "[Verlaat]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Gedachtenbloei",
+    "DESCRIPTIONS": [
+      "Terwijl je door de chaos van de Spire loopt, beginnen je gedachten plotseling heel... #p~echt~ te voelen... NL NL Verbeeldingen van #rmonsters en #yrijkdom beginnen zich in de realiteit te manifesteren. NL De sensatie is snel voorbij. Wat doe je?",
+      "Kan het echt zo eenvoudig zijn?",
+      "Alles is zo logisch nu. NL Het gebrek aan herinneringen, de bestijging, de #yAloude. NL NL Zo is het altijd al geweest. NL Zo zal het altijd zijn. NL Alles zal weer snel vergeten worden..."
+    ],
+    "OPTIONS": [
+      "[Ik ben Oorlog] #rVecht #rtegen #reen #rBaas #rvan #rAkte #r1. #gVerkrijg #geen #gZeldzame #gRelikwie.",
+      "[Ik ben Rijk] #gVerkrijg #g999 #gGoud. #rVervloekt #r- #r2 #rNormaliteit.",
+      "[Ik ben Gezond] #gGenees #gtot #gvolle #gLP. #rVervloekt #r- #rTwijfel.",
+      "[Ik ben Wakker] #gUpgrade #galle #gKaarten. #rJe #rkunt #rniet #rmeer #rgenezen.",
+      "[Verlaat]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Het Nest",
+    "DESCRIPTIONS": [
+      "Je ziet een lange rij van #b~figuren~ #b~met~ #b~capuchons~ NL een #pbescheiden #pkathedraal binnenlopen.",
+      "Uiteraard sluit je je aan bij de rij en je wordt snel omsingeld door #rSekteleden! NL Ze negeren je terwijl ze vrolijk @roepen@ en hun wapens ~rondzwaaien.~ NL NL #r@\"MOORD!!@ #r@MOORD@ #r@MOORD!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MOORD!@ #r@MOORD@ #r@MOOORD!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Je oog valt op een #yDonatiedoos...",
+      "Je besluit om in de rij te blijven (uit angst) om te zien wat er zal gebeuren. NL NL Uiteindelijk sta je oog in oog met de leider. Een goedgeklede sektelid overhandigt je een #ySierlijke #yDolk. Zoals de anderen voor je, snij je in je onderarm en laat het bloed in een misvormde kom druipen. NL NL De sekteleden @roepen@ en @schreeuwen@ voor jou! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Jij roept ook. Waarom niet?",
+      "Ze merkten het niet eens op.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Blijf in de Rij] #gVerkrijg Rituele Dolk. #rVerlies #r",
+      " #rLP.",
+      "[Kapot Maken en Pakken] #gVerkrijg #g",
+      " #gGoud.",
+      "[Verlaat]",
+      "[Ga Door]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Gezichtruiler",
+    "DESCRIPTIONS": [
+      "Je loopt langs een griezelig standbeeld dat verscheidene maskers vasthoudt... NL Iets achter je fluistert zachtjes, NL ~\"Stop.\"~",
+      "Je draait je om en je staat oog in oog met het standbeeld dat nu recht tegenover je staat! NL Bij nadere beschouwing, het is niet een standbeeld maar een magere man die op een standbeeld lijkt. Ademt hij eigenlijk wel? NL NL ~\"Gezicht.~ ~Laat~ ~me~ ~het~ ~aanraken?~ ~Misschien~ ~ruilen?\"~",
+      "~\"Compensatie?~ ~Compensatie.\"~ NL Mechanisch pakt hij een nette stapel #ygoud en plaatst het in je zak. NL NL ~\"Wat~ ~een~ ~mooi~ ~gezicht.~ ~Mooi~ ~gezicht.\"~ NL Terwijl hij je gezicht aanraakt, voel je je levensenergie eruit lopen! NL Tijdens dit gebeuren valt zijn masker af en versplintert. Schreeuwend bedekt hij snel zijn gezicht met alle zes zijn armen, waardoor hij nog meer maskers laat vallen! Temidden al het geschreeuw en versplinteren, ontsnap je. NL NL Zijn gezicht was helemaal leeg.",
+      "~\"Voor~ ~mij?~ @VOOR@ @MIJ?@ ~Oh~ ~ja..~ ~Ja.~ ~Ja..~ ~mmm...\"~ NL NL Je ziet een van zijn armen flikkeren, en je gezicht is in zijn hand! Je gezicht is verwisseld. NL NL ~\"Mooi~ ~gezicht.~ ~Mooi~ ~gezicht.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL Dit was waarschijnlijk de juiste beslissing."
+    ],
+    "OPTIONS": [
+      "[Aanraken] #rVerlies #r",
+      " #gGoud.",
+      "[Ruil] #g50%: #gGoed #gGezicht. #r50%: #rSlecht #rGezicht.",
+      "[Verlaat]",
+      "[Ga Door]",
+      " #rLP, #gverkrijg #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "Een Briefje Voor Jezelf",
+    "DESCRIPTIONS": [
+      "Je ziet een losse steen binnenin een pilaar die in het oog springt.",
+      "Je vindt een gevouwen briefje en een #ykaart binnenin. Er staat, NL \"Het Hart staat je te wachten.\" NL NL Dit is jouw handschrift.",
+      "Kies een Kaart om Op te Bergen.",
+      "Wat is er aan de hand?"
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Neem en Geef] #gOntvang ",
+      " #gen #gBerg #geen #gKaart #gop.",
+      "[Negeer]",
+      "[Verlaat]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "We Ontmoeten Elkaar Weer!",
+    "DESCRIPTIONS": [
+      "\"We ontmoeten elkaar weer!\" NL Een opgewekte slordige kerel komt je vrolijk tegemoet. Je kent deze man niet. NL NL \"Ik ben het, #yRanwid! Heb je vandaag nog iets voor me? Het gebruikelijke? Een kerel zoals ik kan het niet alleen doen, weet je?\" NL Je kijkt hem achterdochtig aan en overweegt je opties...",
+      "\"Voortreffelijk! Ik voelde me al uitgedroogd.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Hij slaat het drankje in één keer achterover en laat een tevreden @boer.@",
+      "\"Prachtig! Dit zal best handig zijn als ik die #rmasker #rdragende #rbandieten weer tegenkom.\"",
+      "\"Voorbeeldig! Ik zal dit verder in mijn kamer bestuderen.\"",
+      "\" @Aaaaagghh!!@ Wat ben je soms toch een eikel!\" NL Hij rent weg.",
+      "  NL NL Hij doorzoekt zijn verschillende zakken... NL \"Hier, kijk eens wat ik vandaag voor je heb! Neem het maar, neem het!\""
+    ],
+    "OPTIONS": [
+      "[Geef Drankje] #rVerlies ",
+      "[Vergrendeld] Vereist: Drankje.",
+      "[Geef Goud] #rVerlies #r",
+      "[Vergrendeld] Vereist: Tenminste 50 Goud.",
+      "[Geef Kaart] #rVerlies ",
+      "[Vergrendeld] Vereist: Kaart.",
+      ". #gVerkrijg #geen #gRelikwie.",
+      "[Val Aan]",
+      "[Verlaat]",
+      " #rGoud"
+    ]
+  },
+  "Designer": {
+    "NAME": "Ontwerper In-Spire",
+    "DESCRIPTIONS": [
+      "Je ontdekt een #g~kleurrijke~ winkel met een spandoek waarop \"IN-SPIRE\" staat, en je loopt naar binnen om te kijken wat ze binnen hebben. NL \"Nee, echt niet. Nee. Kan je niet binnenlaten!\" NL NL Een man met belachelijke kleding verschijnt bij de ingang om je tegen te houden.",
+      "\"Dit is niet goed, nee nee. Wat is dit voor stijl? @Afgrijselijk!@ Ben je aan het #rbloeeeeden? #p~Gàtver.~ @Handel??@ Jij, een klant? Best. ~Wat~ ~jij~ ~wilt...\"~ NL Hij slaakt een overdreven zucht en wijst naar een lijst van diensten. NL NL De diensten lijken prima, maar je zou liever deze zelfvoldane man in zijn zelfvoldane gezicht willen slaan.",
+      "\"Oké, doei doei.\" NL NL ...had hem moeten slaan.",
+      "Je slaat hem zo hard dat je vuist pijn doet. NL \"Mijn @GEZICHT!!@ Nu moet ik-\" NL NL Hij is flauwgevallen. Wie is er nu #p~gàtver~ en aan het #rbloeeeeden?"
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Aanpassingen] #rVerlies #r",
+      "[Opruimen] #rVerlies #r",
+      "[Volledige Service] #rVerlies #r",
+      "[Slaan] #rVerlies #r",
+      " #rLP.",
+      " #rGoud. ",
+      "#gUpgrade #g",
+      " #gwillekeurige #gkaarten.",
+      "#gUpgrade #geen #gkaart.",
+      "#gVerwijder #geen #gkaart.",
+      "#gTransformeer #g",
+      " #gkaarten.",
+      "#gVerwijder #geen #gkaart #gen #gupgrade #geen #gwillekeurige #gkaart.",
+      "[Verlaat]",
+      "Kies een Kaart om te Upgraden",
+      "Kies 2 Kaarten om te Transformeren",
+      "Kies een Kaart om te Verwijderen"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "Het Colosseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Je~ ~bent~ ~bewusteloos~ ~geslagen...~",
+      "~Slapjes~ en met een @bonzend@ hoofd word je wakker, en je ontdekt dat je in het midden van een enorm stadion bent gegooid met een overvol publiek van #bSlavenhandelaren, #pSekteleden, en andere bewoners van de Stad! NL ",
+      " NL Een gepantserde reus met een #ygouden #ykroon brult tegen je vanaf boven, NL @\"WE@ @BEGINNEN@ @NU@ @HET@ @",
+      "E@ @GEVECHT!!!!\"@ NL Een poort aan de andere kant opent...",
+      "@\"GOED@ @GEDAAN,@ @ZWAKKELING!\"@ NL De reus klapt bespottend terwijl hij de menigte ophitst met overdreven gebaren. NL #y~Goud~ ~en~ #y~confetti~ ~regenen~ ~op~ ~je!~ NL @\"TIJD@ @VOOR@ @DE@ @ECHTE@ @UITDAGING!!\"@ NL NL Het laatste gevecht liet een kleine opening achter in de muur van het Colosseum, je kunt er gemakkelijk doorheen ontsnappen terwijl iedereen afgeleid is. NL Blijf je en vecht je?"
+    ],
+    "OPTIONS": [
+      "[Ga Door]",
+      "[Vecht]",
+      "[LAFHEID] Ontsnap.",
+      "[OVERWINNING] Een krachtig gevecht met vele beloningen."
+    ]
+  }
+}

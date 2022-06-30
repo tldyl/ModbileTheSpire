@@ -1,0 +1,174 @@
+{
+  "Cursed Run": {
+    "NAME": "Malédiction",
+    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit. Votre relique de départ est remplacée par Clé maudite, Amulette de pierre noire et Poupée dou-vau"
+  },
+  "Elite Swarm": {
+    "NAME": "Chasseur de gros gibier",
+    "DESCRIPTION": "La Tour est remplie d'Élites."
+  },
+  "Heirloom": {
+    "NAME": "Héritage",
+    "DESCRIPTION": "Commencez avec une relique rare aléatoire."
+  },
+  "Lethality": {
+    "NAME": "Létalité",
+    "DESCRIPTION": "Vous commencez chaque combat avec 3 de Force. Tous les ennemis commencent avec 3 de Force."
+  },
+  "Night Terrors": {
+    "NAME": "Terreurs nocturnes",
+    "DESCRIPTION": "Se reposer aux feux de camps soigne 100% de vos PV max, mais vous perdez 5 PV max."
+  },
+  "Insanity": {
+    "NAME": "Démence",
+    "DESCRIPTION": "Commencez avec un deck de 50 cartes aléatoires."
+  },
+  "Shiny": {
+    "NAME": "Doré !",
+    "DESCRIPTION": "Le deck de départ est composé d'un exemplaire de chaque carte rare."
+  },
+  "Allstar": {
+    "NAME": "All Star",
+    "DESCRIPTION": "Commencez avec 5 cartes incolores."
+  },
+  "Diverse": {
+    "NAME": "Diversifié",
+    "DESCRIPTION": "Les cartes ne sont plus limitées à la couleur de votre personnage."
+  },
+  "Uncertain Future": {
+    "NAME": "Fatalité",
+    "DESCRIPTION": "La carte ne contient qu'un seul chemin."
+  },
+  "Binary": {
+    "NAME": "Binaire",
+    "DESCRIPTION": "Lors des récompenses, vous ne choisisez qu'entre 2 cartes au lieu de 3."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Les ennemis donnent 200% d'or en plus, mais vous ne pouvez plus améliorer de cartes aux feux de camps."
+  },
+  "Terminal": {
+    "NAME": "Incurable",
+    "DESCRIPTION": "Quand vous entrez dans une salle, perdez 1 PV max. Commencez chaque combat avec 5 d'Armure plaquée."
+  },
+  "Time Dilation": {
+    "NAME": "Dilatation temporelle",
+    "DESCRIPTION": "Tous les ennemis sont Ralentis."
+  },
+  "Hoarder": {
+    "NAME": "Syllogomanie",
+    "DESCRIPTION": "Quand vous gagnez une carte, ajoutez deux copies supplémentaires à votre deck. Vous ne pouvez plus retirer de cartes au marchand."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Les ennemis donnent des Reliques au lieu de cartes."
+  },
+  "Draft": {
+    "NAME": "Tirage",
+    "DESCRIPTION": "Constituez votre deck de départ en choisissant 1 carte parmi 3 jusqu'à atteindre 15 cartes."
+  },
+  "Specialized": {
+    "NAME": "Spécialisé",
+    "DESCRIPTION": "Commencez avec 5 copies d'une carte aléatoire."
+  },
+  "Brewmaster": {
+    "NAME": "[DÉPRÉCIÉ] Maître alchimiste",
+    "DESCRIPTION": "Commencez avec 5 copies de la carte Alchimie et la Relique Statue blanche bestiale."
+  },
+  "My True Form": {
+    "NAME": "Ma vraie forme",
+    "DESCRIPTION": "Commencez avec une copie de Forme démoniaque, Forme spectrale, Forme résonnante et Forme Deva."
+  },
+  "Praise Snecko": {
+    "NAME": "Loué soit le geckobra !",
+    "DESCRIPTION": "Remplacez votre Relique de départ par l'Œil de geckobra."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Remplacez votre Relique de départ par la Toupie perpétuelle."
+  },
+  "One Hit Wonder": {
+    "NAME": "Fragilité",
+    "DESCRIPTION": "Commencez la partie avec 1 PV max."
+  },
+  "Endless": {
+    "NAME": "Sans fin",
+    "DESCRIPTION": "Gagner vous renverra au premier Acte avec le même deck. Méfiez-vous, la corruption finit toujours par être fatale..."
+  },
+  "Starter Deck": {
+    "NAME": "Deck de départ",
+    "DESCRIPTION": "Commencez avec la Couronne cassée et Binaire, ce qui signifie que les monstres ne donnent plus de cartes."
+  },
+  "Blight Chests": {
+    "NAME": "Coffres corrompus",
+    "DESCRIPTION": "Les coffres de Boss sont corrompus après avoir battu le troisième Acte en mode sans fin."
+  },
+  "Stunted Growth": {
+    "NAME": "Arrêt de croissance",
+    "DESCRIPTION": "Les ennemis ne donnent plus de cartes après avoir battu le troisième Acte en mode sans fin."
+  },
+  "Blue Cards": {
+    "NAME": "Cartes bleues",
+    "DESCRIPTION": "Les cartes bleues apparaissent désormais dans les récompenses et les boutiques."
+  },
+  "Green Cards": {
+    "NAME": "Cartes vertes",
+    "DESCRIPTION": "Les cartes vertes apparaissent désormais dans les récompenses et les boutiques."
+  },
+  "Red Cards": {
+    "NAME": "Cartes rouges",
+    "DESCRIPTION": "Les cartes rouges apparaissent désormais dans les récompenses et les boutiques."
+  },
+  "Colorless Cards": {
+    "NAME": "Cartes incolores",
+    "DESCRIPTION": "Les cartes incolores apparaissent désormais dans les récompenses."
+  },
+  "Flight": {
+    "NAME": "Lévitation",
+    "DESCRIPTION": "Vous pouvez ignorer les chemins au moment de choisir l'étage suivant."
+  },
+  "Chimera": {
+    "NAME": "Chimère",
+    "DESCRIPTION": "Votre deck de départ est une fusion de celui de tous les personnages."
+  },
+  "ControlledChaos": {
+    "NAME": "Chaos organisé",
+    "DESCRIPTION": "Commencez avec l'Œil gelé. Au début de votre tour, ajoutez 10 cartes aléatoires sous votre pioche."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Ennemis intelligents",
+    "DESCRIPTION": "Tous les ennemis ont des attaques et capacités plus puissantes."
+  },
+  "DeadlyEvents": {
+    "NAME": "Événements mortels",
+    "DESCRIPTION": "Les étages ? peuvent désormais contenir des Élites, mais ont aussi plus de chance de contenir un trésor."
+  },
+  "MonsterHunter": {
+    "NAME": "[DÉPRÉCIÉ] Colosse",
+    "DESCRIPTION": "Les ennemis ont plus de vie mais donnent de meilleures récompenses."
+  },
+  "SealedDeck": {
+    "NAME": "Paquet scellé",
+    "DESCRIPTION": "Constituez un deck de 10 cartes à partir de 30 cartes aléatoires."
+  },
+  "NeowTime": {
+    "NAME": "Surprise de Neow",
+    "DESCRIPTION": "Recevez 3 Bénédictions et 1 Corruption de Neow."
+  },
+  "Careless": {
+    "NAME": "Négligent",
+    "DESCRIPTION": "Au début de votre tour, défaussez la première carte de votre pioche."
+  },
+  "Daily Mods": {
+    "NAME": "Modificateurs quotidiens",
+    "DESCRIPTION": "Commencez une partie avec exactement 3 modificateurs aléatoires."
+  },
+  "The Ending": {
+    "NAME": "La fin",
+    "DESCRIPTION": "Permet d'accéder à l'Acte final."
+  },
+  "Purple Cards": {
+    "NAME": "Cartes violettes",
+    "DESCRIPTION": "Les cartes mauves apparaissent désormais dans les récompenses et les boutiques."
+  }
+}

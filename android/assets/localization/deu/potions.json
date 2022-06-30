@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Uralter Trank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yArtefakt."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Angriffstrank",
+    "DESCRIPTIONS": [
+      "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm sie auf die Hand, sie kostet diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yAngriffskarten. Nimm #b2 Kopien auf die Hand, sie kosten diesen Zug #b0."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Blocktrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yBlock."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Bluttrank",
+    "DESCRIPTIONS": [
+      "Heile #b",
+      "% deiner max. TP."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Geschicklichkeitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yGeschicklichkeit."
+    ]
+  },
+  "Elixir": {
+    "NAME": "VERALTET Elixier",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energietrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Energie."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropisches Gebräu",
+    "DESCRIPTIONS": [
+      "Fülle deine leeren Trankslots mit zufälligen Tränken auf."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Stahlessenz",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yPanzerrüstung."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Explosivtrank",
+    "DESCRIPTIONS": [
+      "Füge ALLEN Gegnern #b",
+      " Schaden zu."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Feenflasche",
+    "DESCRIPTIONS": [
+      "Anstatt zu sterben, wird dieser Trank abgeworfen und heile auf #b",
+      "% deiner max. TP."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Angsttrank",
+    "DESCRIPTIONS": [
+      "Wende #b",
+      " #yVerwundbar an."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Feuertrank",
+    "DESCRIPTIONS": [
+      "Füge #b",
+      " Schaden zu."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Fokustrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yFokus."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruchtsaft",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " max. TP."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Zocker-Gebräu",
+    "DESCRIPTIONS": [
+      "Wirf beliebig viele Karten ab, dann ziehe genauso viele."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Flaschengeist",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yImmateriell."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Gesundheitstrank",
+    "DESCRIPTIONS": [
+      "VERALTET",
+      ""
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Flüssige Bronze",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yStacheln."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Gifttrank",
+    "DESCRIPTIONS": [
+      "Wende #b",
+      " #yGift an."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Trankslot",
+    "DESCRIPTIONS": [
+      "Nutze während des Kampfes Tränke, um #gBoni zu erhalten oder Gegner zu #rbehindern.",
+      "Trankslot"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Machttrank",
+    "DESCRIPTIONS": [
+      "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm sie auf die Hand, sie kostet diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yMachtkarten. Nimm #b2 Kopien auf die Hand, sie kosten diesen Zug #b0."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Erholungstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yErholen.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Fertigkeitstrank",
+    "DESCRIPTIONS": [
+      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm sie auf die Hand, sie kostet diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yFertigkeitskarten. Nimm #b2 Kopien auf die Hand, sie kosten diesen Zug #b0."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Rauchbombe",
+    "DESCRIPTIONS": [
+      "Fliehe aus einem Kampf (außer Bosskämpfen), ohne Belohnungen zu erhalten.",
+      "Ich bin umzingelt!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Snecko-Öl",
+    "DESCRIPTIONS": [
+      "Ziehe #b",
+      " Karten. Ändere die Kosten deiner Handkarten zufällig.",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Flinkheitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Geschicklichkeit. Verliere am Ende deines Zuges #b",
+      " Geschicklichkeit."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Steroidetrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Stärke. Verliere am Ende deines Zuges #b",
+      " Stärke."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Stärketrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yStärke."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Schnelligkeitstrank",
+    "DESCRIPTIONS": [
+      "",
+      "Ziehe #b",
+      " Karten."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Schwächetrank",
+    "DESCRIPTIONS": [
+      "Wende #b",
+      " #ySchwach an."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Verdopplungstrank",
+    "DESCRIPTIONS": [
+      "Deine nächste Karte in diesem Zug wird zweimal gespielt.",
+      "Deine nächsten #b2 Karten in diesem Zug werden zweimal gespielt."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Haltungstrank",
+    "DESCRIPTIONS": [
+      "Nimm #yRuhe oder #yZorn an."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixier",
+    "DESCRIPTIONS": [
+      "#yErschöpfe beliebig viele Handkarten."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Eisernes Herz",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yMetallisieren."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Listigkeitstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yMesser+ auf die Hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Kapazitätstrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " Orb-Slots."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Schatten-Essenz",
+    "DESCRIPTIONS": [
+      "#yErschaffe #b",
+      " #ySchatten pro Orb-Slot."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Wunder in der Flasche",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yWunder auf die Hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Nimm die #yHaltung #yGöttlichkeit an."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Chaos-Destillat",
+    "DESCRIPTIONS": [
+      "Spiele die obersten #b",
+      " Karten deines Nachziehstapels."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Flüssige Erinnerungen",
+    "DESCRIPTIONS": [
+      "Wähle eine Karte aus deinem Abwurfstapel und nimm sie auf die Hand. Sie kostet diesen Zug #b0.",
+      "Wähle #b",
+      " Karten aus deinem Abwurfstapel und nimm sie auf die Hand. Sie kosten diesen Zug #b0."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Kultistentrank",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Farbloser Trank",
+    "DESCRIPTIONS": [
+      "Wähle #b1 von #b3 zufälligen #yfarblosen Karten. Nimm sie auf die Hand, sie kostet diesen Zug #b0.",
+      "Wähle #b1 von #b3 zufälligen #yfarblosen Karten. Nimm #b2 Kopien auf die Hand, sie kosten diesen Zug #b0."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Gunst der Schmiede",
+    "DESCRIPTIONS": [
+      "Verbessere deine Handkarten bis zum Ende des Kampfes."
+    ]
+  }
+}

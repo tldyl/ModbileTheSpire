@@ -1,0 +1,933 @@
+{
+  "Accursed Blacksmith": {
+    "NAME": "Lò Rèn Âm U",
+    "DESCRIPTIONS": [
+      "Bạn núp vào một túp lều nhỏ. Bạn phát hiện ra bên trong là một cái lò rèn. Dụng cụ rèn đã phủ đầy bụi, nhưng ngọn lửa vẫn cháy bừng trong lò. Bạn cảm thấy lo lắng...",
+      "Bạn quyết định tận dụng lò rèn này và... NL #y@CHÁT@ #y@CHÁÁÁT@ #y@CHÁT!@ NL ...nâng cấp vũ khí của mình!",
+      "Bạn quyết định tìm xem có thứ gì hữu dụng không. Sau một hồi lật vải bạt, lục thùng chứa và ngó nghiêng từng ngóc ngách, bạn lôi ra được một #y~cổ~ #y~vật~ phủ đầy bụi ",
+      "Vừa lúc bạn sắp hoàn thành, ngọn lửa trong lò thổi bùng lên người bạn, #r@đốt@ #r@cháy@ #r@và@ #r@làm@ #r@bỏng@ tay bạn..",
+      "NL NL Mang theo cổ vật ấy, bạn chợt thấy #r~đau~ #r~nhói~ ngay lúc bước ra ngoài túp lều. Chắc tại mình đã chọc giận hồn ma nào chăng?",
+      "Chả thấy thứ gì đáng giá tại đây cả. Bạn bước ra ngoài, ánh sáng ngọn lửa trong lò tạo nên những #p~bóng~ #p~tối~ #p~rờn~ #p~rợn~ trên tường của túp lều..."
+    ],
+    "OPTIONS": [
+      "[Rèn] #gNâng #gcấp #gmột #glá #gtrong #gbộ #gbài.",
+      "[Lục lọi] #gNhận #gmột #gCổ #gvật #gđặc #gbiệt. #rBị #rNguyền #rrủa #r- #rĐau #rĐớn.",
+      "[Bỏ đi]",
+      "Chọn một lá Bài để Nâng cấp",
+      "[Bị khóa] Yêu cầu: Lá bài có thể nâng cấp được"
+    ]
+  },
+  "Addict": {
+    "NAME": "Gã Ăn Mày Cầu Xin",
+    "DESCRIPTIONS": [
+      "Khi bạn đang rón rén bước qua những bóng người trùm kín, một trong số những kẻ ấy tiến lại gần bạn. NL \"Bạn ơi, có gì cho tôi không? Xin bạn... một chút #yXu cũng được?\" NL \"Tôi chỉ cần một nơi trú, tôi có thể đổi cho bạn báu vật của tôi...\" NL Trông hắn khùng khùng, nhưng lại vô hại.",
+      "\"Dạ vâng, ~vâng~ ~ạ!~ Đây đây, thuận rồi nhé!\"",
+      "Bạn giật lấy #ycổ #yvật quý giá từ tay gã và bỏ đi. NL Bạn nghe thấy từ phía sau, NL \"Ngươi không thấy nhục à? ~NGƯƠI~ ~KHÔNG~ ~THẤY~ ~NHỤCCCCC~ ~À~ NL Bạn thấy #pnhục #pnhã đôi chút."
+    ],
+    "OPTIONS": [
+      "[Dâng Vàng] #y",
+      " #yVàng: #gNhận #gmột #gCổ #gvật.",
+      "[Bị khóa] Yêu cầu: ",
+      " Vàng.",
+      "[Cướp] #gNhận #gmột #gCổ #gvật. #rBị #rNguyền #r- #rNhục #rNhã.",
+      "[Bỏ đi]",
+      "",
+      ""
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Ghi Chép Cổ Đại",
+    "DESCRIPTIONS": [
+      "Leo lên thành phố, bạn để ý thấy một bức tường phủ đầy ghi chép của #y~Người #ycổ #yđại.~ Khị bạn cố gắng thấu hiểu những biểu tượng và chữ cái khó hiểu này có ý nghĩa gì, bản ghi chép bắt đầu #b~phát #bsáng.~ NL Đột nhiên, thông điệp trở nên rõ ràng...",
+      "Tất nhiên. NL Câu trả lời rất thanh tao.",
+      "Sự thật luôn giản đơn."
+    ],
+    "OPTIONS": [
+      "[Thanh tao] #gLoại #gbỏ #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "[Đơn giản] #gNâng #gcấp #gtất #gcả #gcác #glá #gĐánh #gvà #gPhòng #gThủ.",
+      "Chọn một lá Bài để Hủy.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Gã Ăn Xin Già",
+    "DESCRIPTIONS": [
+      "Khi bạn đang đi, một gã ăn xin già khoác áo lông đưa tay về phía bạn. \"Cho xin ít tiền đi nhóc?\"",
+      "Gã ăn xin nhìn xuống sàn trong khi bạn đi qua. NL \"Ngươi sẽ không bao giờ làm nên sự khác biệt... Không bao giờ.\"",
+      "Gã ăn xin gỡ bỏ áo choàng để lộ rằng lão là #bLinh #bmục! NL Lão hét rằng: @\"Ngươi@ @có@ @một@ @tâm@ @hồn@ @thánh@ @thiện.@ @Hãy@ @để@ @ta@ @thanh@ @tẩy@ @ngươi!\".@ NL Bạn không chắc liệu lão cảm thấy biết ơn hay giận dữ.",
+      "Lão hét rằng: @\"Ta@ @hy@ @vọng@ @lần@ @này@ @ngươi@ @sẽ@ @làm@ @tốt@ @hơn,@ @anh@ @bạn@ @à!@. NL Không biết câu nói này có ngụ ý gì, bạn bước tiếp."
+    ],
+    "OPTIONS": [
+      "[Dâng Vàng] #y",
+      " #yVàng: #gHủy #gmột #glá #gbài #gtrong #gbộ #gcủa #gbạn.",
+      "[Bị khóa] Yêu cầu: ",
+      " Vàng.",
+      "[Tiếp tục]",
+      "[Bỏ đi]",
+      "Chọn một lá Bài để Hủy."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Cá Lớn",
+    "DESCRIPTIONS": [
+      "Khi đang đi qua một hành lang dài, bạn nhìn thấy một #yquả #ychuối, một chiếc #ybánh #yvòng và một chiếc #yhộp ~đang~ ~treo~ ~lơ~ ~lửng~ ~trên~ ~không.~ Không... khi xem xét kỹ hơn, chúng được treo trên dây thả từ những lỗ trên trần nhà xuống. Khi bạn đến gần những đồ vật này, có một tiếng lạch cạch khẽ vang lên. NL Bạn phải làm gì?",
+      "Bạn ăn quả #ychuối. Nó giàu dinh dưỡng và có chút #bma #bthuật, hồi phục cho bạn.",
+      "Bạn ăn chiếc #ybánh #yvòng. Thật là đã! Tăng HP tối đa của bạn.",
+      "",
+      "Bạn lấy chiếc hộp. Bạn tìm thấy một #ycổ #yvật bên trong!",
+      " NL Tuy nhiên, bạn thực sự thèm ăn chiếc bánh vòng... NL Bạn ngập tràn ~nỗi buồn,~ nhưng chủ yếu là #rhối #rtiếc."
+    ],
+    "OPTIONS": [
+      "[Chuối] #gHồi #g",
+      " #gHP.",
+      "[Bánh vòng] #gHP #gTối #gđa #g+",
+      ".",
+      "[Hộp] #gNhận #gmột #gCổ #gvật. #rBị #rNguyền #r- #rHối #rTiếc.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Linh Hồn Lửa Trại",
+    "DESCRIPTIONS": [
+      "Bạn tình cờ nhìn thấy một đám trông như những #phỏa #ptinh #pmàu #ptím ~nhảy~ ~múa~ xung quanh một ngọn lửa trại lớn. NL ",
+      "Những tinh linh này ném những mẩu xương vụn nhỏ vào ngọn lửa, mỗi lần như vậy đều ~bùng~ ~lên~ ~tuyệt~ ~đẹp.~ NL Khi lại gần, tất cả những tinh linh này đều nhìn về phía bạn, trông chờ...",
+      "Bạn ném một lễ vật vào ngọn lửa trại. NL NL ",
+      "Tuy nhiên, các tinh linh không vui vì bạn đã dâng một lá #pNguyền... Lá bài này xì xèo một làn khói đen mỏng. Bạn nhận lại được một... #p~thứ~ #p~gì~ #p~đó~.",
+      "Chẳng có gì xảy ra... NL Các tinh linh có vẻ đang phớt lờ bạn. Thật thất vọng...",
+      "Ngọn lửa bừng sáng một chút. NL Các tinh linh tiếp tục nhảy múa. Bạn cảm thấy ấm áp hơn một chút nhờ sự hiện diện của chúng.. NL Bạn #ghồi #b5 HP.",
+      "Ngọn lửa bùng lên, sáng rực rỡ hơn hẳn! NL Các tinh linh phấn khích nhảy múa xung quanh bạn, khiến cho bạn cảm thấy tràn đầy ~hơi~ ~ấm.~ NL Bạn được #ghồi đầy HP.",
+      "Ngọn lửa @bùng@ @cháy,@ khiến bạn suýt ngã, khi ngọn lửa bùng lên mạnh @gấp@ @đôi.@ NL Các tinh linh phấn khích nhảy múa xung quanh bạn trước khi ~hợp~ ~nhất~ ~thành~ ~hình~ ~dáng~ ~của~ ~bạn,~ khiến cho bạn ngập tràn hơi ấm và sức mạnh. NL Tăng #b10 HP tối đa và bạn được hồi toàn bộ HP."
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Bỏ đi]",
+      "[Dâng] Nhận phần thưởng dựa theo lễ vật.",
+      "Chọn một lá Bài để Dâng."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Cuốn Sách Bị Nguyền Rủa",
+    "DESCRIPTIONS": [
+      "Trong một ngôi đền bỏ hoang, bạn tìm thấy một cuốn sách khổng lồ đang mở, đầy rẫy những #p@ghi@ #p@chép@ #p@bí@ #p@ẩn.@ NL NL Trong khi bạn cố gắng diễn giải những câu chữ phức tạp này, nó bắt đầu #b~dịch~ #b~chuyển~ và #b~biến~ thành chữ viết vốn quen thuộc với bạn.",
+      "Thật kỳ lạ. Cuốn sách dường như viết về một #yNgười #ycổ #yđại có tên là #yNeow. NL NL Điều này khiến cho bạn cảm thấy thích thú, nhưng bạn có cảm giác khá #p~bất~ #p~an.~",
+      "Vốn là Người cổ đại Hồi sinh, Neow đã bị lưu đày xuống dưới đáy Tháp xoáy. NL NL Bạn cảm thấy muốn đọc tiếp, nhưng cơ thể của bạn bắt đầu #r~nhói~ #r~đau.~",
+      "Mong muốn trả thù, #yNeow ban phước cho những kẻ ngoại đạo, sử dụng họ vì mục đích của chính bà. NL NL Bạn bắt đầu cảm thấy vô cùng #r~yếu~ #r~ớt~ #r~và~ #r~mệt~ #r~mỏi...~",
+      "Những ai được #yNeow hồi sinh chỉ nhớ được một phần kí ức về quá khứ của mình, bị nguyền rủa phải chiến đấu vĩnh cửu. NL NL Khi bạn đọc đến gần trang cuối, #r@những@ #r@vết@ #r@thương@ #r@trước@ #r@đây@ #r@của@ #r@bạn@ #r@bắt@ #r@đầu@ #r@rách@ #r@trở@ #r@lại!@",
+      "Khi đọc xong cuốn sách, bạn quyết định mang nó đi. Với bằng chứng trong tay, liệu bạn có thể lưu giữ được ký ức của mình không?",
+      "Bạn rời đi, cảm thấy một luồng #p~năng~ #p~lượng~ #p~hắc~ #p~ám~ #p~tỏa~ #p~ra~ từ cuốn sách trên bệ.",
+      "Với sự cố gắng và nghị lực phi thường, bạn cưỡng lại sự mê hoặc của cuốn sách và @ĐÓNG@ chặt nó lại. NL Bạn quay lại và rời khỏi ngôi đền, cảm thấy #b~mệt~ #b~mỏi~ #b~rã~ #b~rời...~"
+    ],
+    "OPTIONS": [
+      "[Đọc]",
+      "[Tiếp tục] #rMất #r1 #rHP.",
+      "[Tiếp tục] #rMất #r2 #rHP.",
+      "[Tiếp tục] #rMất #r3 #rHP.",
+      "[Dừng lại] #rMất #r3 #rHP.",
+      "[Lấy] #gNhận #gcuốn #gSách. #rMất #r",
+      " #rHP.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "Người Lữ Hành Đã Chết",
+    "DESCRIPTIONS": [
+      "Trong khi lục lọi người lữ hành, bạn lơ là cảnh giác!",
+      "Bạn rời đi và không gây chút động tĩnh nào.",
+      "Bạn tình cờ bắt gặp một #rngười #rlữ #rhành #rđã #rchết trên tầng này. NL #bQuần của anh ta đã bị lấy cắp! Đồng thời, ",
+      "bộ giáp và khôn mặt có vẻ đã bị #r@thiêu@ #r@đốt@ #r@bởi@ #r@lửa.@",
+      "trông có vẻ như anh ta đã bị một con thú có sừng #r@móc@ #r@mắt@ #r@và@ #r@giẫm@ #r@đạp.@ ",
+      "anh ta trông có vẻ như đã bị #r@moi@ #r@ruột@ #r@và@ #r@chặt@ bởi những chiếc móng vuốt khổng lồ. ",
+      " NL Mặc dù #yđồ #yđạc của anh ta #yvẫn #ycòn #ynguyên #yvẹn, bạn không có tâm trí nào để điều tra về những gì đã xảy ra...",
+      "Bạn đã tìm được một ít #yvàng! NL Tiếp tục tìm kiếm?",
+      "Hừm, không tìm thấy gì... NL Tiếp tục tìm kiếm?",
+      "Bạn đã tìm được một #ycổ #yvật! NL Tiếp tục tìm kiếm?",
+      "Có vẻ bạn đã lục soát toàn bộ đồ đạc của anh ta mà không gặp khó khăn gì!"
+    ],
+    "OPTIONS": [
+      "[Tìm] #gTìm #gChiến #glợi #gphẩm. #r",
+      "[Bỏ đi]",
+      "[Chiến đấu]",
+      "[Tiếp tục] #gTìm #gChiến #glợi #gphẩm. #r",
+      "%: #rquái #rvật #rquay #rtrở #rlại."
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Kẻ Chích Thuốc",
+    "DESCRIPTIONS": [
+      "Một người đàn ông che mắt có nụ cười nham hiểm bước gần đến bạn. NL \"Này kẻ lạ mặt. Có hứng thú với khoa học tiên tiến không? Ta có thể làm cho ngươi mạnh hơn bất kỳ sự luyện tập hay phước lành nào. Ngươi sẽ cần tới nó nếu như ngươi là loại anh hùng muốn lao vào chỗ chết.\" NL NL ~\"Ngươi~ ~thấy~ ~sao?\"~",
+      "~\"Tuyệt~ ~vời.\"~ NL Gã ta đưa cho bạn một ống tiêm nhìn rất nguy hiểm chứa đầy thứ #b~chất~ #b~lỏng~ #b~phát~ #b~sáng~ trước khi lỉnh vào trong một hẻm tối.",
+      "~\"Quá~ ~tuyệt~ ~vời.\"~ NL Gã ta tiêm ba loại chất lạ vào bạn và rút ra một cuốn sổ. Khi bạn bắt đầu cảm thấy choáng váng, hắn bắt đầu hì hục ghi chép. NL Hoàn toàn không để ý đến thời gian, khi bạn tỉnh lại, nhân vật mờ ám này đã biến mất.",
+      "~\"Tuyệt~ ~quá.\"~ NL Bạn nốc cạn thứ hợp chất bí ẩn này. Ngay lập tức bạn cảm thấy tràn trề sức lực và cơ bắp của bạn @co@ @giật.@"
+    ],
+    "OPTIONS": [
+      "[Thử nghiệm J.A.X.] #gCơ #gbắp #gtrở #gnên #gCUỒN #gCUỘN.",
+      "[Trở thành vật thí nghiệm] #gBiến #gđổi #g2 #glá #gbài.",
+      "[Uống thuốc đột biến] #gNhận #gmột #gcổ #gvật #gđặc #gbiệt.",
+      "[Bỏ đi]",
+      "[Bị khóa] Yêu cầu: Có từ 2 lá bài trong chồng bài trở lên.",
+      "Chọn Bài để Biến đổi."
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Máy Sao Chép",
+    "DESCRIPTIONS": [
+      "Phía trước mặt bạn là một ngôi miếu trang hoàng dành cho thực thể cổ đại nào đó.",
+      "Bạn trịnh trọng quỳ xuống. Một đối ảnh ma mị xuất hiện từ ngôi miếu và hòa vào người bạn.",
+      "Bạn bỏ qua ngôi miếu, tự tin về sự lựa chọn của mình."
+    ],
+    "OPTIONS": [
+      "[Cầu nguyện] #gSao #gchép #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "[Bỏ đi]",
+      "Chọn một Lá bài để Sao chép."
+    ]
+  },
+  "Falling": {
+    "NAME": "Rơi",
+    "DESCRIPTIONS": [
+      "Khi leo lên trên, nhảy từ hình khối lơ lửng này sang hình khối lơ lửng khác, bạn trượt chân. NL NL Bạn bắt đầu rơi xuống.",
+      "Trong khi rơi tự do, bạn cân nhắc lựa chọn của mình: NL Tiếp đất an toàn với kỹ thuật đỉnh cao nhất của mình. NL Triệu hồi một Năng lực để sống sót khỏi cú ngã này. NL Đánh vào tường để bám trụ lại.",
+      "Bạn tiếp đất một cách vô cùng duyên dáng trước khi đi tiếp.",
+      "Tận dụng và tiêu tốn một phần sức mạnh thuần túy của mình, bạn tiếp đất thành công mà không bị thương.",
+      "Bạn có thể bám trụ vào bức tường và xoay sở nhảy được một bước ngắn tới một bục đứng ổn định khác.",
+      "Bạn có vẻ rơi chậm như lông vũ, tiếp đất mà không xây xẩm chút nào."
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Tiếp đất] #rMất ",
+      "[Bị khóa] Yêu cầu: Bài Kỹ năng",
+      "[Triệu hồi] #rMất ",
+      "[Bị khóa] Yêu cầu: Bài Năng lực",
+      "[Đánh] #rMất ",
+      "[Bị khóa] Yêu cầu: Bài Tấn công",
+      "[Bỏ đi]",
+      "[Tiếp đất] "
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Đền Thờ Bị Lãng Quên",
+    "DESCRIPTIONS": [
+      "Phía trước bạn là ngôi đền thờ một vị thần bị lãng quên. NL Phía trên đền thờ này là một bức tượng nữ nhân lộng lẫy với hai cánh tay dang rộng. NL Bà ta gọi bạn, yêu cầu vật hiến tế.",
+      "Khi bạn nhẹ nhàng đặt bức tượng lên bục thờ, một làn gió #blạnh #bbuốt thổi khắp căn phòng. NL Đôi tay của bức tượng bắt đầu đổi màu và vỡ vụn. NL NL Bức #ytượng #yvàng của bạn bắt đầu nhạt màu và máu tuôn chảy ra từ đôi mắt của nó. NL Dòng máu không ngừng tuôn ra.",
+      "Bạn đứng trên bục thờ và cắt cổ tay của mình. NL Khi #rdòng #rmáu hiến tế chảy ra, đôi tay của bức tượng chìa ra và che mắt bạn. NL Mọi thứ trở nên tối sầm lại. NL Không lâu sau đó bạn tỉnh dậy và cảm thấy một nguồn năng lượng tiềm tàng mới mẻ tuôn trào khắp người.",
+      "Bạn đột ngột đánh và đập vỡ bức tượng trước mặt mình, phá vỡ xiềng xích ma thuật mà căn phòng này đã áp vào bạn. NL Một tiếng khóc than ám muội vang vọng quanh bạn và bạn có thể cảm nhận thấy luồng #p~ma~ #p~thuật~ #p~nguyền~ #p~rủa~ thấm nhuần vào xương cốt của mình."
+    ],
+    "OPTIONS": [
+      "[Dâng: Tượng vàng] #gNhận #gmột #gCổ #gvật #gđặc #gbiệt. #gMất #gTượng #gvàng.",
+      "[Bị khóa] Yêu cầu: Tượng vàng.",
+      "[Hy sinh] #gNhận #g",
+      " #gHP #gTối #gđa. #rMất #r",
+      " #rHP.",
+      "[Bị khóa] Yêu cầu: Nhân tính.",
+      "[Báng bổ] #rBị #rNguyền #r- #rMục #rRữa."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "Đài Phun Thần Thánh",
+    "DESCRIPTIONS": [
+      "Bạn tình cờ nhìn thấy #b~dòng~ #b~nước~ #b~lấp~ #b~lánh~ tuôn chảy không ngừng từ một đài phun nước ờ bức tường gần đó.",
+      "Khi bạn uống dòng nước này, bạn cảm thấy #psự #pchi #pphối #phắc #pám dần nới lỏng.",
+      "Không rõ bản chất của thứ nước này, bạn tiếp tục bước đi, khát khô cổ."
+    ],
+    "OPTIONS": [
+      "[Uống] #gHủy #gtoàn #gbộ #gbài #gNguyền #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Hội Đồng Ma",
+    "DESCRIPTIONS": [
+      "Khi tiếp tục leo tháp, #p~làn~ #p~khói~ #p~đen~ #p~đặc~ bắt đầu phun lên từ mặt đất và bao trùm xung quanh bạn, cô đọng lại thành ba thực thể đeo mặt nạ và bắt đầu lên tiếng. NL NL ~\"Tôi~ ~nghĩ~ ~lại~ ~là~ ~một~ ~con~ ~rối~ ~khác~ ~của~ #y~Neow\",~ NL #r@\"ĐÚNG@ #r@ĐÓ!@ #r@BÀ@ #r@TA@ #r@LUÔN@ #r@TẠO@ #r@RA@ #r@NHỮNG@ #r@MÓN@ #r@ĐỒ@ #r@CHƠI@ #r@THÚ@ #r@VỊ@ #r@NHẤT!\"@ NL NL Bạn nhìn thấy một nụ cười quá khổ khi kẻ thứ ba nói với mình. NL \"Hãy mặc kệ hai tên kia... Ngươi có muốn nếm trải mùi vị #y~sức~ #y~mạnh~ của bọn ta không?\" ",
+      "",
+      "#y\"Tuyệt #yvời!\" NL Khi dáng hình ma mị đó nói, bạn để ý thấy miệng của hắn cảng mở to ra. #p~Làn~ #p~khói~ #p~đen~ #p~đặc~ phun ra và bao trùm căn phòng. Bạn không thể thở hay nhìn thấy gì hết... NL NL Ngay trước khi bất tỉnh, cảm giác ấy biến mất. NL NL Bất kể chúng là gì đi chăng nữa thì giờ đây chúng đã biến mất. Bạn đi tiếp, cảm thấy khá #btrống #brỗng.",
+      "\"Thật đáng thất vọng...\" NL ~\"Sớm~ ~muộn~ ~thì~ ~ngươi~ ~cũng~ ~sẽ~ ~nhập~ ~hội~ ~với~ ~bọn~ ~ta.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Những bóng hình này tan biến, chỉ để lại tiếng cười đáng sợ vang vọng trong tai bạn.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Chấp nhận] #gNhận #g5 lá Hiển Linh. #rMất #r",
+      " #rHP #rtối #rđa.",
+      "[Từ chối]",
+      "[Chấp nhận] #gNhận #g3 lá Hiển Linh. #rMất #r",
+      "",
+      "[Bỏ đi]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Tượng Vàng",
+    "DESCRIPTIONS": [
+      "Bạn tình cờ đi qua một cái bệ kín đáo có một #ybức #ytượng #yvàng #ysáng #ychói nằm yên bên trên. Trông nó có vẻ vô cùng quý giá. NL NL Bạn không hề nhìn thấy bất kỳ cạm bẫy nào gần đó.",
+      "Khi bạn cầm lấy Bức tượng và cất đi, một tảng đá khổng lồ đập vỡ trần nhà và rơi xuống cạnh bạn. NL Bạn nhận ra rằng sàn nhà nghiêng xuống và tảng đá bắt đầu lăn về phía bạn.",
+      "@CHẠYYYYYYYYYY!@ NL Bạn suýt nữa không nhảy sang một bên hành lang khi tảng đá lao qua. Tuy nhiên, đáng tiếc là có vẻ bạn đã bị bong gân.",
+      "Bạn dồn hết sức mình lao về phía tảng đá. Khi khói bụi lắng xuống, bạn có thể trốn thoát an toàn.",
+      "@CHOẸT!@ NL Tảng đá đè một chút vào người bạn khi lăn qua, nhưng ngoài chuyện đó ra thì bạn vẫn có thể thoát khỏi đây.",
+      "Chưa có cạm bẫy nào rõ như ban ngày thế này. NL Bạn quyết định không động chạm gì tới những đồ vật đặt trên bệ."
+    ],
+    "OPTIONS": [
+      "[Lấy] #gNhận #gTượng #gvàng. #rKích #rhoạt #rmột #rcạm #rbẫy.",
+      "[Bỏ đi]",
+      "[Bỏ chạy] #rBị #rNguyền #r- #rThương #rTật.",
+      "[Đập vỡ] #rChịu #r",
+      " #rSát #rthương.",
+      "[Trốn] #rMất #r",
+      " #rHP #rtối #rđa."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Miếu Vàng",
+    "DESCRIPTIONS": [
+      "Trước mặt bạn là một ngôi miếu tinh xảo thờ một linh hồn cổ đại. ",
+      "Khi bạn chạm vào ngôi miếu, #yvàng rơi xuống từ trần nhà, ~nhấn~ ~chìm~ ~bạn~ ~trong~ ~của~ ~cải.~ ",
+      "Mỗi khi bạn đánh vào ngôi miếu, #yvàng liên tục tuôn ra! NL NL Khi bạn đút túi đống của cải, có thứ gì đó #rkhiến #rngười #rbạn #rnặng #rtrĩu.",
+      "Bạn bỏ qua ngôi miếu."
+    ],
+    "OPTIONS": [
+      "[Cầu nguyện] #gNhận #g",
+      " #gVàng.",
+      "[Báng bổ] #gNhận #g275 #gVàng. #rBị #rNguyền #r- #rHối #rTiếc.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Bức Tượng Hình Cánh",
+    "DESCRIPTIONS": [
+      "Giữa vô vàn những tảng đá và mảnh vụn, bạn nhìn thấy một bức tượng lớn màu xanh vô cùng tinh vi trông như một cái cánh. NL Bạn thấy có #yvàng chảy ra từ những rãnh nứt của nó. Có thể bên trong còn có gì khác...",
+      "Ai đó từng kể với bạn về một giáo phái thờ phụng một con chim khổng lồ. Khi bạn quỳ xuống cầu nguyện, bạn bắt đầu ~cảm~ ~thấy~ ... ~choáng~ ~váng~ . NL NL Một lúc sau đó bạn tỉnh dậy, bạn cảm thấy nhanh nhẹn một cách lạ thường.",
+      "Bạn dốc toàn bộ sức lực của mình để chặt bức tượng. NL Nó nhanh chóng @vỡ@ @vụn,@ để lộ ra một #yđống #yvàng. Bạn bỏ túi nhiều nhất có thể và đi tiếp.",
+      "Bức tượng khiến bạn cảm thấy ~bất~ ~an.~ Bạn đi qua và tiếp tục leo tháp."
+    ],
+    "OPTIONS": [
+      "[Cầu nguyện] #gHủy #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn. #rMất #r",
+      " #rHP.",
+      "[Phá hủy] #gNhận #g",
+      " #g- #g",
+      " #gVàng.",
+      "[Bị khóa] Yêu cầu: Bài có sát thương từ ",
+      " trở lên.",
+      "[Bỏ đi]",
+      "[Tiếp tục]",
+      "Chọn một lá Bài để Hủy."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Đầu Lâu Biết Tuốt",
+    "DESCRIPTIONS": [
+      "Bạn đột nhiên thấy mình đang ở một căn phòng cũ kĩ, trang hoàng. Ở giữa căn phòng có một cái đầu lâu to đùng nằm trên một cái bệ lộng lẫy. Khi bạn tiến đến gần, cái đầu lâu #g@bùng@ #g@cháy@ và quay mặt về phía bạn.",
+      "\"NGƯƠI TÌM KIẾM ĐIỀU GÌ? NGƯƠI TRẢ GIÁ BẰNG GÌ?\" NL Cùng lúc chiếc đầu lâu nói dứt câu, cánh cửa phía sau bạn @đóng@ @chặt.@",
+      " NL NL \"CÒN GÌ NỮA KHÔNG?\"",
+      " ",
+      "\"NỐC CẠN ĐI!\" NL Bạn nhận được một bình dược.",
+      "\"CÓ LẼ THỨ NÀY SẼ GIÚP ÍCH?\" NL Bạn nhận được một lá bài.",
+      "\"LŨ NGƯỜI PHÀM CÁC NGƯỜI KHÔNG BAO GIỜ THAY ĐỔI CẢ. XONG RỒI.\" NL #yVàng rơi như mưa lên người bạn!",
+      "\"ĐẰNG SAU NGƯƠI ĐÓ, TÊN PHÀM TRẦN.\" NL Bạn liếc nhìn đằng sau cái đầu lâu. Quả thực là có một cánh cửa."
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      " #rHP.",
+      "[Thông tin?] #gHé #glộ #gvề #gquái #gTrùm. #rMất #r",
+      "[Thành công?] #gNhận #gmột #glá #gBài #gKhông #gmàu. #rMất #r",
+      "[Giúp ích một chút?] #gNhận #gmột #gBình #gdược. #rMất #r",
+      "[Của cải?] #gNhận #g",
+      " #gVàng. #rMất #r",
+      "[Làm thế nào để bỏ đi?] #rMất #r",
+      "[Bỏ đi]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Phòng Thí Nghiệm",
+    "DESCRIPTIONS": [
+      "Bạn chợt thấy mình đang ở trong một căn phòng đầy rẫy những giá đựng ống thí nghiệm, cốc thí nghiệm, bình cầu, kẹp, kẹp ống nghiệm, que khuấy, que kẹp, kính bảo hộ, phễu, ống hút, xi lanh, bình ngưng và thậm chí là cả một ống xoáy thủy tinh hiếm có. NL NL Sao mà bạn biết được tên của những dụng cụ này? Không quan trọng, bạn nhìn xung quanh."
+    ],
+    "OPTIONS": [
+      "[Tìm] #gTìm #gvài #gBình #gdược!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "Mãng Xxxxxà",
+    "DESCRIPTIONS": [
+      "Bạn bước vào một căn phòng và nhìn thấy một cái hố lớn trên mặt đất. Khi bạn đến gần cái hố, một con mãng xà khổng lồ xuất hiện bên trong. NL NL ~\"Ố~ ~ồồồ!~ ~Xin~ ~chào~ ~xin~ ~chào!~ ~ai~ ~vậy?~ Xin chào kẻ lữ hành, ta có một câu hỏi đơn giản dành cho ngươi. NL Đời đáng sống nhất là khi ngươi có thể #y~mua~ #y~được~ #y~bất~ #y~kỳ~ #y~thứ~ #y~gì!~ NL Ngươi có đồng ý vậy không?\"",
+      "~\"Đúng~ ~vậyyyyyyyyyyy!~ NL ~Rồiii~ ~sẽ~ ~thấy~ ~đáng~ ~đánh~ ~đổiii.~ NL ~..ssSSs.....~ ~ss...~",
+      "Con mãng xà nhìn bạn với vẻ mặt thất vọng tột cùng.",
+      "Con mãng xà ngẩng đầu và phun lên trời một đống #yvàng! NL Thật đáng kinh ngạc và cũng thật kinh hãi. NL Bạn thu gom toàn bộ chỗ #yvàng, cảm ơn con rắn và đi tiếp."
+    ],
+    "OPTIONS": [
+      "[Đồng ý] #gNhận #g",
+      " #gVàng. #rBị #rNguyền #r- #rHoài #rNghi.",
+      "[Không đồng ý]",
+      "[Tiếp tục]",
+      "[Bỏ đi]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Bức Tường Sống",
+    "DESCRIPTIONS": [
+      "Khi bạn đến một con đường cụt và bắt đầu quay lại, những bức tường @sập@ @xuống@ từ trần nhà, nhốt bạn lại! NL NL Ba khuôn mặt xuất hiện trên những bức tường và lên tiếng. NL #b\"Hãy #bquên #bđi #bnhững #bgì #bngươi #bbiết #bvà #bta #bsẽ #bthả #bngươi #bra.\" NL #b\"Ta #byêu #bcầu #bsự #bthay #bđổi #bđể #bnhìn #bra #bmột #bkhông #bgian #bmới.\" NL #b\"Nếu #bngươi #bmuốn #bvượt #bqua #bta #bthì #bngươi #bphải #btrưởng #bthành.\"",
+      "Cảm thấy thỏa mãn, những bức tường trước mặt bạn thu về trần nhà, mở ra lối đi tiếp."
+    ],
+    "OPTIONS": [
+      "[Lãng quên] #gHủy #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "[Thay đổi] #gBiến #gđổi #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "[Trưởng thành] #gNâng #gcấp #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "Chọn một lá Bài để Hủy.",
+      "Chọn một lá Bài để Biến đổi.",
+      "Chọn một lá Bài để Nâng cấp.",
+      "[Bỏ đi]",
+      "[Bị khóa] Yêu cầu: Lá bài có thể nâng cấp được"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Băng Cướp Đeo Mặt Nạ",
+    "DESCRIPTIONS": [
+      "Hehehe.. Cảm ơn vì chỗ #yvàng nhé! NL Ồ, ta thích #yvàng. Chúng thật tuyệt. NL #y~lấp~ #y~lánh~ #y~lấp~ #y~lánh nhìn phê thật đấy!",
+      "Này, này #bGấu! NL Gã này đã đưa cho chúng ta tất cả chỗ #yvàng của hắn! Đúng là đồ ngu, nhỉ? NL Tao chỉ phải hỏi nhẹ nhàng. Ai ngờ được chứ?! NL Tao thì rõ là không ngờ rồi! Đúng ngu luôn!",
+      "Nào anh em, nhân dịp này thì cười cho đã thôi! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Chà? Ngươi vẫn ở đây sao? NL Ngươi nghe lén được điều gì sao? Ta không nghĩ vậy. NL #r@cười@ #r@khúc@ #r@khích@ ~...đồ~ ~kém~ ~cỏi....~ @Hahaha@ ~haaah~",
+      "Bạn gặp một băng cướp đeo #rmặt #rnạ #rđỏ. NL \"Xin chào, hãy trả tiền để đi qua... giá cả phải chăng thôi, @TOÀN@ @BỘ@ số #yvàng của ngươi nhé! Heh Heh!\""
+    ],
+    "OPTIONS": [
+      "[Trả tiền] #rMất #rTOÀN #rBỘ số #yVàng của bạn.",
+      "[Đánh!]",
+      "[Tiếp tục]",
+      "[Bỏ đi]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Ghép Và Giữ!",
+    "DESCRIPTIONS": [
+      "\" #bMười #bhai lá bài! Ghép để nhận được chúng! #bNăm lần thử, không chơi lại. NL Ngươi đã sẵn sàng chưa? Hãy bắt đầu thôi!\"",
+      "Bạn hoàn thành trò chơi của gã yêu tinh và nhìn lên. NL Hắn biến mất rồi?",
+      "Một gã yêu tinh đang điên cuồng tráo bài trên bàn. Tên quái vật này có vẻ vô hại. Bạn tò mò tiến lại gần hắn ta."
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Bỏ đi]",
+      "[Chơi]",
+      "Số lần thử còn lại: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Nấm",
+    "DESCRIPTIONS": [
+      "Bạn khuất phục trước cơn thèm ăn bất thường. Khi bạn ăn hết cây nấm này đến cây nấm khác, bạn cảm thấy như mình đang dần choáng váng và ngất đi. Khi bạn tỉnh lại, bạn cảm thấy rất kỳ lạ. NL Bạn #gHồi #b25% HP nhưng bạn cũng bị #rnhiễm #rtrùng.",
+      "#r@Phục@ #r@kích!!@ NL Lũ gặm nhấm bị nhiễm trùng nấm đột nhiên xuất hiện!",
+      "Bạn bước vào một hành lang đầy rẫy những #b~cây~ #b~nấm~ #b~đa~ #b~sắc~ #b~mê~ #b~hoặc.~ NL Do bạn không chuyên sâu về môn nấm học, bạn không thể xác định được những mẫu vật này. NL Bạn muốn thoát khỏi đây nhưng lại cảm thấy thèm ăn #b~nấm~ một cách lạ thường..."
+    ],
+    "OPTIONS": [
+      "[Giẫm] #rChọc #rtức #rlũ #rNấm.",
+      "[Ăn] #gHồi #g",
+      " #gHP. #rBị #rNguyền #r- #rKý #rSinh #rTrùng.",
+      "[Chiến đấu]",
+      "[Bỏ đi]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Khối Cầu Bí Hiểm",
+    "DESCRIPTIONS": [
+      "Khi đang trồi lên khỏi địa hình hỗn loạn quanh mình, một khối cầu xương xẩu bao bọc một vật thể phát sáng bí ẩn ở bên trong. Dù bạn rất tò mò về thứ ở bên trong, bạn để ý thấy có vài chiếc tháp canh đang trông chừng khối cầu.",
+      "Ngay khi bạn đánh vào khối cầu, những tháp canh ở quanh bạn bắt đầu sống dậy!",
+      "Không cần phải tham lam."
+    ],
+    "OPTIONS": [
+      "[Mở khối cầu] #rChiến #rđấu. #gPhần #gthưởng: #gCổ #gvật #gHiếm.",
+      "[Bỏ đi]",
+      "[Chiến đấu]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "Một sinh vật kỳ lạ có cái lưng gù mọc ra nhiều xúc tu đang lục lọi một đống rác vụn trước mặt bạn. Khi lại gần, hắn lê chân về phía bạn một cách vô hại. NL \"N'loth đói. Cho N'loth ăn đi.\"",
+      "Khi cầm #ycổ #yvật hướng về phía hắn, N'loth dùng xúc tu giật nó khỏi tay bạn, làm trật khớp hàm mình và nhanh chóng nuốt trọn vật cúng của bạn trong một tợp. NL Hắn nở một nụ cười lớn đầy răng và những xúc tu xuất hiện ngày càng nhiều phía sau áo choàng của hắn, vung vẩy một chiếc hộp nhìn gọn gàng đến khó tin. Hắn dí chiếc hộp vào mặt bạn cho đến khi bạn cầm nó lên tay.",
+      "Bạn lắc đầu. N'loth cúi gằm xuống và thở dài rồi chạy đi."
+    ],
+    "OPTIONS": [
+      "[Dâng: ",
+      "] #rMất #rcổ #rvật #rnày. #gNhận #gmột #gcổ #gvật #gđặc #gbiệt.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Bỏ đi]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Miếu Thanh Tẩy",
+    "DESCRIPTIONS": [
+      "Trước mặt bạn là một ngôi miếu tinh xảo thờ linh hồn đã bị lãng quên.",
+      "Trong khi quỳ gối để tỏ lòng tôn kính, bạn cảm thấy gánh nặng đã được gỡ bỏ khỏi đôi vai mình.",
+      "Bạn bỏ qua ngôi miếu."
+    ],
+    "OPTIONS": [
+      "[Cầu nguyện] #gHủy #gmột #glá #gbài #gtrong #gchồng #gbài #gcủa #gbạn.",
+      "[Bỏ đi]",
+      "Chọn một lá Bài để Hủy."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Bãi Nhầy Phế Liệu",
+    "DESCRIPTIONS": [
+      "Khi bước vào căn phòng bạn nghe thấy tiếng ~ồng~ ~ộc~ và kim loại @nghiền@ @vào@ @nhau.@ Trước mặt bạn là một sinh vật dạng nhầy đã ăn quá nhiều sắt vụn. Bạn có thể thấy những tia sáng lạ lùng từ trong lõi của sinh vật này, thứ gì đó có ma thuật chăng? Có vẻ bạn có thể lấy được #ykho #ybáu nếu bạn thò tay vào... miệng của nó. Tuy nhiên, axit và những đồ vật sắc nhọn có lẽ sẽ gây #rđau #rđớn.",
+      "#r@Oái!@ NL Tất cả những gì bạn tìm thấy là kim loại hoen gỉ và #r@cơn@ #r@đau@ #r@bỏng@ #r@rát@ nhẹ. NL Tuy nhiên, bạn vẫn tin rằng có #ycổ #yvật trong đó...",
+      "#gThành #gcông! NL Sau khi lục lọi đống kim loại và axit bỏng rát, bạn cuối cùng cũng nắm được #ycổ #yvật và giật nó ra. NL Bạn bị #rthương nhưng đã rút được tay ra khỏi bãi nhầy và giành được chiến lợi phẩm.",
+      "Bạn quyết định rời khỏi khu vực này. NL Bãi nhầy không hề để ý, hài lòng với bữa ăn của nó."
+    ],
+    "OPTIONS": [
+      "[Thò tay vào] #rMất #r",
+      " #rHP. #g",
+      "%: #gTìm #gđược #gmột #gCổ #gvật.",
+      "[Bỏ đi]",
+      "[Sâu hơn] #rMất #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Cánh Cổng Bí Mật",
+    "DESCRIPTIONS": [
+      "Trước mắt bạn là một cảnh tượng nhìn có vẻ lạc quẻ giữa quang cảnh lạ lẫm xung quanh mình. Tại những bức tường sống của Chốn xa xôi, một chiếc #p~cổng~ #p~ma~ #p~thuật~ #p~xoáy~ hiện ra đầy kỳ lạ phía sau lối vào chạm trổ bằng đá. NL NL Bạn không rõ cánh cổng này dẫn đến đâu, nhưng nó có thể đẩy nhanh hành trình đi lên Tháp Xoáy của bạn.",
+      "Khi nhảy qua cánh cổng, ý thức về thời gian và không gian của bạn dường như biến mất NL NL Trong lúc định hình lại quang cảnh mới, bạn nhận ra rằng trước mắt là một trận đấu đáng sợ.",
+      "Để lên đến đỉnh của Tháp Xoáy thì cẩn trọng và cảnh giác dường như là cách tiếp cận tốt hơn. Mặc kệ cánh cổng, bạn đi tiếp."
+    ],
+    "OPTIONS": [
+      "[Bước vào cánh cổng] NGAY LẬP TỨC đến gặp quái trùm.",
+      "[Bỏ đi]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Đá Cảm Quan",
+    "DESCRIPTIONS": [
+      "Khi đang tìm đường đi qua Chốn Xa Xôi, bạn phát hiện một #bkhối #blập #bphương #bphát #bsáng đang nhẹ nhàng @xoay@ và ~biến~ ~hình~ trên không trung.",
+      "Bạn chạm vào nó. NL NL Một #r@cơn@ #r@đau@ #r@dữ@ #r@dội@ lan tỏa khắp người bạn, nối tiếp là những giây phút sống động trong một ký ức xa vời. NL ...những ký ức này là của ai?",
+      "#r~SỢ~ #r~HÃI.~ NL NL Một sinh vật quỷ quyệt đứng ngạo nghễ trước bạn, đôi cánh trải dài và rít lên những tiếng cười. Những thi thể của bộ tộc nằm đầy quanh bạn khi ngôi làng bị nhấn chìm trong #p~ngọn~ #p~lửa~ #p~đen~ kinh khủng. NL NL Con quỷ kêu lên, chế nhạo bạn. NL NL \" #r@NGƯƠI@ #r@THỰC@ #r@SỰ@ #r@LÀ@ #r@NGƯỜI@ #r@MẠNH@ #r@NHẤT@ #r@RỒI!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Tiếng cười này vang vọng không ngừng...",
+      "#g~CHIẾN~ #g~THẮNG.~ NL NL Hài cốt của một #p~sinh~ #p~vật~ #p~ma~ #p~mị~ dần chìm vào vũng bùn trước mặt bạn, mờ mờ ảo ảo dưới ánh trăng. Trong số những người chị em, bạn đã chứng tỏ được bản thân mình. NL NL Ngẩng cao đầu trước chiến thắng, bạn im lặng chờ đợi những người khác làm nghi thức đặt #ysọ #ycủa #ysinh #yvật này lên đầu bạn. Nghi lễ này đã kết thúc. NL NL Bạn đi về phía Tháp Xoáy...",
+      "#b~HỖN~ #b~LOẠN.~ NL NL #y[MỤC #yTIÊU] #gSỰ #gCÂN #gBẰNG #gphải #gđược #gTHẮT #gCHẶT NL #y[ĐỊNH #yNGHĨA] #gCÂN #gBẰNG NL #y[LỖI] #gKHÔNG #gTÌM #gTHẤY #gCÂN #gBẰNG NL #y[ĐỊNH #yNGHĨA] #gCÂN #gBẰNG NL #y[LỖI] #gKHÔNG #gTÌM #gTHẤY #gCÂN #gBẰNG NL #y[CẢNH #yBÁO] #rVật #rthể #rlớn #rđang #rtiếp #rcận NL NL ~\"Ta...~ ~..là~ ~....Neow..\"~",
+      "#p~THANH~ #p~THẢN.~ NL NL Hai sinh vật nguyên thủy tranh giành một cái xác ở bên đường. Bạn quan sát, không chút cảm xúc gì. NL #yQuan #ysát. #yGhi #ynhớ. #yTrải #ynghiệm. Đây là sứ mệnh của Vọng Giả. NL NL Gần đây, có một Vọng Giả đã dừng báo cáo về nhiệm vụ của mình: một Tháp Xoáy không rõ nguồn gốc. NL NL Khi trận đấu kết thúc, bạn đi tiếp, không hề bị lay động bởi cảnh tượng máu me đã diễn ra."
+    ],
+    "OPTIONS": [
+      "[Nhớ lại] #gThêm #g1 #glá #gbài #gKhông #gmàu #gvào #gchồng #gbài #gcủa #gbạn.",
+      "[Nhớ lại] #gThêm #g2 #glá #gbài #gKhông #gmàu #gvào #gchồng #gbài #gcủa #gbạn. #rMất #r",
+      "[Nhớ lại] #gThêm #g3 #glá #gbài #gKhông #gmàu #gvào #gchồng #gbài #gcủa #gbạn. #rMất #r",
+      " #rHP.",
+      "[Bỏ đi]",
+      "[Tương tác]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Ánh Sáng Chói Lóa",
+    "DESCRIPTIONS": [
+      "Bạn tìm thấy một #ykhối #yánh #ysáng lung linh bao trùm khoảng giữa của căn phòng. NL NL ~Hơi~ ~ấm~ và ~hoa~ ~văn~ ~mê~ ~hoặc~ của nó mời gọi bạn.",
+      "Khi bước qua ánh sáng, bạn thấy ánh sáng được hấp thụ vào người mình. NL Nó #r@nóng@ #r@như@ #r@thiêu@ #r@đốt@ ! Tuy nhiên, cơn đau nhanh chóng dịu bớt. NL Bạn cảm thấy #bđầy #bsinh #blực như thể nhận được một cú tát xứng đáng vậy.",
+      "Bạn đi vòng qua nó, tự hỏi điều gì đã có thể xảy ra."
+    ],
+    "OPTIONS": [
+      "[Bước vào] #gNâng #gcấp #g2 #glá #gbài #gngẫu #gnhiên. #rMất #r",
+      " #rHP.",
+      "[Bỏ đi]",
+      "[Bị khóa] Yêu cầu: Lá bài có thể nâng cấp được"
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Trái Tim Tháp Xoáy",
+    "DESCRIPTIONS": [
+      "@thình-thịch@ ... @thình-thịch@ ... @thình-thịch@ ... NL Có thể cảm nhận được nỗi khiếp sợ kinh hoàng bao trùm căn phòng này... NL Liệu đây có phải #r~trái~ #r~tim~ của Tháp Xoáy? Ngọn nguồn của tai ương này?",
+      "Bạn gây #b",
+      " sát thương! NL Trái tim #r@quằn@ #r@quại@ và #r~rỉ~ #r~máu~ ...nhưng cuối cùng thì vẫn đập. NL Những đòn tấn công mạnh mẽ nhất của bạn vẫn không đủ ư?",
+      "Bạn tự hỏi, ~\"Mình~ ~đã~ ~từng~ ~đến~ ~đây~ ~chưa?\"~ NL Bạn cảm thấy rằng mình đã gây tổng cộng #b",
+      " sát thương lên quả tim.",
+      " NL Những người thách thức nó đã gây tổng cộng #b",
+      " sát thương.",
+      " NL Quả tim đập ngày càng mạnh trong khi bạn dần #y~mất~ #y~tỉnh~ #y~táo...~",
+      "NL Bạn rút kiếm...",
+      "NL Bạn rút dao...",
+      "NL Bạn tụ lõi của mình đến mức tối đa...",
+      "Bạn tự hỏi, ~\"Mình~ ~đã~ ~từng~ ~đến~ ~đây~ ~chưa?\"~",
+      " NL Quả tim đập ngày càng mạnh trong khi bạn dần #p~bắt~ #p~đầu~ #p~mất~ #p~tỉnh~ #p~táo...~",
+      " NL Đột nhiên một luồng #y@năng@ #y@lượng@ tỏa ra từ bên trong bạn, #b@khiến@ bạn thức tỉnh.",
+      " NL Quả tim #grút #gvề phần trên tòa tháp! Một cánh cửa lớn hiện ra thế chỗ của nó.",
+      "NL Bạn chuẩn bị sẵn cây gậy của mình với năng lượng Phật pháp..."
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Tấn công] #b???",
+      "[Ngủ]",
+      "[Đền gần cánh cửa]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "Linh Mục",
+    "DESCRIPTIONS": [
+      "Một sinh vật lạ màu xanh có hình dáng giống như con người đội mũ giáp bằng vàng(?) tiến gần tới bạn và nở một nụ cười thật to. NL Sinh vật này hét lớn rằng: @\"Xin@ @chào@ @bạn@ @hiền!@ @Ta@ @là@ @Linh@ @mục!@ Ngươi có hứng thú với các dịch vụ của ta không?!\".",
+      "Một thứ ánh sáng vàng ấm áp bao trùm lấy cơ thể bạn và tan biến. NL Sinh vật này mỉm cười. \"Linh mục là người chữa lành giỏi nhất. @Chúc@ @một@ @ngày@ @tốt@ @lành@ @nhé!\"@",
+      "Một ngọn lửa xanh lam lạnh lẽo bao trùm cơ thể bạn và tan biến. NL Sinh vật này mỉm cười. \"Linh mục tài năng. @Chúc@ @một@ @ngày@ @tốt@ @lành@ @nhé!\"@",
+      "Bạn không tin tưởng gã #b\"Linh #bmục\" này nên bạn bỏ đi."
+    ],
+    "OPTIONS": [
+      "[Hồi máu] #y35 #yVàng: #gHồi #g",
+      "[Bị khóa] Yêu cầu: ",
+      " Vàng.",
+      "[Thanh tẩy] #y",
+      " #yVàng: #gHủy #gmột #glá #gbài #gtrong #gbộ #gcủa #gbạn.",
+      "[Bị khóa] Yêu cầu: 50 Vàng.",
+      "[Bỏ đi]",
+      "Chọn một lá Bài để Hủy.",
+      " #gHP."
+    ]
+  },
+  "The Joust": {
+    "NAME": "Trận Thương Đấu",
+    "DESCRIPTIONS": [
+      "Khi đang băng qua những khu nhà lớn, bạn bắt gặp một cây cầu vừa dài vừa hẹp và trông thấy hai kỵ sĩ đang đối mặt nhau ở hai đầu cầu. Bạn lại gần... NL @\"Dừng@ @lại!\"@ NL NL Vị kỵ sĩ khua cây thương ngăn bạn đi tiếp.",
+      "\"Hôm nay là ngày ta phải trả mối thù với #rtên #rsát #rnhân đã sát hại #yNoodles, thú cưng của ta. Cho đến khi đó, ngươi không được đi qua. NL NL Hỡi nhân chứng, sao ngươi không thử #bcược xem ai sẽ thắng?\"",
+      "\"Sao ngươi có thể không tin vào #yNoodles chứ!\" NL NL Trong cơn căm phẫn, vị hiệp sĩ thắt chặt mũ giáp và xông thẳng vào tử thù.",
+      "\"Hãy ban cho ta sức mạnh, #yNoodles!\" NL NL Sau khi thắt chặt mũ giáp, vị hiệp sĩ xông lên phía trước.",
+      "NL #y@*RẦM!!!*@ #r@*CHOAAAANG!*@ NL NL #g@*BÙM!*@",
+      "Kẻ tử thù đã bị giết. NL NL ",
+      "Người chủ đã chết. NL NL ",
+      "Bạn đã #gthắng cược. Trong lúc bối rối, bạn cầm tiền và bỏ đi.",
+      "Bạn đã #rthua cược, nhưng ít ra bạn không bị đâm trọng thương."
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Tên sát nhân] #yCược #y",
+      " #yVàng - #g70%: #gchiến #gthắng #g",
+      " #gVàng.",
+      "[Người chủ] #yCược #y",
+      " #yVàng - #g30%: #gchiến #gthắng #g",
+      "[Xem]",
+      "[Bỏ đi]"
+    ]
+  },
+  "The Library": {
+    "NAME": "Thư Viện",
+    "DESCRIPTIONS": [
+      "Bạn đi qua một tòa nhà dường như bị bỏ hoang nhưng được trang trí công phu. NL Một tấm bảng bị xé rách khỏi tường nằm trên sàn nhà. Nó ghi, #b\"THƯ #bVIỆN\". NL Bên trong, bạn tìm thấy vô số giá sách để cuộn giấy, bản thảo và sách. NL Bạn chọn một quyển và ngồi thoải mái trên ghế để tận hưởng khoảng thời gian yên tĩnh.",
+      "Chỉ có bọn ngu mới đi đọc sách. NL Thay vào đó, bạn ngủ trên chiếc ghế thoải mái. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Bạn thức dậy và cảm thấy thật sảng khoái.",
+      "Câu chuyện kể về một cô gái tuổi teen có khả năng kiểm soát côn trùng khao khát trở thành anh hùng. Cuốn sách chứa đầy những cách sử dụng sức mạnh sáng tạo, chiến lược chiến đấu và những góc nhìn khác nhau. NL Thật thỏa mãn.",
+      "Câu chuyện kể về một người đàn ông đã du hành qua các vì sao và bị mắc kẹt trên một hành tinh xa lạ. Anh ta đã phải sử dụng sự khéo léo, may mắn, kiên trì và óc hài hước nhằm giữ sự tỉnh táo của mình để trở về nhà. NL Thật hấp dẫn.",
+      "Câu chuyện diễn ra trong một tòa nhà biệt lập khổng lồ dưới lòng đất khi môi trường bên ngoài trở nên khắc nghiệt. Cuốn tiểu thuyết đầy những âm mưu, tuyên truyền và sự bất công. Bạn tự hỏi liệu trong Tháp Xoáy cũng có mối tương quan như trong truyện không. NL Thật rùng mình."
+    ],
+    "OPTIONS": [
+      "[Đọc] #gChọn #g1 #gtrong #g20 #glá #gđể #gthêm #gvào #gbộ #gbài #gcủa #gbạn.",
+      "[Ngủ] #gHồi #g",
+      " #gHP.",
+      "[Bỏ đi]",
+      "Thêm một lá vào bộ bài của bạn."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "Lăng Mộ",
+    "DESCRIPTIONS": [
+      "Khi đang đi qua hầm mộ, bạn thấy một chiếc quan tài lớn ~chạm~ ~trổ~ ~đầy~ ~ngọc~ ở giữa một căn phòng hình tròn. NL Bạn không đọc được chữ viết trên quan tài, tuy nhiên, bạn để ý có sương mù đen tỏa ra từ phía bên.",
+      "Bạn mở quan tài. Trong lúc đó, #p~sương~ #p~mù~ #p~đen~ phun ra và bao phủ toàn bộ căn phòng! Bên trong, bạn không thấy bộ hài cốt nào mà chỉ có một #y~cổ~ #y~vật.~ Bạn lấy nó và vừa tiếp tục hành trình, vừa #r@ho@ #r@dữ@ #r@dội.@",
+      "Bạn mở quan tài. Làn sương mù tan biến một cách vô hại. Bên trong, bạn tìm thấy hài cốt của một người lính đầy huy chương đang nắm lấy một #ycổ #yvật cũ. Bạn đánh cắp nó và đi tiếp.",
+      "Bạn tiếp tục hành trình, để cho những người chết bị quên lãng ngủ yên."
+    ],
+    "OPTIONS": [
+      "[Mở quan tài] #gNhận #gmột #gCổ #gvật. #r",
+      "%: #rBị #rNguyền #r- #rQuằn #rquại.",
+      "[Bỏ đi]"
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "Đầu Moai",
+    "DESCRIPTIONS": [
+      "Bạn vô tình tìm thấy một thứ nhìn *rất* lạc quẻ. Trước mắt bạn, một cái đầu đá khổng lồ xuất hiện từ một đoạn tường lớn không dịch chuyển và thay đổi như phần còn lại của khu vực này. NL Mồm của cái đầu đang há to, lộ ra những chiếc răng lớn đáng sợ nhuộm đỏ máu. Bề mặt của bức tượng đầy các chữ tượng hình dường như cho thấy có người ném mình vào miệng của cái đầu này và bị nuốt chửng. Tại sao lại có người muốn bị như thế chứ?",
+      "Đầu tiên khi bạn đi vào bên trong mồm của bức tượng, chẳng có gì xảy ra. Khi bạn bắt đầu cảm thấy mình thật ngốc nghếch, hàm răng khổng lồ dập xuống từ phía trên, nghiền nát người bạn. NL @Tối@ @đen.@ NL Một lúc sau, từ trong bóng tối, bạn thấy chút ánh sáng và nghe thấy âm thanh mà bạn dần nhận ra là của những chiếc răng đang dần dần nhô lên. NL NL NL Bạn đi tiếp trong bối rối.",
+      "Bạn nhảy lùi lại một chút khi những cái răng khổng lồ dập nát bức tượng, nghiền nó thành tro bụi. Trong lúc những cái răng bắt đầu lại nhô lên, #yvàng tuôn ra từ miệng lỗ và bạn chìm ngập trong của cải.",
+      "Bạn bỏ đi, tự hỏi điều gì đã có thể xảy ra."
+    ],
+    "OPTIONS": [
+      "[Nhảy vào trong] #gHồi #gđầy #gHP. #rMất #r",
+      " #rHP #rtối #rđa.",
+      "[Dâng: Tượng vàng] #gNhận #g333 #gVàng. #rMất #rTượng #rvàng.",
+      "[Bị khóa] Yêu cầu: Tượng vàng.",
+      "[Bỏ đi]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "Người Đàn Bà Áo Xanh",
+    "DESCRIPTIONS": [
+      "Từ trong bóng tối, có cánh tay kéo bạn vào một cửa hàng nhỏ. Khi nhìn kĩ, bạn thấy một người phụ nữ xanh xao trong bộ quần áo sắc xảo đang chỉ vào một bức tường toàn bình dược. NL \"Mua lọ dược đi. Nhanh lên!\" cô ta nói.",
+      "\"Tốt. Giờ đi đi.\" NL Bạn ra khỏi cửa hàng một cách thận trọng.",
+      "#r@BỘP@ NL Bàn tay đeo găng của cô ta đập vào mặt bạn, suýt nữa khiến bạn ngã gục. NL \"Biến khỏi đây trước khi ta moi nát ruột ngươi.\" Bạn tin lời cô ta và đi ra, ruột vẫn còn nguyên trong người."
+    ],
+    "OPTIONS": [
+      "[Mua 1 bình dược] #y",
+      "[Mua 2 bình dược] #y",
+      "[Mua 3 bình dược] #y",
+      " #yVàng.",
+      "[Bỏ đi]",
+      "[Bỏ đi] #rNhận #r",
+      " #rSát #rthương."
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Thinking with Puddles",
+    "DESCRIPTIONS": [
+      "You walk into a shimmering puddle... and you drop out of the ceiling right above it! NL While in freefall, you consider your options.",
+      "You flail your arms in panic and unleash all of your hidden tricks to prevent yourself from injury. Instead, you fall into the puddle again... and again... and again. Days pass before you realize how to get out. Truly miserable.",
+      "You brace yourself for the landing but there is simply no good way to land when ejected from such a bizarre contraption. @THUD@ NL NL ...you lay there for a while, cursing the existence of puddles, both liquid and magical."
+    ],
+    "OPTIONS": [
+      "[Gooped] #rLose #ra #rrandom #rRare #rcard.",
+      "[Land Face First] #rTake #r",
+      " #rdamage. #rBecome #rCursed #r- #rInjury.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Mộ Lãnh Chúa Mặt Nạ Đỏ",
+    "DESCRIPTIONS": [
+      "Có thể nhìn thấy một ngôi mộ trang trí tinh xảo ở phía bên kia con đường nổi. Khi đến ngôi mộ, bạn để ý thấy có khe nhét #yvàng với dòng chữ đã bị gạch xóa ở trên.",
+      "Bạn đeo chiếc mặt nạ và ngôi mộ bắt đầu ~dịch~ ~chuyển...~ một lối đi bí mật! NL NL Lối đi chứa vô số đồ ăn cắp và một đống #yvàng!",
+      "Một khe hở trong hầm mộ mở ra và chiếc mặt nạ đỏ nhỏ nhắn dán một tờ giấy rơi ra ngoài. \"Hãy lấy từ những kẻ khác như ta đã lấy của ngươi!\""
+    ],
+    "OPTIONS": [
+      "[Đeo Mặt nạ đỏ] #gNhận #g222 #gVàng.",
+      "[Bị khóa] Yêu cầu: Mặt nạ đỏ.",
+      "[Dâng: ",
+      " Vàng] #rMất #rtất #rcả #rVàng. #gNhận #gmột #gCổ #gvật.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Miếu Biến Đổi",
+    "DESCRIPTIONS": [
+      "Trước mặt bạn là một ngôi miếu tinh xảo thờ linh hồn đã bị lãng quên.",
+      "Khi sức mạnh của ngôi đền chảy qua người, bạn cảm thấy tâm trí mình thay đổi.",
+      "Bạn bỏ qua ngôi miếu."
+    ],
+    "OPTIONS": [
+      "[Cầu nguyện] #gBiến #gđổi #gmột #glá #gbài.",
+      "[Bỏ đi]",
+      "Chọn một lá bài để biến đổi."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Miếu Nâng Cấp",
+    "DESCRIPTIONS": [
+      "Trước mặt bạn là một ngôi miếu tinh xảo thờ linh hồn đã bị lãng quên.",
+      "Dòng năng lượng của ngôi miếu chảy vào người bạn, khiến bạn khỏe hơn.",
+      "Bạn bỏ qua ngôi miếu."
+    ],
+    "OPTIONS": [
+      "[Cầu nguyện] #gNâng #gcấp #gmột #glá #gbài.",
+      "[Bỏ đi]",
+      "Chọn một lá bài để nâng cấp.",
+      "[Bị khóa] Yêu cầu: Bài có thể nâng cấp được"
+    ]
+  },
+  "Vampires": {
+    "NAME": "Ma Cà Rồng(?)",
+    "DESCRIPTIONS": [
+      "Khi đi qua một con phố không đèn, bạn bắt gặp nhiều người đội mũ trùm đầu đang thực hiện một nghi thức đen tối nào đó. Khi bạn lại gần, họ quay sang nhìn bạn, đồng thanh một cách đáng sợ. Kẻ cao nhất trong số họ nhe răng nanh và đưa bàn tay dài trắng nhợt về phía bạn. NL ~\"Hãy~ ~gia~ ~nhập~ ~bọn~ ~ta,~ ~người~ ~anh~ ~em,~ ~và~ ~tận~ ~hưởng~ ~hơi~ ~ấm~ ~của~ ~Tháp~ ~Xoáy.\"~",
+      "Khi đi qua một con phố không đèn, bạn bắt gặp nhiều người đội mũ trùm đầu đang thực hiện một nghi thức đen tối nào đó. Khi bạn lại gần, họ quay sang nhìn bạn, đồng thanh một cách đáng sợ. Người cao nhất trong số họ nhe răng nanh và đưa bàn tay dài trắng nhợt về phía bạn. NL ~\"Hãy~ ~gia~ ~nhập~ ~với~ ~bọn~ ~ta,~ ~người~ ~chị~ ~em,~ ~và~ ~tận~ ~hưởng~ ~hơi~ ~ấm~ ~của~ ~Tháp~ ~Xoáy.\"~",
+      "Tên cao kều nắm lấy tay bạn, kéo bạn về phía trước, và cắn ngập răng vào cổ của bạn. Bạn cảm thấy có @sức@ @mạnh@ @hắc@ @ám@ chảy vào cổ và @chạy@ @khắp@ cơ thể mình. NL ... NL Bạn tỉnh dậy một lúc sau, trơ trọi. Bụng bạn réo lên một ~cơn~ ~đói~ dữ dội. Bạn #rphải #răn...",
+      "Bạn lùi lại và giương vũ khí lên thách thức. Tên cao kều thở dài. \"Được thôi.\" Cả nhóm những kẻ đỗi mũ trùm đầu biến thành màn sương mù đen dày đặc bay đi mất. NL Chỉ còn mình bạn lại trơ trọi.",
+      "Những kẻ xanh xao há hốc mồm khi bạn rút ra #yỐng #ymáu. NL \"~Máu~ ~của~ ~chủ~ ~nhân...~ ~máu~ ~của~ ~chủ~ ~nhân!~ @MÁU@ @CỦA@ @CHỦ@ @NHÂN!\"@ NL Tất cả cùng nhiệt tình đồng thanh còn gã cao kều thì cúi đầu trước bạn. \"Hãy uống máu của Ngài, và trở thành một phần với #y~Ngài.\"~ NL Tiếng đồng thanh ngày càng to, bạn uống máu trong lọ. Ngay lập tức thị lực của bạn bị ~bóp~ ~méo~ rồi tối dần. NL NL Bạn tỉnh dậy một lúc sau, trơ trọi. Bụng bạn réo lên một ~cơn~ ~đói~ dữ dội. Bạn #rphải #răn.",
+      "Khi đi qua một con phố không đèn, bạn bắt gặp nhiều người đội mũ trùm đầu đang thực hiện một nghi thức đen tối nào đó. Khi bạn lại gần, họ quay sang nhìn bạn, đồng thanh một cách đáng sợ. Người cao nhất trong số họ nhe răng nanh và đưa bàn tay dài trắng nhợt về phía bạn. NL ~\"Hãy~ ~gia~ ~nhập~ ~với~ ~bọn~ ~ta,~ ~kẻ~ ~tật~ ~nguyền,~ ~và~ ~tận~ ~hưởng~ ~hơi~ ~ấm~ ~của~ ~Tháp~ ~Xoáy.\"~"
+    ],
+    "OPTIONS": [
+      "[Chấp nhận] #gHủy #gtất #gcả lá Đánh. #gNhận #g5 Cắn. #rMất #r",
+      " #rHP #rtối #rđa.",
+      "[Từ chối]",
+      "[Mất ",
+      "] #gHủy #gtất #gcả lá Đánh. #gNhận #g5 Cắn.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Chiếc Nón Kỳ Diệu",
+    "DESCRIPTIONS": [
+      "Bạn gặp một con yêu tinh nhìn bảnh bao và vui vẻ. NL \"Đến lúc xoay vòng quay rồi! ~S~ ~Ẵ~ ~N~ ~S~ ~À~ ~N~ ~G~ ~C~ ~H~ ~Ư~ ~A~ ~?~ Đương nhiên là rồi!\"",
+      "\"Ngươi trúng được #yVàng rồi! NL YAY!!!!\"",
+      "\"À, một #gmón #gquà! NL Chúc vui!\"",
+      "\"Ồ, #gHồi #gmáu miễn phí cho ngươi!\"",
+      "\"Ngươi trúng giải #pLời #pnguyền rồi! NL Không tốt chút nào. NL Ôi thôi! Chúc may mắn lần sau!\"",
+      "\"Ồồ, sức mạnh của #r~bóng~ #r~tối...~ NL Hãy chọn một lá bài mà ngươi muốn hủy!\"",
+      "\"Úi chà! NL Ngươi thua rồi!\" NL Bạn để ý thấy hắn đang rút dao găm ra...",
+      "Bạn chém tên yêu tinh điên rồ nhưng hắn quá nhanh! NL Hắn đâm được bạn vài lần với chiếc dao găm thô sơ. NL \"Cái giá đã được trả!!\" NL và như thế, cả tên yêu tinh và chiếc vòng quay biến mất trong làn khói."
+    ],
+    "OPTIONS": [
+      "[Chơi]",
+      "[Phần thưởng!] YAY!!!!",
+      "[Phần thưởng!] #gNhận #gmột #gcổ #gvật.",
+      "[Phần thưởng!] #gHồi #gtoàn #gbộ #gmáu.",
+      "[Phần thưởng?] #rLời #rnguyền #r- #rMục #rRữa.",
+      "[Phần thưởng!] #gHủy #gmột #glá #gkhỏi #gbộ #gbài #gcủa #gbạn.",
+      "[Phần thưởng?] #rMất #r",
+      " #rHP.",
+      "[Bỏ đi]",
+      "Chọn một lá Bài để Hủy."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Hành Lang Quanh Co",
+    "DESCRIPTIONS": [
+      "Khi bạn đang chậm rãi đi qua những con đường ngoằn ngoèo, bạn liên tục thấy mình lạc lối vì những bức tường và mặt đất dường như chuyển động trước mắt bạn một cách không thể giải thích nổi. NL NL Những #p~giọng~ #p~nói~ #p~thì~ #p~thầm~ trong đầu bạn càng không giúp ích được gì.",
+      "Khi đi qua một công trình mà bạn chắc chắn đã nhìn thấy rồi, bạn bắt đầu tự hỏi liệu mình có đang dần mất trí, hay đó là do địa hình vô lý của nơi này bắt đầu ảnh hưởng đến bạn. Bạn cần phải thay đổi thứ gì đó thật sớm. NL NL Những #p~giọng~ #p~nói~ bảo ta làm vậy, mà chúng thì có lí do gì để nói dối chứ?",
+      "Có gì đó trong bạn vỡ vụn. NL NL Chỉ những kẻ điên thật sự mới có thể hiểu một nơi như thế này, nên bạn chấp nhận những giọng nói lách cách và tiếp tục hành trình với một góc nhìn #p~\"mới\".~ NL Mọi thứ có vẻ hợp lý hơn rồi.",
+      "Sau khi dành một chút thời gian để dừng lại và quan sát cẩn thận quang cảnh nhấp nhô xung quanh bạn, những quy luật dường như bắt đầu xuất hiện từ sự ngẫu nhiên. Bất cứ khi nào những tiếng ồn điên loạn bắt đầu làm gián đoạn suy nghĩ của bạn, bạn phải vật lộn với nỗi đau tinh thần và ngó lơ nó. NL NL Cuối cùng, bạn vạch ra thành công một con đường phía trước, và tiếp tục, giờ đây đã kháng cự được bản chất hung ác của nơi xa lạ này.",
+      "Bạn dường như đã mất cả một đời đi lạc trong mê cung. Dần dần nhưng chắc chắn, bạn tìm lại được hướng đi của mình, định hướng lại bản thân và thoát ra khỏi đoạn đường rối rắm quanh co này. NL NL Bạn cảm thấy trải nghiệm này thật #r~mệt~ #r~mỏi.~"
+    ],
+    "OPTIONS": [
+      "...",
+      "[Chấp nhận điên loạn] #gNhận #g2 Điên Loạn. #rMất #r",
+      " #rHP.",
+      "[Tập trung] #rBị #rNguyền #r- #rQuằn #rQuại. #gHồi #g",
+      "[Bỏ đi]",
+      " #gHP.",
+      "[Lùi bước] #rMất #r",
+      " #rHP #rtối #rđa."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Thế Giới Nhầy Nhụa",
+    "DESCRIPTIONS": [
+      "Bạn ngã vào một vũng nước. NL @DƯỚI@ @NƯỚC@ @TOÀN@ @LÀ@ @NHẦY!!@ NL Trong lúc hoảng loạn, bạn mất vài phút để bò ra ngoài và thấy nhầy bắt đầu thiêu đốt. NL Bạn có thể cảm thấy nhầy ở trong tai, nhầy ở trong mũi, nhầy khắp mọi nơi. NL NL Sau khi bò được ra ngoài, bạn nhận ra mình đã mất một ít #yvàng. Quay lại nhìn vào vũng nhầy, bạn thấy tiền của mình bị trộn lẫn cùng với số #yvàng từ những kẻ phiêu lưu không may mắn khác.",
+      "Cảm thấy đau nhói khi để tay trong vũng nhầy quá lâu và bắt đầu ăn mòn da của bạn, bạn cuối cùng cũng lấy được #yvàng ra.",
+      "Bạn quyết định rằng mớ nhầy nhụa này không đáng công sức phải bỏ ra."
+    ],
+    "OPTIONS": [
+      "[Nhặt Vàng] #gNhận #g",
+      " #gVàng. #rMất #r",
+      " #rHP.",
+      "[Bỏ lại] #rMất #r",
+      " #rVàng.",
+      "[Bỏ đi]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Nở Não",
+    "DESCRIPTIONS": [
+      "Trong khi đi bộ và băng qua chốn hỗn loạn trong Tháp Xoáy, những suy nghĩ của bạn đột nhiên bắt đầu có cảm giác vô cùng... #p~thật...~ NL NL Những hình ảnh tưởng tượng về #rquái #rvật và #rcủa #rcải bắt đầu biến thành hiện thực. NL Cảm giác này đang nhanh chóng lướt qua. Bạn làm gì đây?",
+      "Liệu có thật sự dễ dàng thế này không?",
+      "Giờ đây mọi thứ đã rõ ràng. NL Việc mất trí nhớ, leo tháp, #yThần #yCổ #yĐại. NL NL Mọi thứ đã luôn như vậy. NL Mọi thứ sẽ luôn như vậy. NL Tất cả rồi sẽ lại sớm bị quên lãng thôi..."
+    ],
+    "OPTIONS": [
+      "[Ta là Chiến tranh] #rĐánh #rmột #rquái #rTrùm #rtrong #rHồi #r1. #gNhận #gmột #gCổ #gvật #gHiếm.",
+      "[Ta là Giàu có] #gNhận #g999 #gVàng. #rBị #rNguyền #r- #r2 #rlá #rChuẩn #rTắc.",
+      "[Ta là Khỏe mạnh] #gHồi #gđầy #gHP. #rBị #rNguyền #r- #rHoài #rNghi.",
+      "[Ta đã Thức tỉnh] #gNâng #gcấp #gtoàn #gbộ #gBài. #rBạn #rkhông #rthể #rhồi #rphục #rHP #rnữa.",
+      "[Bỏ đi]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Sào Huyệt",
+    "DESCRIPTIONS": [
+      "Có thể nhìn thấy một hàng dài #b~những~ #b~kẻ~ #b~trùm~ #b~đầu~ đang đi vào một #pnhà #pthờ #pgiản #pdị.",
+      "Theo lẽ thường tình, bạn xếp hàng và nhanh chóng bị #rNhững #rkẻ #rcuồng #rtín bao vây! NL Trong lúc vui vẻ @cầu@ @tụng@ và ~vung~ ~vẩy~ vũ khí, chúng phớt lờ bạn. NL NL #r@\"GIẾT!!@ #r@GIẾT@  #r@GIẾT!!\"@ NL #b~\"QUÁC~ #b~QUÁC~ #b~QUÁÁÁÁCCC!\"~ NL #r@\"GIẾT!@ #r@GIẾT@ #r@GIIẾT!!\"@ NL #b~\"QUÁÁC~ #b~QUÁC~ #b~QUÁÁÁÁÁCC!!\"~ NL NL Bạn để ý thấy một #ychiếc #yHòm #yQuyên #ygóp...",
+      "Bạn quyết định đứng im trong hàng (vì sợ) để xem chuyện gì sẽ xảy ra. NL NL Cuối cùng, bạn cũng đối mặt với tên thủ lĩnh. Một kẻ cuồng tín ăn mặc bảnh bao đưa cho bạn một #yCon #ydao #yTinh #yxảo. Như những kẻ trước bạn, bạn cắt cẳng tay mình và để máu chảy vào một cái bát méo mó. NL NL Những kẻ cuồng tín cầu tụng và hò reo vì bạn! NL NL #b~\"QUÁÁC~ #b~QUÁC~ #b~QUÁÁÁÁÁCC!!\"~ NL NL Bạn cũng cầu tụng. Sao lại không chứ?",
+      "Chúng thậm chí còn không để ý.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Đứng trong hàng] #gNhận Dao Tế Lễ. #rMất #r",
+      " #rHP.",
+      "[Đập vỡ và cướp] #gNhận #g",
+      " #gVàng.",
+      "[Bỏ đi]",
+      "[Tiếp tục]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Thương Nhân Đa Diện",
+    "DESCRIPTIONS": [
+      "Bạn đi qua một bức tượng kỳ quái cầm trên tay những chiếc mặt nạ... NL Có thứ gì đó khẽ thì thầm từ phía sau bạn, NL ~\"Dừng~ ~lại.\"~",
+      "Bạn quay lại để xem bức tượng giờ đây đang nhìn thẳng mặt bạn! NL Khi quan sát kĩ hơn, đó không phải là bức tượng mà là một người đàn ông gầy gò trông như bức tượng. Gã ta thậm chí có còn thờ không vậy? NL NL ~\"Mặt.~ ~Hãy~ ~để~ ~ta~ ~chạm~ ~vào~ ~nhé.?~ ~Có~ ~thể~ ~đổi?\"~",
+      "~\"Bồi~ ~thường?~ ~Bồi~ ~thường.\"~ NL Một cách máy móc, hắn lôi ra một xấp #yvàng ngay ngắn và đặt vào túi của bạn. NL NL ~\"Thật~ ~là~ ~một~ ~khuôn~ ~mặt~ ~tuyệt~ ~vời.~ ~Khuôn~ ~mặt~ ~tuyệt~ ~vời.\"~ NL Khi hắn sờ vào khuôn mặt của bạn, bạn bắt đầu cảm thấy sức sống bị hút đi mất! NL Trong lúc này, mặt nạ của gã ta rơi xuống và vỡ vụn. Hắn nhanh chóng che mặt bằng toàn bộ sáu cánh tay của mình trong khi la hét, thậm chí làm rơi thêm nhiều mặt nạ hơn nữa! Giữa những tiếng hét và rơi vỡ, bạn bỏ trốn. NL NL Khuôn mặt của gã ta hoàn toàn trống trơn.",
+      "~\"Cho~ ~ta~ ~ư?~ @CHO@ @TA@ @Ư?@ ~Ồ~ ~tuyệt~ ~vời.~ ~Tuyệt~ ~vời.~ ~Tuyệt~ ~vời..~ ~mmm...\"~ NL NL Bạn nhìn thấy một cánh tay của hắn ta lập lòe và khuôn mặt của bạn nằm trong bàn tay hắn! Khuôn mặt của bạn đã bị hoán đổi. NL NL ~Mặt~ ~tốt.~ ~Mặt~ ~tốt.\"~",
+      "~\"Dừng~ ~lại.~ ~\"Dừng~ ~lại.~ ~\"Dừng~ ~lại.~ ~\"Dừng~ ~lại.~ ~\"Dừng~ ~lại.\"~ NL NL Đây có lẽ là lựa chọn đúng đắn."
+    ],
+    "OPTIONS": [
+      "[Chạm] #rMất #r",
+      " #gVàng.",
+      "[Trao đổi] #g50%: #gMặt #gtốt. #r50%: #rMặt #rxấu.",
+      "[Bỏ đi]",
+      "[Tiếp tục]",
+      " #rHP, #gnhận #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "Mẩu Giấy Nhắn Nhủ Bản Thân",
+    "DESCRIPTIONS": [
+      "Bạn phát hiện một viên gạch lung lay bên trong cây cột và thu hút sự chú ý của bạn.",
+      "Bạn tìm thấy một tờ giấy nhắn đã gập lại và một #ylá #ybài ở trong. Tờ giấy ghi rằng, NL \"Quả Tim đang chờ đợi.\" NL NL Đây là nét chữ của bạn.",
+      "Chọn một lá Bài để Lưu trữ.",
+      "Chuyện gì đang xảy ra vậy?"
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Cho và nhận] #gNhận ",
+      " #gvà #gLưu #ggiữ #gmột #glá #gBài.",
+      "[Bỏ qua]",
+      "[Bỏ đi]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "Ta Lại Gặp Nhau Rồi!",
+    "DESCRIPTIONS": [
+      "\"Ta lại gặp nhau rồi!\" NL Một gã nhếch nhác vui vẻ hồ hởi tiếp cận bạn. Bạn không biết gã này. NL NL \"Là tôi, #yRanwid đây! Hôm nay có đồ gì cho tôi không? Như mọi khi? Một kẻ như tôi không thể đi một mình được, cậu biết chứ?\" NL Bạn nhìn hắn ta nghi ngờ và cân nhắc lựa chọn của mình...",
+      "\"Tuyệt vời! Khan quá đi mất.\" NL #b~Ực~ #b~ực~ #b~ực~ NL NL Gã ta tu ực hết bình dược rồi @ợ@ một cách thỏa mãn",
+      "\"Tuyệt hảo! Thứ này sẽ rất tiện nếu tôi lại gặp phải mấy tên #rlưu #rmanh #rđeo #rmặt #rnạ kia.\"",
+      "\"Thật mẫu mực! Tôi sẽ nghiên cứu thêm trong phòng riêng.\"",
+      "\" @Aaaaagghh!!@ Cậu đôi lúc khốn kiếp thật mà!\" NL Gã ta chạy đi.",
+      "  NL NL Gã ta mò đồ trong túi đựng của mình... NL \"Đây, xem hôm nay tôi có gì cho cậu này! Lấy đi lấy đi!\""
+    ],
+    "OPTIONS": [
+      "[Đưa Bình dược] #rMất ",
+      "[Bị khóa] Yêu cầu: Bình dược.",
+      "[Đưa Vàng] #rMất #r",
+      "[Bị khóa] Yêu cầu: Ít nhất 50 Vàng.",
+      "[Đưa bài] #rMất ",
+      "[Bị khóa] Yêu cầu: Bài.",
+      ". #gNhận #gmột #gCổ #gvật.",
+      "[Tấn công]",
+      "[Bỏ đi]",
+      " #rVàng"
+    ]
+  },
+  "Designer": {
+    "NAME": "Nhà Thiết Kế Trong Tháp Xoáy",
+    "DESCRIPTIONS": [
+      "Bạn phát hiện ra một cửa hàng #g~rực~ #g~rỡ~ #g~sắc~ #g~màu~ với biển hiệu \"TRONG THÁP XOÁY\" và bước vào để xem có gì bên trong. NL \"Không, không đời nào. Không. Không thể để ngươi vào được!\" NL NL Một gã mặc bộ trang phục nực cười xuất hiện ở lối vào để ngăn bạn.",
+      "\"Không không, thế này không được. Phong cách gì thế này? @Thật@ @tởm@ @lợm!@ Ngươi đang #rchảy #rmáuuuu sao? #p~Tởmmm~ #p~quá.~ @Làm@ @ăn@ @sao??@ Ngươi là khách hàng sao? Được rồi. ~Saooo~ ~cũng~ ~được.\"~ NL Gã thở dài một cách thái quá và chỉ vào danh sách dịch vụ. NL NL Những dịch vụ này có vẻ ổn, nhưng bạn thà đấm vào khuôn mặt tự mãn cùa gã tự phụ này còn hơn.",
+      "\"Được rồi, tạm biệt nhé.\" NL NL ...đáng lẽ nên đấm gã ta.",
+      "Bạn đấm hắn mạnh đến mức đau cả tay. NL @\"MẶT@ của ta!! Giờ ta sẽ phải-\" NL NL Hắn ngất đi. Giờ thì ai mới #p~tởmmm~ và #rchảy #rmáuuuu đây?"
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Chỉnh sửa] #rMất #r",
+      "[Dọn dẹp] #rMất #r",
+      "[Dịch vụ đầy đủ] #rMất #r",
+      "[Đấm] #rMất #r",
+      " #rHP.",
+      " #rVàng. ",
+      "#gNâng #gcấp #g",
+      " #glá #gbài #gngẫu #gnhiên.",
+      "#gNâng #gcấp #gmột #glá #gbài.",
+      "#gHủy #gmột #glá #gbài.",
+      "#gBiến #gđổi #g",
+      " #glá #gbài.",
+      "#gHủy #gmột #glá #gbài #gvà #gnâng #gcấp #gmột #glá #gbài #gngẫu #gnhiên.",
+      "[Bỏ đi]",
+      "Chọn một lá Bài để Nâng cấp",
+      "Chọn 2 lá Bài để Biến đổi",
+      "Chọn một lá Bài để Hủy"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "Đấu Trường",
+    "DESCRIPTIONS": [
+      "@Bụp!!!@ NL .. NL ...... NL ... NL ~Bạn~ ~bị~ ~đánh~ ~bất~ ~tỉnh...~",
+      "~Lảo~ ~đảo~ và đầu @đau@ @dữ@ @dội,@ bạn tỉnh lại và nhận ra mình đã bị quăng vào giữa một sân đấu lớn với lượng khán giả đông đảo đầy rẫy những #bKẻ #bbuôn #bnô #blệ, #pKẻ #ptheo #pđạo và các thần dân khác của Thành Phố! NL ",
+      " NL Một gã khổng lồ mặc giáp với chiếc vương miện vàng rống lên từ phía trên, NL @\"GIỜ@ @CHÚNG@ @TA@ @BẮT@ @ĐẦU@ @TRẬN@ @CHIẾN@ @THỨ@ @",
+      "\"@ NL Một cánh cửa ở phía đối diện mở ra...",
+      "@\"LÀM@ @TỐT@ @LẮM,@ @ĐỒ@ @YẾU@ @ĐUỐI!\"@ NL Gã khổng lồ vỗ tay chế giễu trong khi hô hào đám đông với những cử chỉ thái quá. NL #y~Vàng~ ~và~ ~pháo~ ~giấy~ ~rơi~ ~đầy~ ~người~ ~bạn!~ NL @\"ĐẾN@ @LÚC@ @THỬ@ @THÁCH@ @THỰC@ @SỰ@ @RỔI!!\"@ NL NL Trận đấu vừa rồi đã để lại một lỗ hổng nhỏ trên bức tường của Đấu trường, bạn có thể dễ dàng trốn thoát từ đó trong khi mọi người đang xao nhãng. NL Bạn có ở lại và chiến đấu không?"
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Chiến đấu]",
+      "[HÈN NHÁT] Bỏ chạy.",
+      "[CHIẾN THẮNG] Một trận đấu khốc liệt với nhiều phần thưởng."
+    ]
+  }
+}

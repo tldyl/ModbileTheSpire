@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Toorn",
+    "DESCRIPTION": [
+      "Je Aanvallen richten dubbele schade aan, maar je ontvangt ook dubbele schade van aanvallen."
+    ]
+  },
+  "Calm": {
+    "NAME": "Kalmte",
+    "DESCRIPTION": [
+      "Bij het verlaten van deze #yHouding, krijg [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Goddelijkheid",
+    "DESCRIPTION": [
+      "Bij het overgaan in deze #yHouding, krijg [W] [W] [W] . Aanvallen richten drie keer zoveel schade aan. Verlaat deze #yHouding aan het begin van je volgende beurt."
+    ]
+  }
+}

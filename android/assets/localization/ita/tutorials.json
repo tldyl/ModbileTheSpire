@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Gli scarti vengono mescolati nella pila quando questa si svuota. NL NL Clicca per vedere le carte negli scarti.",
+      "Gli scarti vengono mescolati nella pila quando questa si svuota. NL NL Guarda le carte negli scarti."
+    ],
+    "LABEL": [
+      "Scarti"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Ad inizio turno, NL Peschi #b",
+      " carte da qui. NL NL Clicca per vedere le carte nella pila (in ordine casuale).",
+      " carte da qui. NL NL Clicca per vedere le carte nella pila.",
+      " carte da qui. NL NL Guarda le carte nella pila (in ordine casuale).",
+      " carte da qui. NL NL Guarda le carte nella pila."
+    ],
+    "LABEL": [
+      "Pila"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Premi questo pulsante per finire il turno. NL NL Scarterai la Mano ed i nemici agiranno. Dopo pescherai ",
+      " carte e sarà di nuovo il tuo turno."
+    ],
+    "LABEL": [
+      "Fine Turno"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "L'energia che hai al momento. Per giocare le tue carte hai bisogno di energia."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Hai bisogno di energia per giocare le tue carte! NL Questa sfera in basso a sinistra indica quanta energia ti rimane."
+    ],
+    "LABEL": [
+      "Costo di Energia"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Clicca per vedere le carte Esaurite durante il combattimento.",
+      "Guarda le carte Esaurite durante il combattimento."
+    ],
+    "LABEL": [
+      "Carte Esaurite"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Suggerimento: ",
+      "Capito"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Sconfiggi i nemici giocando le tue carte. NL NL Per farlo, hai bisogno di #yEnergia. NL Una volta finita l'energia, passa il turno. NL NL Ad inizio turno, peschi nuove carte e la tua #yEnergia è ripristinata.",
+      "#yBlocchi gli attacchi nemici giocando carte difensive. NL NL Il #yBlocco riduce il danno in arrivo, ma NL #rsvanisce ad inizio turno.",
+      "Nel tuo turno, puoi vedere #yl'Intento dei nemici sopra di loro. NL NL Se un nemico intende attaccare, assicurati di #yBloccare!"
+    ],
+    "LABEL": [
+      "Prossimo",
+      "Sono Pronto!",
+      "Tutorial",
+      "(Pagina ",
+      " su 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Mega crit raccoglie solo dati relativi ad errori ed eventi di gioco a scopo di sviluppo. NL NL NON sarà raccolto alcun dato personale.",
+      "L'esperienza di gioco è migliore a Schermo Intero. Modalità consigliata per macOS mentre Dock e barra del Menu sono nascosti. NL NOTA: se usi un PC e Slay the Spire è a schermo intero, Alt-Tab per cambiare scheramata potrebbe non funzionare.",
+      "Siccome Slay the Spire non richiede molte risorse la modalità Schermo Intero Senza Bordi è la migliore per Alt-Tab rapidi. Funziona meglio su PC.",
+      "Nota: Se VSync è attivo, il Framerate Massimo non può oltrepassare la frequenza di aggiornamento dello schermo.",
+      "I controller non sono completamente supportati in questa schermata.",
+      "Scegli quale il monitor da utilizzare a schermo intero."
+    ],
+    "LABEL": [
+      "Parametri",
+      "Schermo Intero",
+      "Schermo Intero Senza Bordi",
+      "Framerate Massimo",
+      "Monitor per Schermo Intero"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Quando giochi questa carta ottieni un Potere. NL I Poteri sono abilità passive che influenzano il combattimento a partire da quando le giochi.",
+      "Hai bisogno di energia per giocare le tue carte! NL Questa sfera in basso a sinistra indica quanta energia ti rimane.",
+      "La mia #rMano #rè #rPiena!",
+      "Ho raggiunto il limite #rmassimo di Globi.",
+      "Non ho spazio per Globi!"
+    ],
+    "LABEL": [
+      "Carte Potere",
+      "Costo di Energia"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Lancia questa pozione al tuo nemico.",
+      "Consuma questa pozione.",
+      "Scarti questa pozione NL #r(non #rpuò #ressere #rannullato)"
+    ],
+    "LABEL": [
+      "Lancia",
+      "Bevi",
+      "Scarta"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Bevi o lancia pozioni in combattimento! NL Se non le usi puoi conservarle fra le stanze."
+    ],
+    "LABEL": [
+      "Pozioni"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Entra in contatto con gli altri giocatori per scoprire nuove strategie!",
+      "Prima di un boss c'è sempre un falò.",
+      "Spendi l'oro al negozio! (Messaggio sponsorizzato dal Mercante)",
+      "Fai una pausa ogni tanto!",
+      "I valori percentuali sono sempre arrotondati per difetto.",
+      "Puoi vedere il contenuto della pila e degli scarti in combattimento.",
+      "Non c'è limite alle reliquie che puoi trasportare.",
+      "Gli scrigni contengono sempre una reliquia.",
+      "Qualsiasi percorso tu scelga avrà sempre almeno una stanza del tesoro.",
+      "Sconfiggere un Elite ti dà sempre una reliquia!",
+      "La stessa reliquia non ti sarà mai offerta due volte nel corso di una sola partita.",
+      "Le Carte non comuni hanno una cornice ed uno striscione blu.",
+      "Le Carte rare hanno una cornice ed uno striscione dorato.",
+      "Puoi vedere la rarità di una carta sulla carta stessa.",
+      "Non è sempre saggio aggiungere carte al mazzo.",
+      "Le carte esaurite in combattimento non vengono rimosse dal mazzo.",
+      "Puoi avere al massimo 10 carte in Mano.",
+      "Le Carte Stato vengono rimosse a fine combattimento.",
+      "Le Maledizioni non possono essere potenziate. Che senso avrebbe?",
+      "Dopo il Primo Livello puoi trovare Carte potenziate come ricompense.",
+      "Le stanze Incognita possono contenere tesori, mostri, negozi, o eventi.",
+      "Il Mercante non offre rimborsi. È un cretino.",
+      "Il Servizio Rimozione Carte aumenta di prezzo ogni volta che lo usi.",
+      "Puoi usare il Servizio Rimozione Carte solo una volta per negozio.",
+      "Il danno inflitto da pozioni, reliquie e poteri non è considerato danno da attacco.",
+      "Le carte casuali generate in combattimento non possono essere cure."
+    ],
+    "LABEL": [
+      "Puoi scartare le pozioni per fare posto ad altre."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "I nemici non usano mai la stessa mossa 3 volte di fila.",
+      "Ottieni informazioni sugli elementi di gioco passandoci sopra il cursore.",
+      "Se non vuoi giocare una carta che hai già scelto puoi premere il Tasto Destro per lasciarla.",
+      "Passa il mouse su un nemico per vederne il nome ed avere informazioni sui suoi Poteri.",
+      "Usa la rotella del mouse oppure clicca e trascina lo schermo per scorrerlo.",
+      "Se puoi esaminare un oggetto il cursore diventerà una lente di ingrandimento.",
+      "Puoi scorrere schermate come la mappa o il mazzo con la rotella del mouse oppure cliccando e trascinando lo schermo."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Le Reliquie forniscono bonus unici che rimangono attivi per tutta la partita. NL Le trovi sconfiggendo nemici Elite o aprendo gli scrigni nascosti nella Guglia.",
+      "Non hai ancora trovato questa Reliquia",
+      "Il suo potere è completamente esaurito."
+    ],
+    "LABEL": [
+      "Reliquie",
+      "Sconosciuta",
+      "Questa reliquia deve ancora essere sbloccata.",
+      "Bloccata"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Non dimenticarti delle ricompense! NL Cliccaci sopra per raccoglierle.",
+      "Non dimenticarti le ricompense!"
+    ],
+    "LABEL": [
+      "Ricompense."
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Rimuovi una carta dal mazzo. Il costo di questo servizio aumenta di #b",
+      " per il resto della partita."
+    ],
+    "LABEL": [
+      "Servizio Rimozione Carte"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Se non hai più carte da pescare, gli scarti vengono mescolati nella pila."
+    ],
+    "LABEL": [
+      "Finito le Carte?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Apre il menù di gioco. NL NL Qui puoi cambiare le tue preferenze grafiche, audio o di gioco.",
+      "Mostra le carte nel mazzo.",
+      "Mostra la mappa di questo piano.",
+      "Quando finisci i PV, è Game Over.",
+      "Mostra quanto oro stai trasportando. L'oro è la valuta della Guglia.",
+      "",
+      "",
+      "Il tempo trascorso dall'inizio della partita."
+    ],
+    "LABEL": [
+      "Impostazioni",
+      "Mazzo",
+      "Mappa",
+      "Punti Vita (PV)",
+      "Borsa d'Oro",
+      "Tempo Partita"
+    ]
+  }
+}

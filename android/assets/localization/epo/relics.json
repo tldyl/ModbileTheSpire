@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Ankro",
+    "FLAVOR": "Tenante ĉi tiun etan beletaĵon, vi sentas vin pli peza kaj pli stabila.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Antikva teilaro",
+    "FLAVOR": "Nepre donos refreŝigan dormon.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi eniras ripozejon, komencu la sekvontan batalon kun [E] [E] ."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Militarto",
+    "FLAVOR": "Ĉi tiu malnovega manuskripto entenas saĝecon de pasinta tempo.",
+    "DESCRIPTIONS": [
+      "Se vi ne ludas ajnan #yatakon dum via vico, gajnu plian ",
+      "[E] sekvontvice."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolabo",
+    "FLAVOR": "Ilo por ekhavi valoregan scion de la steloj.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, #ytransformu #b3 kartojn, kaj poste #yplibonigu ilin.",
+      "Elektu 3 kartojn por "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Rulglobetsako",
+    "FLAVOR": "Iame populara ludilo en la Urbo. Utilaj por malekvilibrigi malamikojn.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, aldonu #b",
+      " da #yvundebla al ĈIUJ malamikoj."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Sako de preparado",
+    "FLAVOR": "Trogranda aventuristsako. Havas multajn poŝojn kaj rimenojn.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, prenu #b",
+      " pliajn kartojn."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Birdvizaĝa urno",
+    "FLAVOR": "Ĉi tiu urno montras la kornikdion Mazaleth kun petola aspekto.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Nigra sango",
+    "FLAVOR": "La furiozo malheliĝas.",
+    "DESCRIPTIONS": [
+      "Anstataŭas #rBrulan #rsangon. Je la fino de bataloj, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Nigra stelo",
+    "FLAVOR": "Originale malkovrita en la urbo de la serpento, apud sola kandelo.",
+    "DESCRIPTIONS": [
+      "Venkitaj #yelitoj faligas plian relikvon."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Sangoboteleto",
+    "FLAVOR": "Boteleto, kiu enhavas la sangon de pura kaj aĝa vampiro.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Sanga idolo",
+    "FLAVOR": "La idolo nun ploras daŭran fluon de sango.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi gajnas #yoron, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Blua kandelo",
+    "FLAVOR": "La flamo ekbrulas en la mallumo.",
+    "DESCRIPTIONS": [
+      "#yNeludeblaj #rmalbenaj kartoj nun povas esti ludataj. NL Kiam ajn vi ludas #rmalbenon, perdu #b",
+      " da vivo kaj #yelĉerpu ĝin."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Enbotela flamo",
+    "FLAVOR": "En la botelo loĝas flamo, kiu brulas eterne.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, elektu #yatakokarton. Komencu ĉiun batalon kun tiu karto en via mano.",
+      "Elektu karton por ",
+      "Komencu ĉiun batalon kun ",
+      " en via mano."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Enbotela fulmo",
+    "FLAVOR": "Kiam vi rigardas en la turbulan ŝtormon, vi vidas parton de vi rigardi al vi.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, elektu #ykapablokarton. Komencu ĉiun batalon kun tiu karto en via mano.",
+      "Elektu karton por ",
+      "Komencu ĉiun batalon kun ",
+      " en via mano."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Enbotela tempesto",
+    "FLAVOR": "La botelo trankvile zumas kaj skuetas.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, elektu #ypotencokarton. Komencu ĉiun batalon kun tiu karto en via mano.",
+      "Elektu karton por ",
+      "Komencu ĉiun batalon kun ",
+      " en via mano."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Bronzaj skvamoj",
+    "FLAVOR": "La akraj skvamoj de la Gardisto. Sin rearanĝas por protekti ĝian uzanton.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #ydornoj."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Brula sango",
+    "FLAVOR": "La sango de via propra korpo brulas pro senmorta kolero.",
+    "DESCRIPTIONS": [
+      "Je la fino de bataloj, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Cables": {
+    "NAME": "Orladaj kabloj",
+    "FLAVOR": "\"Interese! Eĉ aŭtomatojn influas placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Via plej dekstra sfero aktivigos sian pasivan efikon unu fojon pli."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Kalibrilo",
+    "FLAVOR": "\"Mekanika precizo kondukas al granda sukceso\" - La Arkitekto",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, perdu #b",
+      " da #yŝirmo anstataŭ ciom da via #yŝirmo."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Vokanta sonorilo",
+    "FLAVOR": "Ĉi tiu malhela fera sonorilo sonoris 3 fojojn kiam vi trovis ĝin, sed nun restas silenta.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, akiru unikan #rmalbenon kaj #b3 relikvojn.",
+      "La sonorilo sonas...",
+      "Preterlasu premiojn",
+      "Fermu"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Kaldrono",
+    "FLAVOR": "La Komercisto fakte estas sufiĉe lerta pociofaristo. Aĉetu 4 senpage ricevu 1.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, faras #b5 hazardajn pociojn.",
+      "Blop blip bluup...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Jarcenta puzlo",
+    "FLAVOR": "Kiam vi solvas la puzlon, vi sentas fortan varmon en via brusto.",
+    "DESCRIPTIONS": [
+      "La unuan fojon en ĉiu batalo, ke vi perdas vivon, prenu #b",
+      " kartojn."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Kameleona ringo",
+    "FLAVOR": "Senvalidiĝa",
+    "DESCRIPTIONS": [
+      "Vi nun povas #ymiksi ĉe ripozejoj."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Ĉampiona rimeno",
+    "FLAVOR": "Nur la plej grandiozaj rajtas porti ĉi tiun rimenon.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonas #yvundebla, aldonu #b",
+      " #ymalforta."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Cindroj de Charon",
+    "FLAVOR": "Charon laŭdire estis la dio de renaskiĝo, eterne mortanta kaj revivante en ekflamo.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi #yelĉerpas karton, faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Kemiaĵo X",
+    "FLAVOR": "AVERTO: Ne kunigu kun sukero aŭ spico eĉ dum via vico.",
+    "DESCRIPTIONS": [
+      "La efikoj de viaj kartoj, kiuj kostas #bX, estas plialtigataj je #b",
+      ""
+    ]
+  },
+  "Circlet": {
+    "NAME": "Diademo",
+    "FLAVOR": "Ne plu restis relikvojn por trovi. Impona!",
+    "DESCRIPTIONS": [
+      "Kolektu kiel eble plej."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Krevita kerno",
+    "FLAVOR": "La mistera vivoforto, kiu funkciigas la Aŭtomatojn en la Turego. Ŝajnas esti krevite.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, #ykonduktu #b1 da #yfulmo."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frostigita kerno",
+    "FLAVOR": "La krevo en via kerno pleniĝis je pulsanta malvarma energio.",
+    "DESCRIPTIONS": [
+      "Anstataŭas #bKrevitan #bkernon. Se vi finas vian vicon kun iuj malplenaj sferingoj, #ykonduktu #b1 da #yfrosto."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Malbenita ŝlosilo",
+    "FLAVOR": "Vi povas senti la malican energion radiantan el la ŝlosilo. Potenco havas koston.",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Kiam ajn vi malfermas ne-estran kofron, akiru #rmalbenon.",
+      "Gajnu [E]"
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Malhelŝtona amuleto",
+    "FLAVOR": "La ŝtono eltiras povon el malhela energio kaj faras el ĝi vivpovon por la portanto.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi akiras #rmalbenon, plialtigu vian maks. vivon je #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Datendisko",
+    "FLAVOR": "Ĉi tiu disko enhavas valorajn donitaĵojn pri birdoj kaj serpentoj.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #yatento."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Morta branĉo",
+    "FLAVOR": "La branĉo de arbo el forgesata epoko.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi #yelĉerpas karton, aldonu hazardan karton al via mano."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Sensprita ŝtono",
+    "FLAVOR": "Lokokupaĵo",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu vico, gajnu #b",
+      " da ŝargo. NL (Ne forigebla aŭ transformebla.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Distingiga monoklo",
+    "FLAVOR": "Ja estas tre neta monoklo.",
+    "DESCRIPTIONS": [
+      "Prezoj de la Komercisto estas malaltigataj je #b20%."
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "SENVALIDIĜA Runa dekduedro",
+    "FLAVOR": "La runoj estas nemalĉifreblaj.",
+    "DESCRIPTIONS": [
+      "Se via vivo estas plena, gajnu ",
+      "[E] je la komenco de viaj vicoj."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Sonĝkaptilo",
+    "FLAVOR": "La nordaj triboj ofte uzis sonĝkaptilojn nokte, kredante, ke ili kaŭzas memplibonigon.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi #yripozas, vi rajtas aldoni karton al via kartaro."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Du-vo-pupo",
+    "FLAVOR": "Pupo kreita por gajni forton el malica energio.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun po #b",
+      " da #yforto por ĉiu #rmalbeno en via kartaro.",
+      " Vi havas neniun #rmalbenon.",
+      " Vi havas #b",
+      " #rmalbenojn."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ektoplasmo",
+    "FLAVOR": "Ĉi tiu kunaĵo de ŝlimo kaj energio ŝajnas pulsi pro vivo.",
+    "DESCRIPTIONS": [
+      "Vi ne plu povas gajni #yoron.",
+      "Gajnu [E] je la komenco de viaj vicoj."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emociico",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Se vi perdis vivon dum la lasta vico, aktivigu la pasivan efikon de ĉiuj viaj sferoj je la komenco de via vico."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enĥeiridion",
+    "FLAVOR": "La legenda ĵurnalo de malnovega liĉo.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, aldonu hazardan #ypotencokarton al via mano, kiu kostas #b0 dum tiu vico."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Eterna plumo",
+    "FLAVOR": "Ĉi tiu plumo ŝajnas esti tute nedetruebla. De kia birdo povus deveni?",
+    "DESCRIPTIONS": [
+      "Por ĉiuj #b",
+      " kartoj en via kartaro, resaniĝu po #b",
+      " da vivo kiam ajn vi eniras ripozejon."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Frostigita ovo",
+    "FLAVOR": "La ovo kuŝas, inerta kaj frostigita, nekovonta.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonas #ypotencokarton al via kartaro, #yplibonigu ĝin."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Frostigita okulo",
+    "FLAVOR": "Kiam vi rigardas en la okulon, vi ekvidetas vian estontecon.",
+    "DESCRIPTIONS": [
+      "Kiam vi rigardas vian #yprenstakon, la kartoj nun ordigatas laŭ prenado."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Monluda ĵetono",
+    "FLAVOR": "Vi povas vidi etan enskribaĵon sur unu flanko. Ĝi diras: \"Bonŝanciga Ĵetono de Urso!\"",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, forĵetu ajnan kvanton da kartoj, kaj poste prenu tiom da kartoj."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Zingibro",
+    "FLAVOR": "Fortaĵo en multaj tonikoj.",
+    "DESCRIPTIONS": [
+      "Vi ne plu povas esti #ymalforta."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girjo",
+    "FLAVOR": "Ĉi tiu Girjo estas nekredeble peza. Vi povus trejniĝi per ĝi por fariĝi multe pli forta.",
+    "DESCRIPTIONS": [
+      "Vi nun povas gajni #yforton ĉe ripozejoj (ĝis 3 fojoj)."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Ora idolo",
+    "FLAVOR": "El plena oro, vi jam sentas vin pli riĉa nur tendante ĝin.",
+    "DESCRIPTIONS": [
+      "Malamikoj faligas #b25% pli da #yoro."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Gremlinkorno",
+    "FLAVOR": "\"Gremlin-Aristokratoj kapablas kreski ĝis la tago de morto. Rimarkinda.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiam ajn malamiko mortas, gajnu ",
+      "[E] kaj prenu #b1 karton."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Feliĉa floro",
+    "FLAVOR": "Ĉi tiu senĉese gaja planto estas populara havindaĵo inter nobeloj.",
+    "DESCRIPTIONS": [
+      "Ĉiujn #b",
+      " vicojn, gajnu [E] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Glaciaĵo",
+    "FLAVOR": "\"Frandega!\"",
+    "DESCRIPTIONS": [
+      "Energio nun estas konservata inter vicoj."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Insertilo",
+    "FLAVOR": "Puŝi. Tiri. Stakigi. Ripeti.",
+    "DESCRIPTIONS": [
+      "Ĉiujn #b2 vicojn, gajnu #b1 sferingon."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Juzu-rozario",
+    "FLAVOR": "Protektilo kontraŭ nekonataĵoj.",
+    "DESCRIPTIONS": [
+      "Normalaj bataloj ne plu okazos en #y? ĉambroj."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunajo",
+    "FLAVOR": "Klingo, kiu plaĉas al mortiguloj pro ĝia kapablo mortigi de distanco.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b",
+      " #yatakojn en unu sola vico, gajnu #b",
+      " da #ylerteco."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lanterno",
+    "FLAVOR": "Tremiga lanterno, kiu lumigas nur por la portisto.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun plia ",
+      "[E] ",
+      ""
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Vaflo de Lee",
+    "FLAVOR": "\"Plej bongusta frandaĵo, kiun vi trovos en la tuta Turego. Farita hodiaŭ nur por vi.\"",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, altigu vian maks. vivon je #b",
+      " kaj resaniĝu vian tutan vivon."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Papertranĉilo",
+    "FLAVOR": "Eksternature akra.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b3 #ykapablojn en unu sola vico, faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Viva klingo",
+    "FLAVOR": "SENVALIDIĜA",
+    "DESCRIPTIONS": [
+      "Vi povas ekhavi ajnan kvanton de ajna karto."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Lacertvosto",
+    "FLAVOR": "Falsa vosto por trompi malamikojn dum batalo.",
+    "DESCRIPTIONS": [
+      "Kiam vi mortus, anstataŭe resaniĝu ĝis #b50% da via maks. vivo (funkcias unu fojon)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Magia floro",
+    "FLAVOR": "Floro, longe kredita formorta, iel konservita en perfekta stato.",
+    "DESCRIPTIONS": [
+      "Resaniĝo estas #b50% pli efika dum batalo."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "La plej dezirata forgesita frukto. Senmakule konservita sen ajna signo de Turega Velko.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, altigu vian maks. vivon je #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Dolormarko",
+    "FLAVOR": "Ĉi tiu signo estis uzata de la nordaj triboj por signi batalistoj, kiuj venkis doloron en batalo.",
+    "DESCRIPTIONS": [
+      "Gajnu [R] je la komenco de viaj vicoj. Je la komenco de batalo, miksu #b2 #rVundojn en vian prenstakon."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matrjoŝko",
+    "FLAVOR": "Stakebla aro de farbitaj pupoj. La farbo montras nekonatan birdon kun blankaj okuloj kaj bluaj plumoj.",
+    "DESCRIPTIONS": [
+      "La venontaj #b2 ne-estraj kofroj, kiujn vi malfermos, enhavos #b2 #yrelikvojn.",
+      "La venonta ne-estra kofro, kiun vi malfermos, enhavos #b2 #yrelikvojn.",
+      "Ĉi tiu relikvo estas eluzita."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Viando sur osto",
+    "FLAVOR": "La viando daŭre reaperas kaj neniam eluziĝas.",
+    "DESCRIPTIONS": [
+      "Se via vivo estas je aŭ sub #b50% je la fino de batalo, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Kuraca ilaro",
+    "FLAVOR": "\"Havas ĉion, kion vi bezonas! Antijuko, antibrulo, antiveneno kaj pli!\"",
+    "DESCRIPTIONS": [
+      "#yNeludeblaj #ystatkartoj nun estas ludeblaj. Kiam ajn vi ludas #ystatkarton, #yelĉerpu ĝin."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Membrokarto",
+    "FLAVOR": "\"Kroma membra oferto por miaj plej valoraj klientoj!\"",
+    "DESCRIPTIONS": [
+      "#yBONIFIKO: #b50% rabato por ĉio!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Hidrarga sablohorloĝo",
+    "FLAVOR": "Ensorĉita sablohorloĝo, kies enhavo gutas senĉese.",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Fandita ovo",
+    "FLAVOR": "La ovo de Fenikso. Ĝi brilas ruĝe pro bolanta lafo.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonas #yatakokarton al via kartaro, #yplibonigu ĝin."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Mumiigita mano",
+    "FLAVOR": "Ofte skuetas, speciale kiam via pulso estas rapida.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, hazarda karto en via mano kostas #b0 dum tiu vico."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Nur malsaĝulo provus jungi ĉi tiun fipovon. Nokte en viaj sonĝoj hantas bildoj de la libro voranta vian menson.",
+    "DESCRIPTIONS": [
+      "La unua #yatako, kiun vi ludas ĉiuvice kaj kiu kostas #b",
+      " aŭ pli, estas ludata du fojojn. Kiam vi prenas ĝin, akiru specialan #rmalbenon.",
+      " aŭ pli, estas ludata du fojojn."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Bedaŭro de Niaŭ",
+    "FLAVOR": "La beno de bedaŭro, kiun donacis Niaŭ.",
+    "DESCRIPTIONS": [
+      "Malamikoj en via unuaj #b3 bataloj havos #b1 vivpoento.",
+      "Ĉi tiu relikvo estas eluzita."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Kodekso de Nilry",
+    "FLAVOR": "Farita de la fifama ludmastro mem. Laŭdire plivastigas la menson.",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, vi rajtas miksi #b1 el #b3 hazardajn kartojn en vian prenstakon."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Ninĵa volvolibro",
+    "FLAVOR": "Entenas le sekretojn de kaŝmortigo.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, aldonu #b",
+      " #yPikilojn al via mano."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Donaco de N'loth",
+    "FLAVOR": "La stranga donaco de N'loth. Kiam ajn vi provas ĝin senŝeligi, aperas en ĝi alia skatolo samgranda.",
+    "DESCRIPTIONS": [
+      "Triobligu la ŝancon ricevi #ymaloftajn kartojn de batalpremioj."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuklea baterio",
+    "FLAVOR": "Hoooo...",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, #ykonduktu #b1 da #yplasmo."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nulŝtona amuleto",
+    "FLAVOR": "SENVALIDIĜA.",
+    "DESCRIPTIONS": [
+      "Nuligas la sekvontan statmalbonigon, kiun vi ricevus de malamiko. NL Reŝargas post #b10 vicoj."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Stranga fungo",
+    "FLAVOR": "\"Post konsumi Trichella parastius, mi sentis min pli granda kaj malpli... dolorebla.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Kiam vi estas #yvundebla, prenu #b25% pli da ataka damaĝo anstataŭ #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Strange glata ŝtono",
+    "FLAVOR": "Vi neniam vidis ion tiel glata kaj senmakula. Devas esti faraĵo de la Antikvuloj.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #ylerteco."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Malnova monero",
+    "FLAVOR": "Unikaj moneroj havas altan valoron por komercistoj pro ilia historia valoro kaj malofta metalkomponaĵo.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, gajnu #b300 da #yoro."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamorio",
+    "FLAVOR": "Ofta amuleto por forteni fispiritojn. Ĉi tiu ŝajne posedas eron de dia energio.",
+    "DESCRIPTIONS": [
+      "Nuligu la sekvontajn #b2 #rmalbenojn, kiujn vi akirus.",
+      "Nuligu la sekvontan #rmalbenon, kiun vi akirus.",
+      "Ĉi tiu relikvo estas eluzita."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Oriĥalko",
+    "FLAVOR": "Verdeta metalo de nekonata origino. Ŝajne nedetruebla.",
+    "DESCRIPTIONS": [
+      "Se vi finas vian vicon sen #yŝirmo, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Ornama ventumilo",
+    "FLAVOR": "La ventumilo ŝajnas etendi kaj malmoligi kiam sango elfluas.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b3 #yatakojn en unu sola vico, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Sunsistemmodelo",
+    "FLAVOR": "\"Kiam vi simple komprenas la universon...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, elektu kaj aldonu #b5 kartojn al via kartaro.",
+      "Scio!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Skatolo de Pandora",
+    "FLAVOR": "Vi havas malbonan senton pri malfermi ĉi tion.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, #btransformu ĉiujn Bato- kaj Defendo-kartojn.",
+      "Malfermiĝis la Skatolo de Pandora..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantografo",
+    "FLAVOR": "\"Fortika fundo ne simple okazas. Planiloj estas havendaj.\" - La Arkitekto",
+    "DESCRIPTIONS": [
+      "Je la komenco de estraj bataloj, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Paperkruo",
+    "FLAVOR": "Origamio de estaĵo de pasinta epoko.",
+    "DESCRIPTIONS": [
+      "Malamikoj kun #ymalforta faras #b40% malpli da damaĝo anstataŭ #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Paperrajno",
+    "FLAVOR": "La papero daŭre faldas kaj malfaldas sin en la formon de eta estaĵo.",
+    "DESCRIPTIONS": [
+      "Malamikoj kun #yvundebla prenas #b75% pli da damaĝo anstataŭ #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Pacopipo",
+    "FLAVOR": "Serenigas la menson kaj purigas la animon.",
+    "DESCRIPTIONS": [
+      "Vi nun povas forigi kartojn el via kartaro ĉe ripozejoj."
+    ]
+  },
+  "Pear": {
+    "NAME": "Piro",
+    "FLAVOR": "Ofta frukto ĝis la Turega Velko.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, altigu vian maks. vivon je #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Skribilpinto",
+    "FLAVOR": "Kiam vi tenas la pinton, vi povas vidi ĉiun, kiu estis mortigita de antaŭa posedanto de la skribilo. Brutala historio.",
+    "DESCRIPTIONS": [
+      "Ĉiu #b10a #yatako, kiun vi ludas, faras duoblan damaĝon."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Ŝtono de la saĝuloj",
+    "FLAVOR": "Kruda energio radias el la ŝtono, kiu povigas ĉiun, kiu estas proksima.",
+    "DESCRIPTIONS": [
+      "Gajnu [E] je la komenco de viaj vicoj. ĈIUJ malamikoj komencas batalojn kun #b",
+      " da #yforto."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Pociozono",
+    "FLAVOR": "Per ĉi tiu zono mi povas teni pli da pocioj!",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, gajnu #b2 pociingojn."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Preĝoakso",
+    "FLAVOR": "La akso daŭre turniĝas, neniam ĉesas.",
+    "DESCRIPTIONS": [
+      "Normalaj malamikoj faligas plian kartpremion."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Fragokarto",
+    "FLAVOR": "\"Tiuj, kiuj havas pli da elektoj, minimumigas la malavantaĝon de ĥaoso.\" - Kublai la Granda",
+    "DESCRIPTIONS": [
+      "Estontaj kartpremioj havos #b1 plian karton por elekti."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Ruĝa diademo",
+    "FLAVOR": "Ne plu restas relikvojn. Impona!",
+    "DESCRIPTIONS": [
+      "Tre belaspekta."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Ruĝa masko",
+    "FLAVOR": "Ĉi tiu tre belstila masko apartenas al la estro de la Ruĝmaskaj Banditoj. Do nun ĉu vi estas la estro?",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, aldonu #b",
+      " da #ymalforta al ĈIUJ malamikoj."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Ruĝa kranio",
+    "FLAVOR": "Eta kranio orname farbita.",
+    "DESCRIPTIONS": [
+      "Dum via vivo estas je aŭ sub #b50%, vi havas #b",
+      " da #yforto pli."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Reĝa kuseno",
+    "FLAVOR": "Nun vi povas bone dormi nokte.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi #yripozas, resaniĝu plian #b",
+      " da vivo."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Ringo de la vipero",
+    "FLAVOR": "Via ringo transformis.",
+    "DESCRIPTIONS": [
+      "Anstataŭas #gRingon #gde #gla #gserpento. ",
+      "Je la komenco de viaj vicoj, prenu #b1 plian karton."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Ringo de la serpento",
+    "FLAVOR": "Farita el fosilia serpento. Reprezentas grandan lertecon de ĉasistino.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, prenu #b",
+      " pliajn kartojn."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runa kondensilo",
+    "FLAVOR": "Pli estas pli bone.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b3 pliaj sferingoj."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Runa kubo",
+    "FLAVOR": "La runoj estas nedeĉifreblaj.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi perdas vivon, prenu #b",
+      " karton.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Runa kupolo",
+    "FLAVOR": "La runoj estas nedeĉifreblaj.",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Vi ne plu povas vidi la celojn de malamikoj.",
+      "Gajnu [E]"
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Runa piramido",
+    "FLAVOR": "La runoj estas nedeĉifreblaj.",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, vi ne plu forĵetas vian manon.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Memformanta argilo",
+    "FLAVOR": "\"Tre kurioza! Ŝajne ĝi formas sin iom laŭ miaj pensoj! Ĉu tele-argilo?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi perdas vivon, gajnu #b",
+      " da #yŝirmo sekvontvice."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Fosilo",
+    "FLAVOR": "La Turego enhavas multege da relikvoj de pasintaj civilizoj kaj potencaj aventuristoj perditaj pro malnoveco. Tempo por elfosi!",
+    "DESCRIPTIONS": [
+      "Vi nun povas #yfosi por trovi relikvojn ĉe ripozejoj."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Ŝurikeno",
+    "FLAVOR": "Malpezaj ĵetponardoj. Rekomendo: celu la okulojn.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b",
+      " #yatakojn en unu sola vico, gajnu #b",
+      " da #yforto."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Kantbovlo",
+    "FLAVOR": "Ĉi tiu oftuzata artefakto elsonoras belan melodion, kiam vi frapas ĝin.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonus karton al via kartaro, vi rajtas anstataŭe plialtigi vian maks. vivon je #b2."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Ridetmasko",
+    "FLAVOR": "Masko, kiun portas la Komercisto. Li devas havi kromajn...",
+    "DESCRIPTIONS": [
+      "La kartforiga servo de la Komercisto nun ĉiam kostas #b",
+      " da #yoro."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Serpeka kranio",
+    "FLAVOR": "Serpeka kranio en perfekta stato. Mistere pura kaj glata: koto kaj malpuraĵoj neklarigeble falas de ĝi.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonas #yvenenon, aldonu #b",
+      " pli da #yveneno."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Serpeka okulo",
+    "FLAVOR": "Okulo de venkita serpeko. Multe pli granda ol vi imagis.",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, prenu #b2 pliajn kartojn. Komencu ĉiun batalon #ykonfuzita."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozuo",
+    "FLAVOR": "Vi rimarkas, ke magiaj likvoj ŝajne perdas siajn trajtojn proksime al ĉi tiu relikvo.",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Vi ne plu povas akiri pociojn.",
+      "Gajnu [E]"
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Spirita fekaĵo",
+    "FLAVOR": "La brulita restaĵo de via oferdono al la spiritoj.",
+    "DESCRIPTIONS": [
+      "Estas malplaĉe."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Stranga kulero",
+    "FLAVOR": "Kiam vi fikse rigardas la kuleron, ĝi ŝajnas fleksiĝi kaj tordiĝi antaŭ viaj okuloj.",
+    "DESCRIPTIONS": [
+      "Kartoj, kiuj #yelĉerpiĝas kiam ludataj anstataŭe estos forĵetataj en #b50% de kazoj."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Frago",
+    "FLAVOR": "\"Bongusta! Ne vidis tiujn ekde la velko.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, altigu vian maks. vivon je #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Sunhorloĝo",
+    "FLAVOR": "\"La malsaĝa obsedo de pasintaj homoj igis ilin rigardi la ĉielon, serĉante gvidon, esperante ion ĉiaman.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Ĉiun #b",
+      "an fojon, ke vi miksas vian prenstakon, gajnu [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Simbioza viruso",
+    "FLAVOR": "Iomete da malbono povas fari multe da bono...",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, #ykonduktu #b1 da #ymallumo."
+    ]
+  },
+  "Test 1": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 3": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 4": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 5": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Test 6": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 7": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 8": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "The Courier": {
+    "NAME": "La kuriero",
+    "FLAVOR": "La propra hejmbesto de la Komercisto!",
+    "DESCRIPTIONS": [
+      "La Komercisto reakiras kartojn, relikvojn kaj pociojn. Ĉiuj prezoj estos malaltigitaj je #b20%."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "La specimeno",
+    "FLAVOR": "\"Fascina! Mi trovis mutaciitan estaĵon kun nekredeblaj toksaj trajtoj. Konservas muestron por posta ekzameno.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiam ajn malamiko mortas, transmetu ajnan kvanton da #yveneno, kiun ĝi havas, al hazarda malamiko."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Fadeno kaj kudrilo",
+    "FLAVOR": "Volvante magian fadenon ĉirkaŭ vian korpon, vi sentas pli malmola.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #ylada #yarmaĵo."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingŝo",
+    "FLAVOR": "La sono de ĉi tiuj cimbaloj ŝajne kapablas resoni ĝis doloriga volumo.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi forĵetas karton dum via vico, faru po #b",
+      " da damaĝo al hazarda malamiko."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Eta kofro",
+    "FLAVOR": "\"Delikata pratipo.\" - La Arkitekto",
+    "DESCRIPTIONS": [
+      "Ĉiu #b",
+      "-a ?-ĉambro estas #ytrezorĉambro.",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Eta domo",
+    "FLAVOR": "\"Perskaŭ perfekta ekzemplo de maketo. Mia plej delikata verko ĝis nun, sed ankoraŭ ne sufiĉe.\" - La Arkitekto",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, akiru #b1 pocion. NL Gajnu #b",
+      " da #yoro. NL Altigu vian maks. vivon je #b",
+      ". NL Akiru #b1 karton. NL Plibonigu #b1 hazardan karton.",
+      "Eta domo!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Ilkesto",
+    "FLAVOR": "Ilo por ĉia tasko.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, elektu #b1 el #b3 hazardaj senkoloraj kartoj kaj aldonu la elektitan karton al via mano."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torijo",
+    "FLAVOR": "Kiam vi tenas la etan Torijon, vi sentas iun trankvilon kaj sekurecon ŝvebantan tra via menso.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ricevus #b",
+      " aŭ malpli da neŝirmita ataka damaĝo, malaltigu ĝin al #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Fortikaj pansaĵoj",
+    "FLAVOR": "Perdo donas forton.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi forĵetas karton dum via vico, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Toksa ovo",
+    "FLAVOR": "\"Kia mirinda malkovro! Ĉi tio ŝajnas esti la inerta ovo de iu magia estaĵo. Kiu aŭ kio kreis ĝin?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonas #ykapablokarton al via kartaro, #yplibonigu ĝin."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Ludila ornitoptero",
+    "FLAVOR": "\"Ĉi tiu ludileto estas la perfekta kompano por sola aventuristo!\"",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi uzas pocion, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Rapo",
+    "FLAVOR": "Plej bonas kun zingibro.",
+    "DESCRIPTIONS": [
+      "Vi ne plu povas esti #ykaduka."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Senĉesa turbo",
+    "FLAVOR": "La turbo daŭre turnas senpene kvazaŭ vi estas en sonĝo.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ne havas kartojn en via mano dum via vico, prenu karton."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Ornama relikvo donita al batalistoj, kiuj posedas gloron en bateloj.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #yforto."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Velura kolĉeno",
+    "FLAVOR": "\"Grandega povo, sed tro limhava.\" - Kublai la Granda",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Vi ne povas ludi pli ol #b",
+      " kartojn en unu vico.",
+      "Gajnu [E]",
+      "Mi ne povas ludi pli ol NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "Militfarbo",
+    "FLAVOR": "En la pasinteco, Fervestuloj ofte protektus sin per ensorĉita militfarbo antaŭ ol ili sturmis en batalon.",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, #yplibonigu #b",
+      " hazardajn #ykapablojn."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Ŝtona akrigilo",
+    "FLAVOR": "\"Karno neniam venkas ŝtalon.\" - Kublai la Granda",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, #yplibonigu #b",
+      " hazardajn #yatakojn."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Blankbesta statuo",
+    "FLAVOR": "Eta blanka statuo de estaĵo, kiun vi neniam vidis antaŭe.",
+    "DESCRIPTIONS": [
+      "Pocioj ĉiam aperos en batalpremioj."
+    ]
+  },
+  "Boot": {
+    "NAME": "La boto",
+    "FLAVOR": "Kiam streĉita, la boto pligrandiĝas.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi farus #b",
+      " aŭ malpli da neŝirmita ataka damaĝo, plialtigu ĝin al #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Flormarko",
+    "FLAVOR": "En la Pretero, pensoj kaj vero estas unu.",
+    "DESCRIPTIONS": [
+      "Vi ne plu povas resaniĝi."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Kaputa krono",
+    "FLAVOR": "La krono de la Ĉampo... aŭ pala imitaĵo?",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Estontaj kartpremiaj ekranoj havos #b2 malpli da kartoj por elekti.",
+      "Gajnu [E]"
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incensujo",
+    "FLAVOR": "La fumo inspiras en la posedanton la spiriton de la brulaĵo.",
+    "DESCRIPTIONS": [
+      "Ĉiujn #b6 vicojn, gajnu #b1 da #ynepalpebla."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Malplena kaĝo",
+    "FLAVOR": "\"Kiel nekutima, enkaĝigi tion, kion oni adoras.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, forigu #b2 kartojn de via kartaro.",
+      "Elektu 2 kartojn por forigi."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fandomartelo",
+    "FLAVOR": "Kiam iu portas ĝin, tiu ne plu povas malteni.",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Vi ne plu povas #yforĝi ĉe ripozejoj.",
+      "Gajnu [E]"
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Kafogutigilo",
+    "FLAVOR": "\"Jes, unu plian tason, bonvole. Mi eklaboru denove. Eklaboru!\" - La Arkitekto",
+    "DESCRIPTIONS": [
+      " je la komenco de viaj vicoj. Vi ne plu povas #yripozi ĉe ripozejoj.",
+      "Gajnu [E]"
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpentkapo",
+    "FLAVOR": "La plej kontentiga vivo estas tiu, en kiu oni povas ĉion aĉeti!",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi eniras #y? ĉambron, gajnu #b",
+      " da #yoro."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutaciiga forto",
+    "FLAVOR": "\"La rezultoj ŝajnas esti pasemaj kaj aktivigas kiam la studobjekto kontraŭas danĝeron.\" - Nekonato",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b",
+      " da #yforto. Je la fino de via unua vico, perdu #b",
+      " da #yforto."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Vizaĝo de kleriko",
+    "FLAVOR": "Ĉiu amas Klerikon.",
+    "DESCRIPTIONS": [
+      "Je la fino de bataloj, plialtigu vian maksimuman vivon je #b1."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Malsata vizaĝo de N'loth",
+    "FLAVOR": "Vi sentas vin malsata.",
+    "DESCRIPTIONS": [
+      "La sekvonta kofro ne de estro, kiun vi malfermos, estos malplena.",
+      ""
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlina vizaĝo",
+    "FLAVOR": "Tempo por forkuri.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b1 da #ymalforta."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Masko de kultisto",
+    "FLAVOR": "Parto de la Anaro!",
+    "DESCRIPTIONS": [
+      "Vi sentas vin pli parolema.",
+      "@KAA!@ NL @KAAAA@"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "La abako",
+    "FLAVOR": "\"Unu...Du...Tri...\"",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi miksas vian prenstakon, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Spegulo de Dolly",
+    "FLAVOR": "\"Mi aspektas strange tiel.\"",
+    "DESCRIPTIONS": [
+      "Kiam vi prenas ĝin, akiru kroman kopion de karto en via kartaro.",
+      "Elektu 1 karton por kopii."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Risortmemoraĵo",
+    "FLAVOR": "\"Tiom da komplikaj dentradoj.\"",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kun #b1 da #yartefakto."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Bileto por manĝo",
+    "FLAVOR": "\"Kromaj kneloj por ĉiu vizito!\"",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi eniras butikon, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Tordita funelo",
+    "FLAVOR": "\"Mi ne trinkus el ĝi.\"",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, aldonu #b4 da #yveneno al ĈIUJ malamikoj."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Manborilo",
+    "FLAVOR": "\"Spiraloj estas danĝeraj.\"",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi penetras la #yŝirmon de malamiko, aldonu #b2 da #yvundebla."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Ŝveba kajto",
+    "FLAVOR": "La kajto ŝvebas ĉirkaŭ vi en batalo, kondukata de mistera forto.",
+    "DESCRIPTIONS": [
+      "La unuan fojon, ke vi forĵetas karton ĉiuvice, gajnu [E] ."
+    ]
+  },
+  "Sling": {
+    "NAME": "Ŝtonĵetilo de kuraĝo",
+    "FLAVOR": "\"Oportuna ilo por kontraŭstari nekutime fortajn malamikojn.\"",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon kontraŭ elitoj kun #b",
+      " da #yforto."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Oranĝkoloraj buletoj",
+    "FLAVOR": "\"Faritaj el diversaj fungoj, kiujn oni povas trovi en la Turego. Ili kuracas ajnan malsanon.\"",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, #yatakokarton kaj #ykapablokarton en la sama vico, forigu ĉiujn viajn statmalbonigojn."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Pojnoklingo",
+    "FLAVOR": "Oportuna por kaŝmortigoj.",
+    "DESCRIPTIONS": [
+      "#yAtakoj, kiuj kostas #b0, faras #b4 pli da damaĝo."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Ŝtona kalendaro",
+    "FLAVOR": "La forpaso de tempo ne estas rimarkebla en la Turego.",
+    "DESCRIPTIONS": [
+      "Je la komenco de vico #b",
+      ", faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunĉako",
+    "FLAVOR": "Bona trejnilo. Plibonigas la teniĝon kaj lertecon de la portanto.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b",
+      " #yatakojn, gajnu [E] ."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Sulfuro",
+    "FLAVOR": "Eligas inferan varmecon.",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, gajnu #b",
+      " da #yforto kaj ĈIUJ malamikoj gajnas #b",
+      " da #yforto."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Konservita insekto",
+    "FLAVOR": "La insekto ŝajne kreas etigan atmosferon, kiu celas speciale grandajn malamikojn.",
+    "DESCRIPTIONS": [
+      "Malamikoj en elitbataloj havas #b",
+      "% malpli da vivo."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Poŝhorloĝo",
+    "FLAVOR": "La montriloj ŝajnas esti senmovigitaj je la pozicio de la tria horo.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b3 aŭ malpli da kartoj dum via vico, prenu #b3 pliajn kartojn je la komenco de via sekvonta vico."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fosilia helikso",
+    "FLAVOR": "Ŝajnas nedetrueble. Vi demandas vin al kia estaĵo apartenis ĉi tio.",
+    "DESCRIPTIONS": [
+      "Preventas la unuan fojon, ke vi perdus vivon ĉiubatale."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prisma mineralpeco",
+    "FLAVOR": "Kiam vi rigardas tra la mineralo, vi kapablas vidi tute novajn perspektivojn.",
+    "DESCRIPTIONS": [
+      "Batalpremiaj ekranoj nun enhavas senkolorajn kartojn kaj kartojn de aliaj koloroj."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Tordita tenajlo",
+    "FLAVOR": "La malbenita tenajlo eligas fortan deziron reiri tien, de kie ĝi estas ŝtelita.",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, #yplibonigu hazardan karton en via mano por la cetero de la batalo."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Flugilhavaj botoj",
+    "FLAVOR": "Bonstila.",
+    "DESCRIPTIONS": [
+      "Vi rajtas ignori padojn kiam vi elektas la sekvontan ĉambron de la vojaĝo #b3 fojojn."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Faŭkmonujo",
+    "FLAVOR": "Surprize populara, malgraŭ la ofteco de atakoj de faŭkoj.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi grimpas etaĝon, gajnu #b",
+      " da #yoro. Ne plu funkcios post kiam vi elspezas monon ĉe butiko.",
+      "Ĉi tiu relikvo estas eluzita."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Mistera sablo de nekonata fonto. Odoras kiel cinamo.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi miksas vian prenstakon, #yekvidu #b",
+      "."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Pura akvo",
+    "FLAVOR": "Filtrita tra fina sablo kaj sen ajna nepureco.",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĉiu batalo, aldonu #yMiraklon al via mano."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Sankta akvo",
+    "FLAVOR": "Kolektita dum tempo antaŭ la Turego.",
+    "DESCRIPTIONS": [
+      "Anstataŭigas #pPuran #pakvon. Je la komenco de ĉiu batalo, aldonu #b3 #yMiraklojn al via mano."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Sankta ŝelo",
+    "FLAVOR": "Arboŝelo, kiu laŭdire venas de la Mondarbo.",
+    "DESCRIPTIONS": [
+      "Duobligas la efikon de pocioj."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Inkbotelo",
+    "FLAVOR": "Kiam elĉerpita, ŝajnas replenigi sin per alia koloro.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b10 kartojn, prenu #b1 karton."
+    ]
+  },
+  "Yin": {
+    "NAME": "SENVALIDIĜA Jino",
+    "FLAVOR": "Vi ne povas havi lumon sen mallumon. Aŭ ĉu ja?",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ykapablon, gajnu #b1 da portempa #yforto."
+    ]
+  },
+  "Yang": {
+    "NAME": "Dueco",
+    "FLAVOR": "\"Kaj la suno estingiĝis por ĉiam, kvazaŭ kurtenoj falis antaŭ ĝin.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #yatakon, gajnu #b1 da portempa #ylerteco."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Via unua atako ĉiun batalon faras #b",
+      " pli da damaĝo."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Viola lotuso",
+    "FLAVOR": "La malnovaj tekstoj priskribas, kiel la supraĵoj de \"Manaflakoj\" estis kovritaj de ĉi tiuj floroj.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi eliras #ykalmon, gajnu kroman [E] ."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Larma medaliono",
+    "FLAVOR": "Ĝia posedanto, blinda. Ĝiaj enhavoj, nevidataj.",
+    "DESCRIPTIONS": [
+      "Komencu ĉiun batalon en #ykalmo."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ceramika fiŝo",
+    "FLAVOR": "Ĉi tiuj precizege pentritaj fiŝoj estis ege respektataj por alporti grandan fortunon.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi aldonas karton al via kartaro, gajnu #b",
+      " da #yoro."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Kolumo de sklavisto",
+    "FLAVOR": "Rustaj mizeraj ĉenoj.",
+    "DESCRIPTIONS": [
+      "Dum estraj kaj elitaj bataloj, gajnu [E] je la komenco de viaj vicoj."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Bato-ekzercaĵo",
+    "FLAVOR": "Ĝi estas batita.",
+    "DESCRIPTIONS": [
+      "Kartoj enhavantaj \"Bato\" faras #b",
+      " pli da damaĝo."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Mantelbuko",
+    "FLAVOR": "Simpla sed fortika dezajno.",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, gajnu po #b",
+      " da #yŝirmo por ĉiu karto en via mano."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Volframa bastono",
+    "FLAVOR": "Estas ege ege peze.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi perdus vivpoentojn, perdu #b",
+      " malpli."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Korna biteto",
+    "FLAVOR": "Estas agrable teni ĝin en la mano. Kion ĝi celas?",
+    "DESCRIPTIONS": [
+      "Je la komenco de via 2-a vico, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Rudrorado de la kapitano",
+    "FLAVOR": "Ligna aĵo skulptita delikate precize. Nomo estas skulptita en ĝin, sed la lingvo estas fremda.",
+    "DESCRIPTIONS": [
+      "Je la komenco de via 3-a vico, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Ora okulo",
+    "FLAVOR": "Vidu en la menson de proksimuloj, aŭgurante ties estontajn agojn.",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi #yekvidas, #yekvidu #b",
+      " pliajn kartojn."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "La sono de la tambureto tenas vian menson aktiva, rivelante padon antaŭen.",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, gajnu #b",
+      " da #ymantro."
+    ]
+  }
+}

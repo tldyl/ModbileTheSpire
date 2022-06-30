@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "I Migliori",
+    "DESCRIPTION": "Cominci la partita con 5 carte incolore casuali."
+  },
+  "Binary": {
+    "NAME": "Binario",
+    "DESCRIPTION": "Quando ottieni una carta scegli fra 2 invece che 3."
+  },
+  "Brewmaster": {
+    "NAME": "Alchimista",
+    "DESCRIPTION": "Cominci la partita con 5 copie di Alchimia e la Statua della Bestia Bianca."
+  },
+  "Cursed Run": {
+    "NAME": "Partita Maledetta",
+    "DESCRIPTION": "Quando sconfiggi un Boss vieni Maledetto. La Reliquia iniziale viene sostituita da: Chiave Maledetta, Amuleto Pietrascura e Bambola Du-Vu."
+  },
+  "Diverse": {
+    "NAME": "Differente",
+    "DESCRIPTION": "Puoi ottenere carte di altre classi."
+  },
+  "Red Cards": {
+    "NAME": "Carte Rosse",
+    "DESCRIPTION": "Trovi carte rosse fra le ricompense e nel negozio."
+  },
+  "Green Cards": {
+    "NAME": "Carte Verdi",
+    "DESCRIPTION": "Trovi carte verdi fra le ricompense e nel negozio."
+  },
+  "Blue Cards": {
+    "NAME": "Carte Blu",
+    "DESCRIPTION": "Trovi carte blu fra le ricompense e nel negozio."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Ad inizio partita scegli 15 carte per costruire il mazzo iniziale."
+  },
+  "Elite Swarm": {
+    "NAME": "Sciame di Elite",
+    "DESCRIPTION": "La Guglia brulica di Elite che una volta sconfitti offrono ricompense migliori."
+  },
+  "Endless": {
+    "NAME": "Infinito",
+    "DESCRIPTION": "Vincere ti riporterà al primo Atto con lo stesso mazzo. Attenzione, la corruzione consuma tutto alla fine..."
+  },
+  "Blight Chests": {
+    "NAME": "Scrigni Corrotti",
+    "DESCRIPTION": "Tutti gli scrigni dei Boss contengono una corruzione dopo che superi il terzo atto in modalità Infinito."
+  },
+  "Heirloom": {
+    "NAME": "Eredità",
+    "DESCRIPTION": "Cominci la partita con una reliquia Rara."
+  },
+  "Hoarder": {
+    "NAME": "Compulsivo",
+    "DESCRIPTION": "Ogni volta che aggiungi una carta al mazzo ne aggiungi anche altre due copie. Il Mercante non ti permette di rimuovere carte."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "La Reliquia iniziale viene sostituita dalla Trottola Perpetua."
+  },
+  "Insanity": {
+    "NAME": "Pazzia",
+    "DESCRIPTION": "Cominci la partita con un mazzo di 50 carte casuali."
+  },
+  "Lethality": {
+    "NAME": "Morte Rapida",
+    "DESCRIPTION": "Cominci ogni combattimento con 3 di Forza in più. Tutti i nemici partono con 3 di Forza."
+  },
+  "Midas": {
+    "NAME": "Re Mida",
+    "DESCRIPTION": "I nemici garantiscono il #b200% #yd'Oro in più ma non puoi più Forgiare ai Falò."
+  },
+  "My True Form": {
+    "NAME": "La Mia Forma Finale",
+    "DESCRIPTION": "Inizi con una copia di Forma Demoniaca, Forma Spettrale, Forma Ricorsiva e Forma del Deva."
+  },
+  "Night Terrors": {
+    "NAME": "Incubi",
+    "DESCRIPTION": "Riposare ti cura del tutto, ma costa 5 PV massimi."
+  },
+  "One Hit Wonder": {
+    "NAME": "Meteora",
+    "DESCRIPTION": "Inizi la partita con 1 PV massimo."
+  },
+  "Praise Snecko": {
+    "NAME": "Lode a Snecko",
+    "DESCRIPTION": "La Reliquia Iniziale viene sostituita dall'Occhio di Snecko"
+  },
+  "Shiny": {
+    "NAME": "Luccichio",
+    "DESCRIPTION": "Il mazzo iniziale è composto da 1 copia di ogni carta rara."
+  },
+  "Specialized": {
+    "NAME": "Specialista",
+    "DESCRIPTION": "Cominci la partita con 5 copie di una singola carta."
+  },
+  "Starter Deck": {
+    "NAME": "Mazzo Introduttivo",
+    "DESCRIPTION": "Cominci con Binario e Corona Infranta, non ottieni carte sconfiggendo i nemici."
+  },
+  "Stunted Growth": {
+    "NAME": "Blocco della Crescita",
+    "DESCRIPTION": "In modalità Infinito, non ricevi più carte sconfiggendo i nemici dopo aver superato il Terzo Atto."
+  },
+  "Terminal": {
+    "NAME": "Terminale",
+    "DESCRIPTION": "Ogni volta che entri in una nuova stanza perdi 1 PV Massimo. Cominci ogni combattimento con 5 Armatura a Piastre."
+  },
+  "Time Dilation": {
+    "NAME": "Dilatazione Temporale",
+    "DESCRIPTION": "I nemici che incontri hanno il debuff Lento."
+  },
+  "Uncertain Future": {
+    "NAME": "Futuro Certo",
+    "DESCRIPTION": "C'è solo una strada percorribile sulla mappa."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "I nemici Normali offrono reliquie invece che carte."
+  },
+  "SealedDeck": {
+    "NAME": "Formato Sealed",
+    "DESCRIPTION": "Costruisci un mazzo a partire da 30 carte casuali."
+  },
+  "Flight": {
+    "NAME": "Volo",
+    "DESCRIPTION": "Quando scegli una stanza dove andare puoi ignorare il percorso."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Il mazzo iniziale è un mix fra quello di tutti i personaggi."
+  },
+  "NeowTime": {
+    "NAME": "Ora di Neow",
+    "DESCRIPTION": "Ricevi 3 benedizioni e 1 corruzione da Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Nemici Intelligenti",
+    "DESCRIPTION": "I nemici hanno mosse ed attacchi più pericolosi."
+  },
+  "Careless": {
+    "NAME": "Distratto",
+    "DESCRIPTION": "All'inizio di ogni turno scarti la prima carta della pila."
+  },
+  "ControlledChaos": {
+    "NAME": "Caos Premeditato",
+    "DESCRIPTION": "Cominci con l'Occhio Ghiacciato. Ad inizio turno aggiungi 10 carte casuali in fondo al mazzo."
+  },
+  "MonsterHunter": {
+    "NAME": "[DEPRECATED] Colosso",
+    "DESCRIPTION": "I nemici hanno più PV ma conferiscono migliori ricompense."
+  },
+  "DeadlyEvents": {
+    "NAME": "Occasioni Mortali",
+    "DESCRIPTION": "Le stanze ? ora contengono anche Elite, ma hanno chance più alte di contenere tesori."
+  },
+  "Daily Mods": {
+    "NAME": "Giornaliera",
+    "DESCRIPTION": "Affronti una sfida con esattamente 3 modificatori casuali"
+  },
+  "Colorless Cards": {
+    "NAME": "Carte Incolore",
+    "DESCRIPTION": "Trovi carte incolore fra le ricompense e nel negozio."
+  },
+  "The Ending": {
+    "NAME": "The Ending",
+    "DESCRIPTION": "Enables the Final Act."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+  }
+}

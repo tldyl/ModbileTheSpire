@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "錬金術師",
+    "DESCRIPTIONS": [
+      "ポーションを5個購入した。"
+    ]
+  },
+  "Ascension": {
+    "NAME": "登塔ボーナス",
+    "DESCRIPTIONS": [
+      "登塔レベルごとに5%のスコアボーナスが付く。"
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "エリート撃破: 彼方",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "超越",
+    "DESCRIPTIONS": [
+      "ダメージを受けずにボスを3体倒す。"
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "ボススレイヤー",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "チャンピオン",
+    "DESCRIPTIONS": [
+      "ダメージを受けずにエリートを1体倒す。"
+    ]
+  },
+  "Cheater": {
+    "NAME": "チーター",
+    "DESCRIPTIONS": [
+      "改造行為を検出しました。2回検出されると、スコアは永久にランキングに載らなくなります。"
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "エリート撃破: 栄えし所",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "収集家",
+    "DESCRIPTIONS": [
+      "同名のカードを4枚所持する (スターターカードを除く)。"
+    ]
+  },
+  "Combo": {
+    "NAME": "コ・コ・コ・コンボォー！",
+    "DESCRIPTIONS": [
+      "1ターンで20枚のカードを使用する。"
+    ]
+  },
+  "Curses": {
+    "NAME": "呪われた！",
+    "DESCRIPTIONS": [
+      "デッキに呪いカードを5枚所持する。"
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "歩く百科事典",
+    "DESCRIPTIONS": [
+      "デッキにカードを50枚以上所持する。"
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "エリート撃破: 幕開け",
+    "DESCRIPTIONS": []
+  },
+  "Highlander": {
+    "NAME": "高地人",
+    "DESCRIPTIONS": [
+      "デッキに同名のカードが重複していない (スターターカードを除く)。"
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "ゴールド大好き",
+    "DESCRIPTIONS": [
+      "3,000ゴールドを獲得した。"
+    ]
+  },
+  "Librarian": {
+    "NAME": "司書",
+    "DESCRIPTIONS": [
+      "デッキにカードを35枚以上所持する。"
+    ]
+  },
+  "Light Speed": {
+    "NAME": "光速！",
+    "DESCRIPTIONS": [
+      "45分未満でクリアする。"
+    ]
+  },
+  "Minimalist": {
+    "NAME": "ミニマリスト",
+    "DESCRIPTIONS": [
+      "デッキからカードを5枚以上除去した。"
+    ]
+  },
+  "Money Money": {
+    "NAME": "マネー、マネー",
+    "DESCRIPTIONS": [
+      "1,000ゴールドを獲得した。"
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "ミステリーマシン",
+    "DESCRIPTIONS": [
+      "？の部屋を15回以上訪れた。"
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "思うがままに",
+    "DESCRIPTIONS": [
+      "自滅した。"
+    ]
+  },
+  "Overkill": {
+    "NAME": "オーバーキル",
+    "DESCRIPTIONS": [
+      "一度のアタックで99以上のダメージを与える。"
+    ]
+  },
+  "Pauper": {
+    "NAME": "持たざる者",
+    "DESCRIPTIONS": [
+      "レアカードを1枚も所持していない。"
+    ]
+  },
+  "Perfect": {
+    "NAME": "パーフェクト",
+    "DESCRIPTIONS": [
+      "ダメージを受けずにボスを1体倒す。"
+    ]
+  },
+  "Poopy": {
+    "NAME": "クソ！",
+    "DESCRIPTIONS": [
+      "精霊のふんを獲得した。"
+    ]
+  },
+  "Raining Money": {
+    "NAME": "金の雨",
+    "DESCRIPTIONS": [
+      "2,000ゴールドを獲得した。"
+    ]
+  },
+  "Shiny": {
+    "NAME": "キラキラ大好き",
+    "DESCRIPTIONS": [
+      "レリックを25個以上所持する。"
+    ]
+  },
+  "Speedster": {
+    "NAME": "スピードスター",
+    "DESCRIPTIONS": [
+      "60分未満でクリアする。"
+    ]
+  },
+  "Stuffed": {
+    "NAME": "ぎゅうぎゅう詰め",
+    "DESCRIPTIONS": [
+      "最大HPを30以上増加させた。"
+    ]
+  },
+  "Well Fed": {
+    "NAME": "お腹いっぱい",
+    "DESCRIPTIONS": [
+      "最大HPを15以上増加させた。"
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "ハートブレイカー",
+    "DESCRIPTIONS": [
+      "心臓を倒す。"
+    ]
+  }
+}

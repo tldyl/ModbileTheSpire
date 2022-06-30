@@ -1,0 +1,1886 @@
+{
+  "A Thousand Cuts": {
+    "NAME": "Mil Cortes",
+    "DESCRIPTION": "Cuando juegues una carta, haz !M! de daño a TODOS los enemigos."
+  },
+  "Accuracy": {
+    "NAME": "Precisión",
+    "DESCRIPTION": "'Navaja' hace !M! de daño adicional."
+  },
+  "Acrobatics": {
+    "NAME": "Acrobacias",
+    "DESCRIPTION": "Roba !M! cartas. NL Descarta 1 carta."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalina",
+    "DESCRIPTION": "Gana [G]. NL Roba 2 cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Gana [G] [G]. NL Roba 2 cartas. NL Agota."
+  },
+  "After Image": {
+    "NAME": "Imagen Residual",
+    "DESCRIPTION": "Cuando juegues una carta, gana 1 de Bloqueo.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Cuando juegues una carta, gana 1 de Bloqueo."
+  },
+  "Aggregate": {
+    "NAME": "Agregar",
+    "DESCRIPTION": "Gana [B] por cada !M! cartas en la pila de extracción."
+  },
+  "All For One": {
+    "NAME": "Todos para Uno",
+    "DESCRIPTION": "Haz !D! de daño. Pon todas las cartas de coste 0 de la pila de descarte en la mano."
+  },
+  "All Out Attack": {
+    "NAME": "Ataque Masivo",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Descarta 1 carta al azar."
+  },
+  "Allocate": {
+    "NAME": "Asignar",
+    "DESCRIPTION": "Gana !M! de Concentración. NL Pierde 1 de Fuerza. NL Pierde 1 de Destreza."
+  },
+  "Amplify": {
+    "NAME": "Amplificar",
+    "DESCRIPTION": "Juega tu siguiente carta de poder dos veces este turno.",
+    "UPGRADE_DESCRIPTION": "Juega tus siguientes dos !M! cartas de Poder dos veces este turno."
+  },
+  "Anger": {
+    "NAME": "Ira",
+    "DESCRIPTION": "Haz !D! de daño. NL Añade una copia de esta carta a la pila de descarte."
+  },
+  "Apotheosis": {
+    "NAME": "Apoteosis",
+    "DESCRIPTION": "Mejora TODAS tus cartas hasta que termine el combate. NL Agota."
+  },
+  "Armaments": {
+    "NAME": "Armamentos",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Mejora una carta en la mano hasta el fin del combate.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Mejora TODAS las cartas en la mano hasta el fin del combate."
+  },
+  "AscendersBane": {
+    "NAME": "Perdición del Ascendente",
+    "DESCRIPTION": "Injugable. NL Etérea. NL No se puede eliminar del mazo."
+  },
+  "Auto Shields": {
+    "NAME": "Escudos Automáticos",
+    "DESCRIPTION": "Si tienes 0 de Bloqueo, gana !B! de Bloqueo."
+  },
+  "Axe Kick": {
+    "NAME": "Patada Vertical",
+    "DESCRIPTION": "Haz !D! de daño. NL Descarga tu siguiente Orbe."
+  },
+  "Backflip": {
+    "NAME": "Voltereta Hacia Atrás",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Roba 2 cartas."
+  },
+  "Backstab": {
+    "NAME": "Puñalada Trapera",
+    "DESCRIPTION": "Haz !D! de daño. NL Innata. NL Agota."
+  },
+  "Ball Lightning": {
+    "NAME": "Bola Relámpago",
+    "DESCRIPTION": "Haz !D! de daño. Invoca !M! Relámpago."
+  },
+  "Bandage Up": {
+    "NAME": "Vendarse",
+    "DESCRIPTION": "Cura !M! PV. NL Agota."
+  },
+  "Bane": {
+    "NAME": "Plaga",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo está Envenenado, haz !D! de daño otra vez."
+  },
+  "Barrage": {
+    "NAME": "Bombardeo",
+    "DESCRIPTION": "Haz !D! de daño por cada Orbe invocado."
+  },
+  "Barricade": {
+    "NAME": "Barricada",
+    "DESCRIPTION": "El Bloqueo ya no desaparece al inicio de cada turno."
+  },
+  "Bash": {
+    "NAME": "Porrazo",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Vulnerable."
+  },
+  "Battle Trance": {
+    "NAME": "Trance de Batalla",
+    "DESCRIPTION": "Roba !M! cartas. NL Ya no puedes robar más cartas en este turno."
+  },
+  "Beam Cell": {
+    "NAME": "Carga de Haz",
+    "DESCRIPTION": "Haz !D! de daño y aplica !M! Vulnerable."
+  },
+  "Berserk": {
+    "NAME": "Frenesí",
+    "DESCRIPTION": "Gana !M! Vulnerable. NL Gana [R] al inicio de cada turno."
+  },
+  "Biased Cognition": {
+    "NAME": "Conocimiento Prejuicioso",
+    "DESCRIPTION": "Gana !M! de Concentración. NL Al inicio de cada turno, pierde 1 de Concentración."
+  },
+  "Bite": {
+    "NAME": "Mordisco",
+    "DESCRIPTION": "Haz !D! de daño. NL Cura !M! PV."
+  },
+  "Blade Dance": {
+    "NAME": "Danza de Navajas",
+    "DESCRIPTION": "Añade !M! Navajas a la mano."
+  },
+  "Blaster": {
+    "NAME": "Bláster",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Gana [B] por cada Orbe invocado. NL Agota."
+  },
+  "Blind": {
+    "NAME": "Cegar",
+    "DESCRIPTION": "Aplica !M! Débil.",
+    "UPGRADE_DESCRIPTION": "Aplica !M! Débil a TODOS los enemigos."
+  },
+  "Blizzard": {
+    "NAME": "Ventisca",
+    "DESCRIPTION": "Haz daño igual a !M! veces la Escarcha Canalizada en este combate a TODOS los enemigos.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Haz !D! de daño)",
+      ""
+    ]
+  },
+  "Blood for Blood": {
+    "NAME": "Sangre por Sangre",
+    "DESCRIPTION": "Cuesta 1 [R] menos NL por cada vez que pierdas PV en el combate. NL Haz !D! de daño."
+  },
+  "Bloodletting": {
+    "NAME": "Flebotomía",
+    "DESCRIPTION": "Gana [R] [R]. NL Pierde 3 PV.",
+    "UPGRADE_DESCRIPTION": "Gana [R] [R] [R]. NL Pierde 3 PV."
+  },
+  "Bludgeon": {
+    "NAME": "Cachiporra",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Blur": {
+    "NAME": "Borroso",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Bloqueo no desaparece al inicio del siguiente turno."
+  },
+  "Body Slam": {
+    "NAME": "Embestida",
+    "DESCRIPTION": "Haz daño igual al Bloqueo actual.",
+    "UPGRADE_DESCRIPTION": " NL (Haz !D! de daño)"
+  },
+  "BootSequence": {
+    "NAME": "Secuencia de Arranque",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Innata. NL Agota."
+  },
+  "Bouncing Flask": {
+    "NAME": "Frasco Rebotador",
+    "DESCRIPTION": "Aplica 3 de Veneno a un enemigo al azar !M! veces."
+  },
+  "Brutality": {
+    "NAME": "Brutalidad",
+    "DESCRIPTION": "Al inicio de tu turno, pierde 1 PV y roba 1 carta.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, pierde 1 PV y roba 1 carta."
+  },
+  "Buffer": {
+    "NAME": "Búfer",
+    "DESCRIPTION": "Evita la proxima vez que fueras a perder PV.",
+    "UPGRADE_DESCRIPTION": "Evita las próximas !M! veces que fueras a perder PV."
+  },
+  "Bullet Time": {
+    "NAME": "Tiempo Bala",
+    "DESCRIPTION": "Reduce el coste de las cartas en tu mano a 0 este turno. No puedes robar más cartas este turno."
+  },
+  "Burn": {
+    "NAME": "Quemadura",
+    "DESCRIPTION": "Injugable. NL Al final de tu turno, recibe 2 de daño.",
+    "UPGRADE_DESCRIPTION": "Injugable. NL Al final de tu turno, recibe 4 de daño."
+  },
+  "Burning Pact": {
+    "NAME": "Pacto Ardiente",
+    "DESCRIPTION": "Agota 1 carta. NL Roba !M! cartas."
+  },
+  "Burst": {
+    "NAME": "Ráfaga",
+    "DESCRIPTION": "En este turno, tu siguiente carta de Habilidad se juega 2 veces.",
+    "UPGRADE_DESCRIPTION": "En este turno, tus siguientes !M! cartas de Habilidad se juegan 2 veces."
+  },
+  "Calculated Gamble": {
+    "NAME": "Apuesta Calculada",
+    "DESCRIPTION": "Descarta tu mano, NL entonces roba el mismo numero de cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Descarta tu mano, NL entonces roba el mismo numero de cartas."
+  },
+  "Caltrops": {
+    "NAME": "Abrojos",
+    "DESCRIPTION": "Cada vez que te ataquen, haz !M! de daño al atacante."
+  },
+  "Capacitor": {
+    "NAME": "Condensador",
+    "DESCRIPTION": "Gana !M! espacios de Orbe.",
+    "UPGRADE_DESCRIPTION": "Gana !M! espacios de Orbe."
+  },
+  "Carnage": {
+    "NAME": "Carnicería",
+    "DESCRIPTION": "Etérea. NL Haz !D! de daño."
+  },
+  "Catalyst": {
+    "NAME": "Catalizador",
+    "DESCRIPTION": "Duplica la cantidad de Veneno de un enemigo. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Triplica la cantidad de Veneno de un enemigo. NL Agota."
+  },
+  "Chaos": {
+    "NAME": "Caos",
+    "DESCRIPTION": "Invoca !M! Orbe al azar.",
+    "UPGRADE_DESCRIPTION": "Invoca !M! Orbes al azar."
+  },
+  "Chill": {
+    "NAME": "Enfriar",
+    "DESCRIPTION": "Invoca !M! Escarcha por cada enemigo en combate. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Invoca !M! Escarcha por cada enemigo en combate. NL Agota."
+  },
+  "Choke": {
+    "NAME": "Estrangular",
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que juegues una carta este turno, el enemigo elegido pierde !M! PV."
+  },
+  "Chrysalis": {
+    "NAME": "Crisálida",
+    "DESCRIPTION": "Añade !M! cartas al azar de Habilidad en la pila de extracción. Cuestan 0 este combate. NL Agota."
+  },
+  "Clash": {
+    "NAME": "Choque",
+    "DESCRIPTION": "Solo puede ser jugada si cada carta en la mano es una carta de Ataque. NL Haz !D! de daño.",
+    "EXTENDED_DESCRIPTION": [
+      "Tengo cartas que no son de ataque en la mano."
+    ]
+  },
+  "Cleave": {
+    "NAME": "Hender",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Capa y Espada",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Añade !M! Navaja a la mano.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Añade !M! Navajas a la mano."
+  },
+  "Clothesline": {
+    "NAME": "Soga",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Débil."
+  },
+  "Clumsy": {
+    "NAME": "Patoso",
+    "DESCRIPTION": "Injugable. NL Etérea."
+  },
+  "Cold Snap": {
+    "NAME": "Frío Repentino",
+    "DESCRIPTION": "Haz !D! de daño. Invoca !M! Escarcha."
+  },
+  "Combust": {
+    "NAME": "Combustión",
+    "DESCRIPTION": "Al final de tu turno, pierde 1 PV y haz !M! de daño a TODOS los enemigos."
+  },
+  "Compile Driver": {
+    "NAME": "Compilar Controlador",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba !M! carta por cada Orbe unico que tengas."
+  },
+  "Concentrate": {
+    "NAME": "Concentración",
+    "DESCRIPTION": "Descarta !M! cartas. NL Gana [G] [G]."
+  },
+  "Conserve Battery": {
+    "NAME": "Cargar Batería",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Al siguiente turno gana [B]."
+  },
+  "Consume": {
+    "NAME": "Consumir",
+    "DESCRIPTION": "Gana !M! de Concentración. NL Pierde 1 Espacio de Orbe."
+  },
+  "Coolheaded": {
+    "NAME": "Con la Cabeza Fría",
+    "DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Invoca 1 Escarcha. NL Roba !M! cartas."
+  },
+  "Core Surge": {
+    "NAME": "Agitación del Núcleo",
+    "DESCRIPTION": "Haz !D! de daño. NL Gana !M! de Artefacto. NL Agota."
+  },
+  "Corpse Explosion": {
+    "NAME": "Explosión de Cadáver",
+    "DESCRIPTION": "Aplica !M! de Veneno. NL Cuando el enemigo muere, hace daño a TODOS los enemigos por un valor igual a sus PV Máximos.",
+    "UPGRADE_DESCRIPTION": "Obsoleto",
+    "EXTENDED_DESCRIPTION": [
+      "Obsoleto"
+    ]
+  },
+  "Corruption": {
+    "NAME": "Corrupción",
+    "DESCRIPTION": "Las cartas de Habilidad cuestan 0. NL Cada vez que juegues una carta de Habilidad, Agotala."
+  },
+  "Creative AI": {
+    "NAME": "IA Creativa",
+    "DESCRIPTION": "Al inicio de cada turno, añade una carta de Poder al azar a la mano."
+  },
+  "Crippling Poison": {
+    "NAME": "Veneno Paralizador",
+    "DESCRIPTION": "Aplica !M! de Veneno y 2 Débil a TODOS los enemigos. NL Agota."
+  },
+  "Dagger Spray": {
+    "NAME": "Lluvia de Dagas",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos 2 veces."
+  },
+  "Dagger Throw": {
+    "NAME": "Lanzamiento de Daga",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba 1 carta. NL Descarta 1 carta."
+  },
+  "Dark Embrace": {
+    "NAME": "Abrazo Oscuro",
+    "DESCRIPTION": "Cada vez que una carta es Agotada, NL roba 1 carta."
+  },
+  "Dark Shackles": {
+    "NAME": "Grilletes Oscuros",
+    "DESCRIPTION": "El enemigo pierde !M! de Fuerza por el resto de este turno. NL Agota."
+  },
+  "Darkness": {
+    "NAME": "Oscuridad",
+    "DESCRIPTION": "Invoca !M! Oscuridad.",
+    "UPGRADE_DESCRIPTION": "Invoca !M! Oscuridad. NL Activa la habilidad pasiva de todos tus orbes de Oscuridad."
+  },
+  "Dash": {
+    "NAME": "Correr",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Haz !D! de daño."
+  },
+  "Dazed": {
+    "NAME": "Desorientado",
+    "DESCRIPTION": "Injugable. NL Etérea."
+  },
+  "Deadly Poison": {
+    "NAME": "Veneno Mortal",
+    "DESCRIPTION": "Aplica !M! de Veneno."
+  },
+  "Decay": {
+    "NAME": "Descomposición",
+    "DESCRIPTION": "Injugable. NL Al final de tu turno, recibe 2 de daño."
+  },
+  "Deep Breath": {
+    "NAME": "Respirar Hondo",
+    "DESCRIPTION": "Baraja la pila de descarte en la pila de extracción. NL Roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Baraja la pila de descarte en la pila de extracción. NL Roba !M! cartas."
+  },
+  "Defend_B": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "Defend_G": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "Defend_R": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "Deflect": {
+    "NAME": "Desviar",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "Defragment": {
+    "NAME": "Desfragmentar",
+    "DESCRIPTION": "Gana !M! de Concentración."
+  },
+  "Demon Form": {
+    "NAME": "Forma Demoníaca",
+    "DESCRIPTION": "Al inicio de cada turno, gana !M! de Fuerza."
+  },
+  "Die Die Die": {
+    "NAME": "¡Muere, Muere, Muere!",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Agota."
+  },
+  "Disarm": {
+    "NAME": "Desarmar",
+    "DESCRIPTION": "El enemigo pierde !M! de Fuerza. NL Agota."
+  },
+  "Discovery": {
+    "NAME": "Descubrimiento",
+    "DESCRIPTION": "Elige 1 carta de 3 al azar para añadir a la mano. Su coste es 0 en este turno. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige 1 carta de 3 al azar para añadir a la mano. Su coste es 0 en este turno."
+  },
+  "Distraction": {
+    "NAME": "Distracción",
+    "DESCRIPTION": "Añade una carta de Habilidad al azar a la mano. NL Su coste es 0 en este turno. NL Agota."
+  },
+  "Dodge and Roll": {
+    "NAME": "Esquivar y Rodar",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Al siguiente turno gana !B! de Bloqueo."
+  },
+  "Doom and Gloom": {
+    "NAME": "Muerte y Desolación",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Invoca !M! Oscuridad."
+  },
+  "Doppelganger": {
+    "NAME": "Doppelganger",
+    "DESCRIPTION": "En tu siguiente turno, roba X cartas y gana X [G]. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Al siguiente turno, roba X+1 cartas y gana X+1 [G]. NL Agota."
+  },
+  "Double Energy": {
+    "NAME": "Duplicar Energía",
+    "DESCRIPTION": "Duplica la Energía. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Duplica la Energía."
+  },
+  "Double Tap": {
+    "NAME": "Golpear Doble",
+    "DESCRIPTION": "En este turno, tu siguiente carta de Ataque se juega dos veces.",
+    "UPGRADE_DESCRIPTION": "En este turno, tus siguientes !M! cartas de Ataque se juegan dos veces."
+  },
+  "Doubt": {
+    "NAME": "Duda",
+    "DESCRIPTION": "Injugable. NL Al final de tu turno, gana 1 Débil."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Entrada Dramática",
+    "DESCRIPTION": "Innata. NL Haz !D! de daño a TODOS los enemigos. NL Agota."
+  },
+  "Dropkick": {
+    "NAME": "Patada Voladora",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo es Vulnerable, NL Gana [R] y NL roba 1 carta."
+  },
+  "Dual Wield": {
+    "NAME": "A Dos Manos",
+    "DESCRIPTION": "Crea 1 copia de una carta de Ataque o carta de Poder en la mano.",
+    "UPGRADE_DESCRIPTION": "Crea 2 copias de una carta de Ataque o carta de Poder en la mano."
+  },
+  "Dualcast": {
+    "NAME": "Doble Descarga",
+    "DESCRIPTION": "Descarga tu siguiente Orbe 2 veces."
+  },
+  "Echo Form": {
+    "NAME": "Forma Eco",
+    "DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "La primera carta que juegues cada turno se juega dos veces."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodinámicas",
+    "DESCRIPTION": "Relámpago ahora daña a TODOS los enemigos. NL Invoca !M! Relámpago.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Endless Agony": {
+    "NAME": "Agonía Eterna",
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que robes esta carta, añade una copia a la mano. NL Agota."
+  },
+  "Energy Pulse": {
+    "NAME": "Pulso de Energía",
+    "DESCRIPTION": "Gana Bloqueo igual a la Energía.",
+    "UPGRADE_DESCRIPTION": "Gana Bloqueo igual al doble de tu Energía."
+  },
+  "Enlightenment": {
+    "NAME": "Iluminación",
+    "DESCRIPTION": "Reduce el coste de cartas en la mano a 1 este turno.",
+    "UPGRADE_DESCRIPTION": "Reduce el coste de cartas en la mano a 1 este combate."
+  },
+  "Entrench": {
+    "NAME": "Atrincherarse",
+    "DESCRIPTION": "Duplica tu Bloqueo actual.",
+    "UPGRADE_DESCRIPTION": "Duplica tu Bloqueo actual."
+  },
+  "Envenom": {
+    "NAME": "Envenenar",
+    "DESCRIPTION": "Cada vez que una carta de Ataque hace daño no bloqueado, aplica 1 de Veneno."
+  },
+  "Escape Plan": {
+    "NAME": "Plan de Escape",
+    "DESCRIPTION": "Roba 1 carta. NL Si la carta robada es de Habilidad, gana !B! de Bloqueo."
+  },
+  "Eviscerate": {
+    "NAME": "Destripar",
+    "DESCRIPTION": "Cuesta 1 [G] menos NL por cada carta descartada este turno. NL Haz !D! de daño 3 veces."
+  },
+  "Evolve": {
+    "NAME": "Evolucionar",
+    "DESCRIPTION": "Cada vez que robes una carta de Estado, roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Cada vez que robes una carta de Estado, roba !M! cartas."
+  },
+  "Exhume": {
+    "NAME": "Desenterrar",
+    "DESCRIPTION": "Coloca una carta agotada en la mano. NL Agota."
+  },
+  "Expertise": {
+    "NAME": "Pericia",
+    "DESCRIPTION": "Roba cartas hasta que tengas !M! cartas en mano."
+  },
+  "FTL": {
+    "NAME": "Velocidad de la Luz",
+    "DESCRIPTION": "Haz !D! de daño. Si has jugado menos de !M! cartas este turno, roba 1 carta.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " carta jugada)",
+      " cartas jugadas)"
+    ]
+  },
+  "Feed": {
+    "NAME": "Alimentarse",
+    "DESCRIPTION": "Haz !D! de daño. NL Si es Fatal, gana !M! PV máximos de forma permanente. Agota."
+  },
+  "Feel No Pain": {
+    "NAME": "No hay Dolor",
+    "DESCRIPTION": "Cada vez que una carta es Agotada, NL gana !M! de Bloqueo."
+  },
+  "Fiend Fire": {
+    "NAME": "Fuego Demoníaco",
+    "DESCRIPTION": "Agota tu mano. NL Haz !D! de daño por cada carta Agotada. NL Agota."
+  },
+  "Finesse": {
+    "NAME": "Sutileza",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Roba 1 carta."
+  },
+  "Finisher": {
+    "NAME": "Remate",
+    "DESCRIPTION": "Haz !D! de daño por cada carta de Ataque jugada este turno.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " carta de Ataque jugada)",
+      " cartas de Ataque jugadas)"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Escupefuego",
+    "DESCRIPTION": "Cuando robes una carta de Estado o Maldición, haz !M! de daño a TODOS los enemigos."
+  },
+  "Fission": {
+    "NAME": "Fisión",
+    "DESCRIPTION": "Elimina todos tus Orbes, gana [B] y roba !M! carta por cada orbe eliminado. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Descarga TODOS tus Orbes, gana [B] y roba !M! carta por cada Orbe descargado. NL Agota."
+  },
+  "Flame Barrier": {
+    "NAME": "Barrera de Llamas",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Cada vez que te ataquen este turno, haz !M! de daño al atacante. "
+  },
+  "Flash of Steel": {
+    "NAME": "Destello de Acero",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba 1 carta."
+  },
+  "Flechettes": {
+    "NAME": "Dardos",
+    "DESCRIPTION": "Haz !D! de daño por cada carta de Habilidad en la mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Tienes ",
+      " carta de Habilidad).",
+      " cartas de Habilidad)."
+    ]
+  },
+  "Flex": {
+    "NAME": "Flexionar",
+    "DESCRIPTION": "Gana !M! de Fuerza. NL Al final de tu turno, pierde !M! de Fuerza."
+  },
+  "Flux Capacitor": {
+    "NAME": "Condensador de Flujo ",
+    "DESCRIPTION": "Obsoleto. Reemplaza todos los Orbes invocados por Plasma. NL Agota."
+  },
+  "Flying Knee": {
+    "NAME": "Rodillazo",
+    "DESCRIPTION": "Haz !D! de daño. NL Al siguiente turno gana [G]."
+  },
+  "Footwork": {
+    "NAME": "Juego de Pies",
+    "DESCRIPTION": "Gana !M! de Destreza."
+  },
+  "Force Field": {
+    "NAME": "Campo de Fuerza",
+    "DESCRIPTION": "El coste es 1 [B] menos por cada carta de Poder jugada este combate. NL Gana !B! de Bloqueo."
+  },
+  "Forethought": {
+    "NAME": "Premeditación",
+    "DESCRIPTION": "Coloca una carta de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada.",
+    "UPGRADE_DESCRIPTION": "Coloca cualquier número de cartas de la mano en el fondo de la pila de extracción. NL Su coste es 0 hasta que es jugada."
+  },
+  "Fusion": {
+    "NAME": "Fusión",
+    "DESCRIPTION": "Invoca !M! Plasma."
+  },
+  "Gash": {
+    "NAME": "Tajo",
+    "DESCRIPTION": "Haz !D! de daño. NL Todos los 'Tajo' hacen !M! de daño adicional este combate."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Algoritmo Genético",
+    "DESCRIPTION": "Gana !B! de Bloqueo. Al ser jugada, incrementa permanentemente el Bloqueo de esta carta en !M!. NL Agota."
+  },
+  "Ghostly": {
+    "NAME": "Espectral",
+    "DESCRIPTION": "Gana 1 Intangible. NL Agota. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "Gana 1 Intangible. NL Agota."
+  },
+  "Ghostly Armor": {
+    "NAME": "Armadura Espectral",
+    "DESCRIPTION": "Etérea. NL Gana !B! de Bloqueo."
+  },
+  "Glacier": {
+    "NAME": "Glaciar",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Invoca !M! Escarcha.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Invoca !M! Escarcha."
+  },
+  "Glass Knife": {
+    "NAME": "Cuchillo de Cristal",
+    "DESCRIPTION": "Haz !D! de daño 2 veces. El daño de esta carta se reduce en 2 este combate."
+  },
+  "Go for the Eyes": {
+    "NAME": "Ir a por los Ojos",
+    "DESCRIPTION": "Haz !D! de daño. Si el enemigo tiene la intención de atacar, aplica !M! Débil."
+  },
+  "Good Instincts": {
+    "NAME": "Buenos Instintos",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "Grand Finale": {
+    "NAME": "Gran Final",
+    "DESCRIPTION": "Solo puede ser jugada si no hay más cartas en la pila de extracción. NL Haz !D! de daño a TODOS los enemigos.",
+    "UPGRADE_DESCRIPTION": "La pila de extracción NL debe estar #rVacía."
+  },
+  "HandOfGreed": {
+    "NAME": "Mano Avariciosa",
+    "DESCRIPTION": "Haz !D! de daño. NL Si es Fatal, gana !M! de Oro."
+  },
+  "Havoc": {
+    "NAME": "Confusión",
+    "DESCRIPTION": "Juega la siguiente carta al tope de tu pila de extracción y Agotala."
+  },
+  "Headbutt": {
+    "NAME": "Cabezazo",
+    "DESCRIPTION": "Haz !D! de daño. NL Coloca una carta de la pila de descarte al tope de la pila de extracción."
+  },
+  "Heatsinks": {
+    "NAME": "Disipadores",
+    "DESCRIPTION": "Cada vez que juegues una carta de Poder, roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Cada vez que juegues una carta de Poder, roba !M! cartas."
+  },
+  "Heavy Blade": {
+    "NAME": "Espada Pesada",
+    "DESCRIPTION": "Haz !D! de daño. NL Fuerza afecta a 'Espada Pesada' !M! veces.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Fuerza afecta a 'Espada Pesada' !M! veces."
+  },
+  "Heel Hook": {
+    "NAME": "Agarre de Tobillo",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo está Débil, NL Gana [G] y NL roba 1 carta."
+  },
+  "Hello World": {
+    "NAME": "Hola Mundo",
+    "DESCRIPTION": "Al inicio de tu turno, añade una carta Común al azar a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, añade una carta Común al azar a tu mano."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemoquinesia",
+    "DESCRIPTION": "Pierde !M! PV. NL Haz !D! de daño."
+  },
+  "Hide": {
+    "NAME": "Esconderse",
+    "DESCRIPTION": "No puedes perder PV hasta el inicio del siguiente turno. NL Agota."
+  },
+  "Hologram": {
+    "NAME": "Holograma",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Devuelve una carta de la pila de descarte a la mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Devuelve una carta de la pila de descarte a la mano."
+  },
+  "Hyperbeam": {
+    "NAME": "Hiperrayo",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Pierde !M! de Concentración."
+  },
+  "Immolate": {
+    "NAME": "Inmolar",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade una Quemadura a la pila de descarte."
+  },
+  "Impatience": {
+    "NAME": "Impaciencia",
+    "DESCRIPTION": "Si no tienes cartas de Ataque en la mano, roba !M! cartas."
+  },
+  "Impervious": {
+    "NAME": "Impenetrable",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Agota."
+  },
+  "Infernal Blade": {
+    "NAME": "Espada Infernal",
+    "DESCRIPTION": "Añade una carta de Ataque al azar a la mano. NL Su coste es 0 en este turno. NL Agota."
+  },
+  "Infinite Blades": {
+    "NAME": "Navajas Infinitas",
+    "DESCRIPTION": "Al inicio de cada turno, añade 1 'Navaja' a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, añade 'Navaja' a la mano."
+  },
+  "Inflame": {
+    "NAME": "Avivar",
+    "DESCRIPTION": "Gana !M! de Fuerza."
+  },
+  "Injury": {
+    "NAME": "Lesión",
+    "DESCRIPTION": "Injugable."
+  },
+  "Intimidate": {
+    "NAME": "Intimidar",
+    "DESCRIPTION": "Aplica !M! Débil a TODOS los enemigos. NL Agota."
+  },
+  "Iron Wave": {
+    "NAME": "Onda de Hierro",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Haz !D! de daño."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Pierde 3 PV. NL Gana !M! de Fuerza."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Hábil en Todo",
+    "DESCRIPTION": "Añade !M! carta incolora al azar a la mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Añade !M! cartas incoloras al azar a la mano. NL Agota."
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTION": "Cada vez que ganes Bloqueo, haz !M! de daño a un enemigo al azar."
+  },
+  "Leap": {
+    "NAME": "Salto",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "Leg Sweep": {
+    "NAME": "Barrido de Pierna",
+    "DESCRIPTION": "Aplica !M! Débil. NL Gana !B! de Bloqueo."
+  },
+  "Limit Break": {
+    "NAME": "Romper el Límite",
+    "DESCRIPTION": "Duplica tu Fuerza. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Duplica tu Fuerza."
+  },
+  "Lockon": {
+    "NAME": "Localizar",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! ‘Localizar’ al objetivo."
+  },
+  "Loop": {
+    "NAME": "Bucle",
+    "DESCRIPTION": "Al inicio de tu turno, activa la habilidad pasiva de tu siguiente Orbe.",
+    "UPGRADE_DESCRIPTION": "Al inicio de tu turno, activa la habilidad pasiva de tu siguiente Orbe !M! veces."
+  },
+  "Machine Learning": {
+    "NAME": "Aprendizaje Automático",
+    "DESCRIPTION": "Roba !M! carta adicional al inicio de cada turno.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, roba !M! carta adicional."
+  },
+  "Madness": {
+    "NAME": "Locura",
+    "DESCRIPTION": "Una carta al azar en la mano cuesta 0 el resto del combate. NL Agota."
+  },
+  "Magnetism": {
+    "NAME": "Magnetismo",
+    "DESCRIPTION": "Al inicio de cada turno, añade una carta incolora al azar a la mano."
+  },
+  "Malaise": {
+    "NAME": "Malestar",
+    "DESCRIPTION": "El enemigo pierde X de Fuerza. Aplica X Débil. NL Agota.",
+    "UPGRADE_DESCRIPTION": "El enemigo pierde X+1 de Fuerza. Aplica X+1 Débil. NL Agota."
+  },
+  "Master of Strategy": {
+    "NAME": "Maestro de la Estrategia",
+    "DESCRIPTION": "Roba !M! cartas. NL Agota."
+  },
+  "Masterful Stab": {
+    "NAME": "Puñalada Maestra",
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que recibas daño, aumenta el coste de esta carta en 1. ",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Mayhem": {
+    "NAME": "Revuelta",
+    "DESCRIPTION": "Al inicio de tu turno, juega la carta al tope de la pila de extracción."
+  },
+  "Melter": {
+    "NAME": "Fundir",
+    "DESCRIPTION": "Quita todo el Bloqueo de un enemigo. NL Haz !D! de daño."
+  },
+  "Metallicize": {
+    "NAME": "Metalizar",
+    "DESCRIPTION": "Al final de tu turno, gana !M! de Bloqueo."
+  },
+  "Metamorphosis": {
+    "NAME": "Metamorfosis",
+    "DESCRIPTION": "Añade !M! ataques al azar en la pila de extracción. Cuestan 0 este combate. NL Agota."
+  },
+  "Meteor Strike": {
+    "NAME": "Golpe Meteoro",
+    "DESCRIPTION": "Haz !D! de daño. NL Invoca !M! Plasma."
+  },
+  "Mind Blast": {
+    "NAME": "Explosión Mental",
+    "DESCRIPTION": "Innata. NL Haz de daño igual al numero de cartas en la pila de extracción.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Haz de daño igual al numero de cartas en la pila de extracción",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Haz !D! de daño)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "Multilanzamiento",
+    "DESCRIPTION": "Descarga tu siguiente Orbe X veces.",
+    "UPGRADE_DESCRIPTION": "Descarga tu siguiente Orbe X+1 veces."
+  },
+  "Necronomicurse": {
+    "NAME": "Necronomaldición",
+    "DESCRIPTION": "Injugable. NL No hay escapatoria de esta maldición."
+  },
+  "Neutralize": {
+    "NAME": "Neutralizar",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Débil."
+  },
+  "Night Terror": {
+    "NAME": "Pesadilla",
+    "DESCRIPTION": "Elige una carta. NL Al siguiente turno, añade !M! copias de esa carta a la mano. Agota.",
+    "EXTENDED_DESCRIPTION": [
+      "Solo puedo usarla NL ",
+      " NL una vez por turno."
+    ]
+  },
+  "Normality": {
+    "NAME": "Normalidad",
+    "DESCRIPTION": "Injugable. NL No puedes jugar más de 3 cartas este turno.",
+    "EXTENDED_DESCRIPTION": [
+      "Solo puedo jugar hasta NL #r3 cartas este turno.",
+      "Injugable. NL No puedes jugar más de ",
+      " cartas per turno.",
+      " cartas per turno. NL Has jugado ",
+      " carta este turno.",
+      " cartas este turno."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Gases Tóxicos",
+    "DESCRIPTION": "Al inicio de tu turno, aplica !M! de Veneno a TODOS los enemigos."
+  },
+  "Offering": {
+    "NAME": "Ofrenda",
+    "DESCRIPTION": "Pierde 6 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Pierde 6 PV. NL Gana [R] [R]. NL Roba !M! cartas. NL Agota."
+  },
+  "Outmaneuver": {
+    "NAME": "Aventajar",
+    "DESCRIPTION": "Al siguiente turno NL gana [G] [G].",
+    "UPGRADE_DESCRIPTION": "Al siguiente turno NL gana [G] [G] [G]."
+  },
+  "Pain": {
+    "NAME": "Dolor",
+    "DESCRIPTION": "Injugable. NL Mientras esté en mano, NL pierde 1 PV cuando se juegue otra carta."
+  },
+  "Panacea": {
+    "NAME": "Panacea",
+    "DESCRIPTION": "Gana !M! de Artefacto. NL Agota."
+  },
+  "Panache": {
+    "NAME": "Estilo",
+    "DESCRIPTION": "Cada vez que que juegues 5 cartas en un solo turno, haz !M! de daño a TODOS los enemigos."
+  },
+  "PanicButton": {
+    "NAME": "Botón del pánico",
+    "DESCRIPTION": "Gana !B! de Bloqueo. No puedes ganar Bloqueo de cartas durante !M! turnos. NL Agota."
+  },
+  "Parasite": {
+    "NAME": "Parásito",
+    "DESCRIPTION": "Injugable. NL Si es transformada o quitada del mazo, pierde 3 PV máximos"
+  },
+  "Perfected Strike": {
+    "NAME": "Golpe Perfeccionado",
+    "DESCRIPTION": "Haz !D! de daño. NL Haz 2 de daño adicional por cada 'Golpe' que tengas.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Haz 3 de daño adicional por cada 'Golpe' que tengas."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Asesino Fantasmal",
+    "DESCRIPTION": "En tu siguiente turno, tu daño de Ataque se duplica."
+  },
+  "PiercingWail": {
+    "NAME": "Llanto Lacerante",
+    "DESCRIPTION": "TODOS los enemigos pierden !M! de Fuerza este turno. NL Agota."
+  },
+  "Poisoned Stab": {
+    "NAME": "Puñalada Envenenada",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! de Veneno."
+  },
+  "Pommel Strike": {
+    "NAME": "Golpe de Empuñadura",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba !M! carta.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Roba !M! cartas."
+  },
+  "Power Through": {
+    "NAME": "Avanzar a Toda Costa",
+    "DESCRIPTION": "Añade 2 'Heridas' a tu mano. NL Gana !B! de Bloqueo."
+  },
+  "Predator": {
+    "NAME": "Depredador",
+    "DESCRIPTION": "Haz !D! de daño. NL El siguiente turno, roba 2 cartas adicionales."
+  },
+  "Prepared": {
+    "NAME": "Preparado",
+    "DESCRIPTION": "Roba !M! carta. NL Descarta !M! carta.",
+    "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL Descarta !M! cartas."
+  },
+  "Pride": {
+    "NAME": "Orgullo",
+    "DESCRIPTION": "Innata. Agota. NL Al final de tu turno, coloca una copia de esta carta al tope de la pila de extracción."
+  },
+  "Pummel": {
+    "NAME": "Paliza",
+    "DESCRIPTION": "Haz !D! de daño !M! veces. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño !M! veces. NL Agota."
+  },
+  "Purity": {
+    "NAME": "Pureza",
+    "DESCRIPTION": "Elige y Agota hasta !M! cartas en la mano. NL Agota."
+  },
+  "Quick Slash": {
+    "NAME": "Corte Rápido",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba 1 carta."
+  },
+  "Rage": {
+    "NAME": "Furia",
+    "DESCRIPTION": "Cada vez que juegues una carta de Ataque en este turno, gana !M! de Bloqueo."
+  },
+  "Rainbow": {
+    "NAME": "Arcoíris",
+    "DESCRIPTION": "Invoca 1 Relámpago, 1 Escarcha, y 1 Oscuridad. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Invoca 1 Relámpago, 1 Escarcha, y 1 Oscuridad."
+  },
+  "Rampage": {
+    "NAME": "Masacre",
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que esta carta es jugada, incrementa su daño en !M! este combate."
+  },
+  "Reaper": {
+    "NAME": "Parca",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. Cura igual al daño no bloqueado causado al enemigo. NL Agota."
+  },
+  "Reboot": {
+    "NAME": "Reinicio",
+    "DESCRIPTION": "Baraja todas las cartas a la pila de extracción. NL Roba !M! cartas. NL Agota."
+  },
+  "Rebound": {
+    "NAME": "Rebote",
+    "DESCRIPTION": "Haz !D! de daño. NL Coloca la siguiente carta que juegues en este turno al tope de la pila de extracción."
+  },
+  "Reckless Charge": {
+    "NAME": "Carga Imprudente",
+    "DESCRIPTION": "Haz !D! de daño. NL Baraja un *Desorientado en la pila de extracción."
+  },
+  "Recycle": {
+    "NAME": "Reciclar",
+    "DESCRIPTION": "Agota una carta. NL Gana [B] igual a su coste."
+  },
+  "Redo": {
+    "NAME": "Rehacer",
+    "DESCRIPTION": "Descarga tu siguiente Orbe. NL Invoca el Orbe que acabas de Descargar."
+  },
+  "Reflex": {
+    "NAME": "Reflejos",
+    "DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! cartas.",
+    "UPGRADE_DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! cartas.",
+    "EXTENDED_DESCRIPTION": [
+      "No puedo jugar esta carta."
+    ]
+  },
+  "Regret": {
+    "NAME": "Arrepentimiento",
+    "DESCRIPTION": "Injugable. NL Al final de tu turno, pierde PV igual al número de cartas en tu mano."
+  },
+  "Reinforced Body": {
+    "NAME": "Cuerpo Reforzado",
+    "DESCRIPTION": "Gana !B! de Bloqueo X veces."
+  },
+  "Reprogram": {
+    "NAME": "Reprogramar",
+    "DESCRIPTION": "Pierde !M! de Concentración. NL Gana !M! de Fuerza. NL Gana !M! de Destreza.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Riddle With Holes": {
+    "NAME": "Acribillar",
+    "DESCRIPTION": "Haz !D! de daño 5 veces."
+  },
+  "Rip and Tear": {
+    "NAME": "Rasgar y Desgarrar",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo al azar !M! veces."
+  },
+  "RitualDagger": {
+    "NAME": "Daga del Ritual",
+    "DESCRIPTION": "Haz !D! de daño. Si es Fatal, incrementa permanentemente el daño de esta carta en !M!. Agota."
+  },
+  "Rupture": {
+    "NAME": "Ruptura",
+    "DESCRIPTION": "Cada vez que pierdas PV por una carta, NL gana !M! de Fuerza."
+  },
+  "Sadistic Nature": {
+    "NAME": "Naturaleza Sádica",
+    "DESCRIPTION": "Cada vez que aplica una Desmejora a un enemigo, este recibe !M! de daño."
+  },
+  "Scrape": {
+    "NAME": "Arañar",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba !M! cartas. NL Descarta las cartas robadas de coste superior a 0."
+  },
+  "Searing Blow": {
+    "NAME": "Ataque Abrasador",
+    "DESCRIPTION": "Haz !D! de daño. NL Puede ser mejorada innumerables veces."
+  },
+  "Second Wind": {
+    "NAME": "Segundo Aliento",
+    "DESCRIPTION": "Agota todas las cartas que NO sean de Ataque en la mano y gana !B! de Bloqueo por cada carta."
+  },
+  "Secret Technique": {
+    "NAME": "Tecnica Secreta",
+    "DESCRIPTION": "Elige una carta de Habilidad de la pila de extracción y colocala en la mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige una carta de Habilidad de la pila de extracción y colocala en la mano.",
+    "EXTENDED_DESCRIPTION": [
+      "No hay cartas de Habilidad NL en la pila de extracción."
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "Arma Secreta",
+    "DESCRIPTION": "Elige una carta de Ataque de la pila de extracción y colocala en la mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige una carta de Ataque de la pila de extracción y colocala en la mano.",
+    "EXTENDED_DESCRIPTION": [
+      "No hay cartas de Ataque NL en la pila de extracción."
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "Cabrearse",
+    "DESCRIPTION": "Gana [R] [R]. NL Agota."
+  },
+  "Seek": {
+    "NAME": "Buscar",
+    "DESCRIPTION": "Elige !M! carta de la pila de extracción y colocala en la mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige !M! cartas de la pila de extracción y colocalas en la mano. NL Agota."
+  },
+  "Self Repair": {
+    "NAME": "Autoreparación",
+    "DESCRIPTION": "Al final del combate, cura !M! PV."
+  },
+  "Sentinel": {
+    "NAME": "Centinela",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si esta carta es Agotada, NL gana [R] [R].",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Si esta carta es Agotada, NL gana [R] [R] [R]."
+  },
+  "Setup": {
+    "NAME": "Configurar",
+    "DESCRIPTION": "Coloca una carta de la mano al tope de la pila de extracción. NL Su coste es 0 hasta que es jugada."
+  },
+  "Sever Soul": {
+    "NAME": "Cortar Alma",
+    "DESCRIPTION": "Agota toda la cartas que NO sean de Ataque en la mano. NL Haz !D! de daño."
+  },
+  "Shame": {
+    "NAME": "Vergüenza",
+    "DESCRIPTION": "Injugable. NL Al final de tu turno, gana 1 Frágil."
+  },
+  "Shiv": {
+    "NAME": "Navaja",
+    "DESCRIPTION": "Haz !D! de daño. NL Agota."
+  },
+  "Shockwave": {
+    "NAME": "Onda de Choque",
+    "DESCRIPTION": "Aplica !M! Débil y Vulnerable a TODOS los enemigos. NL Agota."
+  },
+  "Shrug It Off": {
+    "NAME": "No Hagas Caso",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Roba 1 carta."
+  },
+  "Skewer": {
+    "NAME": "Ensartar",
+    "DESCRIPTION": "Haz !D! de daño X veces."
+  },
+  "Skim": {
+    "NAME": "Colar",
+    "DESCRIPTION": "Roba !M! cartas."
+  },
+  "Slice": {
+    "NAME": "Rebanar",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Slimed": {
+    "NAME": "Viscoso",
+    "DESCRIPTION": "Agota."
+  },
+  "Spot Weakness": {
+    "NAME": "Localizar Punto Débil",
+    "DESCRIPTION": "Si un enemigo tiene intención de atacar, gana !M! de Fuerza."
+  },
+  "Stack": {
+    "NAME": "Apilar",
+    "DESCRIPTION": "Gana de Bloqueo igual al numero de cartas en la pila de descarte.",
+    "UPGRADE_DESCRIPTION": "Gana de Bloqueo igual al numero de cartas en la pila de descarte +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Ganas !B! de Bloqueo)"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "Descarga Estática",
+    "DESCRIPTION": "Cada vez que recibas daño de ataque no bloqueado, Invoca !M! Relámpago.",
+    "UPGRADE_DESCRIPTION": "Cada vez que recibas daño de ataque no bloqueado, Invoca !M! Relámpago."
+  },
+  "Steam": {
+    "NAME": "Barrera de Vapor",
+    "DESCRIPTION": "Gana !B! de Bloqueo. El Bloqueo de esta carta se reduce en 1 este combate."
+  },
+  "Steam Power": {
+    "NAME": "Alta Prioridad",
+    "DESCRIPTION": "Roba !M! cartas. NL Añade una 'Quemadura' en la pila de descarte."
+  },
+  "Storm": {
+    "NAME": "Tormenta",
+    "DESCRIPTION": "Cada vez que juegues una carta de Poder, Invoca 1 Relámpago.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Cada vez que juegues una carta de Poder, Invoca 1 Relámpago."
+  },
+  "Storm of Steel": {
+    "NAME": "Tormenta de Acero",
+    "DESCRIPTION": "Descarta tu mano. NL Añade 1 *Navaja a tu mano por cada carta descartada.",
+    "UPGRADE_DESCRIPTION": "Descarta tu mano. NL Añade 1 *Navaja+ a tu mano por cada carta descartada."
+  },
+  "Streamline": {
+    "NAME": "Aerodinamizar",
+    "DESCRIPTION": "Haz !D! de daño. NL Cada vez que juegues esta carta, reduce su coste en !M! este combate."
+  },
+  "Strike_B": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Strike_G": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Strike_R": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Sucker Punch": {
+    "NAME": "Puñetazo a Traición",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Débil."
+  },
+  "Sunder": {
+    "NAME": "Romper",
+    "DESCRIPTION": "Haz !D! de daño. NL Si esta carta mata a un enemigo, gana [B] [B] [B]."
+  },
+  "Survivor": {
+    "NAME": "Superviviente",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Descarta una carta."
+  },
+  "Sweeping Beam": {
+    "NAME": "Barrido de Haz",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Roba !M! carta."
+  },
+  "Swift Strike": {
+    "NAME": "Golpe Rápido",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Sword Boomerang": {
+    "NAME": "Espada Bumerán",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo al azar !M! veces."
+  },
+  "Tactician": {
+    "NAME": "Estratega",
+    "DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, NL gana [G].",
+    "UPGRADE_DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, NL gana [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "No puedo jugar esta carta."
+    ]
+  },
+  "Tempest": {
+    "NAME": "Tempestad",
+    "DESCRIPTION": "Invoca X Relámpago. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Invoca X+1 Relámpago. NL Agota."
+  },
+  "Terror": {
+    "NAME": "Terror",
+    "DESCRIPTION": "Aplica 99 Vulnerable. NL Agota."
+  },
+  "The Bomb": {
+    "NAME": "La Bomba",
+    "DESCRIPTION": "Al final de 3 turnos, haz !M! de daño a TODOS los enemigos."
+  },
+  "Thinking Ahead": {
+    "NAME": "Ir un Paso por Delante",
+    "DESCRIPTION": "Roba 2 cartas. NL Coloca una carta de la mano al tope de la pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Roba 2 cartas. NL Coloca una carta de la mano al tope de la pila de extracción."
+  },
+  "Thunder Strike": {
+    "NAME": "Golpe de Trueno",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo al azar por cada Relámpago invocado este combate.",
+    "EXTENDED_DESCRIPTION": [
+      " (He invocado !M! Relámpago(s))"
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Tronido",
+    "DESCRIPTION": "Haz !D! de daño y aplica 1 Vulnerable a TODOS los enemigos."
+  },
+  "Tools of the Trade": {
+    "NAME": "Gajes del Oficio",
+    "DESCRIPTION": "Al inicio de tu turno, roba 1 carta y descarta 1 carta."
+  },
+  "Transmutation": {
+    "NAME": "Transmutación",
+    "DESCRIPTION": "Añade X cartas incoloras al azar a la mano. Su coste es 0 en este turno. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Añade X cartas incoloras mejoradas al azar a la mano. Su coste es 0 en este turno. NL Agota."
+  },
+  "Trip": {
+    "NAME": "Zancadilla",
+    "DESCRIPTION": "Aplica !M! Vulnerable.",
+    "UPGRADE_DESCRIPTION": "Aplica !M! Vulnerable a TODOS los enemigos."
+  },
+  "True Grit": {
+    "NAME": "Verdaderas Agallas",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Agota una carta al azar.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Agota una carta."
+  },
+  "Turbo": {
+    "NAME": "Turbo",
+    "DESCRIPTION": "Gana [B] [B]. NL Añade un 'Vacío' en la pila de descarte.",
+    "UPGRADE_DESCRIPTION": "Gana [B] [B] [B]. NL Añade un 'Vacío' en la pila de descarte."
+  },
+  "Twin Strike": {
+    "NAME": "Golpe Doble",
+    "DESCRIPTION": "Haz !D! de daño 2 veces."
+  },
+  "Underhanded Strike": {
+    "NAME": "Golpe Bajo",
+    "DESCRIPTION": "Haz !D! de daño. NL Si has descartado una carta este turno, NL gana [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "No puedo jugar esta carta."
+    ]
+  },
+  "Undo": {
+    "NAME": "Deshacer",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL No descartas la mano este turno."
+  },
+  "Unload": {
+    "NAME": "Descargar",
+    "DESCRIPTION": "Haz !D! de daño. NL Descarta TODAS las cartas que no sean de Ataque."
+  },
+  "Uppercut": {
+    "NAME": "Gancho",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Débil. NL Aplica !M! Vulnerable."
+  },
+  "Venomology": {
+    "NAME": "Alquimia",
+    "DESCRIPTION": "Obtén una poción al azar. NL Agota."
+  },
+  "Violence": {
+    "NAME": "Violencia",
+    "DESCRIPTION": "Coloca !M! cartas de Ataque al azar de la pila de extracción a la mano."
+  },
+  "Void": {
+    "NAME": "Vacío",
+    "DESCRIPTION": "Injugable. NL Cuando esta carta es robada, pierde 1 de Energía. NL Etérea."
+  },
+  "Warcry": {
+    "NAME": "Grito de Guerra",
+    "DESCRIPTION": "Roba !M! carta. NL Coloca una carta de la mano al tope de la pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL Coloca una carta de la mano al tope de la pila de extracción. NL Agota."
+  },
+  "Well Laid Plans": {
+    "NAME": "Planes Bien Fundados",
+    "DESCRIPTION": "Al final de tu turno, Mantén hasta !M! carta en la mano.",
+    "UPGRADE_DESCRIPTION": "Al final de tu turno, Mantén hasta !M! cartas en la mano."
+  },
+  "Whirlwind": {
+    "NAME": "Torbellino",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos X veces."
+  },
+  "White Noise": {
+    "NAME": "Ruido Blanco",
+    "DESCRIPTION": "Añade una carta de Poder al azar a tu mano. NL Su coste es 0 este turno. NL Agota."
+  },
+  "Wild Strike": {
+    "NAME": "Golpe Salvaje",
+    "DESCRIPTION": "Haz !D! de daño. NL Baraja una Herida en la pila de extracción."
+  },
+  "Wound": {
+    "NAME": "Herida",
+    "DESCRIPTION": "Injugable."
+  },
+  "Wraith Form v2": {
+    "NAME": "Forma Espectral",
+    "DESCRIPTION": "Gana !M! Intangible. NL Al final de cada turno, pierde 1 de Destreza."
+  },
+  "Writhe": {
+    "NAME": "Retorcimiento",
+    "DESCRIPTION": "Injugable. NL Innata."
+  },
+  "Zap": {
+    "NAME": "Calambrazo",
+    "DESCRIPTION": "Invoca !M! Relámpago."
+  },
+  "SpiritShield": {
+    "NAME": "Escudo Espiritual",
+    "DESCRIPTION": "Gana !M! de Bloqueo por cada carta en tu mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gana !B! de Bloqueo.)"
+    ]
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "DEPRECATED Retiene. NL Agota. NL At the start of your turn, draw 1 card."
+  },
+  "Wrath": {
+    "NAME": "Cólera",
+    "DESCRIPTION": "Haz y recibe el doble de daño."
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Enter Calm or Wrath. NL Agota."
+  },
+  "Tantrum": {
+    "NAME": "Berrinche",
+    "DESCRIPTION": "Haz !D! de daño NL !M! veces. NL Entra en Cólera. NL Baraja esta carta en tu pila de extracción."
+  },
+  "Adaptation": {
+    "NAME": "Asalto",
+    "DESCRIPTION": "Al entrar en Cólera, roba !M! cartas.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Causality": {
+    "NAME": "Causalidad",
+    "DESCRIPTION": "Roba cartas hasta que tu mano esté llena. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Roba cartas hasta que tu mano esté llena. NL Agota."
+  },
+  "Devotion": {
+    "NAME": "Devoción",
+    "DESCRIPTION": "Al principio de tu turno, gana !M! Mantra."
+  },
+  "EmptyFist": {
+    "NAME": "Puño vacío",
+    "DESCRIPTION": "Haz !D! de daño. NL Sal de tu Postura."
+  },
+  "Wisdom": {
+    "NAME": "Sabiduría",
+    "DESCRIPTION": "Retiene. NL Roba !M! cartas. NL Agota."
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+  },
+  "FlowState": {
+    "NAME": "DEPRECATED Estado de flujo",
+    "DESCRIPTION": "Cólera: Entra en Calma. NL Calma: Entra en Cólera. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Cólera: Entra en Calma. NL Calma: Entra en cólera."
+  },
+  "Swivel": {
+    "NAME": "Pivotar",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL El siguiente Ataque que juegues cuesta 0."
+  },
+  "Wish": {
+    "NAME": "Deseo",
+    "DESCRIPTION": "Elije una: NL Gana !B! de Armadura de Placas, !D! de Fuerza, o !M! de Oro. NL Agota.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED Fury Aura",
+    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+  },
+  "DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Injugable. NL Cuando robes esta carta, añade !M! *Milagros a tu mano y Agota."
+  },
+  "ThroughViolence": {
+    "NAME": "Mediante la Violencia",
+    "DESCRIPTION": "Retiene. NL Haz !D! de Daño. NL Agota."
+  },
+  "Metaphysics": {
+    "NAME": "DEPRECATED Metafísica",
+    "DESCRIPTION": "DEPRECATED Baraja una *Causa en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED Baraja una *Causa Mejorada en tu pila de extracción. NL Agota."
+  },
+  "Clarity": {
+    "NAME": "Claridad",
+    "DESCRIPTION": "Mira las primeras !M! cartas de tu pila de extracción. Añade 1 a tu mano. NL Agota el resto.",
+    "UPGRADE_DESCRIPTION": "Mira las primeras !M! cartas de tu pila de extracción. Añade 1 a tu mano. NL Agota el resto."
+  },
+  "WreathOfFlame": {
+    "NAME": "Guirnalda de Llamas",
+    "DESCRIPTION": "Tu próximo ataque hace !M! de daño adicional."
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED Flicker",
+    "DESCRIPTION": "Haz !D! de daño. If this kills the enemy, return this card to your hand."
+  },
+  "Alpha": {
+    "NAME": "Alfa",
+    "DESCRIPTION": "Baraja una *Beta en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Baraja una *Beta en tu pila de extracción. NL Agota."
+  },
+  "FollowUp": {
+    "NAME": "Secuela",
+    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue un Ataque, gana [W]."
+  },
+  "Vault": {
+    "NAME": "Sortear",
+    "DESCRIPTION": "Toma un turno extra tras este. NL Termina tu turno. NL Agota."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Haz !D! de daño. NL Gain !M! Vigor."
+  },
+  "Wallop": {
+    "NAME": "Zasca",
+    "DESCRIPTION": "Haz !D! de daño. NL Gana Bloqueo igual al daño no bloqueado causado."
+  },
+  "Consecrate": {
+    "NAME": "Consagrar",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos."
+  },
+  "Conclude": {
+    "NAME": "Concluir",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Acaba tu turno."
+  },
+  "MasterReality": {
+    "NAME": "Amaestrar Realidad",
+    "DESCRIPTION": "Cuando se crea una carta durante el combate, Mejórala."
+  },
+  "CleanseEvil": {
+    "NAME": "Limpiar Maldad",
+    "DESCRIPTION": "Añade X *Aplastar a tu mano.",
+    "UPGRADE_DESCRIPTION": "Añade X *Aplastar+ a tu mano."
+  },
+  "WindmillStrike": {
+    "NAME": "Golpe de Molinete",
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Al Retener esta carta, aumenta su daño por !M! este combate."
+  },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL Agota."
+  },
+  "LessonLearned": {
+    "NAME": "Lección Aprendida",
+    "DESCRIPTION": "Haz !D! de daño. NL Si es Fatal, Mejora una carta aleatoria en tu mazo. Agota."
+  },
+  "Calm": {
+    "NAME": "Calma",
+    "DESCRIPTION": "Al salir de la Calma, gana [W] [W]."
+  },
+  "ThirdEye": {
+    "NAME": "Tercer Ojo",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Adivina !M!."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survey",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Gana !M! de Vigor."
+  },
+  "FlyingSleeves": {
+    "NAME": "Mangas Voladoras",
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño dos veces."
+  },
+  "Wireheading": {
+    "NAME": "Previsión",
+    "DESCRIPTION": "Al comienzo de tu turno, Adivina !M!.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Sanctity": {
+    "NAME": "Santidad",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si la última carta jugada este combate fue una Habilidad, roba !M! cartas."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL At the start of your turn, gain !M! Block."
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED Maestría",
+    "DESCRIPTION": "Whenever you attempt to switch Stances to your current Stance, gain [B]."
+  },
+  "Beta": {
+    "NAME": "Beta",
+    "DESCRIPTION": "Baraja un *Omega en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FearNoEvil": {
+    "NAME": "No Temer a Nada",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo va a Atacar, entra en Calma."
+  },
+  "Perseverance": {
+    "NAME": "Perseverancia",
+    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL Al Retener, aumenta su bloqueo por !M! este combate."
+  },
+  "Ragnarok": {
+    "NAME": "Ragnarok",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo aleatorio !M! veces."
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Awakened Strike",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Blessed",
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! *Miracles+ into your draw pile. NL Agota."
+  },
+  "Eruption": {
+    "NAME": "Erupción",
+    "DESCRIPTION": "Haz !D! de daño. NL Entra en cólera."
+  },
+  "LetFateDecide": {
+    "NAME": "DEPRECATED Let Fate Decide",
+    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
+  },
+  "CutThroughFate": {
+    "NAME": "Desafiar al Destino",
+    "DESCRIPTION": "Haz !D! de daño. NL Adivina !M!. NL Roba 1 carta."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Gesto de Mano",
+    "DESCRIPTION": "Cuando ganes Bloqueo este turno, aplica !M! de Débil a TODOS los enemigos."
+  },
+  "Vigilance": {
+    "NAME": "Vigilancia",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Entra en Calma.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "PathToVictory": {
+    "NAME": "Puntos de Presión",
+    "DESCRIPTION": " Aplica !M! de *Marca. NL TODOS los enemigos pierden PV igual a su *Marca.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Evaluate": {
+    "NAME": "Evaluar",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja una *Revelación en tu pila de extracción.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja una *Revelación+ en tu pila de extracción."
+  },
+  "Establishment": {
+    "NAME": "Establecimiento",
+    "DESCRIPTION": "Cuando se retenga una carta, reduce su coste en !M! este combate..",
+    "UPGRADE_DESCRIPTION": "Innata. NL Cuando se retenga una carta, reduce su coste en !M! este combate.."
+  },
+  "Collect": {
+    "NAME": "Recolectar",
+    "DESCRIPTION": "Pon un *Milagro+ en tu mano al comienzo de tus próximos X turnos. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Pon un *Milagro+ en tu mano al comienzo de tus próximos X+1 turnos. NL Agota."
+  },
+  "Experienced": {
+    "NAME": "DEPRECATED Experienced",
+    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+  },
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Perfected Form",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Agota.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+  },
+  "JustLucky": {
+    "NAME": "Cuestion de Suerte",
+    "DESCRIPTION": "Adivina !M!. NL Gana !B! de bloqueo. NL Haz !D! de daño."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Agota."
+  },
+  "Peace": {
+    "NAME": "Paz",
+    "DESCRIPTION": "Retiene. NL TODOS los enemigos pierden !M! Fuerza este turno. NL Agota."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Restraining Palm",
+    "DESCRIPTION": "Haz !D! de daño. NL Apply !M! Weak."
+  },
+  "Protect": {
+    "NAME": "Proteger",
+    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo."
+  },
+  "Worship": {
+    "NAME": "Adorar",
+    "DESCRIPTION": "Gana !M! de Mantra.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Gana !M! de Mantra."
+  },
+  "EmptyMind": {
+    "NAME": "Mente Vacia",
+    "DESCRIPTION": "Roba !M! cartas. NL Sal de tu Postura.",
+    "UPGRADE_DESCRIPTION": "Roba !M! cartas. NL Sal de tu Postura."
+  },
+  "Miracle": {
+    "NAME": "Milagro",
+    "DESCRIPTION": "Retiene. NL Gana [W]. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Gana [W] [W]. NL Agota."
+  },
+  "DevaForm": {
+    "NAME": "Forma Deva",
+    "DESCRIPTION": "Etérea. NL Al comienzo de tu turno, gana [W] NL y aumenta este bonus por !M!.",
+    "UPGRADE_DESCRIPTION": "Al comienzo de tu turno, gana [W] NL y aumenta este bonus por !M!."
+  },
+  "TalkToTheHand": {
+    "NAME": "Háblale a la Mano",
+    "DESCRIPTION": "Haz !D! de daño. NL Al atacar a este enemigo, gana !M! de Bloqueo. NL Agota."
+  },
+  "Strike_P": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Meditate": {
+    "NAME": "Meditar",
+    "DESCRIPTION": "Pon una carta de tu Pila de Descartes en tu mano y Retenla. NL Entra en Calma. NL Finaliza tu turno.",
+    "UPGRADE_DESCRIPTION": "Pon 2 cartas de tu Pila de Descartes en tu mano y Retenlas. NL Entra en Calma. NL Finaliza tu turno."
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTION": "Al Adivinar, gana !M! de Bloqueo.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "DeceiveReality": {
+    "NAME": "Burlar la Realidad",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Añade un *Seguridad NL a tu mano.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "RetreatingHand": {
+    "NAME": "DEPRECATED Retreating Hand",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
+    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. If the previous card played was an Attack, return this card to your hand."
+  },
+  "Halt": {
+    "NAME": "Detener",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si estás en Cólera, gana !M! de Bloqueo adicional."
+  },
+  "CurseOfTheBell": {
+    "NAME": "Maldición de la Campana",
+    "DESCRIPTION": "Injugable. NL No se puede eliminar del mazo."
+  },
+  "Brilliance": {
+    "NAME": "Resplandor",
+    "DESCRIPTION": "Haz !D! de daño. NL Hace daño adicional igual al Mantra ganado este combate.",
+    "EXTENDED_DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "ClearTheMind": {
+    "NAME": "Tranquilidad",
+    "DESCRIPTION": "Retiene. NL Entra en Calma. NL Agota."
+  },
+  "Safety": {
+    "NAME": "Seguridad",
+    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL Agota."
+  },
+  "Scrawl": {
+    "NAME": "Garabatear",
+    "DESCRIPTION": "Roba cartas hasta que tu mano esté llena. NL Agota.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Prostrate": {
+    "NAME": "Postrarse",
+    "DESCRIPTION": "Gana !M! de Mantra. NL Gana !B! de Bloqueo.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Pray": {
+    "NAME": "Rezar",
+    "DESCRIPTION": "Gana !M! Mantra. NL Baraja una *Revelación en tu pila de extracción.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Retiene. NL Draw 1 card. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Draw 1 card."
+  },
+  "ForeignInfluence": {
+    "NAME": "Influencia Externa",
+    "DESCRIPTION": "Elige 1 entre 3 Ataques de cualquier color para añadir a tu mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Elige 1 entre 3 Ataques de cualquier color para añadir a tu mano. NL Cuesta 0 este turno. NL Agota."
+  },
+  "SignatureMove": {
+    "NAME": "Movimiento Característico",
+    "DESCRIPTION": "Solo puede ser jugado si es el único Ataque en tu mano. NL Haz !D! de daño."
+  },
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sublime Slice",
+    "DESCRIPTION": "Haz !D! de daño. NL Enter a random Stance."
+  },
+  "ReachHeaven": {
+    "NAME": "Alcanzar el Cielo",
+    "DESCRIPTION": "Haz !D! de daño. NL Baraja un NL *Mediante *Violencia en tu pila de extracción.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Insight": {
+    "NAME": "Revelación",
+    "DESCRIPTION": "Retiene. NL Roba !M! cartas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Roba !M! cartas. NL Agota."
+  },
+  "BattleHymn": {
+    "NAME": "Himno de Batalla",
+    "DESCRIPTION": "Al comienzo de cada turno, añade un *Aplastar a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al comienzo de cada turno, añade un *Aplastar a tu mano."
+  },
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Retiene. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
+  },
+  "BowlingBash": {
+    "NAME": "Pleno",
+    "DESCRIPTION": "Haz !D! de daño por cada enemigo en combate."
+  },
+  "Truth": {
+    "NAME": "Verdad",
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Roba !M! carta. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Roba !M! cartas. NL Agota."
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Stance."
+  },
+  "Smite": {
+    "NAME": "Aplastar",
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Agota."
+  },
+  "Omniscience": {
+    "NAME": "Omnisciencia",
+    "DESCRIPTION": "Elige una carta en tu pila de extracción. NL Juega la carta elegida dos veces y agótala. NL Agota.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "Al final de tu turno, haz !M! de daño a TODOS los enemigos."
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenidad",
+    "DESCRIPTION": "Mientras estás en Calma, los PV perdidos se reducen en !M!."
+  },
+  "Judgement": {
+    "NAME": "Juicio",
+    "DESCRIPTION": "Si el enemigo tiene !M! o menos PV, fija sus NL PV a 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUZGADO"
+    ]
+  },
+  "MentalFortress": {
+    "NAME": "Fortaleza Mental",
+    "DESCRIPTION": "Cuando cambies de Postura, gana !M! de Bloqueo."
+  },
+  "EmptyBody": {
+    "NAME": "Cuerpo Vacío",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Abandona tu Postura."
+  },
+  "Crescendo": {
+    "NAME": "Crescendo",
+    "DESCRIPTION": "Retiene. NL Entra en Cólera. NL Agota."
+  },
+  "SandsOfTime": {
+    "NAME": "Arenas del Tiempo",
+    "DESCRIPTION": "Retiene. NL Haz !D! de daño. NL Al Retener, reduce su coste en 1 este combate."
+  },
+  "Blasphemy": {
+    "NAME": "Blasfemia",
+    "DESCRIPTION": "Entra en Divinidad. NL Muere el próximo turno. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Retiene. NL Entra en Divinidad. NL Muere el próximo turno. NL Agota."
+  },
+  "Transcendence": {
+    "NAME": "Trascendencia",
+    "DESCRIPTION": "Mejora todas las cartas que Retienen en tu mano."
+  },
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "DEPRECATED."
+  },
+  "Unraveling": {
+    "NAME": "Desentrañar",
+    "DESCRIPTION": "Juega todas tus cartas de izquierda a derecha. Los objetivos se eligen aleatoriamente. NL Agota."
+  },
+  "Weave": {
+    "NAME": "Entrelazar",
+    "DESCRIPTION": "Haz !D! de daño. NL Al Adivinar, devuelve esta carta de la pila de descartes a tu mano."
+  },
+  "CrushJoints": {
+    "NAME": "Dislocar",
+    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue una Habilidad, aplica !M! de Vulnerable."
+  },
+  "Vengeance": {
+    "NAME": "Hervir de Rabia",
+    "DESCRIPTION": "Al comienzo de tu próximo turno, entra en Cólera y roba 2 cartas."
+  },
+  "CarveReality": {
+    "NAME": "Esculpir la Realidad",
+    "DESCRIPTION": "Haz !D! de daño. NL Añade un *Aplastar a tu mano.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Defend_P": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Gana !B! de bloqueo."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Haz !D! de daño. NL Si tienes Vigor, NL gana [W] y NL roba 1 carta."
+  },
+  "Thwack": {
+    "NAME": "DEPRECATED Thwack",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "Fasting": {
+    "NAME": "DEPRECATED Ayuno",
+    "DESCRIPTION": "DEPRECATED Gana !M! de Artefacto."
+  },
+  "Swipe": {
+    "NAME": "DEPRECATED Swipe",
+    "DESCRIPTION": "Haz !D! de daño. Haz la mitad de este daño a TODOS los otros enemigos."
+  },
+  "InnerPeace": {
+    "NAME": "Paz Interior",
+    "DESCRIPTION": "Si estás en calma, roba !M! cartas, de lo contrario entra en Calma."
+  },
+  "StepAndStrike": {
+    "NAME": "DEPRECATED Avanzar y Golpear",
+    "DESCRIPTION": "Cuesta 1 menos por cada Postura cambiada este turno. NL Gana !B! de Bloqueo. NL Haz !D! de daño."
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediction",
+    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+  },
+  "Flow": {
+    "NAME": "DEPRECATED Flow",
+    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Flame Mastery",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Ráfaga de Golpes",
+    "DESCRIPTION": "Haz !D! de daño. NL Cuando cambies de postura, devuelve esta carta de la Pila de Descartes a tu Mano."
+  },
+  "SashWhip": {
+    "NAME": "Faja Látigo",
+    "DESCRIPTION": "Haz !D! de daño. NL Si la última carta jugada este combate fue un Ataque, aplica !M! de Débil."
+  },
+  "WheelKick": {
+    "NAME": "Patada de Rueda",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba !M! cartas.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Roba !M! cartas."
+  },
+  "Indignation": {
+    "NAME": "Indignación",
+    "DESCRIPTION": "Si estás en Cólera, aplica !M! de Vulnerable a TODOS los enemigos, de lo contrario entra en Cólera."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Volverse Todopoderoso",
+    "DESCRIPTION": "Gana !M! de Fuerza."
+  },
+  "FameAndFortune": {
+    "NAME": "Fama y Fortuna",
+    "DESCRIPTION": "Gana !M! de Oro."
+  },
+  "LiveForever": {
+    "NAME": "Vivir para Siempre",
+    "DESCRIPTION": "Gana !M! de *Armadura *de *Placas."
+  },
+  "Expunger": {
+    "NAME": "Expiradora",
+    "DESCRIPTION": "Haz !D! de daño X veces.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "Haz !D! de daño !M! veces.",
+      "Haz !D! de daño !M! vez."
+    ]
+  },
+  "ConjureBlade": {
+    "NAME": "Conjurar Cuchilla",
+    "DESCRIPTION": "Baraja un *Expiradora en tu pila de extracción. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Baraja un *Expiradora con X+1 en tu pila de extracción. NL Agota."
+  },
+  "WaveOfTheHand2": {
+    "NAME": "Gesto de Mano",
+    "DESCRIPTION": "Cuando cambies de Postura este turno, aplica !M! de Débil y !M! de Vulnerable a TODOS los enemigos."
+  },
+  "Fasting2": {
+    "NAME": "Ayuno",
+    "DESCRIPTION": "Gana !M! de Fuerza. NL Gana !M! de Destreza. NL Gana 1 menos de [W] al comienzo de cada turno."
+  },
+  "Discipline": {
+    "NAME": "Disciplina",
+    "DESCRIPTION": "Si terminas tu turno con [W] sin usar, roba esa cantidad de cartas en próximo turno."
+  },
+  "Flick": {
+    "NAME": "Chasquido",
+    "DESCRIPTION": "Haz !D! de daño. NL Si un enemigo es *Chasqueado 3 veces, reciben !M! de daño."
+  },
+  "LikeWater": {
+    "NAME": "Como Agua",
+    "DESCRIPTION": "Al final de tu turno, si estás en Calma, gana !M! de Bloqueo."
+  },
+  "Study": {
+    "NAME": "Estudiar",
+    "DESCRIPTION": "Al final de tu turno, baraja un *Revelación en tu pila de extracción."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "Beyond Elites Killed": {
+    "NAME": "Élites de l'Au-Delà tués",
+    "DESCRIPTIONS": []
+  },
+  "Bosses Slain": {
+    "NAME": "Boss occis",
+    "DESCRIPTIONS": []
+  },
+  "City Elites Killed": {
+    "NAME": "Élites de la Ville tués",
+    "DESCRIPTIONS": []
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Élites de l'Exorde tués",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Champion",
+    "DESCRIPTIONS": [
+      "Vaincre un Élite sans prendre de dégâts."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Parfait",
+    "DESCRIPTIONS": [
+      "Vaincre un Boss sans prendre de dégât."
+    ]
+  },
+  "Beyond Perfect": {
+    "NAME": "Plus que parfait",
+    "DESCRIPTIONS": [
+      "Vaincre 3 boss sans prendre de dégâts."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Overkill",
+    "DESCRIPTIONS": [
+      "Infliger 99 dégâts en une seule attaque."
+    ]
+  },
+  "Combo": {
+    "NAME": "C-c-c-combo",
+    "DESCRIPTIONS": [
+      "Jouer 20 cartes en un seul tour."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Caca",
+    "DESCRIPTIONS": [
+      "Recevoir le Caca d'Esprit."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Tricheur",
+    "DESCRIPTIONS": [
+      "Pris la main dans le sac. Si vous vous faites attraper une deuxième fois, votre score ne sera plus jamais ajouté aux Classements."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Bolide",
+    "DESCRIPTIONS": [
+      "Victoire en moins de 60 minutes."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Vitesse de la lumière",
+    "DESCRIPTIONS": [
+      "Victoire en moins de 45 minutes."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Plein les poches",
+    "DESCRIPTIONS": [
+      "Amasser 1.000 d'or."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Il pleut de l'or",
+    "DESCRIPTIONS": [
+      "Amasser 2,000 d'or."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "J'aime l'or",
+    "DESCRIPTIONS": [
+      "Amasser 3,000 d'or."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimaliste",
+    "DESCRIPTIONS": [
+      "Retirez au moins 5 cartes de votre deck."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Montagnard",
+    "DESCRIPTIONS": [
+      "Votre deck ne contient pas plus d'une même carte (exceptées celles de départ)."
+    ]
+  },
+  "Shiny": {
+    "NAME": "J'aime ce qui brille",
+    "DESCRIPTIONS": [
+      "Posséder au moins 25 reliques."
+    ]
+  },
+  "Collector": {
+    "NAME": "Collecteur",
+    "DESCRIPTIONS": [
+      "Posséder 4 copies d'une même carte (autre que les cartes de départ)."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Pauvre",
+    "DESCRIPTIONS": [
+      "Ne posséder aucune carte rare."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliothécaire",
+    "DESCRIPTIONS": [
+      "Posséder plus de 35 cartes dans son deck."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Encyclopédiste",
+    "DESCRIPTIONS": [
+      "Posséder plus de 50 cartes dans son deck."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Rassasié",
+    "DESCRIPTIONS": [
+      "Augmenter ses PV max d'au moins 15."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Rembourré",
+    "DESCRIPTIONS": [
+      "Augmenter ses PV max d'au moins 30."
+    ]
+  },
+  "Curses": {
+    "NAME": "Malédictions !",
+    "DESCRIPTIONS": [
+      "Votre deck contient au moins 5 malédictions."
+    ]
+  },
+  "Alchemist": {
+    "NAME": "Alchimiste",
+    "DESCRIPTIONS": [
+      "Acheter 5 potions."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Machine mystère",
+    "DESCRIPTIONS": [
+      "Visiter au moins 15 pièces ?."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Selon mes conditions",
+    "DESCRIPTIONS": [
+      "Se tuer."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Ascension",
+    "DESCRIPTIONS": [
+      "+5 % au score par Niveau d'Ascension."
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "Briseur de cœur",
+    "DESCRIPTIONS": [
+      "Tuez le Cœur."
+    ]
+  }
+}

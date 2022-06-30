@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Defekt"
+    ],
+    "TEXT": [
+      "Bojowy automaton, który zyskał świadomość. NL Antyczna technologia pozwala mu manipulować Sferami."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Pancernik"
+    ],
+    "TEXT": [
+      "Ostatni żołnierz klanu Pancerników. NL Zaprzedał duszę, aby posiąść demoniczne moce."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Kontynuuj",
+      "~Witaj!~"
+    ],
+    "TEXT": [
+      "Hej! NL Kup coś! NL No dalej!",
+      "Podoba mi się twoja fryzura",
+      "Masz czas?",
+      "Wolisz psy czy koty?",
+      "Wyglądasz ~niebezpiecznie,~ NL hehe...",
+      "Nie śpiesz się... NL ..... NL ... ale zrób to dzisiaj",
+      "Podoba ci się ten koc? NL Nie jest na sprzedaż!",
+      "Wspieraj lokalne przedsiębiorstwa!",
+      "Maski są świetne, znam się!",
+      "Hmm... NL ...hmm... NL Och!",
+      "Usiądź na chwilę NL i posłuchaj!",
+      "Niebezpiecznie jest podróżować samemu! Złoto zostaw u mnie!",
+      "Kupże coś!",
+      "~*ZIEW*~",
+      "Lubię złoto.",
+      "Mój ulubiony kolor to niebieski. NL A twój?"
+    ],
+    "OPTIONS": [
+      "Jak tu się dostałem? NL Nie mam pojęcia.",
+      "Ostatnia szansa na handel! NL ~*mrug*~ ~*mrug*~",
+      "..... NL .... NL .........",
+      "Ja wolę koty.",
+      "Bez pośpiechu. NL Bez pośpiechu.",
+      "Czyż to nie jest @ekscytujące!?@",
+      "Kiedyś byłem taki jak ty.",
+      "Negocjujemy?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Witaj...~ NL ~Jestem...~ ~Neow...~",
+      "~Witaj...~ NL ~Ponownie...~",
+      "~Witaj...~",
+      "~Jeszcze~ NL ~raz...?~",
+      "~Dotrzyj~ ~do~ ~bossa,~ NL ~aby~ ~otrzymać~ ~więcej...~ ~błogosławieństw...~",
+      "~Zmierz~ ~się~ ~chociaż...~ NL ~z~ ~pierwszym~ ~bossem...~",
+      "~Przywróciłam~ ~cię~ ~do~ ~życia...~",
+      "~Wybierz...~",
+      "~Jak~ ~sobie~ ~życzysz...~",
+      "~Odważna...~ NL ~decyzja....~",
+      "~Czas~ ~na~ ~małe~ NL ~WYZWANIE...~",
+      "Nagrody",
+      "~Zatem~ ~kontynuujmy...~",
+      "~To~ ~będzie~ ~coraz~ ~trudniejsze...~",
+      "~Imponujące...~ ~więcej...~",
+      "Klątwa!",
+      "Wzdęcie!",
+      "Transformacja!"
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Rozmawiaj]",
+      "[Pomiń]",
+      "[Odejdź]",
+      "Wybierz 10 kart i dodaj je do talii."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gWybierz #gkartę #gdo #gdodania ]",
+      "[ #gOtrzymaj #glosową #grzadką #gkartę ]",
+      "[ #gUsuń #gkartę #gz #gtalii ]",
+      "[ #gUlepsz #gkartę ]",
+      "[ #gPodmień #gkartę ]",
+      "[ #gOtrzymaj #g3 #glosowe #gmikstury ]",
+      "[ #gOtrzymaj #glosowy #gpospolity #gartefakt ]",
+      "[ #gmaksymalne #gPŻ #g+",
+      "[ #gOtrzymaj #g",
+      " #gszt. #gzłota ]",
+      "#gUsuń #g2 #gkarty #gz #gtalii ]",
+      "#gOtrzymaj #glosowy #grzadki #gArtefakt ]",
+      "#gWybierz #grzadką #gkartę #gdo #gdodania ]",
+      "#gZyskaj #g",
+      " #gszt. #gzłota ]",
+      "#gPodmień #g2 #gkarty ]",
+      "#gMaksymalne #gPŻ #g+",
+      "[ #rUtrać #r",
+      " #rmaksymalnych #rPŻ ",
+      "[ #rUtrać #rcałe #rzłoto ",
+      "[ #rOtrzymaj #rKlątwę ",
+      "[ #rOtrzymaj #r",
+      "Wybierz kartę",
+      "Wybierz kartę do usunięcia",
+      "Wybierz 2 karty do usunięcia",
+      "Wybierz kartę do podmiany",
+      "Wybierz 2 karty do podmiany",
+      "Wybierz kartę do ulepszenia",
+      "[ #gPrzeciwnicy #gw #gnastępnych #gtrzech #gwalkach #gmają #g1 #gPŻ ]",
+      " #rpkt. #robrażeń",
+      "[ #gWybierz #gbezbarwną #gkartę #gdo #gdodania ]",
+      "#gWybierz #grzadką #gbezbarwną #gkartę #gdo #gdodania ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rUtrać #rswój #rstartowy #rartefakt #gOtrzymaj #glosowy #glegendarny #gartefakt ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Witam~ NL ~Witam!~",
+      "Potrzebujesz NL więcej NL #rzłota, przyjacielu.",
+      "Hej kolego, nie masz #rzłota!",
+      "Nie masz kasy.",
+      "Nie masz wystarczającej ilości #rzłota.",
+      "Nie stać cię na to.",
+      "To nie żaden Caritas.",
+      "~Dziękiiii~",
+      "Kolejna pomyślna transakcja... NL hohoho! NL Cha - @Ching!@",
+      "@SPRZEDANE!@",
+      "Nie przyjmuję zwrotów.",
+      "Miłego dnia.",
+      "Wyjdź",
+      "Wybierz kartę do usunięcia."
+    ],
+    "TEXT": [
+      "Hej! NL Kup coś! NL No dalej!",
+      "Podoba mi się twoja fryzura",
+      "Masz czas?",
+      "Wolisz psy czy koty?",
+      "Wyglądasz ~niebezpiecznie,~ NL hehe...",
+      "Nie śpiesz się... NL ..... NL ... ale zrób to dzisiaj",
+      "Podoba ci się ten koc? NL Nie jest na sprzedaż!",
+      "Wspieraj lokalne przedsiębiorstwa!",
+      "Maski są świetne, znam się!",
+      "Był gdzieś tam mój kurier?",
+      "Usiądź na chwilę i posłuchaj!",
+      "Niebezpiecznie jest podróżować samemu! Złoto zostaw u mnie!",
+      "Kup no coś",
+      "~*ZIEW*~",
+      "Lubię złoto.",
+      "Mój ulubiony kolor to niebieski. NL A twój?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Cień"
+    ],
+    "TEXT": [
+      "Zabójcza łowczyni z okolic mgliszczy. NL Rozprawia się z przeciwnikami przy użyciu sztyletów i trucizny."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Co... teraz..? NL ..czy się... dokonało....?",
+      "...Iglica śpi.....",
+      "..jak i...... ja... NL ....powinnam......"
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "Obserwatorka"
+    ],
+    "TEXT": [
+      "Niewidoma ascetka, która przybyła aby \"Ocenić\" Iglicę. NL Mistrzyni boskich Postaw."
+    ]
+  }
+}

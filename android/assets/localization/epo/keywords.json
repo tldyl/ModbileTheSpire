@@ -1,0 +1,359 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefakto",
+        "artefakton",
+        "artefaktoj",
+        "artefaktojn"
+      ],
+      "DESCRIPTION": "Nuligas la sekvontan malhelpon."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "ŝirmo",
+        "ŝirmon",
+        "ŝirmas",
+        "ŝirmis",
+        "ŝirmos",
+        "ŝirmita",
+        "ŝirmite"
+      ],
+      "DESCRIPTION": "Nuligas damaĝon ĝis la sekvonta vico."
+    },
+    "BURN": {
+      "NAMES": [
+        "brulo",
+        "brulon",
+        "brulas"
+      ],
+      "DESCRIPTION": "Brulo estas neludebla statkarto, kiu damaĝas vin."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "kondukti",
+        "konduktu",
+        "konduktita",
+        "konduktata",
+        "konduktitaj",
+        "konduktataj"
+      ],
+      "DESCRIPTION": "Kondukti sferon metas ĝin en vian unuan malplenan ingon. Se vi ne havas malplenajn ingojn, via unua sfero aŭtomate estas #yelvokita por fari spacon."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "konfuzita"
+      ],
+      "DESCRIPTION": "Ĉiam kiam vi prenas karton, ĝia kosto hazardiĝas."
+    },
+    "CURSE": {
+      "NAMES": [
+        "malbeno"
+      ],
+      "DESCRIPTION": "Malbenaj kartoj estas negativaj kartoj, kiuj restas en via kartaro."
+    },
+    "DARK": {
+      "NAMES": [
+        "mallumo",
+        "mallumo+",
+        "mallumaj"
+      ],
+      "DESCRIPTION": "Sfero: plialtigas damaĝvaloron ĉiuvice. Kiam #yelvokite, faras damaĝon al la malamiko, kiu havas malplej da vivo."
+    },
+    "DAZED": {
+      "NAMES": [
+        "konsterniĝo"
+      ],
+      "DESCRIPTION": "Konsterniĝo estas neludebla statkarto."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "lerteco"
+      ],
+      "DESCRIPTION": "Lerteco plialtigas ŝirmon, kiun vi gajnas de kartoj."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "fantoma"
+      ],
+      "DESCRIPTION": "Se ĉi tiu karto estas en via mano je la fino de via vico, ĝi estas elĉerpata. Elĉerpitaj kartoj estas forigitaj de via kartaro ĝis la fino de la batalo."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "elvoki",
+        "elvokita"
+      ],
+      "DESCRIPTION": "Konsumu vian plej dekstran sferon kaj uzu ĝian elvokefekton."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "elĉerpi",
+        "elĉerpita",
+        "elĉerpata",
+        "elĉerpu",
+        "elĉerpiĝas"
+      ],
+      "DESCRIPTION": "Forigi ĝis la fino de la batalo."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "atento"
+      ],
+      "DESCRIPTION": "Atento plialtigas la efikon de konduktitaj sferoj."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "kaduka"
+      ],
+      "DESCRIPTION": "Dum vi estas kaduka, vi gajnos #b25% malpli da #yŝirmo de kartoj."
+    },
+    "FROST": {
+      "NAMES": [
+        "frosto",
+        "frosto+"
+      ],
+      "DESCRIPTION": "Sfero: gajnas #yŝirmon."
+    },
+    "INNATE": {
+      "NAMES": [
+        "fundamenta"
+      ],
+      "DESCRIPTION": "Komencu ĉiun batalon kun ĉi tiu karto en via mano."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "nepalpebla"
+      ],
+      "DESCRIPTION": "Malaltigu ĈIUN damaĝon, kiun vi ricevas, kaj ĈIUN perdon de vivo, al #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "fulmo",
+        "fulmo+"
+      ],
+      "DESCRIPTION": "Sfero: faras damaĝon al hazardaj malamikoj."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "ŝlosita"
+      ],
+      "DESCRIPTION": "Ĉi tiu karto ankoraŭ ne estas malŝlosita."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "fikscelo"
+      ],
+      "DESCRIPTION": "Fikscelitaj celoj ricevas #b50% pli da damaĝo de sferoj."
+    },
+    "OPENER": {
+      "NAMES": [
+        "komenca"
+      ],
+      "DESCRIPTION": "Komencaj kartoj nur rajtas esti ludataj unuakarte en ĉiu vico."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasmo",
+        "plasmo+"
+      ],
+      "DESCRIPTION": "Sfero: gajnas energion."
+    },
+    "POISON": {
+      "NAMES": [
+        "veneno",
+        "venenita"
+      ],
+      "DESCRIPTION": "Venenita estaĵo perdas vivon je la fino de siaj vicoj. Ĉiuvice, veneno malaltiĝas po #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "reteni",
+        "retenas",
+        "retenis",
+        "retenita",
+        "retenite",
+        "retenu",
+        "reteniĝas"
+      ],
+      "DESCRIPTION": "Retenitaj kartoj ne estas forĵetataj je la fino de via vico."
+    },
+    "SHIV": {
+      "NAMES": [
+        "pikilo",
+        "pikiloj",
+        "pikilon",
+        "pikilojn"
+      ],
+      "DESCRIPTION": "Pikiloj estas atakokartoj, kiuj kostas #b0 kaj elĉerpiĝas."
+    },
+    "STATUS": {
+      "NAMES": [
+        "stato",
+        "statkarto",
+        "statkarton",
+        "statkartoj",
+        "statkartojn"
+      ],
+      "DESCRIPTION": "Statkartoj estas forigataj je la fino de la batalo."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "forto"
+      ],
+      "DESCRIPTION": "Forto aldonas kroman damaĝon al atakoj."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "bato",
+        "baton",
+        "batoj"
+      ],
+      "DESCRIPTION": "Ajna karto kun la vorto \"Bato\" en sia nomo."
+    },
+    "TEXT": [
+      "Energio estas uzata por ludi kartojn el via mano."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "dornoj"
+      ],
+      "DESCRIPTION": "Ricevante #yatakan damaĝon, refaras damaĝon."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformi",
+        "transformu"
+      ],
+      "DESCRIPTION": "Transformataj kartoj iĝas hazarda karto de ajna ofteco."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "nekonata"
+      ],
+      "DESCRIPTION": "Ĉi tiu karto ankoraŭ ne estas trovita."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "neludebla"
+      ],
+      "DESCRIPTION": "Neludeblaj kartoj ne povas esti ludataj el via mano."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "plibonigi",
+        "plibonigita"
+      ],
+      "DESCRIPTION": "Plibonigi kartojn faras ilin pli potencaj. Kartoj povas pliboniĝi nur unufoje."
+    },
+    "VOID": {
+      "NAMES": [
+        "vakuo",
+        "vakuon",
+        "vakuoj"
+      ],
+      "DESCRIPTION": "Vakuoj estas neludeblaj statkartoj, kiuj konsumas energion, kiam ili estas prenataj."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vundebla"
+      ],
+      "DESCRIPTION": "Vundeblaj estaĵoj prenas #b50% pli da damaĝo de atakoj."
+    },
+    "WEAK": {
+      "NAMES": [
+        "malforta",
+        "malfortigi",
+        "malfortigita",
+        "malfortigas",
+        "malforta."
+      ],
+      "DESCRIPTION": "Malfortigitaj estaĵoj faras #b25% malpli da damaĝo per atakoj."
+    },
+    "WOUND": {
+      "NAMES": [
+        "vundo",
+        "vundoj",
+        "vundojn"
+      ],
+      "DESCRIPTION": "Vundoj estas neludeblaj statkartoj."
+    },
+    "WRATH": {
+      "NAMES": [
+        "rankoro",
+        "rankoron"
+      ],
+      "DESCRIPTION": "En ĉi tiu #ypozicio, vi faras kaj ricevas duoblan atakan damaĝon."
+    },
+    "CALM": {
+      "NAMES": [
+        "kalmo",
+        "kalmon"
+      ],
+      "DESCRIPTION": "Elirante ĉi tiun #ypozicion, gajnu [W] [W] ."
+    },
+    "STANCE": {
+      "NAMES": [
+        "pozicio",
+        "pozicioj",
+        "pozicion"
+      ],
+      "DESCRIPTION": "Vi povas havi nur unu pozicion samtempe."
+    },
+    "SCRY": {
+      "NAMES": [
+        "ekvidi",
+        "ekvidu",
+        "ekvidas"
+      ],
+      "DESCRIPTION": "Rigardu la suprajn X kartojn de via prenstako. Vi rajtas forĵeti ajnan kvanton de ili."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "dieco"
+      ],
+      "DESCRIPTION": "Enirante ĉi tiun pozicion, gajnu [W] [W] [W] . Atakoj faras trioblan damaĝon. Eliru ĉi tiun #ypozicion je la komenco de via venonta vico."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantro",
+        "per perforto"
+      ],
+      "DESCRIPTION": "Kiam vi gajnas #b10 da #ymantro, eniru #ydieco."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "povo"
+      ],
+      "DESCRIPTION": "Via sekvonta atako faras kroman damaĝon."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regenero"
+      ],
+      "DESCRIPTION": "Regenero resanigas vivpoentojn je la fino de viaj vicoj. Ĉiuvice, regenero malaltiĝas je #b1."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "rito"
+      ],
+      "DESCRIPTION": "Gajnu #yforton je la fino de viaj vicoj."
+    },
+    "FATAL": {
+      "NAMES": [
+        "letala",
+        "letale"
+      ],
+      "DESCRIPTION": "Agas kiam ajn ĉi tiu karto mortigas neminionan malamikon."
+    }
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "hart",
+        "hartu"
+      ],
+      "DESCRIPTION": "Neutralizuje negatywny efekt."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "blok",
+        "bloku",
+        "blokuje"
+      ],
+      "DESCRIPTION": "Pochłania otrzymywane obrażenia."
+    },
+    "BURN": {
+      "NAMES": [
+        "poparzenie",
+        "poparzenia",
+        "poparzeń"
+      ],
+      "DESCRIPTION": "Niezagrywalna karta Stanu, zadająca obrażenia."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "przywołanie",
+        "przywołaj",
+        "przywołanych",
+        "przywołasz",
+        "przywołany",
+        "przywołano",
+        "przywołaną",
+        "przywołane",
+        "przywołać"
+      ],
+      "DESCRIPTION": "Umieszcza Sferę w pierwszym pustym miejscu. Jeżeli nie masz już miejsca, twoja pierwsza Sfera zostaje #yWyładowana."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "dezorientacja",
+        "dezorientacji",
+        "dezorientacją"
+      ],
+      "DESCRIPTION": "Koszt każdej dobranej karty jest losowy."
+    },
+    "CURSE": {
+      "NAMES": [
+        "klątwa",
+        "klątwy",
+        "klątw"
+      ],
+      "DESCRIPTION": "Negatywna karta będąca na stałe w twojej talii."
+    },
+    "DARK": {
+      "NAMES": [
+        "ciemność",
+        "ciemność+",
+        "ciemności"
+      ],
+      "DESCRIPTION": "Sfera: Zwiększa obrażenia w każdej turze. #yWyładowanie zadaje obrażenia przeciwnikowi z najmniejszą liczbą PŻ."
+    },
+    "DAZED": {
+      "NAMES": [
+        "oszołomienie",
+        "oszołomienia"
+      ],
+      "DESCRIPTION": "Niezagrywalna Eteryczna karta Stanu."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "zręczność",
+        "zręczności"
+      ],
+      "DESCRIPTION": "Zwiększa ilość otrzymywanego Bloku z kart."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "eteryczność",
+        "eteryczne",
+        "eteryczna"
+      ],
+      "DESCRIPTION": "Jeśli ta karta będzie w twojej ręce pod koniec tury, zostanie wykluczona. Wykluczone karty są usuwane z talii do końca walki."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "wyładowanie",
+        "wyładuj",
+        "wyładowaną",
+        "wyładowana"
+      ],
+      "DESCRIPTION": "Zużyj Sferę pierwszą od prawej, aby ją Wyładować."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "wykluczenie",
+        "wyklucz",
+        "wykluczona",
+        "wykluczone",
+        "wykluczysz",
+        "wyklucza",
+        "wykluczoną"
+      ],
+      "DESCRIPTION": "Karta zostanie usunięta z talii do końca walki."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "skupienie",
+        "skupienia"
+      ],
+      "DESCRIPTION": "Zwiększa efektywność #yPrzywołanych Sfer."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "kruchość",
+        "kruchości"
+      ],
+      "DESCRIPTION": "Zmniejsza otrzymywane z kart pkt. #yBloku o #b25%."
+    },
+    "FROST": {
+      "NAMES": [
+        "mróz",
+        "mróz+",
+        "mrozu"
+      ],
+      "DESCRIPTION": "Sfera: Zyskujesz #yBlok."
+    },
+    "INNATE": {
+      "NAMES": [
+        "startowa"
+      ],
+      "DESCRIPTION": "Zaczniesz walkę z tą kartą NL w ręce."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "nieuchwytność",
+        "nieuchwytności"
+      ],
+      "DESCRIPTION": "Zmniejsza WSZYSTKIE otrzymywane obrażenia do #b1 pkt."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "grom",
+        "grom+",
+        "gromu"
+      ],
+      "DESCRIPTION": "Sfera: Zadaje obrażenia losowym przeciwnikom."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "zablokowana"
+      ],
+      "DESCRIPTION": "Karta musi zostać wcześniej odblokowana."
+    },
+    "OPENER": {
+      "NAMES": [
+        "Starter"
+      ],
+      "DESCRIPTION": "Starter może zostać zagrany jedynie jako pierwsza karta w turze."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plazma",
+        "plazma+",
+        "plazmy",
+        "plazmę"
+      ],
+      "DESCRIPTION": "Sfera: Zyskujesz energię."
+    },
+    "POISON": {
+      "NAMES": [
+        "trucizna",
+        "trucizny",
+        "truciznę"
+      ],
+      "DESCRIPTION": "Zatrute istoty tracą PŻ na początku swojej tury. W każdej turze wartość Trucizny NL zmniejsza się o #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "zachowanie",
+        "zachowaj",
+        "zachowana",
+        "zachowaniem",
+        "zachowaną",
+        "zachowaniu"
+      ],
+      "DESCRIPTION": "Zachowane karty nie zostają odrzucone pod koniec tury."
+    },
+    "SHIV": {
+      "NAMES": [
+        "nóż",
+        "noże",
+        "noży"
+      ],
+      "DESCRIPTION": "Karta Ataku kosztująca #b0 NL i wykluczana po zagraniu."
+    },
+    "STATUS": {
+      "NAMES": [
+        "stan",
+        "stanu"
+      ],
+      "DESCRIPTION": "Karty Stanu są usuwane z talii po zakończeniu walki."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "siła",
+        "siły"
+      ],
+      "DESCRIPTION": "Zwiększa obrażenia zadawane kartami Ataku."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "uderzenie"
+      ],
+      "DESCRIPTION": "Dowolna karta z \"uderzenie\" w nazwie."
+    },
+    "TEXT": [
+      "Energia jest używana do zagrywania kart z ręki."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "ciernie",
+        "cierni"
+      ],
+      "DESCRIPTION": "Kiedy otrzymujesz obrażenia od #yAtaku, zadajesz obrażenia atakującemu cię przeciwnikowi."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "podmień",
+        "podmienione"
+      ],
+      "DESCRIPTION": "Podmieniona karta staje się kartą o losowej rzadkości."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "nieznane"
+      ],
+      "DESCRIPTION": "Tę kartę należy wcześniej odkryć."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "niezagrywalna"
+      ],
+      "DESCRIPTION": "Karta ta jest, no... niezagrywalna."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "ulepszenie",
+        "ulepsz",
+        "ulepsza",
+        "ulepszy"
+      ],
+      "DESCRIPTION": "Sprawia, że karty stają się potężniejsze. Karty można ulepszyć tylko raz."
+    },
+    "VOID": {
+      "NAMES": [
+        "otchłań",
+        "otchłani"
+      ],
+      "DESCRIPTION": "Niezagrywalna karta stanu, która przy dobraniu zużywa energię."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "wrażliwość",
+        "wrażliwości",
+        "wrażliwi"
+      ],
+      "DESCRIPTION": "Wrażliwe istoty otrzymują #b50% więcej obrażeń od Ataków."
+    },
+    "WEAK": {
+      "NAMES": [
+        "słabość",
+        "słabości",
+        "osłabienia",
+        "osłabiona",
+        "osłabieni"
+      ],
+      "DESCRIPTION": "Osłabione istoty zadają #b25% mniej obrażeń Atakami."
+    },
+    "WOUND": {
+      "NAMES": [
+        "rana",
+        "rany",
+        "ran",
+        "ranę"
+      ],
+      "DESCRIPTION": "Niezagrywalna karta Stanu."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "namierzenie",
+        "namierz",
+        "namierza",
+        "namierzy",
+        "namierzenia"
+      ],
+      "DESCRIPTION": "Namierzeni przeciwnicy otrzymują #b50% więcej obrażeń od Sfer."
+    },
+    "STANCE": {
+      "NAMES": [
+        "postawa",
+        "postawy",
+        "postaw",
+        "postawę",
+        "postawie"
+      ],
+      "DESCRIPTION": "Możesz posiadać tylko jedną postawę w danym momencie."
+    },
+    "WRATH": {
+      "NAMES": [
+        "gniew",
+        "gniewu"
+      ],
+      "DESCRIPTION": "W tej #yPostawie, zadajesz i otrzymujesz podwójne obrażenia od ataków."
+    },
+    "CALM": {
+      "NAMES": [
+        "spokój",
+        "spokoju"
+      ],
+      "DESCRIPTION": "Po opuszczeniu tej #yPostawy, zyskaj [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "boskość",
+        "boskości"
+      ],
+      "DESCRIPTION": "Po przyjęciu tej #yPostawy, zyskaj [W] [W] [W] . Karty Ataku zadają potrójne obrażenia. Opuść tę #yPostawę na początku następnej tury."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "mantry",
+        "poprzez przemoc"
+      ],
+      "DESCRIPTION": "Po zdobyciu #b10 #ypkt. #yMantry, przyjmij postawę #yBoskości."
+    },
+    "SCRY": {
+      "NAMES": [
+        "prognozowanie",
+        "prognozuj",
+        "prognozowania",
+        "prognozujesz"
+      ],
+      "DESCRIPTION": "Podejrzyj X kart ze stosu rozgrywającego. Każdą z nich możesz odrzucić."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regeneracja",
+        "regeneracji"
+      ],
+      "DESCRIPTION": "Regeneracja przywraca PŻ na koniec tury. W każdej turze zmniejsza się o #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "wigor",
+        "wigoru"
+      ],
+      "DESCRIPTION": "Twój następny atak zadaje dodatkowe obrażenia."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "rytuał",
+        "rytuału"
+      ],
+      "DESCRIPTION": "Zyskaj pkt. #ySiły na koniec swojej tury."
+    },
+    "FATAL": {
+      "NAMES": [
+        "uśmiercenie",
+        "uśmierceniu"
+      ],
+      "DESCRIPTION": "Efekt wywoływany poprzez zabicie tą kartą przeciwnika nie będącego sługą."
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Mikstura hartu",
+    "DESCRIPTIONS": [
+      "Otrzymujesz #b",
+      " pkt. #yHartu."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Mikstura ataku",
+    "DESCRIPTIONS": [
+      "Wybierz #b1 z #b3 kart #yAtaku i dodaj ją do ręki. W tej turze kosztuje #b0.",
+      "Wybierz #b1 z #b3 kart #yAtaku i dodaj jej #b2 kopie do ręki. W tej turze kosztują #b0."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Mikstura bloku",
+    "DESCRIPTIONS": [
+      "Dodaje #b",
+      " pkt. #yBloku."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Mikstura krwi",
+    "DESCRIPTIONS": [
+      "Przywraca #b",
+      "% twoich Maksymalnych PŻ."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Mikstura zręczności",
+    "DESCRIPTIONS": [
+      "Dodaje #b",
+      " pkt. #yZręczności."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Eliksir",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Mikstura energii",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yEnergii."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropiczny napar",
+    "DESCRIPTIONS": [
+      "Wypełnia wszystkie puste miejsca na mikstury losowymi miksturami."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Esencja stali",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yPancerza."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Mieszanka wybuchowa",
+    "DESCRIPTIONS": [
+      "Zadaj #b",
+      " pkt. obrażeń WSZYSTKIM przeciwnikom."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Wróżka w butelce",
+    "DESCRIPTIONS": [
+      "Po otrzymaniu śmiertelnych obrażeń, przywraca #b",
+      "% twoich Maksymalnych PŻ i zostaje usunięta."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Płynny strach",
+    "DESCRIPTIONS": [
+      "Nakłada #b",
+      " pkt. #yWrażliwości."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Płynny ogień",
+    "DESCRIPTIONS": [
+      "Zadaj #b",
+      " pkt. obrażeń."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Roztwór NZT-48",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #ySkupienia."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Multiwitamina",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " maksymalnych PŻ."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Wywar hazardzisty",
+    "DESCRIPTIONS": [
+      "Odrzuć wybraną ilość kart i dobierz ich tyle samo."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Duszek w słoiku",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yNieuchwytności."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Mikstura lecząca",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Płynny Brąz",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yCierni."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Fiolka trucizny",
+    "DESCRIPTIONS": [
+      "Nakłada #b",
+      " pkt. #yTrucizny."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Miejsce na miksturę",
+    "DESCRIPTIONS": [
+      "Korzystaj z mikstur podczas walki, aby zyskiwać #gbonusy NL lub #rranić przeciwników.",
+      "Miejsce na miksturę"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Mikstura mocy",
+    "DESCRIPTIONS": [
+      "Wybierz #b1 z #b3 kart #yMocy i dodaj ją do ręki. W tej turze kosztuje #b0.",
+      "Wybierz #b1 z #b3 kart #yMocy i dodaj jej #b2 kopie do ręki. W tej turze kosztują #b0."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Mikstura regeneracji",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yRegeneracji.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Mikstura umiejętności",
+    "DESCRIPTIONS": [
+      "Wybierz #b1 z #b3 kart #yUmiejętności i dodaj ją do ręki. W tej turze kosztuje #b0.",
+      "Wybierz #b1 z #b3 kart #yUmiejętności i dodaj jej #b2 kopie do ręki. W tej turze kosztują #b0."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Bomba dymna",
+    "DESCRIPTIONS": [
+      "Ucieknij z walki (nie działa na bossów). Nie zyskujesz łupów.",
+      "Otoczono mnie!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Olej Wonsza",
+    "DESCRIPTIONS": [
+      "Dobierz #b",
+      " kart. Losowo zmień koszt kart w swojej ręce.",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Mikstura chyżości",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yZręczności. NL Na koniec tury utrać NL #b",
+      " pkt. #yZręczności."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Sterydy",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #ySiły. Na koniec tury utrać #b",
+      " pkt. #ySiły."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Mikstura siły",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #ySiły."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Mikstura szybkości",
+    "DESCRIPTIONS": [
+      "",
+      "Dobierz #b",
+      " kart(y)."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Mikstura osłabienia",
+    "DESCRIPTIONS": [
+      "Nakłada #b",
+      " pkt. #ySłabości."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Mikstura postawy",
+    "DESCRIPTIONS": [
+      "Przyjmij postawę #ySpokoju lub #yGniewu."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Mikstura powielenia",
+    "DESCRIPTIONS": [
+      "W tej turze twoja następna karta zostanie zagrana dwukrotnie.",
+      "W tej turze twoje #b2 następne karty zostaną zagrane dwukrotnie."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Eliksir",
+    "DESCRIPTIONS": [
+      "#yWyklucz dowolną liczbę kart ze swojej ręki."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Żelazne serce",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yOpancerzenia."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Mikstura sprytu",
+    "DESCRIPTIONS": [
+      "Dodaj #b",
+      " #yNoże+ do swojej ręki."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Mikstura pojemności",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " miejsca na Sfery."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Esencja ciemności",
+    "DESCRIPTIONS": [
+      "#yPrzywołaj #b",
+      " #ySferę #yCiemności w każde miejsce na Sferę."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Zabutelkowany cud",
+    "DESCRIPTIONS": [
+      "Dodaj #b",
+      " #yCuda do swojej ręki."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrozja",
+    "DESCRIPTIONS": [
+      "Przyjmij #yPostawę #yBoskości."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Destylowany chaos",
+    "DESCRIPTIONS": [
+      "Zagraj #b",
+      " kart(y) ze szczytu stosu rozgrywającego."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Płynne wspomnienia",
+    "DESCRIPTIONS": [
+      "Wybierz kartę ze stosu kart odrzuconych i przywróć ją do ręki. Kosztuje #b0 w tej turze.",
+      "Wybierz #b",
+      " karty ze stosu kart odrzuconych i przywróć je do ręki. Kosztują #b0 w tej turze."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Mikstura kultusty",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yRytuału."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Bezbarwna mikstura",
+    "DESCRIPTIONS": [
+      "Wybierz #b1 z #b3 #ybezbarwnych kart i dodaj ją do ręki. W tej turze kosztuje #b0.",
+      "Wybierz #b1 z #b3 #ybezbarwnych kart i dodaj jej #b2 kopie do ręki. W tej turze kosztują #b0."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Błogosławieństwo kuźni",
+    "DESCRIPTIONS": [
+      "Ulepsz wszystkie karty w swojej ręce do końca walki."
+    ]
+  }
+}

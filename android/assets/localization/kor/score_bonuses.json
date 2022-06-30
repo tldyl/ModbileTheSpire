@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "연금술사",
+    "DESCRIPTIONS": [
+      "포션을 5개 구매했습니다."
+    ]
+  },
+  "Ascension": {
+    "NAME": "승천",
+    "DESCRIPTIONS": [
+      "승천 단계당 +5%씩 추가 점수를 획득합니다."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "저 편 엘리트 처치",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "완벽조차 넘어선",
+    "DESCRIPTIONS": [
+      "피해를 받지 않고 세 보스를 처치했습니다."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "보스 처치",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "영웅",
+    "DESCRIPTIONS": [
+      "피해를 받지 않고 엘리트를 처치했습니다."
+    ]
+  },
+  "Cheater": {
+    "NAME": "사기꾼",
+    "DESCRIPTIONS": [
+      "치트 사용이 감지되었습니다. 한 번 더 감지되면 당신의 점수는 다시는 리더보드에 업로드 되지 않을 것입니다."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "도시 엘리트 처치",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "수집가",
+    "DESCRIPTIONS": [
+      "초기 카드를 제외한 같은 카드가 4장 있습니다."
+    ]
+  },
+  "Combo": {
+    "NAME": "코오오옴보",
+    "DESCRIPTIONS": [
+      "한 턴에 20장의 카드를 사용했습니다."
+    ]
+  },
+  "Curses": {
+    "NAME": "저주!",
+    "DESCRIPTIONS": [
+      "덱에 저주가 5장 있습니다."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "걸어다니는 백과사전",
+    "DESCRIPTIONS": [
+      "덱에 50장 이상의 카드가 있습니다."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "태초 엘리트 처치",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "하트브레이커",
+    "DESCRIPTIONS": [
+      "심장을 처치했습니다."
+    ]
+  },
+  "Highlander": {
+    "NAME": "하이랜더",
+    "DESCRIPTIONS": [
+      "덱에 같은 카드가 없습니다.(초기 카드는 제외)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "골드가 좋아",
+    "DESCRIPTIONS": [
+      "3000 골드를 획득했습니다."
+    ]
+  },
+  "Librarian": {
+    "NAME": "사서",
+    "DESCRIPTIONS": [
+      "덱에 35장 이상의 카드가 있습니다."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "광속",
+    "DESCRIPTIONS": [
+      "45분 이내에 승리했습니다."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "작음의 미학",
+    "DESCRIPTIONS": [
+      "덱에서 5장 이상의 카드를 제거했습니다."
+    ]
+  },
+  "Money Money": {
+    "NAME": "돈 돈",
+    "DESCRIPTIONS": [
+      "1000 골드를 획득했습니다."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "미스터리 머신",
+    "DESCRIPTIONS": [
+      "15개 이상의 ? 방을 탐색했습니다."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "나의 의지로",
+    "DESCRIPTIONS": [
+      "자살했습니다."
+    ]
+  },
+  "Overkill": {
+    "NAME": "오버킬",
+    "DESCRIPTIONS": [
+      "한 번의 공격으로 99 피해를 주었습니다."
+    ]
+  },
+  "Pauper": {
+    "NAME": "거지",
+    "DESCRIPTIONS": [
+      "희귀 카드가 0장입니다."
+    ]
+  },
+  "Perfect": {
+    "NAME": "완벽함",
+    "DESCRIPTIONS": [
+      "피해를 받지 않고 보스를 처치했습니다."
+    ]
+  },
+  "Poopy": {
+    "NAME": "똥쟁이",
+    "DESCRIPTIONS": [
+      "정령의 똥을 받았습니다."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "골드의 비",
+    "DESCRIPTIONS": [
+      "2000 골드를 획득했습니다."
+    ]
+  },
+  "Shiny": {
+    "NAME": "빛나는 것이 좋아",
+    "DESCRIPTIONS": [
+      "25개 이상의 유물을 수집했습니다."
+    ]
+  },
+  "Speedster": {
+    "NAME": "속도광",
+    "DESCRIPTIONS": [
+      "60분 이내에 승리했습니다."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "배부르네요",
+    "DESCRIPTIONS": [
+      "최대 체력을 30 이상 증가시켰습니다."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "잘먹었습니다",
+    "DESCRIPTIONS": [
+      "최대 체력을 15 이상 증가시켰습니다."
+    ]
+  }
+}

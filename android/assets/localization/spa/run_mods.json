@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Toda una Estrella",
+    "DESCRIPTION": "Empieza con 5 cartas incoloras."
+  },
+  "Binary": {
+    "NAME": "Binario",
+    "DESCRIPTION": "Las recompensas de cartas solo contienen 2 cartas."
+  },
+  "Blight Chests": {
+    "NAME": "Cofres de Plaga",
+    "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en el modo Sin Fin."
+  },
+  "Brewmaster": {
+    "NAME": "Maestro Alquimista",
+    "DESCRIPTION": "Empieza con 5 copias de la carta 'Alquimia' y la reliquia 'Estatua de la Bestia Blanca'."
+  },
+  "Cursed Run": {
+    "NAME": "Partida Maldita",
+    "DESCRIPTION": "Cuando derrotes a un Jefe, ganas una Maldición. Tu reliquia inicial es reemplazada por 'Llave Maldita', 'Amuleto de Piedraoscura', y 'Muñeco de Du-Vu.'"
+  },
+  "Diverse": {
+    "NAME": "Diversidad",
+    "DESCRIPTION": "Las cartas no están restringidas por el color de tu personaje."
+  },
+  "Draft": {
+    "NAME": "Selección",
+    "DESCRIPTION": "Monta un mazo inicial personalizado."
+  },
+  "Elite Swarm": {
+    "NAME": "Cazador de Alto Rango",
+    "DESCRIPTION": "Enemigos Elite estan invadiendo la Torre y dejan mejores recompensas."
+  },
+  "Endless": {
+    "NAME": "Sin Fin",
+    "DESCRIPTION": "Ganar te devolverá al Acto 1 con el mismo mazo. Pero cuidado, la plaga lo consume todo..."
+  },
+  "Heirloom": {
+    "NAME": "Reliquia Familiar",
+    "DESCRIPTION": "Empieza con 1 Reliquia Rara."
+  },
+  "Hoarder": {
+    "NAME": "Acaparador",
+    "DESCRIPTION": "Cuando añades una carta a tu mazo, agrega dos copias adicionales. Ya no puedes eliminar cartas de tu mazo con el Vendedor."
+  },
+  "Inception": {
+    "NAME": "Comienzo",
+    "DESCRIPTION": "Reemplaza tu reliquia inicial con Peonza Incesante."
+  },
+  "Insanity": {
+    "NAME": "Locura",
+    "DESCRIPTION": "Empieza con un mazo de 50 cartas al azar."
+  },
+  "Lethality": {
+    "NAME": "Letalidad",
+    "DESCRIPTION": "Empiezas cada combate con +3 de Fuerza. Todos los enemigos empiezan el combate con +3 de Fuerza."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Los enemigos sueltan un 200% más de oro, pero ya no puedes forjar en Áreas de Descanso."
+  },
+  "My True Form": {
+    "NAME": "Mi Verdadera Forma",
+    "DESCRIPTION": "Empieza con una copia de Forma Demoníaca, Forma Espectral, Forma de Eco y Forma Deva."
+  },
+  "Night Terrors": {
+    "NAME": "Terrores Nocturnos",
+    "DESCRIPTION": "Decansar en Áreas de Descanso te cura 100% de tus PV, pero te cuesta 5 PV Máximos."
+  },
+  "One Hit Wonder": {
+    "NAME": "De Un Golpe",
+    "DESCRIPTION": "Empieza la partida con 1 PV máximo."
+  },
+  "Praise Snecko": {
+    "NAME": "Alabad a la Serpentija",
+    "DESCRIPTION": "Reemplaza tu reliquia inicial con el Ojo de Serpentija."
+  },
+  "Shiny": {
+    "NAME": "Brillante",
+    "DESCRIPTION": "Tu baraja inicial es reemplazada con una copia de cada carta rara."
+  },
+  "Specialized": {
+    "NAME": "Especialista",
+    "DESCRIPTION": "Empieza con 5 copias de una carta al azar."
+  },
+  "Starter Deck": {
+    "NAME": "Mazo Inicial",
+    "DESCRIPTION": "Empieza con Corona Reventada y Binario, por lo que los enemigos ya no sueltan cartas."
+  },
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Cuando entras en una nueva habitación, pierdes 1 PV máximo. Comienza cada combate con 5x 'Armadura de Placas'."
+  },
+  "Time Dilation": {
+    "NAME": "Dilatación Temporal",
+    "DESCRIPTION": "Todos los enemigos comienzan con el perjuicio de Lento."
+  },
+  "Uncertain Future": {
+    "NAME": "Futuro Cierto",
+    "DESCRIPTION": "El mapa solo contine un camino."
+  },
+  "Vintage": {
+    "NAME": "Clásico",
+    "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas."
+  },
+  "Red Cards": {
+    "NAME": "Cartas Rojas",
+    "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
+  },
+  "Green Cards": {
+    "NAME": "Cartas Verdes",
+    "DESCRIPTION": "Las cartas verdes aparecen en tiendas y recompensas."
+  },
+  "Blue Cards": {
+    "NAME": "Cartas Azules",
+    "DESCRIPTION": "Las cartas azules aparecen en tiendas y recompensas."
+  },
+  "Colorless Cards": {
+    "NAME": "Cartas Incoloras",
+    "DESCRIPTION": "Las cartas incoloras aparecen en recompensas."
+  },
+  "Stunted Growth": {
+    "NAME": "Crecimiento atrofiado",
+    "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
+  },
+  "SealedDeck": {
+    "NAME": "Baraja Sellada",
+    "DESCRIPTION": "Elabora una baraja a partir de 30 cartas aleatorias."
+  },
+  "Flight": {
+    "NAME": "Vuelo",
+    "DESCRIPTION": "Puedes ignorar los caminos cuando elijas la siguiente habitación a la que viajar."
+  },
+  "Chimera": {
+    "NAME": "Quimera",
+    "DESCRIPTION": "Tu baraja inicial es una fusión de la de todos los personajes."
+  },
+  "NeowTime": {
+    "NAME": "Hora de Neow",
+    "DESCRIPTION": "Recibe 3 bendiciones y 1 maldición de Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Enemigos Inteligentes",
+    "DESCRIPTION": "Todos los enemigos tienen más movimientos y habilidades desafiantes."
+  },
+  "Careless": {
+    "NAME": "Descuidado",
+    "DESCRIPTION": "Al inicio de cada turno, descarta la la primera carta de tu pila de robado."
+  },
+  "ControlledChaos": {
+    "NAME": "Caos Controlado",
+    "DESCRIPTION": "Empieza con la reliquia Ojo Congelado. Al inicio de tu turno añade 10 cartas aleatorias al final de tu pila de robado."
+  },
+  "MonsterHunter": {
+    "NAME": "[OBSOLETO]Coloso",
+    "DESCRIPTION": "Los enemigos tienen más PV pero sueltan mejores recompensas."
+  },
+  "DeadlyEvents": {
+    "NAME": "Eventos Mortales",
+    "DESCRIPTION": "Las habitaciones ? ahora pueden contener Élites, pero también aumenta la probabilidad de que contengan habitaciones del Tesoro."
+  },
+  "Daily Mods": {
+    "NAME": "Modificación Diaria",
+    "DESCRIPTION": "Embárcate en una partida con 3 modificadores diarios aleatorios."
+  },
+  "The Ending": {
+    "NAME": "El Final",
+    "DESCRIPTION": "Habilita el Acto Final."
+  },
+  "Purple Cards": {
+    "NAME": "Cartas Moradas",
+    "DESCRIPTION": "Las cartas moradas aparecen en tiendas y recompensas."
+  }
+}

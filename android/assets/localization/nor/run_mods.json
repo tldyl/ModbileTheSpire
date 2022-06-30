@@ -1,0 +1,174 @@
+{
+  "Cursed Run": {
+    "NAME": "En forbannet oppstigning",
+    "DESCRIPTION": "Hver gang du slår en høvding får du et Forbannelseskort. Startrelikvien din blir erstattet med Forbannelsens nøkkel, Et smykke av mørkestein, og Du-Vu-dukke"
+  },
+  "Elite Swarm": {
+    "NAME": "Storviltjeger",
+    "DESCRIPTION": "Elitefiender svermer rundt i tårnet, og etterlater seg bedre belønninger."
+  },
+  "Heirloom": {
+    "NAME": "Arv",
+    "DESCRIPTION": "Start med en tilfeldig Relikvie."
+  },
+  "Night Terrors": {
+    "NAME": "Fryktens natt",
+    "DESCRIPTION": "Hvis du hviler ved Leirbål, helbreder du 100% av max HP, men mister 5 Max HP i prosessen."
+  },
+  "Shiny": {
+    "NAME": "Skinnende",
+    "DESCRIPTION": "Start med 1 tilfeldig sjeldent kort."
+  },
+  "Allstar": {
+    "NAME": "Superstjerne",
+    "DESCRIPTION": "Start med 2 tilfeldige fargeløse kort."
+  },
+  "Diverse": {
+    "NAME": "Variabel",
+    "DESCRIPTION": "Start med 2 tilfeldige kort fra en annen figurklasse."
+  },
+  "Vintage": {
+    "NAME": "Gammeldags",
+    "DESCRIPTION": "Normale fiender etterlater seg Relikvier isteden for kort."
+  },
+  "Binary": {
+    "NAME": "Binær",
+    "DESCRIPTION": "Kortbelønninger inneholder kun 2 kort."
+  },
+  "Uncertain Future": {
+    "NAME": "Usikker fremtid",
+    "DESCRIPTION": "Kartet inneholder kun èn retning."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Fiender slipper 200% mer gull, men du kan ikke oppgradere kort ved Leirbål."
+  },
+  "Insanity": {
+    "NAME": "Galskap",
+    "DESCRIPTION": "Start med en tilfeldig kortstokk med 50 kort."
+  },
+  "Lethality": {
+    "NAME": "Dødelighet",
+    "DESCRIPTION": "Du starter alle kamper med +3 i Styrke. Alle fiender starter også kampene med +3 i Styrke."
+  },
+  "Terminal": {
+    "NAME": "Den aller siste",
+    "DESCRIPTION": "Hver gang du entrer et nytt rom mister du 1 i Max HP. Du starter alle kamper med 5 Jernrustning."
+  },
+  "Time Dilation": {
+    "NAME": "Utvidelse av tiden",
+    "DESCRIPTION": "Alle fiender blir Trege."
+  },
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Draft a custom starting deck of cards."
+  },
+  "Brewmaster": {
+    "NAME": "Brewmaster",
+    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
+  },
+  "Specialized": {
+    "NAME": "Specialized",
+    "DESCRIPTION": "Start with 5 copies of a single rare card."
+  },
+  "Endless": {
+    "NAME": "Endless",
+    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Start the game with 1 max HP."
+  },
+  "Starter Deck": {
+    "NAME": "Starter Deck",
+    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+  },
+  "Praise Snecko": {
+    "NAME": "Praise Snecko",
+    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+  },
+  "My True Form": {
+    "NAME": "My True Form",
+    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+  },
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+  },
+  "Stunted Growth": {
+    "NAME": "Stunted Growth",
+    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
+  },
+  "Blue Cards": {
+    "NAME": "Blue Cards",
+    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+  },
+  "Red Cards": {
+    "NAME": "Red Cards",
+    "DESCRIPTION": "Red cards now appear in rewards and shops."
+  },
+  "Colorless Cards": {
+    "NAME": "Colorless Cards",
+    "DESCRIPTION": "Colorless cards appear more often."
+  },
+  "Green Cards": {
+    "NAME": "Green Cards",
+    "DESCRIPTION": "Green cards now appear in rewards and shops."
+  },
+  "SealedDeck": {
+    "NAME": "Sealed Deck",
+    "DESCRIPTION": "Craft a deck from 30 random cards."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Intelligent Enemies",
+    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+  },
+  "MonsterHunter": {
+    "NAME": "Monster Hunter",
+    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+  },
+  "NeowTime": {
+    "NAME": "Neow Time",
+    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+  },
+  "Flight": {
+    "NAME": "Flight",
+    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+  },
+  "ControlledChaos": {
+    "NAME": "Controlled Chaos",
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+  },
+  "Careless": {
+    "NAME": "Careless",
+    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+  },
+  "DeadlyEvents": {
+    "NAME": "Deadly Events",
+    "DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+  },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+  },
+  "The Ending": {
+    "NAME": "The Ending",
+    "DESCRIPTION": "Enables the Final Act."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "Den jernkledde"
+    ],
+    "TEXT": [
+      "Den siste av de jernkledde soldater. NL Solgte sjelen sin for å kunne utnytte de demoniske energiene."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Den lydløse"
+    ],
+    "TEXT": [
+      "En dødelig jeger fra skyggelandet. NL Utrydder fiender ved hjelp av Kniver og Gift."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Velkommen...~ NL ~Jeg..~ ~er~ ~Neow...~",
+      "~Hallo...~ NL ~igjen..~",
+      "~Velkommen...~",
+      "~Et nytt~ NL ~forsøk...?~",
+      "~Nå~ ~frem~ ~til~ ~første~ ~høvding...~ NL ~for~ ~å~ ~få..~ ~min...~ ~velsignelse.~",
+      "~Du~ ~kan...~ ~i~ ~det~ ~minste~ ~møte~ NL ~den~ ~første~ ~høvdingen...~",
+      "~Jeg~ ~bragte~ ~deg~ ~tilbake...~",
+      "~Velg...~",
+      "~Innfridd...~",
+      "~Risiko...~ NL ~..belønning....~",
+      "~Tid~ ~for~ ~en~ NL ~UTFORDRING...~",
+      "Rewards",
+      "~Let's~ ~keep~ ~going...~",
+      "~It~ ~only~ ~gets~ ~harder...~",
+      "~Impressive...~ ~more...~",
+      "Cursed!",
+      "Bloat!",
+      "Transformation!"
+    ],
+    "OPTIONS": [
+      "[Fortsett]",
+      "[Snakk]",
+      "[Hopp over]",
+      "[Avslutt]",
+      "Choose 10 cards to add to your deck."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gVelg #get #gkort #gdu #gfår ]",
+      "[ #gFå #get #gtilfeldig #gsjeldent #gkort ]",
+      "[ #gFjern #get #gkort #gfra #gkortstokken #gdin ]",
+      "[ #gOppgrader #get #gkort ]",
+      "[ #gTransformer #get #gkort ]",
+      "[ #gFå #g3 #gtilfeldige #gtrylledrikker ]",
+      "[ #gFå #gen #gtilfeldig #gordinær #grelikvie ]",
+      "[ #gMax #gHP #g+",
+      "[ #gFå #g",
+      " #ggull ]",
+      "#gFjern #g2 #gkort ]",
+      "#gFå #gen #gtilfeldig #gsjelden #grelikvie ]",
+      "#gVelg #get #gsjeldent #gkort #gdu #gfår ]",
+      "#gFå #g",
+      " #ggull ]",
+      "#gTransformer #g2 #gkort ]",
+      "#gMax #gHP #g+",
+      "[ #rMist #r",
+      " #rMax #rHP ",
+      "[ #rStart #ruten #rgull ",
+      "[ #rFå #ret #rforbannelseskort ",
+      "[ #rMist #r50% #rav #rdin #rnåværende #rHP ",
+      "Velg et kort",
+      "Velg ut et kort du vil fjerne",
+      "Velg 2 kort du vil fjerne",
+      "Velg et kort du vil Transformere",
+      "Velg 2 kort du vil Transformere",
+      "Velg et kort du vil Oppgradere",
+      "[ #gFiender #gi #gdine #gneste #gtre #gkamper #ghar #g1 #gHP ]",
+      " #rdamage",
+      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+      "#gObtain #g2 #grandom #gcolorless #gCards ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rMist #rstartrelikvien #rdin #rog #gfå #gen #gtilfeldig #ghøvdingrelikvie ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Fortsett",
+      "~Velkommen!~"
+    ],
+    "TEXT": [
+      "Hei! NL Kjøp noe! NL Kjøp kjøp kjøp!",
+      "Du var flott på håret",
+      "Vet du hva klokka er?",
+      "Er du en hundeperson eller en katteperson?",
+      "Du ser ~farlig~ ut, NL hehe...",
+      "Ta den tiden du trenger... NL ..... NL ... eller ikke",
+      "Liker du matta mi? NL Den er ikke til salgs",
+      "Støtt din lokale forhandler!",
+      "Masker er kule, det burde jeg vite!",
+      "Hmm... NL ...hmm... NL Åh!",
+      "Bli en stund, og hør hva jeg kan fortelle!",
+      "Det er farlig der ute helt alene! Gi meg alt gullet ditt!",
+      "Kjøp noe",
+      "~*GJESP*~",
+      "Jeg liker gull.",
+      "Favorittfargen min er blå. NL Hva er din?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Velkommen~ NL ~velkommen!~",
+      "Hei du, NL du trenger NL mer #rgull.",
+      "Hei kompis, du har ingen #rpenger!",
+      "Er du blakk?",
+      "Du har ikke nok #rgull.",
+      "Du har ikke råd til den.",
+      "Dette er ikke veldedighet.",
+      "~Taaaaaaakk~",
+      "Et salg... NL hohoho! NL Ka - @Ching!@",
+      "@SOLGT!@",
+      "Ingen bytterett.",
+      "Ha en fin dag.",
+      "Stikk",
+      "Velg et kort du vil fjerne fra kortstokken din."
+    ],
+    "TEXT": [
+      "Hei! NL Kjøp noe! NL Kjøp kjøp kjøp!",
+      "Du var flott på håret",
+      "Vet du hva klokka er?",
+      "Er du en hundeperson eller en katteperson?",
+      "Du ser ~farlig~ ut, NL hehe...",
+      "Ta den tiden du trenger... NL ..... NL ... eller ikke",
+      "Liker du matta mi? NL Den er ikke til salgs",
+      "Støtt din lokale forhandler!",
+      "Masker er kule, det burde jeg vite!",
+      "Har du sett budet mitt?",
+      "Bli en stund, og hør hva jeg kan fortelle!",
+      "Det er farlig der ute helt alene! Gi meg alt gullet ditt!",
+      "Kjøp noe",
+      "~*GJESP*~",
+      "Jeg liker gull.",
+      "Favorittfargen min er blå. NL Hva er din?"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "The Defect"
+    ],
+    "TEXT": [
+      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps..... NL So...... shall...",
+      "..I......."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
+  }
+}

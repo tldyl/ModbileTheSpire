@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Wenn dein Nachziehstapel leer ist, wird dein Abwurfstapel in den Nachziehstapel gemischt. NL NL Klicke, um die Karten in deinem Abwurfstapel anzusehen.",
+      "Wenn dein Nachziehstapel leer ist, wird dein Abwurfstapel in den Nachziehstapel gemischt. NL NL Sieh die Karten in deinem Abwurfstapel an."
+    ],
+    "LABEL": [
+      "Abwurfstapel"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Ziehe zu Beginn jedes Zuges #b",
+      " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen (gemischt).",
+      " Karten von hier. NL NL Klicke, um die Karten in deinem Nachziehstapel anzusehen.",
+      " Karten von hier. NL NL Sieh die Karten in deinem Nachziehstapel an (gemischt).",
+      " Karten von hier. NL NL Sieh die Karten in deinem Nachziehstapel an."
+    ],
+    "LABEL": [
+      "Nachziehstapel"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Klicke hier, um den Zug zu beenden. NL NL Du wirfst deine Hand ab. NL Die Gegner sind am Zug. NL Du ziehst ",
+      " Karten. NL Dann bist du wieder am Zug."
+    ],
+    "LABEL": [
+      "Zug beenden "
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Deine aktuelle Menge an Energie. Du brauchst Energie, um Karten auszuspielen."
+    ],
+    "LABEL": [
+      "Energie"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Um Karten auszuspielen, brauchst du Energie! NL Die Kugel unten links zeigt an, wie viel Energie du in diesem Zug noch hast."
+    ],
+    "LABEL": [
+      "Energiekosten"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Klicke, um die in diesem Kampf erschöpften Karten anzusehen.",
+      "Sieh die in diesem Kampf erschöpften Karten an."
+    ],
+    "LABEL": [
+      "Erschöpfte Karten"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Tipp: ",
+      "Verstanden"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Besiege Gegner, indem du Handkarten ausspielst! NL NL Um Karten auszuspielen, brauchst du #yEnergie. NL Sobald sie dir ausgeht, beende deinen Zug. NL NL Zu Beginn deines Zuges ziehst du neue Karten und erhältst #yEnergie.",
+      "Spiele defensive Karten aus, um #yBlock zu erhalten, wenn Gegner dich angreifen wollen. NL NL #yBlock reduziert ihren Angriffsschaden, aber NL #rverfällt zu Beginn deines nächsten Zuges.",
+      "Während deines Zuges kannst du die #yAbsicht des Gegners über ihm sehen. NL NL Wenn ein Gegner vorhat, dich anzugreifen, sorg dafür, dass du #yBlock benutzt!"
+    ],
+    "LABEL": [
+      "Weiter",
+      "Ich bin bereit!",
+      "Tutorial",
+      "(Seite ",
+      " von 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Spieldaten und Fehlerprotokolle werden an Mega Crit gesendet, um die Spielbalance sicherzustellen. NL NL Personenbezogene Informationen werden NICHT gesammelt.",
+      "Slay the Spire läuft am schnellsten im Vollbildmodus. Für macOS empfohlen, da das Dock und die Menüleiste ausgeblendet werden. NL HINWEIS: Auf dem PC kann es vorkommen, dass das Drücken der Alt- und Tab-Taste im Vollbildmodus den Spieler nicht zurück zu Slay the Spire bringt.",
+      "Da Slay the Spire kein anspruchsvolles Spiel ist, empfehlen wir den Vollbild-Fenster-Modus für eine schnelle Nutzung der Alt- und Tab-Tastenkombination. Läuft am besten auf dem PC.",
+      "Hinweis: Wenn VSync an ist, kann die max. Framerate deine Bildwiederholfrequenz nicht übersteigen.",
+      "Dieser Screen ist noch nicht völlig mit Controller nutzbar.",
+      "Wechselt den aktiven Monitor beim Vollbildmodus."
+    ],
+    "LABEL": [
+      "Metriken",
+      "Vollbild",
+      "Vollbild-Fenster",
+      "Max. Framerate",
+      "Vollbild-Monitor"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Diese Karte wendet eine Macht auf dich an, wenn du sie ausspielst. NL Mächte sind passive Fähigkeiten, die für den Rest des Kampfes anhalten.",
+      "Karten auszuspielen kostet Energie! NL Die Kugel unten links zeigt an, wie viel Energie du für diesen Zug noch hast.",
+      "Meine #rHand #rist #rvoll!",
+      "#rMaximale Orb-Kapazität erreicht.",
+      "Ich habe keine Orb-Slots."
+    ],
+    "LABEL": [
+      "Machtkarten",
+      "Energiekosten"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Dieser Trank wird auf deinen Gegner geworfen.",
+      "Trinke diesen Trank.",
+      "Dieser Trank wird abgeworfen NL #r(unwiederbringlich)."
+    ],
+    "LABEL": [
+      "Werfen",
+      "Trinken",
+      "Abwerfen"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Trink oder wirf Tränke während des Kampfes! NL Du kannst Tränke über Räume hinweg mitnehmen."
+    ],
+    "LABEL": [
+      "Tränke"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Tu dich mit anderen zusammen, um neue und effektive Strategien zu entdecken.",
+      "Vor jedem Boss gibt es ein Lagerfeuer.",
+      "Gib Gold in Läden aus! (Dieser Tipp wurde vom Händler gesponsert.)",
+      "Mach ab und zu mal eine Pause.",
+      "Prozentuale Werte werden am Ende immer abgerundet.",
+      "Während des Kampfes kannst du deinen Aufnahme- und Abwurfstapel ansehen.",
+      "Es gibt keine Begrenzung, wie viele Relikte du tragen kannst.",
+      "Truhen gewähren immer ein Relikt.",
+      "Auf jedem Weg, den du einschlägst, wird es mindestens 1 Schatzraum geben.",
+      "Elite-Gegner hinterlassen immer ein Relikt.",
+      "Du wirst niemals dasselbe Relikt zweimal in einem Run sehen.",
+      "Ungewöhnliche Karten haben blaue Rahmen und Banner.",
+      "Seltene Karten haben goldene Rahmen und Banner.",
+      "Die Seltenheit einer Karte ist auf der Karte selbst zu sehen.",
+      "Es ist nicht immer weise, Karten zu deinem Deck hinzuzufügen.",
+      "Karten, die du während des Kampfes erschöpfst, werden nicht aus deinem Deck entfernt.",
+      "Du kannst nur bis zu 10 Karten auf deiner Hand haben.",
+      "Statuskarten verschwinden am Ende des Kampfes.",
+      "Flüche können nicht verbessert werden. Warum sollte man auch?",
+      "Verbesserte Karten können in Belohnungen nach dem 1. Akt erscheinen.",
+      "Unbekannte Räume können Schätze, Monster, Läden oder Ereignisse enthalten.",
+      "Der Händler erstattet kein Geld zurück. Er ist ein Blödmann.",
+      "Der Kartenentfernungsdienst wird teurer, je öfter du ihn beanspruchst.",
+      "Der Kartenentfernungsdienst kann nur einmal in jedem Laden beansprucht werden.",
+      "Schaden von Tränken, Relikten und Mächten zählt nicht als Angriffsschaden.",
+      "Effekte, die im Kampf zufällige Karten generieren, heilen dich niemals."
+    ],
+    "LABEL": [
+      "Du kannst Tränke abwerfen, um Platz für neue zu schaffen."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Rechtsklicke auf neue Karten, um mehr über sie erfahren.",
+      "Einige Gegenstände offenbaren nützliche Informationen, wenn du auf sie zeigst.",
+      "Karten, die du verschiebst kannst du mit Rechtsklick loslassen.",
+      "Fahre mit der Maus über einen Gegner, um seinen Namen und Fähigkeiten zu sehen.",
+      "Benutze zum Scrollen das Mausrad oder klicke und ziehe den Bildschirm.",
+      "Wenn du einen Gegenstand untersuchen kannst, wird dein Cursor zu einer Lupe.",
+      "Nutze das Mausrad oder klicke und ziehe, um durch die Karte, die Deckansicht und andere Screens zu scrollen."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Im Spire sind Relikte mit einzigartigen Boni zu finden, die du für den Rest des Runs behältst. NL Du kannst sie in Truhen oder durch das Besiegen mächtiger Gegner finden.",
+      "Dieses Relikt muss noch entdeckt werden.",
+      "Die Kraft dieses Reliktes ist schon aufgebraucht."
+    ],
+    "LABEL": [
+      "Relikte",
+      "Unbekannt",
+      "Dieses Relikt muss noch freigeschaltet werden.",
+      "Gesperrt"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Vergiss deine Belohnungen nicht! NL Klicke sie zum Aufheben einfach an.",
+      "Vergiss deine Belohnungen nicht!"
+    ],
+    "LABEL": [
+      "Belohnungen"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Entferne eine Karte aus deinem Deck. Die Kosten dieses Dienstes erhöhen sich um #b",
+      " für den restlichen Run."
+    ],
+    "LABEL": [
+      "Kartenentfernungsdienst"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Wenn es keine Karten zum Ziehen gibt, wird dein Abwurfstapel in den Nachziehstapel gemischt."
+    ],
+    "LABEL": [
+      "Keine Karten mehr?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Öffnet das Spielmenü. NL NL Ändere oder aktualisiere deine Grafik-, Audio- und Spielpräferenzen hier.",
+      "Sieh dir alle Karten in deinem Deck an.",
+      "Sieh dir die Karte des aktuellen Dungeons an.",
+      "Wenn dir die TP ausgehen, stirbst du.",
+      "Zeigt, wie viel Gold du besitzt. Gold ist die anerkannte Währung im Spire.",
+      "Du erhältst dies, wenn du einen #yBoss besiegst. NL Wofür könnte das sein …?",
+      "Du erhältst dies, wenn du einen #yBoss besiegst. NL Verfüttere diese an #yNeow, um Gegenstände freizuschalten und Boni für neue Durchläufe zu verdienen.",
+      "Abgelaufene Zeit in diesem Run."
+    ],
+    "LABEL": [
+      "Einstellungen",
+      "Deck",
+      "Karte",
+      "Trefferpunkte (TP)",
+      "Geldbeutel",
+      "Timer"
+    ]
+  }
+}

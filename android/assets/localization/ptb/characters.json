@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Corvobô"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "O Defeituoso"
+    ],
+    "TEXT": [
+      "Um automato de combate que se tornou autoconsciente. NL Tecnologia ancestral permite a manipulação de Orbes."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "A Observadora"
+    ],
+    "TEXT": [
+      "Uma ascética cega que chegou para \"Avaliar\" o Pináculo. NL Mestra das Posturas divinas."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "O Rígido"
+    ],
+    "TEXT": [
+      "O soldado remanescente dos Rígidos. NL Vendeu sua alma para se aproveitar de energias demoníacas."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Prossiga",
+      "~Bem-vindo!~"
+    ],
+    "TEXT": [
+      "Olá! NL Compre algo! NL Compre, compre, compre!",
+      "Gostei do seu corte de cabelo",
+      "Você tem tempo?",
+      "Você gosta mais de cachorros ou de gatos?",
+      "Você me parece ~perigoso,~ NL hehe...",
+      "Leve o tempo que precisar... NL ..... NL ... ou não",
+      "Gostou do tapete? NL Ele não está à venda",
+      "Ajude os pequenos empreendedores!",
+      "Máscaras são maneiras, eu sei!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Fique um pouco e escute!",
+      "Ei, é perigoso ir sozinho! Deixe seu ouro aqui comigo!",
+      "Compre algo",
+      "~*BOCEJO*~",
+      "Eu gosto de ouro.",
+      "Minha cor favorita é azul. NL Qual é a sua?"
+    ],
+    "OPTIONS": [
+      "Como cheguei aqui? NL Não faço idéia.",
+      "Última chance de comprar algo'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "Eu prefiro gatos.",
+      "Sem pressa. NL Sem pressa.",
+      "Isso não é @excitante!?@",
+      "Eu costumava ser como você.",
+      "Subindo?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Saudações...~ NL ~Eu..~ ~sou~ ~Neow...~",
+      "~Olá...~ NL ~Novamente..~",
+      "~Saudações...~",
+      "~Outra~ NL ~tentativa...?~",
+      "~Avance~ ~até~ ~o~ ~Chefe...~ NL ~para~ ~receber~ ~mais..~ ~bençãos...~",
+      "~Enfrente~ ~pelo...~ ~menos~ NL ~o~ ~primeiro~ ~chefe...~",
+      "~Eu~ ~te~ ~trouxe~ ~de~ ~volta...~",
+      "~Escolha...~",
+      "~Concedido...~",
+      "~Arriscada...~ NL ~..recompensa....~",
+      "~Hora~ ~de~ ~um~ NL ~DESAFIO...~",
+      "Recompensas",
+      "~Let's~ ~keep~ ~going...~",
+      "~It~ ~only~ ~gets~ ~harder...~",
+      "~Impressive...~ ~more...~",
+      "Cursed!",
+      "Bloat!",
+      "Transformation!"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Conversar]",
+      "[Pular]",
+      "[Sair]",
+      "Escolha 10 cartas para adicionar ao seu deck."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gEscolha #guma #gCarta #gpara #gobter ]",
+      "[ #gObtenha #guma #gCarta #grara #galeatória ]",
+      "[ #gRemova #guma #gCarta #gdo #gseu #gbaralho ]",
+      "[ #gAprimore #guma #gCarta ]",
+      "[ #gTransforme #guma #gCarta ]",
+      "[ #gObtenha #g3 #gPoções #galeatórias ]",
+      "[ #gObtenha #guma #gRelíquia #gcomum #galeatória ]",
+      "[ #gPV #gmáximo #g+",
+      "[ #gObtenha #g",
+      " #gde #gOuro ]",
+      "#gRemova #g2 #gCartas ]",
+      "#gObtenha #guma #gRelíquia #grara #galeatória ]",
+      "#gEscolha #guma #gCarta #grara #gpara #gobter ]",
+      "#gGanhe #g",
+      " #gde #gOuro ]",
+      "#gTransforme #g2 #gCartas ]",
+      "#gPV #gmáximo #g+",
+      "[ #rPerca #r",
+      " #rPV #rmáximo ",
+      "[ #rPerca #rtodo #ro #rOuro ",
+      "[ #rObtenha #ruma #rMaldição ",
+      "[ #rPerca #r50% #rdo #rseu #rPV #ratual ",
+      "Escolha uma Carta",
+      "Selecione uma Carta para Remover",
+      "Selecione 2 Cartas para Remover",
+      "Selecione uma carta para Transformar",
+      "Selecione 2 cartas para Transformar",
+      "Selecione uma carta para Aprimorar",
+      "[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gPV ]",
+      " #rdano",
+      "[ #gEscolha #guma #gCarta #gincolor #gpara #gobter ]",
+      "#gEscolha #guma #gCarta #gincolor #grara #gpara #gobter ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rPerca #rsua #rRelíquia #rinicial #gGanhe #guma #gRelíquia #gde #gchefe]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Bem-vindo~ NL ~bem-vindo!~",
+      "Ei, NL você precisa NL de mais #rOuro.",
+      "Ei camarada, você não tem #rGrana!",
+      "Tá quebrado é?",
+      "Você não tem #rOuro o suficiente.",
+      "Você não consegue pagar por isso.",
+      "Isso aqui não é caridade.",
+      "~Obrigaaaado~",
+      "Outra venda... NL hohoho! NL Ka - @Ching!@",
+      "@VENDIDO!@",
+      "Sem reembolso.",
+      "Tenha um bom dia.",
+      "Sair",
+      "Selecione uma carta para remover do seu baralho."
+    ],
+    "TEXT": [
+      "Olá! NL Compre algo! NL Compre, compre, compre!",
+      "Gostei do seu corte de cabelo",
+      "Você tem tempo?",
+      "Você gosta mais de cachorros ou de gatos?",
+      "Você me parece ~perigoso,~ NL hehe...",
+      "Leve o tempo que precisar... NL ..... NL ... ou não",
+      "Gostou do tapete? NL Ele não está à venda",
+      "Ajude os pequenos empreendedores!",
+      "Máscaras são maneiras, eu sei!",
+      "Você viu meu entregador por aí?",
+      "Fique um pouco e escute!",
+      "Ei, é perigoso ir sozinho! Deixe seu ouro aqui comigo!",
+      "Compre algo",
+      "~*BOCEJO*~",
+      "Eu gosto de ouro.",
+      "Minha cor favorita é azul. NL Qual é a sua?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "A Sorrateira"
+    ],
+    "TEXT": [
+      "Uma caçadora mortal das terras nebulosas. NL Elimina adversários com adagas e venenos."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "E... agora..? NL ..Está... feito....?",
+      "...O Pináculo adormece.....",
+      "..assim como...... devo... NL ....eu......"
+    ]
+  }
+}

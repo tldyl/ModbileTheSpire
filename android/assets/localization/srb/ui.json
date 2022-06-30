@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Odustani od pohoda"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Zaključano",
+      "Nepoznato"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Nastavi"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Mrtav",
+      "Šteta odbranjena",
+      "Maks. ž. p. +",
+      "Ošamućen!",
+      "Prekinut!",
+      "Relikvije"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Nastavi",
+      "Pošasti:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Agresivan",
+      "Ovaj neprijatelj namerava NL da #ynapadne za #b",
+      " šteše #b",
+      " puta.",
+      "Ovaj neprijatelj namerava NL da #ynapadne za #b",
+      " štete.",
+      "Agresivan",
+      "Ovaj neprijatelj namerava da #yse #ypripremi i #ynapadne za #b",
+      " puta.",
+      "Ovaj neprijatelj namerava da #yse #ypripremi i #ynapadne za #b",
+      "Strategista",
+      "Ovaj neprijatelj namerava da ti nanese #ynegativan #yefekat i #ynapadne za #b",
+      "Ovaj neprijatelj namerava da #yse #ybrani i #ynapadne za #b",
+      "Defanzivan",
+      "Kukavičan",
+      "Magičan",
+      "Uspavan",
+      "Ošamućen",
+      "Nepoznato",
+      "Ovaj neprijatelj namerava da #yse #ypripremi.",
+      "Ovaj neprijatelj namerava da ti nanese #ynegativan #yefekat.",
+      "Ovaj neprijatelj namerava da ti nanese snažan #ynegativan #yefakat.",
+      "Ovaj neprijatelj namerava da #yse #ybrani tokom svog poteza.",
+      "Ovaj neprijatelj namerava da #yse #ybrani i da ti nanese #ynegativan #yefekat.",
+      "Ovaj neprijatelj namerava da #yse #ybrani i da #yse #ypripremi.",
+      "Ovaj neprijatelj namerava da #ypobegne.",
+      "Ovaj neprijatelj namerava da iskoristi misterioznu #ymagiju na svom potezu.",
+      "Ovaj neprijatelj spava.",
+      "Ovaj neprijatelj je #yošamućen tokom svog poteza.",
+      "Osim toga što sigurno ne napada, namere ovog neprijatelja su inače #ynepoznate.",
+      "Napad odbranjen"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Šteta odbranjena",
+      "Železni",
+      "Nema",
+      "Promašaj",
+      "the Watcher"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Ne mogu da nosim NL više napitaka."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Opljačkan...",
+      "Pobegao..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš dodati u ruku.",
+      "Izabere karte koje ćeš dodati u ruku."
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Negirano",
+      "Imun",
+      "Poništeno",
+      "\n - smanjena"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "pobošljati"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "Čelnici se češće pojavljuju.",
+      "Normalni neprijatelji su smrtonosniji.",
+      "Čelnici su smrtonosniji.",
+      "Voždovi su smrtonosniji.",
+      "Manje se lečiš posle bitaka sa voždovima.",
+      "Počinješ svaki pohod već ozleđen.",
+      "Normalni neprijatelji su izdržljiviji.",
+      "Čelnici su izdržljiviji.",
+      "Voždovi su izdržljiviji.",
+      "Svaki pohod počinješ uklet.",
+      "Manje mesta za napitke.",
+      "Poboljšane karte se ređe pojavljuju.",
+      "Siromašni voždovi.",
+      "Niži maks. ž. p.",
+      "(Maks. nivo) Nepovoljni događaji.",
+      "Shops are more costly. ",
+      "Normal enemies have more challenging AI. ",
+      "Elites have more challenging AI. ",
+      "Bosses have more challenging AI. ",
+      "(Max Level) Double Boss"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Otključan ",
+      ". nivo Uspinjanja!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Uspinjanje otkučano!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Izaberi napad koji ćeš dodati u ruku."
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Bitka počinje",
+      "Ti si na potezu",
+      "Neprijatelj je na potezu",
+      ". krug"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Nastavi"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Potvrdi",
+      "Potvrdi odabir",
+      "Izaberi relikviju",
+      "Preskoči",
+      "GLASAJ: ",
+      "s preostalo.",
+      "Suoči se sa pošašću"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš staviti na vrh gomile za vučenje.",
+      "Izaberi karte koje ćeš staviti na vrh gomile za vučenje."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Sanjam?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš poboljšati"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš ukloniti."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Šta ću da činim?",
+      "Hmm...",
+      "Šta mi je činiti?",
+      "Vreme je za predah",
+      "Toliko opcija...",
+      "Trebalo bi da se odmorim",
+      "Tako umoran..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Izbriši pohod"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Retkost",
+      "Tip",
+      "Ime",
+      "Trošak",
+      "Skoči na",
+      "Obtained"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Nazad",
+      "Crvene",
+      "Zelene",
+      "Plave",
+      "Bezbojne",
+      "Kletve",
+      "Stanja",
+      "Prikaži poboljšanja",
+      "Purple"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Preskoči",
+      "Izaberi kartu",
+      "+2 maks. ž. p.",
+      "GLASAJ: ",
+      "s preostalo.",
+      "Pogledaj poboljšanje",
+      "Choose One"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Zaključano",
+      "Ovaj lik se otključava završavanjem jednog pohoda.",
+      "Ovaj lik i dalje nije dostupan u ranom pristupu.",
+      "Ovaj lik se otključava završavanjem jednog pohoda kao Nema.",
+      "ž. p.: ",
+      "zlata: ",
+      " – broj preostalih otključavanja",
+      "Nepoznato",
+      "???",
+      " do sledećeg otključavanja",
+      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Izaberi lika",
+      "Otisni se",
+      "Železni",
+      "Nema",
+      "Promašaj",
+      "Nazad",
+      "Uspinjanje",
+      "Nivo ",
+      "Uspinjanje",
+      "Pohodi postaju teži sa svakom pobedom... (ne utiče na niz uzastopnih pobeda)",
+      "Seme ",
+      "Nasumično seme",
+      "Početno seme odlučuje nasumične elemente u pohodu.",
+      "Podesi seme",
+      "The Watcher"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Izaberi jedno"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Nastavi",
+      "Preskoči kartu",
+      "Preskoči zlato",
+      "Preskoči napitak",
+      "Preskoči relikviju",
+      "Preskoči nagrade",
+      "Zatvori",
+      "Blago!",
+      "Šta li je unutra?",
+      "Nagrada!",
+      "Plen!",
+      "Drangulije!",
+      "Savet: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Potvrdi"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Nazad",
+      "Izbriši pohod",
+      "Da",
+      "Ne"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "kopirati"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Pritisni ponovo da izađeš",
+      "da izađeš",
+      "Tap again to exit"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Proizvoljan režim",
+      "Dostignuća i Tabela su nedostupni.",
+      "Lik",
+      "Uspinjanje",
+      "Nivo ",
+      "Uspinjanje",
+      "Izmene",
+      "Seme",
+      "Podesi seme",
+      "Trophies and Leaderboards are off."
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Dnevni pohod",
+      "Uspostavljanje veze sa serverom za vreme...",
+      "#yNAPOMENA: odradio si današnji izazov. NL Poeni se ignorišu za naredne pokušaje.",
+      "Nazad",
+      "Otisni se",
+      "Današnji lik: ",
+      "dd. MM. yyyy. HH.mm.ss",
+      "Preostalo još: ",
+      "#yDostignut #ysprat: NL  ",
+      " NL NL  #yŠpil: NL ",
+      " NL NL  #yRelikvije: NL  ",
+      " NL Današnji izazov: NL TAB #yLik: NL TAB ",
+      " NL #yIzmene: ",
+      "Izmene: ",
+      "Tabela",
+      "*Dostignuća su onemogućena u dnevnom pohodu.",
+      "  [OFFLINE MODE]",
+      "yyyy/MM/dd",
+      "*Trophies are off for Daily Climb."
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Nastavi",
+      "Pobeda?",
+      "Posećenih spratova",
+      "Pobeđenih voždova",
+      "Vreme",
+      "Vreme",
+      "Ukupno poena",
+      "Poharan",
+      "Smrt...",
+      "Poraz",
+      "Poražen si!",
+      "Oskrnavljen",
+      "Pustoš",
+      "Izbijen",
+      "Zaklan!",
+      "Vrlo poznat osećaj.",
+      "Dremka zvuči primamljivo.",
+      "Kako seješ, tako ćeš i žnjati.",
+      "Odoh u ćorsokak.",
+      "Nedovoljno pripreme.",
+      "Sutra ću pokušati ponovo.",
+      "Trebaće mi nova mapa.",
+      "Neadekvatno primpremljen.",
+      "Nepojmljivo!",
+      "Da li je ovo moj pun potencijal?",
+      "Baš moja sreća...",
+      "Ne ovako...",
+      "Tik pred vrhom.",
+      "Toranj proždire još jednog...",
+      "Tvoja svest iščežnjava...",
+      "Poraz",
+      "Prihvatanje",
+      "Nastavi",
+      "Pokušaj ponovo",
+      "Nazad na meni",
+      "Nastavi",
+      "Otključaj",
+      "Nazad na meni",
+      "Pokušaj ponovo",
+      "Nastavi",
+      "Otključaj",
+      "Otključavanja preostalo: ",
+      "Otključavanja preostalo: ",
+      "Ubijenih neprijatelja",
+      "Ubijenih čelnika",
+      "Nepotrošenog zlata",
+      "Preostali ž. p."
+    ],
+    "EXTRA_TEXT": [
+      "Ubijenih čelnika – Vani",
+      "Ubijenih čelnika – Grad",
+      "Ubij. čelnika – Preludijum",
+      "Brziša",
+      "Svetlostnom brzinom",
+      "Brđanin",
+      "Kolekcija",
+      "Set",
+      "Siromah",
+      "Bibliotekar",
+      "Enciklopedija",
+      "Nahranjen",
+      "Naždran",
+      "Sudbo kleta!",
+      "Po svome",
+      "Šampion",
+      "Savršen",
+      "Presavršen",
+      "Prekolj",
+      "K-k-k-kombo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Otključan ",
+      ". nivo Uspinjanja!"
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Kopaj",
+      "Iskopaj nasumičnu relikviju."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "odbaciti"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Gomila za odbacivanje je #rprazna."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš vratiti u ruku."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš staviti na vrh gomile za vučenje."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Karte koje se ovde nalaze se mešaju i od njih se obrazuje nova gomila za vučenje kada se ista isprazni.",
+      "Nazad",
+      "Gomila za odbac."
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Gomila za odbacivanje je #rprazna."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Odavde vučeš karte na početku svakog poteza.",
+      "(Karte su poređane po vrednosti)",
+      "Nazad",
+      "Gomila za vučenje"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "duplirati"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Izaberi početnu sobu",
+      "Nazad"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Vodič",
+      "Da li želiš savetovanje tokom igranja?",
+      "Čin prvi",
+      "Preludijum",
+      "Čin drugi",
+      "Grad",
+      "Čin treći",
+      "Vani",
+      "Akt ?",
+      "???",
+      "Pritisni bilo gde da nastaviš"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Šta je rani pristup?",
+      "Šta je otvorena beta?",
+      "Pohod na Toranj je i dalje u aktivnom razvoju! NL Mnoge karte, neprijatelji i drugi aspekti igre su u stalnoj promeni. NL NL Ako naletiš na probleme ili ako imaš neke primedbe ili ideje, slobodno nam ih stavi do znanja na #bStim #bstranici #bza #bdiskusiju. NL NL Dosta čitanja, toranj te čeka!",
+      "Pohod na Toranj je i dalje u aktivnom razvoju! NL Povrh toga, trenutno igraš beta verziju igre. NL NL Slobodno nas izvesti o bilo kakvim problemima tokom igranja, mada nemoj biti iznenađen privremenim grafičkim elementima namenjenim za nadolazeći sadržaj. NL NL Dosta čitanja, toranj te čeka!",
+      "Pritisni bilo gde da počneš",
+      "Nastavi"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Završi potez",
+      "Braniš se!"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Iscrpi"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Ovde su sve karte koje su iscrpljene u trenutnoj borbi.",
+      "Nazad"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Izaberi kartu koju ćeš vratiti u ruku"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Izađi iz igre"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Preludijum"
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "koju ćeš staviti na vrh gomile za vučenje."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " zlata"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "zameniti (Kockarski čip)",
+      "zameniti"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Pohod~ #y~zapamćen~"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Potvrdi",
+      "Otkaži",
+      "Potvrdi odabir",
+      "Pođi"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Potvrdi koju ćeš kartu ",
+      "Potvrdi koje ćeš karte ",
+      "Izaberi ",
+      " karte koje ćeš ",
+      "Izaberi bilo koji broj karata koje ćeš ",
+      "Izaberi kartu koju ćeš ",
+      "Copy"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Iscrpi"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Kontrole",
+      "Postavke",
+      "Nazad",
+      "Komanda",
+      "Tastatura",
+      "Kontroler",
+      "Vrati na originalna podešavanja",
+      "Potvrdi kartu",
+      "Otkaži / Izađi",
+      "Mapa",
+      "Pogledaj špil",
+      "Gomila za vučenje",
+      "Gomila za odbacivanje",
+      "Gomila za iscrpljene",
+      "Završi potez",
+      "Levo",
+      "Desno",
+      "Odaberi kartu #1",
+      "Odaberi kartu #2",
+      "Odaberi kartu #3",
+      "Odaberi kartu #4",
+      "Odaberi kartu #5",
+      "Odaberi kartu #6",
+      "Odaberi kartu #7",
+      "Odaberi kartu #8",
+      "Odaberi kartu #9",
+      "Odaberi kartu #10",
+      "Pusti kartu",
+      "Izaberi*",
+      "Otkaži*",
+      "Gornji panel*",
+      "Nastavi / Završi potez*",
+      "Prikaz levo / Pregledaj špil*",
+      "Prikaz desno / Gomila za iscrpljene*",
+      "Mapa*",
+      "Postavke*",
+      "Gomila za vuču*",
+      "Gomila za odbacivanje*",
+      "Gore*",
+      "Dole*",
+      "Levo*",
+      "Desno*",
+      "Gore (dr.)*",
+      "Dole (dr.)*",
+      "Levo (dr.)*",
+      "Desno (dr.)*",
+      "Gore",
+      "Dole",
+      "Kontroler je omogućen",
+      "Touchscreen Mode",
+      "Peek"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brazilski portugalski",
+      "Kineski (pojednostavljen)",
+      "Kineski (tradicionalni)",
+      "Engleski",
+      "Francuski",
+      "Nemački",
+      "Italijanski",
+      "Japanski",
+      "Korejski",
+      "Poljski",
+      "Ruski",
+      "Španski",
+      "Hebrejski",
+      "Turski",
+      "Švedski",
+      "Norveški",
+      "Tajlandski",
+      "Српски",
+      "Ukrajinski",
+      "Vijetnamski",
+      "Mađarski",
+      "Srpski",
+      "Katalonski",
+      "Grčki",
+      "Indonežanski",
+      "Esperanto",
+      "Dutch"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Železni",
+      "Nema",
+      "Promašaj",
+      "Prosečan poslednji sprat (poslednjih 20 pokušaja)",
+      "Prosečan rezultat (poslednjih 20 pokušaja)",
+      "Najviše uzastopnih pobeda",
+      "Najbrža pobeda",
+      "Najbolji rezultat",
+      "",
+      "Prijatelji",
+      "Svi",
+      "Watcher"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Nazad",
+      "Filteri",
+      "Lik",
+      "Ko",
+      "Kategorija",
+      "Idi na moj rezultat",
+      "Rang",
+      "Ime",
+      "Rezultat",
+      "Preuzimam podatke...",
+      "Tabela",
+      "Steam nije povezan",
+      "Nema rezultata \n Kreni u Pohod na Toranj!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Nepoznato",
+      "???",
+      "Misterija. NL NL Može da krije čudovišta, blaga, tržnicu, ili nešto potpuno četvrto.",
+      "Trgovac",
+      "Tržnice",
+      "Mesto gde zagonetni trgovac prodaje svoju robu. NL NL Ovde potroši svoje krvlju zarađeno #yzlato!",
+      "Blago",
+      "Sobe sa blagom",
+      "U ovim vrlo traženim sobama se mogu naći #yrelikvije i #yzlato.",
+      "Odmor",
+      "Odmaralište",
+      "Navrati do ovih soba da #gzalečiš nešto ž. p. ili #ypoboljšaš kartu.",
+      "Neprijatelj",
+      "Neprijatelji",
+      "U ovim sobama prebivaju neprijatelji.",
+      "Čelnik",
+      "Čelnici",
+      "Moćni protivnici se nalaze u ovim sobama. NL NL Porazi ih i bićeš nagrađen relikvijom.",
+      "Legenda"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Vežbaj",
+      "Povećaj svoju početnu snagu za jedan. (Do najviše tri)",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yVerzija: ",
+      "Otisni se",
+      "Nazad",
+      "Pritisni da promeniš",
+      "da promeniš",
+      "tap to edit"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Svaku bitku počinješ sa ovim kartama.",
+      "Nazad"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Igraj",
+      "",
+      "",
+      "Nastavi",
+      "",
+      "Arhiva",
+      "",
+      "Izađi",
+      "Beleške o zakrpama",
+      "Napusti pohod",
+      "",
+      "Podešavanja",
+      "",
+      "Kolekcija"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Uobičajeno",
+      "",
+      "Otisni se u Pohod na Toranj.",
+      "Dnevni pohod",
+      "",
+      "Novi pohod je dostupan jednom dnevno.\n\nNadmeći se sa drugim igračima za najbolji rezultat!",
+      "Uspinjanje",
+      "",
+      "Toranj jača sa svakom pobedom.\n\nOprobaj granice svojih najsnažnijih strategija.",
+      "Biblioteka",
+      "",
+      "Pregledaj sve karte na koje si naišao tumarajući po Tornju.",
+      "Muzej",
+      "",
+      "Baci pogled na razne drangulije i artefakte prikupljene tokom pohoda.",
+      "Bestiarijum",
+      "",
+      "Ovaj deo je nedostupan.",
+      "Statistike",
+      "",
+      "Ovde možeš da vidiš napredak i statistike za svakog lika.",
+      "Tabele",
+      "",
+      "Pogledaj i uporedi svoje rezultate sa prijateljima i drugim igračima.",
+      "Pohodi",
+      "",
+      "Podseti se svojih prethodnih pokušaja u pohodu na Toranj.",
+      "Postavke",
+      "",
+      "Promeni rezoluciju i ugasi ili upali razne opcije.",
+      "Kontrole",
+      "",
+      "Podesi svoje kontrole i tastere za brzi odabir.",
+      "Zasluge",
+      "",
+      "Pogledaj ko je sve doprineo Pohodu na Toranj!",
+      "Nepoznato",
+      "Odigraj dnevni pohod da otključaš ovaj režim.",
+      "Ovaj deo je nedostupan.",
+      "Proizvoljno",
+      "Začini svoj pohod jedinstvenim izmenama.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences.",
+      "Potion Lab",
+      "Observe the numerous potions found climbing the Spire."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Servis za uklanjanje karata",
+      "POPUST",
+      "Nije na prodaju",
+      "Rasprodato",
+      "O ne!"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Neprijatelj ne namerava da napadne!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Postavke",
+      "Grafika",
+      "Rezolucija: NL Maks. slika u sekundi:",
+      "Pun ekran NL Bezokvirni pun prozor (preporučljivo) NL Drmanje ekrana",
+      "Zvuk",
+      "Glavna jačina NL Jačina muzike NL Jačina efekata",
+      "Ambijentalni zvučni efekti NL Ugasi zvuk dok je igra u pozadini",
+      "Opcije",
+      "Prikaži ukupnu štetu u zlatnom NL Prikaži odbranjenu štetu u plavom NL Isključi potvrdu pri odabiru jedne karte",
+      "Ubrzaj igru",
+      "",
+      "Ostalo",
+      "Jezik:",
+      "Šalji podatke o pohodima #b(?)",
+      "Izađi iz igre",
+      "Zapamti & izađi",
+      "NL NL Vertikalna sinh.",
+      "Režim sa probnim grafičkim elementima",
+      "Prikaži tipke za brzi odabir na kartama",
+      "Kontrole",
+      "Disable Particle Effects",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen.",
+      "Long-press Confirmations",
+      "Bigger Text"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Nazad",
+      "#yBeleške #yo #yzakrpama",
+      " NL (PRIVREMENO: koristi strelice da bi češljao kroz starije zapise)"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Baci",
+      "Ispi",
+      "Odbaci",
+      "Ne mogu da koristim napitke!",
+      "Ne u sred bitke!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "~ status je istekao ~"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Nastavi"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "stavi na vrh gomile za vučenje"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Iscrpi"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Nazad",
+      "Urođene:",
+      "Relikvije sa kojima likovi počinju.",
+      "Obične:",
+      "Slabe relikvije koje se često sreću.",
+      "Neuobičajene:",
+      "Jače relikvije koje se ređe sreću od običnih.",
+      "Retke:",
+      "Jedinstvene i moćne relikvije, retko viđene.",
+      "Voždovske:",
+      "Relikvije koje se nalaze samo u voždovskim kovčezima.",
+      "Iz događaja:",
+      "Relikvije do kojih se može doći samo kroz neki događaj.",
+      "Tržišne:",
+      "Do ovih relikvija se može doći samo kupovinom od trgovca."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<nema imena>",
+      "Unesi ime",
+      "Potvrdi",
+      "Otkaži"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Neprijatelj ne namerava da napadne!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Odbaci"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Odmori",
+      "Zaleči se za 100% maks. ž. p. (",
+      " ž. p. daje ",
+      "Zaleči se za 30% maks. ž. p. (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Ponovo pokreni igru da bi se opcije vezane za grafiku primenile."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "zadržati"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " zlata (povraćenog)",
+      " zlata",
+      "Dodaj kartu u špil",
+      "",
+      "Izaberi kartu",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this relic will remove ",
+      "."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Nepoznato",
+      "Neprijatelj",
+      "Čelnik",
+      "Događaj",
+      "Vožd",
+      "Blago",
+      "Voždovsko blago",
+      "Odmor",
+      "Trgovac",
+      "Nepoznato (neprijatelj)",
+      "Nepoznato (trgovac)",
+      "Nepoznato (blago)",
+      "Sprat %1$s - %2$s",
+      "Sprat %s",
+      "#r%s štete",
+      "#r%s krugova",
+      "#r%s #r/ #r%s #rž. #rp.",
+      "#y%s #yzlata",
+      "Pokupio:",
+      "Preskočio:",
+      "Nedostaje informacija",
+      "+2 maks. ž. p.",
+      "#bK ",
+      "#bR ",
+      "#bN ",
+      "#bS ",
+      "#bOdmorio",
+      "#bPoboljšao kartu %s",
+      "#bUklonio kartu %s",
+      "#bIskopao relikviju",
+      "#bIzvežbao %s/%s",
+      "#Kupio:",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s",
+      "#bRecalled"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Železni",
+      "Nema",
+      "Promašaj",
+      "Nazad",
+      "Nema pređašnjih pohoda. NL Kreni u Pohod na Toranj!",
+      "nivo Uspinjanja: ",
+      "Ubijen na %1$d. spratu, od strane: %2$s",
+      "Pohod napušten na %d. spratu",
+      "Pobeda!",
+      "Karte",
+      "Relikvije",
+      "– urođena",
+      "– obična",
+      "– neuobičajena",
+      "– retka",
+      "– specijalna",
+      "– kletva",
+      "– voždovska",
+      "- tržišna",
+      "Nepoznato",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Poena: %d",
+      "Svi likovi",
+      "Pobede i gubici",
+      "Pobede",
+      "Gubici",
+      "Dnevni pohod",
+      "Sve vrste pohoda",
+      "Uobičajeni pohodi",
+      "Uspinjanje",
+      "Dnevni pohodi",
+      "Seme: %s",
+      "Proizvoljno seme: %s",
+      "yyyy/M/d, h:mm a",
+      "The Watcher"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Unesi seme po izboru",
+      "Potvrdi",
+      "Otkaži",
+      "*Tabela i dostignuća su onemogućeni dok je proizvoljno seme u upotrebi.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Sigurno?",
+      "Napredak pohoda je automatski zapamćen.",
+      "Napuštanjem pohoda će biti zabeležen gubitak.",
+      "UPOZORENJE:\nNapredak NIJE zapamćen.\n\nStigni do sledećeg sprata da zapamtiš ovaj pohod.",
+      "Nazad",
+      "Napredak se NE PAMTI za dnevne pohode."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "koju ćeš staviti na vrh gomile za vučenje."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Preskoči trgovca"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Napad",
+      "Umeće",
+      "Moć",
+      "Kletva",
+      "Zaključano",
+      "Nepoznato",
+      "Pogledaj poboljšanje",
+      "Stanje",
+      "",
+      "Karte mogu da odigram samo tokom svog poteza.",
+      "#rUpetljan sam! NL Ne mogu da odigram napade",
+      "Nemam dovoljno #renergije.",
+      "Nemam dovoljno #rnapona.",
+      "Ne mogu da odigram NL ovu kartu.",
+      "Beta Art"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Voždovska relikvija",
+      "Obična relikvija",
+      "Izbačena relikvija",
+      "Retka relikvija",
+      "Tržišna relikvija",
+      "Relikvija iz događaja",
+      "Urođena relikvija",
+      "Neuobičajena relikvija",
+      "Zaključano",
+      "Nepoznato",
+      "",
+      "Ova relikvija tek treba da se otključa.",
+      "Ova relikvija i dalje nije viđena."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Izaberi umeće koje ćeš dodati u ruku"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Iskuj",
+      "Poboljšaj kartu iz špila.",
+      "Nema karata koje bi se mogle poboljšati."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Nemaš dovoljno mesta"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Vani"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "Grad"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energija"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Ispućkaj",
+      "Ukloni kartu iz špila."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      ". sprat",
+      " - Uspinjanje ",
+      " (maks. nivo)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Preskoči kovčeg"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Preskoči kovčeg"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "GLASAJ: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Nastavi"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Otključane karte!",
+      "",
+      "Otključane relikvije!",
+      "Novi lik",
+      "Napomena: otključane karte se pojavljuju u budućim pohodima.",
+      "Napomena: otključane relikvije se pojavljuju u budućim pohodima."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Otključane karte!",
+      "Otključane relikvije!",
+      "Novi lik",
+      "Napomena: otključane karte se pojavljuju u budućim pohodima.",
+      "Napomena: otključane relikvije se pojavljuju u budućim pohodima."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Nešto si otključao!"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang of Gremlins",
+      "Large Slime",
+      "Excordium Thugs",
+      "Excordium Wildlife",
+      "Swarm of Slimes",
+      "Small Slimes",
+      "City Muggers",
+      "Three Byrds",
+      "Four Byrds",
+      "Triple Cultists",
+      "Chosen Flock",
+      "Sentry and Spheric Guardian",
+      "Centurion and Mystic",
+      "Parasite and Fungi Beast",
+      "Masked Bandits Gang",
+      "Colosseum Nobs",
+      "Colosseum Slavers",
+      "Three Shapes",
+      "Jaw Worm Horde",
+      "Four Shapes",
+      "Spheric Guardian with Shapes",
+      "Double Orb Walkers",
+      "Donu and Deca",
+      "Sentries",
+      "Chosen and Cultist",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics",
+      "Shield and Spear"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!",
+      "Watcher Beta Card Art Unlocked!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu",
+      " (A%s)"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choose a Card to play."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Syncing data..."
+    ]
+  }
+}

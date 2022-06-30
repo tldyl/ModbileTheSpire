@@ -1,0 +1,704 @@
+{
+  "AcidSlime_L": {
+    "MOVES": [
+      "Saliva Corrosiva",
+      "Scissione",
+      "Leccata"
+    ],
+    "NAME": "Melma Acida (G)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Saliva Corrosiva",
+      "Leccata"
+    ],
+    "NAME": "Melma Acida (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Melma Acida (P)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Melma Apologetica",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Colpo dell'Anima",
+      "Eco Oscuro",
+      "Purificazione",
+      "Poltiglia"
+    ],
+    "NAME": "Il Risvegliato",
+    "DIALOG": [
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Orso",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Punte",
+    "DIALOG": [
+      "Orsooooo!!!!"
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Romeo",
+    "DIALOG": [
+      "Afferra, Orso!!",
+      "Me la pagherai!!",
+      "Nooooooo, Orso!"
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Libro Omicida",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "IPER RAGGIO"
+    ],
+    "NAME": "Automa di Bronzo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sfera",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gryfone",
+    "DIALOG": [
+      "@CRA!@ NL @CRAAA@",
+      ""
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Centurione",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Posizione Difensiva",
+      "Esecuzione",
+      "Schiaffo"
+    ],
+    "NAME": "Il Campione",
+    "DIALOG": [
+      "La chiami arma quella?",
+      "Fatti sotto!",
+      "Fa' del tuo peggio! NL @AHAHAH!@",
+      "Prova a colpirmi! NL  Stupido insetto!",
+      "~Ora~ ~l'hai~ ~fatta~ ~grossa...~",
+      "@SCONFITTA??@ NL @IMPOSSIBILE!!@",
+      "~MUORI~ ~.~ ~.~ ~.~",
+      "Affronta la mia ira!",
+      "@LA@ @MIA@ NL @CINTURA!!@"
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Prescelto",
+    "DIALOG": [
+      "~Soffri...~"
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Cuore della Corruzione",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Incantesimo"
+    ],
+    "NAME": "Cultista",
+    "DIALOG": [
+      "@IL@ @MIO@ @POTERE@ NL @È@ @INEGUAGLIABILE!@",
+      "@NON@ @DOVRESTI@ NL @ESSERE@ @QUI!@",
+      "~I~ ~miei~ ~poteri~ NL ~erano~ ~eguagliabili...~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Chomp! Chomp!"
+    ],
+    "NAME": "Brandello di Tenebra",
+    "DIALOG": [
+      "Ricrescita..."
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deca",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Circolo di Potere"
+    ],
+    "NAME": "Donu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Esplosivo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Palla di Fuoco",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pugnale",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bruto Ardente",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Raptomante",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Crescita"
+    ],
+    "NAME": "Bestia Micotica",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Sputo-Ragnatela"
+    ],
+    "NAME": "Pulce",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Crescita"
+    ],
+    "NAME": "Pulce",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Testa Gigante",
+    "DIALOG": [
+      "~È~ ~ora~",
+      "~Addio~",
+      "~Tic~ ~Toc~ NL ~Tic~ ~Toc~",
+      "~Perché~ ~sei~ NL ~ancora~ ~qui?~"
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Urto"
+    ],
+    "NAME": "Gremlin Grasso",
+    "DIALOG": [
+      "",
+      "",
+      "@Oh@ @no,@ NL @oh@ @no,@ NL @OH@ @NO!@"
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Adunata!"
+    ],
+    "NAME": "Comandante Gremlin",
+    "DIALOG": [
+      "Mai arrendersi!",
+      "Non abbiamo ancora finito!",
+      "Ce la faremo!",
+      "@Ritirata@ NL @Ritiraaata!@",
+      "@Scappaaaaaaa!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Craniata",
+      "Carica"
+    ],
+    "NAME": "Nob Gremlin",
+    "DIALOG": [
+      "@RRrroohrrRGHHhhh!!@"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gremlin Furtivo",
+    "DIALOG": [
+      "",
+      "@Vado@ @a@ NL @cercare@ @aiuto!@ ",
+      "@Ma@ @che!?@"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Protezione",
+      "Colpo di Scudo"
+    ],
+    "NAME": "Gremlin Scudiero",
+    "DIALOG": [
+      "",
+      "~Addio...~",
+      "Così non va bene..."
+    ]
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Artigliata"
+    ],
+    "NAME": "Gremlin Furente",
+    "DIALOG": [
+      "",
+      "@Vado@ @a@ NL @cercare@ @aiuto!@",
+      "Io me la svigno!"
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Caricamento",
+      "Esplosione Finale"
+    ],
+    "NAME": "Gremlin Mago",
+    "DIALOG": [
+      "",
+      "Dammi Tempo!",
+      "~Ecco~ ~che~ ~arriva!!~",
+      "@Cerco...@ @aiuto...!@",
+      "~troppo...~ NL ~pericoloso...~ NL ~addio...~"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mistica",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Animo Ardente",
+      "Scottatura",
+      "Inferno"
+    ],
+    "NAME": "Spettragono",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Grido",
+      "Assalto"
+    ],
+    "NAME": "Verme-Mascella",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Assorbimento"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Affondo",
+      "Rapina"
+    ],
+    "NAME": "Furfante",
+    "DIALOG": [
+      "La borsa o la vita?",
+      "@NOOOoooo!@",
+      "Dov'è la mia bomba fumogena...? Vediamo...",
+      "Grazie dei soldi, hehe!"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "La Fauce",
+    "DIALOG": [
+      "@RRrrohrrRGHhh!!@"
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Affondo",
+      "Rapina"
+    ],
+    "NAME": "Rapinatore",
+    "DIALOG": [
+      "Dà qua!",
+      "Io me la svigno!"
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Nemesi",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Forza in Crescita"
+    ],
+    "NAME": "Sfera Ambulante",
+    "DIALOG": [
+      "Inizializzazione NL scudi."
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Burattinaio",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Repulsore",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Disintegrare"
+    ],
+    "NAME": "Sentinella",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Progenie della Guglia",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Parassita Corazzato",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Sfregio"
+    ],
+    "NAME": "Schiavista",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Caposquadra",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Graffio",
+      "Trappola"
+    ],
+    "NAME": "Schiavista",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Urto",
+      "Prepazione",
+      "Scissione",
+      "Spruzzo Viscoso"
+    ],
+    "NAME": "Boss Melma",
+    "DIALOG": [
+      "~Melma...~ NL #r~DISTRUGGE!!!~",
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Spore Debilitanti"
+    ],
+    "NAME": "PiantaSerpe",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Sguardo Disorientante",
+      "Frustata di Coda",
+      "Morso"
+    ],
+    "NAME": "Snecko",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Guardiano Sferico",
+    "DIALOG": [
+      "~Intruso~ NL ~Rilevato~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Leccata",
+      "Scissione"
+    ],
+    "NAME": "Melma A Punta(G)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Leccata"
+    ],
+    "NAME": "Melma A Punta (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Melma A Punta (P)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spuntone",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Il Collezionista",
+    "DIALOG": [
+      "@Ti@ @ho@ @in@ @pugno!@"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Modalità Difensiva",
+      "Botta Violenta",
+      "Rotolata",
+      "Colpo Gemello",
+      "Turbine",
+      "Sovraccarico",
+      "Getto di Vapore"
+    ],
+    "NAME": "Il Guardiano",
+    "DIALOG": [
+      "#b~..RAFFREDDAMENTO...~",
+      "Difesa...",
+      "#r@DISTRUGGERE@ NL #r@DISTRUGGERE@ NL #r@DISTRUGGERE@",
+      "#r@PERICOLO@ NL #r@PERICOLO@ NL #r@PERICOLO@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mangiatempo",
+    "DIALOG": [
+      "~Ah...~ NL ~..compagnia...~",
+      "~Insignificante...~ NL @SEI@ @INSIGNIFICANTE!@",
+      "~Non....~ NL ~...mi..~ NL ~..piaci...~"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Testa di Torcia",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Effimero",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Scudo Vivente",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lancia Vivente"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ammasso in Putrefazione",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

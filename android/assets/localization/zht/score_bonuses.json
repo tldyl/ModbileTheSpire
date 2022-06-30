@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "煉金術士",
+    "DESCRIPTIONS": [
+      "購買5瓶藥水"
+    ]
+  },
+  "Ascension": {
+    "NAME": "進階",
+    "DESCRIPTIONS": [
+      "每層進階等級會增加5%的分數"
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "深處 精英擊殺",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "全面完勝",
+    "DESCRIPTIONS": [
+      "不受傷害擊敗三名首領"
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "打敗首領",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "勇士",
+    "DESCRIPTIONS": [
+      "不受傷害擊敗一名精英"
+    ]
+  },
+  "Cheater": {
+    "NAME": "作弊",
+    "DESCRIPTIONS": [
+      "你作弊被發現啦。如果作弊被抓到兩次，你的分數就永遠不會被傳到積分榜上了哦"
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "城市 精英擊殺",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "卡牌收藏者",
+    "DESCRIPTIONS": [
+      "不計初始牌，你的牌組中有4張相同的牌"
+    ]
+  },
+  "Combo": {
+    "NAME": "連續技",
+    "DESCRIPTIONS": [
+      "單個回合內打出20張牌"
+    ]
+  },
+  "Curses": {
+    "NAME": "詛咒！",
+    "DESCRIPTIONS": [
+      "牌組中有5張詛咒牌"
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "百科全書",
+    "DESCRIPTIONS": [
+      "牌組總數超過50張"
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "塔底 精英擊殺",
+    "DESCRIPTIONS": []
+  },
+  "Highlander": {
+    "NAME": "獨一無二",
+    "DESCRIPTIONS": [
+      "除了初始牌外，你的牌組中沒有任何重複的牌"
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "真的好喜歡錢啊",
+    "DESCRIPTIONS": [
+      "獲得3000金幣"
+    ]
+  },
+  "Librarian": {
+    "NAME": "圖書管理員",
+    "DESCRIPTIONS": [
+      "牌組總數超過35張"
+    ]
+  },
+  "Light Speed": {
+    "NAME": "光速",
+    "DESCRIPTIONS": [
+      "在45分鐘內獲勝"
+    ]
+  },
+  "Minimalist": {
+    "NAME": "極簡主義",
+    "DESCRIPTIONS": [
+      "從牌組中移除5張或更多牌"
+    ]
+  },
+  "Money Money": {
+    "NAME": "好多好多錢",
+    "DESCRIPTIONS": [
+      "獲得1000金幣"
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "尋謎問道",
+    "DESCRIPTIONS": [
+      "造訪15或更多個？房間"
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "不死於敵手",
+    "DESCRIPTIONS": [
+      "自己殺死自己"
+    ]
+  },
+  "Overkill": {
+    "NAME": "虐殺",
+    "DESCRIPTIONS": [
+      "單次攻擊造成99點傷害"
+    ]
+  },
+  "Pauper": {
+    "NAME": "平淡是真",
+    "DESCRIPTIONS": [
+      "沒有任何稀有牌"
+    ]
+  },
+  "Perfect": {
+    "NAME": "完勝",
+    "DESCRIPTIONS": [
+      "不受傷害擊敗一名首領"
+    ]
+  },
+  "Poopy": {
+    "NAME": "便便",
+    "DESCRIPTIONS": [
+      "得到 精靈便便 "
+    ]
+  },
+  "Raining Money": {
+    "NAME": "下錢雨啦",
+    "DESCRIPTIONS": [
+      "獲得2000金幣"
+    ]
+  },
+  "Shiny": {
+    "NAME": "亮閃閃的好東西",
+    "DESCRIPTIONS": [
+      "擁有25件或更多遺物"
+    ]
+  },
+  "Speedster": {
+    "NAME": "高速",
+    "DESCRIPTIONS": [
+      "在60分鐘內獲勝"
+    ]
+  },
+  "Stuffed": {
+    "NAME": "饕餮",
+    "DESCRIPTIONS": [
+      "增加你的生命上限30點或更多"
+    ]
+  },
+  "Well Fed": {
+    "NAME": "飽餐",
+    "DESCRIPTIONS": [
+      "增加你的生命上限15點或更多"
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "碎心者",
+    "DESCRIPTIONS": [
+      "擊敗高塔之心"
+    ]
+  }
+}

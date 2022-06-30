@@ -1,0 +1,704 @@
+{
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Kötü Örnek Balçık",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Yozlaşmış Kalp",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ezeli Düşman",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Seçilmiş",
+    "DIALOG": [
+      "~Acı~ ~Çek...~"
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Guş",
+    "DIALOG": [
+      "@GAAK!@ NL @GAAAAAK!@",
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Şaşırtıcı Parıltı",
+      "Kuyruk Kırbacı",
+      "Isırık"
+    ],
+    "NAME": "Snecko",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Şarj Ediyorum",
+      "Nihai Patlama"
+    ],
+    "NAME": "Gremlin Büyücüsü",
+    "DIALOG": [
+      "",
+      "Dolduruyorum!",
+      "~İşte~ ~geliyor!!~",
+      "@Yardım...@ NL @çağıracağım...!@",
+      "~çok...~ NL ~tehlikeli...~ NL ~hoşçakal...~"
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sivri",
+    "DIALOG": [
+      "Ayyyyııııııı!!!!"
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Kuvvet Toplama"
+    ],
+    "NAME": "Yürüyen Küre",
+    "DIALOG": [
+      "Kalkanlar NL devrede."
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Savunma Modu",
+      "Sert Darbe",
+      "Yuvarlanma",
+      "Çift Ezme",
+      "Hortum",
+      "Dolduruyorum",
+      "Havalandırma Buharı"
+    ],
+    "NAME": "Gardiyan",
+    "DIALOG": [
+      "#b~..SOĞUTMA...~ NL #b~...DEVREDE...~",
+      "Savunuyorum...",
+      "#r@YOK@ #r@ET@ NL #r@YOK@ #r@ET@ NL #r@YOK@ #r@ET@",
+      "#r@TEHLİKE@ NL #r@TEHLİKE@ NL #r@TEHLİKE@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Pençe"
+    ],
+    "NAME": "Deli Gremlin",
+    "DIALOG": [
+      "",
+      "@Gidip@ @yardım@ NL @çağıracağım!@",
+      "Ben kaçar!"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sinsi Gremlin",
+    "DIALOG": [
+      "",
+      "@Gidip@ @yardım@ NL @çağıracağım!@",
+      "@Ne@ @nasıl!?@"
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Sihirli Sözler"
+    ],
+    "NAME": "Tarikatçı",
+    "DIALOG": [
+      "@GÜÇLERİM@ NL @EMSALSİZDİR!@",
+      "@BURAYA@ @AİT@ NL @DEĞİLSİN!@",
+      "~Güçlerimin~ ~emsali~ NL ~varmış...~"
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Alevli Boksör",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Koşun!"
+    ],
+    "NAME": "Gremlin Lideri",
+    "DIALOG": [
+      "Asla vazgeçmeyin!",
+      "Daha işimiz bitmedi!",
+      "Yakalayın onu çocuklar!",
+      "@Geri@ NL @Çekiliiiin!@",
+      "@Deli@ @bu,@ NL @kaç@ @la@ @kaç!@"
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bölük Komutanı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Devasa Kafa",
+    "DIALOG": [
+      "~Zamanı~ ~geldi~",
+      "~Güle~ ~Güle~",
+      "~Tik~ ~Tak~ NL ~Tik~ ~Tak~",
+      "~Neden~ ~hala~ NL ~gitmedin?~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ayı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Çapkın",
+    "DIALOG": [
+      "~Tut~ ~şunu~ ~Ayı!~",
+      "~Yemin~ ~olsun~ ~bunu~ ~sana~ ~ödeticem!!~",
+      "~Naaaaayır,~ ~Ayyyıııııı!~"
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Yalama"
+    ],
+    "NAME": "Dikenli Balçık (O)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Dikenli Balçık (K)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Hamle",
+      "Gasp"
+    ],
+    "NAME": "Yan Kesici",
+    "DIALOG": [
+      "Müsaadenle şunu alayım!",
+      "Hadi bana eyvallah!"
+    ]
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Zaman Yiyen",
+    "DIALOG": [
+      "~Ah...~ NL ~..bir~  ~arkadaş...~",
+      "~Seni~ ~Ahmak..~ NL @AHMAAAAK!@",
+      "~Seni....~ NL ~...hiç..~ NL ~..sevmemiştim...~"
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Koleksiyoncu",
+    "DIALOG": [
+      "@Benim@ @olacaksın!@ NL @Binicem@ @üstüne,@ NL @vurucam@ @kırbacı!@"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Meşale Kafa",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Aşındırıcı Tükürük",
+      "Yalama"
+    ],
+    "NAME": "Asitli Balçık (O)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Asitli Balçık (K)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Güçsüzleştiren Spor"
+    ],
+    "NAME": "Yılan Bitki",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Savunma Duruşu",
+      "İdam",
+      "Tokatlama"
+    ],
+    "NAME": "Şampiyon",
+    "DIALOG": [
+      "O da silah mı NL sen bendekini göreceksin.",
+      "Gel de bi göreyim seni!",
+      "Elinden gelenin en iyisini yap! NL @HAHAHA!@",
+      "Bu da avans olsun! NL Seni vitaminsiz seni!",
+      "~Aha~ ~şimdi~ ~sinirlendim...~",
+      "@KAYBETMEK@ @Mİ??@ NL @İMKANSIZ!!@",
+      "~GEBER~ ~.~ ~.~ ~.~",
+      "Gazabımla yüzleş!",
+      "@O@ @BENİM@ NL @KEMERİM!!@"
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Patlayan",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Büyüme"
+    ],
+    "NAME": "Mantarsı Canavar",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Çivili",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Şef",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "İtici",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Hamle",
+      "Gasp"
+    ],
+    "NAME": "Yağmacı",
+    "DIALOG": [
+      "Şu altınları alayım!",
+      "@HAAAAaaaayııır!@",
+      "Sis bombamı nereye koyduydum... Buralarda bir yerdeydi...",
+      "Para için teşekkürler, hehe."
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Parçalara Ayırma"
+    ],
+    "NAME": "Nöbetçi",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Ağ Atma"
+    ],
+    "NAME": "Bit",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Büyüme"
+    ],
+    "NAME": "Bit",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kuklacı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kabuklu Parazit",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Küre",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Alevlenme",
+      "Soldurma",
+      "Cehennem"
+    ],
+    "NAME": "Hexahayalet",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Sıyrık",
+      "El Ayak Dolaştırma"
+    ],
+    "NAME": "Köle Tüccarı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Tırmık"
+    ],
+    "NAME": "Köle Tüccarı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Gömçürme",
+      "Hazırlanıyor",
+      "İkiye Ayrılma",
+      "Yapışkan Serpinti"
+    ],
+    "NAME": "Balçık Reyiz",
+    "DIALOG": [
+      "~Balçık...~ NL #r~EZER!!!~",
+      ""
+    ]
+  },
+  "AcidSlime_L": {
+    "MOVES": [
+      "Aşındırıcı Tükürük",
+      "İkiye Ayrılma",
+      "Yalama"
+    ],
+    "NAME": "Asitli Balçık (B)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Koruma",
+      "Kalkan Darbesi"
+    ],
+    "NAME": "Kalkan Gremlin",
+    "DIALOG": [
+      "",
+      "~Güle~ ~güle...~",
+      "Bu hiç iyi olmadı..."
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Ruh Çekme"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "Sersemletildi!",
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Feryat",
+      "Dayak Atma"
+    ],
+    "NAME": "Çene Kurdu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Güç Halkası"
+    ],
+    "NAME": "Donu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Engerek",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "HİPERIŞIN"
+    ],
+    "NAME": "Bronz Otomaton",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Şifacı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Parçalama"
+    ],
+    "NAME": "Şişman Gremlin",
+    "DIALOG": [
+      "",
+      "",
+      "@Ah@ @hayır,@ NL @ah@ @hayır,@ NL @aH@ @HAYIR!@"
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deca",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Saplama Kitabı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Ruh Darbesi",
+      "Karanlık Yankısı",
+      "Temizlenme",
+      "Sulu Çamur"
+    ],
+    "NAME": "Uyanmış Olan",
+    "DIALOG": [
+      "~Arrr~ ~.~ ~.~ ~.~",
+      "~Hayır~ ~.~ ~.~ ~.~ ~hayır~ ~.~ ~.~ NL ~.~ ~.~ ~hayır~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Yalama",
+      "İkiye Ayrılma"
+    ],
+    "NAME": "Dikenli Balçık (B)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ateş Küresi",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Küresel Gardiyan",
+    "DIALOG": [
+      "~Dışarıdan~ ~Gelen~ NL ~Tespit~ ~Edildi~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Çap! Çap!"
+    ],
+    "NAME": "Karanlıktaki",
+    "DIALOG": [
+      "Yeniden büyüyor..."
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gırtlak Canavarı",
+    "DIALOG": [
+      "@RRrrohrrRGHhh!!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Kafa Darbesi",
+      "Kaba Güç"
+    ],
+    "NAME": "Züppe Gremlin",
+    "DIALOG": [
+      "@RRrroohrrRGHHhhh!!@"
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Süreksiz",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Hançer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sürüngen Büyücü",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kıvranan Kitle",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Kalkanı",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Mızrağı"
+  }
+}

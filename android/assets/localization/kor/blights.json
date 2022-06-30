@@ -1,0 +1,98 @@
+{
+  "Accursed": {
+    "NAME": "저주받음",
+    "DESCRIPTION": [
+      "보스를 처치할 때마다 #b",
+      " 장의 무작위 #y저주 카드를 얻습니다.",
+      ""
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "부패한 두리안",
+    "DESCRIPTION": [
+      "최대 체력을 #b",
+      "% 잃습니다."
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "역병의 창",
+    "DESCRIPTION": [
+      "적이 주는 피해가 #b",
+      "% 증가합니다."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "입마개",
+    "DESCRIPTION": [
+      "더 이상 최대 체력이 증가하지 않습니다. 모든 회복의 효율이 절반으로 줄어듭니다."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "트라우마",
+    "DESCRIPTION": [
+      "전투 시작 시 적이 #b",
+      " #y불가침을 얻습니다."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "기괴한 트로피",
+    "DESCRIPTION": [
+      "획득 시 #r긍지를 #b",
+      " 장 얻습니다.",
+      "당신의 긍지는 뒤틀려있습니다..."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "고대의 증강",
+    "DESCRIPTION": [
+      "전투 시작 시 적이 #y인공물을 #b",
+      " , #y판금 #y갑옷을 #b",
+      " , #y재생을 #b",
+      " 얻습니다."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "흉내쟁이 감염",
+    "DESCRIPTION": [
+      "다음 막부터 등장하는 보물 방이 엘리트로 대체됩니다. 더 이상 엘리트에게서 유물을 얻을 수 없습니다."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "주의 산만",
+    "DESCRIPTION": [
+      "매 턴 카드를 #b",
+      " 장 덜 뽑습니다.",
+      ""
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "시간의 미로",
+    "DESCRIPTION": [
+      "매 턴 #b",
+      " 장의 카드만 사용할 수 있습니다.",
+      "카드 사용 제한에 도달했어: NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "역병의 방패",
+    "DESCRIPTION": [
+      "적들의 체력이 #b",
+      "% 증가합니다."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "뒤틀린 정신",
+    "DESCRIPTION": [
+      "내 턴 종료 시 뽑을 카드 더미 맨 위에 #b",
+      " 장의 무작위 상태이상 카드를 놓습니다.",
+      ""
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "공허의 본질",
+    "DESCRIPTION": [
+      "매 턴 시작 시 [E] 를 #b",
+      " 적게 얻습니다."
+    ]
+  }
+}

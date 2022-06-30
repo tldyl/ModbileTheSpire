@@ -1,0 +1,409 @@
+{
+  "ANIMATION": {
+    "HEADER": "Personage-animatie",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Ontwikkeling & Ontwerp",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Promo & Achtergrondillustraties",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Extra Vertalingen",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Catalaanse Lokalisatie",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Duitse Lokalisatie",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Nederlandse Lokalisatie",
+    "NAMES": [
+      "Gremlin Leider:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Esperanto Lokalisatie",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "Franse Lokalisatie",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Henip\" Bartoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Nicky \"Qazahar\" Dehout",
+      "Julien \"RoPeTTe\" Ropero",
+      "Boby \"Tagada\" Vurpillot",
+      "Corentin \"Tchus\" Monfort",
+      "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Griekse Lokalisatie",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Indonesische Lokalisatie",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "Italiaanse Lokalisatie",
+    "NAMES": [
+      "Jade \"HobNob\" Stevanovic",
+      "Mero Marco",
+      "Luigi Squarzina",
+      "Playtesting:",
+      "Mattylink Heropon"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "Japanse Lokalisatie",
+    "NAMES": [
+      "Grezzz (Community Vertaling)",
+      "Kakehashi Games (Officiële Vertaling)"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Koreaanse Lokalisatie",
+    "NAMES": [
+      "Vertaling en Coördinatie:",
+      "Eteriny",
+      "Fissh",
+      "GyeRyak",
+      "Vertaling:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Vekan",
+      "Lettertype:",
+      "In-Game: GyeonggiCheonnyeon(Batang) door Gyeonggi-Do",
+      "Winkelmiddel: NanumBrush, NanumPen door NAVER Corporation"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Noorse Lokalisatie",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Poolse Lokalisatie",
+    "NAMES": [
+      "Vertaling en Coördinatie:",
+      "Stanisław \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Extra Vertalingen:",
+      "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
+      "Foreigner",
+      "Testlezers:",
+      "Oskar \"volf3n\" Nowak",
+      "Suggesties en Feedback:",
+      "Kasper \"Awokado\" Berc",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafał \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Braziliaans-Portugese Lokalisatie",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "Russische Lokalisatie",
+    "NAMES": [
+      "Vertaling:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Extra Vertaling:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Winkel Object Vertaling:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Spaanse Lokalisatie",
+    "NAMES": [
+      "Vertaling en Coördinatie:",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Vertaling:",
+      "Erick Marroquin",
+      "Accord",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Pedro J. \"PJJLegend\" Jiménez Moyano",
+      "Rodrigo \"skylex\" Zabattaro",
+      "Alberto \"RadeonThe1st\" Botana",
+      "Spooktacular",
+      "Grammatica en Opschoning:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer",
+      "Summer",
+      "Eipic"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Servische Lokalisatie",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljevic"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "Thaise Lokalisatie",
+    "NAMES": [
+      "Vertaling en Coördinatie:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "Extra Vertalingen:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Lettertypen:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Turkse Lokalisatie",
+    "NAMES": [
+      "Vertaling en Coördinatie:",
+      "Ertürk Yılmaz",
+      "Vertaling:",
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Oekraïense Lokalisatie",
+    "NAMES": [
+      "Vertaling en Coördinatie:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Correcties en Vertaling:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi",
+      "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Chinese (Vereenvoudigd) Lokalisatie",
+    "NAMES": [
+      "Sound of Mystery",
+      "IrisRaphael"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Chinese (Traditioneel) Lokalisatie",
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
+  },
+  "OPS": {
+    "HEADER": "Operaties & Metriek",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Kaartportretten & Evenementkunst",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Muziek & Geluid",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Speciale Dank",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Speeltesters",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jade Wesley",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson",
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...en natuurlijk JIJ bedankt voor het spelen!",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Stemtalent",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Console en Mobiele Ports",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Bedrijfsontwikkeling:  Eduardo Aparicio",
+      "Publicatie Manager:  John Polson",
+      "Publicatie Release Manager:  Evan Koepf",
+      "Publicatie Merk Manager:  Connor Bridgeman",
+      "Directeur Bedrijfsontwikkeling, Publicatie:  Mai Kawaguchi",
+      "Senior Bedrijfsontwikkelaar:  Thomas Glenn",
+      "Senior Bedrijfsontwikkelaar:  Bob Mills",
+      "Bedrijfsontwikkelaar:  Trisha Tabor",
+      "Bedrijfsontwikkelaar:  Angel Lyons-Labate",
+      "Winkel Directeur:  Paul Herron",
+      "Directeur van Financiën:  Eric Samuel",
+      "VP van Product:  Nate Muller",
+      "Directeur van Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Groei Manager:  Francois du Toit",
+      "Klantenservice:  Jimmy Chi",
+      "Klantenservice:  Kasey Brounkowski",
+      "Klantenservice:  Kayla Fyfe",
+      "Klantenservice:  Patrick Monahan"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Officiële Vertaling):",
+      "Japanse Publicatie Ondersteuning:  Kakehashi Games",
+      "Japanse Lokalisatie:  Rie Ihara"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Vietnamese Lokalisatie",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Vertaling:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coördinatie en Linguïstische Leiding:",
+      "Hoang Son Do",
+      "Speciale Dank:",
+      "Azy Tazer"
+    ]
+  }
+}

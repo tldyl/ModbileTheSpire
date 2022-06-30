@@ -1,0 +1,704 @@
+{
+  "AcidSlime_L": {
+    "MOVES": [
+      "Bijtend Spuug",
+      "Splitsen",
+      "Lik"
+    ],
+    "NAME": "Zuur Slijm (L)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Bijtend Spuug",
+      "Lik"
+    ],
+    "NAME": "Zuur Slijm (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Zuur Slijm (S)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Excuusslijm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Zielenslag",
+      "Duistere Echo",
+      "Zuiver",
+      "Modder"
+    ],
+    "NAME": "De Ontwaakte",
+    "DIALOG": [
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~Nee~ ~.~ ~.~ ~.~ ~nee~ ~.~ ~.~ NL ~.~ ~.~ ~nee~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Beer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Stekel",
+    "DIALOG": [
+      "~Beeeeeer!!!!~"
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Romeo",
+    "DIALOG": [
+      "~Pak~ ~'em~ ~Beer!!~",
+      "~Je~ ~zult~ ~hier~ ~voor~ ~boeten!!~",
+      "~Neeeeeee,~ ~Beer!~"
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Boek der Steekpartijen",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "HYPERSTRAAL"
+    ],
+    "NAME": "Bronzen Automaat",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bol",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vogyl",
+    "DIALOG": [
+      "@CAW!@ NL @CAAAW@",
+      ""
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Honderdman",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Verdedigende Houding",
+      "Executeren",
+      "Gezichtsklap"
+    ],
+    "NAME": "De Kampioen",
+    "DIALOG": [
+      "Noem je dat een wapen?",
+      "Kom maar op!",
+      "Doe je ergste! NL @HAHAHA!@",
+      "Hier, een gratis schot! NL Nutteloze zwakkeling!",
+      "~Nu~ ~heb~ ~je~ ~het~ ~gedaan...~",
+      "@VERLIES??@ NL @ONMOGELIJK!!@",
+      "~STERF~ ~.~ ~.~ ~.~",
+      "Voel mijn woede!",
+      "@DAT@ @IS@ NL @MIJN@ @RIEM!!@"
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Uitverkorene",
+    "DIALOG": [
+      "~Lijd...~"
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Corrupt Hart",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Incantatie"
+    ],
+    "NAME": "Sektelid",
+    "DIALOG": [
+      "@MIJN@ @KRACHT@ @IS@ NL @ONGEËVENAARD!@",
+      "@JIJ@ @HOORT@ @HIER@ NL @NIET@ @THUIS!@",
+      "~Mijn~ ~krachten~ NL ~zijn~ ~geëvenaard...~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Tjomp! Tjomp!"
+    ],
+    "NAME": "Duisterling",
+    "DIALOG": [
+      "Hergroeien..."
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deca",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Cirkel van Kracht"
+    ],
+    "NAME": "Donu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ontploffer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vuurbol",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dolk",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vlammenpletser",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomaan",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Groei"
+    ],
+    "NAME": "Schimmelbeest",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Speekselweb"
+    ],
+    "NAME": "Luis",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Groei"
+    ],
+    "NAME": "Luis",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reusachtig Hoofd",
+    "DIALOG": [
+      "~Het~ ~is~ ~tijd~",
+      "~Tot~ ~Ziens~",
+      "~Tik~ ~Tak~ NL ~Tik~ ~Tak~",
+      "~Waarom~ ~ben~ ~je~ NL ~nog~ ~steeds~ ~hier?~"
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Vermorzel"
+    ],
+    "NAME": "Dikke Gremlin",
+    "DIALOG": [
+      "",
+      "",
+      "@Oh@ @nee,@ NL @oh@ @nee,@ NL @oH@ @NEE!@"
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Verzamelen!"
+    ],
+    "NAME": "Gremlin Leider",
+    "DIALOG": [
+      "Geef nooit op!",
+      "Wij zijn nog niet klaar!",
+      "Pak 'em jongens!",
+      "@Terugtrekken@ NL @Terugtreeekkeeen!@",
+      "@Reeeeeeen!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Schedelbeuk",
+      "Stierenrazernij"
+    ],
+    "NAME": "Gremlin Nob",
+    "DIALOG": [
+      "@RRrraahrrRGHHhhh!!@"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gluiperige Gremlin",
+    "DIALOG": [
+      "",
+      "@Ik@ @ga@ NL @hulp@ @halen!@",
+      "@Huh@ @wat!?@"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Bescherm",
+      "Schildbeuk"
+    ],
+    "NAME": "Schildgremlin",
+    "DIALOG": [
+      "",
+      "~Tot~ ~ziens...~",
+      "Dit is niet goed..."
+    ]
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Klauw"
+    ],
+    "NAME": "Boze Gremlin",
+    "DIALOG": [
+      "",
+      "@Ik@ @ga@ NL @hulp@ @halen!@",
+      "Ik ben hier weg!"
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Opladen",
+      "Ultieme Ontploffing"
+    ],
+    "NAME": "Gremlin Tovenaar",
+    "DIALOG": [
+      "",
+      "Aan het opladen!",
+      "~Hier~ ~komt~ ~het!!~",
+      "@Ik...@ @haal...@ NL @hulp...!@",
+      "~te...~ NL ~gevaarlijk...~ NL ~doei...~"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mysticus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Ontvlammen",
+      "Schroeien",
+      "Vlammenzee"
+    ],
+    "NAME": "Hexageest",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Brul",
+      "Beuken"
+    ],
+    "NAME": "Kaakworm",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Ziel Aftappen"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "",
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Steek",
+      "Beroof"
+    ],
+    "NAME": "Plunderaar",
+    "DIALOG": [
+      "Geef me je goud!",
+      "@NEEEeeee!@",
+      "Waar is mijn rookbom... Eventjes kijken...",
+      "Bedankt voor de poen, hehe"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "De Muil",
+    "DIALOG": [
+      "@RRrrohrrRGHhh!!@"
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Steek",
+      "Beroof"
+    ],
+    "NAME": "Overvaller",
+    "DIALOG": [
+      "Hier met dat goud!",
+      "Ik pleit 'm!"
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Aartsvijand",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Sterkte Omhoog"
+    ],
+    "NAME": "Bolwandelaar",
+    "DIALOG": [
+      "Schilden NL invoeren."
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Poppenspeler",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Afstoter",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Desintegreren"
+    ],
+    "NAME": "Wachter",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire-groei",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Omhulde Parasiet",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Harken"
+    ],
+    "NAME": "Slavenhandelaar",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Slavendrijver",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Schrapen",
+      "Verstrikken"
+    ],
+    "NAME": "Slavenhandelaar",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Smakken",
+      "Voorbereiden",
+      "Splitsen",
+      "Smurrie Nevel"
+    ],
+    "NAME": "Slijmbaas",
+    "DIALOG": [
+      "~Slijm...~ NL #r~VERPLETTER!!!~",
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Verzwakkende Sporen"
+    ],
+    "NAME": "Slangenplant",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Verwarrende Staar",
+      "Staartzwiep",
+      "Beet"
+    ],
+    "NAME": "Slekko",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bolvormige Bewaarder",
+    "DIALOG": [
+      "~Buitenstaander~ NL ~Gedetecteerd~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Lik",
+      "Splitsen"
+    ],
+    "NAME": "Stekelig Slijm (L)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Lik"
+    ],
+    "NAME": "Stekelig Slijm (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Stekelig Slijm (S)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Stekelaar",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "De Verzamelaar",
+    "DIALOG": [
+      "@Je@ @bent@ @van@ @mij!@"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Verdedigende Modus",
+      "Felle Dreun",
+      "Rol",
+      "Dubbele Smak",
+      "Wervelwind",
+      "Opladen",
+      "Stoom Afblazen"
+    ],
+    "NAME": "De Bewaker",
+    "DIALOG": [
+      "#b~..AF...~ NL #b~...KOELEN...~",
+      "Verdedigen...",
+      "#r@VERNIETIG@ NL #r@VERNIETIG@ NL #r@VERNIETIG@",
+      "#r@GEVAAR@ NL #r@GEVAAR@ NL #r@GEVAAR@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tijdvreter",
+    "DIALOG": [
+      "~Ah...~ NL ~..bezoek...~",
+      "~Dwaas..~ NL @DWAAAAS!@",
+      "~Heb...je....~ NL ~...nooit..~ NL ~..gemogen...~"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Fakkelhoofd",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vergankelijke",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire-schild",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire-speer"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kronkelende Massa",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

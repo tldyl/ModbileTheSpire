@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Prapocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yartefakto."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Atakpocio",
+    "DESCRIPTIONS": [
+      "Elektu #b1 el #b3 hazardaj #yatakokartoj por aldoni al via mano. Ĝi kostas #b0 ĉi-vice.",
+      "Elektu #b1 el #b3 hazardaj #yatakokartoj kaj aldonu #b2 kopiojn al via mano. Ili kostas #b0 ĉi-vice."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Ŝirmpocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Sangopocio",
+    "DESCRIPTIONS": [
+      "Resaniĝu #b",
+      "% de via maks. vivo."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Lertecpocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ylerteco."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Eliksiro",
+    "DESCRIPTIONS": [
+      "SENVALIDIĜA",
+      "SENVALIDIĜA",
+      "SENVALIDIĜA",
+      "SENVALIDIĜA",
+      "SENVALIDIĜA"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energipocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yenergio."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropia miksaĵo",
+    "DESCRIPTIONS": [
+      "Plenigu viajn malplenajn pociingojn per hazardaj pocioj."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Esenco de ŝtalo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ylada #yarmaĵo."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Eksploda pocio",
+    "DESCRIPTIONS": [
+      "Faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Feo en botelo",
+    "DESCRIPTIONS": [
+      "Kiam vi mortus, anstataŭe resaniĝu ĝis #b",
+      "% da via maks. vivo kaj forigu ĉi tiun pocion."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Pocio de timo",
+    "DESCRIPTIONS": [
+      "Aldonu #b",
+      " da #yvundebla."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Fajra pocio",
+    "DESCRIPTIONS": [
+      "Faru #b",
+      " da damaĝo."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Pocio de atento",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yatento."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruktosuko",
+    "DESCRIPTIONS": [
+      "Plialtigu vian maks. vivon je #b",
+      "."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Miksaĵo de monludisto",
+    "DESCRIPTIONS": [
+      "Forĵetu ajnan kvanton da kartoj kaj poste prenu tiom."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Fantomo en bokalo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ynepalpebla."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Vivpocio",
+    "DESCRIPTIONS": [
+      "SENVALIDIĜA",
+      "SENVALIDIĜA"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Likva bronzo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ydornoj."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Venena pocio",
+    "DESCRIPTIONS": [
+      "Aldonu #b",
+      " da #yveneno."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Pociingo",
+    "DESCRIPTIONS": [
+      "Uzu pociojn dum batalo por gajni #gavantaĝojn aŭ #rmalhelpi malamikojn.",
+      "Pociingo"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Pocio de potenco",
+    "DESCRIPTIONS": [
+      "Elektu #b1 el #b3 hazardaj #ypotencokartoj por aldoni al via mano. Ĝi kostas #b0 ĉi-vice.",
+      "Elektu #b1 el #b3 hazardaj #ypotencokartoj kaj aldonu #b2 kopiojn al via mano. Ili kostas #b0 ĉi-vice."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Regeneriga pocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yregenero.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Pocio de kapablo",
+    "DESCRIPTIONS": [
+      "Elektu #b1 el #b3 hazardaj #ykapablokartoj por aldoni al via mano. Ĝi kostas #b0 ĉi-vice.",
+      "Elektu #b1 el #b3 hazardaj #ykapablokartoj kaj aldonu #b2 kopiojn al via mano. Ili kostas #b0 ĉi-vice."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Fumobombo",
+    "DESCRIPTIONS": [
+      "Fuĝu de batalo (ne kontraŭ estro). Gajnu nenion.",
+      "Mi estas ĉirkaŭata!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Oleo de serpeko",
+    "DESCRIPTIONS": [
+      "Prenu #b",
+      " kartojn. Hazardigu la koston de kartoj en via mano.",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Pocio de rapideco",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ylerteco. Je la fino de via vico, perdu #b",
+      " da #ylerteco."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Muskola pocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yforto. Je la fino de via vico, perdu #b",
+      " da #yforto."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Pocio de forto",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yforto."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Prompta pocio",
+    "DESCRIPTIONS": [
+      "",
+      "Prenu #b",
+      " kartojn."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Pocio de malforto",
+    "DESCRIPTIONS": [
+      "Aldonu #b",
+      " da #ymalforta."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Poziciopocio",
+    "DESCRIPTIONS": [
+      "Eniru #ykalmon aŭ #yrankoron."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duobliga pocio",
+    "DESCRIPTIONS": [
+      "Ĉi-vice, via sekvonta karto estos ludata du fojojn.",
+      "Ĉi-vice, viaj sekvontaj 2 kartoj estos ludataj du fojojn."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Eliksiro",
+    "DESCRIPTIONS": [
+      "#yElĉerpu ajnan kvanton de kartoj el via mano."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Fera koro",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ymetaligo."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Ruza pocio",
+    "DESCRIPTIONS": [
+      "Aldonu #b",
+      " da #yPikiloj+ al via mano."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Pocio de kapacito",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da sferingoj."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Esenco de mallumo",
+    "DESCRIPTIONS": [
+      "#yKonduktu po #b",
+      " da #ymallumo por ĉiu sferingo."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Enboteligita miraklo",
+    "DESCRIPTIONS": [
+      "Aldonu #b",
+      " #yMiraklojn al via mano."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrozio",
+    "DESCRIPTIONS": [
+      "Eniru la #ypozicion #ydieco."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilita ĥaoso",
+    "DESCRIPTIONS": [
+      "Ludu la suprajn #b",
+      " kartojn de via prenstako."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Likvaj memoroj",
+    "DESCRIPTIONS": [
+      "Elektu karton de via forĵetstako kaj resendu ĝin al via mano. Ĝi kostos #b0 ĉi-vice.",
+      "Elektu #b",
+      " kartojn de via forĵetstako kaj resendu ilin al via mano. Ili kostos #b0 ĉi-vice."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Kultistpocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yrito."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Senkolora pocio",
+    "DESCRIPTIONS": [
+      "Elektu #b1 el #b3 hazardaj #ysenkoloraj kartoj por aldoni al via mano. Ĝi kostos #b0 ĉi-vice.",
+      "Elektu #b1 el #b3 hazardaj #ysenkoloraj kartoj kaj aldonu #b2 kopiojn al via mano. Ili kostos #b0 ĉi-vice."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Beno de la forĝejo",
+    "DESCRIPTIONS": [
+      "Plibonigu ĉiujn kartojn en via mano por la cetero de la batalo."
+    ]
+  }
+}

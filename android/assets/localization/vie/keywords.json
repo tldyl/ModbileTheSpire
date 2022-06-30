@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "thánh tích"
+      ],
+      "DESCRIPTION": "Vô hiệu hóa trạng thái bất lợi kế tiếp."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "giáp",
+        "giáp"
+      ],
+      "DESCRIPTION": "Ngăn chặn sát thương cho đến khi bắt đầu lượt sau."
+    },
+    "BURN": {
+      "NAMES": [
+        "bỏng",
+        "bỏng"
+      ],
+      "DESCRIPTION": "Bỏng là loại bài trạng thái không chơi được gây sát thương lên bạn."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "gọi",
+        "đã gọi"
+      ],
+      "DESCRIPTION": "Mỗi khi Gọi Ngọc thì viên đó sẽ được đặt vào ô trống đầu tiên. Nếu bạn không có ô trống nào, Ngọc đầu tiên của bạn sẽ được #yXả để tạo ô trống."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "rối trí"
+      ],
+      "DESCRIPTION": "Mỗi khi bạn bốc một lá bài, thay đổi ngẫu nhiên giá Năng lượng của lá bài đó."
+    },
+    "CURSE": {
+      "NAMES": [
+        "nguyền"
+      ],
+      "DESCRIPTION": "Lá bài Nguyền là loại bài bất lợi nằm trong chồng bài của bạn."
+    },
+    "DARK": {
+      "NAMES": [
+        "hắc ngọc",
+        "hắc ngọc+"
+      ],
+      "DESCRIPTION": "Ngọc: Tăng sát thương mỗi lượt. Khi #yXả, gây sát thương lên kẻ địch có HP thấp nhất."
+    },
+    "DAZED": {
+      "NAMES": [
+        "choáng"
+      ],
+      "DESCRIPTION": "Choáng là loại bài trạng thái không chơi được."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "linh hoạt"
+      ],
+      "DESCRIPTION": "Linh hoạt tăng Giáp nhận được từ bài."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "tan biến"
+      ],
+      "DESCRIPTION": "Đốt lá bài này nếu nó nằm trên tay bạn vào cuối lượt. Bài bị đốt sẽ bị loại khỏi chồng bài của bạn cho đến hết trận đấu."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "xả",
+        "đã xả"
+      ],
+      "DESCRIPTION": "Dùng Ngọc ngoài cùng bên phải của bạn và kích hoạt hiệu ứng Xả của ngọc đó."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "đốt",
+        "đã đốt",
+        "đốt"
+      ],
+      "DESCRIPTION": "Bị hủy bỏ cho đến hết trận đấu."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "tập trung"
+      ],
+      "DESCRIPTION": "Tập trung tăng hiệu quả của Ngọc #yĐã #ygọi."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "mong manh"
+      ],
+      "DESCRIPTION": "Giảm #b25% #yGiáp nhận được từ bài khi bị Mong manh."
+    },
+    "FROST": {
+      "NAMES": [
+        "băng",
+        "băng+"
+      ],
+      "DESCRIPTION": "Ngọc: Nhận #yGiáp."
+    },
+    "INNATE": {
+      "NAMES": [
+        "nội sinh"
+      ],
+      "DESCRIPTION": "Bắt đầu mỗi trận đấu với lá bài này trên tay."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "vô hình"
+      ],
+      "DESCRIPTION": "Giảm TẤT CẢ sát thương và lượng HP mất đi xuống còn #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "sét",
+        "sét+"
+      ],
+      "DESCRIPTION": "Ngọc: Gây sát thương lên kẻ địch ngẫu nhiên."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "khóa"
+      ],
+      "DESCRIPTION": "Lá bài này vẫn chưa mở khóa."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "tầm ngắm"
+      ],
+      "DESCRIPTION": "Mục tiêu trong Tầm ngắm nhận thêm #b50% sát thương từ Ngọc."
+    },
+    "OPENER": {
+      "NAMES": [
+        "mở màn"
+      ],
+      "DESCRIPTION": "Bài Mở màn chỉ có thể được chơi khi bắt đầu lượt."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Ngọc: Nhận Năng lượng."
+    },
+    "POISON": {
+      "NAMES": [
+        "độc",
+        "dính độc"
+      ],
+      "DESCRIPTION": "Sinh vật bị dính Độc mất HP mỗi khi bắt đầu lượt của mình. Mỗi lượt giảm bớt #b1 độc."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "giữ",
+        "giữ",
+        "được giữ"
+      ],
+      "DESCRIPTION": "Bài Giữ không bị bỏ vào cuối lượt."
+    },
+    "SHIV": {
+      "NAMES": [
+        "dao găm",
+        "dao găm+"
+      ],
+      "DESCRIPTION": "Dao Găm là loại bài Tấn công tốn #b0 và Đốt."
+    },
+    "STATUS": {
+      "NAMES": [
+        "trạng thái"
+      ],
+      "DESCRIPTION": "Bài Trạng thái bị loại bỏ khi kết thúc trận đấu."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "sức mạnh"
+      ],
+      "DESCRIPTION": "Sức mạnh tăng thêm sát thương cho đòn tấn công."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "đánh"
+      ],
+      "DESCRIPTION": "Bất kỳ lá bài nào có từ \"Đánh\" trong tên."
+    },
+    "TEXT": [
+      "Năng lượng được sử dụng để chơi bài trên tay bạn."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "gai"
+      ],
+      "DESCRIPTION": "Khi nhận sát thương #yTấn #ycông, gây sát thương ngược lại."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "biến đổi"
+      ],
+      "DESCRIPTION": "Những lá bài bị Biến đổi biến thành một lá bài ngẫu nhiên có độ hiếm bất kỳ."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "không rõ"
+      ],
+      "DESCRIPTION": "Lá bài này chưa gặp."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "không chơi được"
+      ],
+      "DESCRIPTION": "Lá bài Không chơi được không thể chơi được từ tay bạn."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "nâng cấp",
+        "đã nâng cấp"
+      ],
+      "DESCRIPTION": "Nâng cấp bài khiến chúng trở nên mạnh hơn. Các lá bài chỉ có thể được nâng cấp một lần."
+    },
+    "VOID": {
+      "NAMES": [
+        "hư vô",
+        "hư vô"
+      ],
+      "DESCRIPTION": "Hư vô là loại bài trạng thái không chơi được tiêu tốn năng lượng khi bốc."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "sơ hở"
+      ],
+      "DESCRIPTION": "Sinh vật Sơ hở nhận thêm #b50% sát thương từ đòn Tấn công."
+    },
+    "WEAK": {
+      "NAMES": [
+        "yếu",
+        "làm yếu",
+        "bị yếu",
+        "làm yếu"
+      ],
+      "DESCRIPTION": "Sinh vật Yếu bị giảm #b25% sát thương Tấn công."
+    },
+    "WOUND": {
+      "NAMES": [
+        "vết thương",
+        "vết thương"
+      ],
+      "DESCRIPTION": "Vết Thương là loại bài trạng thái không chơi được."
+    },
+    "STANCE": {
+      "NAMES": [
+        "thế",
+        "thế"
+      ],
+      "DESCRIPTION": "Mỗi lúc chỉ có thể dùng một thế."
+    },
+    "WRATH": {
+      "NAMES": [
+        "nộ"
+      ],
+      "DESCRIPTION": "Khi vào #yThế này, bạn gây và nhận gấp đôi sát thương tấn công."
+    },
+    "CALM": {
+      "NAMES": [
+        "tĩnh"
+      ],
+      "DESCRIPTION": "Khi thoát khỏi #yThế này, nhận [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "phật"
+      ],
+      "DESCRIPTION": "Khi vào thế này, nhận [W] [W] [W] . Bài Tấn công gây gấp ba lần sát thương. Thoát khỏi #yThế này khi bắt đầu lượt tiếp theo."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "thần chú",
+        "bằng bạo lực"
+      ],
+      "DESCRIPTION": "Khi bạn có #b10 #yThần #ychú, vào thế #yPhật."
+    },
+    "SCRY": {
+      "NAMES": [
+        "bói"
+      ],
+      "DESCRIPTION": "Xem X lá bài đầu tiên trong chồng bài bốc của bạn. Bạn có thể bỏ bất kỳ lá nào."
+    },
+    "REGEN": {
+      "NAMES": [
+        "phục hồi"
+      ],
+      "DESCRIPTION": "Phục hồi tăng HP khi kết thúc lượt của bạn. Mỗi lượt giảm #b1 Phục hồi."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "cường tráng"
+      ],
+      "DESCRIPTION": "Lá Tấn công tiếp theo của bạn gây thêm sát thương."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "lễ tế"
+      ],
+      "DESCRIPTION": "Nhận #ySức #ymạnh khi kết thúc lượt của bạn."
+    },
+    "FATAL": {
+      "NAMES": [
+        "đoạt mạng"
+      ],
+      "DESCRIPTION": "Kích hoạt khi lá bài này giết được một quân địch không phải tay sai."
+    }
+  }
+}

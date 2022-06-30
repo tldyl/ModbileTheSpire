@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Yıkımın Mızrağı",
+    "DESCRIPTION": [
+      "Düşmanlar #b%",
+      " daha fazla hasar verir."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Yıkımın Kalkanı",
+    "DESCRIPTION": [
+      "Düşmanlar #b%",
+      " daha fazla CP'ye sahiptir."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Zaman Labirenti",
+    "DESCRIPTION": [
+      "Her tur en fazla #b",
+      " kart oynayabilirsin.",
+      "Her tur en fazla NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Kıvrılan Zihin",
+    "DESCRIPTION": [
+      "Tur sonunda #b",
+      " rastgele Durum kartını çekme yığınının üstüne ekle.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Lanetli",
+    "DESCRIPTION": [
+      "Ne zaman bir Boss'u yenersen #b",
+      " rastgele #yLanet edin.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Saçılan Beyin",
+    "DESCRIPTION": [
+      "Tur başında #b",
+      " kart az çek.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Mimik İstilası",
+    "DESCRIPTION": [
+      "Gelecek sahnelerdeki hazine odaları Elitlere dönüştü. Elitler artık kalıntı düşürmeyecek."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Ağızlık",
+    "DESCRIPTION": [
+      "Maksimum CP artık artırılamaz. Tüm iyileşmeler yarılanır."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Acayip Kupa",
+    "DESCRIPTION": [
+      "Aldığında #b",
+      " #rGurur elde et.",
+      "Gururun sapmış..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Duryan Sonrası",
+    "DESCRIPTION": [
+      "Maksimum CP'nin #b%",
+      " kadarını kaybet."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Boşluk Özü",
+    "DESCRIPTION": [
+      "Her tur başında #b",
+      " [E] az kazan."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Azaplar",
+    "DESCRIPTION": [
+      "Düşmanlar dövüşe #b",
+      " #ySoyutluk ile başlar."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Antik Destek",
+    "DESCRIPTION": [
+      "Düşmanlar dövüşe #b",
+      " #yYapı, #b",
+      " #yKaplı #yZırh, ve #b",
+      " #yYenilenme ile başlar."
+    ]
+  }
+}
