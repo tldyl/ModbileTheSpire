@@ -26,6 +26,7 @@ import com.megacrit.cardcrawl.android.mods.utils.EventUtils;
 import com.megacrit.cardcrawl.android.mods.utils.ReflectionHacks;
 import com.megacrit.cardcrawl.android.mods.utils.Types;
 import com.megacrit.cardcrawl.cards.AbstractCard;
+import com.megacrit.cardcrawl.cards.CardGroup;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.core.Settings;
@@ -40,6 +41,7 @@ import com.megacrit.cardcrawl.potions.AbstractPotion;
 import com.megacrit.cardcrawl.powers.AbstractPower;
 import com.megacrit.cardcrawl.powers.InvinciblePower;
 import com.megacrit.cardcrawl.relics.AbstractRelic;
+import com.megacrit.cardcrawl.rooms.AbstractRoom;
 import com.megacrit.cardcrawl.screens.charSelect.CharacterOption;
 import com.megacrit.cardcrawl.unlock.AbstractUnlock;
 import com.megacrit.cardcrawl.unlock.UnlockTracker;
@@ -67,6 +69,11 @@ public class BaseMod {
     private static List<SetUnlocksSubscriber> setUnlocksSubscribers = new ArrayList<>();
     private static List<ModelRenderSubscriber> modelRenderSubscribers = new ArrayList<>();
     private static List<PreRenderSubscriber> preRenderSubscribers = new ArrayList<>();
+    private static List<StartGameSubscriber> startGameSubscribers = new ArrayList<>();
+    private static List<StartActSubscriber> startActSubscribers = new ArrayList<>();
+    private static List<PostBattleSubscriber> postBattleSubscribers = new ArrayList<>();
+    private static List<PostCreateStartingDeckSubscriber> postCreateStartingDeckSubscribers = new ArrayList<>();
+    private static List<OnCardUseSubscriber> onCardUseSubscribers = new ArrayList<>();
     public static HashMap<String, String> underScoreCardIDs;
     public static HashMap<String, String> underScorePotionIDs;
     public static HashMap<String, String> underScoreEventIDs;
@@ -690,6 +697,21 @@ public class BaseMod {
         if (subscriber instanceof PreRenderSubscriber) {
             preRenderSubscribers.add((PreRenderSubscriber) subscriber);
         }
+        if (subscriber instanceof StartGameSubscriber) {
+            startGameSubscribers.add((StartGameSubscriber) subscriber);
+        }
+        if (subscriber instanceof StartActSubscriber) {
+            startActSubscribers.add((StartActSubscriber) subscriber);
+        }
+        if (subscriber instanceof PostBattleSubscriber) {
+            postBattleSubscribers.add((PostBattleSubscriber) subscriber);
+        }
+        if (subscriber instanceof PostCreateStartingDeckSubscriber) {
+            postCreateStartingDeckSubscribers.add((PostCreateStartingDeckSubscriber) subscriber);
+        }
+        if (subscriber instanceof OnCardUseSubscriber) {
+            onCardUseSubscribers.add((OnCardUseSubscriber) subscriber);
+        }
     }
 
     private static void unsubscribeIfInstance(ISubscriber subscriber) {
@@ -735,6 +757,21 @@ public class BaseMod {
         if (subscriber instanceof PreRenderSubscriber) {
             preRenderSubscribers.remove(subscriber);
         }
+        if (subscriber instanceof StartGameSubscriber) {
+            startGameSubscribers.remove(subscriber);
+        }
+        if (subscriber instanceof StartActSubscriber) {
+            startActSubscribers.remove(subscriber);
+        }
+        if (subscriber instanceof PostBattleSubscriber) {
+            postBattleSubscribers.remove(subscriber);
+        }
+        if (subscriber instanceof PostCreateStartingDeckSubscriber) {
+            postCreateStartingDeckSubscribers.remove(subscriber);
+        }
+        if (subscriber instanceof OnCardUseSubscriber) {
+            onCardUseSubscribers.remove(subscriber);
+        }
     }
 
     public static void unsubscribe(ISubscriber sub, Class<? extends ISubscriber> removalClass) {
@@ -766,6 +803,16 @@ public class BaseMod {
             editKeywordsSubscribers.remove(sub);
         } else if (removalClass.equals(SetUnlocksSubscriber.class)) {
             setUnlocksSubscribers.remove(sub);
+        } else if (removalClass.equals(StartGameSubscriber.class)) {
+            startGameSubscribers.remove(sub);
+        } else if (removalClass.equals(StartActSubscriber.class)) {
+            startActSubscribers.remove(sub);
+        } else if (removalClass.equals(PostBattleSubscriber.class)) {
+            postBattleSubscribers.remove(sub);
+        } else if (removalClass.equals(PostCreateStartingDeckSubscriber.class)) {
+            postCreateStartingDeckSubscribers.remove(sub);
+        } else if (removalClass.equals(OnCardUseSubscriber.class)) {
+            onCardUseSubscribers.remove(sub);
         }
     }
 
@@ -1072,6 +1119,60 @@ public class BaseMod {
     public static int getSeenCardCount(AbstractCard.CardColor color) {
         Integer count = colorCardSeenCountMap.get(color);
         return count == null ? -1 : count;
+    }
+
+    public static void publishStartGame() {
+        logger.info("publishStartGame");
+
+        for (StartGameSubscriber sub : startGameSubscribers) {
+            sub.receiveStartGame();
+        }
+
+        unsubscribeLaterHelper(StartGameSubscriber.class);
+    }
+
+    public static void publishStartAct() {
+        logger.info("publishStartAct");
+        for (StartActSubscriber sub : startActSubscribers) {
+            sub.receiveStartAct();
+        }
+        unsubscribeLaterHelper(StartActSubscriber.class);
+    }
+
+    public static void publishPostBattle(AbstractRoom battleRoom) {
+        logger.info("publish post combat");
+
+        for (PostBattleSubscriber sub : postBattleSubscribers) {
+            sub.receivePostBattle(battleRoom);
+        }
+        unsubscribeLaterHelper(PostBattleSubscriber.class);
+    }
+
+    public static void publishPostCreateStartingDeck(AbstractPlayer.PlayerClass chosenClass, CardGroup masterDeck) {
+        logger.info("postCreateStartingDeck for: " + chosenClass);
+
+        for (PostCreateStartingDeckSubscriber sub : postCreateStartingDeckSubscribers) {
+            logger.info("postCreateStartingDeck modifying starting deck for: " + sub);
+            sub.receivePostCreateStartingDeck(chosenClass, masterDeck);
+        }
+
+        StringBuilder logString = new StringBuilder("postCreateStartingDeck adding [ ");
+        for (AbstractCard card : masterDeck.group) {
+            logString.append(card.cardID).append(" ");
+        }
+        logString.append("]");
+        logger.info(logString.toString());
+
+        unsubscribeLaterHelper(PostCreateStartingDeckSubscriber.class);
+    }
+
+    public static void publishOnCardUse(AbstractCard card) {
+        logger.info("publish on card use: " + ((card == null) ? "null" : card.cardID));
+
+        for (OnCardUseSubscriber sub : onCardUseSubscribers) {
+            sub.receiveCardUsed(card);
+        }
+        unsubscribeLaterHelper(OnCardUseSubscriber.class);
     }
 
     public static class BossInfo {

@@ -19,6 +19,7 @@ import com.megacrit.cardcrawl.actions.defect.EvokeOrbAction;
 import com.megacrit.cardcrawl.actions.utility.UseCardAction;
 import com.megacrit.cardcrawl.actions.utility.WaitAction;
 import com.megacrit.cardcrawl.android.SpireAndroidLogger;
+import com.megacrit.cardcrawl.android.mods.BaseMod;
 import com.megacrit.cardcrawl.blights.AbstractBlight;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.cards.CardGroup;
@@ -453,7 +454,7 @@ public abstract class AbstractPlayer extends AbstractCreature {
             AbstractCard c = (AbstractCard)var7.next();
             UnlockTracker.markCardAsSeen(c.cardID);
         }
-
+        BaseMod.publishPostCreateStartingDeck(chosenClass, masterDeck);
     }
 
     protected void initializeStarterRelics(AbstractPlayer.PlayerClass chosenClass) {
