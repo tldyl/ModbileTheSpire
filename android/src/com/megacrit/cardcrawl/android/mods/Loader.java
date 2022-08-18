@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.jar.JarFile;
 import java.util.zip.ZipEntry;
@@ -52,7 +52,7 @@ public class Loader {
                     StringBuilder out = new StringBuilder();
                     byte[] b = new byte[4096];
                     for (int n; (n = is.read(b)) != -1;) {
-                        out.append(new String(b, 0, n, Charset.forName("UTF-8")));
+                        out.append(new String(b, 0, n, StandardCharsets.UTF_8));
                     }
                     String modInfoString = out.toString();
                     MODINFOS[i] = gson.fromJson(modInfoString, ModInfo.class);
@@ -96,6 +96,9 @@ public class Loader {
                 rootPackageName = new String(chars);
             }
             String modMainClassPath = rootPackageName + "." + info.modId;
+            if (info.mainClassPath != null) {
+                modMainClassPath = info.mainClassPath;
+            }
             try {
                 Class<?> clz = Class.forName(modMainClassPath);
                 try {

@@ -6,6 +6,7 @@ import android.os.Environment;
 import android.util.Log;
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
+import com.badlogic.gdx.backends.android.surfaceview.FillResolutionStrategy;
 import com.megacrit.cardcrawl.android.mods.Loader;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import dalvik.system.DexClassLoader;
@@ -28,6 +29,7 @@ public class AndroidLauncher extends AndroidApplication {
 
         AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
         config.useWakelock = true;
+        config.resolutionStrategy = new FillResolutionStrategy();
         initialize(new CardCrawlGame(Environment.getExternalStorageDirectory().getAbsolutePath().concat("/.prefs/")), config);
     }
 

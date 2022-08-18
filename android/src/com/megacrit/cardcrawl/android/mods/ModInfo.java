@@ -10,6 +10,7 @@ public class ModInfo {
     public Map<String, String[]> descriptions;
     public String[] authorList;
     public String[] dependencies;
+    public String mainClassPath;
 
     public transient boolean isLoaded;
     public transient URL jarURL;

@@ -184,7 +184,7 @@ public class BaseMod {
                             logger.info("Registered CharacterStrings");
                             break;
                         case "ui":
-                            logger.info("Regidtered UIStrings");
+                            logger.info("Registered UIStrings");
                             break;
                         case "orb":
                             logger.info("Registered OrbStrings");

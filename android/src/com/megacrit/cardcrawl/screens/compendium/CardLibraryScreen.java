@@ -36,10 +36,8 @@ import com.megacrit.cardcrawl.screens.mainMenu.TabBarListener;
 import com.megacrit.cardcrawl.screens.mainMenu.ColorTabBar.CurrentTab;
 import com.megacrit.cardcrawl.screens.mainMenu.MainMenuScreen.CurScreen;
 import com.megacrit.cardcrawl.unlock.UnlockTracker;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
+
+import java.util.*;
 
 public class CardLibraryScreen implements TabBarListener, ScrollBarListener {
     private static final SpireAndroidLogger logger = SpireAndroidLogger.getLogger(CardLibraryScreen.class);
@@ -139,20 +137,19 @@ public class CardLibraryScreen implements TabBarListener, ScrollBarListener {
     }
 
     private void lockStatusHelper(CardGroup group) {
-        ArrayList<AbstractCard> toAdd = new ArrayList<>();
-        Iterator i = group.group.iterator();
-
-        while(i.hasNext()) {
-            AbstractCard c = (AbstractCard)i.next();
+        List<AbstractCard> toAdd = new ArrayList<>();
+        List<AbstractCard> toRemove = new ArrayList<>();
+        for (AbstractCard c : group.group) {
             if (UnlockTracker.isCardLocked(c.cardID)) {
                 AbstractCard tmp = CardLibrary.getCopy(c.cardID);
                 tmp.setLocked();
                 toAdd.add(tmp);
-                i.remove();
+                toRemove.add(c);
             }
         }
 
         group.group.addAll(toAdd);
+        group.group.removeAll(toRemove);
     }
 
     public void open() {
