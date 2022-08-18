@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Giáo Tai Ương",
+    "DESCRIPTION": [
+      "Quân địch gây thêm #b",
+      "% sát thương."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Khiên Tai Ương",
+    "DESCRIPTION": [
+      "Quân địch có thêm #b",
+      "% HP."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Mê Cung Thời Gian",
+    "DESCRIPTION": [
+      "Bạn không thể chơi quá #b",
+      " lá bài một lượt.",
+      "Mình chỉ có thể chơi đến NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Bóp Méo Tâm Can",
+    "DESCRIPTION": [
+      "Khi kết thúc lượt của bạn, thêm #b",
+      " lá bài Trạng thái ngẫu nhiên vào trên cùng chồng bài bốc của bạn.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Kẻ Bị Nguyền Rủa",
+    "DESCRIPTION": [
+      "Mỗi khi bạn tiêu diệt một con Trùm, nhận #b",
+      " lá bài #yNguyền ngẫu nhiên.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Khinh Suất",
+    "DESCRIPTION": [
+      "Giảm #b",
+      " lá bài bốc mỗi lượt.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Đại Dịch Giả Mạo",
+    "DESCRIPTION": [
+      "Phòng kho báu trong các hồi sau bị thay thế bằng Tinh quái. Tinh quái không rơi ra cổ vật nữa."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Rọ Mõm",
+    "DESCRIPTION": [
+      "Bạn không thể tăng HP tối đa nữa. Hồi máu giảm còn một nửa."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Chiếc Cúp Khủng Khiếp",
+    "DESCRIPTION": [
+      "Khi nhặt được, nhận #b",
+      " #rKiêu #rcăng.",
+      "Lòng kiêu hãnh của bạn bị bóp méo..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Quả Sầu Riêng",
+    "DESCRIPTION": [
+      "Mất #b",
+      "% HP tối đa của bạn."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Tinh Chất Hư Không",
+    "DESCRIPTION": [
+      "Gỉam #b",
+      " [E] khi bắt đầu mỗi lượt."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Yêu Hồn",
+    "DESCRIPTION": [
+      "Quân địch bắt đầu trận đấu với #b",
+      " #yVô #yhình."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Biến Đổi Cổ Đại",
+    "DESCRIPTION": [
+      "Quân địch bắt đầu trận đấu với #b",
+      " #yThánh #ytích, #b",
+      " #yGiáp #yMạ, và #b",
+      " #yTái #ytạo."
+    ]
+  }
+}

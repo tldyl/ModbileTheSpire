@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "精準",
+    "DESCRIPTIONS": [
+      "#y小刀 造成額外 #b",
+      " 點傷害"
+    ]
+  },
+  "After Image": {
+    "NAME": "餘像",
+    "DESCRIPTIONS": [
+      "每打出1張牌，得到 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Amplify": {
+    "NAME": "增幅",
+    "DESCRIPTIONS": [
+      "本回合下1張 #y能力牌 會打出2次",
+      "本回合下 ",
+      " 張 #y能力牌 會打出2次"
+    ]
+  },
+  "Anger": {
+    "NAME": "激怒",
+    "DESCRIPTIONS": [
+      "每打出1張 #y技能牌 ，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Angry": {
+    "NAME": "生氣",
+    "DESCRIPTIONS": [
+      "每當 ",
+      " 受到 #y攻擊 傷害，就獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Artifact": {
+    "NAME": "人工製品",
+    "DESCRIPTIONS": [
+      "免疫 #b",
+      " 次負面效果",
+      " 次負面效果"
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "攻擊燒燬",
+    "DESCRIPTIONS": [
+      "在 #b",
+      " 個回合內，所打出的 #y攻擊牌 都會 #y消耗 ",
+      "在 #b",
+      " 個回合內，所打出的 #y攻擊牌 都會 #y消耗 "
+    ]
+  },
+  "Barricade": {
+    "NAME": "壁壘",
+    "DESCRIPTIONS": [
+      " #y格擋 不會在你的回合開始時消失",
+      " #y格擋 不會在回合開始時消失"
+    ]
+  },
+  "Berserk": {
+    "NAME": "狂暴",
+    "DESCRIPTIONS": [
+      "在你的回合開始時獲得 ",
+      " "
+    ]
+  },
+  "Bias": {
+    "NAME": "偏差",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，失去 #b",
+      " 點 #y集中 "
+    ]
+  },
+  "Blur": {
+    "NAME": "殘影",
+    "DESCRIPTIONS": [
+      " #y格擋 不會在你的下1個回合開始時消失",
+      " #y格擋 不會在你的下 #b",
+      " 個回合開始時消失"
+    ]
+  },
+  "Brutality": {
+    "NAME": "殘暴",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，失去 #b",
+      " 生命並抽 #b",
+      " 張牌",
+      "在你的回合開始時，失去 #b",
+      " 點生命並抽 #b",
+      " 張牌"
+    ]
+  },
+  "Buffer": {
+    "NAME": "緩衝",
+    "DESCRIPTIONS": [
+      "阻止下1次你受到的生命值損傷",
+      "阻止下 #b",
+      " 次你受到的生命值損傷"
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "子彈時間",
+    "DESCRIPTIONS": [
+      "所有綠色牌的耗能變為0"
+    ]
+  },
+  "Burst": {
+    "NAME": "爆發",
+    "DESCRIPTIONS": [
+      "本回合下1張 #y技能牌 會打出2次",
+      "本回合下 ",
+      " 張 #y技能牌 會打出2次"
+    ]
+  },
+  "Choked": {
+    "NAME": "勒脖",
+    "DESCRIPTIONS": [
+      "本回合每打出1張牌，失去 #b",
+      " 點生命"
+    ]
+  },
+  "Combust": {
+    "NAME": "自燃",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，失去 #b",
+      " 點生命並對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Confusion": {
+    "NAME": "混亂",
+    "DESCRIPTIONS": [
+      "每1張抽到的牌，耗能都會隨機變化"
+    ]
+  },
+  "Conserve": {
+    "NAME": "保留",
+    "DESCRIPTIONS": [
+      "本回合結束時，將剩餘的 #y能量 留到下回合",
+      "接下來 #b",
+      " 個回合結束時，將剩餘的 #y能量 留到下回合"
+    ]
+  },
+  "Constricted": {
+    "NAME": "纏繞",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，受到 #b",
+      " 點傷害"
+    ]
+  },
+  "Corruption": {
+    "NAME": "腐化",
+    "DESCRIPTIONS": [
+      "技能牌耗能變為 #b0 。 所打出的 #y技能牌 都會 #y消耗 ",
+      "所打出的 #y技能牌 都會 #y消耗 "
+    ]
+  },
+  "Creative AI": {
+    "NAME": "創造性AI",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，增加 #b",
+      " 張隨機 能力牌 到手牌（不包括「自我修復」）",
+      " 張隨機 能力牌 到手牌（不包括「自我修復」）"
+    ]
+  },
+  "Curiosity": {
+    "NAME": "好奇",
+    "DESCRIPTIONS": [
+      "每打出1張 #y能力牌 ，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Curl Up": {
+    "NAME": "蜷身",
+    "DESCRIPTIONS": [
+      "當受到 #y攻擊 傷害時，蜷起身子並獲得 ",
+      " 點 #y格擋 （每場戰鬥1次）"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "跳舞人偶",
+    "DESCRIPTIONS": [
+      "每打出1張非技能牌，受到 #b",
+      " 點傷害（牌類型每回合改變）",
+      "每打出1張非攻擊牌，受到 #b",
+      "+1 跳舞人偶"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "黑暗之擁",
+    "DESCRIPTIONS": [
+      "每當有1張牌被 #y消耗 時，抽 #b1 張牌",
+      "每當有1張牌被 #y消耗 時，抽 #b",
+      " 張牌"
+    ]
+  },
+  "Demon Form": {
+    "NAME": "惡魔形態",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "DexLoss": {
+    "NAME": "敏捷下降",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，失去 #b",
+      " 點 #y敏捷 "
+    ]
+  },
+  "Dexterity": {
+    "NAME": "敏捷",
+    "DESCRIPTIONS": [
+      "從卡牌獲得的 #y格擋 增加 #b",
+      "從卡牌獲得的 #y格擋 減少 #b",
+      ""
+    ]
+  },
+  "Double Damage": {
+    "NAME": "雙倍傷害",
+    "DESCRIPTIONS": [
+      " #y攻擊 造成的傷害翻倍，生效 #b",
+      " 回合",
+      " 回合"
+    ]
+  },
+  "Double Tap": {
+    "NAME": "雙連擊",
+    "DESCRIPTIONS": [
+      "本回合打出的下1張 #y攻擊牌 會打出2次",
+      "本回合打出的下 ",
+      " 張 #y攻擊牌 會打出2次"
+    ]
+  },
+  "Draw": {
+    "NAME": "抽牌",
+    "DESCRIPTIONS": [
+      "#b",
+      " 張額外抽牌，在每個回合開始時",
+      " 張減少抽牌，在每個回合開始時",
+      " 張額外抽牌，在每個回合開始時",
+      " 張減少抽牌，在每個回合開始時"
+    ]
+  },
+  "Draw Card": {
+    "NAME": "抽牌",
+    "DESCRIPTIONS": [
+      "下回合抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Draw Down": {
+    "NAME": "抽牌減少",
+    "DESCRIPTIONS": [
+      "下回合少抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "抽牌變少",
+    "DESCRIPTIONS": [
+      "下回合少抽 #b1 張牌",
+      "下 #b",
+      " 回合少抽 #b1 張牌"
+    ]
+  },
+  "Echo Form": {
+    "NAME": "迴響形態",
+    "DESCRIPTIONS": [
+      "每回合打出的第1張牌會打出2次",
+      "每回合打出的前 #b",
+      " 張牌會打出2次"
+    ]
+  },
+  "Electro": {
+    "NAME": "電動力學",
+    "DESCRIPTIONS": [
+      "#y閃電 將擊中所有敵人",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "能量提升",
+    "DESCRIPTIONS": [
+      "下回合獲得額外 #b",
+      "  [G] ",
+      "  [G] ",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "纏身",
+    "DESCRIPTIONS": [
+      "你本回合不能打出 #y攻擊牌 "
+    ]
+  },
+  "Envenom": {
+    "NAME": "塗毒",
+    "DESCRIPTIONS": [
+      "每當你造成未被格擋的 #y攻擊 傷害，給予 #b",
+      " 層 #y中毒 "
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "均衡",
+    "DESCRIPTIONS": [
+      "保留本回合的手牌",
+      "保留接下來 #b",
+      " 回合的手牌"
+    ]
+  },
+  "Evolve": {
+    "NAME": "進化",
+    "DESCRIPTIONS": [
+      "每抽到1張 #y狀態 牌，抽1張牌",
+      "每抽到1張 #y狀態 牌，抽 #b",
+      " 張牌"
+    ]
+  },
+  "Explosive": {
+    "NAME": "爆炸",
+    "DESCRIPTIONS": [
+      "在 #b",
+      " 回合後，爆炸並造成 #b",
+      " 點傷害",
+      "在它的下個回合開始時，爆炸並造成 #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "額外牌數",
+    "DESCRIPTIONS": [
+      "下回合多抽 #b1 張牌",
+      "下回合多抽 #b",
+      " 張牌"
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "無懼疼痛",
+    "DESCRIPTIONS": [
+      "每有1張牌被 #y消耗 ，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "火焰吐息",
+    "DESCRIPTIONS": [
+      "每當抽到1張 #y狀態 或 #y詛咒 牌時，對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "火焰屏障",
+    "DESCRIPTIONS": [
+      "每次受到 #y攻擊 傷害時，造成 #b",
+      " 點反傷"
+    ]
+  },
+  "Flex": {
+    "NAME": "活動肌肉",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，失去 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Flight": {
+    "NAME": "飛行",
+    "DESCRIPTIONS": [
+      "將所受到的 #y攻擊 傷害降低 #b50% 。 若在一個回合內被 #y攻擊 傷害 #b",
+      " 次，就會取消"
+    ]
+  },
+  "Focus": {
+    "NAME": "集中",
+    "DESCRIPTIONS": [
+      "所有充能球的效果增加 #b",
+      "所有充能球的效果減少 #b",
+      " 點（電漿充能球不受影響）"
+    ]
+  },
+  "Frail": {
+    "NAME": "脆弱",
+    "DESCRIPTIONS": [
+      "在 #b",
+      " 個回合內，從卡牌中獲得的 #y格擋 減少 #b25% ",
+      " 個回合內，從卡牌中獲得的 #y格擋 減少 #b25% "
+    ]
+  },
+  "Gambit": {
+    "NAME": "佈局",
+    "DESCRIPTIONS": [
+      "在 #b",
+      " 回合後，獲得 ",
+      " 回合後，獲得 ",
+      " [B] "
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "在其回合結束時，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "萬物生長",
+    "DESCRIPTIONS": [
+      "在其回合結束時，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Heatsink": {
+    "NAME": "散熱",
+    "DESCRIPTIONS": [
+      "每打出1張能力牌，抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Hello": {
+    "NAME": "你好",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，增加 #b",
+      " 張隨機 普通 牌到手牌",
+      " 張隨機 普通 牌到手牌"
+    ]
+  },
+  "Hex": {
+    "NAME": "邪咒",
+    "DESCRIPTIONS": [
+      "每打出1張非攻擊牌，將 #b",
+      " 張 #y暈眩 洗入抽牌堆中"
+    ]
+  },
+  "Hide": {
+    "NAME": "躲藏",
+    "DESCRIPTIONS": [
+      "你在你的下個回合開始前不會受到傷害",
+      "你在 #b",
+      " 個回合內不會受到傷害"
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "無限刀刃",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，得到 #b",
+      " 張 #y小刀 ",
+      " 張 #y小刀 "
+    ]
+  },
+  "Intangible": {
+    "NAME": "無實體",
+    "DESCRIPTIONS": [
+      "本回合所有受到的傷害和生命減少效果降低為 #b1 。無實體將每隔1回合重新生效"
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "無實體",
+    "DESCRIPTIONS": [
+      "將所有受到的傷害和生命減少效果降低為 #b1 "
+    ]
+  },
+  "Inverted": {
+    "NAME": "倒轉",
+    "DESCRIPTIONS": [
+      "免疫傷害。每當你獲得 #y格擋 ，失去相應數量的生命"
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "勢不可當",
+    "DESCRIPTIONS": [
+      "每次獲得 #y格擋 時，對1名隨機敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Knowledge": {
+    "NAME": "知識",
+    "DESCRIPTIONS": [
+      "每打出1張 #y能力牌 ，抽 #b",
+      " 張牌"
+    ]
+  },
+  "Life Link": {
+    "NAME": "生命連結",
+    "DESCRIPTIONS": [
+      "若其他敵人還生存，將在 #b2 回合後以 #b50% 生命復活"
+    ]
+  },
+  "Lockon": {
+    "NAME": "跟蹤鎖定",
+    "DESCRIPTIONS": [
+      "從充能球受到的傷害增加 #b",
+      " ，持續 #b",
+      " 回合",
+      " 回合"
+    ]
+  },
+  "Loop": {
+    "NAME": "迴圈",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，使用最右側充能球的被動能力",
+      "在你的回合開始時，使用最右側充能球的被動能力 #b",
+      " 次"
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "機器學習",
+    "DESCRIPTIONS": [
+      "在每回合開始時額外抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Magnetism": {
+    "NAME": "磁力",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，增加 #b%s 張隨機無色牌到手牌",
+      "在你的回合開始時，增加 #b%s 張隨機無色牌到手牌"
+    ]
+  },
+  "Malleable": {
+    "NAME": "柔韌",
+    "DESCRIPTIONS": [
+      "受到 #y攻擊 時，獲得 #b",
+      " 點 #y格擋 。 ",
+      " 每觸發1次，獲得的 #y格擋 值都會增加。在你的回合開始時重新變回 #b",
+      " 點"
+    ]
+  },
+  "Metallicize": {
+    "NAME": "金屬化",
+    "DESCRIPTIONS": [
+      "在你的回合結束時獲得 #b",
+      " 點 #y格擋 ",
+      "在其回合結束時獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Minion": {
+    "NAME": "爪牙",
+    "DESCRIPTIONS": [
+      "爪牙會在他們的頭領死亡時放棄戰鬥"
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "形態轉換",
+    "DESCRIPTIONS": [
+      "受到 #b",
+      " 點傷害後，會變成防禦形態"
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "下回合格擋",
+    "DESCRIPTIONS": [
+      "在你的下回合開始時，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Night Terror": {
+    "NAME": "夜魘",
+    "DESCRIPTIONS": [
+      "在你的下回合開始時，增加 #b",
+      " 到手牌中"
+    ]
+  },
+  "No Attack": {
+    "NAME": "無法攻擊",
+    "DESCRIPTIONS": [
+      "本回合不能打出 #y攻擊牌 "
+    ]
+  },
+  "No Draw": {
+    "NAME": "無法抽牌",
+    "DESCRIPTIONS": [
+      "在回合結束前都無法再抽牌"
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "毒霧",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，給予所有敵人 #b",
+      " 層 #y中毒 "
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "無視攻擊",
+    "DESCRIPTIONS": [
+      "每回合徹底 #y格擋 1次 #y攻擊 "
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "疼痛戳刺",
+    "DESCRIPTIONS": [
+      "每當這個敵人對你造成傷害時，在你的棄牌堆裡增加1張 #y傷口 "
+    ]
+  },
+  "Panache": {
+    "NAME": "神氣制勝",
+    "DESCRIPTIONS": [
+      "本回合內再打出 #b",
+      " 張牌，就對所有敵人造成 #b",
+      " 點傷害",
+      " 張牌，就對所有敵人造成 #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "鋼筆尖",
+    "DESCRIPTIONS": [
+      "你的下1次 #y攻擊 造成雙倍傷害"
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "幻影",
+    "DESCRIPTIONS": [
+      "下回合造成 #y雙倍傷害 ",
+      "下 ",
+      " 個回合造成 #y雙倍傷害 "
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "多層護甲",
+    "DESCRIPTIONS": [
+      "在你的回合結束時獲得 #b",
+      " 點 #y格擋 。受到未被格擋的攻擊傷害時， #y多層護甲 的層數將會減少 #b1 ",
+      "在其回合結束時獲得 #b",
+      " 點 #y格擋 。受到未被格擋的攻擊傷害時， #y多層護甲 的層數將會減少 #b1 "
+    ]
+  },
+  "Poison": {
+    "NAME": "中毒",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，減少 #b",
+      " 點生命然後將 #y中毒 層數減少 #b1 ",
+      "在其回合開始時，減少 #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "預備",
+    "DESCRIPTIONS": [
+      "每 #y生成 1個充能球，抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Primitive": {
+    "NAME": "原始",
+    "DESCRIPTIONS": [
+      "每打出1張 普通 牌，抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Rage": {
+    "NAME": "憤怒",
+    "DESCRIPTIONS": [
+      "本回合每打出1張攻擊牌，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Rebound": {
+    "NAME": "彈回",
+    "DESCRIPTIONS": [
+      "本回合打出的下1張牌，將放到抽牌堆的頂部",
+      "本回合打出的下 #b",
+      " 張牌，將放到抽牌堆的頂部"
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "降低傷害",
+    "DESCRIPTIONS": [
+      "將受到的傷害減少 #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "再生",
+    "DESCRIPTIONS": [
+      "在其回合結束時回復 #b",
+      " 點 #y生命 "
+    ]
+  },
+  "Regeneration": {
+    "NAME": "再生",
+    "DESCRIPTIONS": [
+      "在你的回合結束時回復 #b",
+      " 點 #y生命 ，然後將 #y再生 層數減少 #b1 ",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "修理",
+    "DESCRIPTIONS": [
+      "在戰鬥結束時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Repulse": {
+    "NAME": "反衝",
+    "DESCRIPTIONS": [
+      "每當 ",
+      " 受到攻擊傷害，將1張 #y傷口 放入手牌"
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "保留卡牌",
+    "DESCRIPTIONS": [
+      "每回合結束時，可以保留 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "保留手牌",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，不丟棄手牌。效果持續 #b",
+      " 回合",
+      "在你的回合結束時，不丟棄手牌"
+    ]
+  },
+  "Riposte": {
+    "NAME": "回刺",
+    "DESCRIPTIONS": [
+      "每回合1次，當你打出 #y攻擊牌 時，對自己造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Ritual": {
+    "NAME": "儀式",
+    "DESCRIPTIONS": [
+      "在其回合結束時，獲得 #b",
+      " 點 #y力量 ",
+      "在你的回合結束時，獲得 #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "撕裂",
+    "DESCRIPTIONS": [
+      "當你從1張牌中失去生命時，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Sadistic": {
+    "NAME": "殘虐",
+    "DESCRIPTIONS": [
+      "當你對一名敵人造成負面效果時，對其造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Serpentine": {
+    "NAME": "蛇形",
+    "DESCRIPTIONS": [
+      "免疫 #y藥水 "
+    ]
+  },
+  "Shackled": {
+    "NAME": "鐐銬",
+    "DESCRIPTIONS": [
+      "在其回合結束時回復 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "鋒利外殼",
+    "DESCRIPTIONS": [
+      "每打出1張 #y攻擊牌 ，受到 #b",
+      " 點傷害"
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "深淵尖嘯",
+    "DESCRIPTIONS": [
+      "當打出1張 攻擊牌 ，丟棄1張隨機手牌"
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "技能燒燬",
+    "DESCRIPTIONS": [
+      "在 #b",
+      " 個回合內，所打出的 #y技能牌 都會 #y消耗 ",
+      "在 #b",
+      " 個回合內，所打出的 #y技能牌 都會 #y消耗 "
+    ]
+  },
+  "Slow": {
+    "NAME": "緩慢",
+    "DESCRIPTIONS": [
+      "你本回合每打出1張卡， ",
+      " 從 #y攻擊 受到的傷害增加 #b10% ",
+      " （受到 #b",
+      "% 額外傷害）"
+    ]
+  },
+  "Split": {
+    "NAME": "分裂",
+    "DESCRIPTIONS": [
+      "當生命值等於或低於 #b50% 時，將會分裂成 #b2 隻較小的史萊姆，每隻都擁有 ",
+      " 現在的生命值"
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "孢子雲",
+    "DESCRIPTIONS": [
+      "在死亡時，給予你 #b",
+      " 回合的 #y易傷 "
+    ]
+  },
+  "Stasis": {
+    "NAME": "凝滯",
+    "DESCRIPTIONS": [
+      "在死亡時， ",
+      " 會被放回手牌"
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "靜電釋放",
+    "DESCRIPTIONS": [
+      "每次受到 #y攻擊 傷害時， #y生成 #b",
+      " 個 #y閃電 充能球"
+    ]
+  },
+  "Storm": {
+    "NAME": "雷暴",
+    "DESCRIPTIONS": [
+      "每打出1張 #b能力牌 ， #y生成 #b ",
+      " 個 #y閃電 充能球"
+    ]
+  },
+  "Strength": {
+    "NAME": "力量",
+    "DESCRIPTIONS": [
+      "攻擊傷害提升 #b",
+      "攻擊傷害降低 #b",
+      ""
+    ]
+  },
+  "Thievery": {
+    "NAME": "偷竊",
+    "DESCRIPTIONS": [
+      " 在攻擊時會偷走 #b",
+      " #y金幣 "
+    ]
+  },
+  "Thorns": {
+    "NAME": "荊棘",
+    "DESCRIPTIONS": [
+      "每次受到 #y攻擊 傷害時，就造成 #b",
+      " 點反傷"
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "凌遲",
+    "DESCRIPTIONS": [
+      "每打出1張牌，都對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Time Warp": {
+    "NAME": "時間扭曲",
+    "DESCRIPTIONS": [
+      "每打出 #b",
+      " 張牌，你的回合會強制結束，並且時間吞噬者獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "必備工具",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，抽 #b",
+      " 張牌，丟棄 #b",
+      " 張牌",
+      " 張牌，丟棄 #b",
+      " 張牌"
+    ]
+  },
+  "Unawakened": {
+    "NAME": "未覺醒",
+    "DESCRIPTIONS": [
+      "這名敵人還沒有覺醒……"
+    ]
+  },
+  "Unstable": {
+    "NAME": "不穩",
+    "DESCRIPTIONS": [
+      "造成足夠傷害，可以讓其失去平衡"
+    ]
+  },
+  "Venomology": {
+    "NAME": "毒理研究",
+    "DESCRIPTIONS": [
+      " #y中毒 狀態不再每回合減少，而是每回合增加 #b",
+      " 層"
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "易傷",
+    "DESCRIPTIONS": [
+      "從 #y攻擊 受到的傷害增加 #b",
+      "% 。持續時間 #b",
+      " 回合",
+      " 回合"
+    ]
+  },
+  "Weakened": {
+    "NAME": "虛弱",
+    "DESCRIPTIONS": [
+      " #y攻擊 造成的傷害減少 #b",
+      "% 。持續時間 #b",
+      " 回合",
+      " 回合"
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "幽魂形態",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，失去 #b",
+      " 點 #y敏捷 "
+    ]
+  },
+  "Shifting": {
+    "NAME": "變化",
+    "DESCRIPTIONS": [
+      "每當 ",
+      " 受到傷害，它將在回合結束前失去相應點數的 #y力量 "
+    ]
+  },
+  "Fading": {
+    "NAME": "消逝",
+    "DESCRIPTIONS": [
+      "在 #b",
+      " 回合後死亡",
+      "在本回合死亡"
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "能量提升",
+    "DESCRIPTIONS": [
+      "下回合獲得額外 #b",
+      " [B] ",
+      " [B] ",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "時間迷宮",
+    "DESCRIPTIONS": [
+      "每當你打出 #b",
+      " 張牌，你的回合會強制結束"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "無法格擋",
+    "DESCRIPTIONS": [
+      "無法從卡牌中獲得 #y格擋 "
+    ]
+  },
+  "Mayhem": {
+    "NAME": "亂戰",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，打出抽牌堆頂部的牌",
+      "在你的回合開始時，打出抽牌堆頂部的 #b",
+      " 張牌"
+    ]
+  },
+  "TheBomb": {
+    "NAME": "炸彈",
+    "DESCRIPTIONS": [
+      "在 #b%1$s 回合結束後，對所有敵人造成 #b%2$s 傷害",
+      "在本回合結束時，對所有敵人造成 #b%1$s 傷害"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "屍爆術",
+    "DESCRIPTIONS": [
+      "當這名敵人死亡時，對所有敵人造成等於其最大生命值的傷害",
+      "當這名敵人死亡時，對所有敵人造成等於其最大生命值 #b",
+      " 倍的傷害"
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "死亡律動",
+    "DESCRIPTIONS": [
+      "每打出一張牌，受到 #b",
+      " 點傷害"
+    ]
+  },
+  "Invincible": {
+    "NAME": "堅不可摧",
+    "DESCRIPTIONS": [
+      "本回合內最多只會失去 #b",
+      " 生命",
+      "本回合內不會再受到傷害"
+    ]
+  },
+  "Compulsive": {
+    "NAME": "扭動",
+    "DESCRIPTIONS": [
+      "受到攻擊傷害時，改變自己的行動意圖"
+    ]
+  },
+  "Surrounded": {
+    "NAME": "夾擊",
+    "DESCRIPTIONS": [
+      "從後方受到的傷害增加 #b50% 。用可選定目標的牌和藥水可以改變面對的方向"
+    ]
+  },
+  "BackAttack": {
+    "NAME": "後方攻擊",
+    "DESCRIPTIONS": [
+      "因為攻擊從後方而來，造成的傷害增加 #b50%"
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "免費攻擊",
+    "DESCRIPTIONS": [
+      "打出下1張的 #y攻擊牌 無視耗能",
+      "打出下 #b",
+      " 張 #y攻擊牌 無視耗能"
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "複製",
+    "DESCRIPTIONS": [
+      "本回合下1張牌被打出2次。",
+      "本回合你的下 ",
+      " 張牌被打出2次"
+    ]
+  },
+  "NoSkills": {
+    "NAME": "禁用技能",
+    "DESCRIPTIONS": [
+      "本回合不能打出 #y技能牌 "
+    ]
+  },
+  "Mastery": {
+    "NAME": "精通",
+    "DESCRIPTIONS": [
+      "試圖將 姿態 轉換為當前的 姿態 時，獲得 #b",
+      " [B]"
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "操控現實",
+    "DESCRIPTIONS": [
+      "在戰鬥中臨時增加的牌將被 #y升級 ",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "確立基礎",
+    "DESCRIPTIONS": [
+      "每當有卡牌被 #y保留 時，將其耗能減少 #b",
+      ""
+    ]
+  },
+  "Controlled": {
+    "NAME": "心靈堡壘",
+    "DESCRIPTIONS": [
+      "轉換 #y姿態 時，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "歐米伽",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Nirvana": {
+    "NAME": "涅槃",
+    "DESCRIPTIONS": [
+      "你每次 預見 時，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "先見之明",
+    "DESCRIPTIONS": [
+      "在你的回合開始時， #y預見 ",
+      ""
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "戰歌",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，將 #b",
+      " 張 #y懲惡 加入手牌",
+      " 張 #y懲惡 加入手牌"
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "Mantra": {
+    "NAME": "真言",
+    "DESCRIPTIONS": [
+      "當獲得 #b",
+      " 層 #y真言 時，進入 #y神格 "
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "打擊提升",
+    "DESCRIPTIONS": [
+      "卡牌名中帶有 #y打擊 的牌額外造成 #b",
+      " 點傷害"
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "猛虎下山",
+    "DESCRIPTIONS": [
+      "進入 #y憤怒 時，抽 #b",
+      " 張牌",
+      " 張牌"
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "不能改變姿態",
+    "DESCRIPTIONS": [
+      "本回合不能改變姿態"
+    ]
+  },
+  "Vault": {
+    "NAME": "騰躍",
+    "DESCRIPTIONS": [
+      "在你的下回合開始時受到 #b",
+      " 點傷害"
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "格擋返還",
+    "DESCRIPTIONS": [
+      "每當被你攻擊時，你獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "HotHot": {
+    "NAME": "Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "天人",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，獲得 #b",
+      " 層 #y多層護甲 "
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Collect": {
+    "NAME": "收集",
+    "DESCRIPTIONS": [
+      "在下回合開始時，增加1張 #y奇蹟+ 到手牌",
+      "在接下來 #b",
+      " 個回合的回合開始時，增加1張 #y奇蹟+ 到手牌"
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "瀆神者",
+    "DESCRIPTIONS": [
+      "在你的回合開始時死亡"
+    ]
+  },
+  "Vigor": {
+    "NAME": "活力",
+    "DESCRIPTIONS": [
+      "你的下一次攻擊額外造成 #b",
+      " 點傷害"
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "虔信",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，獲得 #b",
+      " 層 #y真言 "
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "怒火中燒",
+    "DESCRIPTIONS": [
+      "在你的回合開始時進入 #y憤怒 "
+    ]
+  },
+  "DevaForm": {
+    "NAME": "天人",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，獲得 [W] ",
+      "在你的回合開始時，獲得 [W] #b",
+      " 次 ",
+      "，然後將次數增加 #b",
+      " ",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "通曉萬物",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "擺手",
+    "DESCRIPTIONS": [
+      "每次獲得 #y格擋 時，給予所有敵人 #b",
+      " 層 #y虛弱"
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "齋戒",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，失去 ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED 戒律",
+    "DESCRIPTIONS": [
+      "若你在回合結束時有未使用的 [W] ，則在下一回合額外抽相應張數的牌"
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED 輕彈",
+    "DESCRIPTIONS": [
+      "當這名敵人再被 #y輕彈 #b",
+      "2 次時，將受到 #b",
+      "1 次時，將受到 #b",
+      " 點傷害。"
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "印記",
+    "DESCRIPTIONS": [
+      "每當你打出 #y點穴 時，這名敵人失去 #b",
+      " 點生命"
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "如水",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，若你處於 #y平靜 ，則獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Study": {
+    "NAME": "研習",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，在抽牌堆中加入 #b",
+      " 張 #y洞見 ",
+      " 張 #y洞見 "
+    ]
+  }
+}

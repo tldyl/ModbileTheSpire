@@ -1,0 +1,142 @@
+{
+    "Ironclad": {
+        "NAMES": [
+            "WWW WWWWWWWW"
+        ],
+        "TEXT": [
+            "WWW WWWWWWWWW WWWWWWW WW WWW WWWWWWWWW. WW WWWW WWW WWWW WW WWWWWWW WWWWWWW WWWWWWWW."
+        ]
+    },
+    "Crowbot": {
+        "NAMES": [
+            "WWWWWWW"
+        ],
+        "TEXT": [
+            "WWWW WWWW"
+        ]
+    },
+    "Silent": {
+        "NAMES": [
+            "WWW WWWWWW"
+        ],
+        "TEXT": [
+            "W WWWWWW WWWWWWWW WWWW WWW WWWWWWWW. WW WWWWWWWWWW WWWW WWWW WWWWWWW WWW WWWWWWW."
+        ]
+    },
+    "Neow Event": {
+        "NAMES": [
+            "WWWW"
+        ],
+        "TEXT": [
+            "~WWWWWWWWW...~ WW ~W..~ ~WW~ ~WWWW...~",
+            "~WWWWW...~ WW ~WWWWW..~",
+            "~WWWWWWWWW...~",
+            "~WWWWWWW~ WW ~WWW...?~",
+            "~WWWWW~ ~WWW~ ~WWWW...~ WW ~WW~ ~WWWWWWW~ ~WW..~ ~WWWWWWWW...~",
+            "~WW~ ~WWWWW...~ ~WWWWWWWW~ WW ~WWW~ ~WWWWW~ ~WWWW...~",
+            "~W~ ~WWWWWWW~ ~WWW~ ~WWWW...~",
+            "~WWWWWW...~",
+            "~WWWWWWW...~",
+            "~WWWW...~ WW ~..WWWWWW....~"
+        ],
+        "OPTIONS": [
+            "[WWWWWWWW]",
+            "[WWWW]",
+            "[WWWW]",
+            "[WWWWW]"
+        ]
+    },
+    "Neow Reward": {
+        "NAMES": [],
+        "TEXT": [
+            "[ #WWWWWWW #WW #WWWWW #WWW #WWWWWWW ]",
+            "[ #WWWWWWW #WW #WWWWWWW #WWWWW #WWWWW ]",
+            "[ #WWWWWWW #WW #WWWWW #WWWWW #WWWWW #WWWWW ]",
+            "[ #WWWWWWWW #WW #WWWWW ]",
+            "[ #WWWWWWWWWW #WW #WWWWW ]",
+            "[ #WWWWWWW #WW #WWWWWWWW ]",
+            "[ #WWWWWWWW #WW #WWWWWWW #WWWWWWW #WWWWWW ]",
+            "[ #WWWW #WWW #W+",
+            "[ #WWWWWWW #W",
+            " #WWWWW ]",
+            "#WWWWWWW #WW #WWWWWW ]",
+            "#WWWWWWW #WW #WWWWW #WWWWWW ]",
+            "#WWWWWWW #WW #WWWWW #WWWWW ]",
+            "#WWWWW #W",
+            " #WWWWW ]",
+            "#WWWWWWWWWW #WW #WWWWWW ]",
+            "#WWWW #WWW #W+",
+            "[ #WWWWW #W",
+            " #WWWW #WWW. ",
+            "[ #WWWWW #WWWW #WWWWW. ",
+            "[ #WWWWWWW #WW #WWWWWW. ",
+            "[ #WWWWW #WWW% #WWW #WWWWW #WWWWWWWW #WWW. ",
+            "WWWWWW W WWWW",
+            "WWWWWW W WWWW WW WWWWWW",
+            "WWWWWW W WWWWW WW WWWWWW",
+            "WWWWWW W WWWW WW WWWWWWWWW",
+            "WWWWWW W WWWWW WW WWWWWWWWW",
+            "WWWWWW W WWWW WW WWWWWWW"
+        ]
+    },
+    "Merchant": {
+        "NAMES": [
+            "WWWWWWW",
+            "~WWWWWWW!~"
+        ],
+        "TEXT": [
+            "WW! WW WWW WWWWWWWWW! WW WWW WWW WWW!",
+            "W WWWW WWWW WWWWWWW",
+            "WW WWW WWWW WWW WWWW?",
+            "WWW WWW W WWW WWWWWW WW W WWW WWWWWW?",
+            "WWW WWWW ~WWWWWWWWWW~ WW WWWW...",
+            "WWWW WWWW WWWW... WW ..... WW ... WW WWW",
+            "WW WWW WWWW WWWW WWW? WW WW'W WWW WWW WWWW",
+            "WWWWWWW WWWWW WWWWWWWW!",
+            "WWWWW WWW WWWWW W WWWWW WWWW!",
+            "WWW... WW ...WWW... WW WW!",
+            "WWWW WWWWWW WWW WWWWWW!",
+            "WW'W WWWWWWWWW WW WW WWWWW! WWWW WW WWW WWWW WWWW!",
+            "WWW WWWWWWWW'",
+            "~*WWWW*~",
+            "W WWWW WWWW.",
+            "WW WWWWWWWW WWWWW WW WWWW. WW WWW WWWW WWW?"
+        ]
+    },
+    "Shop Screen": {
+        "NAMES": [
+            "~WWWWWWW~ WW ~WWWWWWW!~",
+            "WWW WWWW WW WWW WWWW WW WWWW #WWWWW.",
+            "WWW WWWWWW WWW WWW WW #WWWWWW!",
+            "WWW WWWWW?",
+            "WWW WWW'W WWW WWWWWW #WWWWW.",
+            "WWW WWW'W WWWWWW WWWW.",
+            "WWWW WWW'W W WWWWWWW.",
+            "~WWWWWWWWW~",
+            "WWWWWWW WWWW... WW WWWWWW! WW WWW - @WWWWW!@",
+            "@WWWW!@",
+            "WW WWWWWWW.",
+            "WWWW W WWWW WWW.",
+            "WWWWW",
+            "WWWWWW W WWWW WW WWWWWW WWWW WWWW WWWW."
+        ],
+        "TEXT": [
+            "WW! WW WWW WWWWWWWWW! WW WWW WWW WWW!",
+            "W WWWW WWWW WWWWWWW",
+            "WW WWW WWWW WWW WWWW?",
+            "WWW WWW W WWW WWWWWW WW W WWW WWWWWW?",
+            "WWW WWWW ~WWWWWWWWWW~ WW WWWW...",
+            "WWWW WWWW WWWW... WW ..... WW ... WW WWW",
+            "WW WWW WWWW WWWW WWW? WW WW'W WWW WWW WWWW",
+            "WWWWWWW WWWWW WWWWWWWW!",
+            "WWWWW WWW WWWWW W WWWWW WWWW!",
+            "WWWW WWW WWWW WW WWWWWWW?",
+            "WWWW WWWWWW WWW WWWWWW!",
+            "WW'W WWWWWWWWW WW WW WWWWW! WWWW WW WWW WWWW WWWW!",
+            "WWW WWWWWWWW'",
+            "~*WWWW*~",
+            "W WWWW WWWW.",
+            "WW WWWWWWWW WWWWW WW WWWW. WW WWW WWWW WWW?"
+        ]
+    }
+}

@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "人工製品"
+      ],
+      "DESCRIPTION": "免疫下一次受到的負面效果"
+    },
+    "BLOCK": {
+      "NAMES": [
+        "格擋",
+        "blocks"
+      ],
+      "DESCRIPTION": "持續到下回合開始前，阻擋傷害"
+    },
+    "BURN": {
+      "NAMES": [
+        "灼傷",
+        "burns"
+      ],
+      "DESCRIPTION": "灼傷是 無法打出 的狀態牌，並會對你造成傷害"
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "生成",
+        "生成的"
+      ],
+      "DESCRIPTION": "生成的充能球將出現在最右側起的第一個空欄位。當沒有空欄位時，第一個充能球將自動被 激發 來空出位置"
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "混亂"
+      ],
+      "DESCRIPTION": "所抽到每一張牌，其耗都會隨機變化"
+    },
+    "CURSE": {
+      "NAMES": [
+        "詛咒"
+      ],
+      "DESCRIPTION": "詛咒牌是留在牌組中的負面牌"
+    },
+    "DARK": {
+      "NAMES": [
+        "黑暗",
+        "黑暗+"
+      ],
+      "DESCRIPTION": "充能球：每回合增加傷害。 #y激發 時，對生命值最少的敵人造成傷害"
+    },
+    "DAZED": {
+      "NAMES": [
+        "暈眩"
+      ],
+      "DESCRIPTION": "暈眩是 無法打出 的 虛無 狀態牌"
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "敏捷"
+      ],
+      "DESCRIPTION": "敏捷增加你從牌中獲得的格擋值"
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "虛無"
+      ],
+      "DESCRIPTION": "若這張牌在回合結束時仍然在手中，它將被消耗。被消耗的牌將在戰鬥結束前被移除出牌組"
+    },
+    "EVOKE": {
+      "NAMES": [
+        "激發",
+        "激發"
+      ],
+      "DESCRIPTION": "消耗掉最右側的充能球，使用其 激發 效果"
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "消耗",
+        "exhausted",
+        "exhausts"
+      ],
+      "DESCRIPTION": "在戰鬥結束前被移除出牌組"
+    },
+    "FOCUS": {
+      "NAMES": [
+        "集中"
+      ],
+      "DESCRIPTION": "集中 會加強 充能球 的效果"
+    },
+    "FRAIL": {
+      "NAMES": [
+        "脆弱"
+      ],
+      "DESCRIPTION": "處於脆弱狀態時，從卡牌中獲得的 #y格擋 減少 #b25%"
+    },
+    "FROST": {
+      "NAMES": [
+        "冰霜",
+        "冰霜+"
+      ],
+      "DESCRIPTION": "充能球：獲得 #y格擋"
+    },
+    "INNATE": {
+      "NAMES": [
+        "固有"
+      ],
+      "DESCRIPTION": "在每場戰鬥開始時，這張牌會出現在手牌中"
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "無實體"
+      ],
+      "DESCRIPTION": "將所有受到的傷害和生命減少效果降低為 #b1"
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "閃電",
+        "閃電+"
+      ],
+      "DESCRIPTION": "充能球：對隨機敵人造成傷害"
+    },
+    "LOCKED": {
+      "NAMES": [
+        "鎖定"
+      ],
+      "DESCRIPTION": "這張牌還未解鎖"
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "電漿",
+        "電漿+"
+      ],
+      "DESCRIPTION": "充能球：獲得 能量"
+    },
+    "POISON": {
+      "NAMES": [
+        "中毒",
+        "poisoned"
+      ],
+      "DESCRIPTION": "中毒的生物會在他們的回合開始時失去相應的生命。中毒層數每回合下降 #b1"
+    },
+    "RETAIN": {
+      "NAMES": [
+        "保留",
+        "retains",
+        "retained"
+      ],
+      "DESCRIPTION": "保留的牌不會在回合結束時被放入棄牌堆"
+    },
+    "SHIV": {
+      "NAMES": [
+        "小刀",
+        "shivs"
+      ],
+      "DESCRIPTION": "小刀是會消耗的 #b0 耗能攻擊牌"
+    },
+    "STATUS": {
+      "NAMES": [
+        "狀態"
+      ],
+      "DESCRIPTION": "狀態牌在戰鬥結束時會被移除"
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "力量"
+      ],
+      "DESCRIPTION": "力量會讓攻擊獲得額外的傷害"
+    },
+    "STRIKE": {
+      "NAMES": [
+        "打擊"
+      ],
+      "DESCRIPTION": "所有名字中包括「打擊」的牌"
+    },
+    "TEXT": [
+      "需要能量來打出手牌"
+    ],
+    "THORNS": {
+      "NAMES": [
+        "荊棘"
+      ],
+      "DESCRIPTION": "受到 #y攻擊 傷害時，對攻擊者造成傷害"
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "這張牌還沒做完，呃，會出現在這裡還真是需要修復一下……"
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "變化"
+      ],
+      "DESCRIPTION": "被變化的牌會變成隨機稀有度的隨機牌"
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "未知"
+      ],
+      "DESCRIPTION": "這張牌還沒有遇到過"
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "無法打出"
+      ],
+      "DESCRIPTION": "無法打出的牌不能從手牌中打出"
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "升級",
+        "已升級"
+      ],
+      "DESCRIPTION": "升級卡牌會讓它們變得更加強大。卡牌只能升級一次"
+    },
+    "VOID": {
+      "NAMES": [
+        "虛空",
+        "虛空"
+      ],
+      "DESCRIPTION": "虛空是 無法打出 的 虛無 狀態牌，在被抽到時會消耗能量"
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "易傷"
+      ],
+      "DESCRIPTION": "有易傷效果的生物從攻擊中受到的傷害增加 #b50%"
+    },
+    "WEAK": {
+      "NAMES": [
+        "虛弱",
+        "weaken",
+        "weakened",
+        "weakens"
+      ],
+      "DESCRIPTION": "有虛弱效果的生物用攻擊造成的傷害減少 #b25%"
+    },
+    "WOUND": {
+      "NAMES": [
+        "傷口",
+        "wounds"
+      ],
+      "DESCRIPTION": "傷口是 無法打出 的狀態牌"
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "跟蹤鎖定"
+      ],
+      "DESCRIPTION": "被跟蹤鎖定的目標從充能球受到的傷害增加 #b50%"
+    },
+    "STANCE": {
+      "NAMES": [
+        "姿態",
+        "stances"
+      ],
+      "DESCRIPTION": "同一時間只能處於一種姿態"
+    },
+    "WRATH": {
+      "NAMES": [
+        "憤怒"
+      ],
+      "DESCRIPTION": "在此 #y姿態 中，造成和受到雙倍攻擊傷害"
+    },
+    "CALM": {
+      "NAMES": [
+        "平靜"
+      ],
+      "DESCRIPTION": "離開此 #y姿態 時，獲得 [W] [W] "
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "神格"
+      ],
+      "DESCRIPTION": "進入此 #y姿態 時，獲得 [W] [W] [W] 。攻擊造成三倍傷害。在下回合開始時自動離開此 #y姿態 "
+    },
+    "PRAYER": {
+      "NAMES": [
+        "真言",
+        "through violence"
+      ],
+      "DESCRIPTION": "當獲得 #b10 層 #y真言 時，進入 #y神格 "
+    },
+    "SCRY": {
+      "NAMES": [
+        "預見"
+      ],
+      "DESCRIPTION": "檢視抽牌堆頂部的X張牌。可以丟棄其中任意數量的牌"
+    },
+    "REGEN": {
+      "NAMES": [
+        "再生"
+      ],
+      "DESCRIPTION": "在回合結束時回復相應的生命值。再生每回合減少 #b1 "
+    },
+    "VIGOR": {
+      "NAMES": [
+        "活力"
+      ],
+      "DESCRIPTION": "下一次攻擊造成額外傷害"
+    },
+    "RITUAL": {
+      "NAMES": [
+        "儀式"
+      ],
+      "DESCRIPTION": "在你的回合結束時，獲得相應點數的 #y力量 "
+    },
+    "FATAL": {
+      "NAMES": [
+        "斬殺"
+      ],
+      "DESCRIPTION": "當用卡牌殺死1名不是「爪牙」的敵人時，觸發該效果"
+    }
+  }
+}

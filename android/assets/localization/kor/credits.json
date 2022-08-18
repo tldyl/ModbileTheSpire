@@ -1,0 +1,409 @@
+{
+  "ANIMATION": {
+    "HEADER": "캐릭터 애니메이션",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "개발 & 디자인",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "광고 & 배경 일러스트",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "카케하시 게임즈",
+    "NAMES": [
+      "Kakehashi Games (공식 번역):",
+      "일본 퍼블리싱 지원:  Kakehashi Games",
+      "일본어 현지화:  Rie Ihara"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "추가 번역",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "카탈로니아어 번역",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "독일어 번역",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "네덜란드어 번역",
+    "NAMES": [
+      "그렘린 리더:",
+      "Jelle Steinmann \"NotADitto\"",
+      "그렘린 수하:",
+      "Charlie \"Alcus\" Ye",
+      "그렘린들:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "에스페란토어 번역",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "프랑스어 번역",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Bartoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Boby \"Tagada\" Vurpillot",
+      "Corentin \"Tchus\" Monfort",
+      "Nicky \"Qazahar\" Dehout",
+      "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "프랑스어 번역",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "인도네시아어 번역",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "이탈리아어 번역",
+    "NAMES": [
+      "Hob",
+      "Mero Marco",
+      "Luigi Squarzina",
+      "플레이 테스팅:",
+      "Mattylink Heropon"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "일본어 번역",
+    "NAMES": [
+      "Grezzz (커뮤니티 번역)",
+      "Kakehashi Games (공식 번역)"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "한국어 번역",
+    "NAMES": [
+      "번역 및 총괄:",
+      "에테리니",
+      "물꼬기",
+      "계략",
+      "번역:",
+      "심심한코딩",
+      "깨구리",
+      "insight",
+      "콘치킨집",
+      "히나",
+      "베칸",
+      "글꼴:",
+      "게임 내: 경기도에서 제공한 경기천년(바탕)",
+      "상점 이미지: 네이버에서 제공한 나눔바른펜, 나눔손글씨"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "노르웨이어 번역",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "폴란드어 번역",
+    "NAMES": [
+      "번역 및 조정:",
+      "Stanisław \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Additional Translations:",
+      "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
+      "Foreigner",
+      "교정:",
+      "Oskar \"volf3n\" Nowak",
+      "제안 및 피드백:",
+      "Kasper \"Awokado\" Berc",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafał \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "브라질 포르투갈어 번역",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "러시아어 번역",
+    "NAMES": [
+      "번역:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "추가 번역:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "상점 이미지 번역:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "스페인어 번역",
+    "NAMES": [
+      "번역 및 조정:",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "번역:",
+      "Erick Marroquin",
+      "Accord",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Pedro J. \"PJJLegend\" Jiménez Moyano",
+      "Rodrigo \"skylex\" Zabattaro",
+      "Alberto \"RadeonThe1st\" Botana",
+      "Spooktacular",
+      "문법 교정 및 기타:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer",
+      "Summer",
+      "Eipic"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "세르비아어 번역",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "태국어 번역",
+    "NAMES": [
+      "번역 및 조정:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "추가 번역:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "글꼴:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "터키어 번역",
+    "NAMES": [
+      "번역 및 조정:",
+      "Ertürk Yılmaz",
+      "번역:",
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "우크라이나어 번역",
+    "NAMES": [
+      "번역 및 조정:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "교정 및 번역:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi",
+      "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "베트남어 번역",
+    "NAMES": [
+      "번역 용병 현지화 팀",
+      "번역:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordination and Linguistic Lead:",
+      "Hoang Son Do",
+      "Special Thanks:",
+      "Azy Tazer"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "중국어 (간체) 번역",
+    "NAMES": [
+      "Sound of Mystery",
+      "IrisRaphael"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "중국어 (번체) 번역",
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
+  },
+  "OPS": {
+    "HEADER": "유지 & 조정",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "콘솔 및 모바일 이식",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "카드 일러스트 & 이벤트 일러스트",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "험블 번들",
+    "NAMES": [
+      "총괄 매니저:  Alan Patmore",
+      "최고 브랜드담당자:  Steven Kovensky",
+      "경영개발 부팀장:  Eduardo Aparicio",
+      "퍼블리싱 매니저:  John Polson",
+      "퍼블리싱 출시: Evan Koepf",
+      "퍼블리싱 브랜드 매니저:  Connor Bridgeman",
+      "경영개발 감독, 퍼블리싱:  Mai Kawaguchi",
+      "선임 경영개발자:  Thomas Glenn",
+      "선임 경영개발자:  Bob Mills",
+      "경영개발자:  Trisha Tabor",
+      "경영개발자:  Angel Lyons-Labate",
+      "시장 감독:  Paul Herron",
+      "재정 감독:  Eric Samuel",
+      "제품 부팀장:  Nate Muller",
+      "마케팅 감독:  Jeremie Vella",
+      "마케팅 매니저:  Whitney Stutes",
+      "마케팅 성장 매니저:  Francois du Toit",
+      "닌자 지원팀(Ninja Support):  Jimmy Chi",
+      "닌자 지원팀:  Kasey Brounkowski",
+      "닌자 지원팀:  Kayla Fyfe",
+      "닌자 지원팀:  Patrick Monahan"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "음악 & 효과음",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "특별 감사",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
+    ]
+  },
+  "TEST": {
+    "HEADER": "플레이 테스트",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jade Wesley",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson",
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...그리고 플레이해 주신 여러분입니다!",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "성우 연기",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  }
+}

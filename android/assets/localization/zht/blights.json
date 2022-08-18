@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "荒疫之矛",
+    "DESCRIPTION": [
+      "敵人造成 #b",
+      "% 額外傷害"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "荒疫之盾",
+    "DESCRIPTION": [
+      "敵人擁有 #b",
+      "% 額外生命"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "時間迷宮",
+    "DESCRIPTION": [
+      "你每回合不能打出多於 #b",
+      " 張牌",
+      "我只能打出 NL #r"
+    ]
+  },
+  "Accursed": {
+    "NAME": "惡咒附身",
+    "DESCRIPTION": [
+      "每打敗一名首領，獲得 #b",
+      " 張隨機 #y詛咒牌",
+      "惡咒附身！"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "心智扭曲",
+    "DESCRIPTION": [
+      "你的每回合結束時，將 #b",
+      " 張隨機 #y狀態牌 放置到你的抽牌堆頂端",
+      "轉化!"
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "胡思亂想",
+    "DESCRIPTION": [
+      "每回合抽牌減少 #b",
+      " 張",
+      "走神！"
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "遍地寶箱怪",
+    "DESCRIPTION": [
+      "之後階段中的寶箱房將被替換為精英敵人。精英敵人不再掉落遺物"
+    ]
+  },
+  "FullBelly": {
+    "NAME": "嘴套",
+    "DESCRIPTION": [
+      "你無法再增加最大生命值。所有回復效果減半"
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "可怖獎盃",
+    "DESCRIPTION": [
+      "拾起時，獲得 #b",
+      " 張 #r傲慢",
+      "你的傲慢，如此扭曲……"
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "疫後榴槤",
+    "DESCRIPTION": [
+      "失去 #b",
+      "% 最大生命"
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "虛無結晶",
+    "DESCRIPTION": [
+      "在每回合開始時失去 #b",
+      " 點 [E]"
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "陰魂不散",
+    "DESCRIPTION": [
+      "所有敵人初始擁有 #b",
+      " 層 #y無實體"
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "先古強化",
+    "DESCRIPTION": [
+      "所有敵人初始擁有 #b",
+      " 層 #y人工製品 ， #b",
+      " 層 #y多層護甲 ，和 #b",
+      " 層 #y再生"
+    ]
+  }
+}

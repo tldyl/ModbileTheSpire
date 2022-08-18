@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Inimigos Mortais",
+    "DESCRIPTION": [
+      "Inimigos infligem #b",
+      "% mais dano."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Inimigos Resistentes",
+    "DESCRIPTION": [
+      "Inimigos têm #b",
+      "% mais PV."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labirinto do Tempo",
+    "DESCRIPTION": [
+      "Inimigos têm o Poder Labirinto do Tempo.",
+      " cartas por turno.",
+      "Eu posso jogar apenas até NL #r"
+    ]
+  },
+  "Accursed": {
+    "NAME": "Amaldiçoado",
+    "DESCRIPTION": [
+      "Ao coletar, obtenha #b",
+      " #yMaldições aleatórias.",
+      "Amaldiçoado!"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Mente Distorcida",
+    "DESCRIPTION": [
+      "Ao coletar, #yTransforme #b",
+      " cartas.",
+      "Transformação!"
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Cabeça de vento",
+    "DESCRIPTION": [
+      "Ao coletar, obtenha #b",
+      " cartas aleatórias.",
+      "Distraído!"
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestação mímica",
+    "DESCRIPTION": [
+      "Salas do Tesouro em atos futuros são substituídos por Elites."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Barriga Cheia",
+    "DESCRIPTION": [
+      "Voce não pode mais aumentar seu PV máximo. Todas as curas reduzidas à metade."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Troféu Grotesco",
+    "DESCRIPTION": [
+      "Ao coletar, obtenha #b",
+      " #rOrgulhos.",
+      "Seu Orgulho é distorcido..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Durian murcho",
+    "DESCRIPTION": [
+      "Perca #b",
+      "% do seu PV Máximo."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Essência do Vazio",
+    "DESCRIPTION": [
+      "Ganhe #b",
+      " a menos [E] no começo de cada turno."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Agarramento das Sombras",
+    "DESCRIPTION": [
+      "Inimigos começam o combate com #b",
+      " #yIntangível."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Renascimento Metálico",
+    "DESCRIPTION": [
+      "Inimigos começam com #b",
+      " #yArtefato, #b",
+      " #yArmadura #yChapeada, and #b",
+      " #yRegeneração."
+    ]
+  }
+}

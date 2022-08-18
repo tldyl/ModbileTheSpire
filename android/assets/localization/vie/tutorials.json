@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Nếu chồng bài bốc trống không, chồng bài bỏ được tráo lại vào chồng bài gốc. NL NL Nhấn vào để xem bài trong chồng bài bỏ của bạn.",
+      "Nếu chồng bài bốc trống không, chồng bài bỏ được tráo lại vào chồng bài gốc. NL NL Xem bài trong chồng bài bỏ của bạn."
+    ],
+    "LABEL": [
+      "Chồng bài bỏ"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Khi bắt đầu mỗi lượt, NL #b",
+      " bài được rút ra từ đây. NL NL Nhấn vào để xem bài trong chồng bài bốc của bạn (đã tráo).",
+      " bài được rút ra từ đây. NL NL Nhấn vào để xem bài trong chồng bài bốc của bạn.",
+      " bài được rút ra từ đây. NL NL Xem bài trong chồng bài bốc của bạn (đã tráo).",
+      " bài được rút ra từ đây. NL NL Xem bài trong chồng bài bốc của bạn."
+    ],
+    "LABEL": [
+      "Chồng bài bốc"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Nhấn nút này sẽ kết thúc lượt của bạn. NL NL Bạn sẽ bỏ bài trên tay, rồi đến lượt quân địch, bạn sẽ rút ",
+      " bài, sau đó lại đến lượt của bạn."
+    ],
+    "LABEL": [
+      "Kết thúc lượt"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Số năng lượng hiện tại của bạn. Chơi bài cần có năng lượng."
+    ],
+    "LABEL": [
+      "Năng lượng"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Để chơi bài cần có năng lượng! NL Viên ngọc ở góc dưới bên trái hiển thị lượt này bạn còn bao nhiêu năng lượng."
+    ],
+    "LABEL": [
+      "Giá năng lượng"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Nhấn vào để xem bài đã đốt trong trận đấu này.",
+      "Xem các lá bài Đã đốt trong trận này."
+    ],
+    "LABEL": [
+      "Bài đã đốt"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Gợi ý: ",
+      "Hiểu rồi"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Tiêu diệt quân địch bằng cách chơi bài trong tay bạn! NL NL Bài cần có #yNăng #ylượng mới chơi được. NL Một khi bạn hết năng lượng, hãy kết thúc lượt. NL NL Khi bắt đầu lượt của bạn, bài mới sẽ được rút và #yNăng #ylượng sẽ được phục hồi.",
+      "Hãy chơi những lá bài phòng thủ để nhận thêm #yGiáp khi quân địch định tấn công bạn. NL NL #yGiáp sẽ giảm sát thương tấn công nhưng sẽ NL #rhết #rtác #rdụng vào lượt tiếp theo của bạn.",
+      "Trong lượt của bạn, bạn có thể quan sát #yÝ #yđịnh của quân địch trên đầu chúng. NL NL Nếu địch có ý định tấn công bạn, hãy nhớ thêm #yGiáp!"
+    ],
+    "LABEL": [
+      "Tiếp theo",
+      "Tôi đã sẵn sàng!",
+      "Hướng dẫn",
+      "(Trang ",
+      " trên 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Dữ liệu trò chơi và lịch sử lỗi được gửi cho Mega Crit nhằm mục đích cân bằng trò chơi. NL NL Thông tin cá nhân KHÔNG ĐƯỢC thu thập.",
+      "Slay the Spire chạy nhanh nhất trong chế độ toàn màn hình thật. Khuyến khích cho macOS vì Dock và thanh Menu sẽ bị ẩn. NL LƯU Ý:  Trên PC, alt-tab trở lại cửa sổ Slay the Spire có thể không hoạt động trong chế độ toàn màn hình.",
+      "Vì Slay the Spire không yêu cầu cấu hình mạnh, chúng tôi khuyến khích chế độ toàn màn hình không viền để alt-tab nhanh. Hiệu quả nhất trên PC.",
+      "Lưu ý: Nếu VSync bật, tốc độ khung hình tối đa không thể vượt tần số làm tươi màu màn hình của bạn.",
+      "Hỗ trợ tay cầm chưa hoàn chỉnh đối với màn hình này.",
+      "Changes which monitor is utilized when Fullscreen."
+    ],
+    "LABEL": [
+      "Tiêu chuẩn",
+      "Toàn màn hình",
+      "Toàn màn hình không viền",
+      "Tốc độ khung hình tối đa",
+      "Fullscreen Monitor"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Lá bài này khi sử dụng sẽ áp dụng Năng lực cho bạn. NL Năng lực là những khả năng nội tại kéo dài suốt trận đấu.",
+      "Để chơi bài cần có năng lượng! NL Viên ngọc ở góc dưới bên trái hiển thị lượt này bạn còn bao nhiêu năng lượng.",
+      "Mình #rđầy #rtay #rrồi!",
+      "Đã đạt số lượng Ngọc #rTối #rđa.",
+      "Mình không có ô Ngọc nào."
+    ],
+    "LABEL": [
+      "Bài Năng lực",
+      "Giá năng lượng"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Ném bình dược này vào kẻ địch.",
+      "Uống bình dược này.",
+      "Loại bỏ bình dược này NL #r(không #rthể #rhoàn tác)"
+    ],
+    "LABEL": [
+      "Ném",
+      "Uống",
+      "Bỏ bài"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Hãy uống hoặc ném bình dược khi chiến đấu! NL Bình dược sẽ không mất khi sang phòng khác."
+    ],
+    "LABEL": [
+      "Bình dược"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Tham gia cùng người chơi khác để khám phá những chiến thuật mới và hiệu quả.",
+      "Luôn luôn có khu nghỉ ngơi trước trùm.",
+      "Hãy tiêu tiền ở cửa hàng! (Tiền bo đã có Thương gia lo)",
+      "Đôi khi hãy nghỉ ngơi một chút.",
+      "Tính toán theo phần trăm luôn luôn được làm tròn xuống.",
+      "Khi chiến đấu, bạn có thể xem cụ thể bên trong chồng bài rút và chồng bài bỏ.",
+      "Không có giới hạn cổ vật mà bạn được mang.",
+      "Rương sẽ luôn luôn có cổ vật.",
+      "Mỗi đường bạn đi sẽ luôn có ít nhất 1 phòng kho báu.",
+      "Tinh quái sẽ luôn rơi ra cổ vật.",
+      "Bạn sẽ không bao giờ thấy một cổ vật hai lần trong hành trình.",
+      "Bài không thông dụng có khung và biểu ngữ xanh lam.",
+      "Bài hiếm có khung và biểu ngữ vàng.",
+      "Độ hiếm của một lá bài hiển thị rõ ràng trên lá bài đó.",
+      "Thêm bài vào bộ không hẳn lúc nào cũng là ý hay.",
+      "Những lá bài bị đốt khi chiến đấu không bị hủy khỏi bộ bài của bạn.",
+      "Bạn chỉ có thể cầm tối đa 10 lá bài trên tay.",
+      "Lá bài trạng thái hết tác dụng khi kết thúc trận đấu.",
+      "Không thể nâng cấp bài Nguyền. Làm thế làm gì?",
+      "Bài đã nâng cấp có thể xuất hiện trong phần thưởng sau Hồi 1.",
+      "Những phòng không xác định có thể có kho báu, quái vật, cửa hàng, hoặc sự kiện.",
+      "Thương gia sẽ không hoàn tiền. Ông ta thật ngớ ngẩn.",
+      "Dịch vụ hủy bài tăng giá sau mỗi lần bạn sử dụng.",
+      "Dịch vụ hủy bài chỉ có thể sử dụng một lần tại mỗi cửa hàng.",
+      "Sát thương từ bình dược, cổ vật, và năng lực không tính là sát thương tấn công.",
+      "Các hiệu ứng sản sinh ra bài ngẫu nhiên khi chiến đấu sẽ không bao giờ hồi máu cho bạn."
+    ],
+    "LABEL": [
+      "Bạn có thể loại bỏ bình dược này để nhặt bình khác."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Bạn có thể ấn chuột phải vào bài trên màn hình phần thưởng bài để xem thêm thông tin.",
+      "Có thể tiết lộ các thông tin hữu ích bằng cách di chuột qua hầu hết mọi thứ.",
+      "Nhấn chuột phải sẽ thả lá bài bạn đang kéo.",
+      "Di chuột vào kẻ thù để xem thông tin về tên và Năng lực của chúng.",
+      "Dùng nút cuộn hoặc nhấn và kéo màn hình để cuộn.",
+      "Nếu bạn có thể xem xét vật phẩm, con trỏ sẽ biến thành kính lúp.",
+      "Sử dụng con lăn hoặc nhấn và kéo để kéo bản đồ, màn hình bài và các chức năng khác."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Cổ vật tìm thấy trong Tháp Xoáy ban phát những năng lực độc đáo kéo dài suốt hành trình. NL Có thể tìm được chúng bằng cách mở rương hoặc chiến thắng kẻ địch mạnh.",
+      "Chưa tìm thấy cổ vật này.",
+      "Cổ vật này đã sử dụng hết."
+    ],
+    "LABEL": [
+      "Cổ vật",
+      "Không rõ",
+      "Cổ vật này chưa được mở.",
+      "Khóa"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Đừng quên phần thưởng! NL Chỉ cần nhấn chuột để nhặt chúng.",
+      "Đừng quên phần thưởng của bạn nhé!"
+    ],
+    "LABEL": [
+      "Phần thưởng"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Hủy một lá bài khỏi bộ. Giá dịch vụ này tăng thêm #b",
+      " trong suốt cuộc hành trình."
+    ],
+    "LABEL": [
+      "Dịch vụ hủy bài"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Nếu không còn bài để rút, chồng bài bỏ sẽ được tráo vào chồng bài rút."
+    ],
+    "LABEL": [
+      "Hết bài?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Mở menu trò chơi. NL NL Thay đổi hoặc cập nhật cài đặt ưu tiên cho đồ họa, âm thanh và trò chơi tại đây.",
+      "Xem tất cả bài của bộ.",
+      "Xem bản đồ của hầm ngục hiện tại.",
+      "Nếu bạn hết HP, bạn sẽ chết.",
+      "Hiển thị số vàng bạn đang cầm. Vàng là đơn vị tiền dùng trong Tháp Xoáy.",
+      "",
+      "",
+      "Thời gian chạy của hành trình này."
+    ],
+    "LABEL": [
+      "Cài đặt",
+      "Bộ bài",
+      "Bản đồ",
+      "Sinh lực (HP)",
+      "Túi tiền",
+      "Đồng hồ chạy"
+    ]
+  }
+}

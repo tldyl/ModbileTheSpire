@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Nhà giả kim",
+    "DESCRIPTIONS": [
+      "Mua 5 Bình dược."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Nâng cao",
+    "DESCRIPTIONS": [
+      "+5% điểm mỗi Cấp độ Nâng cao."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Tinh quái Chốn Xa Xôi",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Hơn cả hoàn hảo",
+    "DESCRIPTIONS": [
+      "Tiêu diệt 3 trùm mà không nhận sát thương."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Trùm đã tiêu diệt",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Nhà vô địch",
+    "DESCRIPTIONS": [
+      "Giết một Tinh quái mà không nhận sát thương."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Đồ ăn gian",
+    "DESCRIPTIONS": [
+      "Phát hiện gian lận. Nếu tái phạm. điểm của bạn sẽ không bao giờ được tải lên Bảng xếp hạng."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Tinh quái Thành Phố",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Người sưu tầm",
+    "DESCRIPTIONS": [
+      "Cầm 4 bản sao của một lá bài không trong bộ ban đầu."
+    ]
+  },
+  "Combo": {
+    "NAME": "C-c-c-combo",
+    "DESCRIPTIONS": [
+      "Chơi 20 lá bài trong một lượt."
+    ]
+  },
+  "Curses": {
+    "NAME": "Quỷ tha ma bắt!",
+    "DESCRIPTIONS": [
+      "Bộ bài của bạn có 5 lá nguyền."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Bách khoa toàn thư",
+    "DESCRIPTIONS": [
+      "Bộ bài có ít nhất 50 lá."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Tinh quái Mở Màn",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Trái tim tan vỡ",
+    "DESCRIPTIONS": [
+      "Đánh bại Quả Tim."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Người vùng cao",
+    "DESCRIPTIONS": [
+      "Bộ bài của bạn không có bản sao (trừ bài ban đầu)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Tôi thích vàng",
+    "DESCRIPTIONS": [
+      "Tích lũy 3.000 vàng."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Thủ thư",
+    "DESCRIPTIONS": [
+      "Bộ bài có ít nhất 35 lá."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Tốc độ ánh sáng",
+    "DESCRIPTIONS": [
+      "Chiến thắng dưới 45 phút."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Tối giản",
+    "DESCRIPTIONS": [
+      "Hủy 5+ lá bài khỏi bộ của bạn."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Tiền tiền",
+    "DESCRIPTIONS": [
+      "Tích lũy 1.000 vàng."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Cỗ máy bí ẩn",
+    "DESCRIPTIONS": [
+      "Đi qua 15+ phòng."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Theo cách của riêng tôi",
+    "DESCRIPTIONS": [
+      "Tự sát."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Quá tay",
+    "DESCRIPTIONS": [
+      "Gây 99 sát thương bằng một đòn tấn công."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Bần cùng",
+    "DESCRIPTIONS": [
+      "Có 0 lá bài hiếm."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Hoàn hảo",
+    "DESCRIPTIONS": [
+      "Tiêu diệt Trùm mà không nhận sát thương."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Phân thối",
+    "DESCRIPTIONS": [
+      "Nhặt được Cục Phân Ma."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Mưa tiền",
+    "DESCRIPTIONS": [
+      "Tích lũy 2.000 vàng."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Tôi thích lấp lánh",
+    "DESCRIPTIONS": [
+      "Có 25+ cổ vật."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Siêu tốc",
+    "DESCRIPTIONS": [
+      "Chiến thắng dưới 60 phút."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Đầy bụng",
+    "DESCRIPTIONS": [
+      "Tăng HP tối đa của bạn thêm 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "No nê",
+    "DESCRIPTIONS": [
+      "Tăng HP tối đa của bạn thêm 15+."
+    ]
+  }
+}

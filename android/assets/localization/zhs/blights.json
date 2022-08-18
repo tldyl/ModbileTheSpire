@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "荒疫之矛",
+    "DESCRIPTION": [
+      "敌人造成 #b",
+      "% 额外伤害。"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "荒疫之盾",
+    "DESCRIPTION": [
+      "敌人拥有 #b",
+      "% 额外生命。"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "时间迷宫",
+    "DESCRIPTION": [
+      "你每回合不能打出多于 #b",
+      " 张牌。",
+      "我只能打出 NL #r"
+    ]
+  },
+  "Accursed": {
+    "NAME": "恶咒附身",
+    "DESCRIPTION": [
+      "每打败一名Boss，获得 #b",
+      " 张随机 #y诅咒牌 。",
+      "恶咒附身！"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "心智扭曲",
+    "DESCRIPTION": [
+      "你的每回合结束时，将 #b",
+      " 张随机 #y状态牌 放置到你的抽牌堆顶端。",
+      "转化!"
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "胡思乱想",
+    "DESCRIPTION": [
+      "每回合抽牌减少 #b",
+      " 张。",
+      "走神！"
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "遍地宝箱怪",
+    "DESCRIPTION": [
+      "之后阶段中的宝箱房将被替换为精英敌人。精英敌人不再掉落遗物。"
+    ]
+  },
+  "FullBelly": {
+    "NAME": "嘴套",
+    "DESCRIPTION": [
+      "你无法再增加最大生命值。所有回复效果减半。"
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "可怖奖杯",
+    "DESCRIPTION": [
+      "拾起时，获得 #b",
+      " 张 #r傲慢 。",
+      "你的傲慢，如此扭曲……"
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "疫后榴莲",
+    "DESCRIPTION": [
+      "失去 #b",
+      "% 最大生命。"
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "虚无结晶",
+    "DESCRIPTION": [
+      "在每回合开始时失去 #b",
+      " 点 [E] 。"
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "阴魂不散",
+    "DESCRIPTION": [
+      "所有敌人初始拥有 #b",
+      " 层 #y无实体 。"
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "先古强化",
+    "DESCRIPTION": [
+      "所有敌人初始拥有 #b",
+      " 层 #y人工制品 ， #b",
+      " 层 #y多层护甲 ，和 #b",
+      " 层 #y再生 。"
+    ]
+  }
+}

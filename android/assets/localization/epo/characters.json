@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Kornikroboto"
+    ],
+    "TEXT": [
+      "BIP BIP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "La Difektulo"
+    ],
+    "TEXT": [
+      "Batalaŭtomato kiu fariĝis memkonscia. NL Antikva teknologio permesas manipuladon de sferoj."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "La Observulo"
+    ],
+    "TEXT": [
+      "Blinda asketo, kiu venis \"taksi\" la Turegon. NL Majstro de la divinaj pozicioj."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "La Fervestulo"
+    ],
+    "TEXT": [
+      "La restanta soldato de la Fervestuloj. NL Vendis sian animon por utiligi demonajn energiojn."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Daŭrigi",
+      "~Bonvenon!~"
+    ],
+    "TEXT": [
+      "Hej! NL Aĉetu ion! NL Aĉet-ĉet-ĉet!",
+      "Mi ŝatas vian hararanĝon",
+      "Ĉu vi scias la tempon?",
+      "Ĉu vi estas hundemulo aŭ katemulo?",
+      "Vi aspektas ~danĝera,~ NL hehe...",
+      "Prenu vian tempon... NL ..... NL ... aŭ ne",
+      "Ĉu ĉi tiu tapiŝo plaĉas al vi? NL Ne vendiĝas",
+      "Subtenu etajn firmojn!",
+      "Maskoj estas mojosaj, mi povas scii!",
+      "Hmm... NL ...hmm... NL Ho!",
+      "Restu iom kaj aŭskultu!",
+      "Estas danĝere iri sola! Mi prenu vian monon.",
+      "Aĉetu ion",
+      "~*OSCED'*~",
+      "Mi ŝatas oron.",
+      "Mia plej ŝatata koloro estas bluo. NL Kaj la via?"
+    ],
+    "OPTIONS": [
+      "Kiel mi venis ĉi tien? NL Neniu ideo.",
+      "Lasta ŝanco 'ĉeti ion! NL ~*okulsigno*~",
+      "..... NL .... NL .........",
+      "Mi estas katemulo.",
+      "Ne urĝiĝu. NL Ne urĝiĝu.",
+      "Ha, ĉu ne @ekscita!?@",
+      "Iam mi estis kiel vi.",
+      "Ĉu supreniras?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Niaŭ"
+    ],
+    "TEXT": [
+      "~Salutojn...~ NL ~Mi..~ ~estas~ ~Niaŭ...~",
+      "~Saluton...~ NL ~Denove..~",
+      "~Salutojn...~",
+      "~Alia~ NL ~provo...?~",
+      "~Atingu~ ~la~ ~estron...~ NL ~por~ ~ricevi~ ~pli~ ~da..~ ~benoj...~",
+      "~Almenaŭ...~ ~kontraŭstaru~ NL ~la~ ~unuan~ ~estron...~",
+      "~Mi~ ~rekondukis~ ~vin...~",
+      "~Elektu...~",
+      "~Vi...~ ~havos...~",
+      "~Risko...~ NL ~..gajno....~",
+      "~Estas~ ~tempo~ ~por~ NL ~PENIGO...~",
+      "Premioj",
+      "~Ni~ ~daŭrigu...~",
+      "~Nur~ ~fariĝas~ ~pli~ ~malfacile...~",
+      "~Impona...~ ~pli...~",
+      "Damnite!",
+      "Ventkapulo!",
+      "Transformado!"
+    ],
+    "OPTIONS": [
+      "[Daŭrigi]",
+      "[Paroli]",
+      "[Preterlasi]",
+      "[Foriri]",
+      "Elektu 10 kartojn por aldoni al via kartaro."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gElekti #gkarton #gpor #gakiri ]",
+      "[ #gAkiru #ghazardan #gmaloftan #gkarton ]",
+      "[ #gForigi #gkarton #gde #gvia #gkartaro ]",
+      "[ #gPlibonigi #gkarton ]",
+      "[ #gTransformi #gkarton ]",
+      "[ #gAkiri #g3 #ghazardajn #gpociojn ]",
+      "[ #gAkiri #ghazardan #goftan #grelikvon ]",
+      "[ #gMaks. #gvivo #g+",
+      "[ #gAkiri #g",
+      " #gda #goro ]",
+      "#gForigi #g2 #gkartojn ]",
+      "#gAkiri #ghazardan #gmaloftan #grelikvon ]",
+      "#gElekti #gmaloftan #gkarton #gpor #gakiri ]",
+      "#gGajni #g",
+      " #gda #goro ]",
+      "#gTransformi #g2 #gkartojn ]",
+      "#gMaks. #gvivo #g+",
+      "[ #rMalaltigi #rvian #rmaks. #rvivon #rje #r",
+      " ",
+      "[ #rPerdi #rĉiom #rda #rvia #roro ",
+      "[ #rAkiri #rmalbenon ",
+      "[ #rPreni #r",
+      "Elektu karton",
+      "Elektu karton por forigi",
+      "Elektu 2 kartojn por forigi",
+      "Elektu karton por transformi",
+      "Elektu 2 kartojn por transformi",
+      "Elektu Karton por plibonigi",
+      "[ #gMalamikoj #gen #gviaj #gsekvontaj #gtri #gbataloj #ghavos #g1 #gvivpoenton ]",
+      " #rda #rdamaĝo",
+      "[ #gElekti #gsenkoloran #gkarton #gpor #gakiri ]",
+      "#gElekti #gmaloftan #gsenkoloran #gkarton]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rPerdi #rvian #rkomencan #rrelikvon #gAkiri #ghazardan #gestran #grelikvon ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Bonvenon~ NL ~bonvenon!~",
+      "Hej vi, NL vi bezonas NL pli da #roro.",
+      "Hej amiko, vi ne havas #rmonon!",
+      "Ĉu senmone?",
+      "Vi ne havas sufiĉe da #roro.",
+      "Vi ne povas pagi tiom.",
+      "Ne estas almozo.",
+      "~Daaaankon~",
+      "Alia vendo... NL hohoho! NL Ĉa - @ĉing!@",
+      "@VENDITE!@",
+      "Ristornoj ne eblas.",
+      "Agrablan tagon.",
+      "Foriri",
+      "Elekti karton por forigi de via kartaro."
+    ],
+    "TEXT": [
+      "Hej! NL Aĉetu ion! NL Aĉet ĉet ĉet!",
+      "Mi ŝatas vian hararanĝon",
+      "Ĉu vi scias la tempon?",
+      "Ĉu vi estas hundemulo aŭ katemulo?",
+      "Vi aspektas ~danĝera,~ NL hehe...",
+      "Prenu vian tempon... NL ..... NL ... aŭ ne",
+      "Ĉu ĉi tiu tapiŝo plaĉas al vi? NL Ne vendiĝas",
+      "Subtenu etajn firmojn!",
+      "Maskoj estas mojosaj, mi povas scii!",
+      "Ĉu vi vidis mian kurieron?",
+      "Restu iom kaj aŭskultu!",
+      "Estas danĝere iri sola! Mi prenu vian monon.",
+      "Aĉetu ion",
+      "~*OSCED'*~",
+      "Mi ŝatas oron.",
+      "Mia plej ŝatata koloro estas bluo. NL Kaj la via?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silentulo"
+    ],
+    "TEXT": [
+      "Mortiga ĉasistino de la nebulaj landoj. NL Elradikigas kontraŭulojn per tranĉiloj kaj venenoj."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Kio... nun..? NL ..ĉu... finita....?",
+      "...la Turego dormas.....",
+      "..kaj same...... faros... NL ....mi......"
+    ]
+  }
+}

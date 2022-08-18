@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Sidro",
+    "FLAVOR": "Držeći ovu minijaturnu dranguliju, osećaš se teže i stabilnije.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #b",
+      " #yodbrane."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Drevni čajni pribor",
+    "FLAVOR": "Ključ osvežavajućeg noćnog odmora.",
+    "DESCRIPTIONS": [
+      "Svaki put kada uđeš u odmaralište, započni sledeću borbu sa [E] [E] ."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Umeće ratovanja",
+    "FLAVOR": "Ovaj drevni rukopis sadrži mudrosti iz minulih vremena.",
+    "DESCRIPTIONS": [
+      "Ako ne odigraš nijedan #ynapad tokom svog poteza, zadobi dodatnu ",
+      "[E] sledeći potez."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolab",
+    "FLAVOR": "Alatka kojom se od zvezda doznaje neprocenjivo znanje.",
+    "DESCRIPTIONS": [
+      "Po uzimanju izaberi #btri karte, potom ih #ypreobrazi i #ypoboljšaj.",
+      "Izaberi tri karte za "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Vreća klikera",
+    "FLAVOR": "Nekad popularna igračka u Gradu. Korisna kao element iznenađenja u borbi.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, nanesi #b",
+      " #yranjivost SVIM neprijateljima."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Torba pripremljenosti",
+    "FLAVOR": "Preveliki putni ranac. Načičkan džepovima i kaiševima.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, vuci #b",
+      " dodatne karte."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Pticolika urna",
+    "FLAVOR": "Ova urna prikazuje vranu-boga Mazaleta u vragolastom raspoloženju.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #ymoć, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Crna krv",
+    "FLAVOR": "Bes zatamljuje dušu.",
+    "DESCRIPTIONS": [
+      "Zamenjuje #rgoruću #rkrv. Na kraju borbe, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Crna zvezda",
+    "FLAVOR": "Prvobitno otkrivena u Gujinom gradu, pored usamljene sveće.",
+    "DESCRIPTIONS": [
+      "#yČelnici sada ispuštaju dodatnu relikviju."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Bočica krvi",
+    "FLAVOR": "Sadrži krv netaknutog i drevnog vampira.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Krvavi idol",
+    "FLAVOR": "Iz idola sada lije neprestana bujica krvi.",
+    "DESCRIPTIONS": [
+      "Svaki put kada zadobiješ #yzlato, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Plava sveća",
+    "FLAVOR": "Njen plamen oživljava samo u mrkloj tmini.",
+    "DESCRIPTIONS": [
+      "#yKletve se sada mogu odigrati. NL NL Odigravanjem #ykletve gubiš #b",
+      " ž. p. i #yiscrpljuješ je."
+    ]
+  },
+  "Boot": {
+    "NAME": "Čizma",
+    "FLAVOR": "Raste u veličini kada se nategne.",
+    "DESCRIPTIONS": [
+      "Svaki put kada bi #ynapadom zadao #b",
+      " ili manje neodbranjene štete, povećaj je na #bpet."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Plamen u tegli",
+    "FLAVOR": "U tegli prebiva plamen koji zanavek gori.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, izaberi #ynapad. Na početku svake borbe, ta karta će ti biti u ruci.",
+      "Izaberi kartu za ",
+      "Na početku svake borbe, dodaj kartu ",
+      " u ruku."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Munja u tegli",
+    "FLAVOR": "Zavirkivanjem u kovitlajuću oluju, primećuješ deo sebe kako uzvraća pogled.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, izaberi #yumeće. Na početku svake borbe, ta karta će ti biti u ruci.",
+      "Izaberi kartu za ",
+      "Na početku svake borbe, dodaj kartu ",
+      " u ruku."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Tornado u tegli",
+    "FLAVOR": "Tegla nežno šumi i zuji.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, izaberi #ymoć. Na početku svake borbe, ta karta će ti biti u ruci.",
+      "Izaberi kartu za ",
+      "Na početku svake borbe, dodaj kartu ",
+      " u ruku."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Bronzana krljušt",
+    "FLAVOR": "Oštra Čuvareva krljušt. Samooblikuje se ne bi li zaštitila svog korisnika.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, zadobi #b",
+      " bodlje."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Goruća krv",
+    "FLAVOR": "Krv tvog samog tela gori neugasivim besom.",
+    "DESCRIPTIONS": [
+      "Na kraju borbe, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Polomljena kruna",
+    "FLAVOR": "Šampionova kruna... ili bleda imitacija?",
+    "DESCRIPTIONS": [
+      "Pri odabiru nagradne karte, imaš #bdve manje karte u izboru.",
+      "Zadobi [E] na početku svakog poteza. "
+    ]
+  },
+  "Cables": {
+    "NAME": "Zlatni kablovi",
+    "FLAVOR": "\"Interesantno! Čak su i automatoni podložni placebu.\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Tvoja glavna sfera izvršava svoju pasivnu sposobnost još jedan dodatni put."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Šestar",
+    "FLAVOR": "\"Mehanička preciznost vodi do veličanstvenosti\" - Arhitekta",
+    "DESCRIPTIONS": [
+      "Na početku poteza, gubiš #b",
+      " #yodbrane umesto svu svoju #yodbranu."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Dozivno zvono",
+    "FLAVOR": "Ovo mračno gvozdeno zvono je zazvonilo tri puta kada si ga našao, ali je sada potpuno umuklo.",
+    "DESCRIPTIONS": [
+      "Zadobi #btri #rkletve i #btri #yrelikvije.",
+      "Zvono odzvonjava...",
+      "Preskoči nagrade",
+      "Zatvori"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Kotao",
+    "FLAVOR": "Trgovac je zapravo vrlo vešt kuvač napitaka. Kupi četiri, dobijaš jedan džabe.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, skuva #bpet nasumičnih napitaka.",
+      "Buć bljuć buć...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Stogodišnja slagalica",
+    "FLAVOR": "Osećaš intenzivnu toplotu u grudima pri rešavanju ove slagalice.",
+    "DESCRIPTIONS": [
+      "Prvi put kada izgubiš ž. p. u borbi, vuci #b",
+      " karte."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Chameleon Ring",
+    "FLAVOR": "Deprecated",
+    "DESCRIPTIONS": [
+      "You can now #yBrew at Rest Sites."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Šampionski pojas",
+    "FLAVOR": "Samo najveći mogu nositi ovaj pojas.",
+    "DESCRIPTIONS": [
+      "Svaki put kada naneseš #yranjivost, takođe nanesi #b",
+      " #yslabost."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Haronov pepeo",
+    "FLAVOR": "Za Harona je rečeno da je bog ponovnog rađanja, onaj koji večno umire i vaskrsava u plamenoj buktinji.",
+    "DESCRIPTIONS": [
+      "Svaki put kada #yiscrpiš kartu, zadaj #b",
+      " štete SVIM neprijateljima."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Hemikalija X",
+    "FLAVOR": "UPOZORENJE: Ne kombinovati sa šećerom, začinom, i svakim lepim načinom.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš kartu koja košta #bX, njeni efekti su povećani za #b",
+      "."
+    ]
+  },
+  "Circlet": {
+    "NAME": "Dijadema",
+    "FLAVOR": "Pronašao si sve relikvije. Impresivno!",
+    "DESCRIPTIONS": [
+      "Izgleda lepo."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Mehanički suvenir",
+    "FLAVOR": "\"Tako puno isprepletanih mehanizama.\"",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, zadobi #bjednu #yzaštitu."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Kafomat",
+    "FLAVOR": "\"Da, još jedna šoljica molim. Nazad na posao. Nazad na posao!\" - Arhitekta",
+    "DESCRIPTIONS": [
+      " na početku svakog poteza. Više ne možeš da se odmaraš na odmaralištima.",
+      "Zadobi [E]"
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Napuknuto jezgro",
+    "FLAVOR": "Misteriozna životna sila koja napaja Automatone unutar Tornja. Čini se da je napuknuto.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, #yprizovi #bjednu #ymunju."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Simbol kulta",
+    "FLAVOR": "Deo jata!",
+    "DESCRIPTIONS": [
+      "Osećaš se pričljivo.",
+      "@KA!@ NL @KAAA@"
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Ukleti ključ",
+    "FLAVOR": "Osećaš kako iz ključa zrači zlokobna energija. Moć uvek ima neku cenu.",
+    "DESCRIPTIONS": [
+      " Svaki put kada otvoriš ne-voždovski kovčeg, bivaš #ruklet.",
+      "Zadobi [E] na početku svakog poteza."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Tamnokamen amajlija",
+    "FLAVOR": "Kamen koji isisava snagu iz mračnih sila, pretvarajući je u životnu energiju za nosioca.",
+    "DESCRIPTIONS": [
+      "Svaki put kada zadobiješ #ykletvu, povećaj svoje maks. ž. p. za #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Disk",
+    "FLAVOR": "Ovaj disk sadrži dragocene podatke o pticama i zmijama.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #ypotentnošću povećanom za #b",
+      "."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Mrtva grana",
+    "FLAVOR": "Grana jednog drveta iz zaboravljene ere.",
+    "DESCRIPTIONS": [
+      "Svaki put kada #yIscrpiš kartu, dodaj nasumičnu kartu u ruku."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Pronicljivi monokl",
+    "FLAVOR": "Zbilja jedan pomodan monokl.",
+    "DESCRIPTIONS": [
+      "Trgovčeve cene su umanjene za #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "Runski dodekaedar",
+    "FLAVOR": "Rune su potpuno nerazumljive.",
+    "DESCRIPTIONS": [
+      "Ako si pri punim ž. p., zadobi ",
+      "[E] na početku svakog poteza."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dolino ogledalo",
+    "FLAVOR": "\"Izgledam smešno u ovome.\"",
+    "DESCRIPTIONS": [
+      "Po uzimanju, zadobi dodatnu kopiju karte iz špila.",
+      "Izaberi jednu kartu koju ćeš da kopiraš."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Hvatač snova",
+    "FLAVOR": "Severna plemena bi često noću koristila hvatače snova, verujući da vode samopoboljšanju.",
+    "DESCRIPTIONS": [
+      "Pri svakom #yodmaranju, možeš dodati jednu kartu u špil."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Du-vu lutkica",
+    "FLAVOR": "Lutkica osmišljena tako da crpi snagu iz zlokobne energije.",
+    "DESCRIPTIONS": [
+      "Za svaku #ykletvu u špilu, započni borbu sa #ysnagom povećanom za #b",
+      ".",
+      " Nemaš #ykletve.",
+      " Imaš #ykletvi: #b",
+      "."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ektoplazma",
+    "FLAVOR": "Čini se da ova gomila sluzi i energije pulsira životom.",
+    "DESCRIPTIONS": [
+      " Više ne možeš da zadobijaš #yzlato.",
+      "Zadobi [E] na početku svakog poteza."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Čip za emocije",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Na početku svakog poteza, ako si primio štetu prethodni krug, aktiviraj pasivne sposobnosti svih svojih sfera."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Prazan kavez",
+    "FLAVOR": "\"Nije li čudno zarobiti ono što obožavaš?\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Po uzimanju, ukloni #bdve karte iz špila.",
+      "Izaberi dve karte koje ćeš da ukloniš."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enhiridion",
+    "FLAVOR": "Legendardni dnevnik jednog drevnog liča.",
+    "DESCRIPTIONS": [
+      "Na početku borbe, dodaj nasumičnu #ymoć u ruku. #bBesplatna je do kraja poteza."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Večno pero",
+    "FLAVOR": "Ovo pero se čini potpuno neuništivim. Od kakve vrste ptice bi uopšte moglo da potekne? ",
+    "DESCRIPTIONS": [
+      "Za svakih #b",
+      " karata u špilu, zaleči #b",
+      " ž. p. svaki put kada uđeš u odmaralište."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Lice Pope",
+    "FLAVOR": "Svi vole Popu.",
+    "DESCRIPTIONS": [
+      "Povećaj svoje maks. ž. p. za #bjedan nakon svake borbe."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Zeleđeno jaje",
+    "FLAVOR": "Jaje stoji inertno i zaleđeno, nikad da se izlegne.",
+    "DESCRIPTIONS": [
+      "Svaki put kada dodaš #ymoć u špil, #ypoboljšaj je."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Zaleđeno oko",
+    "FLAVOR": "Gledajući u oko, vidiš nagoveštaje svoje budućnosti.",
+    "DESCRIPTIONS": [
+      "Pri pregledavanju #ygomile #yza #yvuču, karte su sada prikazane po redu."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Zaleđeno jezgro",
+    "FLAVOR": "Napuknuće u tvom jezgru je ispunjena pulsirajućom ledenom energijom.",
+    "DESCRIPTIONS": [
+      "Zamenjuje #rNapuknuto #rjezgro. Ako završiš potez bez sfera, #yprizovi #bjedan #ymraz."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Čekić stapanja",
+    "FLAVOR": "Jednom uzet, vlasnik više nikad ne može da ga pusti.",
+    "DESCRIPTIONS": [
+      " na početku svakog poteza. Više ne možeš da kuješ da odmaralištima.",
+      "Zadobi [E]"
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Kockarski čip",
+    "FLAVOR": "Možeš da vidiš mali zapis na jednoj od strana. Kaže: \"Medin talični čip!\"",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, odbaci bilo koji broj karata, potom vuci isto toliko."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Đumbir",
+    "FLAVOR": "Potentan sastojak mnogih tonika.",
+    "DESCRIPTIONS": [
+      "Više ne možeš biti #yoslabljen."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girja",
+    "FLAVOR": "Ova girja je nezamislivo teška. Trening ovim bi mogao značajno da te ojača.",
+    "DESCRIPTIONS": [
+      "Sa ovim možeš da na odmaralištima povećaš svoju #ysnagu (do najviše tri puta)."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Zlatni idol",
+    "FLAVOR": "Načinjen od suvog zlata. Samo ga držeći se osećaš bogatije.",
+    "DESCRIPTIONS": [
+      "Neprijatelji ispuštaju #b25% više #yzlata."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Gremlinski rog",
+    "FLAVOR": "\"Alfa gremlini mogu da rastu sve do smrti. Izuzetno.\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Svaki put kada neprijatelj umre, zadobi ",
+      "[E] i vuci #bjednu kartu."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlinova grimasa",
+    "FLAVOR": "Vreme je za bežanje.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #bjednom #yslabošću."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Bušilica",
+    "FLAVOR": "\"Spirale su opasne.\"",
+    "DESCRIPTIONS": [
+      "Svaki put kada razbiješ #yodbranu neprijatelja, nanesi #bdve #yranjivosti."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Srećni cvet",
+    "FLAVOR": "Ova vazda vesela biljka je kao novotarija popularna među plemićima.",
+    "DESCRIPTIONS": [
+      "Svaka #b",
+      " kruga, zadobi [E] ."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Lebdeći zmaj",
+    "FLAVOR": "Zmaj lebdi oko tebe u borbi, pokreten misterioznom silom.",
+    "DESCRIPTIONS": [
+      "Zadobi [G] i odbaci #bdve kartu na početku svakog poteza."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Sladoled",
+    "FLAVOR": "\"Preukusno!\"",
+    "DESCRIPTIONS": [
+      "Energija se sada prenosi između poteza."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Kandilo",
+    "FLAVOR": "Dim ispunjava nosioca duhom sprženog.",
+    "DESCRIPTIONS": [
+      "Svakih #bpet krugova, zadobi #bjednu #yneopipljivost."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Manipulator",
+    "FLAVOR": "Guraj. Vuci. Niži. Ponavljaj.",
+    "DESCRIPTIONS": [
+      "Svaka #bdva kruga, zadobi #bjedno sferno polje."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Juzu brojanica",
+    "FLAVOR": "Zaštita od nepoznatog.",
+    "DESCRIPTIONS": [
+      "Obični neprijatelji se više ne sreću u #y? sobama."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Nož omiljen među ubicama zbog svoje ubojitosti na daljinu.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #b",
+      " #ynapada u jednom potezu, zadobi #b",
+      " #yokretnost."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Fenjer",
+    "FLAVOR": "Jezivi fenjer koji osvetljava samo svom nosiocu.",
+    "DESCRIPTIONS": [
+      "Zadobi ",
+      "[E] ",
+      "u prvom potezu svake borbe."
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lijev vafl",
+    "FLAVOR": "\"Najukusnija poslastica koju ćete naći u Tornju! Umešena danas samo za vas.\"",
+    "DESCRIPTIONS": [
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b",
+      " i u potpunosti se zaleči."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Otvarač za pisma",
+    "FLAVOR": "Neprirodno oštar.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #btri umeća u jednom potezu, zadaj #b",
+      " štete SVIM neprijateljima."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Gušterov rep",
+    "FLAVOR": "Lažni rep za zamajavanje neprijatelja u borbi.",
+    "DESCRIPTIONS": [
+      "Sledeći put kada bi trebalo da umreš, zaleči se do #b50% svojih maks. ž. p. (radi samo jedanput)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Magični cvet",
+    "FLAVOR": "Cvet za koji se mislilo da je odavno izumro. Ovaj nekako savršeno očuvan.",
+    "DESCRIPTIONS": [
+      "Lečenje je #b50% delotvornije tokom borbe."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "Najtraženije zaboravljeno voće. Besprekorno sačuvan, bez znakova Buđi.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Žig bola",
+    "FLAVOR": "Ovaj znak je bio korišćen među severnim plemenima za obeleživanje ratnika koji su ovladali bolom u borbi.",
+    "DESCRIPTIONS": [
+      "Zadobi [R] na početku svakog kruga. Započinješ borbe sa #bdve #rrane u gomili za vučenje."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Beleg žive mašte",
+    "FLAVOR": "U Vani, misli i stvarnost su jedno te isto.",
+    "DESCRIPTIONS": [
+      "Više ne možeš da se lečiš."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Babuška",
+    "FLAVOR": "Komplet obojenih lutkica koje se stavljaju jedna u drugu. Ukras predstavlja nepoznatu pticu sa belim očima i plavim perjem.",
+    "DESCRIPTIONS": [
+      "Sledeća #bdva kovčega koja otvoriš sadrže #bdve #yrelikvije (izuzev voždovskih kovčega).",
+      "Sledeći kovčeg koji otvoriš sadrži #bdve #yrelikvije (izuzev voždovskih kovčega).",
+      "Relikvija je istrošena."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Čeljuščar kasica-prasica",
+    "FLAVOR": "Iznenađujuće popularna, uprkos tome što su napadi šeljuščara redovna pojava.",
+    "DESCRIPTIONS": [
+      "Svaki put kada se uspneš sprat, zadobi #b",
+      " #yzlata. Prestaje da radi čim potrošiš #ybilo koju količinu na tržnici.",
+      "This relic has been used up."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Bon za obrok",
+    "FLAVOR": "\"Dodatne ćufte sa svakom posetom!\"",
+    "DESCRIPTIONS": [
+      "Svaki put kada posetiš tržnicu, zaleči #bsedam ž. p.",
+      " HP."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Meso i kost",
+    "FLAVOR": "Meso se vazda obnavlja oko kosti, i čini se da mu nema kraja.",
+    "DESCRIPTIONS": [
+      "Ako su ti ž. p. na ili ispod #b50% na kraju borbe, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Komplet za prvu pomoć",
+    "FLAVOR": "\"Sadrži sve što vam je potrebno! Sprejevi protiv svraba, opekotina, otrova, i još!\"",
+    "DESCRIPTIONS": [
+      "#yStanja se sada mogu odigrati. Odigrana #ystanja se #yiscrpljuju."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Članska kartica",
+    "FLAVOR": "\"Ekskluzivne članske ponude za moje najvrednije mušterije!\"",
+    "DESCRIPTIONS": [
+      "U budućim činovima, tržnice se pojavljuju #b50% češće. #yDODATAK: #b20% popusta na sve proizvode!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Živin peščanik",
+    "FLAVOR": "Omađijani peščanik koji beskrajno teče.",
+    "DESCRIPTIONS": [
+      "Na početku svog poteza, zadaj #b",
+      " štete SVIM neprijateljima."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Užareno jaje",
+    "FLAVOR": "Jaje feniksa. Rastopljena lava sija vrijućom crvenom bojom.",
+    "DESCRIPTIONS": [
+      "Svaki put kada dodaš #ynapad u špil, #ypoboljšaj ga."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Mumificirana šaka",
+    "FLAVOR": "Često se trza, pogotovo kada ti je puls visok.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #ymoć, nasumična karta iz ruke je #bbesplatna do kraja poteza."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Nekronomikon",
+    "FLAVOR": "Samo bi budala pokušala da iskoristi ovu zlu moć. Noću si u snovima uhođen prizorima u kojima ti ova knjiga proždire um.",
+    "DESCRIPTIONS": [
+      "Prvi odigran #ynapad u svakom potezu sa cenom od #b",
+      " ili više se odigrava dvaput. Po uzimanju ove relikvije, postaješ #ruklet.",
+      " ili više se odigrava dvaput."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Njovin plač",
+    "FLAVOR": "Blagoslov plača darovan od Njove.",
+    "DESCRIPTIONS": [
+      "Neprijatelji u prve #btri borbe imaju jedan ž. p.",
+      "Blagoslov je iskorišćen."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Nilrijev kodeks",
+    "FLAVOR": "Sačinio ga je ozloglašeni gospodar igara lično. Smatra se da proširuje um.",
+    "DESCRIPTIONS": [
+      "Na kraju svakog poteza, možeš da izabereš #bjednu od #btri nasumične karte da ubaciš u gomilu za vučenje."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Nindža spisi",
+    "FLAVOR": "Sadrži tajne atentiranja.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #b",
+      " #yNoža u ruci."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Nlotov poklon",
+    "FLAVOR": "Čudan poklon od Nlota. Svaki put kada pokušaš da ga otvoriš, unutra leži još jedna upakovana kutija iste veličine.",
+    "DESCRIPTIONS": [
+      "#bUtrostručuje šanse dobijanja retke karte kao nagrade za borbu."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Nlotova maska",
+    "FLAVOR": "Gladan si.",
+    "DESCRIPTIONS": [
+      "Sledeći ne-voždovski kovčeg koji otvoriš je prazan.",
+      ""
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuklearna baterija",
+    "FLAVOR": "Ooooo...",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, #yprizovi #bjednu #yplazmu."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nullstone Periapt",
+    "FLAVOR": ".",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunčake",
+    "FLAVOR": "Dobro trenažno pomagalo. Poboljšava držanje i okretnost nosioca.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #b",
+      " #ynapada, zadobi [E] ."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Čudna pečurka",
+    "FLAVOR": "\"Nakon jedenja trichella parastius osećao sam se glomaznije i manje... podložno.\" - Ranuid ",
+    "DESCRIPTIONS": [
+      "Kao #yranjiv, primaš #b25% više štete umesto #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Zapanjujuće gladak kamen",
+    "FLAVOR": "Nikad nisi video nešto tako glatko i besprekorno. Ovo mora da je delo Drevnih.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #yokretnošću povećanom za #b",
+      "."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Stari novčić",
+    "FLAVOR": "Trgovci visoko cene jedinstvene novčiće zbog njihove istorijske vrednosti i retkih metalnih osobina.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, zadobi #b300 #yzlata."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "Učestala amajlija u odbrani protiv mračnih duhova. Čini se da ova ima iskru božanske energije.",
+    "DESCRIPTIONS": [
+      "Negiraj sledeće #bdve #rkletve.",
+      "Negiraj sledeću #rkletvu.",
+      "Ova relikvija je potrošena."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Narandžaste kuglice",
+    "FLAVOR": "\"Napravljene od raznih gljiva nađenih po celom Tornju, drže podalje svaku boljku.\"",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #ymoć, #ynapad i #yveštinu u istom potezu, ukloni sva negativna stanja sa sebe."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orihalk",
+    "FLAVOR": "Metal zelenih nijansi nepoznatog porekla. Naizgled neuništiv.",
+    "DESCRIPTIONS": [
+      "Ako završiš svoj potez bez #yodbrane, zadobi #b",
+      " #yodbrane."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Ukrasna lepeza",
+    "FLAVOR": "Čini se da se lepeza širi i očvršćuje sa svakom prolivenom kapi krvi.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #btri #ynapada u jednom potezu, zadobi #b",
+      " #yodbrane."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Planeterijum",
+    "FLAVOR": "\"Jednom kada shvatiš vasionu...\" - Zorot",
+    "DESCRIPTIONS": [
+      "Izaberi i dodaj #bpet karata u špil.",
+      "Znanje!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Pandorina kutija",
+    "FLAVOR": "Imaš loš predosećaj oko otvaranja ovoga.",
+    "DESCRIPTIONS": [
+      "#bPreobrazi sve udarce i odbrane.",
+      "Pandorina kutija je otvorena..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograf",
+    "FLAVOR": "\"Čvrsti temelji nisu slučajni. Alati za planiranje su nužni.\" - Arhitekta",
+    "DESCRIPTIONS": [
+      "Na početku voždovskih borbi, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Papirni ždral",
+    "FLAVOR": "Origami po liku nekog stvora iz prošlog doba.",
+    "DESCRIPTIONS": [
+      "#yOslabljeni neprijatelji zadaju #b50% manje štete umesto #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Papirna šžaba",
+    "FLAVOR": "Papir se stalno uvija i odvija u oblik nekog malog stvorenja.",
+    "DESCRIPTIONS": [
+      "#yRanjivi neprijatelji primaju #b75% više štete umesto #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Lula mira",
+    "FLAVOR": "Razbistruje um i pročišćava dušu.",
+    "DESCRIPTIONS": [
+      "Na odmaralištima sada možeš da ukloniš kartu iz špila."
+    ]
+  },
+  "Pear": {
+    "NAME": "Kruška",
+    "FLAVOR": "Česta voćka pre Buđi.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Vrh penkala",
+    "FLAVOR": "Držeći vrh, možeš da vidiš sve koje je prošli vlasnik ikada ubio. Nasilna prošlost.",
+    "DESCRIPTIONS": [
+      "Svaki #b10. #ynapad koji odigraš nanosi dvostruku štetu."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Kamen mudrosti",
+    "FLAVOR": "Iz kamena isijava čista energija, napajajući sve oko sebe.",
+    "DESCRIPTIONS": [
+      " SVI neprijatelji počinju sa #ysnagom povećanom za #bdva.",
+      "Zadobi [E] na početku svakog poteza."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Pojas za napitke",
+    "FLAVOR": "Uz pomoć ovog pojasa mogu da nosim još napitaka!",
+    "DESCRIPTIONS": [
+      "Po uzimanju, zadobi #bdva mesta za napitke."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Molitveni točak",
+    "FLAVOR": "Točak se okreće, nikada ne prestajući.",
+    "DESCRIPTIONS": [
+      "Normalni neprijatelji ispuštaju još jednu dodatnu nagradnu kartu."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Upitna karta",
+    "FLAVOR": "\"Oni sa više izbora umanjuju nedostatke haosa.\" - Kublaj Veliki",
+    "DESCRIPTIONS": [
+      "Pri odabiru nagradne karte, u izboru imaš još #yjednu dodatnu kartu. Ne važi za sobu u kojoj je relikvija pokupljena."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Crvena tijara",
+    "FLAVOR": "Ponestalo je relikvija. Impresivno!",
+    "DESCRIPTIONS": [
+      "Izgleda božanstveno."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Crvena maska",
+    "FLAVOR": "Ova kicoška maska pripada vođi Crvenomaskiranih Bandita. Tehnički, to sada tebe čini njihovim vođom?",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, nanesi #b",
+      " #yslabost SVIM neprijateljima."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Crvena lobanja",
+    "FLAVOR": "Mala lobanja pokrivena ukrasnom bojom.",
+    "DESCRIPTIONS": [
+      "Sve dok su ti ž. p. na ili ispod #b50%, #ysnaga ti je povećana za #b",
+      "."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Kraljevski jastuk",
+    "FLAVOR": "Sada možeš propisno da se odmoriš.",
+    "DESCRIPTIONS": [
+      "Zaleči dodatnih #b",
+      " ž. p. pri #yodmoru."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Prsten guje",
+    "FLAVOR": "Tvoj prsten je promenio formu.",
+    "DESCRIPTIONS": [
+      "Zamenjuje #gPrsten #gzmije. ",
+      "Na početku svog poteza, vuci #bjednu dodatnu kartu."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Prsten zmije",
+    "FLAVOR": "Načinjen od fosilizovane zmije. Simbolizuje veliku veštinu lovca.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, vuci #b",
+      " dodatne karte."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runski kondenzator",
+    "FLAVOR": "Više je bolje.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #btri dodatna sferna polja."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Runska kocka",
+    "FLAVOR": "Rune su potpuno nerazumljive.",
+    "DESCRIPTIONS": [
+      "Svaki put kada izgubiš ž. p., vuci #b",
+      " kartu.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Runska kupola",
+    "FLAVOR": "Rune su potpuno nerazumljive",
+    "DESCRIPTIONS": [
+      "na početku svakog poteza. Više ne možeš da vidiš #bnamere neprijatelja.",
+      "Zadobi [E] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Runska piramida",
+    "FLAVOR": "Rune su potpuno nerazumljive.",
+    "DESCRIPTIONS": [
+      "Više ne odbacuješ ruku na kraju svog poteza.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Samooblikujuća glina",
+    "FLAVOR": "\"Vrlo neobično! Izgleda kao da se oblikuje prema mojim mislima! Tele-glina?\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Svaki put kada u borbi izgubiš ž. p., zadobi #b",
+      " #yodbrane sledeći potez."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Lopata",
+    "FLAVOR": "Toranj sadrži relikvije od davnih civilizacija i pustolova, sve izgubljeno u prošlosti. Vreme je da se iskopaju!",
+    "DESCRIPTIONS": [
+      "Sada možeš da #yiskopavaš blaga na odmaralištima."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Šuriken",
+    "FLAVOR": "Lagano oružje za bacanje. Predlaže se ciljanje u oči.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odigraš #b",
+      " #ynapada u jednom potezu, povećaj svoju #ysnagu za #b",
+      "."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Pevajuća činija",
+    "FLAVOR": "Ovo dobro korišćeno pomagalo zvoni prelepom melodijom pri udarcu.",
+    "DESCRIPTIONS": [
+      "Umesto dodavanja karte u špil, možeš da povećaš svoje maks. ž. p. za #b2."
+    ]
+  },
+  "Sling": {
+    "NAME": "Praćka hrabrosti",
+    "FLAVOR": "\"Korisna alatka za nošenje sa posebno žilavim neprijateljima.\"",
+    "DESCRIPTIONS": [
+      "Svaku borbu protiv čelnika započni sa plus #b",
+      " na #ysnagu."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Nasmejana maska",
+    "FLAVOR": "Maska koju nosi trgovac. Mora da ima rezervne...",
+    "DESCRIPTIONS": [
+      "Trgovčeva usluga uklanjanja karata sada uvek košta #b",
+      " #yzlata."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Zmijkova lobanja",
+    "FLAVOR": "Besprekorna lobanja zmijka. Čudnovato čista i glatka, prljavština i prašina neobjašnjivo spadaju sa nje.",
+    "DESCRIPTIONS": [
+      "Svaki put kada naneseš #yotrov, nanesi dodatan #b",
+      " #yotrov."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Zmijkovo oko",
+    "FLAVOR": "Oko palog zmijka. Veće nego što si mislio.",
+    "DESCRIPTIONS": [
+      "Vuci #bdve dodatne karte svaki potez. Svaku borbu počinješ #yzbunjen."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sodzu",
+    "FLAVOR": "Primećuješ da magične tečnosti gube svoja svojstva u blizini ove relikvije.",
+    "DESCRIPTIONS": [
+      " Više ne možeš da zadobijaš napitke. ",
+      "Zadobi [E] na početku svakog poteza."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Vilenjačko govance",
+    "FLAVOR": "Ugljenisani ostaci tvog prinosa vilenjacima.",
+    "DESCRIPTIONS": [
+      "Ne izgleda lepo."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Glava guuuuujjjeeee",
+    "FLAVOR": "Najispunjeniji životi su oni u kojima možeš da kupiš bilo šta!",
+    "DESCRIPTIONS": [
+      "Svaki put kada uđeš u ? sobu, zadobi #b",
+      " #yzlata."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Kameni kalendar",
+    "FLAVOR": "Odmicanje vremena je neprimetno u Tornju.",
+    "DESCRIPTIONS": [
+      "Na kraju #b",
+      ". poteza, zadaj #b",
+      " štete SVIM neprijateljima."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Čudna kašika",
+    "FLAVOR": "Zureći u kašiku, čini ti se da se krivi i uvija pred tvojim očima.",
+    "DESCRIPTIONS": [
+      "Kada #yiscrpljuješ kartu, sada postoji #b50% šansa da je samo odbaciš."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Jagoda",
+    "FLAVOR": "\"Preukusno! Ni na jednu nisam naišao još od početka Buđi.\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Po uzimanju, povećaj svoje maks. ž. p. za #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Sunčani časovnik",
+    "FLAVOR": "\"Budalasta opsesija ranih ljudi vremenom ih je terala da upere svoje poglede ka nebu, nadajući se nečem neprolaznom.\" - Zorot",
+    "DESCRIPTIONS": [
+      "Svaka #b",
+      " puta kada izmešaš svoju gomilu za vučenje, zadobi [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Simbiotički virus",
+    "FLAVOR": "Malo lošeg može da učini mnogo dobra...",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, #yprizovi #bjednu #ytamu."
+    ]
+  },
+  "Test 1": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 3": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 4": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 5": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Test 6": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 7": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 8": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "The Courier": {
+    "NAME": "Kurir",
+    "FLAVOR": "Trgovčev lični ljubimac!",
+    "DESCRIPTIONS": [
+      "Trgovac više ne ostaje bez karata, relikvija, i napitaka, a njegove cene su snižene za #b20%."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Primerak",
+    "FLAVOR": "\"Fascinantno! Našao sam zapanjujuće otrovno mutirano stvorenje. Čuvam uzorak za kasnije ispitivanje.\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Svaki put kada neprijatelj umre, prebaci sav #yotrov koji je imao na nasumičnog neprijatelja."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Abakus",
+    "FLAVOR": "\"Jedan...dva...tri...\"",
+    "DESCRIPTIONS": [
+      "Zadobi #bšest #yodbrane svaki put kada izmešaš gomilu za vučenje.",
+      " #yBlock."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Konac i igla",
+    "FLAVOR": "Obavijanjem magičnog konca oko svog tela, činiš ga čvršćim na dodir.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, zadobi #b",
+      " #yoptočenog #yoklopa."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingša",
+    "FLAVOR": "Zvuk koji ovaj instrument pravi ume da ječi do bolnih nivoa buke.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odbaciš kartu tokom svog poteza, zadaj #b",
+      " štete nasumičnom neprijatelju za svaku odbačenu kartu."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Kovčežić",
+    "FLAVOR": "\"Fin prototip.\" - Arhitekta",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #yzlata. Imaš #b10% više šanse da nađeš blago u ? sobama.",
+      "Imaš #b10% više šanse da nađeš blago u ? sobama."
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Kućica",
+    "FLAVOR": "\"Skoro savršena implementacija minijaturizacije. Moje najfinije delo do sad, ali i dalje neadekvatno.\" - Arhitekta",
+    "DESCRIPTIONS": [
+      "Po uzimanju, zadobi #bjedan napitak. NL Zadobi #b",
+      " #yzlata. NL Povećaj svoje maks. ž. p. za #b",
+      ". NL Zadobi #bjednu kartu. NL Poboljšaj #bjednu nasumičnu kartu.",
+      "Kućica!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Kutija sa alatom",
+    "FLAVOR": "Alat za svaki posao.",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, dodaj nasumičnu bezbojnu kartu u ruku."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Držeći mali torii, naslućuješ stanje mira i sigurnosti kako plovi kroz tvoj um.",
+    "DESCRIPTIONS": [
+      "Svaki put kada bi primio #b",
+      " ili manje neodbranjene štete od #ynapada, smanji je na #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Jaki zavoji",
+    "FLAVOR": "Gubitak te jača.",
+    "DESCRIPTIONS": [
+      "Svaki put kada odbaciš kartu tokom svog poteza, zadobi #b",
+      " #yodbrane."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Otrovno jaje",
+    "FLAVOR": "\"Kakvo veličanstveno otkriće! Ovo nalikuje na inertno jaje nekog magičnog stvorenja. Ko ili šta ga je stvorilo?\" - Ranuid",
+    "DESCRIPTIONS": [
+      "Svaki put kada dodaš #yumeće u špil, #ypoboljšaj ga."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Igračka mahokrilac",
+    "FLAVOR": "\"Ova mala igračka je savršeni saputnik usamljenom putniku!\"",
+    "DESCRIPTIONS": [
+      "Svaki put kada iskoristiš napitak, zaleči #b",
+      " ž. p."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Repa",
+    "FLAVOR": "Najbolje ide sa đumbirom.",
+    "DESCRIPTIONS": [
+      "Više ne možeš biti #ykrhak."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Iskrivljeni levak",
+    "FLAVOR": "\"Ne bih pio iz toga.\"",
+    "DESCRIPTIONS": [
+      "Na početku svake borbe, nanesi #bčetiri #yotrova SVIM neprijateljima."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Neprestana čigra",
+    "FLAVOR": "Čigra nastavlja da se vrti bez ikakvog napora, kao da si u snu.",
+    "DESCRIPTIONS": [
+      "Svaki put kada ostaneš bez karata u svom potezu, vuci kartu."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Ukrasna relikvija darovana ratnicima koji su se proslavili u bici.",
+    "DESCRIPTIONS": [
+      "Započni svaku borbu sa #ysnagom povećanom za #b",
+      "."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Somotni okovratnik",
+    "FLAVOR": "\"Neverovatna moć, ali previše ograničena.\" - Kublaj Veliki",
+    "DESCRIPTIONS": [
+      "Ne možeš da odigraš više od #b",
+      " karata po potezu.",
+      "Zadobi [E] na početku svakog poteza. ",
+      "Mogu da odigram samo NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "Ratna boja",
+    "FLAVOR": "U prošlosti, Železni bi se duhovno štitili koristeći magijsku ratnu boju pre juriša u bitku.",
+    "DESCRIPTIONS": [
+      "Po uzimanju, #ypobošljaj #b",
+      " nasumična #yumeća."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Tocilo",
+    "FLAVOR": "\"Telo nikad ne pobeđuje čelik.\" - Kublaj Veliki",
+    "DESCRIPTIONS": [
+      "Po uzimanju, #ypoboljšaj #b",
+      " nasumična #ynapada."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Statua bele zveri",
+    "FLAVOR": "Bela statuica stvorenja koje nikada ranije nisi video.",
+    "DESCRIPTIONS": [
+      "Napici se sada uvek pojavljuju kao deo plena posle borbe."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Zglobno sečivo",
+    "FLAVOR": "Korisno u atentatima.",
+    "DESCRIPTIONS": [
+      "#bBesplatni #ynapadi zadaju #btri dodatne štete."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength that is lost at the end of your turn.",
+      " #yStrength."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength.",
+      " #yStrength."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Warped Tongs",
+    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Winged Greaves",
+    "FLAVOR": "Stylish.",
+    "DESCRIPTIONS": [
+      "You may ignore paths when choosing the next room to travel to #b3 times."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ceramic Fish",
+    "FLAVOR": "Meticulously painted, these fish were revered to bring great fortune.",
+    "DESCRIPTIONS": [
+      "Whenever you add a card to your deck, gain #b",
+      " #yGold."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Strike Dummy",
+    "FLAVOR": "It's beat up.",
+    "DESCRIPTIONS": [
+      "Cards containing \"Strike\" deal #b",
+      " additional damage."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Violet Lotus",
+    "FLAVOR": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.",
+    "DESCRIPTIONS": [
+      "Whenever you exit #yCalm, gain an additional [E] ."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Sacred Bark",
+    "FLAVOR": "A bark rumored to originate from the World tree.",
+    "DESCRIPTIONS": [
+      "Double the effectiveness of potions."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Teardrop Locket",
+    "FLAVOR": "Its owner blind, its contents unseen.",
+    "DESCRIPTIONS": [
+      "Start each combat in #yCalm."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Slaver's Collar",
+    "FLAVOR": "Rusty miserable chains.",
+    "DESCRIPTIONS": [
+      "During Boss and Elite combats, gain [E] at the start of your turn."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Your first Attack each combat deals #b",
+      " additional damage."
+    ]
+  },
+  "Yang": {
+    "NAME": "Yang",
+    "FLAVOR": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, gain #b1 temporary #yDexterity."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Cloak Clasp",
+    "FLAVOR": "A simple but sturdy design.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yBlock for each card in your hand."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand.",
+      "."
+    ]
+  },
+  "Yin": {
+    "NAME": "Yin",
+    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Ink Bottle",
+    "FLAVOR": "Once exhausted, appears to refill itself in a different color.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b10 cards, draw #b1 card."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Tungsten Rod",
+    "FLAVOR": "It's very very heavy.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, if it is before turn #b",
+      ", gain #yBlock equal to the current turn."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Holy Water",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add #b3 #yMiracles into your hand."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Pure Water",
+    "FLAVOR": "Filtered through fine sand and free of impurities.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Horn Cleat",
+    "FLAVOR": "Pleasant to hold in the hand. What was it for?",
+    "DESCRIPTIONS": [
+      "At the start of your 2nd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Captain's Wheel",
+    "FLAVOR": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.",
+    "DESCRIPTIONS": [
+      "At the start of your 3rd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Golden Eye",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Whenever you #yScry, #yScry #b",
+      " addtional cards."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
+  }
+}

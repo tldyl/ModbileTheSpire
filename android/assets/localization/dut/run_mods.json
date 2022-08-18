@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Alle Sterren",
+    "DESCRIPTION": "Begin met 5 kleurloze kaarten."
+  },
+  "Binary": {
+    "NAME": "Binair",
+    "DESCRIPTION": "Kaart beloningen bevatten maar 2 kaarten."
+  },
+  "Brewmaster": {
+    "NAME": "[DEPRECATED] Brouwmeester",
+    "DESCRIPTION": "Begin met 5 kopieën van Alchemie en het Witte Beest Beeld."
+  },
+  "Cursed Run": {
+    "NAME": "Vervloekte Sessie",
+    "DESCRIPTION": "Wanneer je een Baas verslaat, word je vervloekt. Je startersrelikwie wordt vervangen met de Vervloekte Sleutel, Duistersteen Periapt, en Du-Vu Pop."
+  },
+  "Diverse": {
+    "NAME": "Divers",
+    "DESCRIPTION": "Kaarten zijn niet beperkt door je personage."
+  },
+  "Red Cards": {
+    "NAME": "Rode Kaarten",
+    "DESCRIPTION": "Rode kaarten verschijnen nu in de beloningen en winkels."
+  },
+  "Green Cards": {
+    "NAME": "Groene Kaarten",
+    "DESCRIPTION": "Groene kaarten verschijnen nu in de beloningen en winkels."
+  },
+  "Blue Cards": {
+    "NAME": "Blauwe Kaarten",
+    "DESCRIPTION": "Blauwe kaarten verschijnen nu in de beloningen en winkels."
+  },
+  "Colorless Cards": {
+    "NAME": "Kleurloze Kaarten",
+    "DESCRIPTION": "Kleurloze kaarten verschijnen nu in de beloningen."
+  },
+  "Draft": {
+    "NAME": "Opstellen",
+    "DESCRIPTION": "Stel een aangepast startersstok samen van kaarten."
+  },
+  "Elite Swarm": {
+    "NAME": "Grootwildjager",
+    "DESCRIPTION": "In de Spire wemelt het nu van de Elite vijanden en ze geven betere beloningen."
+  },
+  "Endless": {
+    "NAME": "Oneindig",
+    "DESCRIPTION": "Winnen zal je terug brengen naar Akte 1 met hetzelfde stok. Maar let op, de ziekte consumeert uiteindelijk alles..."
+  },
+  "Blight Chests": {
+    "NAME": "Zieke Kisten",
+    "DESCRIPTION": "Baas kisten bezitten ziektes nadat je Akte 3 hebt verslagen op Oneindig."
+  },
+  "Stunted Growth": {
+    "NAME": "Belemmerde Groei",
+    "DESCRIPTION": "Vijanden geven niet langer kaartbeloningen na het verslaan van Akte 3 op Oneindig."
+  },
+  "Heirloom": {
+    "NAME": "Erfstuk",
+    "DESCRIPTION": "Begin met 1 Zeldzame relikwie."
+  },
+  "Hoarder": {
+    "NAME": "Hamsteraar",
+    "DESCRIPTION": "Wanneer je een kaart aan je stok toevoegt, voeg twee extra kopieën toe. Je kan niet langer kaarten verwijderen uit je stok bij de Handelaar."
+  },
+  "Inception": {
+    "NAME": "Inceptie",
+    "DESCRIPTION": "Vervangt je startersrelikwie met Onophoudelijke Tol."
+  },
+  "Insanity": {
+    "NAME": "Krankzinnigheid",
+    "DESCRIPTION": "Begin met een willekeurig stok van 50 kaarten."
+  },
+  "Lethality": {
+    "NAME": "Dodelijkheid",
+    "DESCRIPTION": "Je begint elk gevecht met +3 Sterkte. Alle vijanden beginnen het gevecht met +3 Sterkte."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Vijanden geven 200% meer goud, maar je kunt kaarten niet meer opwaarderen bij Rustplaatsen."
+  },
+  "My True Form": {
+    "NAME": "Mijn Ware Vorm",
+    "DESCRIPTION": "Begin met een kopie van Demonenvorm, Schimmenvorm, Echovorm en Devavorm."
+  },
+  "Night Terrors": {
+    "NAME": "Nachtmerries",
+    "DESCRIPTION": "Rusten bij Rustplaatsen geneest 100% van je LP, maar kost 5 Max LP."
+  },
+  "One Hit Wonder": {
+    "NAME": "Eendagsvlieg",
+    "DESCRIPTION": "Begin het spel met 1 Max LP."
+  },
+  "Praise Snecko": {
+    "NAME": "Aanbid Slecko",
+    "DESCRIPTION": "Vervangt je startersrelikwie met Slecko Oog."
+  },
+  "Shiny": {
+    "NAME": "Glimmend",
+    "DESCRIPTION": "Je startersstok wordt vervangen met 1 van elke zeldzame kaart."
+  },
+  "Specialized": {
+    "NAME": "Gespecialiseerd",
+    "DESCRIPTION": "Begin met 5 kopieën van een enkele kaart."
+  },
+  "Starter Deck": {
+    "NAME": "Startersstok",
+    "DESCRIPTION": "Start met de Kapotte Kroon en Binair, zodat vijanden geen kaartbeloningen meer geven."
+  },
+  "Terminal": {
+    "NAME": "Terminaal",
+    "DESCRIPTION": "Wanneer je een nieuwe kamer betreedt, verlies 1 Max LP. Begin elk gevecht met 5 Gepantserde Bescherming."
+  },
+  "Time Dilation": {
+    "NAME": "Tijdsdilatatie",
+    "DESCRIPTION": "Alle vijanden beginnen met het negatieve effect Langzaam."
+  },
+  "Uncertain Future": {
+    "NAME": "Bepaalde Toekomst",
+    "DESCRIPTION": "De kaart bevat maar één pad."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Normale Vijanden geven nu relikwieën in plaats van kaarten."
+  },
+  "SealedDeck": {
+    "NAME": "Verzegeld stok",
+    "DESCRIPTION": "Maak een stok van 30 willekeurige kaarten."
+  },
+  "Flight": {
+    "NAME": "Vlucht",
+    "DESCRIPTION": "Je mag paden negeren wanneer je de volgende kamer kiest om naartoe te gaan."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Je startersstok is een fusie van alle personages."
+  },
+  "NeowTime": {
+    "NAME": "Neowtijd",
+    "DESCRIPTION": "Ontvang 3 zegeningen en 1 ziekte van Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Intelligente Vijanden",
+    "DESCRIPTION": "Alle vijanden hebben uitdagendere zetten en vaardigheden."
+  },
+  "Careless": {
+    "NAME": "Zorgeloos",
+    "DESCRIPTION": "Aan het begin van elke beurt, leg de bovenste kaart van je trekstapel af."
+  },
+  "ControlledChaos": {
+    "NAME": "Gecontroleerde Chaos",
+    "DESCRIPTION": "Begin met het Bevroren Oog. Aan het begin van je beurt voeg 10 willekeurige kaarten toe aan de onderkant van je trekstapel."
+  },
+  "MonsterHunter": {
+    "NAME": "[DEPRECATED] Kolos",
+    "DESCRIPTION": "Vijanden hebben extra LP maar geven betere beloningen."
+  },
+  "DeadlyEvents": {
+    "NAME": "Dodelijke Evenementen",
+    "DESCRIPTION": "? kamers kunnen nu Elites bevatten maar hebben ook meer kans om Schatkamers te bevatten."
+  },
+  "Daily Mods": {
+    "NAME": "Dagelijkse Aanpassingen",
+    "DESCRIPTION": "Speel een sessie met exact 3 willekeurige Dagelijkse Aanpassingen."
+  },
+  "The Ending": {
+    "NAME": "Het Einde",
+    "DESCRIPTION": "Stelt de Laatste Akte beschikbaar."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+  }
+}

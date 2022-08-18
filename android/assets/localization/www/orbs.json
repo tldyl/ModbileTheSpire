@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPassive: At the end of turn, increase this Orb's damage by #b",
+      ". NL #yEvoke: Deal #b",
+      " damage to the enemy with lowest HP."
+    ],
+    "NAME": "Dark"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Orbs can be channeled into these slots."
+    ],
+    "NAME": "Orb Slot"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPassive: At the end of turn, gain #b",
+      " #yBlock. NL #yEvoke: Gain #b",
+      " #yBlock."
+    ],
+    "NAME": "Frost"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPassive: At the end of turn, deal #b",
+      " damage to a random enemy. NL #yEvoke: Deal #b",
+      " damage to a random enemy."
+    ],
+    "NAME": "Lightning"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
+      " [B] . NL Plasma is unaffected by #yFocus."
+    ],
+    "NAME": "Plasma"
+  }
+}

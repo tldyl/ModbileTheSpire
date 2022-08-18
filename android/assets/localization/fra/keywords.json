@@ -1,0 +1,349 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefact",
+        "d'artefact"
+      ],
+      "DESCRIPTION": "Annule le prochain malus."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "armure",
+        "l'armure",
+        "d'armure",
+        "bloque"
+      ],
+      "DESCRIPTION": "Bloque les dégâts jusqu'au prochain tour."
+    },
+    "CURSE": {
+      "NAMES": [
+        "malédiction",
+        "malédictions"
+      ],
+      "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "dextérité"
+      ],
+      "DESCRIPTION": "La dextérité augmente l'armure apportée par les cartes."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "éthérée"
+      ],
+      "DESCRIPTION": "Si cette carte est dans votre main à la fin de votre tour, elle est épuisée. Les cartes épuisées sont enlevées de votre deck jusqu'à la fin du combat."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "épuisement",
+        "épuisé",
+        "épuisée",
+        "épuisez",
+        "s'épuise",
+        "s'épuisent"
+      ],
+      "DESCRIPTION": "Écarté jusqu'à la fin du combat."
+    },
+    "INNATE": {
+      "NAMES": [
+        "inné"
+      ],
+      "DESCRIPTION": "Commencez chaque combat avec cette carte dans votre main."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "verrouillé"
+      ],
+      "DESCRIPTION": "Cette carte doit encore être déverrouillée."
+    },
+    "POISON": {
+      "NAMES": [
+        "poison",
+        "empoisonné"
+      ],
+      "DESCRIPTION": "Les créatures empoisonnées perdent des PV au début de leur tour. Chaque tour, le Poison diminue de #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "retenue",
+        "retenues",
+        "retenir",
+        "retenez",
+        "retenez-la",
+        "retenez-les"
+      ],
+      "DESCRIPTION": "Les cartes retenues ne sont pas défaussées à la fin du tour."
+    },
+    "SHIV": {
+      "NAMES": [
+        "surin",
+        "surins"
+      ],
+      "DESCRIPTION": "Les Surins sont des cartes d'attaque qui coûtent #b0 et s'épuisent."
+    },
+    "STATUS": {
+      "NAMES": [
+        "statut"
+      ],
+      "DESCRIPTION": "Les cartes Statut sont enlevées à la fin du combat."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "force"
+      ],
+      "DESCRIPTION": "La force ajoute des dégâts supplémentaires aux attaques."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformer",
+        "transforme",
+        "transformez"
+      ],
+      "DESCRIPTION": "Les cartes transformées sont changées en de nouvelles cartes aléatoires de n'importe quelle rareté."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "inconnu"
+      ],
+      "DESCRIPTION": "Cette carte n'a pas encore été découverte."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "injouable"
+      ],
+      "DESCRIPTION": "Les cartes non jouables ne peuvent pas être jouées depuis votre main."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "amélioration",
+        "améliorez",
+        "améliorée",
+        "améliorées",
+        "améliorer",
+        "d'améliorer",
+        "améliorable",
+        "améliorez-les",
+        "améliorés"
+      ],
+      "DESCRIPTION": "Améliorer une carte la rend plus puissante. Une carte ne peut être améliorée qu'une fois."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnérabilité",
+        "vulnérable"
+      ],
+      "DESCRIPTION": "Les créatures vulnérables subissent #b50 #b% de dégâts supplémentaires."
+    },
+    "WEAK": {
+      "NAMES": [
+        "faiblesse",
+        "affaiblir",
+        "affaibli",
+        "affaiblit"
+      ],
+      "DESCRIPTION": "Les attaques d'une créature affaiblie inflige #b25 #b% de dégâts en moins."
+    },
+    "WOUND": {
+      "NAMES": [
+        "plaie",
+        "plaies"
+      ],
+      "DESCRIPTION": "Les plaies sont des cartes Statut injouables."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragilité",
+        "fragilisé"
+      ],
+      "DESCRIPTION": "Les créatures fragilisées reçoivent #b25 #b% d'armure en moins."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "frappe"
+      ],
+      "DESCRIPTION": "Toute carte dont le nom contient le mot \"frappe\"."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confus"
+      ],
+      "DESCRIPTION": "Quand vous piochez une carte, son coût est rendu aléatoire."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "L'énergie est utilisée pour jouer des cartes depuis votre main."
+    ],
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Réduit TOUS les dégâts subis et la perte de PV à #b1."
+    },
+    "DAZED": {
+      "NAMES": [
+        "hébétement"
+      ],
+      "DESCRIPTION": "Les hébétements sont des cartes Statut non jouables."
+    },
+    "BURN": {
+      "NAMES": [
+        "brûlure",
+        "brûlures"
+      ],
+      "DESCRIPTION": "Les brûlures sont des cartes Statut qui vous infligent des dégâts."
+    },
+    "FROST": {
+      "NAMES": [
+        "glaciaire",
+        "glaciaires"
+      ],
+      "DESCRIPTION": "Orbe: Procure de #yl'Armure."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "activation",
+        "activé",
+        "activés",
+        "activez"
+      ],
+      "DESCRIPTION": "Utilisez la capacité d'Activation de votre Orbe le plus à droite puis détruisez-le."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "kéraunique",
+        "kérauniques",
+        "kéraunique(s)"
+      ],
+      "DESCRIPTION": "Orbe: Inflige des dégâts à un ennemi aléatoire."
+    },
+    "DARK": {
+      "NAMES": [
+        "obscur",
+        "obscurs"
+      ],
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yactivé, inflige des dégâts à l'ennemi qui a le moins de PV."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canaliser",
+        "canalisez",
+        "canalisé",
+        "canalisés"
+      ],
+      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #yActivé pour faire de la place."
+    },
+    "VOID": {
+      "NAMES": [
+        "néant",
+        "néants"
+      ],
+      "DESCRIPTION": "Les néants sont des cartes Statut injouables qui consomment de l'énergie quand elles sont piochées."
+    },
+    "OPENER": {
+      "NAMES": [
+        "ouverture"
+      ],
+      "DESCRIPTION": "Les cartes avec ouverture doivent être la première carte jouée du tour."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasmique",
+        "plasmiques"
+      ],
+      "DESCRIPTION": "Orbe: Procure de l'Énergie."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "concentration"
+      ],
+      "DESCRIPTION": "La Concentration accroît la puissance des Orbes #yCanalisés."
+    },
+    "THORNS": {
+      "NAMES": [
+        "épines",
+        "d'épines"
+      ],
+      "DESCRIPTION": "Quand vous recevez des dégâts #yd'Attaque, infligez des dégâts en retour."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "ciblage"
+      ],
+      "DESCRIPTION": "Les ennemis Verrouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
+    },
+    "STANCE": {
+      "NAMES": [
+        "position",
+        "positions"
+      ],
+      "DESCRIPTION": "Vous ne pouvez adopter qu'une seule position à la fois."
+    },
+    "WRATH": {
+      "NAMES": [
+        "colère"
+      ],
+      "DESCRIPTION": "Dans cette #yPosition, vous infligez et recevez deux fois plus de dégâts."
+    },
+    "CALM": {
+      "NAMES": [
+        "calme"
+      ],
+      "DESCRIPTION": "Quand vous quittez cette #yPosition, gagnez [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinité"
+      ],
+      "DESCRIPTION": "Quand vous entrez dans cette #yPosition, gagnez [W] [W] [W] . Vos attaques infligent trois fois plus de dégâts. Quittez cette #yPosition au début de votre prochain tour."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "par la violence"
+      ],
+      "DESCRIPTION": "Quand vous obtenez #b10 de #yMantra, entrez en #yDivinité."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scruter",
+        "scrutez"
+      ],
+      "DESCRIPTION": "Regardez les X premières cartes de votre pioche. Vous pouvez défausser n'importe lesquelles."
+    },
+    "REGEN": {
+      "NAMES": [
+        "régénération"
+      ],
+      "DESCRIPTION": "La Régénération vous soigne à la fin de votre tour. Chaque tour, la Régénération est diminuée de #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigueur"
+      ],
+      "DESCRIPTION": "Votre prochaine attaque inflige des dégâts supplémentaires."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "rituel"
+      ],
+      "DESCRIPTION": "Gagnez de la #yForce à la fin de votre tour."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Se déclenche lorsque la carte tue un ennemi qui n'est pas un sbire."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Gwiazdor",
+    "DESCRIPTION": "Zaczynasz z 5 bezbarwnymi kartami."
+  },
+  "Binary": {
+    "NAME": "Binarnie",
+    "DESCRIPTION": "Tylko 2 karty na ekranie wyboru kart."
+  },
+  "Brewmaster": {
+    "NAME": "[DEPRECATED] Piwowar",
+    "DESCRIPTION": "Rozpoczynasz z 5 kopiami Alchemizacji oraz Statuetką białej bestii."
+  },
+  "Cursed Run": {
+    "NAME": "Przeklęta próba",
+    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę. Zamiast początkowego artefatku otrzymujesz: Przeklęty klucz, Kamienny amulet i Lalkę Du-Vu."
+  },
+  "Diverse": {
+    "NAME": "Różnorodność",
+    "DESCRIPTION": "Karty nie są ograniczone klasami."
+  },
+  "Red Cards": {
+    "NAME": "Czerwone karty",
+    "DESCRIPTION": "Czerwone karty pojawiają się u Handlarza oraz jako nagrody."
+  },
+  "Green Cards": {
+    "NAME": "Zielone karty",
+    "DESCRIPTION": "Zielone karty pojawiają się u Handlarza oraz jako nagrody."
+  },
+  "Blue Cards": {
+    "NAME": "Niebieskie karty",
+    "DESCRIPTION": "Niebieskie karty pojawiają się u Handlarza oraz jako nagrody."
+  },
+  "Colorless Cards": {
+    "NAME": "Bezbarwne karty",
+    "DESCRIPTION": "Bezbarwne karty pojawiają się jako nagrody."
+  },
+  "Draft": {
+    "NAME": "Plan",
+    "DESCRIPTION": "Stwórz startową talię, dobierając po 1 karcie z 3 losowych kart, 15 razy."
+  },
+  "Elite Swarm": {
+    "NAME": "Rój Elitarnych",
+    "DESCRIPTION": "W Iglicy roi się od Elitarnych przeciwników. Elitarni zostawiają po sobie lepsze łupy."
+  },
+  "Endless": {
+    "NAME": "Tryb Bezkresny",
+    "DESCRIPTION": "Zwycięstwo przeniesie cię do 1 Aktu z obecną talią. Ale uważaj, Plaga w końcu pochłonie wszystko..."
+  },
+  "Blight Chests": {
+    "NAME": "Skrzynie Plagi",
+    "DESCRIPTION": "Po pokonaniu 3 Aktu w trybie Bezkresnym, skrzynie Bossów zawierają artefakty Plagi."
+  },
+  "Stunted Growth": {
+    "NAME": "Zahamowany wzrost",
+    "DESCRIPTION": "Po pokonaniu 3 Aktu w trybie Bezkresnym, przeciwnicy przestają gubić karty."
+  },
+  "Heirloom": {
+    "NAME": "Dziedzictwo",
+    "DESCRIPTION": "Zaczynasz grę z 1 Rzadkim artefaktem."
+  },
+  "Hoarder": {
+    "NAME": "Syllogomania",
+    "DESCRIPTION": "Za każdym razem, gdy dodasz kartę do talii, dodaj dodatkowo jej dwie kopie. Nie możesz już usuwać kart u Handlarza."
+  },
+  "Inception": {
+    "NAME": "Incepcja",
+    "DESCRIPTION": "Zamiast początkowego artefaktu otrzymujesz Nieustający bączek."
+  },
+  "Insanity": {
+    "NAME": "Szaleństwo",
+    "DESCRIPTION": "Rozpoczynasz z talią 50 losowych kart."
+  },
+  "Lethality": {
+    "NAME": "Śmiertelność",
+    "DESCRIPTION": "Rozpoczynasz każdą walkę z 3 pkt. Siły. Przeciwnicy rozpoczynają każdą walkę z 3 pkt. Siły."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Przeciwnicy gubią 200% więcej złota, ale nie możesz już ulepszać kart w Obozowiskach."
+  },
+  "My True Form": {
+    "NAME": "Moja prawdziwa forma",
+    "DESCRIPTION": "Zaczynasz z dodatkowymi kartami: Demoniczna forma, Widmowa forma, Forma Dewy i Echo."
+  },
+  "Night Terrors": {
+    "NAME": "Koszmary",
+    "DESCRIPTION": "Odpoczywając odzyskujesz 100% PŻ, ale tracisz 5 maksymalnych PŻ."
+  },
+  "One Hit Wonder": {
+    "NAME": "Gwiazda jednego przyłoju",
+    "DESCRIPTION": "Zaczynasz z 1 maksymalnym PŻ."
+  },
+  "Praise Snecko": {
+    "NAME": "Sławcie Wonsza",
+    "DESCRIPTION": "Zamiast początkowego artefaktu otrzymujesz Oko Wonsza."
+  },
+  "Shiny": {
+    "NAME": "Świecidełko",
+    "DESCRIPTION": "Rozpoczynasz z talią posiadającą po 1 kopii każdej rzadkiej katy."
+  },
+  "Specialized": {
+    "NAME": "Specjalista",
+    "DESCRIPTION": "Rozpoczynasz z 5 kopiami losowej rzadkiej karty."
+  },
+  "Starter Deck": {
+    "NAME": "Talia startowa",
+    "DESCRIPTION": "Rozpoczynasz z artefaktem: Uszkodzona korona i modyfikatorem: Binarnie, więc przeciwnicy nie gubią kart."
+  },
+  "Terminal": {
+    "NAME": "Śmiertelna choroba",
+    "DESCRIPTION": "Za każdym razem, gdy wchodzisz do pokoju, tracisz 1 maksymalny PŻ. Rozpoczynasz walkę z 5 pkt. Pancerza."
+  },
+  "Time Dilation": {
+    "NAME": "Zakrzywienie czasu",
+    "DESCRIPTION": "Przeciwnicy są Ślamazarni."
+  },
+  "Uncertain Future": {
+    "NAME": "Pewna przyszłość",
+    "DESCRIPTION": "Tylko jedna ścieżka."
+  },
+  "Vintage": {
+    "NAME": "Antyk",
+    "DESCRIPTION": "Zwykli przeciwnicy zostawiają po sobie artefakty zamiast kart."
+  },
+  "SealedDeck": {
+    "NAME": "Zapieczętowana talia",
+    "DESCRIPTION": "Stwórz talię wybierając 10 z 30 losowych kart."
+  },
+  "Flight": {
+    "NAME": "Lot",
+    "DESCRIPTION": "Możesz ignorować ścieżki podczas podróży po Iglicy."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Talia startowa jest mieszaniną talii każdej postaci."
+  },
+  "NeowTime": {
+    "NAME": "Czas Neow",
+    "DESCRIPTION": "Otrzymaj 3 błogosławieństwa i 1 plagę od Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Inteligentni przeciwnicy",
+    "DESCRIPTION": "Przeciwnicy są bardziej wymagający."
+  },
+  "Careless": {
+    "NAME": "Nieostrożny",
+    "DESCRIPTION": "Na początku każdej tury, odrzuć kartę ze szczytu stostu rozgrywającego."
+  },
+  "ControlledChaos": {
+    "NAME": "Chaos kontrolowany",
+    "DESCRIPTION": "Zaczynasz z artefaktem: Zamrożone oko. Na początku tury dodaj 10 losowych kart do stosu rozgrywającego."
+  },
+  "MonsterHunter": {
+    "NAME": "[DEPRECATED] Kolos",
+    "DESCRIPTION": "Przeciwnicy mają więcej PŻ, ale gubią lepsze znajdźki."
+  },
+  "DeadlyEvents": {
+    "NAME": "Zabójcze spotkania",
+    "DESCRIPTION": "W pokojach ? mogą przebywać Elitarni przeciwnicy, ale masz większą szansę na znalezienie skarbów."
+  },
+  "Daily Mods": {
+    "NAME": "Wyzwanie Dnia",
+    "DESCRIPTION": "Zaczynasz z 3 losowymi modyfikatorami."
+  },
+  "The Ending": {
+    "NAME": "Zakończenie",
+    "DESCRIPTION": "Aktywuje finałowy akt."
+  },
+  "Purple Cards": {
+    "NAME": "Fioletowe karty",
+    "DESCRIPTION": "Filoetowe karty pojawiają się u Handlarza oraz jako nagrody."
+  }
+}

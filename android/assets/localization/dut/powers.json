@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Nauwkeurigheid",
+    "DESCRIPTIONS": [
+      "#yMessen richten #b",
+      " extra schade aan."
+    ]
+  },
+  "After Image": {
+    "NAME": "Nabeeld",
+    "DESCRIPTIONS": [
+      "Wanneer je een kaart speelt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Versterken",
+    "DESCRIPTIONS": [
+      "Je volgende #yKracht kaart wordt tweemaal gespeeld deze beurt.",
+      "Je volgende ",
+      " #yKracht kaarten worden tweemaal gespeeld deze beurt."
+    ]
+  },
+  "Anger": {
+    "NAME": "Woedend",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yVaardigheid speelt, krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "Angry": {
+    "NAME": "Kwaad",
+    "DESCRIPTIONS": [
+      "",
+      "Bij het nemen van aanvalsschade, krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artefact",
+    "DESCRIPTIONS": [
+      "Doet #b",
+      " negatief effect teniet.",
+      " negatieve effecten teniet."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Aanvalsverbranding",
+    "DESCRIPTIONS": [
+      "Voor #b",
+      " beurt, wanneer je een #yAanval speelt, #yPut het #yUhet.",
+      "Voor de volgende #b",
+      " beurten, wanneer je een #yAanval speelt, #yPut het #yUhet."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barricade",
+    "DESCRIPTIONS": [
+      "#yBlok wordt niet verwijderd aan het begin van je beurt.",
+      "#yBlok wordt niet verwijderd aan het begin van zijn beurt."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Woest",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg ",
+      ""
+    ]
+  },
+  "Bias": {
+    "NAME": "Vooroordeel",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, verlies #b",
+      " #yFocus."
+    ]
+  },
+  "Blur": {
+    "NAME": "Waas",
+    "DESCRIPTIONS": [
+      "#yBlok wordt niet verwijderd aan het begin van je volgende beurt.",
+      "#yBlok wordt niet verwijderd aan het begin van je volgende #b",
+      " beurten."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Brutalhetehet",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, verlies #b",
+      " LP en trek #b",
+      " kaart.",
+      "Aan het begin van je beurt, verlies #b",
+      " LP en trek #b",
+      " kaarten."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Voorkom de volgende keer dat je LP zou verliezen.",
+      "Voorkom de volgende #b",
+      " keren dat je LP zou verliezen."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Kogeltijd",
+    "DESCRIPTIONS": [
+      "Alle kaarten in je hand kosten #b0 deze beurt."
+    ]
+  },
+  "Burst": {
+    "NAME": "Uhetbarsting",
+    "DESCRIPTIONS": [
+      "Je volgende #yVaardigheid wordt tweemaal gespeeld deze beurt.",
+      "Je volgende ",
+      " #yVaardigheden worden tweemaal gespeeld deze beurt."
+    ]
+  },
+  "Choked": {
+    "NAME": "Verstikt",
+    "DESCRIPTIONS": [
+      "Telkens als je een kaart speelt deze beurt, verliest #b",
+      " LP."
+    ]
+  },
+  "Combust": {
+    "NAME": "Verbranden",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, verlies #b",
+      " LP en richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Verwarring",
+    "DESCRIPTIONS": [
+      "Wanneer je een kaart trekt, worden zijn kosten willekeurig toegewezen."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserveren",
+    "DESCRIPTIONS": [
+      "#yEnergie wordt behouden deze beurt.",
+      "#yEnergie wordt behouden voor de volgende #b",
+      " beurten."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Klemvast",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, neem #b",
+      " schade."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Corruptie",
+    "DESCRIPTIONS": [
+      "#yVaardigheden kosten #b0. Wanneer je een #yVaardigheid speelt, #yPut het #yUhet.",
+      "Wanneer je een #yVaardigheid speelt, #yPut het #yUhet."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creatieve AI",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, voeg #b ",
+      " willekeurige #yKracht kaart toe aan je hand.",
+      " willekeurige #yKracht kaarten toe aan je hand."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Nieuwsgierigheid",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yKracht kaart speelt, krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Oprollen",
+    "DESCRIPTIONS": [
+      "Bij het nemen van aanvalsschade, rolt op en krijgt ",
+      " #yBlok. (Één keer per gevecht)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Danspop",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Duistere Omhelzing",
+    "DESCRIPTIONS": [
+      "Telkens als een kaart wordt #yUhetgeput, trek #b1 kaart.",
+      "Telkens als een kaart wordt #yUhetgeput, trek #b",
+      " kaarten."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Demonenvorm",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg #b",
+      " #ySterkte."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Behendigheid Omlaag",
+    "DESCRIPTIONS": [
+      "Aan het einde van deze beurt, verlies #b",
+      " #yBehendigheid."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Behendigheid",
+    "DESCRIPTIONS": [
+      "Verhoogt #yBlok gekregen van kaarten met #b",
+      "Verlaagt #yBlok gekregen van kaarten met #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Dubbele Schade",
+    "DESCRIPTIONS": [
+      "#yAanvallen doen dubbele schade voor #b",
+      " beurt.",
+      " beurten."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Dubbele Tik",
+    "DESCRIPTIONS": [
+      "Je volgende #yAanval wordt tweemaal gespeeld deze beurt.",
+      "Je volgende ",
+      " #yAanvallen worden tweemaal gespeeld deze beurt."
+    ]
+  },
+  "Draw": {
+    "NAME": "Trekken",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, trek #b",
+      " extra kaart.",
+      " kaart minder.",
+      " extra kaarten.",
+      " kaarten minder."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Trek Kaart",
+    "DESCRIPTIONS": [
+      "Trek #b",
+      " extra kaarten in de volgende beurt.",
+      " extra kaart in de volgende beurt."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Trek Minder",
+    "DESCRIPTIONS": [
+      "Trek #b",
+      " kaart minder in de volgende beurt.",
+      " kaarten minder in de volgende beurt."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Trekvermindering",
+    "DESCRIPTIONS": [
+      "Trek #b1 kaart minder in de volgende beurt.",
+      "Trek #b1 kaart minder voor #b",
+      " beurten."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echovorm",
+    "DESCRIPTIONS": [
+      "De eerste kaart die je speelt elke beurt wordt tweemaal gespeeld.",
+      "De eerste #b",
+      " kaarten die je speelt elke beurt worden twee keer gespeeld."
+    ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yBliksem raakt ALLE vijanden.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Energiek",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " extra [G] in de volgende beurt.",
+      " extra [G] in de volgende beurt.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energiek",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " extra [B] in de volgende beurt.",
+      " extra [B] in de volgende beurt.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Verstrikt",
+    "DESCRIPTIONS": [
+      "Je kunt geen #yAanvallen spelen deze beurt."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Vergiftigen",
+    "DESCRIPTIONS": [
+      "Wanneer je ongeblokkeerde aanvalsschade aanricht, pas #b",
+      " #yGif toe."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Evolueren",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yStatus kaart trekt, trek #b1 kaart.",
+      "Telkens als je een #yStatus kaart trekt, trek #b",
+      " kaarten."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Explosief",
+    "DESCRIPTIONS": [
+      "Explodeert in #b",
+      " beurten, en richt #b",
+      " schade aan.",
+      "Explodeert deze beurt, en richt #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Extra Kaarten",
+    "DESCRIPTIONS": [
+      "Trek #b1 extra kaart in de volgende beurt.",
+      "Trek #b",
+      " extra kaarten in de volgende beurt."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Voel Geen Pijn",
+    "DESCRIPTIONS": [
+      "Telkens als een kaart wordt #yUhetgeput, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Vuurspuwen",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yStatus of #yVloek kaart trekt, richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Vlammenbarrière",
+    "DESCRIPTIONS": [
+      "Telkens als je wordt aangevallen, richt #b",
+      " schade aan op de aanvaller."
+    ]
+  },
+  "Flex": {
+    "NAME": "Sterkte Omlaag",
+    "DESCRIPTIONS": [
+      "Aan het einde van deze beurt, verlies #b",
+      " #ySterkte."
+    ]
+  },
+  "Flight": {
+    "NAME": "Vlucht",
+    "DESCRIPTIONS": [
+      "Neemt 50% minder aanvalsschade. Wordt geannuleerd als aanvalsschade wordt aangericht #b",
+      " keer in één beurt."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Verhoogt de effectivhetehet van Bollen met #b",
+      "Verlaagt de effectivhetehet van Bollen met #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Fragiel",
+    "DESCRIPTIONS": [
+      "Krijg #b25% minder #yBlok van kaarten voor #b",
+      " beurt.",
+      " beurten."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Openingszet",
+    "DESCRIPTIONS": [
+      "Na #b",
+      " beurt, krijg ",
+      " beurten, krijg ",
+      " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Aan het einde van zijn beurt, krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Groei",
+    "DESCRIPTIONS": [
+      "Aan het einde van zijn beurt, krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Hhettegeleider",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yKracht kaart speelt, trek #b",
+      " kaart.",
+      " kaarten."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hallo",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, voeg #b",
+      " willekeurige Gewone kaarten toe aan je hand.",
+      " willekeurige Gewone kaart toe aan je hand."
+    ]
+  },
+  "Hex": {
+    "NAME": "Bezwering",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yniet-Aanval kaart speelt, schud #b",
+      " #yVersuft in je trekstapel."
+    ]
+  },
+  "Hide": {
+    "NAME": "Verstoppen",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Oneindige Messen",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, voeg #b",
+      " #yMessen toe aan je hand.",
+      " #yMes toe aan je hand."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Ontastbaar",
+    "DESCRIPTIONS": [
+      "Verminder ALLE genomen schade en LP verlies tot #b1 deze beurt. #yOntastbaar wordt om de beurt opnieuw toegepast."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Onoverwinnelijk",
+    "DESCRIPTIONS": [
+      "Kan alleen nog maar #b",
+      " LP verliezen deze beurt.",
+      "Kan geen schade meer krijgen deze beurt."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Hartslag des Doods",
+    "DESCRIPTIONS": [
+      "Telkens als je een kaart speelt, neem #b",
+      " schade."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Ontastbaar",
+    "DESCRIPTIONS": [
+      "Verminder ALLE genomen schade en LP verlies tot #b1."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Omgekeerd",
+    "DESCRIPTIONS": [
+      "Immuun voor schade. Telkens als je #yBlok krijgt, verliest evenveel LP."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Bakbeest",
+    "DESCRIPTIONS": [
+      "Telkens als je #yBlok krijgt, richt #b",
+      " schade aan op een willekeurige vijand."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Kennis",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yKracht kaart speelt, trek #b",
+      " kaarten."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Levenslink",
+    "DESCRIPTIONS": [
+      "Als andere vijanden nog leven, herleeft in #b2 beurten met #b50% LP."
+    ]
+  },
+  "Lockon": {
+    "NAME": "In-Vizier",
+    "DESCRIPTIONS": [
+      "Neemt #b",
+      "% meer schade van Bollen voor #b",
+      " beurt.",
+      " beurten."
+    ]
+  },
+  "Loop": {
+    "NAME": "Lus",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, activeer de passieve vaardigheid van je volgende Bol.",
+      "Aan het begin van je beurt, activeer de passieve vaardigheid van je volgende Bol #b",
+      " keer."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machinaal Leren",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, trek #b",
+      " extra kaart.",
+      " extra kaarten."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetisme",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, voeg #b%s willekeurige Kleurloze kaart toe aan je hand.",
+      "Aan het begin van je beurt, voeg #b%s willekeurige Kleurloze kaarten toe aan je hand."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Kneedbaar",
+    "DESCRIPTIONS": [
+      "Bij het nemen van aanvalsschade, krijg #b",
+      " #yBlok. #yBlok neemt toe als ",
+      " wordt geactiveerd. Wordt gereset naar #b",
+      " aan het begin van je beurt."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Wanorde",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, speel de bovenste kaart van je trekstapel.",
+      "Aan het begin van je beurt, speel de bovenste #b",
+      " kaarten van je trekstapel."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metaliseren",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, krijg #b",
+      " #yBlok.",
+      "Aan het einde van zijn beurt, krijgt #b",
+      " #yBlok."
+    ]
+  },
+  "Minion": {
+    "NAME": "Volgeling",
+    "DESCRIPTIONS": [
+      "Volgelingen vluchten weg van een gevecht zonder hun leider."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Modusverandering",
+    "DESCRIPTIONS": [
+      "Na het nemen van #b",
+      " schade, verandert naar een verdedigingsmodus."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Volgende Beurt Blok",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yBlok in de volgende beurt."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Nachtmerrie",
+    "DESCRIPTIONS": [
+      "Voeg #b",
+      " kaarten toe aan je hand in de volgende beurt."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Geen Aanval",
+    "DESCRIPTIONS": [
+      "Je kunt geen #yAanvallen spelen deze beurt."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Niet Trekken",
+    "DESCRIPTIONS": [
+      "Je kunt geen kaarten trekken deze beurt."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Schadelijke Dampen",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, pas #b",
+      " #yGif toe op ALLE vijanden."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Annuleer Aanval",
+    "DESCRIPTIONS": [
+      "#yBlokkeert één #yAanval volledig elke beurt."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Pijnlijke Steken",
+    "DESCRIPTIONS": [
+      "Telkens als je aanvalsschade krijgt van deze vijand, voeg een #yWond toe aan je aflegstapel."
+    ]
+  },
+  "Panache": {
+    "NAME": "Zwier",
+    "DESCRIPTIONS": [
+      "Als je nog #b",
+      " kaart speelt deze beurt, richt #b",
+      " schade toe op ALLE vijanden.",
+      " kaarten speelt deze beurt, richt #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Penpunt",
+    "DESCRIPTIONS": [
+      "Je volgende #yAanval richt dubbele schade aan."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Schimmig",
+    "DESCRIPTIONS": [
+      "Richt #yDubbele #ySchade aan in de volgende beurt.",
+      "Richt #yDubbele #ySchade aan voor de volgende ",
+      " beurten."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Gepantserde Bescherming",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, krijg #b",
+      " #yBlok. Bij het nemen van ongeblokkeerde aanvalsschade vermindert #yGepantserde #yBescherming met #b1.",
+      "Aan het einde van zijn beurt, krijgt #b",
+      " #yBlok. Bij het nemen van ongeblokkeerde aanvalsschade vermindert #yGepantserde #yBescherming met #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Gif",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, verlies #b",
+      " LP, verminder daarna #yGif met #b1.",
+      "Aan het begin van zijn beurt, verliest #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Voorbereiden",
+    "DESCRIPTIONS": [
+      "Telkens als je een Bol #yKanaliseert, trek #b",
+      " kaart.",
+      " kaarten."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitief",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yGewone kaart speelt, trek #b",
+      " kaart.",
+      " kaarten."
+    ]
+  },
+  "Rage": {
+    "NAME": "Razernij",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yAanval speelt deze beurt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Terugkaatsen",
+    "DESCRIPTIONS": [
+      "De volgende kaart die je speelt deze beurt wordt bovenop je trekstapel geplaatst.",
+      "De volgende #b",
+      " kaarten die je speelt deze beurt worden bovenop je trekstapel geplaatst."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Verminder Schade",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regenereren",
+    "DESCRIPTIONS": [
+      "Aan het einde van zijn beurt, geneest #b",
+      " #yLP."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regeneratie",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, genees #b",
+      " #yLP, verminder daarna #yRegeneratie met #b1.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Repareren",
+    "DESCRIPTIONS": [
+      "Aan het einde van het gevecht, genees #b",
+      " LP."
+    ]
+  },
+  "Repulse": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Kaarten Behouden",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, mag je #b",
+      " kaart behouden.",
+      " kaarten behouden."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Hand Behouden",
+    "DESCRIPTIONS": [
+      "Voor de volgende #b ",
+      "beurten, leg je hand niet af",
+      "Leg je hand niet af aan het einde van deze beurt."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Riposte",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Ritual": {
+    "NAME": "Ritueel",
+    "DESCRIPTIONS": [
+      "Aan het einde van zijn beurt, krijgt #b",
+      " #ySterkte.",
+      "Aan het einde van je beurt, krijg #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "Ruptuur",
+    "DESCRIPTIONS": [
+      "Telkens als je LP verliest door een kaart, krijg #b",
+      " #ySterkte."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadistisch",
+    "DESCRIPTIONS": [
+      "Telkens als je een negatief effect toepast op een vijand, richt #b",
+      " schade aan."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Serpentijn",
+    "DESCRIPTIONS": [
+      "Immuun tegen #yDrankjes."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Geboeid",
+    "DESCRIPTIONS": [
+      "Aan het einde van zijn beurt, krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Scherpe Schubben",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yAanval speelt, neem #b",
+      " schade."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Gil vanuhet het Hiernamaals",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yAanval speelt, leg een willekeurige kaart af."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Vaardigheidsverbranding",
+    "DESCRIPTIONS": [
+      "Voor #b",
+      " beurt, telkens als je een #yVaardigheid speelt, #yPut het #yUhet..",
+      "Voor de volgende #b",
+      " beurten, telkens als je een #yVaardigheid speelt, #yPut het #yUhet."
+    ]
+  },
+  "Slow": {
+    "NAME": "Traag",
+    "DESCRIPTIONS": [
+      "Telkens als je een kaart speelt, ",
+      " neemt #b10% meer schade van #yAanvallen deze beurt.",
+      " (Neemt #b",
+      "% meer schade)"
+    ]
+  },
+  "Split": {
+    "NAME": "Splitsen",
+    "DESCRIPTIONS": [
+      "Wanneer zijn LP op of onder de #b50% is, zal het in #b2 kleinere slijmen splitsen met ",
+      " zijn huidige LP."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Sporenwolk",
+    "DESCRIPTIONS": [
+      "Bij het doodgaan, past #b",
+      " #yKwetsbaar toe."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Stasis",
+    "DESCRIPTIONS": [
+      "Bij het doodgaan wordt ",
+      " teruggegeven aan je hand."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Statische Ontlading",
+    "DESCRIPTIONS": [
+      "Telkens als je aanvalsschade ontvangt, #yKanaliseer #b",
+      " #yBliksem."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yKracht kaart speelt, #yKanaliseer #b",
+      " #yBliksem."
+    ]
+  },
+  "Strength": {
+    "NAME": "Sterkte",
+    "DESCRIPTIONS": [
+      "Verhoogt aanvalsschade met #b",
+      "Vermindert aanvalsschade met y #b",
+      "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "De Bom",
+    "DESCRIPTIONS": [
+      "Aan het einde van #b%1$s beurten, richt #b%2$s schade aan op ALLE vijanden.",
+      "Aan het einde van deze beurt, richt #b%1$s schade aan op ALLE vijanden."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Dieverij",
+    "DESCRIPTIONS": [
+      " steelt #b",
+      " #yGoud telkens als het aanvalt."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Doornen",
+    "DESCRIPTIONS": [
+      "Wanneer aangevallen, richt #b",
+      " schade aan op de aanvaller."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Duizend Sneden",
+    "DESCRIPTIONS": [
+      "Telkens als je een kaart speelt, richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Tijdsverdraaiing",
+    "DESCRIPTIONS": [
+      "Wanneer je #b",
+      " kaarten speelt, beëindigt je beurt en krijgt #b",
+      " #ySterkte."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Vakmanschap",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, trek #b",
+      " kaart en leg #b",
+      " kaart af.",
+      " kaarten en leg #b",
+      " kaarten af."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Onontwaakt",
+    "DESCRIPTIONS": [
+      "Deze vijand is nog niet ontwaakt..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Onstabiel",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Venomology": {
+    "NAME": "Gifwetenschap",
+    "DESCRIPTIONS": [
+      "#yGif wordt sterker met #b",
+      " in plaats van elke beurt te verminderen."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Kwetsbaar",
+    "DESCRIPTIONS": [
+      "Neem #b",
+      "% meer schade van #yAanvallen voor #b",
+      " beurt.",
+      " beurten."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Verzwakt",
+    "DESCRIPTIONS": [
+      "#yAanvallen richten #b",
+      "% minder schade aan voor #b",
+      " beurt.",
+      " beurten."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Schimmenvorm",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, verlies #b",
+      " #yBehendigheid."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Evenwicht",
+    "DESCRIPTIONS": [
+      "#yBehoud je hand deze beurt.",
+      "#yBehoud je hand voor #b",
+      " beurten."
+    ]
+  },
+  "Fading": {
+    "NAME": "Vervaging",
+    "DESCRIPTIONS": [
+      "Sterft binnen #b",
+      " beurten.",
+      "Sterft deze beurt."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Schifting",
+    "DESCRIPTIONS": [
+      "",
+      "Bij het verliezen van LP, verliest evenveel #ySterkte tot het einde van de beurt."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Tijdsdoolhof",
+    "DESCRIPTIONS": [
+      "Wanneer je #b",
+      " kaarten speelt, wordt je beurt beëindigd"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Geen Blok",
+    "DESCRIPTIONS": [
+      "Je kunt geen #yBlok krijgen van kaarten."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Lijkexplosie",
+    "DESCRIPTIONS": [
+      "Bij het doodgaan, richt schade gelijk aan zijn Max LP aan op ALLE vijanden.",
+      "Bij het doodgaan, richt schade gelijk aan zijn Max LP #b",
+      " keer aan op ALLE vijanden."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Omsingeld",
+    "DESCRIPTIONS": [
+      "Neem #b50% meer schade als je van achteren wordt aangevallen. Gebruik gerichte kaarten of drankjes om je oriëntatie te veranderen."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reactief",
+    "DESCRIPTIONS": [
+      "Bij het nemen van aanvalsschade, verandert zijn intentie."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Rugaanval",
+    "DESCRIPTIONS": [
+      "Richt #b50% meer schade aan omdat het je van achteren aanvalt."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Gratis Aanvalskracht",
+    "DESCRIPTIONS": [
+      "Negeer Energiekosten op de volgende #yAanval die je speelt.",
+      "Negeer Energiekosten op de volgende #b",
+      " #yAanvallen die je speelt."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplicatie",
+    "DESCRIPTIONS": [
+      "Je volgende kaart wordt twee keer gespeeld deze beurt.",
+      "Je volgende #b",
+      " kaarten worden twee keer gespeeld deze beurt."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Geen Vaardigheden",
+    "DESCRIPTIONS": [
+      "Je kunt geen #yVaardigheden spelen deze beurt."
+    ]
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED Meesterschap",
+    "DESCRIPTIONS": [
+      "Telkens als je probeert te wisselen van Houdingen naar je huidige Houding, krijg #b.",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Realiteit Beheersen",
+    "DESCRIPTIONS": [
+      "Telkens als er een kaart wordt gecreëerd, wordt het #yGeüpgraded.",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Vergelding",
+    "DESCRIPTIONS": [
+      "Telkens als je LP verliest, krijg #b",
+      " #yKracht."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Vaststelling",
+    "DESCRIPTIONS": [
+      "Telkens als een kaart wordt #yBehouden, verlaag zijn kosten met #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Mentaal Fort",
+    "DESCRIPTIONS": [
+      "Telkens als je wisselt van #yHouding, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED FlowPower",
+    "DESCRIPTIONS": [
+      "Als je een Aanval speelt, krijg #b",
+      " tijdelijke #ySterkte. Als je een Vaardigheid speelt, krijg #b,",
+      " tijdelijke #yBehendigheid."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Telkens als je Scry gebruikt, krijg #b,",
+      " Blok."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Vooruitzicht",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, #yScry #b",
+      "."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Strijdzang",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, voeg #b",
+      " #yStraffen toe aan je hand.",
+      " #yStraffen toe aan je hand."
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Grounded",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yVaardigheid speelt, ga over in #yKalmte."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "Als je #b",
+      " #yMantra verkrijgt, ga over in #yGoddelijkheid."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Slag Omhoog",
+    "DESCRIPTIONS": [
+      "Kaarten die #ySlag bevatten richten #b",
+      " extra schade aan."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED FreeToPlayPower",
+    "DESCRIPTIONS": [
+      "Negeer kosten op de volgende kaart die je deze beurt speelt.",
+      "Negeer kosten op de volgende #b",
+      " kaarten die je deze beurt speelt."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Stormloop",
+    "DESCRIPTIONS": [
+      "Telkens als je overgaat in #yToorn, trek #b",
+      " kaart.",
+      " kaarten."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Kan Niet Van Houding Veranderen",
+    "DESCRIPTIONS": [
+      "Je kunt niet van Houding veranderen deze beurt."
+    ]
+  },
+  "Vault": {
+    "NAME": "Springen",
+    "DESCRIPTIONS": [
+      "Ontvangt #b",
+      " schade aan het begin van je volgende beurt."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Blok Terug",
+    "DESCRIPTIONS": [
+      "Wanneer aangevallen, krijg je #b",
+      " #yBlok."
+    ]
+  },
+  "HotHot": {
+    "NAME": "DEPRECATED Heet heet",
+    "DESCRIPTIONS": [
+      "Als je in #yWoede bent, richt #b",
+      " schade terug aan als je aanvalsschade hebt ontvangen."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "DEPRECATED AngelForm",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, krijg #b",
+      " #yGepantserde #yBescherming."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, ga over in een nieuwe willekeurige basishouding."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Altijd Boos",
+    "DESCRIPTIONS": [
+      "Je ontvangt niet langer dubbele schade tijdens #yWoede."
+    ]
+  },
+  "Collect": {
+    "NAME": "Verzamelen",
+    "DESCRIPTIONS": [
+      "Aan het begin van je volgende beurt, voeg een #yMirakel+ toe aan je hand.",
+      "Aan het begin van je volgende #b",
+      " beurten, voeg een #yMirakel+ toe aan je hand."
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Condenseren",
+    "DESCRIPTIONS": [
+      "Je kan niet meer dan #b krijgen",
+      " van elke aanval."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Sereniteit",
+    "DESCRIPTIONS": [
+      "Als je in #yKalmte bent, LP verlies is verlaagt met #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Godslasteraar",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, sterf."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Slagkracht",
+    "DESCRIPTIONS": [
+      "Je volgende Aanval richt #b",
+      " extra schade aan."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Toewijding",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg #b",
+      " #yMantra."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Sudderende Woede",
+    "DESCRIPTIONS": [
+      "Ga over in #yToorn aan het begin van je beurt."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg [W] ",
+      "Aan het begin van je beurt, krijg [W] #b",
+      " keer ",
+      "en verhoog dit met #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] NL #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Alwetendheid",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Golf van de Hand",
+    "DESCRIPTIONS": [
+      "Telkens als je #yBlok krijgt, pas #b",
+      " #yZwakte toe op ALLE vijanden."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Vastend",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, verlies ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTIONS": [
+      "Als je je beurt eindigt met ongebruikte [W] , trek dat aantal kaarten extra in de volgende beurt."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTIONS": [
+      "Als deze vijand is #yFlicked voor #b",
+      "2 of meer, ontvangt deze #b",
+      "1 keer meer, ontvangt deze #b",
+      " schade."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Merk",
+    "DESCRIPTIONS": [
+      "Telkens als je #yDrukpunten speelt, verliest #b",
+      " LP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Zoals Water",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, als je in #yKalmte bent, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Study": {
+    "NAME": "Bestuderen",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, schud #b",
+      " #yInzicht in je trekstapel.",
+      " #yInzichten in je trekstapel."
+    ]
+  }
+}

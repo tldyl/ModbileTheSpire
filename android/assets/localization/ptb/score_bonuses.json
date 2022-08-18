@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "DESCRIPTIONS": [
+      "Comprou 5 poções."
+    ],
+    "NAME": "Alquimista"
+  },
+  "Ascension": {
+    "DESCRIPTIONS": [
+      "+5% de pontuação por Nível de Ascensão."
+    ],
+    "NAME": "Ascensão"
+  },
+  "Beyond Elites Killed": {
+    "DESCRIPTIONS": [],
+    "NAME": "Elites Mortos no Além"
+  },
+  "Beyond Perfect": {
+    "DESCRIPTIONS": [
+      "Derrote 3 chefes sem sofrer danos."
+    ],
+    "NAME": "Além da Perfeição"
+  },
+  "Bosses Slain": {
+    "DESCRIPTIONS": [],
+    "NAME": "Chefes Mortos"
+  },
+  "Champion": {
+    "DESCRIPTIONS": [
+      "Derrote um Elite sem sofrer danos."
+    ],
+    "NAME": "Campeão"
+  },
+  "Cheater": {
+    "DESCRIPTIONS": [
+      "Pego trapaceando. Se pego duas vezes, sua pontuação nunca mais será enviada para as Tabelas de Classificação."
+    ],
+    "NAME": "Trapaceiro"
+  },
+  "City Elites Killed": {
+    "DESCRIPTIONS": [],
+    "NAME": "Elites Mortos na Cidade"
+  },
+  "Collector": {
+    "DESCRIPTIONS": [
+      "Tenha 4 cópias de qualquer carta não inicial."
+    ],
+    "NAME": "Colecionador"
+  },
+  "Combo": {
+    "DESCRIPTIONS": [
+      "Jogue 20 cartas em um único turno."
+    ],
+    "NAME": "C-c-c-combo"
+  },
+  "Curses": {
+    "DESCRIPTIONS": [
+      "Seu baralho contém 5 maldições."
+    ],
+    "NAME": "Maldições!"
+  },
+  "Encyclopedian": {
+    "DESCRIPTIONS": [
+      "Tamanho do baralho de pelo menos 50 cartas."
+    ],
+    "NAME": "Enciclopédia"
+  },
+  "Exordium Elites Killed": {
+    "DESCRIPTIONS": [],
+    "NAME": "Elites Mortos no Exórdio"
+  },
+  "Heartbreaker": {
+    "DESCRIPTIONS": [
+      "Derrote o Coração."
+    ],
+    "NAME": "Partidor de Corações"
+  },
+  "Highlander": {
+    "DESCRIPTIONS": [
+      "Seu baralho não contém duplicatas (tirando cartas iniciais)."
+    ],
+    "NAME": "Highlander"
+  },
+  "I Like Gold": {
+    "DESCRIPTIONS": [
+      "Acumulou 3.000 de ouro."
+    ],
+    "NAME": "Eu gosto de ouro"
+  },
+  "Librarian": {
+    "DESCRIPTIONS": [
+      "Tamanho do baralho de pelo menos 35 cartas"
+    ],
+    "NAME": "Bibliotecário"
+  },
+  "Light Speed": {
+    "DESCRIPTIONS": [
+      "Vitória em menos de 45 minutos."
+    ],
+    "NAME": "Velocidade da Luz"
+  },
+  "Minimalist": {
+    "DESCRIPTIONS": [
+      "Removeu 5+ cartas do seu deck."
+    ],
+    "NAME": "Minimalista"
+  },
+  "Money Money": {
+    "DESCRIPTIONS": [
+      "Acumulou 1.000 de ouro."
+    ],
+    "NAME": "Dinheiro, Dinheiro"
+  },
+  "Mystery Machine": {
+    "DESCRIPTIONS": [
+      "Viajou para 15+ salas de ?"
+    ],
+    "NAME": "Máquina Misteriosa"
+  },
+  "On My Own Terms": {
+    "DESCRIPTIONS": [
+      "Se matou."
+    ],
+    "NAME": "Nos Meus Próprios Termos"
+  },
+  "Overkill": {
+    "DESCRIPTIONS": [
+      "Dê 99 de dano com um único ataque."
+    ],
+    "NAME": "Exagero"
+  },
+  "Pauper": {
+    "DESCRIPTIONS": [
+      "Tenha 0 cartas raras."
+    ],
+    "NAME": "Pobre"
+  },
+  "Perfect": {
+    "DESCRIPTIONS": [
+      "Derrote um chefe sem sofrer danos."
+    ],
+    "NAME": "Perfeição"
+  },
+  "Poopy": {
+    "DESCRIPTIONS": [
+      "Recebeu o Cocô Espiritual."
+    ],
+    "NAME": "Cocôzinho"
+  },
+  "Raining Money": {
+    "DESCRIPTIONS": [
+      "Acumulou 2.000 de ouro."
+    ],
+    "NAME": "Chovendo Dinheiro"
+  },
+  "Shiny": {
+    "DESCRIPTIONS": [
+      "Tenha 25+ relíquias."
+    ],
+    "NAME": "Eu Gosto de Brilhantes"
+  },
+  "Speedster": {
+    "DESCRIPTIONS": [
+      "Vitória em menos de 60 minutos."
+    ],
+    "NAME": "Velocista"
+  },
+  "Stuffed": {
+    "DESCRIPTIONS": [
+      "Aumentou seu PV máximo em 30+."
+    ],
+    "NAME": "Estufado"
+  },
+  "Well Fed": {
+    "DESCRIPTIONS": [
+      "Aumentou seu PV máximo em 15+."
+    ],
+    "NAME": "Bem Alimentado"
+  }
+}

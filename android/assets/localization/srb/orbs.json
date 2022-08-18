@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPasiv: povećaj štetu ove sfere na početku poteza za #b",
+      ". NL #yAktivacija: nanesi štetu ( #b",
+      " ) neprijatelju sa najmanje ž. p."
+    ],
+    "NAME": "Tama"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Prizvane sfere se pojavljuju u ovim poljima."
+    ],
+    "NAME": "Sferno polje"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPasiv: zadobi #b",
+      " #yodbrane na kraju svog poteza. NL #yAktivacija: zadobi #b",
+      " #yodbrane."
+    ],
+    "NAME": "Mraz"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPasiv: na kraju svog poteza, nanesi #b",
+      " štete nasumičnom neprijatelju. NL #yAktivacija: nanesi #b",
+      " štete nasumičnom neprijatelju."
+    ],
+    "NAME": "Munja"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPasiv: zadobi [B] na kraju svog poteza. NL #yAktivacija: zadobi #b",
+      " [B] . NL #yPotentnost ne utiče na plazmu."
+    ],
+    "NAME": "Plazma"
+  }
+}

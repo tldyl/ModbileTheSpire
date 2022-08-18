@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Verlaat Sessie"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Vergrendeld",
+      "Onbekend"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Ga Door"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Dood",
+      "Geblokkeerd",
+      "Max LP +",
+      "Overdonderd!",
+      "Onderbroken!",
+      "Relikwieën"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Ga Door",
+      "Ziektes:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Agressief",
+      "Deze vijand is van plan je NL #yAan #yte #yvallen voor #b",
+      " schade #b",
+      " keer.",
+      "Deze vijand is van plan je NL #yAan #yte #yvallen voor #b",
+      " schade.",
+      "Agressief",
+      "Deze vijand is van plan om een #yEffect toe te passen en #yAan #yte #yvallen voor #b",
+      " keer.",
+      "Deze vijand is van plan om een #yEffect toe te passen en #yAan #te #yvallen voor #b",
+      "Strategisch",
+      "Deze vijand is van plan om een #yNegatief #yEffect op jou toe te passen en #yAan #yte #yvallen voor #b",
+      "Deze vijand is van plan om te #yBlokkeren en #yAan #yte #yvallen voor #b",
+      "Defensief",
+      "Laf",
+      "Magisch",
+      "Slapen",
+      "Overdonderd",
+      "Onbekend",
+      "Deze vijand is van plan een #yEffect toe te passen.",
+      "Deze vijand is van plan een #yNegatief #yEffect op jou toe te passen.",
+      "Deze vijand is van plan een krachtig #yNegatief #yEffect op jou toe te passen.",
+      "Deze vijand is van plan om te #yBlokkeren tijdens zijn beurt.",
+      "Deze vijand is van plan om te #yBlokkeren en een #yNegatief #yEffect op jou toe te passen.",
+      "Deze vijand is van plan om te #yBlokkeren en een #yEffect toe te passen.",
+      "Deze vijand is van plan om te #yOntsnappen.",
+      "Deze vijand is van plan om mysterieuze #yMagie te gebruiken tijdens zijn beurt.",
+      "Deze vijand slaapt.",
+      "Deze vijand is #yOverdonderd tijdens zijn beurt.",
+      "Deze vijands plannen zijn #yOnbekend (valt niet aan).",
+      "Geblokkeerd"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Geblokkeerd",
+      "de Gepantserde",
+      "de Stille",
+      "het Mankement",
+      "de Waarneemster"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Ik kan niet nog meer Drankjes dragen."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Overvallen...",
+      "Gevlucht..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Kies een Kaart om aan je Hand Toe te Voegen.",
+      "Kies Kaarten om aan je Hand Toe te Voegen."
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Tenietgedaan",
+      "Immuun",
+      "Geannuleerd",
+      "\n Omlaag"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "te Upgraden"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Elites komen vaker voor.",
+      "2. Normale vijanden zijn dodelijker.",
+      "3. Elites zijn dodelijker.",
+      "4. Bazen zijn dodelijker.",
+      "5. Genees minder na Baasgevechten.",
+      "6. Start elke sessie beschadigd.",
+      "7. Normale vijanden zijn taaier.",
+      "8. Elites zijn taaier.",
+      "9. Bazen zijn taaier.",
+      "10. Start elke sessie vervloekt.",
+      "11. Minder Drankjessleuven.",
+      "12. Geüpgradede kaarten komen minder vaak voor.",
+      "13. Arme bazen.",
+      "14. Lagere Max LP.",
+      "15. Ongunstige Evenementen.",
+      "16. Winkels zijn duurder.",
+      "17. Normale vijanden hebben uitdagendere zetten en vaardigheden.",
+      "18. Elites hebben uitdagendere zetten en vaardigheden.",
+      "19. Bazen hebben uitdagendere zetten en vaardigheden.",
+      "20. (Maximale Niveau) Dubbele Bazen."
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Bestijgingsmodus Niveau ",
+      " Ontgrendeld!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Bestijging Ontgrendeld!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Kies een Aanval om aan je Hand Toe te Voegen."
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Gevecht Start",
+      "Spelers Beurt",
+      "Vijands Beurt",
+      " beurt"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Kies een Kaart om aan je Hand Toe te Voegen.",
+      "Kies ",
+      " Kaarten om aan je Hand Toe te Voegen."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Ga Door"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Bevestig",
+      "Bevestig Je Selectie",
+      "Kies een Relikwie",
+      "Overslaan",
+      "STEM NU: ",
+      "s over.",
+      "Kies een Ziekte"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Kies een Kaart om Bovenop je Trekstapel te Plaatsen.",
+      "Kies Kaarten om Bovenop je Trekstapel te Plaatsen."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Dromen?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Selecteer een Kaart om te Upgraden"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Selecteer een Kaart om te Verwijderen."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Wat te doen?",
+      "Hmm...",
+      "Wat zal ik doen?",
+      "Tijd voor een pauze",
+      "Zo veel opties...",
+      "Ik moet rusten",
+      "Zo moe..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Verwijder Opslag"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Zeldzaamheid",
+      "Type",
+      "A-Z",
+      "Kosten",
+      "Spring Naar:",
+      "Verkregen"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Ga Terug",
+      "Rood",
+      "Groen",
+      "Blauw",
+      "Kleurloos",
+      "Vloeken",
+      "Statussen",
+      "Bekijk Upgrade",
+      "Paars"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Overslaan",
+      "Kies een Kaart",
+      "+2 Max LP",
+      "STEM NU: ",
+      "s over.",
+      "Bekijk Upgrade",
+      "Kies er een"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Vergrendeld",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid.",
+      "Dit Personage is nog niet beschikbaar in Vervroegde Toegang.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Stille.",
+      "LP: ",
+      "Goud: ",
+      " Ontgrendelingen Over",
+      "Onbekend",
+      "???",
+      " Tot Volgende Ontgrendeling",
+      "Dit Personage wordt ontgrendeld als je een standaard sessie wint en het 3e Personage al hebt Ontgrendeld."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Kies Je Personage",
+      "Beginnen",
+      "De Gepantserde",
+      "De Stille",
+      "Het Mankement",
+      "Terug",
+      "Bestijging",
+      "Niveau ",
+      "Bestijgingsmodus",
+      "Sessies worden moeilijker als je wint... (Overwinningsreeksen worden niet aangetast)",
+      "Code ",
+      "Willekeurige Code",
+      "De startcode wordt gebruikt om te bepalen wat er willekeurig tevoorschijn komt in de sessie.",
+      "Stel Code In",
+      "De Waarneemster"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Kies Er Een"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Ga Door",
+      "Sla Kaart Over",
+      "Sla Goud Over",
+      "Sla Drankje Over",
+      "Sla Relikwie Over",
+      "Sla Beloningen Over",
+      "Sluit",
+      "Schat!",
+      "Wat zit er in?",
+      "Beloningen!",
+      "Buit!",
+      "Plundering!",
+      "Tip: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Bevestig"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Ga Terug",
+      "Verwijder Opslag",
+      "Ja",
+      "Nee"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "te Kopiëren"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Klik nogmaals om weg te gaan",
+      "om weg te gaan",
+      "Tik nogmaals om weg te gaan"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Dagelijkse Uitdaging",
+      "Verbinden met Tijdserver...",
+      "#yNOTITIE: Je hebt de uitdaging van vandaag gedaan. NL Scores worden niet verstuurd voor herhaalde pogingen.",
+      "Ga Terug",
+      "Beginnen",
+      "Personage van vandaag: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Tijd Over: ",
+      "#yVerdieping #yBereikt: NL  ",
+      " NL NL  #ystok: NL ",
+      " NL NL  #yRelikwieën: NL  ",
+      " NL Uitdaging van Vandaag: NL #yKlasse: NL ",
+      " NL #yAanpassingen: ",
+      "Aanpassingen: ",
+      "Scorebord",
+      "*Prestaties staan uit voor Dagelijkse Uitdaging.",
+      "  [OFFLINEMODUS]",
+      "yyyy/MM/dd",
+      "*Trofeeën staan uit voor Dagelijkse Uitdaging."
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Ga Door",
+      "Overwinning?",
+      "Verdiepingen Beklommen",
+      "Bazen Verslagen",
+      "Speeltijd",
+      "Speeltijd",
+      "Score",
+      "Overwonnen",
+      "Dood...",
+      "Nederlaag",
+      "Verslagen!",
+      "Ontheiligd",
+      "Verwoesting",
+      "Overwonnen",
+      "Je bent Verslagen!",
+      "Een vertrouwd gevoel.",
+      "Een dutje klinkt goed.",
+      "Zoals je zaait, zo zal je oogsten.",
+      "Verkeerde kant opgegaan.",
+      "Hier was ik niet op voorbereid.",
+      "Ik zal het morgen opnieuw proberen.",
+      "Ik heb een nieuwe kaart nodig.",
+      "Onvoldoende voorbereid.",
+      "Onbegrijpelijk!",
+      "Is dit mijn ware potentie?",
+      "Dat is mijn geluk weer...",
+      "Niet op deze manier...",
+      "Niet precies de top.",
+      "De Spire consumeert er nog een...",
+      "Je bewustzijn vervaagt...",
+      "Nederlaag",
+      "Acceptatie",
+      "Ga Door",
+      "Probeer Opnieuw",
+      "Hoofdmenu",
+      "Ga Door",
+      "Ontgrendel",
+      "Hoofdmenu",
+      "Probeer Opnieuw",
+      "Ga Door",
+      "Ontgrendel",
+      "Ontgrendelingen Over: ",
+      "Ontgrendeling Over: ",
+      "Vijanden Verslagen",
+      "Elites Gedood",
+      "Niet Uitgegeven Goud",
+      "LP Bonus"
+    ],
+    "EXTRA_TEXT": [
+      "Aanhef Elites Gedood",
+      "Stad Elites Gedood",
+      "Uiterste Elites Gedood",
+      "Snelheidsduivel",
+      "Lichtsnelheid",
+      "Hooglander",
+      "Collectie",
+      "Volledige Set",
+      "Pauper",
+      "Bibliothecaris",
+      "Encyclopedie",
+      "Goed Gevoed",
+      "Gevuld",
+      "Vervloekt!",
+      "Op Mijn Eigen Voorwaarden",
+      "Kampioen",
+      "Perfect",
+      "Beter Dan Perfect",
+      "Overdreven Vermoord",
+      "C-c-c-combo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Bestijgingsmodus Niveau ",
+      " Ontgrendeld!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Verwijder deze opslag?",
+      "Ja",
+      "Nee",
+      "WAARSCHUWING: Deze actie kan niet ongedaan worden gemaakt."
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Graven",
+      "Graaf een willekeurige Relikwie op."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "AfLeggen"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Mijn Aflegstapel is #rleeg."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Selecteer een Kaart om Terug in je Hand te Plaatsen."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Kies een Kaart om Bovenop je Trekstapel te Plaatsen."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Kaarten hierin worden in je trekstapel geschud als je geen kaarten meer hebt.",
+      "Ga Terug",
+      "Aflegstapel"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Mijn Trekstapel is #rleeg."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Kaarten worden hiervandaan getrokken aan het begin van elke beurt.",
+      "(Kaarten die getoond worden zijn gesorteerd op zeldzaamheid)",
+      "Ga Terug",
+      "Trekstapel"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Dupliceren"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Selecteer een Startkamer",
+      "Ga Terug"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Uitleg",
+      "Wil je graag hints zien terwijl je het spel speelt?",
+      "Akte 1",
+      "Aanhef",
+      "Akte 2",
+      "De Stad",
+      "Akte 3",
+      "Het Uiterste",
+      "Laatste Akte",
+      "Het Einde",
+      "Klik Ergens om Door te Gaan"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Wat is Vervroegde Toegang?",
+      "Wat is een Open Bèta",
+      "Slay the Spire is nog steeds in actieve ontwikkeling! NL Veel kenmerken, kaarten, en vijanden ondergaan nog steeds veranderingen. NL NL Als je een probleem tegenkomt of enige feedback hebt, laat het ons alsjeblieft weten op onze #bSteam #bDiscussie pagina. NL NL Genoeg gelezen, je hebt een spire te beklimmen!",
+      "Slay the Spire is nog steeds in actieve ontwikkeling! NL Bovendien speel je de Bètaversie van het spel. NL NL Laat het ons alsjeblieft weten als je enige problemen tegenkomt tijdens het spelen, maar wees niet verbaasd door tijdelijke kunststukken voor aankomende inhoud. NL NL Genoeg gelezen, je hebt een spire te beklimmen!",
+      "Klik ergens om te Beginnen",
+      "Ga Door"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Beëindig Beurt",
+      "Vijands Beurt"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Uitputten"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Deze kaarten zijn uitgeput tijdens dit gevecht.",
+      "Ga Terug"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Selecteer een Kaart om Terug in je Hand te Plaatsen"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Verlaat Spel"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Aanhef"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "Vervangen (Gokfiche)",
+      "Vervangen"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Spel~ #y~Opgeslagen~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Goud"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Bevestig",
+      "Annuleer",
+      "Bevestig Je Selectie",
+      "Verlaat"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Bevestig Kaart om ",
+      "Bevestig Kaarten om ",
+      "Kies ",
+      " Kaarten om ",
+      "Kies Elk Gewenst Aantal Kaarten om ",
+      "Kies een Kaart om ",
+      "te Kopiëren"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Uit te Putten"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Invoerinstellingen",
+      "Spelinstellingen",
+      "Ga Terug",
+      "Commando's",
+      "Toetsenbord",
+      "Controller",
+      "Reset naar Standaard",
+      "Bevestig Kaart",
+      "Annuleer / Verlaat",
+      "Kaart",
+      "Bekijk stok",
+      "Trekstapel",
+      "Aflegstapel",
+      "Uitputstapel",
+      "Beëindig Beurt",
+      "Links",
+      "Rechts",
+      "Selecteer Kaart #1",
+      "Selecteer Kaart #2",
+      "Selecteer Kaart #3",
+      "Selecteer Kaart #4",
+      "Selecteer Kaart #5",
+      "Selecteer Kaart #6",
+      "Selecteer Kaart #7",
+      "Selecteer Kaart #8",
+      "Selecteer Kaart #9",
+      "Selecteer Kaart #10",
+      "Laat Kaart Los",
+      "Selecteer*",
+      "Annuleer*",
+      "Toppaneel*",
+      "Ga Door / Beëindig Beurt*",
+      "Tab Links / Bekijk stok*",
+      "Tab Rechts / Uitputstapel*",
+      "Kaart*",
+      "Instellingen*",
+      "Trekstapel*",
+      "Aflegstapel*",
+      "Boven*",
+      "Beneden*",
+      "Links*",
+      "Rechts*",
+      "Boven (Alt)*",
+      "Beneden (Alt)*",
+      "Links (Alt)*",
+      "Rechts (Alt)*",
+      "Boven",
+      "Beneden",
+      "Controller Ingeschakeld",
+      "Touchscreen Modus",
+      "Gluren"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Braziliaans-Portugees",
+      "Chinees (Vereenvoudigd)",
+      "Chinees (Traditioneel)",
+      "Engels",
+      "Frans",
+      "Duits",
+      "Italiaans",
+      "Japans",
+      "Koreaans",
+      "Pools",
+      "Russisch",
+      "Spaans",
+      "Hebreeuws",
+      "Turks",
+      "Zweeds",
+      "Noors",
+      "Thais",
+      "Servisch (Cyrillisch)",
+      "Oekraïens",
+      "Vietnamees",
+      "Hongaars",
+      "Servisch (Latijn)",
+      "Catalaans",
+      "Grieks",
+      "Indonesisch",
+      "Esperanto",
+      "Nederlands"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Gepantserde",
+      "De Stille",
+      "Mankement",
+      "Gemiddelde Verdieping Bereikt (Afgelopen 20 Pogingen)",
+      "Gemiddelde Score (Afgelopen 20 Pogingen)",
+      "Beste Overwinningsreeks",
+      "Snelste Overwinning",
+      "Hoogste Score",
+      "Option 6. DO NOT TRANSLATE",
+      "Vrienden",
+      "Globaal",
+      "Waarneemster"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Ga Terug",
+      "Filters",
+      "Personage",
+      "Regio",
+      "Type",
+      "Bekijk Mijn Score",
+      "Rang",
+      "Naam",
+      "Score",
+      "Ophalen van Gegevens...",
+      "Scorebord",
+      "Niet Verbonden met Steam",
+      "Geen Scores Beschikbaar \n Ga Slay the Spire spelen!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Onbekend",
+      "???",
+      "Een onbekende kamer. NL NL Je kunt monsters, schatten, winkels, of iets totaal anders tegenkomen.",
+      "Handelaar",
+      "Winkels",
+      "De mysterieuze Handelaar verkoopt zijn waren in deze kamers. NL NL Geef je welverdiende #yGoud hier uit!",
+      "Schat",
+      "Schatkamers",
+      "#yRelikwieën en #yGoud kunnen in deze begeerde kamers worden gevonden.",
+      "Rust",
+      "Rustplaatsen",
+      "Bezoek deze kamers om wat LP te #gGenezen of een kaart te #yUpgraden.",
+      "Vijand",
+      "Vijanden",
+      "Onvriendelijke vijanden verblijven in deze kamers.",
+      "Elite",
+      "Elites",
+      "Sterke tegenstanders zitten in deze kamers. NL NL Als je hen verslaat levert het je een Relikwie op.",
+      "Legenda"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Heffen",
+      "Begin gevechten met +1 Sterkte. (Tot en met 3)",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yBouw: ",
+      "Beginnen",
+      "Ga Terug",
+      "klik om te bewerken",
+      "om te bewerken",
+      "tik om te bewerken"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Je begint elk gevecht met alle kaarten hierin.",
+      "Ga Terug"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Spelen",
+      "",
+      "",
+      "Ga Verder",
+      "",
+      "Statistieken",
+      "",
+      "Afsluiten",
+      "Patch Notities",
+      "Sessie Verlaten",
+      "",
+      "Instellingen",
+      "",
+      "Compendium"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standaard",
+      "",
+      "Begeef je op een queeste om de Spire te verslaan.",
+      "Dagelijkse Uitdaging",
+      "",
+      "Een nieuwe uitdaging is eenmaal per dag beschikbaar.\n\nConcurreer met andere spelers voor de hoogste score!",
+      "Bestijging",
+      "",
+      "De Spire wordt sterker bij elke overwinning.\n\nTest de grenzen van je machtigste strategieën.",
+      "Kaarten- bibliotheek",
+      "",
+      "Bekijk alle kaarten die je bent tegengekomen in de Spire.",
+      "Relikwie- verzameling",
+      "",
+      "Bestudeer de verschillende snuisterijen en artefacten die je hebt verkregen tijdens je sessies.",
+      "Vijandenboek",
+      "",
+      "Deze functie is nog niet beschikbaar.",
+      "Personage- statistieken",
+      "",
+      "De voortgang en statistieken voor elk personage zijn hier te zien.",
+      "Scorebord",
+      "",
+      "Bekijk en vergelijk je score met vrienden en andere spelers.",
+      "Sessie- geschiedenis",
+      "",
+      "Bekijk je eerdere pogingen om de Spire te doden.",
+      "Spelinstellingen",
+      "",
+      "Wijzig je resolutie en zet verschillende opties aan/uit.",
+      "Invoer- instellingen",
+      "",
+      "Wijzig je knoppen en sneltoetsen.",
+      "Credits",
+      "",
+      "Bekijk alle mensen die hebben bijgedragen aan Slay the Spire!",
+      "Onbekend",
+      "Speel een Dagelijkse Uitdaging om deze spelmodus te ontgrendelen.",
+      "Deze functie is nog niet beschikbaar.",
+      "Aangepast",
+      "Pas je eigen sessie aan met unieke aanpassingen.",
+      "Wijzig je knoppen.",
+      "Wijzig je grafische instellingen, audio en gameplay voorkeuren.",
+      "Drankjes Lab",
+      "Observeer de talloze drankjes gevonden tijdens het beklimmen van de Spire."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Kaartverwijderingsservice",
+      "AANBIEDING",
+      "Niet te Koop",
+      "Uitverkocht",
+      "Oh nee!"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Deze vijand is niet van plan om aan te vallen!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Spelinstellingen",
+      "Beeld",
+      "Resolutie: NL Max Framerate:",
+      "Volledig Scherm NL Randloos Volledig Scherm (aanbevolen) NL Schermtrillingen",
+      "Geluid",
+      "Meestervolume NL Muziekvolume NL Effectenvolume",
+      "Omgevingsgeluidseffecten NL Dempen op de achtergrond",
+      "Voorkeuren",
+      "Toon samengevatte schade in goud NL Toon geblokkeerde schade in blauw NL Schakel de bevestiging uit bij het kiezen van 1 kaart",
+      "Snelle Modus",
+      "",
+      "Diversen",
+      "Taal:",
+      "Upload gameplay-gegevens #b(?)",
+      "Verlaat Spel",
+      "Opslaan & Afsluiten",
+      "NL NL VSync",
+      "Speeltesterkunstmodus",
+      "Toon Kaartsnelkeuzetoetsen",
+      "Invoerinstellingen",
+      "Zet Deeltjeseffecten Uit",
+      "Resolutie:",
+      "Resolutie: NL Volledig Scherm Beeldscherm:",
+      "Verandert welk beeldscherm wordt gebruikt voor Volledig Scherm.",
+      "Ingedrukt houden om te Bevestigen",
+      "Grotere Tekst"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Ga Terug",
+      "#yPatch #yNotities",
+      " NL (TIJDELIJK: Gebruik de pijltjestoetsen om door oudere logs te bladeren)"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Gooi",
+      "Drink",
+      "Leg Af",
+      "Ik kan geen drankjes gebruiken!",
+      "Ik kan dat niet doen in het gevecht!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Uitgewerkt"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Ga Door"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "bovenop je trekstapel plaatsen"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Herinneren",
+      "Ontvang de Robijnen Sleutel."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Uit te Putten"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Ga Terug",
+      "Starter:",
+      "Personages kunnen beginnen met deze relikwieën.",
+      "Gewoon:",
+      "Zwakke relikwieën die vaak worden aangetroffen.",
+      "Ongewoon:",
+      "Sterkere relikwieën die minder vaak voorkomen dan gewone relikwieën.",
+      "Zeldzaam:",
+      "Unieke en krachtige relikwieën die zelden worden gezien.",
+      "Baas:",
+      "Relikwieën gevonden in Baas kisten.",
+      "Evenement:",
+      "Relikwieën die je alleen kunt verkrijgen door evenementen.",
+      "Winkel:",
+      "Relikwieën die alleen gekocht kunnen worden van de Handelaar."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<geen naam>",
+      "Vul Jouw Naam In",
+      "Bevestig",
+      "Annuleer"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Deze vijand is van plan om aan te vallen!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Af te Leggen"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Rust",
+      "Genees voor 100% van je Max LP (",
+      " LP van ",
+      "Genees voor 30% van je Max LP (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Start het spel opnieuw om weergavewijzigingen te activeren."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "te Behouden"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Goud (Teruggestolen)",
+      " Goud",
+      "Voeg een kaart toe aan je stok",
+      "",
+      "Kies een Kaart",
+      "Smaragden Sleutel",
+      "Saffieren Sleutel",
+      "Gekoppeld",
+      "Als je dit in ontvangst neemt zal ",
+      " verwijderd worden."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Onbekend",
+      "Vijand",
+      "Elite",
+      "Evenement",
+      "Baas",
+      "Schat",
+      "Baasschat",
+      "Rust",
+      "Handelaar",
+      "Onbekend (Vijand)",
+      "Onbekend (Handelaar)",
+      "Onbekend (Schat)",
+      "Verdieping %1$s - %2$s",
+      "Verdieping %s",
+      "#r%s Schade",
+      "#r%s Beurten",
+      "#r%s #r/ #r%s #rLP",
+      "#y%s #yGoud",
+      "#yVerkregen:",
+      "#yOvergeslagen:",
+      "Ontbrekende Informatie",
+      "+2 Max LP",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bUitgerust",
+      "#bGeüpgraded %s",
+      "#bVerwijderd %s",
+      "#bGegraven",
+      "#bGeheven %s/%s",
+      "#yGekocht:",
+      "#rUitgegeven ",
+      "#rGenomen ",
+      "#rVerloren ",
+      "%s Max LP",
+      "#bGenezen ",
+      "#bGekregen ",
+      "#bGenegeerd ",
+      "%s LP",
+      "#bOntvangen %s",
+      "#rVervloekt #rmet #r%s",
+      "%s Schade",
+      "#bGeüpgraded %s",
+      "#bGetransformeerd %s",
+      "#rVerloren %s",
+      "#bRecalled"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Bende van Gremlins",
+      "Grote Slijm",
+      "Aanhef Dieven",
+      "Aanhef Dieren",
+      "Zwerm van Slijmen",
+      "Kleine Slijmpjes",
+      "Stad Overvallers",
+      "Drie Vogyls",
+      "Vier Vogyls",
+      "Driedubbele Sekteleden",
+      "Gekozen Zwerm",
+      "Wachter en Bolvormige Bewaarder",
+      "Honderdman en Mysticus",
+      "Parasiet en Schimmelbeest",
+      "Gemaskerde Dievenbende",
+      "Colosseum Nobs",
+      "Colosseum Slavenhandelaren",
+      "Drie Vormen",
+      "Kaakwormhorde",
+      "Vier Vormen",
+      "Bolvormige Bewaarder met Vormen",
+      "Dubbele Bolwandelaars",
+      "Donu en Deca",
+      "Wachters",
+      "Gekozen en Sektelid",
+      "(Verouderd) Vlammenpletser",
+      "(Verouderd) Slavenhandelaar en Parasiet",
+      "(Verouderd) Slecko en Mystici",
+      "Schild en Speer"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "De Gepantserde",
+      "De Stille",
+      "Het Mankement",
+      "Ga Terug",
+      "Geen sessiegeschiedenissen gevonden. NL Ga Slay the Spire spelen!",
+      "Bestijgingsmodus Niveau: ",
+      "Verslagen op Verdieping %1$d door %2$s",
+      "Verlaten Sessie op Verdieping %d",
+      "Overwinning!",
+      "Kaarten",
+      "Relikwieën",
+      "Starter",
+      "Gewoon",
+      "Ongewoon",
+      "Zeldzaam",
+      "Speciaal",
+      "Vloek",
+      "Baas",
+      "Winkel",
+      "Onbekend",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "Alle Personages",
+      "Alle Sessies",
+      "Overwinningen",
+      "Verliezen",
+      "Dagelijks",
+      "Elk Speltype",
+      "Normaal",
+      "Bestijging",
+      "Dagelijkse Uitdaging",
+      "Code: %s",
+      "Aangepaste Code: %s",
+      "yyyy/M/d, HH:mm",
+      "De Waarneemster"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Voer een nieuwe Code in",
+      "Bevestig",
+      "Annuleer",
+      "*Prestaties en Scorebord zijn uitgeschakeld als een aangepaste Code wordt gebruikt.",
+      "*Trofeeën en Scorebord zijn uitgeschakeld als een aangepaste Code wordt gebruikt."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Weet je het zeker?",
+      "Je voortgang wordt automatisch opgeslagen.",
+      "Als je het spel verlaat zal dit resulteren in een verlies.",
+      "WAARSCHUWING:\nVoortgang NIET opgeslagen.\n\nBereik de volgende verdieping om deze huidige sessie op te slaan.",
+      "Ga Terug",
+      "Voortgang wordt NIET opgeslagen voor dagelijkse sessies."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "bovenop je trekstapel te plaatsen."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "onderop je trekstapel te plaatsen."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Sla Handelaar Over"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Aanval",
+      "Vaardigheid",
+      "Kracht",
+      "Vloek",
+      "Vergrendeld",
+      "Onbekend",
+      "Bekijk Upgrade",
+      "Status",
+      "",
+      "Ik kan alleen kaarten spelen tijdens mijn beurt.",
+      "Ik ben #rVerstrikt! NL Kan geen Aanvallen spelen",
+      "Niet genoeg #rEnergie.",
+      "Niet genoeg #rLadingen.",
+      "Ik kan deze NL kaart niet spelen.",
+      "Bètakunst"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Baas",
+      "Gewoon",
+      "Verouderd",
+      "Zeldzaam",
+      "Winkel",
+      "Evenement",
+      "Starter",
+      "Ongewoon",
+      "Vergrendeld",
+      "Onbekend",
+      " Relikwie",
+      "Deze relikwie moet nog worden ontgrendeld.",
+      "Deze relikwie ben je nog niet tegen gekomen."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Kies een Vaardigheid om aan je Hand Toe te Voegen."
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Smeden",
+      "Upgrade een kaart in je stok.",
+      "Geen upgradebare kaarten."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Je hebt hier geen plek voor"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Het Uiterste"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "De Stad"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Het Einde"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energie"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Trekje",
+      "Verwijder een kaart uit je stok."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " Verdieping",
+      " - Bestijging ",
+      " (Maximale Niveau)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Kist Overslaan"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Kist Overslaan"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "STEM NU: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Ga Door"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Kaarten Ontgrendeld!",
+      "",
+      "Relikwieën Ontgrendeld!",
+      "Nieuw Personage",
+      "Notitie: Ontgrendelde kaarten verschijnen in toekomstige sessies.",
+      "Notitie: Ontgrendelde relikwieën verschijnen in toekomstige sessies."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Kaarten Ontgrendeld!",
+      "Relikwieën Ontgrendeld!",
+      "Nieuw Personage",
+      "Notitie: Ontgrendelde kaarten verschijnen in toekomstige sessies.",
+      "Notitie: Ontgrendelde relikwieën verschijnen in toekomstige sessies."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Nieuwe Ontgrendeling!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Aangepaste Modus",
+      "Prestaties en Scorebord staan uit.",
+      "Personage",
+      "Bestijging",
+      "Niveau ",
+      "Bestijgingsmodus",
+      "Aanpassingen",
+      "Code",
+      "Stel Code In",
+      "Trofeeën en Scorebord staan uit."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Speeltijd ",
+      "Lege Sleuf"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Kies een Opslag Sleuf",
+      "Naam Veranderen",
+      "Verwijder deze Opslag"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Ga Door",
+      "Verdiepingen Beklommen",
+      "Bazen Verslagen",
+      "Gespeelde Tijd",
+      "Score",
+      "Ontgrendel",
+      "Ontgrendelingen Over: ",
+      "Ontgrendeling Over: ",
+      "Vijanden Verslagen",
+      "Elites Gedood",
+      "Niet Uitgegeven Goud",
+      "LP Bonus",
+      "Overwinning!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Bepantserde Bètakaartkunst Ontgrendeld!",
+      "De Stille Bètakaartkunst Ontgrendeld!",
+      "Mankement Bètakaartkunst Ontgrendeld!",
+      "Alle Bètakaartkunst Ontgrendeld!",
+      "Waarneemster Bètakaartkunst Ontgrendeld!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Dagelijks - Verdieping %s",
+      "Aangepast - Verdieping %s",
+      " V%s",
+      "Hoofdmenu",
+      "B%s "
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Druk ",
+      " om te Starten",
+      "Verander Profiel",
+      "Weergavegebied",
+      "Een inlog-verandering heeft plaatsgevonden. Log opnieuw in of ga terug naar het titelscherm.",
+      "Inloggen",
+      "Ga Terug"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Dit moet mijn enige #rAanval zijn!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Ga Terug",
+      "Gewoon:",
+      "De meest voorkomende drankjes die worden gevonden in de Spire.",
+      "Ongewoon:",
+      "Sterkere drankjes die minder vaak voorkomen dan gewone drankjes.",
+      "Zeldzaam:",
+      "Unieke en krachtige drankjes die zelden worden gezien."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Kies 1 kaart om te houden. De rest wordt Uitgeput."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Kies een Kaart om te spelen."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Gegevens synchroniseren..."
+    ]
+  }
+}

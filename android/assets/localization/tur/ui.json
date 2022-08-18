@@ -1,0 +1,1396 @@
+{
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Kart Çıkarma Servisi",
+      "İNDİRİM",
+      "Satılık Değil",
+      "Tükendi",
+      "Ah hayır!"
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Kaydı Sil"
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Onayla"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Turu Bitir",
+      "Düşman Turu"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Demirkaplı",
+      "Sessiz",
+      "Arızalı",
+      "Geri Dön",
+      "Oyun geçmişi bulunamadı. NL Slay the Spire Oyna!",
+      "Yükseliş Seviyesi: ",
+      "Ölünen Kat: %1$d , %2$s tarafından",
+      "Terkedilen Kat %d",
+      "Zafer!",
+      "Kartlar",
+      "Kalıntılar",
+      "Başlangıç",
+      "Yaygın",
+      "Az Yaygın",
+      "Nadir",
+      "Özel",
+      "Lanet",
+      "Boss",
+      "Dükkan",
+      "Bilinmiyor",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Skor: %d",
+      "Tüm Karakterler",
+      "Zafer ve Ölüm",
+      "Zafer",
+      "Ölüm",
+      "Günlük",
+      "Tüm Oyun Türleri",
+      "Normal",
+      "Yükseliş",
+      "Günlük",
+      "Tohum: %s",
+      "Özel Tohum: %s",
+      "d/M/yyyy, h:mm a",
+      "Gözlemci"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Geri Dön",
+      "Filtreler",
+      "Karakter",
+      "Bölge",
+      "Tip",
+      "Puanım",
+      "Sıra",
+      "İsim",
+      "Skor",
+      "Veriler Alınıyor...",
+      "Liderlik Tablosu",
+      "Steam'e Bağlı Değilsin",
+      "Skor Yok \n Slay the Spire Oyna!"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Demirkaplı",
+      "Sessiz",
+      "Arızalı",
+      "Ulaşılan Ortalama Kat (Son 20 Deneme)",
+      "Ortalama Skor (Son 20 Deneme)",
+      "En İyi Kazanma Serisi",
+      "En Hızlı Galibiyet",
+      "Yüksek Skor",
+      "Option 6. DO NOT TRANSLATE",
+      "Arkadaşlar",
+      "Dünya Çapı",
+      "Gözlemci"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brezilya-Portekizce",
+      "Çince (Basitleştirilmiş)",
+      "Çince (Geleneksel)",
+      "İngilizce",
+      "Fransızca",
+      "Almanca",
+      "İtalyanca",
+      "Japonca",
+      "Korece",
+      "Lehçe",
+      "Rusça",
+      "İspanyolca",
+      "İbranice",
+      "Türkçe",
+      "İsveççe",
+      "Norveççe",
+      "Tayca",
+      "Sırpça (Kiril)",
+      "Ukraynaca",
+      "Vietnamca",
+      "Macarca",
+      "Sırpça (Latin)",
+      "Katalanca",
+      "Yunanca",
+      "Endonezyaca",
+      "Esperanto",
+      "Flemenkçe"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Devam Et"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "Değiştir (Kumar Fişi)",
+      "Değiştir"
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "Sakla"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Devam Et"
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Devam Et"
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Tüccarı Geç"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Sandığı Geç"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Sandığı Geç"
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Eline Eklemek için bir Beceri Seç"
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Çekme Yığınının Üstüne Koymak için bir Kart Seç."
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Eline Eklemek için bir Kart Seç.",
+      "Eline Eklemek için ",
+      " Kart Seç."
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Bilinmeyen",
+      "???",
+      "Bilinmeyen oda. NL NL Canavarlar, defineler, dükkanlar veya tamamen farklı şeylerle karşılaşabilirsin.",
+      "Tüccar",
+      "Dükkanlar",
+      "Gizemli bir Tüccar mallarını bu odalarda satıyor. NL NL Hakkınla kazandığın #yAltınlarını burada harca!",
+      "Hazine",
+      "Hazine Odaları",
+      "Bu gıpta ile bakılan odalarda #yKalıntı ve #yAltınlar bulunabilir.",
+      "Dinlenme",
+      "Dinlenme Yerleri",
+      "Biraz #gİyileşmek veya bir kart #yGeliştirmek için bu odalara uğra.",
+      "Düşman",
+      "Düşmanlar",
+      "Düşmanlar bu odalarda bulunur.",
+      "Elit",
+      "Elitler",
+      "Güçlü düşmanlar bu odalarda bulunur. NL NL Onları yenmek sana Kalıntı kazandırır.",
+      "Açıklama"
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Devam Et"
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Kaz",
+      "Rastgele bir kalıntı için kaz."
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Ağırlık Kaldır",
+      "Dövüşlere +1 Kuvvet ile başla. (en fazla 3)",
+      ""
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Dinlen",
+      "Maksimum CP'nin %100'ü kadar can doldur (",
+      " CP ",
+      "Maksimum CP'nin %30'u kadar can doldur (",
+      ""
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Demirci",
+      "Destendeki bir kartı geliştir.",
+      "Geliştirilebilir kart yok."
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Tüttür",
+      "Destenden bir kart çıkar."
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Atma Yığınım #rboş."
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Çekme Yığınım #rboş."
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Kullan",
+      "İç",
+      "Çöpe At",
+      "İksir kullanamam!",
+      "Dövüş sırasında bunu yapamam!"
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<isimsiz>",
+      "İsim Gir",
+      "Onayla",
+      "İptal"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Kilitli",
+      "Bilinmiyor"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Bloklandı",
+      "Demirkaplı",
+      "Sessiz",
+      "Arızalı",
+      "Gözlemci"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Ölü",
+      "Bloklandı",
+      "Maksimum CP +",
+      "Sersemledi!",
+      "Yarıda Kesildi!",
+      "Kalıntılar"
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      ". Kat",
+      " - Yükseliş ",
+      " (En Yüksek Seviye)"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Kartlar Açıldı!",
+      "",
+      "Kalıntılar Açıldı!",
+      "Yeni Karakter",
+      "Not: Açılan kartlar gelecek oyunlarda görülecek.",
+      "Not: Açılan kalıntılar gelecek oyunlarda görülecek."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Kartlar Açıldı!",
+      "Kalıntılar Açıldı!",
+      "Yeni Karakter",
+      "Not: Açılan kartlar yeni oyunlarda görülecek.",
+      "Not: Açılan kalıntılar yeni oyunlarda görülecek."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Bunun için yerin yok"
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Yağmalandın...",
+      "Kaçtı..."
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Boss",
+      "Yaygın",
+      "Kullanılamaz",
+      "Nadir",
+      "Dükkan",
+      "Olay",
+      "Başlangıç",
+      "Az Yaygın",
+      "Kilitli",
+      "Bilinmiyor",
+      " Kalıntı",
+      "Bu kalıntı henüz açılmadı.",
+      "Bu kalıntıyla henüz karşılaşılmadı."
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Saldırı",
+      "Beceri",
+      "Güç",
+      "Lanet",
+      "Kilitli",
+      "Bilinmeyen",
+      "Gelişmiş Hali",
+      "Durum",
+      "",
+      "Yalnızca sıra bendeyken kart oynayabilirim.",
+      "#rElim #rAyağıma #rDolaşmış halde! NL Saldırı oynayamam",
+      "Yeterli #rEnerji yok.",
+      "Yeterli #rYük yok.",
+      "Bu kartı NL oynayamam",
+      "Beta Sanatı"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Her dövüşe bu kartların hepsiyle başlarsın.",
+      "Geri Dön"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Bu kartlar bu dövüş sırasında tüketildi.",
+      "Geri Dön"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Öğreticiler",
+      "Oyunu oynarken nasıl oynanacağına dair ipuçları görmek ister misin?",
+      "1. Sahne",
+      "Başlangıç",
+      "2. Sahne",
+      "Şehir",
+      "3. Sahne",
+      "Ötesi",
+      "Final Sahnesi",
+      "Sona Eriş",
+      "Devam Etmek için Tıkla"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Başlamak için bir Oda Seç",
+      "Geri Dön"
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Kartlar her tur başında buradan çekilir.",
+      "(Kartlar nadirliklerine göre dizilidir)",
+      "Geri Dön",
+      "Çekme Yığını"
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Çekme yığınında kart kalmadığı zaman buradaki kartlar çekme yığınına karıştırılır.",
+      "Geri Dön",
+      "Atma Yığını"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Kopyala"
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "Atma Yığınına Yolla"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "Geliştir"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Kopyala"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Yükseliş Seviyesi ",
+      " Açıldı!"
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Devam Et",
+      "Galibiyet?",
+      "Çıkılan Kat",
+      "Yenilen Bosslar",
+      "Oyun Süresi",
+      "Oyun Süresi",
+      "Skor",
+      "Fethedildin",
+      "Ölüm...",
+      "Yenilgi",
+      "Mağlubiyet!",
+      "Kutsallık Bozuldu",
+      "Tahribat",
+      "Bozgun",
+      "Katledildin!",
+      "Tanıdık bir his.",
+      "Uyku kulağa hoş geliyor.",
+      "Ne ekersen onu biçersin.",
+      "Yanlış yola girdim.",
+      "Buna hazırlıklı değildim.",
+      "Yarın tekrar deneyeceğim.",
+      "Yeni bir haritaya ihtiyacım olacak.",
+      "Yetersiz hazırlandım.",
+      "Hayret bir şey!",
+      "Benim gerçek potansiyelim bu mu?",
+      "Sadece şanssızlık...",
+      "Böyle olmamalıydı...",
+      "Tam olarak zirve sayılmaz.",
+      "Ve Spire bir başkasını daha yutar...",
+      "Bilincin soluklaşıyor...",
+      "Yenilgi",
+      "Kabullenme",
+      "Devam Et",
+      "Tekrar Dene",
+      "Ana Menü",
+      "Devam Et",
+      "Aç",
+      "Ana Menü",
+      "Tekrar Dene",
+      "İlerle",
+      "Aç",
+      "Kalan Kilitli: ",
+      "Kalan Kilitli: ",
+      "Ölen Düşmanlar",
+      "Ölen Elitler",
+      "Harcanmamış Altın",
+      "CP Bonusu"
+    ],
+    "EXTRA_TEXT": [
+      "Ölen 'Başlangıç' Elitleri",
+      "Ölen 'Şehir' Elitleri",
+      "Ölen 'Ötesi' Elitleri",
+      "Hızlı Sürücü",
+      "Işık Hızı",
+      "Yalnız Kalmış",
+      "Koleksiyon",
+      "Tam Set",
+      "Yoksul",
+      "Kütüphaneci",
+      "Ansiklopedi",
+      "İyi Beslenmiş",
+      "Tıka Basa Doymuş",
+      "Lanetler!",
+      "Kendi Kurallarım",
+      "Şampiyon",
+      "Mükemmel",
+      "Mükemmel Ötesi",
+      "Aşırı Yükleme",
+      "K-k-k-kombo",
+      ""
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Devam Et",
+      "Kartı Geç",
+      "Altını Geç",
+      "İksiri Geç",
+      "Kalıntıyı Geç",
+      "Ödülleri Geç",
+      "Kapat",
+      "Hazine!",
+      "İçinde Ne Var?",
+      "Ödüller!",
+      "Düşen Eşyalar!",
+      "Ganimet!",
+      "İpucu: "
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Birini Seç"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Geç",
+      "Bir Kart Seç",
+      "+2 Maksimum CP",
+      "ŞİMDİ OYLA: ",
+      " saniye kaldı.",
+      "Gelişmiş Hali",
+      "Birini Seç"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Onayla",
+      "Seçimini Onayla",
+      "Kalıntı Seç",
+      "Geç",
+      "ŞİMDİ OYLA: ",
+      " saniye kaldı.",
+      "Bir Yıkım Seç"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Onayla",
+      "İptal Et",
+      "Seçimini Onayla",
+      "Ayrıl"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Kartı Onayla ve ",
+      "Kartları Onayla ve ",
+      "",
+      " Tane Kart Seç ve ",
+      "İstediğin Sayıda Kart Seç ve ",
+      "Bir Kart Seç ve ",
+      "Kopyala"
+    ]
+  },
+  "AbandonRunButton": {
+    "TEXT": [
+      "Oyunu Terk Et"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Geri",
+      "Kaydı Sil",
+      "Evet",
+      "Hayır"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Oyundan Çık"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Oyun Ayarları",
+      "Grafikler",
+      "Çözünürlük: NL Maksimum FPS:",
+      "Tam Ekran NL Çerçevesiz Tam Ekran (önerilen) NL Ekran Sarsıntısı",
+      "Ses",
+      "Genel Ses NL Müzik Sesi NL Efekt Sesi",
+      "Çevre Ses Efektleri NL Arka Planda Sesi Kapat",
+      "Tercihler",
+      "Toplam Hasarı Altın Renginde Göster NL Bloklanan Hasarı Mavi Renkte Göster NL 1 Kart Seçiliyorsa Onay Gerekmesin",
+      "Hızlı Mod",
+      "",
+      "Çeşitli",
+      "Dil:",
+      "Oyun Verilerini Yükle #b(?)",
+      "Oyundan Çık",
+      "Kaydet & Çık",
+      "NL NL VSync",
+      "Beta Sanatı Modu",
+      "Hızlı Kart Seçim Tuşlarını Göster",
+      "Girdi Ayarları",
+      "Parçacık Efektlerini Devre Dışı Bırak",
+      "Çözünürlük:",
+      "Çözünürlük: NL Tam Ekran Monitörü:",
+      "Oyun tam ekran iken hangi monitörün kullanılacağını seç.",
+      "Uzun Basarak Onayla",
+      "Büyük Yazılar"
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Emin misin?",
+      "İlerlemen otomatik olarak kaydedilir.",
+      "Oyunu terk etmek ölüm ile sonuçlanır.",
+      "Uyarı:\nİlerleme KaydedilMEdi.\n\nBu oyunu kaydetmek için sonraki kata ulaş.",
+      "Geri Dön",
+      "Günlük oyunlarda ilerleme kaydedilmez."
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Geri Dön",
+      "Kırmızı",
+      "Yeşil",
+      "Mavi",
+      "Renksiz",
+      "Lanetler",
+      "Durumlar",
+      "Gelişmiş Hali",
+      "Mor"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Nadirlik",
+      "Tür",
+      "A-Z",
+      "Maliyet",
+      "Atla:",
+      "Alma Sırası"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Erken Erişim Nedir?",
+      "Açık Beta Nedir?",
+      "Slay the Spire hala aktif geliştirilme sürecinde! NL Bir çok özellik, kartlar, düşmanlar hala değişikliklerden geçiyor. NL NL Eğer sorunlarla karşılaşırsanız ya da geri dönüş yapmak isterseniz lütfen #bSteam #bTartışmaları sayfamıza uğrayın. NL NL Bu kadar okuma yeter, tırmanılacak bir Spire sizi bekliyor!",
+      "Slay the Spire hala aktif geliştirilme sürecinde! NL Üstüne üstlük Beta versiyonunu oynuyorsunuz. NL NL Lütfen karşılaştığınız sorunları bize bildirin, ancak yakında gelecek içeriklerin yerini tutan resimler sizi şaşırtmasın. NL NL Bu kadar okuma yeter, tırmanılacak bir Spire sizi bekliyor!",
+      "Başlamak için herhangi bir yere Tıklayın",
+      "Devam Et"
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#ySürüm: ",
+      "Başla",
+      "Geri Dön",
+      "Düzenlemek için tıkla",
+      "Düzenlemek için",
+      "Düzenlemek için dokun"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Oyna",
+      "",
+      "",
+      "Devam Et",
+      "",
+      "İstatistikler",
+      "",
+      "Çıkış",
+      "Yama Notları",
+      "Oyunu Terk Et",
+      "",
+      "Ayarlar",
+      "",
+      "Kılavuz"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Geri Dön",
+      "#yYama #yNotları",
+      " NL (GEÇİCİ: Eski kayıtlar arasında gezmek için yön tuşlarını kullanın)"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Geri Dön",
+      "Başlangıç:",
+      "Her karakter bu kalıntılardan biriyle başlar.",
+      "Yaygın:",
+      "Güçsüz kalıntılar, yaygın olarak bulunabilir.",
+      "Az yaygın:",
+      "Daha güçlü kalıntılar, yaygın olanlara göre daha az bulunurlar.",
+      "Nadir:",
+      "Nadiren görülen, özel ve güçlü kalıntılar.",
+      "Boss:",
+      "Boss sandıklarında bulunabilen kalıntılar.",
+      "Olay:",
+      "Yalnızca olaylar sonucunda elde edilebilen kalıntılar.",
+      "Dükkan:",
+      "Yalnızca tüccardan alınabilen kalıntılar."
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Kilitli",
+      "Bu karakter bir oyun bittiğinde açılacak.",
+      "Bu karakter Erken Erişimde kullanılabilir değil.",
+      "Bu karakter Sessiz ile bir oyun bittiğinde açılacak.",
+      "CP: ",
+      "Altın: ",
+      " Kalan Kilitli İçerik",
+      "Bilinmiyor",
+      "???",
+      " Sonraki Açılacak İçerik için Kalan",
+      "Bu karakter standart bir oyunu kazandığında ve 3. karakter açık durumdaysa açılacak."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Karakterini Seç",
+      "Başla",
+      "Demirkaplı",
+      "Sessiz",
+      "Arızalı",
+      "Geri",
+      "Yükseliş",
+      "Seviye ",
+      "Yükseliş Modu",
+      "Kazandıkça oyun zorlaşır... (kazanma serileri etkilenmez)",
+      "Tohum ",
+      "Rastgele Tohum",
+      "Başlangıçda seçilen tohum Spire'daki maceran boyunca karşına çıkacak şeyleri belirler.",
+      "Tohum Ayarla",
+      "Gözlemci"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Elitler daha sık çıkar.",
+      "2. Normal düşmanlar daha ölümcül.",
+      "3. Elitler daha ölümcül.",
+      "4. Bosslar daha ölümcül.",
+      "5. Boss dövüşlerinden sonra daha az iyileş.",
+      "6. Oyuna hasarlı başla.",
+      "7. Normal düşmanlar daha canlı.",
+      "8. Elitler daha canlı.",
+      "9. Bosslar daha canlı.",
+      "10. Lanetle başla.",
+      "11. Eksik iksir yuvası.",
+      "12. Gelişmiş kartlar daha az görünür.",
+      "13. Fakir Bosslar.",
+      "14. Daha düşük Maksimum CP.",
+      "15. Dezavantajlı olaylar.",
+      "16. Dükkanlar daha pahalı. ",
+      "17. Normal düşmanlar daha zorlayıcı zeka ve özelliklere sahip.",
+      "18. Elitler daha zorlayıcı zeka ve özelliklere sahip.",
+      "19. Bosslar daha zorlayıcı zeka ve özelliklere sahip.",
+      "20. (Son Seviye) Sahne 3'de çift boss."
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Agresif",
+      "Bu düşman NL #b",
+      " hasar ile #b",
+      " kere #ySaldırma niyetinde.",
+      "Bu düşman NL #b",
+      " hasar vererek #ySaldırma niyetinde.",
+      "Agresif",
+      "Bu düşman #yGüç kullanma ve #b",
+      " kere #ySaldırma niyetinde.",
+      "Bu düşman #yGüç kullanma ve #b",
+      "Stratejik",
+      "Bu düşman sana #yOlumsuz #yEtki uygulama ve #b",
+      "Bu düşman #yBlok kullanma niyetinde ve #b",
+      "Savunmacı",
+      "Korkakça",
+      "Büyülü",
+      "Uykuda",
+      "Sersemletildi",
+      "Bilinmiyor",
+      "Bu düşman #yGüç kullanma niyetinde.",
+      "Bu düşman sana #yOlumsuz #yEtki uygulama niyetinde.",
+      "Bu düşman sana güçlü bir #yOlumsuz #yEtki uygulama niyetinde.",
+      "Bu düşman kendi turunda #yBlok kullanma niyetinde.",
+      "Bu düşman #yBlok kullanma ve sana #yOlumsuz #yEtki uygulama niyetinde.",
+      "Bu düşman #yBlok ve #yGüç kullanma niyetinde.",
+      "Bu düşman #yKaçma niyetinde.",
+      "Bu düşman kendi turunda gizemli bir #yBüyü kullanma niyetinde.",
+      "Bu düşman uykuda.",
+      "Bu düşman kendi sırasında #ySersemletildi.",
+      "Bu düşmanın niyeti #yBilinmiyor (saldırmayacak).",
+      "Bloklandı"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Devam Et",
+      "Yıkımlar:"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Başlangıç"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "Şehir"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Oyun~ #y~Kaydedildi~"
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Dövüş Başlasın",
+      "Senin Sıran",
+      "Düşman Sırası",
+      ". tur"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Altın (Geri Alınan)",
+      " Altın",
+      "Destene bir kart ekle",
+      "",
+      "Bir Kart Seç",
+      "Zümrüt Anahtar",
+      "Safir Anahtar",
+      "Bağlı",
+      "Bağlı kalıntılardan birini almak diğerini kaldırır. Bunu alırsan ",
+      " kaldırılacak."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Ne yapmalı?",
+      "Hmm...",
+      "Ne yapmalıyım?",
+      "Ara verme zamanı",
+      "Çok fazla seçenek...",
+      "Dinlenmeliyim",
+      "Aşırı yorgunum..."
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Geliştirmek için bir Kart Seç"
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Rüya mı görüyordum?"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Çıkarmak için bir Kart Seç."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Yeni Açılanlar!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Yükseliş Seviye ",
+      " Açıldı!"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Daha fazla NL İksir taşıyamam."
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Enerji"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Tüket"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Eline Döndürmek için bir Kart Seç"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Etkisi Geçti"
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Değişikliklerin etki etmesi için oyunu yeniden başlat."
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Bu düşmanın saldırmaya niyeti yok!"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Etkisiz Kaldı",
+      "Bağışık",
+      "Boşa Çıkartıldı",
+      "\n Azaldı"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "çekme yığınının üstüne koy"
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Tüket"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Ötesi"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Çıkmak için tekrar tıklayın",
+      "çıkmak için",
+      "Çıkmak için tekrar dokunun"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "Şimdi Oyla: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Günlük Mücadele",
+      "Zaman Sunucusuna Bağlanılıyor...",
+      "#yNOT: Bugünün mücadelesini yaptın. NL Tekrar yapılan denemelerin skorları yüklenmez.",
+      "Geri Dön",
+      "Başla",
+      "Günün Karakteri: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Kalan Zaman: ",
+      "#yUlaşılan #yKat: NL  ",
+      " NL NL  #yDeste: NL ",
+      " NL NL  #yKalıntılar: NL  ",
+      " NL Günün Mücadelesi: NL #ySınıf: NL ",
+      " NL #yModlar: ",
+      "Düzenleyiciler: ",
+      "Liderlik Tablosu",
+      "*Günlük Tırmanış için Başarımlar kapatıldı.",
+      "  [ÇEVRİMDIŞI MOD]",
+      "dd/MM/yyyy",
+      "*Günlük Tırmanış için Kupalar kapatıldı."
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standart",
+      "",
+      "Slay the Spire'da göreve başla.",
+      "Günlük Tırmanış",
+      "",
+      "Her gün yeni bir mücadele!\n\nEn yüksek skor için diğer oyuncularla yarış!",
+      "Yükseliş",
+      "",
+      "Spire her galibiyetinle daha da zorlaşır.\n\nEn iyi stratejilerinin sınırlarını dene.",
+      "Kart Kütüphanesi",
+      "",
+      "Spire'da karşılaştığın kartların tümüne bak.",
+      "Kalıntı Koleksiyonu",
+      "",
+      "Oyunların boyunca karşılaştığın çeşitli ıvır zıvırlara ve kalıntılara bak.",
+      "Sözlük",
+      "",
+      "Bu özellik henüz kullanılabilir değil.",
+      "İstatistikler",
+      "",
+      "Her karakter için ilerleme ve istatistikler burada görülebilir.",
+      "Liderlik Tablosu",
+      "",
+      "Skorunu arkadaşların ve diğer oyuncularla karşılaştır.",
+      "Oyun Geçmişi",
+      "",
+      "Slay the Spire'daki denemelerini detaylıca gözden geçir.",
+      "Oyun Ayarları",
+      "",
+      "Çözünürlüğü değiştir ve çeşitli ayarları aç/kapa.",
+      "Girdi Ayarları",
+      "",
+      "Kontrolleri ve kısayol tuşlarını değiştir.",
+      "Emeği Geçenler",
+      "",
+      "Slay the Spire'a katkıda bulunan herkesi gör!",
+      "Bilinmiyor",
+      "Bu oyun modunu açmak için bir Günlük Tırmanış oyna.",
+      "Bu özellik henüz kullanılabilir değil.",
+      "Özel",
+      "Oyunlarını eşsiz düzenleyiciler ile keyfine göre özelleştir.",
+      "Kontrollerini değiştir.",
+      "Grafik, ses ve oyun tercihlerini değiştir.",
+      "İksir Labı",
+      "Spire'da bulunan sayısız iksire göz at."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Bilinmeyen",
+      "Düşman",
+      "Elit",
+      "Olay",
+      "Boss",
+      "Hazine",
+      "Boss Hazinesi",
+      "Dinlenme Yeri",
+      "Tüccar",
+      "Bilinmeyen (Düşman)",
+      "Bilinmeyen (Tüccar)",
+      "Bilinmeyen (Hazine)",
+      "Kat: %1$s - %2$s",
+      "Kat: %s",
+      "#r%s Hasar Alındı",
+      "#r%s Tur Sürdü",
+      "#r%s #r/ #r%s #rCP",
+      "#y%s #yAltın",
+      "#yAlındı:",
+      "#yAtlandı:",
+      "Eksik Bilgi",
+      "+2 Maksimum CP",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bDinlenildi",
+      "#bGeliştirildi: %s",
+      "#bÇıkarıldı: %s",
+      "#bKazıldı",
+      "#bKaldırıldı: %s/%s",
+      "#ySatın #yAlındı:",
+      "#rHarcandı: ",
+      "#rAlındı: ",
+      "#rKaybedildi: ",
+      "%s Maksimum CP",
+      "#bİyileşildi: ",
+      "#bKazanıldı: ",
+      "#bÖnemsenmedi: ",
+      "%s CP",
+      "#bElde #bEdildi: %s",
+      "#rLanetlenildi: #r%s",
+      "%s Hasar",
+      "#bGeliştirildi: %s",
+      "#bDönüştürüldü: %s",
+      "#rKaybedildi: %s",
+      "#bGeri #bÇağrıldı"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Eline Eklemek için bir Saldırı Seç."
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Yeni bir Tohum gir",
+      "Onayla",
+      "İptal",
+      "*Özel bir tohum kullanılırsa Başarımlar ve Liderlik Tabloları devre dışı bırakılır.",
+      "*Özel bir tohum kullanılırsa Kupalar ve Liderlik Tabloları devre dışı bırakılır."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Girdi Ayarları",
+      "Oyun Ayarları",
+      "Geri Dön",
+      "Komutlar",
+      "Klavye",
+      "Oyun Kolu",
+      "Varsayılanlara Dön",
+      "Kartı Onayla",
+      "İptal Et / Çık",
+      "Harita",
+      "Tüm Deste",
+      "Çekme Yığını",
+      "Atma Yığını",
+      "Tüketme Yığını",
+      "Turu Bitir",
+      "Sol",
+      "Sağ",
+      "1. kartı seç",
+      "2. kartı seç",
+      "3. kartı seç",
+      "4. kartı seç",
+      "5. kartı seç",
+      "6. kartı seç",
+      "7. kartı seç",
+      "8. kartı seç",
+      "9. kartı seç",
+      "10. kartı seç",
+      "Kartı Bırakma",
+      "Seç*",
+      "İptal*",
+      "Üst Panel*",
+      "İlerle / Turu Bitir*",
+      "Sol Sekme / Desteye Bak*",
+      "Sağ Sekme / Tüketme Yığını*",
+      "Harita*",
+      "Ayarlar*",
+      "Çekme Yığını*",
+      "Atma Yığını*",
+      "Yukarı*",
+      "Aşağı*",
+      "Sol*",
+      "Sağ*",
+      "Yukarı (Alt)*",
+      "Aşağı (Alt)*",
+      "Sol (Alt)*",
+      "Sağ (Alt)*",
+      "Yukarı",
+      "Aşağı",
+      "Oyun Kolu Etkinleştir",
+      "Dokunmatik Ekran Modu",
+      "Göz At"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Atma Yığınına Yollanacak Kartları Seç."
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Çekme Yığınının Üstüne Koymak için bir Kart Seç.",
+      "Çekme Yığınının Üstüne Koymak için Kartları Seç."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Tüket"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Eline Eklemek için bir Kart Seç",
+      "Eline Eklemek için Kartları Seç"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Bu düşman saldırmaya niyetli!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Eline Döndürmek için bir Kart Seç"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Yükseliş Açıldı!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Özel Mod",
+      "Başarımlar ve Liderlik Tabloları kapatıldı.",
+      "Karakter",
+      "Yükseliş",
+      "Seviye ",
+      "Yükseliş Modu",
+      "Düzenleyiciler",
+      "Tohum",
+      "Tohum Ayarla",
+      "Kupalar ve Liderlik Tabloları kapatıldı."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "çekme yığınının üstüne koy."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "çekme yığınının altına koy."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Altın"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Oynama Süresi ",
+      "Boş"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Bu kayıt silinsin mi?",
+      "Evet",
+      "Hayır",
+      "UYARI: Silme işlemi geri alınamaz."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Bir kayıt yeri seç",
+      "İsim değiştir",
+      "Bu kaydı sil"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gremlin Çetesi",
+      "Büyük Balçık",
+      "Başlangıç Eşkiyaları",
+      "Başlangıç Hayvanları",
+      "Balçık Sürüsü",
+      "Küçük Balçıklar",
+      "Şehir Hırsızları",
+      "Üç Guş",
+      "Dört Guş",
+      "Üçlü Tarikatçı",
+      "Seçilmiş Sürü",
+      "Nöbetçi ve Küresel Gardiyan",
+      "Komutan ve Şifacı",
+      "Parazit ve Mantarsı",
+      "Maskeli Haydut Çetesi",
+      "Kolezyum Züppeleri",
+      "Kolezyum Köle Tüccarları",
+      "Üçlü Şekiller",
+      "Çene Kurdu Sürüsü",
+      "Dörtlü Şekiller",
+      "Küresel Gardiyan ve Şekiller",
+      "Çift Küreci",
+      "Donu ve Deca",
+      "Nöbetçiler",
+      "Seçilmiş ve Tarikatçı",
+      "(Kaldırıldı) Alev Dövüşcüleri",
+      "(Kaldırıldı) Kölelik ve Parazit",
+      "(Kaldırıldı) Snecko ve Mistik",
+      "Kalkan ve Mızrak"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Geri Çağır",
+      "Yakut Anahtarı Al."
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Sona Eriş"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Devam Et",
+      "Çıkılan Kat",
+      "Yenilen Bosslar",
+      "Oyun Süresi",
+      "Skor",
+      "Aç: ",
+      "Kalan Kilitli: ",
+      "Kalan Kilitli: ",
+      "Ölen Düşmanlar",
+      "Ölen Elitler",
+      "Harcanmamış Altın",
+      "CP Bonusu",
+      "Zafer!"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Demirkaplı Beta Kart Sanatı Açıldı!",
+      "Sessiz Beta Kartı Sanatı Açıldı!",
+      "Arızalı Beta Kart Sanatı Açıldı!",
+      "Tüm Beta Kart Sanatı Açıldı!",
+      "Gözlemci Beta Kart Sanatı Açıldı!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Günlük - Kat %s",
+      "Özel - Kat %s",
+      " K%s",
+      "Ana Menü",
+      "Y%s "
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Başlamak için ",
+      " tuşuna bas.",
+      "Profili değiştir",
+      "Ekran Alanı",
+      "Oturum açma değişikliği meydana geldi. Lütfen tekrar giriş yapın veya ana ekrana geri çıkın.",
+      "Oturum aç",
+      "Çıkış"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Elimdeki tek #rSaldırı bu olmalı!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Dön",
+      "Yaygın:",
+      "Spire'da en çok bulunan iksirler.",
+      "Az yaygın:",
+      "Yaygın iksirlerden daha az bulunan fakat daha güçlü iksirler.",
+      "Nadir:",
+      "Nadiren görülen eşsiz ve güçlü iksirler."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Elde tutmak için 1 kart seç. Geri kalanlar tüketilecek."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Oynamak için bir Kart Seç."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Syncing data..."
+    ]
+  }
+}

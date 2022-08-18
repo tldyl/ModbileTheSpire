@@ -1,0 +1,1886 @@
+{
+  "A Thousand Cuts": {
+    "NAME": "Ngàn Vết Cắt",
+    "DESCRIPTION": "Mỗi khi bạn chơi một lá bài, gây !M! sát thương lên TẤT CẢ quân địch."
+  },
+  "Accuracy": {
+    "NAME": "Độ Chính Xác",
+    "DESCRIPTION": "*Dao *Găm gây thêm !M! sát thương."
+  },
+  "Acrobatics": {
+    "NAME": "Nhào Lộn",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Bỏ 1 lá bài."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenaline",
+    "DESCRIPTION": "Nhận [G]. NL Bốc 2 lá bài. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhận [G] [G]. NL Bốc 2 lá bài. NL Đốt."
+  },
+  "After Image": {
+    "NAME": "Dư Ảnh",
+    "DESCRIPTION": "Mỗi khi bạn chơi một lá bài, nhận 1 Giáp.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Mỗi khi bạn chơi một lá bài, nhận 1 Giáp."
+  },
+  "Aggregate": {
+    "NAME": "Tập Hợp",
+    "DESCRIPTION": "Nhận [B] với mỗi !M! lá trong chồng bài bốc của bạn."
+  },
+  "All For One": {
+    "NAME": "Được Ăn Cả",
+    "DESCRIPTION": "Gây !D! sát thương. NL Đặt tất cả bài tốn 0 từ chồng bài bỏ vào tay bạn."
+  },
+  "All Out Attack": {
+    "NAME": "Khô Máu",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. NL Bỏ 1 lá bài ngẫu nhiên."
+  },
+  "Allocate": {
+    "NAME": "Chỉ Định",
+    "DESCRIPTION": "Nhận !M! Tập trung. NL Mất 1 Sức mạnh. NL Mất 1 Linh hoạt."
+  },
+  "Amplify": {
+    "NAME": "Khuếch Đại",
+    "DESCRIPTION": "Vào lượt này, lá Năng lực tiếp theo được chơi hai lần.",
+    "UPGRADE_DESCRIPTION": "Vào lượt này, !M! lá Năng lực tiếp theo được chơi hai lần."
+  },
+  "Anger": {
+    "NAME": "Giận Dữ",
+    "DESCRIPTION": "Gây !D! sát thương. NL Thêm một bản sao của lá này vào chồng bài bốc của bạn."
+  },
+  "Apotheosis": {
+    "NAME": "Phong Thần",
+    "DESCRIPTION": "Nâng cấp TẤT CẢ bài của bạn đến hết trận đấu. NL Đốt."
+  },
+  "Armaments": {
+    "NAME": "Vũ Trang",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Nâng cấp một lá bài trên tay bạn đến hết trận đấu.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Nâng cấp tất cả bài trên tay bạn đến hết trận đấu."
+  },
+  "AscendersBane": {
+    "NAME": "Gánh Nặng Cấp Cao",
+    "DESCRIPTION": "Không chơi được. NL Tan biến. NL Không thể hủy khỏi bộ bài của bạn."
+  },
+  "Auto Shields": {
+    "NAME": "Khiên Tự Động",
+    "DESCRIPTION": "Nếu bạn không có Giáp, nhận !B! Giáp."
+  },
+  "Axe Kick": {
+    "NAME": "Axe Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+  },
+  "Backflip": {
+    "NAME": "Lộn Ngược",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Bốc 2 lá bài."
+  },
+  "Backstab": {
+    "NAME": "Đâm Lén",
+    "DESCRIPTION": "Nội sinh. NL Gây !D! sát thương. NL Đốt."
+  },
+  "Ball Lightning": {
+    "NAME": "Cầu Điện",
+    "DESCRIPTION": "Gây !D! sát thương. Gọi !M! Sét."
+  },
+  "Bandage Up": {
+    "NAME": "Băng Bó",
+    "DESCRIPTION": "Hồi !M! HP. NL Đốt."
+  },
+  "Bane": {
+    "NAME": "Bả",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu quân địch bị dính Độc, gây !D! sát thương một lần nữa."
+  },
+  "Barrage": {
+    "NAME": "Bão Ngọc",
+    "DESCRIPTION": "Gây !D! sát thương với mỗi viên Ngọc đã Gọi."
+  },
+  "Barricade": {
+    "NAME": "Cố Thủ",
+    "DESCRIPTION": "Không hủy bỏ giáp khi bắt đầu lượt của bạn."
+  },
+  "Bash": {
+    "NAME": "Vụt",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Sơ hở."
+  },
+  "Battle Trance": {
+    "NAME": "Xuất Thần",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Lượt này không được bốc thêm bài."
+  },
+  "Beam Cell": {
+    "NAME": "Nhất Dương Chỉ",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Sơ hở."
+  },
+  "Berserk": {
+    "NAME": "Điên Cuồng",
+    "DESCRIPTION": "Nhận !M! Sơ hở. NL Khi bắt đầu lượt của bạn, nhận [R]."
+  },
+  "Biased Cognition": {
+    "NAME": "Nhận Thức Thiên Vị",
+    "DESCRIPTION": "Nhận !M! Tập trung. NL Khi bắt đầu lượt của bạn, mất 1 Tập trung."
+  },
+  "Bite": {
+    "NAME": "Cắn",
+    "DESCRIPTION": "Gây !D! sát thương. NL Hồi !M! HP."
+  },
+  "Blade Dance": {
+    "NAME": "Đao Vũ",
+    "DESCRIPTION": "Thêm !M! *Dao *Găm vào tay của bạn."
+  },
+  "Blaster": {
+    "NAME": "Blaster",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
+  },
+  "Blind": {
+    "NAME": "Mù Lòa",
+    "DESCRIPTION": "Gây !M! Yếu.",
+    "UPGRADE_DESCRIPTION": "Gây !M! Yếu lên TẤT CẢ quân địch."
+  },
+  "Blizzard": {
+    "NAME": "Bão Tuyết",
+    "DESCRIPTION": "Gây sát thương bằng với !M! lần Ngọc Băng Đã gọi trong trận đấu này lên TẤT CẢ quân địch.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gây !D! sát thương.)",
+      ""
+    ]
+  },
+  "Blood for Blood": {
+    "NAME": "Nợ Máu Trả Máu",
+    "DESCRIPTION": "Tốn bớt 1 [R] NL mỗi lần bạn mất HP trong trận đấu này. NL Gây !D! sát thương."
+  },
+  "Bloodletting": {
+    "NAME": "Đổ Máu",
+    "DESCRIPTION": "Mất 3 HP. NL Nhận [R] [R].",
+    "UPGRADE_DESCRIPTION": "Mất 3 HP. NL Nhận [R] [R] [R]."
+  },
+  "Bludgeon": {
+    "NAME": "Giã Chày",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Blur": {
+    "NAME": "Mờ Ảo",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Không hủy bỏ Giáp khi bắt đầu lượt sau."
+  },
+  "Body Slam": {
+    "NAME": "Lấy Thịt Đè Người",
+    "DESCRIPTION": "Gây sát thương bằng với Giáp của bạn.",
+    "UPGRADE_DESCRIPTION": " NL (Gây !D! sát thương.)"
+  },
+  "BootSequence": {
+    "NAME": "Khởi Động",
+    "DESCRIPTION": "Nội sinh. NL Nhận !B! Giáp. NL Đốt."
+  },
+  "Bouncing Flask": {
+    "NAME": "Bình Nảy",
+    "DESCRIPTION": "Gây 3 Độc lên một quân địch ngẫu nhiên !M! lần."
+  },
+  "Brutality": {
+    "NAME": "Tàn Bạo",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, mất 1 HP và bốc 1 lá bài.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Khi bắt đầu lượt của bạn, mất 1 HP và bốc 1 lá bài."
+  },
+  "Buffer": {
+    "NAME": "Giảm Xung",
+    "DESCRIPTION": "Ngăn lần mất HP tiếp theo.",
+    "UPGRADE_DESCRIPTION": "Ngăn !M! lần mất HP tiếp theo."
+  },
+  "Bullet Time": {
+    "NAME": "Dừng Thời Gian",
+    "DESCRIPTION": "Lượt này không được bốc thêm bài. Toàn bộ bài trên tay tốn 0 trong lượt này."
+  },
+  "Burn": {
+    "NAME": "Bỏng",
+    "DESCRIPTION": "Không chơi được. NL Khi kết thúc lượt của bạn, nhận 2 sát thương.",
+    "UPGRADE_DESCRIPTION": "Không chơi được. NL Khi kết thúc lượt của bạn, nhận 4 sát thương."
+  },
+  "Burning Pact": {
+    "NAME": "Hỏa Ước",
+    "DESCRIPTION": "Đốt 1 lá bài. NL Bốc !M! lá bài."
+  },
+  "Burst": {
+    "NAME": "Bộc Phát",
+    "DESCRIPTION": "Vào lượt này, lá Kỹ năng tiếp theo được chơi hai lần.",
+    "UPGRADE_DESCRIPTION": "Vào lượt này, !M! lá Kỹ năng tiếp theo được chơi hai lần."
+  },
+  "Calculated Gamble": {
+    "NAME": "Canh Bạc Toan Tính",
+    "DESCRIPTION": "Bỏ bài trên tay bạn, NL sau đó bốc lên số bài đã bỏ. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Bỏ bài trên tay bạn, NL sau đó bốc lên số bài đã bỏ."
+  },
+  "Caltrops": {
+    "NAME": "Đinh Sắt",
+    "DESCRIPTION": "Mỗi khi bạn bị tấn công, đáp trả !M! sát thương."
+  },
+  "Capacitor": {
+    "NAME": "Tụ Điện",
+    "DESCRIPTION": "Nhận !M! ô Ngọc.",
+    "UPGRADE_DESCRIPTION": "Nhận !M! ô Ngọc."
+  },
+  "Carnage": {
+    "NAME": "Tàn Sát",
+    "DESCRIPTION": "Tan biến. NL Gây !D! sát thương."
+  },
+  "Catalyst": {
+    "NAME": "Xúc Tác",
+    "DESCRIPTION": "Nhân đôi số Độc của quân địch. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhân ba số Độc của quân địch. NL Đốt."
+  },
+  "Chaos": {
+    "NAME": "Hỗn Mang",
+    "DESCRIPTION": "Gọi !M! Ngọc ngẫu nhiên.",
+    "UPGRADE_DESCRIPTION": "Gọi !M! Ngọc ngẫu nhiên."
+  },
+  "Chill": {
+    "NAME": "Ớn Lạnh",
+    "DESCRIPTION": "Gọi !M! Băng với mỗi quân địch trong trận đấu. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Gọi !M! Băng với mỗi quân địch trong trận đấu. NL Đốt."
+  },
+  "Choke": {
+    "NAME": "Ngạt Thở",
+    "DESCRIPTION": "Gây !D! sát thương. NL Mỗi khi bạn chơi bài vào lượt này, quân địch mất !M! HP."
+  },
+  "Chrysalis": {
+    "NAME": "Kén",
+    "DESCRIPTION": "Tráo !M! lá Kỹ năng ngẫu nhiên vào chồng bài bốc. Lá bài đó tốn 0 trong trận đấu này. NL Đốt là bài này."
+  },
+  "Clash": {
+    "NAME": "Đụng Độ",
+    "DESCRIPTION": "Chỉ có thể chơi nếu tất cả bài trên tay bạn là lá Tấn công. NL Gây !D! sát thương.",
+    "EXTENDED_DESCRIPTION": [
+      "Mình có bài không phải Tấn công trong tay."
+    ]
+  },
+  "Cleave": {
+    "NAME": "Bổ Đôi",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Lén Lút",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Thêm !M! *Dao *Găm vào tay của bạn.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Thêm !M! *Dao *Găm vào tay của bạn."
+  },
+  "Clothesline": {
+    "NAME": "Dàn Phơi",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Yếu."
+  },
+  "Clumsy": {
+    "NAME": "Vụng Về",
+    "DESCRIPTION": "Không chơi được. NL Tan biến."
+  },
+  "Cold Snap": {
+    "NAME": "Gai Băng",
+    "DESCRIPTION": "Gây !D! sát thương. Gọi !M! Băng."
+  },
+  "Combust": {
+    "NAME": "Hỏa Thiêu",
+    "DESCRIPTION": "Khi kết thúc lượt của bạn, mất 1 HP và gây !M! sát thương lên TẤT CẢ quân địch."
+  },
+  "Concentrate": {
+    "NAME": "Cô Đọng",
+    "DESCRIPTION": "Bỏ !M! lá bài. NL Nhận [G] [G]."
+  },
+  "Conserve Battery": {
+    "NAME": "Sạc Pin",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Lượt sau nhận [B]."
+  },
+  "Consume": {
+    "NAME": "Hấp Thụ",
+    "DESCRIPTION": "Nhận !M! Tập trung. NL Mất 1 ô Ngọc."
+  },
+  "Coolheaded": {
+    "NAME": "Tỉnh Táo",
+    "DESCRIPTION": "Gọi 1 Băng. NL Bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Gọi 1 Băng. NL Bốc !M! lá bài."
+  },
+  "Corpse Explosion": {
+    "NAME": "Banh Xác",
+    "DESCRIPTION": "Gây !M! Độc. NL Khi quân địch chết, gây sát thương bằng với HP tối đa của quân đó lên TẤT CẢ quân địch.",
+    "UPGRADE_DESCRIPTION": "không dùng",
+    "EXTENDED_DESCRIPTION": [
+      "không dùng"
+    ]
+  },
+  "Corruption": {
+    "NAME": "Biến Chất",
+    "DESCRIPTION": "Bài Kỹ năng tốn 0. NL Mỗi khi bạn chơi một lá Kỹ năng, Đốt lá bài đó."
+  },
+  "Creative AI": {
+    "NAME": "AI Sáng Tạo",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, thêm một lá Năng lực ngẫu nhiên vào tay bạn."
+  },
+  "Crippling Poison": {
+    "NAME": "Mây Biến Dạng",
+    "DESCRIPTION": "Gây !M! Độc và 2 Yếu lên TẤT CẢ quân địch. NL Đốt."
+  },
+  "Dagger Spray": {
+    "NAME": "Xả Dao",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch hai lần."
+  },
+  "Dagger Throw": {
+    "NAME": "Ném Dao",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc 1 lá bài. NL Bỏ 1 lá bài."
+  },
+  "Dark Embrace": {
+    "NAME": "Hắc Ám Bao Trùm",
+    "DESCRIPTION": "Mỗi khi Đốt một lá bài, NL bốc 1 lá bài."
+  },
+  "Dark Shackles": {
+    "NAME": "Gông Hắc Ám",
+    "DESCRIPTION": "Quân địch mất !M! Sức mạnh lượt này. NL Đốt."
+  },
+  "Darkness": {
+    "NAME": "Bóng Tối",
+    "DESCRIPTION": "Gọi !M! Hắc Ngọc.",
+    "UPGRADE_DESCRIPTION": "Gọi !M! Hắc Ngọc. NL Kích hoạt khả năng nội tại của tất cả Hắc Ngọc."
+  },
+  "Dash": {
+    "NAME": "Lao Tới",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Gây !D! sát thương."
+  },
+  "Dazed": {
+    "NAME": "Choáng",
+    "DESCRIPTION": "Không chơi được. NL Tan biến."
+  },
+  "Deadly Poison": {
+    "NAME": "Kịch Độc",
+    "DESCRIPTION": "Gây !M! Độc."
+  },
+  "Decay": {
+    "NAME": "Mục Rữa",
+    "DESCRIPTION": "Không chơi được. NL Khi kết thúc lượt của bạn, nhận 2 sát thương."
+  },
+  "Deep Breath": {
+    "NAME": "Hít Sâu",
+    "DESCRIPTION": "Tráo chồng bài bỏ vào chồng bài bốc của bạn. NL Bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Tráo chồng bài bỏ vào chồng bài bốc của bạn. NL Bốc !M! lá bài."
+  },
+  "Defend_B": {
+    "NAME": "Phòng Thủ",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "Defend_G": {
+    "NAME": "Phòng Thủ",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "Defend_R": {
+    "NAME": "Phòng Thủ",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "Deflect": {
+    "NAME": "Tiếp Chiêu",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "Defragment": {
+    "NAME": "Chống Phân Mảnh",
+    "DESCRIPTION": "Nhận !M! Tập trung."
+  },
+  "Demon Form": {
+    "NAME": "Quỷ Hình",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, nhận !M! Sức mạnh."
+  },
+  "Die Die Die": {
+    "NAME": "Tử Tử Tử",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. NL Đốt."
+  },
+  "Disarm": {
+    "NAME": "Giải Giới",
+    "DESCRIPTION": "Quân địch mất !M! Sức mạnh. NL Đốt."
+  },
+  "Distraction": {
+    "NAME": "Xao Nhãng",
+    "DESCRIPTION": "Thêm một lá Kỹ năng ngẫu nhiên vào tay bạn. NL Lá đó sẽ tốn 0 lượt này. NL Đốt."
+  },
+  "Dodge and Roll": {
+    "NAME": "Né và Lăn",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Lượt sau nhận !B! Giáp."
+  },
+  "Doom and Gloom": {
+    "NAME": "U Ám",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. NL Gọi !M! Hắc Ngọc."
+  },
+  "Doppelganger": {
+    "NAME": "Song Trùng",
+    "DESCRIPTION": "Lượt sau bốc X lá bài và nhận X [G]. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Lượt sau bốc X+1 lá bài và nhận X+1 [G]. NL Đốt."
+  },
+  "Double Energy": {
+    "NAME": "Gấp Đôi Năng Lượng",
+    "DESCRIPTION": "Nhân đôi Năng lượng của bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhân đôi Năng lượng của bạn."
+  },
+  "Double Tap": {
+    "NAME": "Cẩn Tắc",
+    "DESCRIPTION": "Vào lượt này, lá Tấn công tiếp theo được chơi hai lần.",
+    "UPGRADE_DESCRIPTION": "Vào lượt này, !M! lá Tấn công tiếp theo được chơi hai lần."
+  },
+  "Doubt": {
+    "NAME": "Hoài Nghi",
+    "DESCRIPTION": "Không chơi được. NL Khi kết thúc lượt của bạn, nhận 1 Yếu."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Mở Màn Kịch Tính",
+    "DESCRIPTION": "Nội sinh. NL Gây !D! sát thương lên TẤT CẢ quân địch. NL Đốt."
+  },
+  "Dropkick": {
+    "NAME": "Song Phi",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu địch bị Sơ hở, NL nhận [R] và NL bốc 1 lá bài."
+  },
+  "Dual Wield": {
+    "NAME": "Song Kiếm",
+    "DESCRIPTION": "Chọn một lá Tấn công hoặc Năng lực. Thêm một bản sao của lá bài đó vào tay bạn.",
+    "UPGRADE_DESCRIPTION": "Chọn một lá Tấn công hoặc Năng lực. Thêm 2 bản sao của lá bài đó vào tay bạn."
+  },
+  "Dualcast": {
+    "NAME": "Song Phóng",
+    "DESCRIPTION": "Xả viên Ngọc tiếp theo của bạn hai lần."
+  },
+  "Echo Form": {
+    "NAME": "Vọng Hình",
+    "DESCRIPTION": "Tan biến. NL Lá bài đầu tiên bạn chơi mỗi lượt được chơi hai lần.",
+    "UPGRADE_DESCRIPTION": "Lá bài đầu tiên bạn chơi mỗi lượt được chơi hai lần."
+  },
+  "Electrodynamics": {
+    "NAME": "Điện Từ Học",
+    "DESCRIPTION": "Sét gây sát thương lên TẤT CẢ quân địch. NL Gọi !M! Sét.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Endless Agony": {
+    "NAME": "Đau Đớn Bất Tận",
+    "DESCRIPTION": "Gây !D! sát thương. NL Mỗi khi bạn bốc lá bài này, thêm một bản sao của lá này vào tay bạn. NL Đốt."
+  },
+  "Energy Pulse": {
+    "NAME": "Sóng Năng Lượng",
+    "DESCRIPTION": "Nhận Giáp bằng với số Năng lượng của bạn.",
+    "UPGRADE_DESCRIPTION": "Nhận Giáp bằng với số Năng lượng của bạn nhân đôi."
+  },
+  "Enlightenment": {
+    "NAME": "Giác Ngộ",
+    "DESCRIPTION": "Giảm giá tất cả bài trên tay bạn còn 1 trong lượt này.",
+    "UPGRADE_DESCRIPTION": "Giảm giá tất cả bài trên tay bạn còn 1 trong trận đấu này."
+  },
+  "Entrench": {
+    "NAME": "Hào Sâu",
+    "DESCRIPTION": "Nhân đôi số Giáp của bạn.",
+    "UPGRADE_DESCRIPTION": "Nhân đôi số Giáp của bạn."
+  },
+  "Envenom": {
+    "NAME": "Tẩm Độc",
+    "DESCRIPTION": "Mỗi khi bài Tấn công gây sát thương không đỡ được, gây 1 Độc."
+  },
+  "Escape Plan": {
+    "NAME": "Kế Hoạch Đào Tẩu",
+    "DESCRIPTION": "Bốc 1 lá bài. NL Nếu bạn bốc được lá Kỹ năng, nhận !B! Giáp."
+  },
+  "Eviscerate": {
+    "NAME": "Moi Ruột",
+    "DESCRIPTION": "Giảm [G] NL với mỗi lá bài đã bỏ trong lượt này. NL Gây !D! sát thương 3 lần."
+  },
+  "Evolve": {
+    "NAME": "Tiến Hóa",
+    "DESCRIPTION": "Mỗi khi bạn bốc một lá Trạng thái, bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Mỗi khi bạn bốc một lá Trạng thái, bốc !M! lá bài."
+  },
+  "Exhume": {
+    "NAME": "Khai Quật",
+    "DESCRIPTION": "Đặt một lá bài từ chồng bài đốt lên tay của bạn. NL Đốt."
+  },
+  "Expertise": {
+    "NAME": "Tinh Thông",
+    "DESCRIPTION": "Bốc bài cho đến khi bạn có !M! lá bài trên tay."
+  },
+  "FTL": {
+    "NAME": "Nhanh Hơn Chớp",
+    "DESCRIPTION": "Gây !D! sát thương. Nếu bạn đã chơi ít hơn !M! lá trong lượt này, bốc 1 lá bài.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Đã chơi ",
+      " lá.)",
+      " lá.)"
+    ]
+  },
+  "Feed": {
+    "NAME": "Xơi Tái",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu Đoạt mạng, nâng HP tối đa thêm !M!. Đốt."
+  },
+  "Feel No Pain": {
+    "NAME": "Không Biết Đau",
+    "DESCRIPTION": "Mỗi khi có bài bị Đốt, NL nhận !M! Giáp."
+  },
+  "Fiend Fire": {
+    "NAME": "Lửa Ma Chơi",
+    "DESCRIPTION": "Đốt tất cả bài trên tay bạn. NL Gây !D! sát thương với mỗi lá bài đã đốt. NL Đốt."
+  },
+  "Finesse": {
+    "NAME": "Mưu Mẹo",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Bốc 1 lá bài."
+  },
+  "Finisher": {
+    "NAME": "Đòn Kết Liễu",
+    "DESCRIPTION": "Gây !D! sát thương với mỗi lá Tấn công đã chơi lượt này.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Đã chơi ",
+      " lá Tấn công.)",
+      " lá Tấn công.)"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Thổi Lửa",
+    "DESCRIPTION": "Mỗi khi bạn bốc một lá Trạng thái hoặc Nguyền, gây !M! sát thương lên TẤT CẢ quân địch."
+  },
+  "Fission": {
+    "NAME": "Phân Hạch",
+    "DESCRIPTION": "Huỷ tất cả Ngọc của bạn. Nhận [B] và bốc !M! lá bài với mỗi viên Ngọc đã huỷ. NL Đốt lá bài này.",
+    "UPGRADE_DESCRIPTION": "Xả tất cả Ngọc của bạn. Nhận [B] và bốc !M! lá bài với mỗi viên Ngọc đã xả. NL Đốt lá bài này."
+  },
+  "Flame Barrier": {
+    "NAME": "Tường Lửa",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Mỗi khi bạn bị tấn công trong lượt này, đáp trả !M! sát thương."
+  },
+  "Flash of Steel": {
+    "NAME": "Ánh Chớp Thép",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc 1 lá bài."
+  },
+  "Flechettes": {
+    "NAME": "Mưa Tên",
+    "DESCRIPTION": "Gây !D! sát thương với mỗi lá Kỹ năng trên tay bạn.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Bạn có ",
+      " lá Kỹ năng).",
+      " lá Kỹ năng)."
+    ]
+  },
+  "Flex": {
+    "NAME": "Gồng Cơ",
+    "DESCRIPTION": "Nhận !M! Sức mạnh. NL Khi kết thúc lượt này, mất !M! Sức mạnh."
+  },
+  "Flux Capacitor": {
+    "NAME": "Flux Capacitor",
+    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
+  },
+  "Flying Knee": {
+    "NAME": "Lên Gối",
+    "DESCRIPTION": "Gây !D! sát thương. NL Lượt sau nhận [G]."
+  },
+  "Footwork": {
+    "NAME": "Nhanh Nhạy",
+    "DESCRIPTION": "Nhận !M! Linh hoạt."
+  },
+  "Force Field": {
+    "NAME": "Trường Lực",
+    "DESCRIPTION": "Giảm 1 [B] với mỗi lá Năng Lực bạn đã chơi trong trận đấu này. NL Nhận !B! Giáp."
+  },
+  "Fusion": {
+    "NAME": "Hợp Thể",
+    "DESCRIPTION": "Gọi !M! Plasma."
+  },
+  "Gash": {
+    "NAME": "Cào Móng",
+    "DESCRIPTION": "Gây !D! sát thương. NL Tăng !M! sát thương cho TẤT CẢ các lá Cào Móng trong trận đấu này."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Giải Thuật Di Truyền",
+    "DESCRIPTION": "Nhận !B! Giáp. Vĩnh viễn tăng Giáp của lá bài này thêm !M!. NL Đốt."
+  },
+  "Ghostly": {
+    "NAME": "Hiển Linh",
+    "DESCRIPTION": "Tan biến. NL Nhận 1 Vô hình. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhận 1 Vô hình. NL Đốt."
+  },
+  "Ghostly Armor": {
+    "NAME": "Ma Giáp",
+    "DESCRIPTION": "Tan biến. NL Nhận !B! Giáp."
+  },
+  "Glacier": {
+    "NAME": "Băng Hà",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Gọi !M! Băng.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Gọi !M! Băng."
+  },
+  "Glass Knife": {
+    "NAME": "Dao Thủy Tinh",
+    "DESCRIPTION": "Gây !D! sát thương 2 lần. Giảm 2 sát thương của lá bài này trong trận đấu."
+  },
+  "Go for the Eyes": {
+    "NAME": "Nhắm Vào Mắt",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu quân địch có ý định tấn công, gây !M! Yếu."
+  },
+  "Good Instincts": {
+    "NAME": "Bản Năng Nhạy Bén",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "Grand Finale": {
+    "NAME": "Hồi Kết Huy Hoàng",
+    "DESCRIPTION": "Chỉ chơi được khi chồng bài bốc còn 0. NL Gây !D! sát thương lên TẤT CẢ quân địch.",
+    "UPGRADE_DESCRIPTION": "Chồng bài bốc NL phải #rRỗng."
+  },
+  "Havoc": {
+    "NAME": "Tàn Phá",
+    "DESCRIPTION": "Chơi lá trên cùng chồng bài bốc và Đốt lá bài đó."
+  },
+  "Headbutt": {
+    "NAME": "Đối Đầu",
+    "DESCRIPTION": "Gây !D! sát thương. NL Đặt một lá từ chồng bài bỏ lên trên cùng chồng bài bốc."
+  },
+  "Heatsinks": {
+    "NAME": "Tản Nhiệt",
+    "DESCRIPTION": "Mỗi khi bạn chơi một lá Năng lực, bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Mỗi khi bạn chơi một lá Năng lực, bốc !M! lá bài."
+  },
+  "Heavy Blade": {
+    "NAME": "Đại Đao",
+    "DESCRIPTION": "Gây !D! sát thương. NL Sức mạnh tăng sát thương cho lá này gấp !M! lần.",
+    "UPGRADE_DESCRIPTION": "Gây !D! sát thương. NL Sức mạnh tăng sát thương cho lá này gấp !M! lần."
+  },
+  "Heel Hook": {
+    "NAME": "Đá Móc",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu quân địch bị Yếu, NL nhận [G] và NL bốc 1 lá bài."
+  },
+  "Hello World": {
+    "NAME": "Hello World",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, thêm một lá bài Thông dụng ngẫu nhiên vào tay bạn.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Khi bắt đầu lượt của bạn, thêm một lá bài Thông dụng ngẫu nhiên vào tay bạn."
+  },
+  "Hemokinesis": {
+    "NAME": "Huyết Động",
+    "DESCRIPTION": "Mất !M! HP. NL Gây !D! sát thương."
+  },
+  "Hide": {
+    "NAME": "Lẩn Trốn",
+    "DESCRIPTION": "Bạn không thể mất HP cho đến khi bắt đầu lượt sau. NL Đốt."
+  },
+  "Hologram": {
+    "NAME": "Ảo Ảnh",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Đặt một lá từ chồng bài bỏ vào tay bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Đặt một lá từ chồng bài bỏ vào tay bạn."
+  },
+  "Hyperbeam": {
+    "NAME": "Tia Huỷ Diệt",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. NL Mất !M! Tập trung."
+  },
+  "Immolate": {
+    "NAME": "Thiêu Đốt",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. NL Thêm một lá Bỏng vào chồng bài bỏ của bạn."
+  },
+  "Impervious": {
+    "NAME": "Chống Chịu",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Đốt."
+  },
+  "Infernal Blade": {
+    "NAME": "Quỷ Gươm",
+    "DESCRIPTION": "Thêm một lá Tấn công ngẫu nhiên vào tay bạn. NL Lá đó sẽ tốn 0 lượt này. NL Đốt."
+  },
+  "Infinite Blades": {
+    "NAME": "Dao Vô Cực",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, thêm một *Dao *Găm vào tay bạn.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Khi bắt đầu lượt của bạn, thêm một *Dao *Găm vào tay của bạn."
+  },
+  "Inflame": {
+    "NAME": "Rực Lửa",
+    "DESCRIPTION": "Nhận !M! Sức mạnh."
+  },
+  "Injury": {
+    "NAME": "Thương Tật",
+    "DESCRIPTION": "Không chơi được."
+  },
+  "Intimidate": {
+    "NAME": "Hăm Dọa",
+    "DESCRIPTION": "Gây !M! Yếu lên TẤT CẢ quân địch. NL Đốt."
+  },
+  "Iron Wave": {
+    "NAME": "Sóng Sắt",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Gây !D! sát thương."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Mất 3 HP. NL Nhận !M! Sức mạnh."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Bách Nghệ",
+    "DESCRIPTION": "Thêm !M! lá bài Không màu ngẫu nhiên vào tay bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Thêm !M! lá bài Không màu ngẫu nhiên vào tay bạn. NL Đốt."
+  },
+  "Juggernaut": {
+    "NAME": "Càn Quét",
+    "DESCRIPTION": "Mỗi khi bạn nhận Giáp, gây !M! sát thương lên một quân địch ngẫu nhiên."
+  },
+  "Leap": {
+    "NAME": "Nhảy Vọt",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "Leg Sweep": {
+    "NAME": "Quét Chân",
+    "DESCRIPTION": "Gây !M! Yếu. NL Nhận !B! Giáp."
+  },
+  "Limit Break": {
+    "NAME": "Phá Giới Hạn",
+    "DESCRIPTION": "Nhân đôi Sức mạnh của bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhân đôi Sức mạnh của bạn."
+  },
+  "Lockon": {
+    "NAME": "Hồng Tâm",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Tầm Ngắm."
+  },
+  "Loop": {
+    "NAME": "Vòng Lặp",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, kích hoạt khả năng nội tại của Ngọc tiếp theo.",
+    "UPGRADE_DESCRIPTION": "Khi bắt đầu lượt của bạn, kích hoạt khả năng nội tại của Ngọc tiếp theo !M! lần."
+  },
+  "Machine Learning": {
+    "NAME": "Học Máy",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, bốc thêm !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Khi bắt đầu lượt của bạn, bốc thêm !M! lá bài."
+  },
+  "Study": {
+    "NAME": "Nghiên Cứu",
+    "DESCRIPTION": "Khi kết thúc lượt của bạn, tráo một lá *Huệ *Nhãn vào chồng bài bốc."
+  },
+  "Madness": {
+    "NAME": "Điên Loạn",
+    "DESCRIPTION": "Giảm giá một lá bài ngẫu nhiên trên tay bạn xuống 0 trong trận đấu này. NL Đốt."
+  },
+  "Magnetism": {
+    "NAME": "Từ Tính",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, thêm một lá bài Không màu ngẫu nhiên vào tay bạn."
+  },
+  "Malaise": {
+    "NAME": "Bất An",
+    "DESCRIPTION": "Quân địch mất X Sức mạnh. Gây X Yếu. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Quân địch mất X+1 Sức mạnh. Gây X+1 Yếu. NL Đốt."
+  },
+  "Master of Strategy": {
+    "NAME": "Bậc Thầy Chiến Lược",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Đốt."
+  },
+  "Masterful Stab": {
+    "NAME": "Cú Đâm Điệu Nghệ",
+    "DESCRIPTION": "Tốn thêm 1 [G] NL mỗi lần bạn mất HP trong trận đấu này. NL Gây !D! sát thương.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Mayhem": {
+    "NAME": "Hỗn Loạn",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, chơi lá trên cùng bộ bài bốc của bạn."
+  },
+  "Melter": {
+    "NAME": "Nung Chảy",
+    "DESCRIPTION": "Hủy tất cả Giáp của quân địch. NL Gây !D! sát thương."
+  },
+  "Metallicize": {
+    "NAME": "Cứng Cáp",
+    "DESCRIPTION": "Khi kết thúc lượt của bạn, nhận !M! Giáp."
+  },
+  "Metamorphosis": {
+    "NAME": "Hóa Thân",
+    "DESCRIPTION": "Tráo !M! lá Tấn công ngẫu nhiên vào chồng bài bốc của bạn. Chúng sẽ tốn 0 trong trận đấu này. NL Đốt."
+  },
+  "Meteor Strike": {
+    "NAME": "Trời Đánh",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gọi !M! Plasma."
+  },
+  "Mind Blast": {
+    "NAME": "Nổ Não",
+    "DESCRIPTION": "Nội sinh. NL Gây sát thương bằng với số bài trong chồng bài bốc của bạn.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gây !D! sát thương.)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "Đa Phóng",
+    "DESCRIPTION": "Xả viên Ngọc tiếp theo của bạn X lần.",
+    "UPGRADE_DESCRIPTION": "Xả viên Ngọc tiếp theo của bạn X+1 lần."
+  },
+  "Necronomicurse": {
+    "NAME": "Lời Nguyền Necro",
+    "DESCRIPTION": "Không chơi được. NL Không thể thoát khỏi Lời nguyền này."
+  },
+  "Neutralize": {
+    "NAME": "Vô Hiệu Hóa",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Yếu."
+  },
+  "Night Terror": {
+    "NAME": "Ác Mộng",
+    "DESCRIPTION": "Chọn một lá bài. NL Lượt sau thêm !M! bản sao của lá bài đó vào tay bạn. Đốt.",
+    "EXTENDED_DESCRIPTION": [
+      "Mình chỉ có thể dùng NL ",
+      " NL một lần mỗi lượt."
+    ]
+  },
+  "Normality": {
+    "NAME": "Chuẩn Tắc",
+    "DESCRIPTION": "Không chơi được. NL Khi trên tay, bạn không thể chơi quá 3 lá bài vào lượt này.",
+    "EXTENDED_DESCRIPTION": [
+      "Mình chỉ có thể chơi tối đa NL #r3 lá bài trong lượt này.",
+      "Không chơi được. NL Bạn không thể chơi quá ",
+      " lá bài một lượt.",
+      " lá bài mỗi lượt. NL Bạn đã chơi ",
+      " lá bài trong lượt này.",
+      " lá bài trong lượt này."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Khí Độc",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, gây !M! Độc lên TẤT CẢ quân địch."
+  },
+  "Offering": {
+    "NAME": "Lễ Vật",
+    "DESCRIPTION": "Mất 6 HP. NL Nhận [R] [R]. NL Bốc !M! lá bài. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Mất 6 HP. NL Nhận [R] [R]. NL Bốc !M! lá bài. NL Đốt."
+  },
+  "Outmaneuver": {
+    "NAME": "Qua Mặt",
+    "DESCRIPTION": "Nhận [G] [G] NL khi bắt đầu lượt sau.",
+    "UPGRADE_DESCRIPTION": "Nhận [G] [G] [G] NL khi bắt đầu lượt sau."
+  },
+  "Pain": {
+    "NAME": "Đau Đớn",
+    "DESCRIPTION": "Không chơi được. NL Khi trên tay, NL mất 1 HP mỗi khi bạn chơi một lá bài khác."
+  },
+  "Panacea": {
+    "NAME": "Thuốc Tiên",
+    "DESCRIPTION": "Nhận !M! Thánh tích. NL Đốt."
+  },
+  "Panache": {
+    "NAME": "Phô Trương",
+    "DESCRIPTION": "Mỗi khi bạn chơi 5 lá bài trong một lượt, gây !M! sát thương lên TẤT CẢ quân địch."
+  },
+  "Parasite": {
+    "NAME": "Ký Sinh Trùng",
+    "DESCRIPTION": "Không chơi được. NL Nếu bị biến đổi hoặc hủy khỏi bộ bài, mất 3 HP tối đa."
+  },
+  "Perfected Strike": {
+    "NAME": "Đòn Đánh Hoàn Hảo",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây thêm !M! sát thương với TẤT CẢ bài có chữ \"Đánh\".",
+    "UPGRADE_DESCRIPTION": "Gây !D! sát thương. NL Gây thêm !M! sát thương với TẤT CẢ bài có chữ \"Đánh\"."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Sát Nhân Ảo Ảnh",
+    "DESCRIPTION": "Lượt sau bài Tấn công sẽ gây gấp đôi sát thương."
+  },
+  "PiercingWail": {
+    "NAME": "Tiếng Khóc Chói Tai",
+    "DESCRIPTION": "TẤT CẢ quân địch mất !M! Sức mạnh lượt này. NL Đốt."
+  },
+  "Poisoned Stab": {
+    "NAME": "Dao Độc",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Độc."
+  },
+  "Pommel Strike": {
+    "NAME": "Đánh Bằng Chuôi",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài."
+  },
+  "Power Through": {
+    "NAME": "Kiên Định",
+    "DESCRIPTION": "Thêm 2 *Vết *Thương vào tay bạn. NL Nhận !B! Giáp."
+  },
+  "Predator": {
+    "NAME": "Dã Thú",
+    "DESCRIPTION": "Gây !D! sát thương. NL Lượt sau bốc thêm 2 lá bài."
+  },
+  "Prepared": {
+    "NAME": "Trù Bị",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Bỏ !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Bốc !M! lá bài. NL Bỏ !M! lá bài."
+  },
+  "Pummel": {
+    "NAME": "Mưa Đòn",
+    "DESCRIPTION": "Gây !D! sát thương !M! lần. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Gây !D! sát thương !M! lần. NL Đốt."
+  },
+  "Purity": {
+    "NAME": "Thuần Khiết",
+    "DESCRIPTION": "Đốt tối đa !M! lá bài trên tay bạn. NL Đốt."
+  },
+  "Quick Slash": {
+    "NAME": "Chém Nhanh",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc 1 lá bài."
+  },
+  "Rage": {
+    "NAME": "Phẫn Nộ",
+    "DESCRIPTION": "Mỗi khi bạn chơi một lá Tấn công trong lượt này, nhận !M! Giáp."
+  },
+  "Rainbow": {
+    "NAME": "Cầu Vồng",
+    "DESCRIPTION": "Gọi 1 Sét. NL Gọi 1 Băng. NL Gọi 1 Hắc Ngọc. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Gọi 1 Sét. NL Gọi 1 Băng. NL Gọi 1 Hắc Ngọc."
+  },
+  "Rampage": {
+    "NAME": "Điên Cuồng",
+    "DESCRIPTION": "Gây !D! sát thương. NL Tăng !M! sát thương cho lá bài này trong trận đấu."
+  },
+  "Reaper": {
+    "NAME": "Tử Thần",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. Hồi HP bằng số sát thương không đỡ được. NL Đốt."
+  },
+  "Reboot": {
+    "NAME": "Tái Khởi Động",
+    "DESCRIPTION": "Tráo TẤT CẢ bài vào trong chồng bài bốc của bạn. NL Bốc !M! lá bài. NL Đốt."
+  },
+  "Rebound": {
+    "NAME": "Nảy Ngược",
+    "DESCRIPTION": "Gây !D! sát thương. NL Đặt lá bài tiếp theo bạn chơi lên trên cùng chồng bài bốc."
+  },
+  "Reckless Charge": {
+    "NAME": "Đột Kích Liều Lĩnh",
+    "DESCRIPTION": "Gây !D! sát thương. NL Tráo 1 lá *Choáng vào chồng bài bốc của bạn."
+  },
+  "Recycle": {
+    "NAME": "Tái Chế",
+    "DESCRIPTION": "Đốt một lá bài. NL Nhận [B] bằng với giá lá bài đó."
+  },
+  "Redo": {
+    "NAME": "Truy Hồi",
+    "DESCRIPTION": "Xả viên Ngọc tiếp theo. NL Gọi lại viên Ngọc vừa Xả."
+  },
+  "Reflex": {
+    "NAME": "Phản Xạ",
+    "DESCRIPTION": "Không chơi được. NL Nếu lá bài này bị bỏ khỏi tay bạn, bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Không chơi được. NL Nếu lá bài này bị bỏ khỏi tay bạn, bốc !M! lá bài.",
+    "EXTENDED_DESCRIPTION": [
+      "Mình không thể chơi lá bài này."
+    ]
+  },
+  "Regret": {
+    "NAME": "Hối Tiếc",
+    "DESCRIPTION": "Không chơi được. NL Khi kết thúc lượt của bạn, mất HP bằng với số bài trên tay bạn."
+  },
+  "Reinforced Body": {
+    "NAME": "Giáp Hộ Thân",
+    "DESCRIPTION": "Nhận !B! Giáp X lần."
+  },
+  "Reprogram": {
+    "NAME": "Tái Lập Trình",
+    "DESCRIPTION": "Mất !M! Tập trung. NL Nhận !M! Sức mạnh. NL Nhận !M! Linh hoạt.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Riddle With Holes": {
+    "NAME": "Găm Đầy Lỗ",
+    "DESCRIPTION": "Gây !D! sát thương 5 lần."
+  },
+  "Rip and Tear": {
+    "NAME": "Xé Xác",
+    "DESCRIPTION": "Gây !D! sát thương lên quân địch ngẫu nhiên hai lần."
+  },
+  "Rupture": {
+    "NAME": "Xuất Huyết",
+    "DESCRIPTION": "Mỗi khi bạn mất HP từ một lá bài, NL nhận !M! Sức mạnh."
+  },
+  "Sadistic Nature": {
+    "NAME": "Bản Chất Tàn Ác",
+    "DESCRIPTION": "Mỗi khi bạn gây hiệu ứng bất lợi lên quân địch, gây !M! sát thương lên quân đó."
+  },
+  "Scrape": {
+    "NAME": "Cào Cấu",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài. NL Bỏ tất cả nhứng lá vừa bốc được mà không tốn 0."
+  },
+  "Searing Blow": {
+    "NAME": "Kiếm Lửa",
+    "DESCRIPTION": "Gây !D! sát thương. NL Không giới hạn số lần nâng cấp."
+  },
+  "Second Wind": {
+    "NAME": "Cơ Hội Thứ Hai",
+    "DESCRIPTION": "Đốt tất cả bài không phải Tấn công trên tay bạn. Nhận !B! Giáp với mỗi lá bài đã đốt."
+  },
+  "Secret Technique": {
+    "NAME": "Tuyệt Kỹ Bí Mật",
+    "DESCRIPTION": "Đặt một lá Kỹ năng từ chồng bài bốc vào tay bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Đặt một lá Kỹ năng từ chồng bài bốc vào tay bạn.",
+    "EXTENDED_DESCRIPTION": [
+      "Không có lá Kỹ năng nào NL trong chồng bài bốc."
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "Vũ Khí Bí Mật",
+    "DESCRIPTION": "Đặt một lá Tấn công từ chồng bài bốc vào tay bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Đặt một lá Tấn công từ chồng bài bốc vào tay bạn.",
+    "EXTENDED_DESCRIPTION": [
+      "Không có lá Tấn công nào NL trong chồng bài bốc."
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "Mắt Đỏ",
+    "DESCRIPTION": "Nhận [R] [R]. NL Đốt."
+  },
+  "Seek": {
+    "NAME": "Tìm Kiếm",
+    "DESCRIPTION": "Đặt !M! lá từ chồng bài bốc vào tay bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Đặt !M! lá từ chồng bài bốc vào tay bạn. NL Đốt."
+  },
+  "Self Repair": {
+    "NAME": "Tự Sửa Chữa",
+    "DESCRIPTION": "Khi kết thúc trận đấu, hồi !M! HP."
+  },
+  "Sentinel": {
+    "NAME": "Phòng Hộ",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Nếu lá bài này bị Đốt, NL nhận [R] [R].",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Nếu lá bài này bị Đốt, NL nhận [R] [R] [R]."
+  },
+  "Setup": {
+    "NAME": "Sắp Đặt",
+    "DESCRIPTION": "Đặt một lá bài trong tay lên trên cùng chồng bài bốc. NL Lá bài đó tốn 0 cho đến khi được chơi."
+  },
+  "Sever Soul": {
+    "NAME": "Cắt Đứt Linh Hồn",
+    "DESCRIPTION": "Đốt tất cả bài không phải Tấn công trên tay bạn. NL Gây !D! sát thương."
+  },
+  "Shame": {
+    "NAME": "Nhục Nhã",
+    "DESCRIPTION": "Không chơi được. NL Khi kết thúc lượt của bạn, nhận 1 Mong manh."
+  },
+  "Shiv": {
+    "NAME": "Dao Găm",
+    "DESCRIPTION": "Gây !D! sát thương. NL Đốt."
+  },
+  "Shockwave": {
+    "NAME": "Sóng Xung Kích",
+    "DESCRIPTION": "Gây !M! Yếu và Sơ hở lên TẤT CẢ quân địch. NL Đốt."
+  },
+  "Shrug It Off": {
+    "NAME": "Nhún Vai",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Bốc 1 lá bài."
+  },
+  "Skewer": {
+    "NAME": "Xiên",
+    "DESCRIPTION": "Gây !D! sát thương X lần."
+  },
+  "Skim": {
+    "NAME": "Đọc Nhanh",
+    "DESCRIPTION": "Bốc !M! lá bài."
+  },
+  "Slice": {
+    "NAME": "Chém",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Slimed": {
+    "NAME": "Nhầy Nhụa",
+    "DESCRIPTION": "Đốt."
+  },
+  "Spot Weakness": {
+    "NAME": "Tìm Điểm Yếu",
+    "DESCRIPTION": "Nếu quân địch có ý định tấn công, nhận !M! Sức mạnh."
+  },
+  "Stack": {
+    "NAME": "Chồng Chất",
+    "DESCRIPTION": "Nhận Giáp bằng với số bài trong chồng bài bỏ của bạn.",
+    "UPGRADE_DESCRIPTION": "Nhận Giáp bằng với số bài trong chồng bài bỏ của bạn +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Nhận !B! Giáp.)"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "Nổ Tĩnh Điện",
+    "DESCRIPTION": "Mỗi khi bạn nhận sát thương tấn công không đỡ được, Gọi !M! Sét.",
+    "UPGRADE_DESCRIPTION": "Mỗi khi bạn nhận sát thương tấn công không đỡ được, Gọi !M! Sét."
+  },
+  "Steam": {
+    "NAME": "Tường Hơi Nước",
+    "DESCRIPTION": "Nhận !B! Giáp. Trừ 1 Giáp của lá bài này trong trận đấu này."
+  },
+  "Steam Power": {
+    "NAME": "Ép Xung",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Thêm một lá Bỏng vào chồng bài bỏ."
+  },
+  "Storm": {
+    "NAME": "Bão Táp",
+    "DESCRIPTION": "Mỗi khi bạn chơi một lá Năng lực, gọi 1 Sét.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Mỗi khi bạn chơi một lá Năng lực, Gọi 1 Sét."
+  },
+  "Storm of Steel": {
+    "NAME": "Bão Thép",
+    "DESCRIPTION": "Bỏ bài trên tay bạn. NL Thêm 1 *Dao *Găm lên tay với mỗi lá bài đã bỏ.",
+    "UPGRADE_DESCRIPTION": "Bỏ bài trên tay bạn. NL Thêm 1 *Dao *Găm+ lên tay với mỗi lá bài đã bỏ."
+  },
+  "Streamline": {
+    "NAME": "Tinh Giản",
+    "DESCRIPTION": "Gây !D! sát thương. NL Giảm !M! năng lượng của lá bài trong trận đấu này."
+  },
+  "Strike_B": {
+    "NAME": "Đánh",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Strike_G": {
+    "NAME": "Đánh",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Strike_R": {
+    "NAME": "Đánh",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Sucker Punch": {
+    "NAME": "Đấm Lén",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Yếu."
+  },
+  "Sunder": {
+    "NAME": "Địa Chấn",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu lá bài này giết được quân địch, nhận [B] [B] [B]."
+  },
+  "Survivor": {
+    "NAME": "Kẻ Sống Sót",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Bỏ 1 lá bài."
+  },
+  "Sweeping Beam": {
+    "NAME": "Tia Càn Quét",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch. NL Bốc !M! lá bài."
+  },
+  "Swift Strike": {
+    "NAME": "Đánh Nhanh",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Sword Boomerang": {
+    "NAME": "Kiếm Boomerang",
+    "DESCRIPTION": "Gây !D! sát thương lên quân địch ngẫu nhiên !M! lần."
+  },
+  "Tactician": {
+    "NAME": "Chiến Lược Gia",
+    "DESCRIPTION": "Không chơi được. NL Nếu lá bài này bị bỏ khỏi tay bạn, nhận [G].",
+    "UPGRADE_DESCRIPTION": "Không chơi được. NL Nếu lá bài này bị bỏ khỏi tay bạn, nhận [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Mình không thể chơi lá bài này."
+    ]
+  },
+  "Tempest": {
+    "NAME": "Giông Tố",
+    "DESCRIPTION": "Gọi X Sét. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Gọi X+1 Sét. NL Đốt."
+  },
+  "Terror": {
+    "NAME": "Kinh Hoàng",
+    "DESCRIPTION": "Gây 99 Sơ hở. NL Đốt."
+  },
+  "The Bomb": {
+    "NAME": "Quả Bom",
+    "DESCRIPTION": "Khi hết 3 lượt, gây !M! sát thương lên TẤT CẢ quân địch."
+  },
+  "Thinking Ahead": {
+    "NAME": "Suy Tính",
+    "DESCRIPTION": "Bốc 2 lá bài. NL Đặt một lá từ trên tay lên trên cùng chồng bài bốc. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Bốc 2 lá bài. NL Đặt một lá từ trên tay lên trên cùng chồng bài bốc."
+  },
+  "Thunder Strike": {
+    "NAME": "Sét Đánh",
+    "DESCRIPTION": "Gây !D! sát thương lên quân địch ngẫu nhiên với mỗi Ngọc Sét đã Gọi trong trận đấu này.",
+    "EXTENDED_DESCRIPTION": [
+      " (Đã gọi !M! Sét.)"
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Sét Nổ",
+    "DESCRIPTION": "Gây !D! sát thương và gây 1 Sơ hở lên TẤT CẢ quân địch."
+  },
+  "Tools of the Trade": {
+    "NAME": "Đồ Nghề Hành Hiệp",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, bốc 1 lá bài và bỏ 1 lá bài."
+  },
+  "Transmutation": {
+    "NAME": "Chuyển Hóa",
+    "DESCRIPTION": "Thêm X lá bài Không màu ngẫu nhiên vào tay bạn. NL Lá đó sẽ tốn 0 lượt này. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Thêm X lá bài Không màu đã Nâng cấp ngẫu nhiên vào tay bạn. NL Lá đó sẽ tốn 0 lượt này. NL Đốt."
+  },
+  "Trip": {
+    "NAME": "Trượt Chân",
+    "DESCRIPTION": "Gây !M! Sơ hở.",
+    "UPGRADE_DESCRIPTION": "Gây !M! Sơ hở lên TẤT CẢ quân địch."
+  },
+  "True Grit": {
+    "NAME": "Can Đảm",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Đốt 1 lá bài ngẫu nhiên.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Đốt 1 lá bài."
+  },
+  "Turbo": {
+    "NAME": "SIÊU TỐC",
+    "DESCRIPTION": "Nhận [B] [B]. NL Thêm một lá *Hư *Vô vào chồng bài bỏ của bạn.",
+    "UPGRADE_DESCRIPTION": "Nhận [B] [B] [B]. NL Thêm một lá *Hư *Vô vào chồng bài bỏ của bạn."
+  },
+  "Twin Strike": {
+    "NAME": "Đánh Hai Lần",
+    "DESCRIPTION": "Gây !D! sát thương hai lần."
+  },
+  "Underhanded Strike": {
+    "NAME": "Đánh Lén",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu bạn đã bỏ bài lượt này, NL nhận [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Mình không thể chơi lá bài này."
+    ]
+  },
+  "Undo": {
+    "NAME": "Cân Bằng",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Giữ lại bài trên tay trong lượt này."
+  },
+  "Unload": {
+    "NAME": "Xả Hàng",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bỏ tất cả bài không phải Tấn công trên tay bạn."
+  },
+  "Uppercut": {
+    "NAME": "Đấm Móc",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây !M! Yếu. NL Gây !M! Sơ hở."
+  },
+  "Venomology": {
+    "NAME": "Giả Kim Thuật",
+    "DESCRIPTION": "Nhận một bình dược ngẫu nhiên. NL Đốt."
+  },
+  "Void": {
+    "NAME": "Hư Vô",
+    "DESCRIPTION": "Không chơi được. NL Tan biến. NL Mỗi khi bốc phải lá bài này, mất 1 Năng lượng."
+  },
+  "Warcry": {
+    "NAME": "Khẩu Lệnh",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Đặt một lá bài trong tay lên trên cùng chồng bài bốc. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Bốc !M! lá bài. NL Đặt một lá bài trong tay lên trên cùng chồng bài bốc. NL Đốt."
+  },
+  "Well Laid Plans": {
+    "NAME": "Kế Hoạch Kỹ Lưỡng",
+    "DESCRIPTION": "Khi kết thúc lượt của bạn, Giữ lại tối đa !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "Khi kết thúc lượt của bạn, Giữ lại tối đa !M! lá bài."
+  },
+  "Whirlwind": {
+    "NAME": "Lốc Xoáy",
+    "DESCRIPTION": "Gây !D! sát thương lên TẤT CẢ quân địch X lần."
+  },
+  "White Noise": {
+    "NAME": "Nhiễu Trắng",
+    "DESCRIPTION": "Thêm một lá Năng lực ngẫu nhiên vào tay bạn. NL Lá đó sẽ tốn 0 lượt này. NL Đốt."
+  },
+  "Wild Strike": {
+    "NAME": "Đánh Bừa",
+    "DESCRIPTION": "Gây !D! sát thương. NL Tráo một *Vết *Thương vào chồng bài bốc của bạn."
+  },
+  "Wound": {
+    "NAME": "Vết Thương",
+    "DESCRIPTION": "Không chơi được."
+  },
+  "Wraith Form v2": {
+    "NAME": "Yêu Hình",
+    "DESCRIPTION": "Nhận !M! Vô hình. NL Khi kết thúc lượt của bạn, mất 1 Linh hoạt."
+  },
+  "Writhe": {
+    "NAME": "Quằn Quại",
+    "DESCRIPTION": "Không chơi được. NL Nội sinh."
+  },
+  "Zap": {
+    "NAME": "Giật",
+    "DESCRIPTION": "Gọi !M! Sét."
+  },
+  "Core Surge": {
+    "NAME": "Tràn Lõi",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nhận !M! Thánh tích. NL Đốt."
+  },
+  "Compile Driver": {
+    "NAME": "Máy Đóng Cọc",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài với mỗi loại Ngọc bạn có."
+  },
+  "RitualDagger": {
+    "NAME": "Dao Tế Lễ",
+    "DESCRIPTION": "Gây !D! sát thương. Nếu Đoạt mạng, vĩnh viễn tăng sát thương thêm !M!. NL Đốt."
+  },
+  "Pride": {
+    "NAME": "Kiêu Hãnh",
+    "DESCRIPTION": "Nội sinh. NL Khi bắt đầu lượt của bạn, đặt một bản sao của lá bài này lên trên cùng chồng bài bốc. Đốt."
+  },
+  "PanicButton": {
+    "NAME": "Nút Khẩn Cấp",
+    "DESCRIPTION": "Nhận !B! Giáp. Bạn không thể nhận Giáp từ bài trong !M! lượt. NL Đốt."
+  },
+  "HandOfGreed": {
+    "NAME": "Bàn Tay Tham Lam",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu Đoạt mạng, nhận !M! Vàng."
+  },
+  "Violence": {
+    "NAME": "Bạo Lực",
+    "DESCRIPTION": "Đặt !M! lá Tấn công ngẫu nhiên từ chồng bài bốc vào tay bạn. NL Đốt."
+  },
+  "Impatience": {
+    "NAME": "Mất Bình Tĩnh",
+    "DESCRIPTION": "Nếu bạn không có lá Tấn công nào trên tay, bốc !M! lá bài."
+  },
+  "Forethought": {
+    "NAME": "Lo Xa",
+    "DESCRIPTION": "Đặt một lá từ trên tay xuống đáy chồng bài bốc. Lá bài đó tốn 0 cho đến khi được chơi.",
+    "UPGRADE_DESCRIPTION": "Đặt bất kỳ số bài nào trên tay xuống đáy chồng bài bốc. Lá bài đó tốn 0 cho đến khi được chơi."
+  },
+  "Discovery": {
+    "NAME": "Khám Phá",
+    "DESCRIPTION": "Chọn 1 trong 3 lá bài ngẫu nhiên để thêm vào tay bạn. Lá đó sẽ tốn 0 lượt này. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Chọn 1 trong 3 lá bài ngẫu nhiên để thêm vào tay bạn. Lá đó sẽ tốn 0 lượt này."
+  },
+  "SpiritShield": {
+    "NAME": "Khiên Tâm Linh",
+    "DESCRIPTION": "Nhận !M! Giáp với mỗi lá bài trên tay.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Nhận !B! Giáp.)"
+    ]
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "Exhaust. NL At the start of your turn, draw 1 card. NL Retains."
+  },
+  "Wrath": {
+    "NAME": "Nộ",
+    "DESCRIPTION": "Gây và nhận gấp đôi sát thương."
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
+  },
+  "Tantrum": {
+    "NAME": "Cơn Tam Bành",
+    "DESCRIPTION": "Gây !D! sát thương lên NL một quân địch !M! lần. NL Vào Thế Nộ. NL Tráo lá bài này vào chồng bài bốc của bạn."
+  },
+  "Adaptation": {
+    "NAME": "Ập Đến",
+    "DESCRIPTION": "Mỗi khi bạn vào Thế Nộ, bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Causality": {
+    "NAME": "Nhân Quả",
+    "DESCRIPTION": "Bốc bài cho đến khi đầy tay. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Bốc bài cho đến khi đầy tay. NL Giữ. NL Đốt."
+  },
+  "Devotion": {
+    "NAME": "Mộ Đạo",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, nhận !M! Thần chú."
+  },
+  "EmptyFist": {
+    "NAME": "Hư Quyền",
+    "DESCRIPTION": "Gây !D! sát thương. NL Thoát khỏi Thế."
+  },
+  "Wisdom": {
+    "NAME": "Trí Tuệ",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Giữ. NL Đốt."
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+  },
+  "FlowState": {
+    "NAME": "DEPRECATED Trạng Thái Dòng Chảy",
+    "DESCRIPTION": "Nộ: Vào Thế Tĩnh. NL Tĩnh: Vào Thế Nộ. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nộ: Vào Thế Tĩnh. NL Tĩnh: Vào Thế Nộ."
+  },
+  "Swivel": {
+    "NAME": "Xoay",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Lá Tấn công tiếp theo bạn chơi tốn 0."
+  },
+  "Wish": {
+    "NAME": "Mộng Ước",
+    "DESCRIPTION": "Lựa chọn: NL Nhận !B! Giáp mạ, NL !M! Vàng, hoặc !D! Sức mạnh. NL Đốt.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED Fury Aura",
+    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+  },
+  "DeusExMachina": {
+    "NAME": "Quý Nhân Phù Trợ",
+    "DESCRIPTION": "Không chơi được. NL Khi bạn bốc lá bài này, thêm !M! lá *Phép *Màu NL vào tay bạn và Đốt."
+  },
+  "ThroughViolence": {
+    "NAME": "Bằng Bạo Lực",
+    "DESCRIPTION": "Giữ. NL Gây !D! sát thương. NL Đốt."
+  },
+  "Metaphysics": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Clarity": {
+    "NAME": "Tinh Tường",
+    "DESCRIPTION": "Xem !M! lá bài đầu tiên trong bộ bài của bạn. Thêm 1 lá vào tay bạn. NL Đốt lá còn lại.",
+    "UPGRADE_DESCRIPTION": "Xem !M! lá bài đầu tiên trong bộ bài của bạn. Thêm 1 lá vào tay bạn. NL Đốt số còn lại."
+  },
+  "WreathOfFlame": {
+    "NAME": "Vòng Lửa",
+    "DESCRIPTION": "Lá Tấn công tiếp theo gây thêm !M! sát thương."
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED Flicker",
+    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+  },
+  "Alpha": {
+    "NAME": "Alpha",
+    "DESCRIPTION": "Tráo một lá *Beta vào chồng bài bốc của bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Tráo một lá *Beta vào chồng bài bốc của bạn. NL Đốt."
+  },
+  "FollowUp": {
+    "NAME": "Tiếp Chiêu",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu lá được chơi trước đó là bài Tấn công, nhận [W]."
+  },
+  "Vault": {
+    "NAME": "Nhảy Cóc",
+    "DESCRIPTION": "Nhận thêm một lượt sau lượt này. NL Kết thúc lượt của bạn. NL Đốt."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+  },
+  "Wallop": {
+    "NAME": "Quất",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nhận Giáp bằng với lượng sát thương không đỡ được gây ra."
+  },
+  "Consecrate": {
+    "NAME": "Tận Hiến",
+    "DESCRIPTION": "Gây !D! sát thương NL lên TẤT CẢ quân địch."
+  },
+  "Conclude": {
+    "NAME": "Kết Thúc",
+    "DESCRIPTION": "Gây !D! sát thương lên NL TẤT CẢ quân địch. NL Kết thúc lượt của bạn."
+  },
+  "MasterReality": {
+    "NAME": "Làm Chủ Thực Tại",
+    "DESCRIPTION": "Mỗi khi có một lá bài được tạo ra trong trận đấu, Nâng cấp lá đó."
+  },
+  "CleanseEvil": {
+    "NAME": "Thanh Tẩy Tà Ác",
+    "DESCRIPTION": "Thêm X lá *Phang vào tay bạn.",
+    "UPGRADE_DESCRIPTION": "Thêm X lá *Phang+ vào tay bạn."
+  },
+  "WindmillStrike": {
+    "NAME": "Đòn Đánh Lốc Xoáy",
+    "DESCRIPTION": "Giữ. NL Gây !D! sát thương. NL Mỗi khi Giữ, tăng sát thương thêm !M! trong NL trận đấu này."
+  },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+  },
+  "LessonLearned": {
+    "NAME": "Bài Học Xương Máu",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu Đoạt mạng, nâng cấp một lá bài ngẫu nhiên trong bộ bài của bạn. Đốt."
+  },
+  "Calm": {
+    "NAME": "Tĩnh",
+    "DESCRIPTION": "Khi thoát khỏi Thế Tĩnh, nhận [W] [W]."
+  },
+  "ThirdEye": {
+    "NAME": "Con Mắt Thứ Ba",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Bói !M! lá bài."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survey",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+  },
+  "FlyingSleeves": {
+    "NAME": "Thăng Tụ",
+    "DESCRIPTION": "Gây !D! sát thương hai lần. NL Giữ."
+  },
+  "Wireheading": {
+    "NAME": "Tiên Liệu",
+    "DESCRIPTION": "Khi bắt đầu lượt của bạn, Bói !M! lá bài.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Sanctity": {
+    "NAME": "Thiêng Liêng",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Nếu lá bài được chơi trước đó là bài Kỹ năng, NL Bốc !M! lá bài."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+  },
+  "Mastery": {
+    "NAME": "Tinh Thông",
+    "DESCRIPTION": "Mỗi khi bạn đổi sang Thế hiện tại, nhận [B]."
+  },
+  "Beta": {
+    "NAME": "Beta",
+    "DESCRIPTION": "Thêm một lá *Omega vào chồng bài bốc. NL Đốt.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FearNoEvil": {
+    "NAME": "Không Sợ Tà Ác",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu quân địch có ý định Tấn công, vào Thế Tĩnh."
+  },
+  "Perseverance": {
+    "NAME": "Kiên Trì",
+    "DESCRIPTION": "Giữ. NL Nhận !B! Giáp. NL Khi Giữ lá bài này, tăng Giáp của lá bài này thêm !M! trong trận đấu."
+  },
+  "Ragnarok": {
+    "NAME": "Tận Thế",
+    "DESCRIPTION": "Gây !D! sát thương lên một quân địch ngẫu nhiên !M! lần."
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Awakened Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Blessed",
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
+  },
+  "Eruption": {
+    "NAME": "Tuôn Trào",
+    "DESCRIPTION": "Gây !D! sát thương. NL Vào Thế Nộ."
+  },
+  "LetFateDecide": {
+    "NAME": "DEPRECATED Let Fate Decide",
+    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
+  },
+  "CutThroughFate": {
+    "NAME": "Cắt Đứt Số Mệnh",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bói !M! lá bài. NL Bốc 1 lá bài."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Khuơ Tay",
+    "DESCRIPTION": "Mỗi khi bạn nhận Giáp trong lượt này, gây !M! Yếu lên TẤT CẢ quân địch."
+  },
+  "Vigilance": {
+    "NAME": "Cảnh Giác",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Vào Thế Tĩnh.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "PathToVictory": {
+    "NAME": "Điểm Huyệt",
+    "DESCRIPTION": "Gây !M! *Ấn. NL TẤT CẢ quân địch mất HP theo *Ấn của mình.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Evaluate": {
+    "NAME": "Thăm Dò",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Tráo một lá Huệ Nhãn vào chồng bài bốc.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Tráo một lá Huệ Nhãn+ vào chồng bài bốc."
+  },
+  "Establishment": {
+    "NAME": "Thiết Lập",
+    "DESCRIPTION": "Mỗi khi Giữ, giảm giá của bài bớt !M! trong trận đấu này.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Mỗi khi Giữ, giảm giá của bài bớt !M! trong trận đấu này."
+  },
+  "Collect": {
+    "NAME": "Tự Chủ",
+    "DESCRIPTION": "Đặt một lá *Phép *Màu+ vào tay bạn trong X lượt tiếp theo. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Đặt một lá *Phép *Màu+ vào tay bạn trong X+1 lượt tiếp theo. NL Đốt."
+  },
+  "Experienced": {
+    "NAME": "DEPRECATED Experienced",
+    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+  },
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Perfected Form",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+  },
+  "JustLucky": {
+    "NAME": "Ăn May",
+    "DESCRIPTION": "Bói !M! lá. NL Nhận !B! Giáp. NL Gây !D! sát thương."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+  },
+  "Peace": {
+    "NAME": "Hòa Bình",
+    "DESCRIPTION": "TẤT CẢ quân địch mất !M! Sức mạnh trong lượt này. NL Giữ. NL Đốt."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Restraining Palm",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "Protect": {
+    "NAME": "Bảo Vệ",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Giữ."
+  },
+  "Worship": {
+    "NAME": "Sùng Bái",
+    "DESCRIPTION": "Nhận !M! Thần chú.",
+    "UPGRADE_DESCRIPTION": "Giữ. NL Nhận !M! Thần chú."
+  },
+  "EmptyMind": {
+    "NAME": "Hư Tâm",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Thoát khỏi Thế.",
+    "UPGRADE_DESCRIPTION": "Bốc !M! lá bài. NL Thoát khỏi Thế."
+  },
+  "Miracle": {
+    "NAME": "Phép Màu",
+    "DESCRIPTION": "Nhận [W]. NL Giữ. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Nhận [W] [W]. NL Giữ. NL Đốt."
+  },
+  "DevaForm": {
+    "NAME": "Chư Thiên Hình",
+    "DESCRIPTION": "Tan biến. NL Khi bắt đầu lượt của bạn, nhận [W] và tăng mức nhận này thêm !M!.",
+    "UPGRADE_DESCRIPTION": "Khi bắt đầu lượt của bạn, nhận [W] và tăng mức nhận này thêm !M!."
+  },
+  "TalkToTheHand": {
+    "NAME": "Nói Cho Tay Nghe",
+    "DESCRIPTION": "Gây !D! sát thương. NL Mỗi khi bạn tấn công quân địch này, nhận !M! Giáp. NL Đốt."
+  },
+  "Strike_P": {
+    "NAME": "Đánh",
+    "DESCRIPTION": "Gây !D! sát thương."
+  },
+  "Meditate": {
+    "NAME": "Thiền",
+    "DESCRIPTION": "Lấy một lá từ chồng bài bỏ vào tay bạn và Giữ lá đó. NL Vào Thế Tĩnh. NL Kết thúc lượt của bạn.",
+    "UPGRADE_DESCRIPTION": "Lấy 2 lá từ chồng bài bỏ vào tay bạn và Giữ lá đó. NL Vào Thế Tĩnh. NL Kết thúc lượt của bạn."
+  },
+  "Nirvana": {
+    "NAME": "Niết Bàn",
+    "DESCRIPTION": "Mỗi khi bạn Bói, nhận !M! Giáp.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "DeceiveReality": {
+    "NAME": "Đánh Lừa Thực Tại",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Thêm một lá *An *Toàn vào tay bạn.",
+    "UPGRADE_DESCRIPTION": "Nhận !B! Giáp. NL Thêm một lá *An *Toàn+ vào tay bạn."
+  },
+  "RetreatingHand": {
+    "NAME": "DEPRECATED Retreating Hand",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
+  },
+  "Halt": {
+    "NAME": "Lưỡng Lự",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Nếu bạn đang vào Thế Nộ, Nhận thêm !M! Giáp."
+  },
+  "CurseOfTheBell": {
+    "NAME": "Chuông Nguyền",
+    "DESCRIPTION": "Không chơi được. NL Không thể hủy khỏi bộ bài."
+  },
+  "Brilliance": {
+    "NAME": "Thông Tuệ",
+    "DESCRIPTION": "Gây !D! sát thương. NL Gây thêm sát thương bằng với số Thần chú đã nhận trong trận đấu này.",
+    "EXTENDED_DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "ClearTheMind": {
+    "NAME": "Thanh Tịnh",
+    "DESCRIPTION": "Giữ. NL Vào Thế Tĩnh. NL Đốt."
+  },
+  "Safety": {
+    "NAME": "An Toàn",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Giữ. Đốt."
+  },
+  "Scrawl": {
+    "NAME": "Loạn Đồ",
+    "DESCRIPTION": "Bốc bài đến khi đầy tay. NL Đốt.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Prostrate": {
+    "NAME": "Phủ Phục",
+    "DESCRIPTION": "Nhận !M! Thần chú. NL Nhận !B! Giáp.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Pray": {
+    "NAME": "Niệm Chú",
+    "DESCRIPTION": "Nhận !M! Thần chú. NL Tráo một lá *Huệ *Nhãn vào chồng bài bốc của bạn.",
+    "UPGRADE_DESCRIPTION": "Nhận !M! Thần chú. NL Tráo một lá *Huệ *Nhãn+ vào chồng bài bốc của bạn."
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Draw 1 card. NL Retains. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
+  },
+  "ForeignInfluence": {
+    "NAME": "Ngoại Lai Chi Phối",
+    "DESCRIPTION": "Chọn 1 trong 3 lá Tấn công có màu ngẫu nhiên để thêm vào tay bạn. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Chọn 1 trong 3 lá Tấn công có màu ngẫu nhiên để thêm vào tay bạn. NL Lá đó tốn 0 trong lượt này. NL Đốt."
+  },
+  "SignatureMove": {
+    "NAME": "Tuyệt Kỹ",
+    "DESCRIPTION": "Chỉ chơi được nếu đây là lá Tấn công duy nhất của bạn. Gây !D! sát thương."
+  },
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sublime Slice",
+    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
+  },
+  "ReachHeaven": {
+    "NAME": "Đạt Cảnh Giới",
+    "DESCRIPTION": "Gây !D! sát thương. NL Tráo một lá NL *Bằng *Bạo *Lực vào chồng bài bốc của bạn.",
+    "UPGRADE_DESCRIPTION": "Gây !D! sát thương. NL Tráo một lá NL *Bằng *Bạo *Lực+ vào chồng bài bốc của bạn."
+  },
+  "Insight": {
+    "NAME": "Huệ Nhãn",
+    "DESCRIPTION": "Bốc !M! lá bài. NL Giữ. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Bốc !M! lá bài. NL Giữ. NL Đốt."
+  },
+  "BattleHymn": {
+    "NAME": "Chiến Ca",
+    "DESCRIPTION": "Khi bắt đầu mỗi lượt, NL thêm một lá *Phang vào tay bạn.",
+    "UPGRADE_DESCRIPTION": "Nội sinh. NL Khi bắt đầu mỗi lượt, NL thêm một lá *Phang vào tay bạn."
+  },
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Retains."
+  },
+  "BowlingBash": {
+    "NAME": "Vụt Lan",
+    "DESCRIPTION": "Gây !D! sát thương với mỗi quân địch trong trận đấu."
+  },
+  "Truth": {
+    "NAME": "Sự Thật",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài. NL Giữ. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài. NL Giữ. NL Đốt."
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Stance."
+  },
+  "Smite": {
+    "NAME": "Phang",
+    "DESCRIPTION": "Gây !D! sát thương. NL Giữ. NL Đốt."
+  },
+  "Omniscience": {
+    "NAME": "Toàn Trí",
+    "DESCRIPTION": "Chọn một lá bài trong chồng bài bốc. NL Chơi lá bài đó hai lần và đốt lá đó. NL Đốt.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "Gây !M! sát thương lên TẤT CẢ quân địch khi kết thúc lượt của bạn."
+  },
+  "Serenity": {
+    "NAME": "Thanh Thản",
+    "DESCRIPTION": "Khi bạn đang ở trong Thế Tĩnh, giảm lượng sát thương lên HP đi !M!."
+  },
+  "Judgement": {
+    "NAME": "Phán Xét",
+    "DESCRIPTION": "Nếu quân địch có !M! HP hoặc ít hơn, đưa HP NL của quân địch đó về 0.",
+    "EXTENDED_DESCRIPTION": [
+      "ĐÃ PHÁN XÉT"
+    ]
+  },
+  "MentalFortress": {
+    "NAME": "Pháo Đài Tâm Can",
+    "DESCRIPTION": "Mỗi khi bạn đổi Thế, NL nhận !M! Giáp."
+  },
+  "EmptyBody": {
+    "NAME": "Hư Thể",
+    "DESCRIPTION": "Nhận !B! Giáp. NL Thoát khỏi Thế."
+  },
+  "Crescendo": {
+    "NAME": "Đỉnh Điểm",
+    "DESCRIPTION": "Giữ. NL Vào Thế Nộ. NL Đốt."
+  },
+  "SandsOfTime": {
+    "NAME": "Cát Thời Gian",
+    "DESCRIPTION": "Giữ. NL Gây !D! sát thương. NL Khi Giữ lá bài này, giảm giá bớt 1 trong trận đấu này."
+  },
+  "Blasphemy": {
+    "NAME": "Báng Bổ",
+    "DESCRIPTION": "Vào Thế Phật. NL Lượt sau chết. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Giữ. NL Vào Thế Phật. NL Lượt sau chết. NL Đốt."
+  },
+  "Transcendence": {
+    "NAME": "Giác Ngộ",
+    "DESCRIPTION": "Nâng cấp tất cả những lá bài được Giữ lại."
+  },
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
+  },
+  "Unraveling": {
+    "NAME": "Gỡ Mối",
+    "DESCRIPTION": "Chơi toàn bộ bài trên tay bạn từ trái qua phải. Mục tiêu được chọn ngẫu nhiên. NL Đốt."
+  },
+  "Weave": {
+    "NAME": "Dệt",
+    "DESCRIPTION": "Gây !D! sát thương. NL Khi bạn Bói, bốc lại lá này từ chồng bài bỏ lên tay bạn."
+  },
+  "CrushJoints": {
+    "NAME": "Nghiền Khớp",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu lá bài được chơi trước đó là bài Kỹ năng, NL gây !M! Sơ hở."
+  },
+  "Vengeance": {
+    "NAME": "Báo Thù Sục Sôi",
+    "DESCRIPTION": "Khi bắt đầu lượt tiếp theo của bạn, vào Thế Nộ và bốc !M! lá bài."
+  },
+  "CarveReality": {
+    "NAME": "Đẽo Gọt Thực Tại",
+    "DESCRIPTION": "Gây !D! sát thương. NL Thêm một lá *Phang vào tay bạn.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Defend_P": {
+    "NAME": "Phòng Thủ",
+    "DESCRIPTION": "Nhận !B! Giáp."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+  },
+  "Thwack": {
+    "NAME": "DEPRECATED Thwack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Fasting": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Fasting2": {
+    "NAME": "Tuyệt Thực",
+    "DESCRIPTION": "Nhận !M! Sức mạnh. NL Nhận !M! Linh Hoạt. NL Khi bắt đầu mỗi lượt, NL giảm 1 [W]."
+  },
+  "Swipe": {
+    "NAME": "DEPRECATED Swipe",
+    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+  },
+  "InnerPeace": {
+    "NAME": "Tĩnh Tâm",
+    "DESCRIPTION": "Nếu bạn đang trong Thế Tĩnh, bốc !M! lá bài, nếu không, vào Thế Tĩnh."
+  },
+  "StepAndStrike": {
+    "NAME": "Bước và Đánh",
+    "DESCRIPTION": "Tốn bớt 1 với mỗi lần đổi Thế trong lượt này. NL Nhận !B! Giáp. NL Gây !D! sát thương."
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediction",
+    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+  },
+  "Flow": {
+    "NAME": "DEPRECATED Flow",
+    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Flame Mastery",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Tấn Công Vũ Bão",
+    "DESCRIPTION": "Gây !D! sát thương. NL Mỗi khi bạn đổi Thế, bốc lại lá này từ chồng bài bỏ lên tay."
+  },
+  "SashWhip": {
+    "NAME": "Roi Đai",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu lá bài được chơi trước đó là lá Tấn công, NL gây !M! Yếu."
+  },
+  "WheelKick": {
+    "NAME": "Đá Xoay",
+    "DESCRIPTION": "Gây !D! sát thương. NL Bốc !M! lá bài.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Indignation": {
+    "NAME": "Thịnh Nộ",
+    "DESCRIPTION": "Nếu bạn đang ở Thế Nộ, gây !M! Sơ hở lên TẤT CẢ quân địch, nếu không, NL vào Thế Nộ."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Toàn Năng",
+    "DESCRIPTION": "Nhận !M! Sức mạnh."
+  },
+  "LiveForever": {
+    "NAME": "Trường Sinh",
+    "DESCRIPTION": "Nhận !M! *Giáp *mạ."
+  },
+  "FameAndFortune": {
+    "NAME": "Danh Lợi",
+    "DESCRIPTION": "Nhận !M! vàng."
+  },
+  "ConjureBlade": {
+    "NAME": "Gọi Gươm",
+    "DESCRIPTION": "Tráo một lá *Thanh *Tẩy vào chồng bài bốc. NL Đốt.",
+    "UPGRADE_DESCRIPTION": "Tráo một lá *Thanh *Tẩy với X+1 vào chồng bài bốc. NL Đốt."
+  },
+  "Expunger": {
+    "NAME": "Thanh Tẩy",
+    "DESCRIPTION": "Gây !D! sát thương X lần.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "Gây !D! sát thương !M! lần.",
+      "Gây !D! sát thương !M! lần."
+    ]
+  },
+  "WaveOfTheHand2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Discipline": {
+    "NAME": "DEPRECATED Kỷ Luật",
+    "DESCRIPTION": "Nếu bạn kết thúc lượt mà vẫn còn [W] , bốc thêm bấy nhiêu lá bài vào lượt sau."
+  },
+  "Flick": {
+    "NAME": "DEPRECATED Búng Tay",
+    "DESCRIPTION": "Gây !D! sát thương. NL Nếu quân địch bị *Búng *Tay 3 lần, quân đó nhận !M! sát thương."
+  },
+  "LikeWater": {
+    "NAME": "Lặng Như Nước",
+    "DESCRIPTION": "Khi kết thúc lượt của bạn, nếu bạn đang trong NL Thế Tĩnh, nhận !M! Giáp."
+  }
+}

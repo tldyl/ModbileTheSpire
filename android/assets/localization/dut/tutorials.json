@@ -1,0 +1,232 @@
+{
+  "Discard Tip": {
+    "TEXT": [
+      "Als je trekstapel leeg is, wordt je aflegstapel in je trekstapel geschud. NL NL Klik om de kaarten in je aflegstapel te bekijken.",
+      "Als je trekstapel leeg is, wordt je aflegstapel in je trekstapel geschud. NL NL Bekijk de kaarten in je stapel."
+    ],
+    "LABEL": [
+      "Aflegstapel"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Aan het begin van elke beurt worden NL #b",
+      " kaarten hiervandaan getrokken. NL NL Klik om de kaarten in je trekstapel te bekijken (geschud).",
+      " kaarten hiervandaan getrokken. NL NL Klik om de kaarten in je trekstapel te bekijken.",
+      " kaarten hiervandaan getrokken. NL NL Bekijk de kaarten in je stapel (geschud).",
+      " kaarten hiervandaan getrokken. NL NL Bekijk de kaarten in je stapel."
+    ],
+    "LABEL": [
+      "Trekstapel"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Als je op deze knop drukt beëindig je je beurt. NL NL Je zult je hand afleggen, vijanden zullen hun zet doen, daarna zul je ",
+      " kaarten trekken, en dan is het weer jouw beurt."
+    ],
+    "LABEL": [
+      "Einde Beurt"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Je huidige energie. Kaarten kosten energie om te spelen."
+    ],
+    "LABEL": [
+      "Energie"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Kaarten kosten energie om te spelen! NL Deze bol linksonder laat zien hoeveel energie je nog over hebt voor deze beurt."
+    ],
+    "LABEL": [
+      "Energiekosten"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Klik om je Uitgeputte kaarten van dit gevecht te bekijken.",
+      "Bekijk je Uitgeputte kaarten van dit gevecht."
+    ],
+    "LABEL": [
+      "Uitgeputte Kaarten"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Tip: ",
+      "Begrepen"
+    ]
+  },
+  "Main Tutorial": {
+    "TEXT": [
+      "Versla vijanden door kaarten uit je hand te spelen! NL NL Kaarten kosten #yEnergie om te spelen. NL Als je klaar bent, beëindig je beurt. NL NL Aan het begin van je beurt worden nieuwe kaarten getrokken en wordt je #yEnergie aangevuld.",
+      "Speel verdedigende kaarten om #yBlok te krijgen wanneer vijanden op het punt staan om jou aan te vallen. NL NL #yBlok vermindert binnenkomende aanvalsschade maar NL #rgaat #rweg aan het begin van je volgende beurt.",
+      "Tijdens je beurt kun je de #yIntentie van een vijand boven hem zien. NL NL Als een vijand van plan is om jou aan te vallen, zorg dan dat je wat #yBlok krijgt!"
+    ],
+    "LABEL": [
+      "Volgende",
+      "Ik ben klaar!",
+      "Uitleg",
+      "(Pagina ",
+      " van 3)"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Gameplay-gegevens en foutmeldingen worden naar Mega Crit verzonden voor spelbalans doeleinden. NL NL Persoonsidentificerende informatie wordt NIET verzameld.",
+      "Slay the Spire draait het snelst als je het op volledig scherm hebt staan. Aanbevolen voor macOS omdat de Dok en Menubalk worden verborgen. NL NOTITIE: Op PC kan het zijn dat alt-tabben om terug te gaan naar Slay the Spire niet werkt met volledig scherm.",
+      "Aangezien Slay the Spire geen veeleisend spel is, raden wij Randloos Volledig Scherm aan voor snel alt-tab gebruik. Werkt het beste op PC.",
+      "Notitie: Als VSync aan staat, kan de Max Framerate niet boven de vernieuwingssnelheid van je monitor komen.",
+      "Controllerondersteuning incompleet voor dit scherm.",
+      "Verandert welke monitor wordt gebruikt met Volledig Scherm."
+    ],
+    "LABEL": [
+      "Metriek",
+      "Volledig Scherm",
+      "Randloos Volledig Scherm",
+      "Max Framerate",
+      "Volledig Scherm Monitor"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Deze kaart past een Kracht toe op jou wanneer het wordt gebruikt. NL Krachten zijn passieve vaardigheden die het gehele gevecht blijven.",
+      "Kaarten kosten energie om te spelen! NL Deze bol linksonder laat zien hoeveel energie je nog over hebt voor deze beurt.",
+      "Mijn #rhand #ris #rvol!",
+      "#rMaximale Bol capaciteit is bereikt.",
+      "Ik heb geen Bol sleuven."
+    ],
+    "LABEL": [
+      "Kracht Kaarten",
+      "Energiekosten"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Gooit dit drankje naar je vijand.",
+      "Drink dit drankje op.",
+      "Leg dit drankje af NL #r(kan #rniet #rongedaan #rworden #rgemaakt)."
+    ],
+    "LABEL": [
+      "Gooi",
+      "Drink",
+      "Leg af"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Drink of gooi drankjes tijdens gevechten! NL Drankjes blijven bij je tussen kamers."
+    ],
+    "LABEL": [
+      "Drankjes"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Maak contact met andere spelers om nieuwe en effectieve strategieën te ontdekken.",
+      "Er is altijd een rustplek vóór elke baas.",
+      "Gebruik goud in winkels! (Tip gesponsord door de Handelaar)",
+      "Neem zo nu en dan een pauze.",
+      "Percentageberekeningen worden altijd naar beneden afgerond.",
+      "Tijdens een gevecht kun je de inhoud van je trek- en aflegstapel bekijken.",
+      "Er is geen limiet aan hoeveel relikwieën je kunt dragen.",
+      "Kisten zullen altijd een relikwie geven.",
+      "Elk pad dat je neemt zal altijd tenminste 1 schatkamer bevatten.",
+      "Elite vijanden zullen altijd een relikwie opleveren.",
+      "Je zult nooit dezelfde relikwie twee keer tegenkomen in één sessie.",
+      "Ongewone kaarten hebben een blauwe rand en vaan.",
+      "Zeldzame kaarten hebben een gouden rand en vaan.",
+      "De zeldzaamheid van een kaart is te zien op de kaart zelf.",
+      "Het is niet altijd verstandig om kaarten toe te voegen aan je stok.",
+      "Kaarten die uitgeput zijn tijdens een gevecht worden niet verwijderd uit je stok.",
+      "Je kunt maximaal maar 10 kaarten in je hand hebben.",
+      "Status kaarten gaan weg aan het einde van een gevecht.",
+      "Vloeken kunnen niet geüpgraded worden. Waarom zou je?",
+      "Geüpgradede kaarten kunnen voorkomen in beloningen na Akte 1.",
+      "Onbekende kamers kunnen schatten, monsters, winkels, of evenementen bevatten.",
+      "De Handelaar doet niet aan terugbetalingen. Hij is een eikel.",
+      "De kaartverwijderingsservice wordt duurder elke keer dat je het gebruikt.",
+      "De kaartverwijderingsservice kan maar één keer worden gebruikt bij elke winkel.",
+      "Schade van drankjes, relikwieën en krachten worden niet gezien als aanvalsschade.",
+      "Effecten die willekeurige kaarten genereren tijdens een gevecht zullen je nooit genezen."
+    ],
+    "LABEL": [
+      "Je kunt drankjes afleggen om ruimte te maken voor andere."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Je kunt rechtermuisklik gebruiken op kaarten in het kaartbeloningsscherm om extra informatie te zien.",
+      "Nuttige informatie kan onthuld worden door met je muis over de meeste objecten te bewegen.",
+      "Rechtermuisklik laat de kaart los die je aan het slepen bent.",
+      "Beweeg de muis over een vijand om hun naam en informatie over hun Kracht te zien.",
+      "Gebruik het muiswieltje of klik en sleep het scherm om te scrollen.",
+      "Je cursor verandert in een vergrootglas als je een voorwerp kunt inspecteren.",
+      "Gebruik het muiswieltje of klik en sleep om door de kaart, kaartschermen, en andere dingen te scrollen."
+    ],
+    "LABEL": []
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Relikwieën die gevonden worden in de Spire geven unieke bonussen en blijven bij je in je gehele sessie. NL Ze kunnen worden gevonden door krachtige vijanden te verslaan of binnenin kisten.",
+      "Deze relikwie moet nog worden gezien.",
+      "Deze relikwie is al helemaal opgebruikt."
+    ],
+    "LABEL": [
+      "Relikwieën",
+      "Onbekend",
+      "Deze relikwie moet nog worden ontgrendeld.",
+      "Vergrendeld"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Vergeet je beloningen niet! NL Klik er gewoon op om ze op te pakken.",
+      "Vergeet je beloningen niet!"
+    ],
+    "LABEL": [
+      "Beloningen"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Verwijder een kaart uit je stok. De kosten van deze dienst worden verhoogd met #b",
+      " voor de rest van deze sessie."
+    ],
+    "LABEL": [
+      "Kaartverwijderingsservice"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Als er geen kaarten meer zijn om te trekken, dan wordt je aflegstapel in de trekstapel geschud."
+    ],
+    "LABEL": [
+      "Geen Kaarten Meer?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Opent het spelmenu. NL NL Verander of update je beeld, geluid, en gameplay voorkeuren hier.",
+      "Bekijk alle kaarten in je stok.",
+      "Bekijk de kaart van deze huidige kerker.",
+      "Als je geen LP meer hebt, dan sterf je.",
+      "Laat zien hoeveel goud je hebt. Goud is de valuta binnenin de Spire.",
+      "",
+      "",
+      "Verstreken tijd voor deze sessie."
+    ],
+    "LABEL": [
+      "Instellingen",
+      "Stok",
+      "Kaart",
+      "Levenspunten (LP)",
+      "Geldbuidel",
+      "Sessie Timer"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Hắc Ngọc",
+    "DESCRIPTION": [
+      "#yNội #ytại: Tới cuối lượt, tăng sát thương của Ngọc này thêm #b",
+      ". NL #yXả: Gây #b",
+      " sát thương tới kẻ thù nào có HP thấp nhất."
+    ]
+  },
+  "Empty": {
+    "NAME": "Ô Ngọc",
+    "DESCRIPTION": [
+      "Ngọc sẽ nằm trong các ô này khi được gọi lên."
+    ]
+  },
+  "Frost": {
+    "NAME": "Băng",
+    "DESCRIPTION": [
+      "#yNội #ytại: Tới cuối lượt, nhận #b",
+      " #yGiáp. NL #yXả: Nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Sét",
+    "DESCRIPTION": [
+      "#yNội #ytại: Tới cuối lượt, gây #b",
+      " sát thương tới một kẻ thù ngẫu nhiên. NL #yXả: Gây #b",
+      " sát thương tới một địch quân ngẫu nhiên."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plasma",
+    "DESCRIPTION": [
+      "#yNội #ytại: Khi vào lượt mới, nhận [B] . NL #yHấp #ythụ: Nhận #b",
+      " [B] . NL Plasma không bị ảnh hưởng bởi #yTập #ytrung."
+    ]
+  }
+}

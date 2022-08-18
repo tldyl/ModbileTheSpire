@@ -321,6 +321,10 @@ public abstract class AbstractDungeon {
         }
 
         logger.info("Content generation time: " + (System.currentTimeMillis() - startTime) + "ms");
+        if (levelId.equals("Exordium") && AbstractDungeon.floorNum == 0) {
+            BaseMod.publishStartGame();
+        }
+        BaseMod.publishStartAct();
     }
 
     public AbstractDungeon(String name, AbstractPlayer p, SaveFile saveFile) {

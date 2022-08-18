@@ -1,0 +1,409 @@
+{
+  "ANIMATION": {
+    "HEADER": "角色动画",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "开发与设计",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "推广与背景美术",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "追加翻译",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "本地化：加泰罗尼亚语",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "本地化：德语",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "本地化：法语",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Henip\" Bartoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Nicky \"Qazahar\" Dehout",
+      "Julien \"RoPeTTe\" Ropero",
+      "Boby \"Tagada\" Vurpillot",
+      "Corentin \"Tchus\" Monfort",
+      "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "本地化：意大利语",
+    "NAMES": [
+      "Hob",
+      "Mero Marco",
+      "Luigi Squarzina",
+      "Playtesting:",
+      "Mattylink Heropon"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "本地化：日语",
+    "NAMES": [
+      "Grezzz（社区翻译）",
+      "Kakehashi Games（官方翻译）"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "本地化：韩语",
+    "NAMES": [
+      "Translation Manager:",
+      "Eteriny",
+      "Translation:",
+      "Simcoding",
+      "DesFrog",
+      "Fissh",
+      "insight",
+      "K4lium",
+      "hina",
+      "Steam Page Translation:",
+      "GyeRyak",
+      "Font:",
+      "In-Game: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
+      "Shop Asset: NanumBrush, NanumPen by NAVER Corporation"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "本地化：挪威语",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "本地化：波兰语",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Stanisław \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Additional Translations:",
+      "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
+      "Foreigner",
+      "Proofreading:",
+      "Oskar \"volf3n\" Nowak",
+      "Suggestions and Feedback:",
+      "Kasper \"Awokado\" Beræ",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafał \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "本地化：巴西葡萄牙语",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "本地化：俄罗斯语",
+    "NAMES": [
+      "Translation:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
+      "Suggestions and Feedback:",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "本地化：塞尔维亚语",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljevic"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "本地化：土耳其语",
+    "NAMES": [
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu",
+      "Ertürk Yılmaz",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "本地化：乌克兰语",
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Corrections and Translation:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi",
+      "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "本地化：简体中文",
+    "NAMES": [
+      "谜之声（Sound of Mystery）",
+      "猫妖爱丽丝拉斐尔（IrisRaphael）"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "本地化：繁体中文",
+    "NAMES": [
+      "教授",
+      "bowans",
+      "Angryfox"
+    ]
+  },
+  "OPS": {
+    "HEADER": "运营与数据",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "牌面与事件美术",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "音乐与声音",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "特别鸣谢",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
+    ]
+  },
+  "TEST": {
+    "HEADER": "测试玩家",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jade Wesley",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson",
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "……以及——感谢您的游玩！",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "配音",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "本地化：希腊语",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "本地化：印度尼西亚语",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "本地化：西班牙语",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Translation:",
+      "Erick Marroquin",
+      "Accord",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Pedro J. \"PJJLegend\" Jiménez Moyano",
+      "Rodrigo \"skylex\" Zabattaro",
+      "Alberto \"RadeonThe1st\" Botana",
+      "Spooktacular",
+      "Grammar and Cleanup:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer",
+      "Summer",
+      "Eipic"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "本地化：世界语",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "本地化：荷兰语",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "本地化：泰语",
+    "NAMES": [
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Additional Translations:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Fonts:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Console and Mobile Ports",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (官方翻译):",
+      "Japanese Publishing Support:  Kakehashi Games",
+      "Japanese Localization:  Rie Ihara"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Vietnamese Localization",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Translation:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordination and Linguistic Lead:",
+      "Hoang Son Do",
+      "Special Thanks:",
+      "Azy Tazer"
+    ]
+  }
+}

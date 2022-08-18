@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Furia",
+    "DESCRIPTION": [
+      "I tuoi Attacchi infliggono danno doppio e ti vieni inflitto danno doppio da attacchi."
+    ]
+  },
+  "Calm": {
+    "NAME": "Quiete",
+    "DESCRIPTION": [
+      "Quando esci da questo #yAspetto ottieni [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Divino",
+    "DESCRIPTION": [
+      "Quando entri in questo #yAspetto ottieni [W] [W] [W] . I tuoi attacchi infliggono danno triplo. Abbandoni questo #yAspetto all'inizio del prossimo turno."
+    ]
+  }
+}

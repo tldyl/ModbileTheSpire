@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Ciemność",
+    "DESCRIPTION": [
+      "#yUmiejętność #yPasywna: Na koniec tury, zwiększ obrażenia Sfery o #b",
+      ". NL #yWyładowanie: Zadaj #b",
+      " pkt. przeciwnikowi z najmniejszą ilością PŻ."
+    ]
+  },
+  "Empty": {
+    "NAME": "Miejsce na Sferę",
+    "DESCRIPTION": [
+      "W to miejsce możesz Przywołać Sferę."
+    ]
+  },
+  "Frost": {
+    "NAME": "Mróz",
+    "DESCRIPTION": [
+      "#yUmiejętność #yPasywna: Na koniec tury, zyskaj #b",
+      " pkt. #yBloku. NL #yWyładowanie: Zyskaj #b",
+      " pkt. #yBloku."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Grom",
+    "DESCRIPTION": [
+      "#yUmiejętność #yPasywna: Na koniec tury, zadaj #b",
+      " pkt. obrażeń losowemu przeciwnikowi. NL #yWyładowanie: Zadaj #b",
+      " pkt. obrażeń losowemu przeciwnikowi."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plazma",
+    "DESCRIPTION": [
+      "#yUmiejętność #yPasywna: Na początku tury, zyskaj [B] . NL #yWyładowanie: Zyskaj #b",
+      " [B] . NL #ySkupienie nie wpływa na Plazmę."
+    ]
+  }
+}

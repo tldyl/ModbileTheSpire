@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Ramuan Kuno",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yArtefak."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Ramuan Serangan",
+    "DESCRIPTIONS": [
+      "Pilih #b1 dari #b3 kartu #ySerangan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
+      "Pilih #b1 dari #b3 kartu #ySerangan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Ramuan Blok",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Ramuan Darah",
+    "DESCRIPTIONS": [
+      "Sembuhkan #b",
+      "% dari HP Maksimum."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Ramuan Ketangkasan",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yKetangkasan."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#yHangus semua kartu #yStatus dan #yKutukan dari hand.",
+      "",
+      "Tidak ada efek..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Ramuan Energi",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " Energi."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Racikan Entropik",
+    "DESCRIPTIONS": [
+      "Isi semua petak ramuan kosong dengan ramuan acak."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Intisari Baja",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Ramuan Ledakan",
+    "DESCRIPTIONS": [
+      "Beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Peri dalam Botol",
+    "DESCRIPTIONS": [
+      "Ketika kamu mati, sembuhkan ke #b",
+      "% dari HP Maksimum dan buang ramuan ini."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Ramuan Ketakutan",
+    "DESCRIPTIONS": [
+      "Terapkan #b",
+      " #yRentan."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Ramuan Api",
+    "DESCRIPTIONS": [
+      "Beri #b",
+      " damage."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Ramuan Fokus",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yFokus."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Jus Buah",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " HP Maksimum."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Racikan Penjudi",
+    "DESCRIPTIONS": [
+      "Buang berapapun kartu kemudian ambil sejumlah sama."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Hantu dalam Toples",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yIntangible."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Ramuan Kesehatan",
+    "DESCRIPTIONS": [
+      "Sembuhkan #b",
+      " HP."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Perunggu Cair",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yDuri."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Ramuan Racun",
+    "DESCRIPTIONS": [
+      "Terapkan #b",
+      " #yRacun."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Petak Ramuan",
+    "DESCRIPTIONS": [
+      "Gunakan ramuan saat pertarungan untuk mendapat #gbonus atau #rmenghalau musuh.",
+      "Potion Slot"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Ramuan Kekuatan",
+    "DESCRIPTIONS": [
+      "Pilih #b1 dari #b3 kartu #yKekuatan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
+      "Pilih #b1 dari #b3 kartu #yKekuatan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Ramuan Regenerasi",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yRegen.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Ramuan Kemampuan",
+    "DESCRIPTIONS": [
+      "Pilih #b1 dari #b3 kartu #yKemampuan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
+      "Pilih #b1 dari #b3 kartu #yKemampuan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Bom Asap",
+    "DESCRIPTIONS": [
+      "Kabur dari pertarungan selain Bos. Tidak menerima hadiah.",
+      "Aku terkepung!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Minyak Snecko",
+    "DESCRIPTIONS": [
+      "Menjadi #yBingung. Ambil #b",
+      " kartu.",
+      "kartu."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Ramuan Kecepatan",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yKetangkasan. Pada akhir giliran, kehilangan #b",
+      " #yKetangkasan."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Ramuan Otot",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yDaya. Pada akhir giliran, kehilangan #b",
+      " #yDaya."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Ramuan Daya",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Ramuan Gesit",
+    "DESCRIPTIONS": [
+      "",
+      "Ambil #b",
+      " kartu."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Ramuan Lemah",
+    "DESCRIPTIONS": [
+      "Terapkan #b",
+      " #yLemah."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Ramuan Sikap",
+    "DESCRIPTIONS": [
+      "Masuki #yTenang atau #yDendam."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Ramuan Pengganda",
+    "DESCRIPTIONS": [
+      "Giliran ini, kartu selanjutnya dimainkan dua kali.",
+      "Giliran ini, #b2 kartu selanjutnya dimainkan dua kali."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yHangus kan kartu sebanyak apapun dari tanganmu."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Jiwa Baja",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yKuat #yLogam."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Ramuan Cerdik",
+    "DESCRIPTIONS": [
+      "Tambahkan #b",
+      " #yShiv+ ke tangan."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Ramuan Kapasitas",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " petak Orb."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Intisari Kegelapan",
+    "DESCRIPTIONS": [
+      "#ySalur #b",
+      " #yKegelapan untuk setiap petak Orb."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Mukjizat Tersimpan",
+    "DESCRIPTIONS": [
+      "Tambahkan #b",
+      " #yMukjizat ke tangan."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Masuk #yAncang-ancang #yKeilahian."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Kekacauan Sulingan",
+    "DESCRIPTIONS": [
+      "Mainkan #b kartu",
+      " teratas dari dek ambil."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Kenangan Cair",
+    "DESCRIPTIONS": [
+      "Mainkan sebuah kartu dari dek buang dan balikkan ke tangan. harganya #b0 di giliran ini.",
+      "Pilih #b",
+      " kartu dari dek buang dan balikkan ke tangan. Harganya #b0 di giliran ini."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Ramuan Sang Pemuja",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Ramuan Task Berwarna",
+    "DESCRIPTIONS": [
+      "Pilih #b1 dari #b3 kartu #yTak #yBerwarna secara acak dan tambahkan ke tangan, Harganya #b0 giliran ini.",
+      "Pilih #b1 dari #b3 kartu #yTak #yBerwarna secara acak dan tambahkan 2 copy ke tangan, Harganya #b0 giliran ini."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Berkah Pandai Besi",
+    "DESCRIPTIONS": [
+      "Naikkan semua kartu di tangan."
+    ]
+  }
+}

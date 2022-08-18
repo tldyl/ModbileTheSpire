@@ -1,0 +1,412 @@
+{
+  "ANIMATION": {
+    "HEADER": "Animación de Personajes",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Diseño y Desarrollo",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Ilustrador de fondos y promos",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Traducciones adicionales",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Traducción al Catalán",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Traducción al Alemán",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13",
+      "Christoph \"Deknud\" Hartmann",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Traduccion al Holandés",
+    "NAMES": [
+      "Líder Gremlin:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Idiota:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Traducción al Esperanto",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "Traducción al Francés",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Bartoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Boby \"Tagada\" Vurpillot",
+      "Corentin \"Tchus\" Monfort",
+      "Nicky \"Qazahar\" Dehout",
+      "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Traducción al Griego",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Traducción al Indonesio",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "Traducción al Italiano",
+    "NAMES": [
+      "Jade \"HobNob\" Stevanovic",
+      "Mero Marco",
+      "Luigi Squarzina",
+      "Playtesting:",
+      "Mattylink Heropon"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "Traducción al Japonés",
+    "NAMES": [
+      "Grezzz (Traducción de la comunidad)",
+      "Kakehashi Games (Traducción oficial)",
+      "Japanese Localization:  Rie Ihara",
+      "Grezzz (Community Translation)"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Traducción al Koreano",
+    "NAMES": [
+      "Coordinador de Traducción:",
+      "Eteriny",
+      "Fissh",
+      "GyeRyak",
+      "Traducción:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Vekan",
+      "Fuente:",
+      "In-Game: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
+      "Recursos de la tienda: NanumBrush, NanumPen by NAVER Corporation"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Traducción al Noruego",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Traducción al Polaco",
+    "NAMES": [
+      "Traducción y coordinación:",
+      "Stanis³aw \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Traducciones adicionales:",
+      "Adrian \"xeros\" Rolka",
+      "Corrección de textos:",
+      "Oskar \"volf3n\" Nowak",
+      "Comentarios y sugerencias:",
+      "Kasper \"Awokado\" Beræ",
+      "Pawe³ \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogus³awski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafa³ \"SponTon83\" Szyszko",
+      "Marek \"Skorpionex\" Mazur",
+      "Rafał \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Traducción al Portugués de Brasil",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "Traducción al Ruso",
+    "NAMES": [
+      "Traducción:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Traducción Extra:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Traducción de elementos de la tienda:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Traducción al Español",
+    "NAMES": [
+      "Traducción y Coordinación:",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Traducción:",
+      "Erick Marroquin",
+      "Accord",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Pedro J. \"PJJLegend\" Jiménez Moyano",
+      "Rodrigo \"skylex\" Zabattaro",
+      "Traducción Extra:",
+      "Alberto \"RadeonThe1st\" Botana",
+      "Spooktacular",
+      "Gramática y Limpieza:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer",
+      "Summer",
+      "Eipic"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Traducción al Serbio",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "Traducción al Tailandés",
+    "NAMES": [
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Traducciones adicionales:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Fuentes:",
+      "CSChatThaiUI por raveetavan@gmail.com",
+      "Layiji MaHaNiYom por layiji@gmail.com"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Traducción al Turco",
+    "NAMES": [
+      "Traducción y Coordinación:",
+      "Ertürk Yılmaz",
+      "Traducción:",
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Traducción al Ucraniano",
+    "NAMES": [
+      "Traducción y Coordinación:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Correcciones y Traducción:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi",
+      "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Traducción al Chino (Simplificado)",
+    "NAMES": [
+      "Sound of Mystery",
+      "IrisRaphael"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Traducción al Chino (Tradicional)",
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
+  },
+  "OPS": {
+    "HEADER": "Operaciones & Métricas",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Retratos de cartas & Arte de los eventos",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Música y sonidos",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Agradecimientos Especiales",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Playtesters",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jade Wesley",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson",
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...¡Y gracias A TI por jugar!",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Doblaje",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Porteado por",
+    "NAMES": [
+      "Sickhead Games"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Publicado por",
+    "NAMES": [
+      "Humble Bundle",
+      "CBO:  Steven Kovensky",
+      "VP, Desarrollo Comercial:  Eduardo Aparicio",
+      "Gestor de Publicación:  John Polson",
+      "Gestor de Publicación de Salida: Evan Koepf",
+      "Gestor de Publicación de Marca:  Connor Bridgeman",
+      "Director de Desarrollo Comercial, Publicación:  Mai Kawaguchi",
+      "Desarrollador Comercial Senior:  Thomas Glenn",
+      "Desarrollador Comercial Senior:  Bob Mills",
+      "Desarrollador Comercial:  Trisha Tabor",
+      "Desarrollador Comercial:  Angel Lyons-Labate",
+      "Director de Tienda:  Paul Herron",
+      "Director de Finanzas:  Eric Samuel",
+      "VP del Producto:  Nate Muller",
+      "Director de Marketing:  Jeremie Vella",
+      "Gestor de Marketing:  Whitney Stutes",
+      "Gestor de Crecimiento de Marketing:  Francois du Toit",
+      "Soporte Ninja:  Jimmy Chi",
+      "Soporte Ninja:  Kasey Brounkowski",
+      "Soporte Ninja:  Kayla Fyfe",
+      "Soporte Ninja:  Patrick Monahan"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Traducción oficial):",
+      "Soporte de Publicación en Japón:  Kakehashi Games",
+      "Traduccion Japonesa:  Rie Ihara"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Traducción al Vietnamita",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Traducción:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordinación y Organización Lingüística:",
+      "Hoang Son Do",
+      "Agradecimientos Especiales:",
+      "Azy Tazer"
+    ]
+  }
+}

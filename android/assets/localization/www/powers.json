@@ -1,0 +1,727 @@
+{
+  "Accuracy": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "#WWWWWW WWWW #W",
+      " WWWWWWWWWW WWWWWW."
+    ]
+  },
+  "After Image": {
+    "NAME": "WWWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W WWWWW WWWW #W",
+      " #WWWWWW."
+    ]
+  },
+  "Anger": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W #WWWWWWW WWWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Angry": {
+    "NAME": "WWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW ",
+      " WWWWW #WWWWWWW WWWWWWW WW WWWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Artifact": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWW #W",
+      " WWWWWW.",
+      " WWWWWWW."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "WWWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWW #W",
+      " WWWWW WWWWWWWW WWW WWWW WW #WWWWWWWW #WWWWWWWW WW.",
+      "WWW WWW WWWW #W",
+      " WWWWWW WWWWWWWW WWW WWWW WW #WWWWWWWW #WWWWWWWW WW."
+    ]
+  },
+  "Barricade": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "#WWWWWW WW WWW WWWWWWW WW WWW WWWWW WW WWWW WWWW.",
+      "#WWWWWW WW WWW WWWWWWW WW WWW WWWWW WW WWWW."
+    ]
+  },
+  "Blur": {
+    "NAME": "WWWW",
+    "DESCRIPTIONS": [
+      "#WWWWWW WW WWW WWWWWWW WW WWW WWWWW WW WWWW WWWW WWWW.",
+      "#WWWWWW WW WWW WWWWWWW WW WWW WWWWW WW WWWW WWWW #W",
+      " WWWWW."
+    ]
+  },
+  "Brutality": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWWW WWWW #W",
+      " WW WWW WWWW #W",
+      " WWWW.",
+      "WW WWW WWWWW WW WWWW WWWWW WWWW #W",
+      " WW WWW WWWW #W",
+      " WWWWW."
+    ]
+  },
+  "Burst": {
+    "NAME": "WWWWW",
+    "DESCRIPTIONS": [
+      "WW WWWW WWWWW WWWW WWWW WWWW #WWWWWW WWWWW.",
+      "WW WWWW WWWWW WWWW WWWW WWWW ",
+      " #WWWWWWW WWWWW."
+    ]
+  },
+  "Choked": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWW #W",
+      " WW WWWWWWWW WWW WWWW W WWWW WWWW WWWW."
+    ]
+  },
+  "Combust": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWWW WWWWW WWWW #W",
+      " WW WWW WWWW #W",
+      " WWWWWW WW WWW WWWWWWW."
+    ]
+  },
+  "Confusion": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W WWWWW WWWWWWWWW WWW WWWW."
+    ]
+  },
+  "Constricted": {
+    "NAME": "WWWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWWW WWWW WWWW #W",
+      " WWWWWW."
+    ]
+  },
+  "Corruption": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWW WWWW #WW. WWWWWWWW WWW WWWW W #WWWWWWW #WWWWWWWW WW.",
+      "WWWWWWWW WWW WWWW W #WWWWWWW #WWWWWWWW WW."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W #WWWWWWW WWWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "WWWW WW",
+    "DESCRIPTIONS": [
+      "WW WWWWWW #WWWWWWW WWWWWWW WWWWW WW WWW WWWWW ",
+      " #WWWWWW."
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "WWWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W WWW-WWWWW WWWWW WWWW #W",
+      " WWWWWW. (WWWW WWWW WWWWWWW WWWW WWWW)",
+      "WWWWWWWW WWW WWWW W WWW-WWWWWW WWWWW WWWW #W",
+      "+W WWWWW WWWWWW"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "WWWW WWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW W WWWW WW #WWWWWWWWWWW WWWW #WW WWWW.",
+      "WWWWWWWW W WWWW WW #WWWWWWWWWWW WWWW #W",
+      " WWWWW."
+    ]
+  },
+  "Darkness": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #WW WWWW WWWWWW WW WWW WWWWW WW WWWW WWWW."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "WWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWWW WWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWWW #WWWWWW WWWWWW WWWW WWWWW WW #W",
+      "WWWWWWWWW #WWWWWW WWWWWW WWWW WWWWW WW #W"
+    ]
+  },
+  "Double Damage": {
+    "NAME": "WWWWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "#WWWWWWWW WWWW WWWWWW WWWWWW WWW #W",
+      " WWWW.",
+      " WWWWW."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "WWWWWW WWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWWW WWWW WWWW WWWW #WWWWWWW WWWWW.",
+      "WWWW WWWWW WWWW WWWW WWWW ",
+      " #WWWWWWWW WWWWW."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "WWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " WWWWW WWWW WWWW.",
+      " WWWW WWWW WWWW."
+    ]
+  },
+  "Draw": {
+    "NAME": "WWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " WWWWWWWWWW WWWW WW WWW WWWWW WW WWWW WWWW.",
+      " WWWWW WWWW WW WWW WWWWW WW WWWW WWWW.",
+      " WWWWWWWWWW WWWWW WW WWW WWWWW WW WWWW WWWW.",
+      " WWWWW WWWWW WW WWW WWWWW WW WWWW WWWW."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "WWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " WWWW WWWW WWWW WWWW.",
+      " WWWW WWWWW WWWW WWWW."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "WWWW WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #WW WWWW WWWW WWWW WWWW.",
+      "WWWW #WW WWWW WWWW WWW #W",
+      " WWWWW."
+    ]
+  },
+  "Energized": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " WWWWWWWWWW [W] WWWW WWWW."
+    ]
+  },
+  "Entangled": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWW WWWWWW WWWW #WWWWWWWW WWW WWW WWWW."
+    ]
+  },
+  "Envenom": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW WWWWWWWWW #WWWWWWW WWWWWWW WWWWW #W",
+      " #WWWWWWW."
+    ]
+  },
+  "Evolve": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W #WWWWWWW WWWW W WWWW.",
+      "WWWWWWWW WWW WWWW W #WWWWWWW WWWW #W",
+      " WWWWW."
+    ]
+  },
+  "Explosive": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWWWWW WWWWW #W",
+      " WWWWWW WW WWW."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "WWWW WW WWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW W WWWW WW #WWWWWWWWWWW WWWW #W",
+      " #WWWWWW."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "WWWW WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWWW WWWWW WWW WWWW #WWWWWWW WWWWWW WWWW WWWW WWWW #W",
+      " WWWWWW WW WWW WWWWWWW."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "WWWWW WWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWWWWW #WWWWWWW WWWWWWW WWWW #W",
+      " WWWWWW WWWW."
+    ]
+  },
+  "Flight": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWW #WWWWWWW WWWWWW WWWWW WW #WWW%. WWWWWWWWW WW WWWWW #WWWWWWW WWWWWW #WW WWWWW WW WWW WWWW."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "WWWWWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWW #WWWWWWW WWW #WWWWWWW WWWW WWWW."
+    ]
+  },
+  "Frail": {
+    "NAME": "WWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #WWW% WWWW #WWWWWW WWWW WWWWW WWW #W",
+      " WWWW.",
+      " WWWWW."
+    ]
+  },
+  "Shackled": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWW #W",
+      " #WWWWWWWWW WW WWW WWW WW WWW WWWW."
+    ]
+  },
+  "Gambit": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWW #W",
+      " WWWWW WWWW ",
+      " WWWWWW WWWW ",
+      " [W] ."
+    ]
+  },
+  "Hex": {
+    "NAME": "WWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W WWW-WWWWWW WWWWW WWWWWWW #W",
+      " #WWWWWW WWWW WWWW WWWW."
+    ]
+  },
+  "Hide": {
+    "NAME": "WWWW",
+    "DESCRIPTIONS": [
+      "WWW WWWWWW WWWW WWWWWW WWWWW WWW WWWWW WW WWWW WWWW WWWW.",
+      "WWW WWWWWW WWWW WWWWWW WWW #W",
+      " WWWWW."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "WWWWWWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWWW WWWW #W",
+      " #WWWWWW.",
+      " #WWWWW."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "WWWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWW WWWWWW WWWW WW WWW WWWWW WWWWW WWW WWW #WW."
+    ]
+  },
+  "Intangible": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWW WWW WWWWWW WWWWW WWW WW WWWW WW #WW WWW WWW WWWW #W",
+      " WWWW.",
+      " WWWWW."
+    ]
+  },
+  "Inverted": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWW WW WWWWWW. WWWWWWWW WWW WWWW #WWWWWWW WWWWW WWWW WWWW WW."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW #WWWWWWW WWWW #W",
+      " WWWWWW WW W WWWWWW WWWWW."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W #WWWWWWW WWWW #W",
+      " WWWWW."
+    ]
+  },
+  "Flex": {
+    "NAME": "WWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWWW WWWWW WWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Malleable": {
+    "NAME": "WWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWWWWW #WWWWWWW WWWWWWW WWWWW #W",
+      " #WWWWWW. #WWWWWW WWWW WWWWWWWWW WW ",
+      " WW WWWWWWWWW. WWWWWW WW #W",
+      " WW WWW WWWWW WW WWWW WWWW."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "WWWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " #WWWWWW WW WWW WWW WW WWWW WWWW.",
+      "WWWWW #W",
+      " #WWWWWW WW WWW WWW WW WWW WWWW."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "WWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WWWWW WWWWWW #W",
+      " WWWWWWW WWWWWWW WW W WWWWWWWWW WWWW."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "WWWW WWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWW WWWWW WWWW #W",
+      " #WWWWWW."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "WWWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWW WWWWW WWW #W",
+      " WWWWW WW WWWW WWWW."
+    ]
+  },
+  "No Draw": {
+    "NAME": "WW WWWW",
+    "DESCRIPTIONS": [
+      "WWW WWWWWW WWWW WWWWW WWWWW WWW WW WWWW."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "WWWWWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWWW WWWWW #W",
+      " #WWWWWWW WW WWW WWWWWWW."
+    ]
+  },
+  "Panache": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWW #W",
+      " WWWW WWWW WWWW WWWWW WWWW #W",
+      " WWWWWW WW WWW WWWWWWW.",
+      " WWWW WWWWW WWWW WWWWW WWWW #W"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "WWW WWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWW #WWWWWWW WWWWW WWWWWW WWWWWW."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #WWWWWWW #WWWWWWW WWWW WWWW.",
+      "WWWW #WWWWWWW #WWWWWWW WWW WWW WWWW ",
+      " WWWWW."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "WWWWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " #WWWWWW WW WWW WWW WW WWWW WWWW. WWWWWW WW WWWW WW WWWWWW WWWWWWW #WWWWWWW #WWWWWW WW #WW.",
+      "WWWWW #W",
+      " #WWWWWW WW WWW WWW WW WWW WWWW. WWWWWW WW WWWW WW WWWWWW WWWWWWW #WWWWWWW #WWWWWW WW #WW."
+    ]
+  },
+  "Poison": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWWW WWWW #W",
+      " WWW WWWW WWWWWW #WWWWWWW WW #WW.",
+      "WW WWW WWWWW WW WWW WWWWW WWWWW #W"
+    ]
+  },
+  "Rage": {
+    "NAME": "WWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW WW WWWWWW WWWW WWWWW WWWW #W",
+      " #WWWWWW."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "WWWWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWW WWWWWW WWWWW WW #W"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWW #W",
+      " #WWW WW WWW WWW WW WWW WWWW."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "WWWWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      " #WWW WW WWW WWW WW WWWW WWWW WWW #W",
+      " WWWWW."
+    ]
+  },
+  "Life Link": {
+    "NAME": "WWWW WWWW",
+    "DESCRIPTIONS": [
+      "WW WWWWW WWWWWWW WWW WWWWW WWWWWW WWWWWWW WW #WW WWWWW WW #WWW% WW."
+    ]
+  },
+  "Relentless Beating": {
+    "NAME": "WWWWWWWWWW WWWWWWW",
+    "DESCRIPTIONS": [
+      " WWWWW WWWWWW WW WWW WWWW WWWWW WW WWWW WWWWWW"
+    ]
+  },
+  "Repulse": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW ",
+      " WWWWWWWW WWWWWW WWWWWWW WWWW W #WWWWWW WWWW WWWW WWWW."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "WWWWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWWW WWWWW WWW WWW WWWWWW #W",
+      " WWWW.",
+      " WWWWW."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "WWWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWWW WWWWW WW WWW WWWWWWW WWWW WWWW WWW #W",
+      " WWWWW.",
+      "WW WWW WWW WW WWWW WWWWW WW WWW WWWWWWW WWWW WWWW."
+    ]
+  },
+  "Riposte": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW WWW WWWWW WWWWW #W",
+      " WWWWWW WWWW WWWW WWW WWWW WW #WWWWWWW."
+    ]
+  },
+  "Ritual": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWW WWWWW WWWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "WW WWW WWW WW WWW WWWWW WWWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Rupture": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWWWW WW WWWW W WWWWW WWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWWW W WWWWWW WW WW WWWWWW WWWW #W",
+      " WWWWWW."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWW WW #WWWWWWWW."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "WWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW WW #WWWWWWWW WWWW #W",
+      " WWWWWW."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "WWWWWW WWWW WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW WW WWWWWWW WWWWWWW W WWWWWW WWWW."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "WWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWW #W",
+      " WWWWW WWWWWWWW WWW WWWW W #WWWWWWW #WWWWWWWW WW.",
+      "WWW WWW WWWW #W",
+      " WWWWWW WWWWWWWW WWW WWWW W #WWWWWWW #WWWWWWWW WW."
+    ]
+  },
+  "Slow": {
+    "NAME": "WWWW",
+    "DESCRIPTIONS": [
+      "WWW WWWW WWWW WWWWWW WWWW WWWWW ",
+      " WWWWW #WWW% WWWW WWWWWW WWWW #WWWWWWWW.",
+      " (WWWW #W",
+      "% WWWW WWWWWW)"
+    ]
+  },
+  "Split": {
+    "NAME": "WWWWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWW WWWW #WWW% WWW WWWW WWWWW WWWW #WW WWWWWWW WWWWWW WWWW ",
+      "'W WWWWWWW WW."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "WWWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WW WWWWWW WWWWWWW #WWWWWWWWWWW WW WWW WWW #W",
+      " WWWWW."
+    ]
+  },
+  "Stasis": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWWWWW ",
+      " WW WWWWWWWW WW WWWW WWWW."
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "WWWWW WWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #WW WWWW WWWW WWWW WWWW.",
+      "WWWW #W",
+      " WWWWW WWWWW WWWW WWWW."
+    ]
+  },
+  "Strength": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWWW WWWWWW WWWWWW WW #W",
+      "WWWWWWWW WWWWWW WWWWWW WW #W"
+    ]
+  },
+  "Thievery": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      " WWWWWW #W",
+      " #WWWWW WWWWWWWW WW WWWWWWW."
+    ]
+  },
+  "Thorns": {
+    "NAME": "WWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWWWWWWW #WWWWWWW WWWWWWW WWWWW #W",
+      " WWWWWW WWWW."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "WWWWWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W WWWWW WWWW #W",
+      " WWWWWW WW WWW WWWWWWW."
+    ]
+  },
+  "Berserk": {
+    "NAME": "WWWWWWW",
+    "DESCRIPTIONS": [
+      "WW WWWW WW WW WWWWW #WWW%W WWWW ",
+      " WW WWW WWWWW WW WWWW WWWW."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "WWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW #W",
+      " WWWWWW WWWW WWWW WW WWWWW WWW WWWW WWWWW WWWWW #W",
+      " #WWWWWWWWW."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "WWWWW WW WWW WWWWW",
+    "DESCRIPTIONS": [
+      "WW WWW WWWWW WW WWWW WWWWW WWWW #W",
+      " WWWW WWW WWWWWWW #W",
+      " WWWW.",
+      " WWWWW WWW WWWWWWW #W",
+      " WWWWW."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWWW WWWW'W WWWWWWWW WWW..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW WWWWWW WWWWWW WW WWWWW WW WWW WWWWWWW."
+    ]
+  },
+  "Venomology": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "#WWWWWWW WWWWW WWWWWWWW WW #W",
+      " WWWWWWW WW WWWWWWWW WWWW WWWW."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "WWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWW #W",
+      "% WWWW WWWWWW WWWW #WWWWWWWW WWW #W",
+      " WWWW.",
+      " WWWWW."
+    ]
+  },
+  "Weakened": {
+    "NAME": "WWWWWWWW",
+    "DESCRIPTIONS": [
+      "#WWWWWWWW WWWW #W",
+      "% WWWW WWWWWW WWW #W",
+      " WWWW.",
+      " WWWWW."
+    ]
+  },
+  "Wraith Form": {
+    "NAME": "WWWWWW WWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWW WWW WWWW W WWWWWW WWWW ",
+      " WWWWWW WW W WWWWWW WWWWW."
+    ]
+  }
+}

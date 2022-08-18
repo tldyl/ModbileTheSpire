@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Alchemist",
+    "DESCRIPTIONS": [
+      "5 drankjes gekocht."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Bestijging",
+    "DESCRIPTIONS": [
+      "+5% score per Bestijgings Niveau."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Uiterste Elites Gedood",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Beter Dan Perfect",
+    "DESCRIPTIONS": [
+      "Versla 3 bazen zonder schade op te lopen."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Bazen Gedood",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Kampioen",
+    "DESCRIPTIONS": [
+      "Versla een Elite zonder schade op te lopen."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Valsspeler",
+    "DESCRIPTIONS": [
+      "Betrapt op valsspelen. Als je twee keer bent betrapt, dan zal je score nooit geüpload worden op het Scorebord."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Stad Elites Gedood",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Verzamelaar",
+    "DESCRIPTIONS": [
+      "Heb 4 kopieën van een niet-starter kaart."
+    ]
+  },
+  "Combo": {
+    "NAME": "C-c-c-combo",
+    "DESCRIPTIONS": [
+      "Speel 20 kaarten in één beurt."
+    ]
+  },
+  "Curses": {
+    "NAME": "Vervloekt!",
+    "DESCRIPTIONS": [
+      "Je stok bevat 5 vloeken."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Encyclopedie",
+    "DESCRIPTIONS": [
+      "stokgrootte van tenminste 50 kaarten."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Aanhef Elites Gedood",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Hartenbreker",
+    "DESCRIPTIONS": [
+      "Versla het Hart."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Hooglander",
+    "DESCRIPTIONS": [
+      "Je stok bevat geen dubbele kaarten (starterskaarten uitgesloten)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Ik Hou Van Goud",
+    "DESCRIPTIONS": [
+      "3,000 goud verdiend."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliothecaris",
+    "DESCRIPTIONS": [
+      "stokgrootte van tenminste 35 kaarten."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Lichtsnelheid",
+    "DESCRIPTIONS": [
+      "Overwinning binnen 45 minuten."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalist",
+    "DESCRIPTIONS": [
+      "5+ kaarten verwijderd uit je stok."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Geld Geld",
+    "DESCRIPTIONS": [
+      "1,000 goud verdiend."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Mysteriemachine",
+    "DESCRIPTIONS": [
+      "Gereisd door 15+ ? kamers."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Op Mijn Eigen Voorwaarden",
+    "DESCRIPTIONS": [
+      "Jezelf gedood."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Overdreven Vermoord",
+    "DESCRIPTIONS": [
+      "Richt 99 schade aan met één aanval."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Pauper",
+    "DESCRIPTIONS": [
+      "Heb 0 zeldzame kaarten."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfect",
+    "DESCRIPTIONS": [
+      "Versla een Baas zonder schade op te lopen."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Drolletjes",
+    "DESCRIPTIONS": [
+      "De Geestenpoep ontvangen."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Het Regent Geld",
+    "DESCRIPTIONS": [
+      "2,000 goud verdiend."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Ik Hou Van Glimmend",
+    "DESCRIPTIONS": [
+      "Heb 25+ relikwieën."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Snelheidsduivel",
+    "DESCRIPTIONS": [
+      "Overwinning binnen 60 minuten."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Gevuld",
+    "DESCRIPTIONS": [
+      "Je Max LP verhoogd met 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Goed Gevoed",
+    "DESCRIPTIONS": [
+      "Je Max LP verhoogd met 15+."
+    ]
+  }
+}

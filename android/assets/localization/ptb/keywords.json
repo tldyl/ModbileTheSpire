@@ -1,0 +1,339 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefato"
+      ],
+      "DESCRIPTION": "Nega o próximo efeito negativo."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "proteção",
+        "proteções"
+      ],
+      "DESCRIPTION": "Até o próximo turno, previne dano."
+    },
+    "CURSE": {
+      "NAMES": [
+        "maldição",
+        "maldições"
+      ],
+      "DESCRIPTION": "Cartas de maldição são cartas negativas que permanecem no seu baralho."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "destreza"
+      ],
+      "DESCRIPTION": "Destreza melhora a Proteção ganha de Cartas."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "etéreo",
+        "etérea"
+      ],
+      "DESCRIPTION": "Se esta carta estiver em sua mão no fim do turno, ela será exaurida. Cartas exauridas são removidas do seu baralho até o fim do combate."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "exaurir",
+        "exaurida",
+        "exaura"
+      ],
+      "DESCRIPTION": "Removida até o fim do combate."
+    },
+    "INNATE": {
+      "NAMES": [
+        "inato",
+        "inata"
+      ],
+      "DESCRIPTION": "Comece cada combate com esta carta em sua mão."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "bloqueado",
+        "bloqueada"
+      ],
+      "DESCRIPTION": "Esta carta ainda precisa ser desbloqueada."
+    },
+    "POISON": {
+      "NAMES": [
+        "veneno",
+        "envenenado",
+        "envenenar"
+      ],
+      "DESCRIPTION": "Criaturas envenenadas perdem PV no início de seus turnos. A cada turno, o Veneno é reduzido em #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "reter",
+        "retido",
+        "retida",
+        "retenha",
+        "retem"
+      ],
+      "DESCRIPTION": "Cartas retidas não são descartadas no fim do turno."
+    },
+    "SHIV": {
+      "NAMES": [
+        "estoque",
+        "estoques"
+      ],
+      "DESCRIPTION": "Estoques são cartas de Ataque com custo #b0 com Exaurir."
+    },
+    "STATUS": {
+      "NAMES": [
+        "condição",
+        "condições"
+      ],
+      "DESCRIPTION": "Cartas de condição são removidas no fim do combate."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "força"
+      ],
+      "DESCRIPTION": "Força adiciona dano a Ataques."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformar",
+        "transforme"
+      ],
+      "DESCRIPTION": "Cartas transformadas se tornam cartas aleatórias de qualquer raridade."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "desconhecido",
+        "desconhecida"
+      ],
+      "DESCRIPTION": "Essa carta ainda não foi encontrada."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "injogável"
+      ],
+      "DESCRIPTION": "Cartas injogáveis não podem ser jogadas da sua mão."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "aprimorar",
+        "aprimorada",
+        "aprimore"
+      ],
+      "DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnerabilidade",
+        "vulnerável"
+      ],
+      "DESCRIPTION": "Criaturas vulneráveis recebem #b50% a mais de dano de Ataques."
+    },
+    "WEAK": {
+      "NAMES": [
+        "fraqueza",
+        "enfraquecido",
+        "enfraquecer",
+        "enfraquece"
+      ],
+      "DESCRIPTION": "Criaturas enfraquecidas causam #b25% a menos de dano em Ataques."
+    },
+    "WOUND": {
+      "NAMES": [
+        "ferida",
+        "feridas"
+      ],
+      "DESCRIPTION": "Feridas são cartas de condição injogáveis."
+    },
+    "DAZED": {
+      "NAMES": [
+        "atordoado"
+      ],
+      "DESCRIPTION": "Atordoato são cartas de condição não-jogáveis."
+    },
+    "BURN": {
+      "NAMES": [
+        "queimadura",
+        "queima",
+        "queimaduras"
+      ],
+      "DESCRIPTION": "Queimaduras são cartas de condição não-jogáveios que lhe causam dano."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragilizado"
+      ],
+      "DESCRIPTION": "Enquanto Fragilizado, ganhe #b25% menos #yProteção de cartas."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "golpe"
+      ],
+      "DESCRIPTION": "Qualquer carta que contenha \"Golpe\" em seu nome."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confuso"
+      ],
+      "DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangível"
+      ],
+      "DESCRIPTION": "Reduza TODO dano recebido e perda de PV para #b1."
+    },
+    "TODO": {
+      "NAMES": [
+        "to do",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "Energia é utilizada para jogar cartas da sua mão."
+    ],
+    "VOID": {
+      "NAMES": [
+        "vácuo",
+        "vácuos"
+      ],
+      "DESCRIPTION": "Vácuos são cartas de status injogáveis que consomoem energia quando compradas."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "foco"
+      ],
+      "DESCRIPTION": "Foco aumenta a eficiência de Orbes #yCanalizados."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evocar",
+        "evocado",
+        "evoque"
+      ],
+      "DESCRIPTION": "Consuma o seu Orbe mais a direita e use seu efeito de Evocação."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orbe: Ganhe Energia."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canalizar",
+        "canalizado",
+        "canalizados",
+        "canalize"
+      ],
+      "DESCRIPTION": "Canalizar um Orbe coloca-o em seu primeiro slot vazio. Se voce não tem slots vazios, o seu primeiro Orbe é automaticamente #yEvocado para abrir espaço."
+    },
+    "DARK": {
+      "NAMES": [
+        "trevas",
+        "trevas+"
+      ],
+      "DESCRIPTION": "Orbe: Aumenta o dano a cada turno. Quando #yEvocado, cause dano ao inimigo com menos PV."
+    },
+    "OPENER": {
+      "NAMES": [
+        "abertura"
+      ],
+      "DESCRIPTION": "Cartas de Abertura só podem ser jogadas como a primeira carta em cada turno."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "relâmpago",
+        "relâmpagos",
+        "relâmpago+"
+      ],
+      "DESCRIPTION": "Orbe: Cause dano a inimigos aleatórios."
+    },
+    "FROST": {
+      "NAMES": [
+        "gelo",
+        "gelo+"
+      ],
+      "DESCRIPTION": "Orbe: Ganhe #yProteção."
+    },
+    "THORNS": {
+      "NAMES": [
+        "espinhos"
+      ],
+      "DESCRIPTION": "Quando receber dano de #yAtaque, cause dano de volta."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "na mira"
+      ],
+      "DESCRIPTION": "Alvos com Na Mira recebem #b50% de dano adicional de Orbes."
+    },
+    "WRATH": {
+      "NAMES": [
+        "fúria"
+      ],
+      "DESCRIPTION": "Nesta #yPostura, você causa e recebe dano em dobro."
+    },
+    "CALM": {
+      "NAMES": [
+        "calma"
+      ],
+      "DESCRIPTION": "Ao abandonar esta #yPostura, ganhe [W] [W] ."
+    },
+    "STANCE": {
+      "NAMES": [
+        "postura",
+        "posturas"
+      ],
+      "DESCRIPTION": "Você pode estar em apenas uma postura de cada vez."
+    },
+    "SCRY": {
+      "NAMES": [
+        "vidência"
+      ],
+      "DESCRIPTION": "Veja as X primeiras cartas da sua pilha de compras. Você pode descartar quaisquer delas."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divindade"
+      ],
+      "DESCRIPTION": "Ao entrar nesta postura, ganhe [W] [W] [W] . Ataques causam o triplo de dano. Saia desta #yPostura no começo do seu próximo turno."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "recurso à violência"
+      ],
+      "DESCRIPTION": "Quando você obtiver #b10 #yMantras, entre em #yDivindade."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Seu próximo ataque causa dano adicional."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regeneração",
+        "regenerar"
+      ],
+      "DESCRIPTION": "Regeneração cura PV ao final do seu turno. Regeneração é reduzida em #b1 a cada turno."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Ganhe #yForça no final do seu turno."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "É acionado sempre que esta carta matar um inimigo não lacaio."
+    }
+  }
+}

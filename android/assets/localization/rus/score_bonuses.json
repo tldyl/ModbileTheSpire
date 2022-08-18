@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Алхимик",
+    "DESCRIPTIONS": [
+      "Купить 5 зелий."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Возвышение",
+    "DESCRIPTIONS": [
+      "Бонус +5% за каждый уровень «Возвышения»."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Убито элиты в Запределье",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Идеально",
+    "DESCRIPTIONS": [
+      "Победить 3 боссов, не получив урона."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Убито боссов",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Чемпион",
+    "DESCRIPTIONS": [
+      "Победить элитного врага, не получив урона."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Читер",
+    "DESCRIPTIONS": [
+      "Пойман за читерством. Если такое случится дважды, ваша статистика больше никогда не попадёт в Таблицу лидеров."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Убито элиты в Городе",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Коллекционер",
+    "DESCRIPTIONS": [
+      "Иметь 4 копии любой карты (не считая карт с начала игры)."
+    ]
+  },
+  "Combo": {
+    "NAME": "К-к-к-комбо",
+    "DESCRIPTIONS": [
+      "Разыграть 20 карт в одном ходу."
+    ]
+  },
+  "Curses": {
+    "NAME": "Проклятье!",
+    "DESCRIPTIONS": [
+      "Колода содержит не менее 5 проклятий."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Энциклопедия",
+    "DESCRIPTIONS": [
+      "Колода содержит не менее 50 карт."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Убито элиты в Преддверье",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Сердцеед",
+    "DESCRIPTIONS": [
+      "Победите Сердце Шпиля."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Горец",
+    "DESCRIPTIONS": [
+      "В колоде нет одинаковых карт (не считая карт с начала игры)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Люблю золото",
+    "DESCRIPTIONS": [
+      "Накопить 3,000 золота."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Библиотекарь",
+    "DESCRIPTIONS": [
+      "Колода содержит не менее 35 карт."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Скорость света",
+    "DESCRIPTIONS": [
+      "Победить менее, чем за 45 минут."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Минималист",
+    "DESCRIPTIONS": [
+      "Убрать 5+ карт из колоды."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Денежки",
+    "DESCRIPTIONS": [
+      "Накопить 1,000 золота."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Хочу всё знать",
+    "DESCRIPTIONS": [
+      "Посетить 15+ ?-комнат."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Будь по-моему",
+    "DESCRIPTIONS": [
+      "Убить себя."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Чересчур",
+    "DESCRIPTIONS": [
+      "Нанести 99 урона одной атакой."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Бедняк",
+    "DESCRIPTIONS": [
+      "Иметь 0 редких карт."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Безупречно",
+    "DESCRIPTIONS": [
+      "Победить босса, не получив урона."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Грязные делишки",
+    "DESCRIPTIONS": [
+      "Получить Испражнения духов."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Денежный дождь",
+    "DESCRIPTIONS": [
+      "Накопить 2,000 золота."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Блестяшки",
+    "DESCRIPTIONS": [
+      "Иметь 25+ реликвий."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Гонщик",
+    "DESCRIPTIONS": [
+      "Победить менее, чем за 60 минут."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Пережор",
+    "DESCRIPTIONS": [
+      "Повысить Макс. ОЗ на 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Сытость",
+    "DESCRIPTIONS": [
+      "Повысить Макс. ОЗ на 15+."
+    ]
+  }
+}

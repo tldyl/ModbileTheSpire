@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "As",
+    "DESCRIPTION": "Počinješ sa pet bezbojnih karata."
+  },
+  "Binary": {
+    "NAME": "Binarnost",
+    "DESCRIPTION": "Pri biranju nagrade u izboru imaš samo dve karte."
+  },
+  "Blight Chests": {
+    "NAME": "Buđavi kovčezi",
+    "DESCRIPTION": "Igrajući U nedogled, voždovski kovčezi sadrže buđi nakon prelaska trećeg čina."
+  },
+  "Brewmaster": {
+    "NAME": "Koktelijer",
+    "DESCRIPTION": "Počinješ sa Statuom bele zveri i pet kopija karte Alhemija."
+  },
+  "Cursed Run": {
+    "NAME": "Ukleti pohod",
+    "DESCRIPTION": "Svaki put kada poraziš vožda, postaješ uklet. Tvoja urođena relikvija je zamenjena Ukletim ključem, Tamnokamen amajlijom, i Du-vu lutkicom."
+  },
+  "Diverse": {
+    "NAME": "Raznovrsnost",
+    "DESCRIPTION": "Nisi ograničen samo na karte svog lika."
+  },
+  "Draft": {
+    "NAME": "Nacrt",
+    "DESCRIPTION": "Sastavi početni špil od ponuđenih karata."
+  },
+  "Elite Swarm": {
+    "NAME": "Krupna divljač",
+    "DESCRIPTION": "Čelnici su preplavili Toranj, i sada ispuštaju bolje nagrade."
+  },
+  "Endless": {
+    "NAME": "U nedogled",
+    "DESCRIPTION": "Pobeda te vraća u Preludijum sa istim špilom. \n\nImaj na umu, Buđ eventualno guta sve..."
+  },
+  "Heirloom": {
+    "NAME": "Nasledstvo",
+    "DESCRIPTION": "Počinješ sa jednom retkom relikvijom."
+  },
+  "Hoarder": {
+    "NAME": "Gomilanje",
+    "DESCRIPTION": "Svaki put kada dodaš kartu u špil, ubaci još dve kopije. Trgovac više ne pruža uslugu uklanjanja karata."
+  },
+  "Inception": {
+    "NAME": "Vazda",
+    "DESCRIPTION": "Menja početnu relikviju sa Neprestanom čigrom."
+  },
+  "Insanity": {
+    "NAME": "Ludilo",
+    "DESCRIPTION": "Počinješ sa špilom od 50 nasumičnih karata."
+  },
+  "Lethality": {
+    "NAME": "Ubojitost",
+    "DESCRIPTION": "Svaku borbu započinješ sa snagom povećanom za tri. Isto važi i za neprijatelje."
+  },
+  "Midas": {
+    "NAME": "Mida",
+    "DESCRIPTION": "Neprijatelji ispuštaju 200% više zlata, ali ne možeš da poboljšaš karte na odmaralištima."
+  },
+  "My True Form": {
+    "NAME": "Moj pravi oblik",
+    "DESCRIPTION": "Počinješ sa kopijom Đavoimanosti, Utvare i Eho forme."
+  },
+  "Night Terrors": {
+    "NAME": "Noćni strahovi",
+    "DESCRIPTION": "Odmaranje u potpunosti leči, ali košta pet maks. ž. p."
+  },
+  "One Hit Wonder": {
+    "NAME": "Poslednji atom snage",
+    "DESCRIPTION": "Počinješ igru sa jednim maks. ž. p."
+  },
+  "Praise Snecko": {
+    "NAME": "Slava Zmijku",
+    "DESCRIPTION": "Menja početnu relikviju sa Zmijkovim okom."
+  },
+  "Shiny": {
+    "NAME": "Šljašt",
+    "DESCRIPTION": "Početni špil je zamenjen sa po jednom od svake retke karte."
+  },
+  "Specialized": {
+    "NAME": "Specijalizovan",
+    "DESCRIPTION": "Počinješ sa pet kopija jedne retke karte."
+  },
+  "Starter Deck": {
+    "NAME": "To ti je što ti je",
+    "DESCRIPTION": "Počinješ sa Polomljenom krunom i Binarnošću, tako da neprijatelji više ne ispuštaju karte."
+  },
+  "Stunted Growth": {
+    "NAME": "Usporen rast",
+    "DESCRIPTION": "Igrajući U nedogled, neprijatelji više ne ispuštaju nagradne karte nakon trećeg čina."
+  },
+  "Terminal": {
+    "NAME": "Jednom nogom u grobu",
+    "DESCRIPTION": "Svaki put kada uđeš u novu sobu, gubiš jedan maks. ž. p. Svaku borbu počinješ sa pet optočenog oklopa."
+  },
+  "Time Dilation": {
+    "NAME": "Vremenska dilatacija",
+    "DESCRIPTION": "Svi neprijatelji počinju borbu usporeni."
+  },
+  "Uncertain Future": {
+    "NAME": "Sigurna budućnost",
+    "DESCRIPTION": "Mapa sadrži samo jednu putanju."
+  },
+  "Vintage": {
+    "NAME": "Starina",
+    "DESCRIPTION": "Normalni neprijatelji ispuštaju relikvije umesto karata."
+  },
+  "Blue Cards": {
+    "NAME": "Blue Cards",
+    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+  },
+  "Red Cards": {
+    "NAME": "Red Cards",
+    "DESCRIPTION": "Red cards now appear in rewards and shops."
+  },
+  "Colorless Cards": {
+    "NAME": "Colorless Cards",
+    "DESCRIPTION": "Colorless cards appear more often."
+  },
+  "Green Cards": {
+    "NAME": "Green Cards",
+    "DESCRIPTION": "Green cards now appear in rewards and shops."
+  },
+  "SealedDeck": {
+    "NAME": "Sealed Deck",
+    "DESCRIPTION": "Craft a deck from 30 random cards."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Intelligent Enemies",
+    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+  },
+  "MonsterHunter": {
+    "NAME": "Monster Hunter",
+    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+  },
+  "NeowTime": {
+    "NAME": "Neow Time",
+    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+  },
+  "Flight": {
+    "NAME": "Flight",
+    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+  },
+  "ControlledChaos": {
+    "NAME": "Controlled Chaos",
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+  },
+  "Careless": {
+    "NAME": "Careless",
+    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+  },
+  "DeadlyEvents": {
+    "NAME": "Deadly Events",
+    "DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+  },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+  },
+  "The Ending": {
+    "NAME": "The Ending",
+    "DESCRIPTION": "Enables the Final Act."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+  }
+}

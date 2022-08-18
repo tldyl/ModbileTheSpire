@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "愤怒",
+    "DESCRIPTION": [
+      "你的攻击造成双倍伤害，你从攻击中受到双倍伤害。"
+    ]
+  },
+  "Calm": {
+    "NAME": "平静",
+    "DESCRIPTION": [
+      "离开这一 #y姿态 时，获得 [W] [W] 。"
+    ]
+  },
+  "Divinity": {
+    "NAME": "神格",
+    "DESCRIPTION": [
+      "进入这一 #y姿态 时，获得 [W] [W] [W] 。你的攻击造成三倍伤害。你在下一回合开始时自动离开这一 #y姿态 。"
+    ]
+  }
+}

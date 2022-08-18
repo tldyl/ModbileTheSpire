@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Cuervobot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "El Defectuoso"
+    ],
+    "TEXT": [
+      "Un autómata de combate que tomó consciencia de sí mismo. NL La tecnología de Los Antiguos le permite manipular los Orbes."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "El Blindado"
+    ],
+    "TEXT": [
+      "El último soldado de 'los Blindados'. NL Vendió su alma para poder usar las energías demoníacas."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Continúa",
+      "~¡Bienvenido!~"
+    ],
+    "TEXT": [
+      "¡Hola! NL ¡Compra algo! NL ¡Compra compra compra!",
+      "Me gusta tu corte de pelo.",
+      "¿Tienes hora?",
+      "¿Eres más de perros o de gatos?",
+      "Tienes pinta de NL ser ~peligroso~, NL jeje...",
+      "Tómate tu tiempo... NL ..... NL ... o no.",
+      "¿Te gusta esta alfombra? NL No está a la venta.",
+      "¡Colabora con los pequeños negocios!",
+      "Las máscaras son geniales ¡Sí lo sabré yo!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "¡Quédate un rato y escucha!",
+      "!Es peligroso ir solo! ¡Mejor dame todo tu oro!",
+      "Compra algo...",
+      "~*BOSTEZO*~",
+      "Me encanta el oro.",
+      "Mi color favorito es el azul. NL ¿Cuál es el tuyo?"
+    ],
+    "OPTIONS": [
+      "¿Cómo llegué aquí? NL A saber...",
+      "¡Última oportunidad para comprar algo! NL ~*guiño*~ ~*guiño*~",
+      "..... NL .... NL .........",
+      "Soy más de gatos que de perros.",
+      "Sin prisa. NL Sin prisa.",
+      "¿Esto no te parece @excitante!?@",
+      "Solía ser como tú.",
+      "¿Qué, escalando?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Saludos...~ NL ~Soy~ ~Neow...~",
+      "~Hola...~ NL ~de~ ~nuevo..~",
+      "~Saludos...~",
+      "~¿Otro~ NL ~intento...?~",
+      "~Alcanza~ ~al~ ~jefe...~ NL ~para~ ~recibir~ ~mi~ ~bendición...~",
+      "~Por~ ~lo~ ~menos...~ ~enfréntate~ NL ~al~ ~primer~ ~jefe...~",
+      "~Te~ ~traje~ ~de~ ~vuelta...~",
+      "~Elige...~",
+      "~Concedido...~",
+      "~Riesgo...~ NL ~Recompensa...~",
+      "~Hora~ ~de~ ~un~ NL ~RETO...~",
+      "Recompensas",
+      "~Continuemos...~",
+      "~Se~ ~pondrá~ ~más~ ~difícil...~",
+      "~Impresionante...~ NL ~más, más...~",
+      "¡Maldito!",
+      "¡Cabeza de chorlito!",
+      "¡Transformación!"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Hablar]",
+      "[Saltar]",
+      "[Salir]",
+      "Elije 10 cartas para añadir a tu baraja."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gElije #guna #gcarta #gy #gagregala #ga #gtu #gmazo ]",
+      "[ #gRecibe #guna #gcarta #grara #galeatoria ]",
+      "[ #gElije #gy #gelimina #guna #gcarta #gde #gtu #gmazo ]",
+      "[ #gElige #gy #gmejora #guna #gcarta #gde #gtu #gmazo ]",
+      "[ #gElije #gy #gtransforma #guna #gcarta #gde #gtu #gmazo ]",
+      "[ #gRecibe #g3 #gpociones #gal #gazar ]",
+      "[ #gRecibe #guna #greliquia #gcomún #galeatoria]",
+      "[ #gPV #gMáximos #g+",
+      "[ #gRecibe #g",
+      " #goro ]",
+      "#gElije #gy #gelimina #g2 #gcartas #gde #gtu #gmazo]",
+      "#gRecibe #guna #greliquia #grara #galeatoria ]",
+      "#gElije #guna #gcarta #grara #gy #gagrégala #ga #gtu #gmazo ]",
+      "#gGana #g",
+      " #goro ]",
+      "#gElije #gy #gtransforma #g2 #gcartas #gde #gtu #gmazo ]",
+      "#gPV #gMáximos #g+",
+      "[ #rPierde #r",
+      " #rPV #rMáximos. ",
+      "[ #rPierde #rtodo #rtu #rOro. ",
+      "[ #rRecibe #runa #rmaldición. ",
+      "[ #rRecibe #r",
+      "Elige una Carta",
+      "Elije y elimina una carta de tu mazo",
+      "Elije y elimina 2 cartas de tu mazo",
+      "Elije y transforma una carta de tu mazo",
+      "Elije y transforma 2 cartas de tu mazo",
+      "Elije y mejora una carta de tu mazo",
+      "[ #gEn #gtus #gsiguientes #gtres #gcombates, #glos #genemigos #gsolo #gtienen #g1 #gPV ]",
+      " #rde #rdaño",
+      "[ #gObtén #guna #gCarta #gincolora #galeatoria ]",
+      "#gObtén #guna #gCarta #gincolora #grara #galeatoria ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rPierde #rtu #rreliquia #rinicial. #gRecibe #guna #greliquia #gde #gJefe #galeatoria ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~¡Bienvenido,~ NL ~bienvenido!~",
+      "Oye, NL necesitas NL más #rOro.",
+      "Oye, camarada, NL ¡no tienes #rDinero!",
+      "¿En quiebra?",
+      "No tienes suficiente #rOro.",
+      "Justo en la pobreza.",
+      "Esto no es para la caridad.",
+      "~Graaaacias~",
+      "Otra venta... NL ¡Jojojó! NL ¡Cha... - @Ching!@",
+      "@¡VENDIDO!@",
+      "No se admiten devoluciones.",
+      "Ten un buen día.",
+      "Vete.",
+      "Elije y elimina una carta de tu mazo."
+    ],
+    "TEXT": [
+      "¡Hola! NL ¡Compra algo! NL ¡Compra compra compra!",
+      "Me gusta tu corte de pelo",
+      "¿Tienes hora?",
+      "¿Eres más de perros o de gatos?",
+      "Se te ve ~peligroso,~ NL jeje...",
+      "Tómate tu tiempo... NL ..... NL ...o no",
+      "¿Te gusta esta alfombra? NL No está a la venta",
+      "¡Colabora con los pequeños negocios!",
+      "Las máscaras son geniales, ¡Sí lo sabré yo!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "¡Quédate un rato y escucha!",
+      "¡Es peligroso ir solo! ¡Dame todo tu oro!",
+      "Compra algo.",
+      "~*BOSTEZO*~",
+      "Me encanta el oro.",
+      "Mi color favorito es el azul. NL ¿Cuál es el tuyo?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silenciosa"
+    ],
+    "TEXT": [
+      "Una cazadora mortal de las tierras bajas. NL Erradica cualquier presa con dagas y veneno."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "¿Ahora... que..? NL ..¿Ya... está....?",
+      "...la Torre duerme..... NL Y...... yo...",
+      "..también.......debería......."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "La Vigilante"
+    ],
+    "TEXT": [
+      "Una asceta ciega que ha venido a \"Evaluar\" la Aguja. NL Maestra de las Posturas divinas."
+    ]
+  }
+}

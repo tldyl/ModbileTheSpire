@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Anker",
+    "FLAVOR": "Als je dit sieraad vasthoudt, voel je je zwaarder en stabieler.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #yBlok."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Antiek Theeservies",
+    "FLAVOR": "De sleutel tot een goede nachtrust.",
+    "DESCRIPTIONS": [
+      "Wanneer je een Rustplaats betreedt, begin het volgende gevecht met [E] [E] ."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Kunst van het Oorlogvoeren",
+    "FLAVOR": "Dit aloude manuscript bevat wijsheid uit een ver verleden.",
+    "DESCRIPTIONS": [
+      "Als je geen #yAanvallen speelt gedurende je beurt, krijg je een extra ",
+      "[E] in de volgende beurt."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolabium",
+    "FLAVOR": "Een instrument om onbetaalbare kennis te verzamelen van de sterren.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, #yTransformeer #b3 kaarten, en #yUpgrade ze dan.",
+      "Kies 3 kaarten voor "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Zak met Knikkers",
+    "FLAVOR": "Eens een populair speelgoed in de Stad. Nuttig om vijanden uit balans te brengen.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, pas #b",
+      " #yKwetsbaar toe op ALLE vijanden."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Tas van Voorbereiding",
+    "FLAVOR": "Extra grote tas voor avonturiers. Heeft veel zakken en riempjes.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, trek #b",
+      " extra kaarten."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Vogelgezicht Urn",
+    "FLAVOR": "Deze urn laat een kwaadaardig uitziende kraaiengod Mazaleth zien.",
+    "DESCRIPTIONS": [
+      "Wanneer je een #yKracht kaart speelt, genees #b",
+      " LP."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Zwart Bloed",
+    "FLAVOR": "De razernij wordt donkerder.",
+    "DESCRIPTIONS": [
+      "Vervangt #rBrandend #rBloed. Aan het einde van een gevecht, genees #b",
+      " LP."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Zwarte Ster",
+    "FLAVOR": "Oorspronkelijk ontdekt in de stad van de serpent, naast een enkele kaars.",
+    "DESCRIPTIONS": [
+      "Elites geven een extra relikwie als ze worden verslagen."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Bloedfiool",
+    "FLAVOR": "Een fiool die het bloed bevat van een pure en oude vampier.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, genees #b",
+      " LP."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Bloedend Idool",
+    "FLAVOR": "Het idool huilt nu een constante stroom van bloed.",
+    "DESCRIPTIONS": [
+      "Telkens als je #yGoud krijgt, genees #b",
+      " LP."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Blauwe Kaars",
+    "FLAVOR": "De vlam ontbrandt wanneer het gehuld wordt in duisternis.",
+    "DESCRIPTIONS": [
+      "#yOnspeelbare #rVloek kaarten kunnen nu worden gespeeld. NL Wanneer je een #rVloek speelt, verlies #b",
+      " LP en #yPut het #yUit."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Gebottelde Vlam",
+    "FLAVOR": "Binnenin de fles bevindt zich een vlam die voor eeuwig brandt.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, kies een #yAanval. Begin elk gevecht met deze kaart in je hand.",
+      "Kies een kaart voor ",
+      "Begin elk gevecht met ",
+      " in je hand."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Gebottelde Bliksem",
+    "FLAVOR": "Turend in de draaiende maalstroom zie je een stukje van jezelf terugstaren.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, kies een #yVaardigheid. Begin elk gevecht met deze kaart in je hand.",
+      "Kies een kaart voor ",
+      "Begin elk gevecht met ",
+      " in je hand."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Gebottelde Tornado",
+    "FLAVOR": "De fles humt en zoemt zachtjes.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, kies een #yKracht kaart. Begin elk gevecht met deze kaart in je hand.",
+      "Kies een kaart voor ",
+      "Begin elk gevecht met ",
+      " in je hand."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Bronzen Schubben",
+    "FLAVOR": "De scherpe schubben van de Bewaker. Herschikt zichzelf om zijn gebruiker te beschermen. ",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #yDoornen."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Brandend Bloed",
+    "FLAVOR": "Je lichaamseigen bloed brandt met een onsterfelijke razernij.",
+    "DESCRIPTIONS": [
+      "Aan het einde van een gevecht, genees #b",
+      " LP."
+    ]
+  },
+  "Cables": {
+    "NAME": "Vergulde Kabels",
+    "FLAVOR": "\"Interessant! Zelfs automaten worden beïnvloed door placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Je meest rechtse Bol activeert zijn passieve vaardigheid een extra keer."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Schuifmaat",
+    "FLAVOR": "\"Mechanische precisie leidt tot grootheid\" - De Architect",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, verlies #b",
+      " #yBlok in plaats van alle #yBlok."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Luidende Bel",
+    "FLAVOR": "Deze donkere ijzeren bel ging 3 keer over toen je het vond, maar nu blijft het stil.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verkrijg een unieke #rVloek en #b3 relikwieën.",
+      "De Bel Luidt...",
+      "Sla Beloningen Over",
+      "Sluit"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Ketel",
+    "FLAVOR": "De Handelaar is eigenlijk een nogal bekwame drankjesbrouwer. Koop 4 krijg er 1 gratis.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, brouwt #b5 willekeurige drankjes.",
+      "Blup blip bloop...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Eeuwige Puzzel",
+    "FLAVOR": "Bij het oplossen van de puzzel voel je een krachtige warmte in je borst.",
+    "DESCRIPTIONS": [
+      "De eerste keer dat je LP verliest in elk gevecht, trek #b",
+      " kaarten."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Kameleonring",
+    "FLAVOR": "Deprecated",
+    "DESCRIPTIONS": [
+      "Je kunt nu #yBrouwen bij Rustplaatsen."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Kampioensgordel",
+    "FLAVOR": "Alleen de beste mag deze gordel dragen.",
+    "DESCRIPTIONS": [
+      "Wanneer je #yKwetsbaar toepast, pas #b",
+      " #yZwak toe."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Charon's Assen",
+    "FLAVOR": "Charon zou de god van de wedergeboorte zijn, eeuwig stervend en herlevend in een uitbarsting van vuur.",
+    "DESCRIPTIONS": [
+      "Wanneer je een kaart #yUitput, richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Element X",
+    "FLAVOR": "WAARSCHUWING: Combineer dit niet met suiker, zout, en alles waar je van houdt.",
+    "DESCRIPTIONS": [
+      "De effecten van je kosten #bX kaarten worden verhoogd met #b",
+      ""
+    ]
+  },
+  "Circlet": {
+    "NAME": "Kringel",
+    "FLAVOR": "Er zijn geen relikwieën meer die je kunt vinden. Indrukwekkend!",
+    "DESCRIPTIONS": [
+      "Verzamel er zoveel als je kunt."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Gebarsten Kern",
+    "FLAVOR": "De mysterieuze levenskracht die de Automaten aandrijven in de Spire. Het lijkt gebarsten te zijn.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, #yKanaliseer #b1 #yBliksem."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Bevroren Kern",
+    "FLAVOR": "De barst in je kern is gevuld met een pulserende koude energie.",
+    "DESCRIPTIONS": [
+      "Vervangt #bGebarsten #bKern. Als je je beurt beëindigt met lege Bol sleuven, #yKanaliseer #b1 #yVorst."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Vervloekte Sleutel",
+    "FLAVOR": "Je kunt de kwaadaardige energie voelen die van de sleutel afkomt. Kracht heeft een prijs.",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Wanneer je een niet-Baas kist opent, verkrijg een #rVloek.",
+      "Krijg [E]"
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Duistersteen Periapt",
+    "FLAVOR": "De steen trekt kracht uit duistere energie en zet het om in vitaliteit voor de drager.",
+    "DESCRIPTIONS": [
+      "Wanneer je een #rVloek verkrijgt, verhoog je Max LP met #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Gegevensschijf",
+    "FLAVOR": "Deze schijf bevat waardevolle gegevens over vogels en slangen.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #yFocus."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Dode Tak",
+    "FLAVOR": "De tak van een boom uit een vergeten tijdperk.",
+    "DESCRIPTIONS": [
+      "Wanneer je een kaart #yUitput, voeg een willekeurige kaart toe aan je hand."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derpsteen",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg #b",
+      " Lading. NL (Kan niet verwijderd of getransformeerd worden.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Kritische Monocle",
+    "FLAVOR": "Een zeer keurig uitziende monocle inderdaad.",
+    "DESCRIPTIONS": [
+      "Handelaar prijzen zijn gereduceerd met #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "DEPRECATED Runische Dodecahedron",
+    "FLAVOR": "De runen zijn onontcijferbaar.",
+    "DESCRIPTIONS": [
+      "Als je LP vol is, krijg ",
+      "[E] aan het begin van je beurt."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Dromenvanger",
+    "FLAVOR": "De noordelijke stammen gebruikten 's nachts vaak dromenvangers, gelovend dat ze tot zelfverbetering leidden.",
+    "DESCRIPTIONS": [
+      "Wanneer je #yRust, mag je een kaart toevoegen aan je stok."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Du-Vu Pop",
+    "FLAVOR": "Een pop ontworpen om kracht te halen uit kwaadaardige energie.",
+    "DESCRIPTIONS": [
+      "Voor elke #rVloek in je stok, begin elk gevecht met #b",
+      " #ySterkte.",
+      " Je hebt geen #rVloeken.",
+      " Je hebt #b",
+      " #rVloeken."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ectoplasma",
+    "FLAVOR": "Deze klodder van slijm en energie lijkt te pulseren met leven.",
+    "DESCRIPTIONS": [
+      " Je kunt geen #yGoud meer verkrijgen.",
+      "Krijg [E] aan het begin van je beurt."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotiechip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Als je LP hebt verloren tijdens de vorige beurt, activeer de passieve vaardigheid van alle Bollen aan het begin van je beurt."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enchiridion",
+    "FLAVOR": "Het legendarische dagboek van een aloude lich.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, voeg een willekeurige #yKracht kaart toe aan je hand. Het kost #b0 in die beurt."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Eeuwige Veer",
+    "FLAVOR": "Deze veer lijkt volledig onverwoestbaar. Van welke vogel zou dit mogelijk vandaan komen? ",
+    "DESCRIPTIONS": [
+      "Voor elke #b",
+      " kaarten in je stok, genees #b",
+      " LP wanneer je een Rustplaats betreedt."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Bevroren Ei",
+    "FLAVOR": "Het ei ligt inert en bevroren, en zal nooit uitkomen.",
+    "DESCRIPTIONS": [
+      "Wanneer je een #yKracht kaart toevoegt aan je stok, #yUpgrade het."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Bevroren Oog",
+    "FLAVOR": "Starend in het oog zie je een glimp van je toekomst.",
+    "DESCRIPTIONS": [
+      "Als je je #yTrekstapel bekijkt worden de kaarten nu in volgorde getoond."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Gokfiche",
+    "FLAVOR": "Je kunt een kleine inscriptie zien aan een kant. Er staat: \"Beers Geluksfiche!\"",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, leg elk gewenst aantal kaarten af, en trek dan hetzelfde aantal kaarten."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Gember",
+    "FLAVOR": "Een krachtig middel in vele versterkende drankjes.",
+    "DESCRIPTIONS": [
+      "Je kunt niet meer #yZwak worden."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girya",
+    "FLAVOR": "Deze Girya is ongelofelijk zwaar. Je kunt hiermee trainen om aanzienlijk sterker te worden.",
+    "DESCRIPTIONS": [
+      "Je kunt nu #ySterkte verkrijgen bij Rustplaatsen (tot en met 3 keer)."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Gouden Idool",
+    "FLAVOR": "Gemaakt van puur goud, je voelt je al rijker bij het vasthouden ervan.",
+    "DESCRIPTIONS": [
+      "Vijanden geven #b25% meer #yGoud."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Gremlinhoorn",
+    "FLAVOR": "\"Gremlin Nobs kunnen groeien tot de dag dat ze sterven. Opmerkelijk.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Wanneer een vijand doodgaat, krijg ",
+      "[E] en trek #b1 kaart."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Vrolijke Bloem",
+    "FLAVOR": "Deze onophoudelijke vrolijke plant is een populair nieuwtje onder edelen.",
+    "DESCRIPTIONS": [
+      "Elke #b",
+      " beurten, krijg [E] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "IJsje",
+    "FLAVOR": "\"Heerlijk!\"",
+    "DESCRIPTIONS": [
+      "Energie blijft nu behouden tussen beurten."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Duwen. Trekken. Opstapelen. Herhaal.",
+    "DESCRIPTIONS": [
+      "Elke #b2 beurten, krijg #b1 Bol sleuf."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Juzu Armband",
+    "FLAVOR": "Een bescherming tegen het onbekende.",
+    "DESCRIPTIONS": [
+      "Normale vijanden verschijnen niet meer in #y? kamers."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Een mes die de voorkeur heeft bij sluipmoordenaars door zijn dodelijkheid op afstand.",
+    "DESCRIPTIONS": [
+      "Elke keer dat je #b",
+      " #yAanvallen speelt in één beurt, krijg #b",
+      " #yBehendigheid."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lantaarn",
+    "FLAVOR": "Een griezelige lantaarn die alleen voor de gebruiker verlicht.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met een extra ",
+      "[E] ",
+      ""
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lee's Wafel",
+    "FLAVOR": "\"Lekkerste traktatie die je zult vinden in de hele Spire! Vandaag gebakken alleen voor jou.\"",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verhoog je Max LP met #b",
+      " en genees al je LP."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Briefopener",
+    "FLAVOR": "Onnatuurlijk scherp.",
+    "DESCRIPTIONS": [
+      "Elke keer dat je #b3 #yVaardigheden speelt in één beurt, richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Levende Mes",
+    "FLAVOR": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "Je kunt elk gewenst aantal krijgen van elke kaart."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Hagedissenstaart",
+    "FLAVOR": "Een nepstaart om vijanden te misleiden tijdens een gevecht.",
+    "DESCRIPTIONS": [
+      "Als je dood zou gaan, genees dan tot #b50% van je Max LP (werkt één keer)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Magische Bloem",
+    "FLAVOR": "Een bloem waarvan lang werd gedacht dat deze uitgestorven was, maar die op één of andere manier in perfecte staat bewaard is gebleven.",
+    "DESCRIPTIONS": [
+      "Genezen is #b50% effectiever tijdens een gevecht."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "De meest begeerde vergeten vrucht. Onberispelijk bewaard gebleven zonder tekenen van Spire-ziekte.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verhoog je Max LP met #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Teken van Pijn",
+    "FLAVOR": "Dit brandmerk werd door de noordelijke stammen gebruikt om krijgers aan te duiden die de pijn in de strijd beheersten.",
+    "DESCRIPTIONS": [
+      "Krijg [R] aan het begin van je beurt. Aan het begin van een gevecht, schud #b2 #rWonden in je trekstapel."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matryoshka",
+    "FLAVOR": "Een stapelbare set van geschilderde poppen. De verf toont een onbekende vogel met witte ogen en blauwe veren.",
+    "DESCRIPTIONS": [
+      "De volgende #b2 niet-Baas kisten die je opent bevatten #b2 #yRelikwieën.",
+      "De volgende niet-Baas kist die je opent bevat #b2 #yRelikwieën.",
+      "Deze relikwie is opgebruikt."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Vlees op het Bot",
+    "FLAVOR": "Het vlees blijft zich aanvullen, het lijkt alsof het nooit helemaal opraakt.",
+    "DESCRIPTIONS": [
+      "Als je LP op of onder de #b50% is aan het einde van een gevecht, genees #b",
+      " LP."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Medische Doos",
+    "FLAVOR": "\"Heeft alles wat je nodig hebt! Anti-jeuk, anti-brand, anti-gif, en meer!\"",
+    "DESCRIPTIONS": [
+      "#yOnspeelbare #yStatus kaarten kunnen nu worden gespeeld. Als je een #yStatus kaart speelt, #yPut deze #yUit."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Lidmaatschapskaart",
+    "FLAVOR": "\"Bonus lidmaatschapsaanbieding voor mijn meest waardevolle klanten!\"",
+    "DESCRIPTIONS": [
+      "#b50% korting op alle producten!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Kwik Zandloper",
+    "FLAVOR": "Een betoverde zandloper dat eindeloos druipt.",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Gesmolten Ei",
+    "FLAVOR": "Het ei van een Feniks. Het gloeit gloeiend rood met een smeulende lava.",
+    "DESCRIPTIONS": [
+      "Wanneer je een #yAanval toevoegt aan je stok, #yUpgrade het."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Gemummificeerde Hand",
+    "FLAVOR": "Trekt veelvuldig samen, vooral als je hartslag hoog is.",
+    "DESCRIPTIONS": [
+      "Wanneer je een #yKracht kaart speelt, kost een willekeurige kaart in je hand #b0 in die beurt."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Alleen een dwaas zou proberen deze kwade kracht te gebruiken. 's Nachts worden je dromen achtervolgd door beelden van het boek dat je gedachten verslindt.",
+    "DESCRIPTIONS": [
+      "De eerste #yAanval die gespeeld wordt elke beurt die #b",
+      " of meer kost wordt tweemaal gespeeld. Bij het oppakken, verkrijg een speciale #rVloek.",
+      " of meer kost wordt tweemaal gespeeld."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neow's Geklaag",
+    "FLAVOR": "De zegen van jammerklachten die door Neow is geschonken.",
+    "DESCRIPTIONS": [
+      "Vijanden in je eerste #b3 gevechten zullen #b1 LP hebben.",
+      "Deze relikwie is opgebruikt."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Nilry's Codex",
+    "FLAVOR": "Gemaakt door de beruchte spelmeester zelf. Wordt beweerd dat het je geest verruimt.",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt mag je #b1 uit #b3 willekeurige kaarten in je trekstapel schudden."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Ninjarol",
+    "FLAVOR": "Bevat de geheimen van sluipmoord.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, voeg #b",
+      " #yMessen toe aan je hand."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "N'loth's Geschenk",
+    "FLAVOR": "Het vreemde geschenk van N'loth. Wanneer je het probeert uit te pakken, ligt er nóg een verpakte doos van dezelfde grootte in.",
+    "DESCRIPTIONS": [
+      "Verdrievoudig de kans om #yZeldzame kaarten te vinden in de beloningen van gevechten."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nucleaire Batterij",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, #yKanaliseer #b1 #yPlasma."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nulsteen Periapt",
+    "FLAVOR": "DEPRECATED.",
+    "DESCRIPTIONS": [
+      "Doe het volgende negatieve effect dat je krijgt van een vijand teniet. NL Herlaadt in #b10 beurten."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Vreemde Paddenstoel",
+    "FLAVOR": "\"Na het consumeren van trichella parastius voelde ik me groter en minder... vatbaar.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Wanneer je #yKwetsbaar bent, neem #b25% meer aanvalsschade in plaats van #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Vreemde Gladde Steen",
+    "FLAVOR": "Je hebt nog nooit iets gezien dat zo glad en smetteloos is. Dit moet het werk van de Alouden zijn.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #yBehendigheid."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Oude Munt",
+    "FLAVOR": "Unieke munten worden door handelaren zeer gewaardeerd om hun historische waarde en zeldzame metaalsamenstelling.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verkrijg #b300 #yGoud."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "Een veelvoorkomende amulet om slechte geesten af te weren. Deze lijkt een vonk van goddelijke energie te bevatten.",
+    "DESCRIPTIONS": [
+      "Doe de volgende #b2 #rVloeken die je verkrijgt teniet.",
+      "Doe de volgende #rVloek die je verkrijgt teniet.",
+      "Deze relikwie is opgebruikt."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalcum",
+    "FLAVOR": "Een groen getint metaal van onbekende herkomst. Schijnbaar onverwoestbaar.",
+    "DESCRIPTIONS": [
+      "Als je je beurt eindigt zonder #yBlok, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Decoratieve Waaier",
+    "FLAVOR": "De waaier lijkt zich uit te strekken en te verharden naarmate bloed wordt vergoten.",
+    "DESCRIPTIONS": [
+      "Elke keer dat je #b3 #yAanvallen speelt in één beurt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Planetarium",
+    "FLAVOR": "\"Als je eenmaal het universum begrijpt...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, kies en voeg #b5 kaarten toe aan je stok.",
+      "Kennis!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Doos van Pandora",
+    "FLAVOR": "Je hebt een slecht gevoel over het openen hiervan.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, #bTransformeer alle Slag en Verdedig kaarten.",
+      "De Doos van Pandora is geopend..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograaf",
+    "FLAVOR": "\"Stevige fundamenten zijn niet toevallig. Middelen voor planning zijn een must.\" - De Architect",
+    "DESCRIPTIONS": [
+      "Aan het begin van Baas gevechten, genees #b",
+      " LP."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Papieren Craanvogyl",
+    "FLAVOR": "Een origami van een wezen uit een vroegere tijd.",
+    "DESCRIPTIONS": [
+      "Vijanden met #yZwak richten #b40% minder schade aan in plaats van #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Papieren Kycker",
+    "FLAVOR": "Het papier vouwt en ontvouwt zich voortdurend in de vorm van een klein wezen.",
+    "DESCRIPTIONS": [
+      "Vijanden met #yKwetsbaar nemen #b75% meer schade in plaats van #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Vredespijp",
+    "FLAVOR": "Wist de geest en reinigt de ziel.",
+    "DESCRIPTIONS": [
+      "Je kunt nu kaarten uit je stok verwijderen bij Rustplaatsen."
+    ]
+  },
+  "Pear": {
+    "NAME": "Peer",
+    "FLAVOR": "Een veelvoorkomende vrucht vóór de Spire-ziekte.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verhoog je Max LP met #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Penpunt",
+    "FLAVOR": "Terwijl je de penpunt vasthoudt, kun je iedereen zien die ooit is gedood door een vorige eigenaar van de pen. Een gewelddadige geschiedenis.",
+    "DESCRIPTIONS": [
+      "Elke #b10e #yAanval die je speelt richt dubbele schade aan."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Steen der Wijzen",
+    "FLAVOR": "Ruwe energie straalt uit de steen en versterkt alles in de buurt.",
+    "DESCRIPTIONS": [
+      "Krijg [E] aan het begin van je beurt. ALLE vijanden beginnen het gevecht met #b",
+      " #ySterkte."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Drankjesgordel",
+    "FLAVOR": "Ik kan meer Drankjes dragen met deze gordel!",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verkrijg #b2 Drankjessleuven."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Gebedswiel",
+    "FLAVOR": "Het wiel blijft draaien en stopt nooit.",
+    "DESCRIPTIONS": [
+      "Normale vijanden geven een extra kaartbeloning."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Vragenkaart",
+    "FLAVOR": "\"Degenen met meer keuzes minimaliseren het nadeel van chaos.\" - Kublai de Grote",
+    "DESCRIPTIONS": [
+      "Toekomstige kaartbeloningen hebben #b1 extra kaart om uit te kiezen."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Rode Kringel",
+    "FLAVOR": "Er zijn geen relikwieën meer. Indrukwekkend!",
+    "DESCRIPTIONS": [
+      "Ziet er erg mooi uit."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Rood Masker",
+    "FLAVOR": "Dit zeer stijlvol ogende masker behoort toe aan de leider van de Rode Masker Bandieten. Technisch gezien ben jij nu de leider?",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, pas #b",
+      " #yZwak toe op ALLE vijanden."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Rode Schedel",
+    "FLAVOR": "Een kleine schedel bedekt met decoratieve verf.",
+    "DESCRIPTIONS": [
+      "Terwijl je LP op of onder de #b50% is, heb je #b",
+      " extra #ySterkte."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Vorstelijk Kussen",
+    "FLAVOR": "Nu kun je een goede nachtrust krijgen.",
+    "DESCRIPTIONS": [
+      "Wanneer je #yRust, genees een extra #b",
+      " LP."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Ring van de Serpent",
+    "FLAVOR": "Je ring is omgevormd en is van vorm veranderd.",
+    "DESCRIPTIONS": [
+      "Vervangt #gRing #gvan #gde #gSlang. ",
+      "Aan het begin van je beurt, trek #b1 extra kaart."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Ring van de Slang",
+    "FLAVOR": "Gemaakt van een gefossiliseerde slang. Vertegenwoordigt grote vaardigheid als een jaagster.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, trek #b",
+      " extra kaarten."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runische Condensator",
+    "FLAVOR": "Meer is beter.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b3 extra Bol sleuven."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Runische Kubus",
+    "FLAVOR": "De runen zijn onontcijferbaar.",
+    "DESCRIPTIONS": [
+      "Wanneer je LP verliest, trek #b",
+      " kaart.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Runische Koepel",
+    "FLAVOR": "De runen zijn onontcijferbaar.",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Je kunt de vijandige intenties niet meer zien.",
+      "Krijg [E]"
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Runische Piramide",
+    "FLAVOR": "De runen zijn onontcijferbaar.",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt leg je je hand niet meer af.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Zelfvormende Klei",
+    "FLAVOR": "\"Erg merkwaardig! Het lijkt zichzelf te vervormen losjes gebaseerd op mijn gedachten! Tele-klei?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Wanneer je LP verliest, krijg #b",
+      " #yBlok de volgende beurt."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Schep",
+    "FLAVOR": "De Spire herbergt vele relikwieën uit vroegere beschavingen en van vergeten machtige avonturiers. Tijd om ze op te graven!",
+    "DESCRIPTIONS": [
+      "Je kunt nu #yGraven voor relikwieën bij Rustplaatsen."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Lichte werpwapens. Aangeraden om voor de ogen te gaan.",
+    "DESCRIPTIONS": [
+      "Elke keer dat je #b",
+      " #yAanvallen speelt in één beurt, krijg #b",
+      " #ySterkte."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Klankschaal",
+    "FLAVOR": "Dit veelgebruikte artefact maakt een prachtige melodie als het wordt aangeslagen.",
+    "DESCRIPTIONS": [
+      "Wanneer je kaarten toevoegt aan je stok, mag je in plaats daarvan je Max LP met #b2 verhogen."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Lachend Masker",
+    "FLAVOR": "Masker gedragen door de Handelaar. Hij moet reserves hebben...",
+    "DESCRIPTIONS": [
+      "De kaartverwijderingsservice van de Handelaar kost nu altijd #b",
+      " #yGoud."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Slekko-schedel",
+    "FLAVOR": "Een slekko-schedel in uitstekende conditie. Mysterieus schoon en glad, vuil en viezigheden vallen er op onverklaarbare wijze van af.",
+    "DESCRIPTIONS": [
+      "Wanneer je #yGif toepast, pas een extra #b",
+      " #yGif toe."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Slekko-oog",
+    "FLAVOR": "Een oog van een gesneuvelde slekko. Veel groter dan je had gedacht.",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, trek #b2 extra kaarten. Begin elk gevecht #yVerward."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "Je merkt op dat magische vloeistoffen hun eigenschappen lijken te verliezen wanneer ze in de buurt van deze relikwie zijn.",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Je kunt geen drankjes meer verkrijgen.",
+      "Krijg [E]"
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Geestenpoep",
+    "FLAVOR": "De verkoolde overblijfselen van je offer aan de geesten.",
+    "DESCRIPTIONS": [
+      "Het is onaangenaam."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Vreemde Lepel",
+    "FLAVOR": "Wanneer je staart naar de lepel lijkt het te buigen en te verwringen voor je ogen.",
+    "DESCRIPTIONS": [
+      "Kaarten die #yUitgeput worden wanneer ze worden gespeeld zullen in plaats daarvan afgelegd worden #b50% van de keren."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Aardbei",
+    "FLAVOR": "\"Heerlijk! Ik heb geen van deze meer gezien sinds de ziekte.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verhoog je Max LP met #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Zonnewijzer",
+    "FLAVOR": "\"De dwaze obsessie met tijd van de vroege mens zorgde ervoor dat ze naar de hemel keken voor begeleiding, hopend op iets blijvends.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Elke #b",
+      " keren dat je je trekstapel schudt, krijg [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotisch Virus",
+    "FLAVOR": "Een klein beetje slecht kan veel goeds doen...",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, #yKanaliseer #b1 #yDuistere."
+    ]
+  },
+  "Test 1": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 3": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 4": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 5": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Test 6": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 7": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 8": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "The Courier": {
+    "NAME": "De Koerier",
+    "FLAVOR": "Het persoonlijke huisdier van de Handelaar!",
+    "DESCRIPTIONS": [
+      "De Handelaar vult kaarten, relikwieën, en drankjes aan, en de prijzen worden verlaagd met #b20%."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Het Specimen",
+    "FLAVOR": "\"Fascinerend! Ik vond een gemuteerd wezen dat verbazingwekkend toxische eigenschappen toonde. Ik sla een monster op voor later onderzoek.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Wanneer een vijand doodgaat, breng al het #yGif dat het heeft over op een willekeurige vijand."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Naald en Draad",
+    "FLAVOR": "Als je de magische draad rond je lichaam wikkelt, voelt je lichaam harder aan.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #yGepantserde #yBescherming."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "Het geluid dat dit instrument maakt lijkt te kunnen weergalmen tot pijnlijke niveaus van volume.",
+    "DESCRIPTIONS": [
+      "Wanneer je een kaart aflegt gedurende je beurt, richt #b",
+      " schade aan op een willekeurige vijand."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Minuscuul Kistje",
+    "FLAVOR": "\"Een prima prototype.\" - De Architect",
+    "DESCRIPTIONS": [
+      "Elke #b",
+      " #y? kamers is een #ySchatkamer.",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Minuscuul Huisje",
+    "FLAVOR": "\"Een bijna perfecte implementatie van miniaturisatie. Mijn beste werk tot nu toe, maar nog steeds niet voldoende.\" - De Architect",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verkrijg #b1 drankje. NL Verkrijg #b",
+      " #yGoud. NL Verhoog je Max LP met #b",
+      ". NL Verkrijg #b1 kaart. NL Upgrade #b1 willekeurige kaart.",
+      "Minuscuul Huis!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Gereedschapskist",
+    "FLAVOR": "Een gereedschap voor elke klus.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, kies #b1 uit #b3 willekeurige Kleurloze kaarten en voeg de gekozen kaart toe aan je hand."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Door de kleine Torii vast te houden voel je een gevoel van kalmte en veiligheid door je hoofd trekken.",
+    "DESCRIPTIONS": [
+      "Wanneer je #b",
+      " of minder ongeblokkeerde aanvalsschade zou ontvangen, reduceer het tot #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Taaie Verbanden",
+    "FLAVOR": "Verlies geeft kracht.",
+    "DESCRIPTIONS": [
+      "Wanneer je een kaart aflegt gedurende je beurt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Giftig Ei",
+    "FLAVOR": "\"Wat een geweldige ontdekking! Dit lijkt het inerte ei te zijn van een of ander magisch wezen. Wie of wat heeft dit gemaakt?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Wanneer je een #yVaardigheid toevoegt aan je stok, #yUpgrade het."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Speelgoed Ornithopter",
+    "FLAVOR": "\"Dit kleine speeltje is de perfecte metgezel voor de eenzame avonturier!\"",
+    "DESCRIPTIONS": [
+      "Wanneer je een drankje gebruikt, genees #b",
+      " LP."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Knolraap",
+    "FLAVOR": "Het beste met Gember.",
+    "DESCRIPTIONS": [
+      "Je kunt niet meer #yFragiel worden."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Onophoudelijke Tol",
+    "FLAVOR": "De tol blijft moeiteloos ronddraaien alsof je in een droom bent.",
+    "DESCRIPTIONS": [
+      "Wanneer je geen kaarten in je hand hebt gedurende je beurt, trek een kaart."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Een sierlijke relikwie gegeven aan krijgers die glorie in de strijd tonen.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #ySterkte."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Fluwelen Halsketting",
+    "FLAVOR": "\"Immense kracht, maar te beperkt.\" - Kublai de Grote",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Je kunt niet meer dan #b",
+      " kaarten spelen per beurt.",
+      "Krijg [E]",
+      "Ik kan maar tot NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "Oorlogsverf",
+    "FLAVOR": "In het verleden zouden Gepantserden beschermingen maken met betoverde oorlogsverf voordat ze ten strijde trokken.",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, #yUpgrade #b",
+      " willekeurige #yVaardigheden."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Wetsteen",
+    "FLAVOR": "\"Vlees verslaat nooit staal.\" - Kublai de Grote",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, #yUpgrade #b",
+      " willekeurige #yAanvallen."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Witte Beest Beeld",
+    "FLAVOR": "Een klein wit beeld van een wezen dat je nog nooit hebt gezien.",
+    "DESCRIPTIONS": [
+      "Drankjes verschijnen altijd in gevechtsbeloningen."
+    ]
+  },
+  "Boot": {
+    "NAME": "De Laars",
+    "FLAVOR": "Na het opwinden groeit de laars in omvang.",
+    "DESCRIPTIONS": [
+      "Wanneer je #b",
+      " of minder ongeblokkeerde aanvalsschade zou aanrichten, verhoog het tot #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Teken van de Bloei",
+    "FLAVOR": "In het Uiterste zijn gedachten en realiteit één.",
+    "DESCRIPTIONS": [
+      "Je kunt niet meer genezen."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Kapotte Kroon",
+    "FLAVOR": "De kroon van de Kampioen... of een flauwe namaak?",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Toekomstige kaartbeloningen hebben #b2 minder kaarten om uit te kiezen.",
+      "Krijg [E]"
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Wierookbrander",
+    "FLAVOR": "De rook doordrenkt de eigenaar met de geest van het verbrande.",
+    "DESCRIPTIONS": [
+      "Elke #b6 beurten, krijg #b1 #yOntastbaar."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Lege Kooi",
+    "FLAVOR": "\"Hoe ongebruikelijk om datgene wat je aanbidt in een kooi te stoppen.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verwijder #b2 kaarten uit je stok.",
+      "Kies 2 Kaarten om te Verwijderen."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusiehamer",
+    "FLAVOR": "Eenmaal gebruikt kan de eigenaar deze nooit meer loslaten.",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Je kunt niet meer #ySmeden bij Rustplaatsen.",
+      "Krijg [E]"
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Koffiedruppelaar",
+    "FLAVOR": "\"Ja, nog een kop alstublieft. Terug aan het werk. Terug aan het werk!\" - De Architect",
+    "DESCRIPTIONS": [
+      " aan het begin van je beurt. Je kunt niet meer #yRusten bij Rustplaatsen.",
+      "Krijg [E]"
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpenthoofd",
+    "FLAVOR": "De meest bevredigende levens zijn die waarin je alles kunt kopen!",
+    "DESCRIPTIONS": [
+      "Wanneer je een #y? kamer betreedt, verkrijg #b",
+      " #yGoud."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutagene Sterkte",
+    "FLAVOR": "\"De resultaten lijken vluchtig te zijn, het wordt teweeggebracht wanneer de proefpersoon in gevaar is.\" - Onbekend",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b",
+      " #ySterkte. Aan het einde van je eerste beurt, verlies #b",
+      " #ySterkte."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Gezicht van Cleric",
+    "FLAVOR": "Iedereen houdt van Cleric.",
+    "DESCRIPTIONS": [
+      "Aan het einde van een gevecht, verhoog je Max LP met #b1."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'loth's Hongerige Gezicht",
+    "FLAVOR": "Je hebt honger.",
+    "DESCRIPTIONS": [
+      "De volgende niet-Baas kist die je opent is leeg.",
+      ""
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin Gelaat",
+    "FLAVOR": "Tijd om te rennen.",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b1 #yZwak."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Sektelid Hoofddeksel",
+    "FLAVOR": "Deel van de Zwerm!",
+    "DESCRIPTIONS": [
+      "Je voelt je meer spraakzaam.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Het Telraam",
+    "FLAVOR": "\"Een...Twee...Drie...\"",
+    "DESCRIPTIONS": [
+      "Wanneer je je aflegstapel schudt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dolly's Spiegel",
+    "FLAVOR": "\"Ik zie er grappig uit hierin.\"",
+    "DESCRIPTIONS": [
+      "Bij het oppakken, verkrijg een extra kopie van een kaart in je stok.",
+      "Kies 1 Kaart om te Kopiëren."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Uurwerksouvenir",
+    "FLAVOR": "\"Zoveel ingewikkelde tandwielen.\"",
+    "DESCRIPTIONS": [
+      "Begin elk gevecht met #b1 #yArtefact."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Maaltijdbonnetje",
+    "FLAVOR": "\"Gratis gehaktballen bij elk bezoek!\"",
+    "DESCRIPTIONS": [
+      "Wanneer je een winkel betreedt, genees #b",
+      " LP."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Gedraaide Trechter",
+    "FLAVOR": "\"Ik zou er niet uit drinken.\"",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, pas #b4 #yGif toe op ALLE vijanden."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Handboor",
+    "FLAVOR": "\"Spiralen zijn gevaarlijk.\"",
+    "DESCRIPTIONS": [
+      "Wanneer je een vijands #yBlok doorbreekt, pas #b2 #yKwetsbaar toe."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Zwevende Vlieger",
+    "FLAVOR": "De Vlieger zweeft om je heen in de strijd, aangedreven door een mysterieuze kracht.",
+    "DESCRIPTIONS": [
+      "De eerste keer dat je een kaart aflegt tijdens een beurt, krijg [E] ."
+    ]
+  },
+  "Sling": {
+    "NAME": "Slinger van Moed",
+    "FLAVOR": "\"Een handig hulpmiddel om met bijzonder moeilijke tegenstanders af te rekenen.\"",
+    "DESCRIPTIONS": [
+      "Begin elk Elite gevecht met #b",
+      " #ySterkte."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Oranje Korrels",
+    "FLAVOR": "\"Gemaakt van verschillende schimmels die gevonden worden in de Spire. Werkt tegen elke kwaal.\"",
+    "DESCRIPTIONS": [
+      "Wanneer je een #yKracht, #yAanval, en #yVaardigheid speelt in dezelfde beurt, verwijder al je negatieve effecten."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Polsmes",
+    "FLAVOR": "Handig voor sluipmoorden.",
+    "DESCRIPTIONS": [
+      "#yAanvallen die #b0 kosten richten #b4 extra schade aan."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stenen Kalender",
+    "FLAVOR": "Het verstrijken van de tijd is niet waarneembaar in de Spire.",
+    "DESCRIPTIONS": [
+      "Aan het einde van beurt #b",
+      ", richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "Een handig wapen om mee te oefenen. Verbetert de houding en wendbaarheid van de gebruiker.",
+    "DESCRIPTIONS": [
+      "Elke keer dat je #b",
+      " #yAanvallen speelt, krijg [E] ."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Zwavel",
+    "FLAVOR": "Straalt een helse hitte uit.",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg #b",
+      " #ySterkte en ALLE vijanden krijgen #b",
+      " #ySterkte."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Geconserveerd Insect",
+    "FLAVOR": "Het insect lijkt een krimpende aura te creëren dat zich op bijzonder grote vijanden richt.",
+    "DESCRIPTIONS": [
+      "Vijanden in Elite gevechten hebben #b",
+      "% minder LP."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Zakhorloge",
+    "FLAVOR": "De wijzers staan stil op 3 uur..",
+    "DESCRIPTIONS": [
+      "Wanneer je #b3 of minder kaarten speelt gedurende je beurt, trek #b3 extra kaarten aan het begin van je volgende beurt."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Gefossiliseerde Helix",
+    "FLAVOR": "Schijnbaar onverwoestbaar, Je vraagt je af wat voor soort wezen dit was.",
+    "DESCRIPTIONS": [
+      "Voorkom de eerste keer dat je LP zou verliezen in elk gevecht."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatische Scherf",
+    "FLAVOR": "Als je door de scherf heen kijkt zie je alles in een volledig nieuw perspectief..",
+    "DESCRIPTIONS": [
+      "Gevechtsbeloningsschermen bevatten nu Kleurloze kaarten en kaarten van andere kleuren."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Kromgetrokken Tang",
+    "FLAVOR": "De vervloekte tang straalt een sterk verlangen uit om terug te keren naar waar deze was gestolen.",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, #yUpgrade een willekeurige kaart in je hand voor de rest van het gevecht."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Vleugellaarzen",
+    "FLAVOR": "Stijlvol.",
+    "DESCRIPTIONS": [
+      "Je mag #b3 keer paden negeren wanneer je de volgende kamer kiest om naartoe te gaan."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Muilbank",
+    "FLAVOR": "Verrassend populair, ondanks dat muilaanvallen regelmatig voorkomen.",
+    "DESCRIPTIONS": [
+      "Wanneer je een verdieping klimt, verkrijg #b",
+      " #yGoud. Werkt niet meer als je #yGoud uitgeeft in een winkel.",
+      "Deze relikwie is opgebruikt."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Keramische Vis",
+    "FLAVOR": "Zorgvuldig geverfd, deze vissen waren vereerd om veel rijkdom te brengen.",
+    "DESCRIPTIONS": [
+      "Telkens als je een kaart toevoegt aan je stok, krijg #b",
+      " #yGoud."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Geslagen Dummy",
+    "FLAVOR": "Het is in elkaar geslagen.",
+    "DESCRIPTIONS": [
+      "Kaarten die \"Slag\" bevatten, richten #b",
+      " extra schade aan."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Paarse Lotus",
+    "FLAVOR": "De oude teksten beschrijven dat het oppervlak van \"mana plassen\" waren bezaaid met deze bloemen.",
+    "DESCRIPTIONS": [
+      "Telkens als je #yKalmte verlaat, krijg een extra [E] ."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Heilige Schors",
+    "FLAVOR": "Een stuk schors waarover het gerucht gaat dat het afkomstig is van de Wereldboom.",
+    "DESCRIPTIONS": [
+      "Verdubbel de effectiviteit van drankjes."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Traanmedaillon",
+    "FLAVOR": "De eigenaar blind, zijn inhoud ongezien.",
+    "DESCRIPTIONS": [
+      "Start elk gevecht in #yKalmte."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Slavenhalsband",
+    "FLAVOR": "Roestige ellendige kettingen.",
+    "DESCRIPTIONS": [
+      "Tijdens Baas en Elite gevechten, krijg [E] aan het begin van je beurt."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Je eerste Aanval in elk gevecht richt #b",
+      " extra schade aan."
+    ]
+  },
+  "Yang": {
+    "NAME": "Dualiteit",
+    "FLAVOR": "\"En de zon was voor altijd gedoofd, alsof het doek er overheen was gevallen.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yAanval speelt, krijg #b1 tijdelijke #yBehendigheid."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Mantelgesp",
+    "FLAVOR": "Een simpel maar stevig ontwerp.",
+    "DESCRIPTIONS": [
+      "Aan het einde van je beurt, krijg #b",
+      " #yBlok voor elke kaart in je hand."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Mysterieuze zanden van een onbekende afkomst. Ruikt naar kaneel.",
+    "DESCRIPTIONS": [
+      "Telkens als je je trekstapel schudt, #yScry #b",
+      "."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "Je kunt geen licht hebben zonder duisternis. Of kan dat??",
+    "DESCRIPTIONS": [
+      "Telkens als je een #yVaardigheid speelt, krijg #b1 tijdelijke #ySterkte."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Inktpot",
+    "FLAVOR": "Wanneer deze leeg is, blijkt het zich te hervullen in een andere kleur.",
+    "DESCRIPTIONS": [
+      "Telkens als je #b10 kaarten speelt, trek #b1 kaart."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Wolfraam Staaf",
+    "FLAVOR": "Het is heel erg zwaar.",
+    "DESCRIPTIONS": [
+      "Telkens als je LP zou verliezen, verlies #b",
+      " minder."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Wijwater",
+    "FLAVOR": "Verzameld in een tijd vóór de Spire.",
+    "DESCRIPTIONS": [
+      "Vervangt #pPuur #pWater. Aan het begin van elk gevecht, voeg #b3 #yMirakels toe aan je hand."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Puur Water",
+    "FLAVOR": "Gefiltreerd door fijn zand en vrij van onzuiverheden.",
+    "DESCRIPTIONS": [
+      "Aan het begin van elk gevecht, voeg een #yMirakel toe aan je hand."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Klamp",
+    "FLAVOR": "Prettig om vast te houden. Waar was het ook alweer voor?",
+    "DESCRIPTIONS": [
+      "Aan het begin van je 2e beurt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Kapiteinswiel",
+    "FLAVOR": "Houten sieraad gekerfd met delicate precisie. Er is een naam ingekerfd maar de taal is vreemd.",
+    "DESCRIPTIONS": [
+      "Aan het begin van je 3e beurt, krijg #b",
+      " #yBlok."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Gouden Oog",
+    "FLAVOR": "Kijk in de gedachten van zij die dichtbij zijn en voorspel hun toekomstige zetten.",
+    "DESCRIPTIONS": [
+      "Telkens als je #yScry gebruikt, #yScry #b",
+      " extra kaarten."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "Het geluid van de kleine drum houdt je wakker en onthult een pad voorwaarts.",
+    "DESCRIPTIONS": [
+      "Aan het begin van je beurt, krijg #b",
+      " #yMantra."
+    ]
+  }
+}

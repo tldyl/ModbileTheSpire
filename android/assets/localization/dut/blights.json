@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Speer der Ziekte",
+    "DESCRIPTION": [
+      "Vijanden richten #b",
+      "% meer schade aan."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Schild der Ziekte",
+    "DESCRIPTION": [
+      "Vijanden hebben #b",
+      "% meer LP."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Tijdsdoolhof",
+    "DESCRIPTION": [
+      "Je kan niet meer dan #b",
+      " kaarten per beurt spelen.",
+      "Ik kan alleen tot NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Verdraaide Gedachten",
+    "DESCRIPTION": [
+      "Aan het einde van je beurt, voeg #b",
+      " willekeurige Status kaart toe bovenop je trekstapel.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Vervloekt",
+    "DESCRIPTION": [
+      "Wanneer je een Baas verslaat, ontvang #b",
+      "willekeurige #yVloeken.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Warhoofd",
+    "DESCRIPTION": [
+      "Trek #b",
+      " kaart minder per beurt.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Nabootsende Plaag",
+    "DESCRIPTION": [
+      "Schatkamers in toekomstige aktes zijn vervangen door Elites. Elites geven geen relikwieën meer."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Muilkorf",
+    "DESCRIPTION": [
+      "Je kunt je Max LP niet meer verhogen. Alle genezing is gehalveerd."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteske Trofee",
+    "DESCRIPTION": [
+      "Bij het oppakken krijg je #b",
+      " #rTrots.",
+      "Jouw Trots is verdraaid..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Post-Durian",
+    "DESCRIPTION": [
+      "Verlies #b",
+      "% van je Max LP."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Leegte Essentie",
+    "DESCRIPTION": [
+      "Krijg #b",
+      " minder [E] aan het begin van elke beurt."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Rondspokend",
+    "DESCRIPTION": [
+      "Vijanden beginnen het gevecht met #b",
+      " #yOntastbaar."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Aloude Vermeerdering",
+    "DESCRIPTION": [
+      "Vijanden beginnen het gevecht met #b",
+      " #yArtefact, #b",
+      " #yGepantserde #yBescherming, en #b",
+      " #yRegeneratie."
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "全明星",
+    "DESCRIPTION": "開始時擁有五張隨機無色牌"
+  },
+  "Binary": {
+    "NAME": "兩者擇一",
+    "DESCRIPTION": "卡牌獎勵只有兩張牌"
+  },
+  "Brewmaster": {
+    "NAME": "（已停用）製藥大師",
+    "DESCRIPTION": "開始時擁有5張「煉製藥水」牌和遺物「白獸雕像」"
+  },
+  "Cursed Run": {
+    "NAME": "詛咒局",
+    "DESCRIPTION": "每打敗一名首領都被詛咒。你的初始遺物被替換成詛咒鑰匙、黑石護符和毒巫娃娃"
+  },
+  "Diverse": {
+    "NAME": "涉獵廣泛",
+    "DESCRIPTION": "卡牌不再受到角色限制"
+  },
+  "Draft": {
+    "NAME": "選秀",
+    "DESCRIPTION": "通過15輪選牌來決定你的初始牌組"
+  },
+  "Elite Swarm": {
+    "NAME": "精英獵手",
+    "DESCRIPTION": "高塔中現在滿是精英，而且擊敗他們的獎勵變得更好"
+  },
+  "Heirloom": {
+    "NAME": "傳家寶",
+    "DESCRIPTION": "開始時獲得一件稀有遺物"
+  },
+  "Hoarder": {
+    "NAME": "囤積癖",
+    "DESCRIPTION": "每當你加入一張卡牌到牌組中時，都將額外增加兩張相同卡牌。你不能透過商人移除卡牌"
+  },
+  "Insanity": {
+    "NAME": "精神錯亂",
+    "DESCRIPTION": "初始牌組將是50張隨機卡牌"
+  },
+  "Lethality": {
+    "NAME": "死鬥",
+    "DESCRIPTION": "你在每場戰鬥開始時獲得+3力量，所有敵人在戰鬥開始時獲得+3力量"
+  },
+  "Midas": {
+    "NAME": "點金手",
+    "DESCRIPTION": "敵人掉落200%金幣，但你不能在休息處鍛造升級卡牌"
+  },
+  "Night Terrors": {
+    "NAME": "暗夜驚魂",
+    "DESCRIPTION": "在營地休息回復100%生命，但會降低5點最大生命值"
+  },
+  "Shiny": {
+    "NAME": "金光閃閃",
+    "DESCRIPTION": "初始牌組被替換為所有稀有牌各一張"
+  },
+  "Specialized": {
+    "NAME": "專精",
+    "DESCRIPTION": "開始時得到5張相同的牌"
+  },
+  "Terminal": {
+    "NAME": "身患絕症",
+    "DESCRIPTION": "每當你進入一個新房間時，失去1點最大生命。你在每場戰鬥開始時獲得5層多層護甲"
+  },
+  "Time Dilation": {
+    "NAME": "時間膨脹",
+    "DESCRIPTION": "所有敵人初始被賦予「緩慢」負面效果"
+  },
+  "Uncertain Future": {
+    "NAME": "前路已定",
+    "DESCRIPTION": "地圖上只有一條道路"
+  },
+  "Vintage": {
+    "NAME": "上等好貨",
+    "DESCRIPTION": "普通敵人不再掉落卡牌，而是掉落遺物"
+  },
+  "Endless": {
+    "NAME": "無盡",
+    "DESCRIPTION": "在獲勝後你將保留牌組回到塔底。可是不要驕傲大意，因為高塔荒疫終將吞噬一切……"
+  },
+  "One Hit Wonder": {
+    "NAME": "一血傳奇",
+    "DESCRIPTION": "初始最大生命值為1"
+  },
+  "Starter Deck": {
+    "NAME": "起始牌組",
+    "DESCRIPTION": "初始擁有「破碎金冠」與「兩者擇一」，即敵人不再掉落牌"
+  },
+  "Praise Snecko": {
+    "NAME": "讚美異蛇",
+    "DESCRIPTION": "將初始遺物變為異蛇之眼"
+  },
+  "Inception": {
+    "NAME": "全面啟動",
+    "DESCRIPTION": "將初始遺物變為不休陀螺"
+  },
+  "My True Form": {
+    "NAME": "完美形態",
+    "DESCRIPTION": "初始擁有「惡魔形態」、「幽魂形態」、「迴響形態」、「天人形態」各一張"
+  },
+  "Blight Chests": {
+    "NAME": "荒疫箱",
+    "DESCRIPTION": "在無盡模式第一次完成第三階段後，以後的首領寶箱將會強制獲得荒疫"
+  },
+  "Stunted Growth": {
+    "NAME": "成長受阻",
+    "DESCRIPTION": "在無盡模式第一次完成第三階段後，敵人不再掉落牌"
+  },
+  "Blue Cards": {
+    "NAME": "藍色牌",
+    "DESCRIPTION": "卡牌獎勵與商店會出現藍色牌"
+  },
+  "Red Cards": {
+    "NAME": "紅色牌",
+    "DESCRIPTION": "卡牌獎勵與商店會出現紅色牌"
+  },
+  "Colorless Cards": {
+    "NAME": "無色牌",
+    "DESCRIPTION": "無色牌會更加頻繁地出現"
+  },
+  "Green Cards": {
+    "NAME": "綠色牌",
+    "DESCRIPTION": "卡牌獎勵與商店會出現綠色牌"
+  },
+  "SealedDeck": {
+    "NAME": "現開套牌",
+    "DESCRIPTION": "從30張隨機牌中選擇10張來構築初始牌組"
+  },
+  "IntelligentEnemies": {
+    "NAME": "狡詐強敵",
+    "DESCRIPTION": "所有敵人的能力和行動模式得到加強"
+  },
+  "MonsterHunter": {
+    "NAME": "（已停用）巨大化",
+    "DESCRIPTION": "敵人獲得額外生命，但掉落獎勵也變得更好"
+  },
+  "NeowTime": {
+    "NAME": "涅奧時間",
+    "DESCRIPTION": "從涅奧得到三個祝福和一個荒疫"
+  },
+  "Flight": {
+    "NAME": "飛行",
+    "DESCRIPTION": "在選擇每一層房間時可以無視路線"
+  },
+  "ControlledChaos": {
+    "NAME": "亂中有序",
+    "DESCRIPTION": "初始擁有「凍結之眼」遺物，在你的回合開始時，增加10張隨機牌放到抽牌堆底部"
+  },
+  "Careless": {
+    "NAME": "粗心大意",
+    "DESCRIPTION": "你的每回合開始時，丟棄抽牌堆頂的牌"
+  },
+  "Chimera": {
+    "NAME": "奇美拉",
+    "DESCRIPTION": "你的初始牌組是所有角色的混合"
+  },
+  "DeadlyEvents": {
+    "NAME": "致命事件",
+    "DESCRIPTION": "？房間現在可能會出現精英，但寶箱房的機率也會上升"
+  },
+  "Daily Mods": {
+    "NAME": "日常特效",
+    "DESCRIPTION": "以隨機三種每日特效開始一局遊戲"
+  },
+  "The Ending": {
+    "NAME": "終幕",
+    "DESCRIPTION": "允許進入終幕"
+  },
+  "Purple Cards": {
+    "NAME": "紫色牌",
+    "DESCRIPTION": "卡牌獎勵和商店中會出現紫色牌。"
+  }
+}

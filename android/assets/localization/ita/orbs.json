@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPassiva: A fine turno, il danno da evocazione di questo Globo aumenta di #b",
+      ". NL #yEvoca: Infligge #b",
+      " danni al nemico con meno PV."
+    ],
+    "NAME": "Oscurità"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Questi spazi possono ospitare i tuoi Globi."
+    ],
+    "NAME": "Globi"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPassiva: A fine turno, #yBlocca #b",
+      " . NL #yEvoca: #yBlocca ",
+      " ."
+    ],
+    "NAME": "Ghiaccio"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPassiva: A fine turno, infligge #b",
+      " danni a un nemico casuale. NL #yEvoca: infligge #b",
+      " danni a un nemico casuale."
+    ],
+    "NAME": "Fulmine"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPassiva: Ad inizio turno ottieni [B] . NL #yEvoca: ottieni #b",
+      " [B] . NL Il #yFocus non influisce sul Plasma."
+    ],
+    "NAME": "Plasma"
+  }
+}

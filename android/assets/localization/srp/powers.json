@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Прецизност",
+    "DESCRIPTIONS": [
+      "#yНожеви задају #b",
+      " додатне штете."
+    ]
+  },
+  "After Image": {
+    "NAME": "Обриси",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш карту, задоби #b",
+      " #yодбране."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Anger": {
+    "NAME": "Разбеснелост",
+    "DESCRIPTIONS": [
+      "Сваки пут кад одиграш #yумеће, #yснага му се повећава за #b ",
+      "."
+    ]
+  },
+  "Angry": {
+    "NAME": "Љут",
+    "DESCRIPTIONS": [
+      "Сваки пут када ",
+      " прими штету од #yнапада, #yснага му се повећава за #b",
+      "."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Заштита",
+    "DESCRIPTIONS": [
+      "Негира #b",
+      " негативан статус.",
+      " негативна статуса."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Attack Burn",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Barricade": {
+    "NAME": "Барикада",
+    "DESCRIPTIONS": [
+      "#yОдбрана се не уклања на почетку потеза.",
+      "#yОдбрана се не уклања на почетку потеза."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Разјарен",
+    "DESCRIPTIONS": [
+      "Задоби ",
+      " на почетку свог потеза."
+    ]
+  },
+  "Bias": {
+    "NAME": "Крајњи протоколи",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, изгуби количину #yпотентности: #b",
+      "."
+    ]
+  },
+  "Blur": {
+    "NAME": "Трк",
+    "DESCRIPTIONS": [
+      "#yОдбрана се не уклања на почетку следећег потеза.",
+      "#yОдбрана се не уклања на почетку наредних потеза ( #b ).",
+      ""
+    ]
+  },
+  "Brutality": {
+    "NAME": "Бруталност",
+    "DESCRIPTIONS": [
+      "На почетку потеза, изгуби #b",
+      " ж. п. и вуци #b",
+      " карту.",
+      "На почетку потеза, изгуби #b",
+      " ж. п. и вуци #b",
+      " карте."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Превентивне мере",
+    "DESCRIPTIONS": [
+      "Спречи следеће губљење ж. п.",
+      "Спречи губљење ж. п. следећих неколико пута: #b",
+      "."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Замрзнуто време",
+    "DESCRIPTIONS": [
+      "Зелене карте су #bбесплатне."
+    ]
+  },
+  "Burst": {
+    "NAME": "Навала",
+    "DESCRIPTIONS": [
+      "Овај потез, следеће #yумеће одиграј двапут.",
+      "Овај потез, следеће #yумеће ",
+      " одиграј двапут."
+    ]
+  },
+  "Choked": {
+    "NAME": "Дављен",
+    "DESCRIPTIONS": [
+      "Губи #b",
+      " ж. п. сваки пут када овај потез одиграш карту."
+    ]
+  },
+  "Combust": {
+    "NAME": "Сагоревање",
+    "DESCRIPTIONS": [
+      "На крају потеза, изгуби #b",
+      " ж. п. и задај #b",
+      " штете СВИМ непријатељима."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Збуњен",
+    "DESCRIPTIONS": [
+      "Свака вучена карта кошта насумичну количину енергије."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Уштеда",
+    "DESCRIPTIONS": [
+      "#yЕнергија се преноси овај круг.",
+      "#yЕнергија се преноси следећих неколико кругова: #b",
+      "."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Стегнут",
+    "DESCRIPTIONS": [
+      "Прими #b",
+      " штете на крају свог потеза."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Надимање",
+    "DESCRIPTIONS": [
+      "Када овај непријатељ умре, нанеси СВИМ непријатељима штету једнаку његовим макс. ж. п.",
+      "Када овај непријатељ умре, нанеси СВИМ непријатељима штету једнаку његовим макс. ж. п. пута #b",
+      "."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Подлост",
+    "DESCRIPTIONS": [
+      "Умећа су #bбесплатна. Сваки пут када одиграш #yумеће, #yисцрпи га.",
+      "Сваки пут када одиграш #yумеће, #yисцрпи га."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Умрежавање4",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, додај број насумичних моћи у руку: #b",
+      ".",
+      "."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Знатижеља",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #yмоћ, #yснага му се повећава за #b",
+      "."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Склупчан",
+    "DESCRIPTIONS": [
+      "По примању штете од #yнапада, склупча се и задобија ",
+      " #yодбране (једном по борби)."
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Dance Puppet",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Мрачни загрљај",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yисцрпиш карту, вуци #bједну карту.",
+      "Сваки пут када #yисцрпиш карту, вуци карте ( #b )",
+      "."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Ђавоиман",
+    "DESCRIPTIONS": [
+      "На почетку сваког потеза, повећај своју #yснагу за #b",
+      "."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Смањење окретности",
+    "DESCRIPTIONS": [
+      "На крају потеза, смањи своју #yокретност за #b",
+      "."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Окретност",
+    "DESCRIPTIONS": [
+      "Повећава количину #yодбране коју добијаш од карата за #b",
+      "Смањује количину #yодбране коју добијаш од карата за #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Двострука штета",
+    "DESCRIPTIONS": [
+      "#yНапади наносе двоструку штету #b",
+      " круг.",
+      " круга."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Је'н-два",
+    "DESCRIPTIONS": [
+      "Одиграј свој следећи #yнапад двапут у овом потезу.",
+      "Одиграј својих неколико ( ",
+      " ) #yнапада у овом потезу."
+    ]
+  },
+  "Draw": {
+    "NAME": "Вуци више",
+    "DESCRIPTIONS": [
+      "Вуци #b",
+      " додатну карту на почетку сваког потеза.",
+      " мање карту на почетку сваког потеза.",
+      " додатне карте на почетку сваког потеза.",
+      " мање карте на почетку сваког потеза."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Вуци карте",
+    "DESCRIPTIONS": [
+      "Вуци #b",
+      " карте следећи потез.",
+      " карту следећи потез."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Вуци мање",
+    "DESCRIPTIONS": [
+      "Вуци #b",
+      " мање карту следећи потез.",
+      " мање карте следећи потез."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Смањено вучење",
+    "DESCRIPTIONS": [
+      "Вуци #bједну мање карту следећи потез.",
+      "Вуци #bједну мање карту следећа #b",
+      " потеза."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Ехо форма",
+    "DESCRIPTIONS": [
+      "Прва карта одиграна сваки потез је одиграна двапут.",
+      "Првих неколико ( #b",
+      " ) карата одиграних сваки потез је одиграно двапут."
+    ]
+  },
+  "Electro": {
+    "NAME": "Електро",
+    "DESCRIPTIONS": [
+      "#yМуње ударају СВЕ непријатеље.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Енергизован",
+    "DESCRIPTIONS": [
+      "Задоби #b",
+      " додатну [G] следећи потез.",
+      " додатне [G] следећи потез.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Енергизован",
+    "DESCRIPTIONS": [
+      "Задоби #b",
+      " додатну [B] следећи потез.",
+      " додатне [B] следећи потез.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Упетљан",
+    "DESCRIPTIONS": [
+      "Не можеш одиграти #yнападе један потез."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Тровање",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yнападом задаш неодбрањену штету, нанеси #yотрова: #b",
+      "."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Равнотежа",
+    "DESCRIPTIONS": [
+      "Задржи своју руку овај потез.",
+      "Задржи своју руку следећих неколико потеза: #b",
+      "."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Еволуција",
+    "DESCRIPTIONS": [
+      "Сваки пут када вучеш #yстање, вуци једну карту.",
+      "Сваки пут када вучеш #yстање, вуци #b",
+      " карте."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Експлозиван",
+    "DESCRIPTIONS": [
+      "За #b",
+      " круга, експлодира задајући #b",
+      " штете.",
+      "Експлодира у свом потезу, наносећи #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Додатне карте",
+    "DESCRIPTIONS": [
+      "Вуци #bједну више карту следећи потез.",
+      "Вуци #b",
+      " додатне карте следећи потез."
+    ]
+  },
+  "Fading": {
+    "NAME": "Ишчежњавајући",
+    "DESCRIPTIONS": [
+      "Умире за #b",
+      " круга.",
+      "Умире овај круг."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Безстрадалан",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yисцрпиш карту, задоби #b",
+      " #yодбране."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Бљување ватре",
+    "DESCRIPTIONS": [
+      "На крају потеза, задај штету ( #b",
+      " ) СВИМ непријатељима за сваки одигран #yнапад."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Пламене баријера",
+    "DESCRIPTIONS": [
+      "Сваки пут кад те неко у овом кругу нападне, задај му #b",
+      " штете."
+    ]
+  },
+  "Flex": {
+    "NAME": "Смањење снаге",
+    "DESCRIPTIONS": [
+      "На крају потеза, смањи своју #yснагу за #b",
+      "."
+    ]
+  },
+  "Flight": {
+    "NAME": "Лет",
+    "DESCRIPTIONS": [
+      "Смањује примљену штету од #yнапада за #b50%. Прекинуто ако прими штету од #yнапада #bтри пута у једном кругу.",
+      " times in one turn."
+    ]
+  },
+  "Focus": {
+    "NAME": "Потентност",
+    "DESCRIPTIONS": [
+      "Повећава ефективност сфера за #b",
+      "Смањује ефективност сфера за #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Крхак",
+    "DESCRIPTIONS": [
+      "Задобијаш #b25% мање #yодбране од карата, #b",
+      " следећи потез.",
+      " следећа потеза."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Gambit",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Раст",
+    "DESCRIPTIONS": [
+      "На крају свог потеза, повећава своју #yснагу за #b",
+      "."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Хладњаци",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш моћ, вуци број карата: #b",
+      ".",
+      "."
+    ]
+  },
+  "Hello": {
+    "NAME": "Основни програм",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, додај број насумичних обичних карата ( #b",
+      " ) у руку.",
+      " ) у руку."
+    ]
+  },
+  "Hex": {
+    "NAME": "Омађијан",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш не-напад, додај #b",
+      " #yошамућеност у гомилу за вучење."
+    ]
+  },
+  "Hide": {
+    "NAME": "Hide",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Безброј оштрица",
+    "DESCRIPTIONS": [
+      "На крају свог потеза, вуци #b",
+      " #yножа.",
+      " #yнож."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Неопипљив",
+    "DESCRIPTIONS": [
+      "Смањује СВУ примљену штету и изгубљене ж. п. на #један овај круг. Постаје неопипљив сваки други круг."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Неопипљив",
+    "DESCRIPTIONS": [
+      "Смањи СВУ примљену штету и губитак ж. п. на #bједан."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Inverted",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Сивоња",
+    "DESCRIPTIONS": [
+      "Сваки пут када задобијеш #yодбрану, задај #b",
+      " штете насумичном непријатељу."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Knowledge",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Life Link": {
+    "NAME": "Животна веза",
+    "DESCRIPTIONS": [
+      "Ако су остали непријатељи и даље живи, оживљава се за #bдва круга на #b50% ж. п."
+    ]
+  },
+  "Lockon": {
+    "NAME": "На нишану",
+    "DESCRIPTIONS": [
+      "Сфере #yмуње и #yтаме циљају овог непријатеља следећих неколико потеза: #b",
+      ".",
+      "Сфере #yмуње и #yтаме циљају овог непријатеља током овог потеза.",
+      " turns."
+    ]
+  },
+  "Loop": {
+    "NAME": "Петља",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, искористи пасивну способност своје главне сфере.",
+      "На почетку свог потеза, искористи пасивну способност своје главне сфере #b",
+      " пута."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Тајни механизми",
+    "DESCRIPTIONS": [
+      "Вуци број карата ( #b",
+      " ) на почетку сваког потеза.",
+      " ) на почетку сваког потеза."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Магнетизам",
+    "DESCRIPTIONS": [
+      "На почетку сваког потеза, додај насумичну безбојну карту у руку.",
+      "На почетку сваког потеза, додај неколико ( #b%s ) насумичних безбојних карата у руку."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Прилагодљив",
+    "DESCRIPTIONS": [
+      "По примању штете од #yнапада, задобија #b",
+      " #yодбране. Количина задобијене #yодбране се повећава сваки пут када се ",
+      " активира. Враћа се на #b",
+      " на почетку твог потеза."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Расуло",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, одиграј карту са врха гомиле за вучење.",
+      "На почетку свог потеза, са гомиле за вучење одиграј следећи број карата: #b",
+      "."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Очеличен",
+    "DESCRIPTIONS": [
+      "На крају потеза, задоби #b",
+      " #yодбране.",
+      "На крају потеза, задобија #b",
+      " #yодбране."
+    ]
+  },
+  "Minion": {
+    "NAME": "Поданик",
+    "DESCRIPTIONS": [
+      "Поданици беже из борбе без свог вође."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Промена режима",
+    "DESCRIPTIONS": [
+      "Након примања #b",
+      " штете, мења режим у одбрамбени."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Одбрана у следећем потезу",
+    "DESCRIPTIONS": [
+      "На почетку свог следећег потеза, задоби #b",
+      " #yодбране."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Ноћна мора",
+    "DESCRIPTIONS": [
+      "На почетку следећег потеза, додај #b",
+      " карте у руку."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Без напада",
+    "DESCRIPTIONS": [
+      "Не можеш да одиграш #yнападе овај потез."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Без вучења",
+    "DESCRIPTIONS": [
+      "Не можеш да вучеш карте до краја потеза."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Неодбрањен",
+    "DESCRIPTIONS": [
+      "Не можеш да задобијаш #yодбрану од карата."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Смртоносна испарења",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, нанеси #yотров ( #b",
+      " ) СВИМ непријатељима."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Nullify Attack",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Болни убоди",
+    "DESCRIPTIONS": [
+      "Сваки пут када примиш штету од овог непријатеља, додај #yрану у гомилу за одбацивање."
+    ]
+  },
+  "Panache": {
+    "NAME": "Елан",
+    "DESCRIPTIONS": [
+      "Ако одиграш још #b",
+      " карту овај потез, нанеси #b",
+      " штете СВИМ непријатељима.",
+      " карте/карата овај потез, нанеси #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Врх пенкала",
+    "DESCRIPTIONS": [
+      "Твој следећи #yнапад наноси двоструку штету."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Фантом",
+    "DESCRIPTIONS": [
+      "Наносиш #yдвоструку #yштету следећи потез.",
+      "Наносиш #yдвоструку #yштету следећа ",
+      " потеза."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Опточени оклоп",
+    "DESCRIPTIONS": [
+      "Задоби #b",
+      " #yодбране на крају свог потеза. Губљење ж. п. од напада смањује #yопточени #yоклоп за #bједан.",
+      "Задобија #b",
+      " #yодбране на крају свог потеза. Губљење ж. п. од напада смањује #yопточени #yоклоп за #bједан."
+    ]
+  },
+  "Poison": {
+    "NAME": "Отров",
+    "DESCRIPTIONS": [
+      "На почетку твог потеза, губиш #b",
+      " ж. п., потом смањује #yотров за #bједан.",
+      "На почетку свог потеза, губи #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Подешавања",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yпризовеш сферу, вуци број карата: #b",
+      ".",
+      "."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Rage": {
+    "NAME": "Бес",
+    "DESCRIPTIONS": [
+      "Сваки пут када у овом потезу одиграш напад, задоби #b",
+      " #yодбране."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Поврат",
+    "DESCRIPTIONS": [
+      "Следећа карта коју одиграш овај потез ће бити стављена на врх гомиле за вучење.",
+      "Следећих неколико карата ( #b",
+      " ) које одиграш овај потез ће бити стављене на врх гомиле за вучење."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Reduce Damage",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Лечење",
+    "DESCRIPTIONS": [
+      "Лечи #b",
+      " #yж. #yп. на крају свог потеза."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Лечење",
+    "DESCRIPTIONS": [
+      "На крају свог потеза, залечи #b",
+      " #yж. #yп., па потом смањи #yлечење за један.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Оправка",
+    "DESCRIPTIONS": [
+      "Залечи #b",
+      " ж. п. на крају борбе."
+    ]
+  },
+  "Repulse": {
+    "NAME": "Repulse",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Задржи карте",
+    "DESCRIPTIONS": [
+      "На крају сваког потеза, можеш задржати #b",
+      " карту.",
+      " карте."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Retain Hand",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Riposte": {
+    "NAME": "Riposte",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Ritual": {
+    "NAME": "Бајање",
+    "DESCRIPTIONS": [
+      "На крају свог потеза, повећава своју #yснагу за #b",
+      ".",
+      "At the end of your turn, gain #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "Кидисање",
+    "DESCRIPTIONS": [
+      "Сваки пут када изгубиш ж. п. од карте, повећај своју #yснагу за #b",
+      "."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Садиста",
+    "DESCRIPTIONS": [
+      "Сваки пут када нанесеш негативни статус непријатељу, такође задај #b",
+      " штете."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Shackled": {
+    "NAME": "Окови",
+    "DESCRIPTIONS": [
+      "Враћа #b",
+      " на #yснагу на крају свог потеза."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Оштра кожа",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #yнапад, прими #b",
+      " штете."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Непостојан",
+    "DESCRIPTIONS": [
+      "Сваки пут када ",
+      " прими штету, губи исто толико #yснаге до краја круга."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Shriek From Beyond",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Skill Burn",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Slow": {
+    "NAME": "Успорен",
+    "DESCRIPTIONS": [
+      "За сваку карту одиграну у овом потезу, ",
+      " прима #b10% више штете од #yнапада",
+      " (прима #b",
+      "% више штете)."
+    ]
+  },
+  "Split": {
+    "NAME": "Деоба",
+    "DESCRIPTIONS": [
+      "Када се ",
+      " нађе на или испод #b50% ж. п., раздваја се у #bдве мање слузи које преузимају њене тренутне ж. п."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Облак спора",
+    "DESCRIPTIONS": [
+      "По смрти, наноси ти #рањивост на #b",
+      " кругова."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Димензионални џеп",
+    "DESCRIPTIONS": [
+      "По смрти, карта ",
+      " ти се враћа у руку."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Статичко пражњење",
+    "DESCRIPTIONS": [
+      "Сваки пут када примиш штету од #yнапада, #yпризови #yмуње: #b",
+      "."
+    ]
+  },
+  "Storm": {
+    "NAME": "Олуја",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #bмоћ, #yпризови број #yмуња: #b",
+      "."
+    ]
+  },
+  "Strength": {
+    "NAME": "Снага",
+    "DESCRIPTIONS": [
+      "Повећава штетност напада за #b",
+      "Смањује штетност напада за #b",
+      "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "Бомба",
+    "DESCRIPTIONS": [
+      "На крају %1$s. потеза, задај %2$s штете СВИМ непријатељима.",
+      "На крају овог потеза, задај %1$s штете СВИМ непријатељима."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Отимање",
+    "DESCRIPTIONS": [
+      " краде #b",
+      " #yзлата сваки пут када нападне."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Бодље",
+    "DESCRIPTIONS": [
+      "По примању штете од #yнапада, задаје #b",
+      " штете заузврат."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Хиљаду резова",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш карту, задај #b",
+      " штете СВИМ непријатељима."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Временско витоперје",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #b",
+      " карата, твој потез се завршава и Гутач времена добија #b",
+      " на #yснагу."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Временски лавиринт",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #b",
+      " карата, завршаваш свој потез."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Алатке",
+    "DESCRIPTIONS": [
+      "На почетку свог потеза, вуци #b",
+      " карту и одбаци #b",
+      " карту.",
+      " карте и одбаци #b",
+      " карте."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Непробуђен",
+    "DESCRIPTIONS": [
+      "Овај непријатељ се још увек није пробудио..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Unstable",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Venomology": {
+    "NAME": "Venomology",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Рањив",
+    "DESCRIPTIONS": [
+      "Прима #b",
+      "% више штете од #yнапада. Траје #b",
+      " потез.",
+      " потеза."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Ослабљен",
+    "DESCRIPTIONS": [
+      "#yНапади наносе #b",
+      "% мање штете. Траје #b",
+      " потез.",
+      " потеза."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Утвара",
+    "DESCRIPTIONS": [
+      "На крају свог потеза, изгуби #yокретност ( #b",
+      " )."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage and increase this powers damage by #b1. Resets every turn."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100.",
+      " more HP this round.",
+      "Can no longer be harmed this round."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Free Attack Power",
+    "DESCRIPTIONS": [
+      "Ignore energy cost on the next #yAttack you play.",
+      "Ignore energy cost on the next #b",
+      " #yAttacks you play."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "Your next card is played twice this turn.",
+      "Your next ",
+      " cards are played twice this turn."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "No Skills",
+    "DESCRIPTIONS": [
+      "You cannot play #ySkills this turn."
+    ]
+  },
+  "Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTIONS": [
+      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Master Reality",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      "s into your hand.",
+      " into your hand.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+    ]
+  },
+  "Retribution": {
+    "NAME": "Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Establishment",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yRetained, lower its cost by #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Controlled",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega Power",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal ",
+      " damage to ALL enemies."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, #yUpgrade it.",
+      " Block."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Wireheading",
+    "DESCRIPTIONS": [
+      "At the end of your turn, #yScry ",
+      "."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTIONS": [
+      "The first card you draw each turn has its cost reduced by #b",
+      " that turn.",
+      " #ySmite into your hand."
+    ]
+  },
+  "Grounded": {
+    "NAME": "Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "When you obtain #b",
+      " #yMantra, enter #yDivinity."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Strike Up",
+    "DESCRIPTIONS": [
+      "Cards containing #yStrike deal #b",
+      " additional damage."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Adaptation",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Cannot Change Stance",
+    "DESCRIPTIONS": [
+      "Cannot change your stance this turn."
+    ]
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTIONS": [
+      "Receives #b",
+      " damage at the start of your next turn."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Block Return",
+    "DESCRIPTIONS": [
+      "When attacked, you gain #b",
+      " #yBlock."
+    ]
+  },
+  "HotHot": {
+    "NAME": "Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Collect": {
+    "NAME": "Collect",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain [B] [B] .",
+      "At the start of your next #b",
+      " turns, gain [B] [B] ."
+    ]
+  },
+  "Condense": {
+    "NAME": "Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Serenity": {
+    "NAME": "Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Blasphemer",
+    "DESCRIPTIONS": [
+      "At the start of your turn, die."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Vigor",
+    "DESCRIPTIONS": [
+      "Your next Attack deals #b",
+      " additional damage."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Devotion",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Simmering Rage",
+    "DESCRIPTIONS": [
+      "Enter #yWrath at the start of your turn."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [W] ",
+      "At the start of your turn, gain [W] #b",
+      " times ",
+      "and increase this by #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenver you #yScry, #yScry #b",
+      " additional cards."
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Wave Of The Hand",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "Wave Of The Hand2",
+    "DESCRIPTIONS": [
+      "Whenever you gain change #yStances, apply #b",
+      " #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "Discipline",
+    "DESCRIPTIONS": [
+      "If you end your turn with unused [W]  , draw that many additional cards next turn."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Path to Victory",
+    "DESCRIPTIONS": [
+      "Whenever you play #yPath #yto #yVictory, loses #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+      "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
+    ]
+  }
+}

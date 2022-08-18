@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "정밀",
+    "DESCRIPTIONS": [
+      "#y단도의 피해량이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "추월",
+    "DESCRIPTIONS": [
+      "#y진노할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
+    ]
+  },
+  "After Image": {
+    "NAME": "잔상",
+    "DESCRIPTIONS": [
+      "카드를 사용할 때마다 #y방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Amplify": {
+    "NAME": "증폭",
+    "DESCRIPTIONS": [
+      "이번 턴에 사용하는 다음 #y파워 카드를 두 번 사용합니다.",
+      "이번 턴에 사용하는 다음 #b",
+      " 장의 #y파워 카드를 두 번 사용합니다."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "데바",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y판금 #y갑옷 을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Anger": {
+    "NAME": "격분",
+    "DESCRIPTIONS": [
+      " #y스킬 카드를 사용하면 #y힘 을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Angry": {
+    "NAME": "분노",
+    "DESCRIPTIONS": [
+      "",
+      "#y공격 피해를 입을 때마다, 힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Artifact": {
+    "NAME": "인공물",
+    "DESCRIPTIONS": [
+      "해로운 효과를 #b",
+      " 번 무효화 합니다.",
+      " 번 무효화 합니다."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "공격 불사르기",
+    "DESCRIPTIONS": [
+      "사용한 #y공격 카드를 #y소멸 시킵니다. NL 지속 턴수 : #b",
+      "",
+      "사용한 #y공격 카드를 #y소멸 시킵니다. NL 지속 턴수 : #b",
+      ""
+    ]
+  },
+  "BackAttack": {
+    "NAME": "백 어택",
+    "DESCRIPTIONS": [
+      "당신의 뒤에서 공격해, #b50% 더 많은 피해를 줍니다."
+    ]
+  },
+  "Barricade": {
+    "NAME": "바리케이드",
+    "DESCRIPTIONS": [
+      "턴 시작 시 #y방어도 가 사라지지 않습니다.",
+      "턴 시작 시 #y방어도 가 사라지지 않습니다."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "전투 찬가",
+    "DESCRIPTIONS": [
+      "매 턴 시작 시, #y엄벌 을 #b",
+      " 장 손으로 가져옵니다.",
+      " 장 손으로 가져옵니다."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "죽음의 고동",
+    "DESCRIPTIONS": [
+      "카드를 사용할 때마다, 플레이어가 피해를 #b",
+      " 받습니다."
+    ]
+  },
+  "Berserk": {
+    "NAME": "광폭화",
+    "DESCRIPTIONS": [
+      "턴 시작 시 ",
+      " 을 얻습니다."
+    ]
+  },
+  "Bias": {
+    "NAME": "편향",
+    "DESCRIPTIONS": [
+      "턴 시작 시 #y밀집 을 #b",
+      " #y잃습니다."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "방어도 반환",
+    "DESCRIPTIONS": [
+      "공격받을 경우, #y방어도를 #b",
+      " 획득합니다."
+    ]
+  },
+  "Blur": {
+    "NAME": "흐릿함",
+    "DESCRIPTIONS": [
+      "다음 턴 시작 시 #y방어도 가 사라지지 않습니다.",
+      "다음 턴 시작 시 #y방어도 가 사라지지 않습니다. NL 지속 턴수 : #b",
+      ""
+    ]
+  },
+  "Brutality": {
+    "NAME": "무자비",
+    "DESCRIPTIONS": [
+      "턴 시작 시 #y체력 을 #b",
+      " 잃고 카드 #b",
+      " 장을 뽑습니다.",
+      "턴 시작 시 #y체력 을 #b",
+      " 잃고 카드 #b",
+      " 장을 뽑습니다."
+    ]
+  },
+  "Buffer": {
+    "NAME": "버퍼",
+    "DESCRIPTIONS": [
+      "다음 번에 #y체력 을 잃는 것을 막아줍니다.",
+      "다음 #b",
+      " 번 #y체력 을 잃는 것을 막아줍니다."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "불릿 타임",
+    "DESCRIPTIONS": [
+      "현재 모든 녹색 카드의 비용은 #b0입니다."
+    ]
+  },
+  "Burst": {
+    "NAME": "폭주",
+    "DESCRIPTIONS": [
+      "이번 턴에 사용하는 다음 #y스킬 카드를 두 번 사용합니다.",
+      "이번 턴에 사용하는 다음 ",
+      " 장의 #y스킬 카드를 두 번 사용합니다."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "경지 전환 불가",
+    "DESCRIPTIONS": [
+      "이번 턴 동안 #y경지 를 바꿀 수 없습니다."
+    ]
+  },
+  "Choked": {
+    "NAME": "교살",
+    "DESCRIPTIONS": [
+      "이번 턴에 카드를 사용할 때마다 #b",
+      " 의 피해를 받습니다."
+    ]
+  },
+  "Collect": {
+    "NAME": "수집",
+    "DESCRIPTIONS": [
+      "다음 턴 시작 시, #y기적+ 를 손으로 가져옵니다.",
+      "다음 #b",
+      " 턴 동안 턴 시작 시, #y기적+ 를 손으로 가져옵니다."
+    ]
+  },
+  "Combust": {
+    "NAME": "연소",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y체력 을 #b",
+      " 잃고 적 전체에게 #b",
+      " 의 피해를 줍니다."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "반응",
+    "DESCRIPTIONS": [
+      "공격 피해를 입을 시, 의도를 변경합니다."
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Confusion": {
+    "NAME": "혼란",
+    "DESCRIPTIONS": [
+      "카드를 뽑을 때 마다 비용이 무작위로 정해집니다."
+    ]
+  },
+  "Conserve": {
+    "NAME": "보존",
+    "DESCRIPTIONS": [
+      "#y에너지 가 다음 턴까지 보존됩니다.",
+      "#y에너지 가 다음 #b",
+      " 턴 동안 보존됩니다."
+    ]
+  },
+  "Constricted": {
+    "NAME": "포박",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #b",
+      " 의 피해를 받습니다."
+    ]
+  },
+  "Controlled": {
+    "NAME": "마음의 요새",
+    "DESCRIPTIONS": [
+      "#y경지를 바꿀 때마다, #y방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "시체 폭발",
+    "DESCRIPTIONS": [
+      "적이 죽게 될 경우, 적 전체에게 해당 적의 최대 체력만큼의 피해를 줍니다.",
+      "적이 죽게 될 경우, 적 전체에게 해당 적의 최대 체력 #b",
+      " 배 만큼의 피해를 줍니다."
+    ]
+  },
+  "Corruption": {
+    "NAME": "타락",
+    "DESCRIPTIONS": [
+      "스킬 카드의 비용이 #b0 입니다. NL 스킬 카드를 사용할 때마다 #y소멸 시킵니다.",
+      "#y스킬 카드를 사용할 때마다 #y소멸 시킵니다."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "창의적인 인공지능",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 파워 카드를 #b",
+      " 장 얻습니다.",
+      " 장 얻습니다."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "호기심",
+    "DESCRIPTIONS": [
+      " #y파워 카드를 사용할 때마다 #y힘 을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "몸 말기",
+    "DESCRIPTIONS": [
+      "#y공격 피해를 받으면, 몸을 말고 #y방어도 를 ",
+      " 얻습니다."
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "인형 놀이",
+    "DESCRIPTIONS": [
+      "스킬 카드를 제외한 카드를 사용할 때마다 #b",
+      " 의 피해를 받습니다. (카드 유형은 매 턴 변합니다)",
+      "공격 카드를 제외한 카드를 사용할 때마다 인형 놀이 #b",
+      "+1 을 받습니다."
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "어둠의 포옹",
+    "DESCRIPTIONS": [
+      "카드가 #y소멸 될 때마다 카드를 #b1 장 뽑습니다.",
+      "카드가 #y소멸 될 때마다 카드를 #b",
+      " 장을 뽑습니다."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "악마화",
+    "DESCRIPTIONS": [
+      "턴 시작 시 힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "천신",
+    "DESCRIPTIONS": [
+      "턴 시작 시, [W] 를",
+      "턴 시작 시, [W] 를 #b",
+      " 번 ",
+      " 얻고, 얻을 수 있는 양이 #b",
+      " 만큼 증가합니다.",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "헌신",
+    "DESCRIPTIONS": [
+      "턴 시작 시, #y만트라 를 #b",
+      " 얻습니다."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "민첩 감소",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y민첩 을 #b",
+      " 잃습니다."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "민첩",
+    "DESCRIPTIONS": [
+      "카드에서 얻는 #y방어도 가 다음 수치만큼 증가합니다 : #b",
+      "카드에서 얻는 #y방어도 가 다음 수치만큼 감소합니다 : #b",
+      "."
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "규율",
+    "DESCRIPTIONS": [
+      "턴을 마친 뒤 이번 턴에 사용하지 않은 [W] 만큼 다음 턴에 추가로 카드를 뽑습니다."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "두 배의 피해",
+    "DESCRIPTIONS": [
+      " #y공격 이 #b",
+      " 턴간 두 배의 피해를 줍니다.",
+      " 턴간 두 배의 피해를 줍니다."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "연사",
+    "DESCRIPTIONS": [
+      "이번 턴에 사용하는 다음 #y공격 카드가 두 번 사용됩니다.",
+      "이번 턴에 사용하는 다음 ",
+      " 장의 #y공격 카드가 두 번 사용됩니다."
+    ]
+  },
+  "Draw": {
+    "NAME": "드로우",
+    "DESCRIPTIONS": [
+      "매 턴 #b",
+      " 장의 카드를 더 뽑습니다.",
+      " 장의 카드를 덜 뽑습니다.",
+      " 장의 카드를 더 뽑습니다.",
+      " 장의 카드를 덜 뽑습니다."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "카드 뽑기",
+    "DESCRIPTIONS": [
+      "다음턴 #b",
+      " 장의 카드를 뽑습니다.",
+      " 장의 카드를 뽑습니다."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "드로우 저하",
+    "DESCRIPTIONS": [
+      "다음 턴 #b",
+      " 장의 카드를 덜 뽑습니다.",
+      " 장의 카드를 덜 뽑습니다."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "드로우 저하",
+    "DESCRIPTIONS": [
+      "다음 턴에 카드를 1 장 덜 뽑습니다.",
+      "#b1 장의 카드를 #b",
+      " 턴 동안 덜 뽑습니다."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "복제",
+    "DESCRIPTIONS": [
+      "이번 턴에 사용하는 다음 카드를 두 번 사용합니다.",
+      "이번 턴에 사용하는 다음",
+      " 장의 카드를 두 번 사용합니다."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "메아리",
+    "DESCRIPTIONS": [
+      "매 턴 처음 사용하는 카드가 두 번 사용됩니다.",
+      "매 턴 처음 사용하는 #b",
+      " 장의 카드가 두 번 사용됩니다."
+    ]
+  },
+  "Electro": {
+    "NAME": "전기판",
+    "DESCRIPTIONS": [
+      "#y전기 모든 적을 대상으로 합니다.",
+      "",
+      ""
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "모독자",
+    "DESCRIPTIONS": [
+      "턴 시작 시, 죽습니다."
+    ]
+  },
+  "Energized": {
+    "NAME": "혈기왕성",
+    "DESCRIPTIONS": [
+      "다음 턴에 #b",
+      " [G] 를 추가로 얻습니다. ",
+      " [G] 를 추가로 얻습니다. ",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "가압",
+    "DESCRIPTIONS": [
+      "다음 턴에 #b",
+      " [B] 를 추가로 얻습니다. ",
+      " [B] 를 추가로 얻습니다. ",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "단식",
+    "DESCRIPTIONS": [
+      "턴 시작 시, ",
+      " 를(을) 잃습니다."
+    ]
+  },
+  "Entangled": {
+    "NAME": "속박",
+    "DESCRIPTIONS": [
+      " #b1 턴 동안 #y공격 카드를 사용할 수 없습니다."
+    ]
+  },
+  "Envenom": {
+    "NAME": "독 바르기",
+    "DESCRIPTIONS": [
+      "방어되지 않은 #y공격 피해를 입힐 때마다 #b",
+      " 의 #y중독 을 부여합니다."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "평형",
+    "DESCRIPTIONS": [
+      "이번 턴 종료 시 카드를 버리지 않습니다.",
+      "#b",
+      " 턴 동안 턴 종료 시 카드를 버리지 않습니다."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "지배",
+    "DESCRIPTIONS": [
+      "카드가 #y보존될 경우, 그 카드의 비용을 #b",
+      " 낮춥니다."
+    ]
+  },
+  "Evolve": {
+    "NAME": "진화",
+    "DESCRIPTIONS": [
+      " #y상태이상 카드를 가져올 때마다 카드를 #b1 장 뽑습니다.",
+      " #y상태이상 카드를 뽑을 때마다 카드를 #b",
+      " 장을 뽑습니다."
+    ]
+  },
+  "Explosive": {
+    "NAME": "폭발성",
+    "DESCRIPTIONS": [
+      "#b",
+      " 턴 뒤, 폭발하며 #b",
+      " 의 피해를 줍니다.",
+      "자신의 턴에 폭발하며 다음 수치만큼 피해를 줍니다. : #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "추가 카드",
+    "DESCRIPTIONS": [
+      "다음 턴 #b1 장 더 카드를 뽑습니다.",
+      "다음턴 #b",
+      " 장 더 카드를 뽑습니다."
+    ]
+  },
+  "Fading": {
+    "NAME": "희미해짐",
+    "DESCRIPTIONS": [
+      "#b",
+      " 턴 뒤 죽습니다.",
+      "이번 턴에 죽습니다."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "무감각",
+    "DESCRIPTIONS": [
+      "카드가 #y소멸 될 때마다 #y방어도 를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "불 뿜기",
+    "DESCRIPTIONS": [
+      "턴 종료 시 이번 턴에 사용된 #y공격 카드 수만큼 적 전체에게 #b",
+      " 의 피해를 줍니다."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "화염 장벽",
+    "DESCRIPTIONS": [
+      "#y공격 피해를 받을 시, 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "Flex": {
+    "NAME": "몸 풀기",
+    "DESCRIPTIONS": [
+      "턴 종료 시 힘을 #b",
+      " 잃습니다."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "Flight": {
+    "NAME": "비행",
+    "DESCRIPTIONS": [
+      "받는 피해가 #b50% 로 감소합니다. 한 턴 동안 공격 피해를 #b",
+      " 번 입을 시 사라집니다."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED 흐름의 힘",
+    "DESCRIPTIONS": [
+      "공격 카드를 사용할 때마다 임시로 #y힘 을 #b",
+      " 얻습니다. 스킬 카드를 사용할 때마다 임시로 #y민첩 을 #b,",
+      " 얻습니다."
+    ]
+  },
+  "Focus": {
+    "NAME": "밀집",
+    "DESCRIPTIONS": [
+      "구체 의 효과를 다음 수치만큼 증가시킵니다: #b",
+      "구체 의 효과를 다음 수치만큼 감소시킵니다: #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "손상",
+    "DESCRIPTIONS": [
+      "카드로부터 얻는 #y방어도 가 #b25% 감소합니다. NL 지속 턴수 : #b",
+      "",
+      ""
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "무료 공격 파워",
+    "DESCRIPTIONS": [
+      "다음 #y공격 의 에너지 비용을 무시합니다.",
+      "다음 #b",
+      " 장의 #y공격 의 에너지 비용을 무시합니다."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Gambit": {
+    "NAME": "도박",
+    "DESCRIPTIONS": [
+      "#b",
+      " 턴 후",
+      " 턴 후",
+      " [B] 를 얻습니다 ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y힘 을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "성장",
+    "DESCRIPTIONS": [
+      "매 턴 종료 시 힘을 #b",
+      " #y 얻습니다."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "방열",
+    "DESCRIPTIONS": [
+      "파워 카드를 사용할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
+    ]
+  },
+  "Hello": {
+    "NAME": "안녕하세요",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 일반 카드를 #b",
+      " 장 얻습니다.",
+      " 장 얻습니다."
+    ]
+  },
+  "Hex": {
+    "NAME": "주술",
+    "DESCRIPTIONS": [
+      "공격 카드를 제외한 카드를 사용할 때마다 #b",
+      " 장의 #y어지러움 카드를 뽑을 카드 더미에 섞습니다."
+    ]
+  },
+  "Hide": {
+    "NAME": "은신",
+    "DESCRIPTIONS": [
+      "다음 턴이 시작할 때까지 #y체력 을 잃지 않습니다.",
+      "#b",
+      " 턴 동안 #y체력 을 잃지 않습니다."
+    ]
+  },
+  "HotHot": {
+    "NAME": "DEPRECATED Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "무한의 검날",
+    "DESCRIPTIONS": [
+      "턴 시작 시 #y단도 카드 #b",
+      " 장을 손에 추가합니다.",
+      " 장을 손에 추가합니다."
+    ]
+  },
+  "Intangible": {
+    "NAME": "불가침",
+    "DESCRIPTIONS": [
+      "이번 턴 동안 받는 피해와 #y체력 손실을 전부 #b1 로 감소시킵니다. 불가침은 2턴 마다 다시 부여됩니다."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "불가침",
+    "DESCRIPTIONS": [
+      "받는 피해와 #y체력 손실을 전부 #b1 로 감소시킵니다."
+    ]
+  },
+  "Inverted": {
+    "NAME": "뒤집힘",
+    "DESCRIPTIONS": [
+      "피해에 면역입니다. 당신이 #y방어도 를 얻으면, 그만큼 #y체력 을 잃습니다."
+    ]
+  },
+  "Invincible": {
+    "NAME": "천하무적",
+    "DESCRIPTIONS": [
+      "이번 턴에 #b",
+      " 체력 이상을 잃지 않습니다.",
+      "이번 턴에 더 이상 피해를 입지 않습니다."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "절대적인 힘",
+    "DESCRIPTIONS": [
+      " #y방어도 를 얻을 때마다 무작위의 적에게 #b",
+      "의 피해를 줍니다."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "지식",
+    "DESCRIPTIONS": [
+      " #y파워 카드를 사용할 때마다 카드를 #b",
+      " 장 뽑습니다."
+    ]
+  },
+  "Life Link": {
+    "NAME": "생명 연결",
+    "DESCRIPTIONS": [
+      "다른 적이 살아 있다면 #b2 턴 뒤 #y체력 이 #b50% 인 상태로 부활합니다."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "여류",
+    "DESCRIPTIONS": [
+      "턴 종료 시, #y명상 중일 경우, #y방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Lockon": {
+    "NAME": "목표 지정됨",
+    "DESCRIPTIONS": [
+      "구체로부터 받는 피해가 #b",
+      "% 증가합니다. #b",
+      " 턴 지속됩니다.",
+      " 턴 지속됩니다."
+    ]
+  },
+  "Loop": {
+    "NAME": "반복",
+    "DESCRIPTIONS": [
+      "턴 시작 시 가장 오른쪽 구체 의 지속 효과를 발동시킵니다.",
+      "턴 시작 시 가장 오른쪽 구체의 지속 효과를 #b",
+      " 번 발동시킵니다."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "기계학습",
+    "DESCRIPTIONS": [
+      "턴 시작 시 카드를 #b",
+      " 장 더 뽑습니다.",
+      " 장 더 뽑습니다."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "자기력",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 무색 카드 #b%s 장을 얻습니다.",
+      "턴 시작 시 무작위 무색 카드 #b%s 장을 얻습니다."
+    ]
+  },
+  "Malleable": {
+    "NAME": "탄성",
+    "DESCRIPTIONS": [
+      "#y체력 을 잃을 시 #y방어도 를 #b",
+      " 얻습니다. ",
+      " 이 효과를 발휘할 때마다 얻는 #y방어도 가 증가합니다. 내 턴의 시작에 다시 #b",
+      " 으로 리셋됩니다."
+    ]
+  },
+  "Mantra": {
+    "NAME": "만트라",
+    "DESCRIPTIONS": [
+      "#y만트라 를 #b",
+      " 획득할 경우, #y강림 합니다."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "현실 지배",
+    "DESCRIPTIONS": [
+      "카드가 생성될 때마다 그 카드를 #y강화합니다.",
+      "dep.",
+      "dep.",
+      "dep."
+    ]
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED 선불선",
+    "DESCRIPTIONS": [
+      "현재 경지 와 다른 경지 에 도달하게 되면, #b",
+      " [B] 를 얻습니다."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "대혼란",
+    "DESCRIPTIONS": [
+      "턴 시작 시, 뽑을 카드 더미 맨 위에 있는 카드를 사용합니다.",
+      "턴 시작 시, 뽑을 카드 더미 맨 위에 있는 카드를 #b",
+      " 장 사용합니다."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "금속화",
+    "DESCRIPTIONS": [
+      "매 턴 종료 시 #b",
+      " #y방어도 를 얻습니다.",
+      "매 턴 종료 시 #b",
+      " #y방어도 를 얻습니다."
+    ]
+  },
+  "Minion": {
+    "NAME": "하수인",
+    "DESCRIPTIONS": [
+      "하수인들은 그들의 지도자가 죽으면 전투를 포기합니다."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "모드 전환",
+    "DESCRIPTIONS": [
+      " #b",
+      " 의 피해를 입으면, 방어 모드로 전환합니다."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "다음 턴 방어",
+    "DESCRIPTIONS": [
+      "다음 턴 시작 시 #y방어도 를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "악몽",
+    "DESCRIPTIONS": [
+      "다음 턴 시작 시 #b",
+      " 카드를 얻습니다."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "열반",
+    "DESCRIPTIONS": [
+      "예지할 때마다 방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "No Attack": {
+    "NAME": "공격 불가",
+    "DESCRIPTIONS": [
+      "이번 턴에 #y공격 카드를 사용할 수 없습니다."
+    ]
+  },
+  "No Draw": {
+    "NAME": "드로우 불가",
+    "DESCRIPTIONS": [
+      "턴 종료까지 카드를 뽑을 수 없습니다."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "방어 불가",
+    "DESCRIPTIONS": [
+      "카드를 통해 #y방어도 를 얻을 수 없습니다."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "스킬 불가",
+    "DESCRIPTIONS": [
+      "이번 턴에 #y스킬 을 사용할 수 없습니다."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "유독 가스",
+    "DESCRIPTIONS": [
+      "매 턴 시작 시 적 전체에게 #b",
+      "의 #y중독 을 부여합니다."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "공격 무효화",
+    "DESCRIPTIONS": [
+      "매 턴 한번의 #y공격 을 완전히 #yBlocks 합니다."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "오메가 파워",
+    "DESCRIPTIONS": [
+      "턴 종료 시 적 전체에게 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "전지",
+    "DESCRIPTIONS": [
+      "DEPERCATED",
+      "DEPERCATED"
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "깊은 자상",
+    "DESCRIPTIONS": [
+      "이 적에게 피해를 입을 때마다, #y부상 카드를 버린 카드 더미에 더합니다."
+    ]
+  },
+  "Panache": {
+    "NAME": "위풍당당",
+    "DESCRIPTIONS": [
+      "이번 턴에 #b",
+      " 장 이상의 카드를 사용하면, 적 전체에게 #b",
+      " 피해를 가합니다.",
+      " 장 이상의 카드를 사용하면, 적 전체에게 #b"
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "표식",
+    "DESCRIPTIONS": [
+      "#y급소 를 사용할 때마다, 대상 적이 HP를 #b",
+      " 잃습니다."
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "펜 촉",
+    "DESCRIPTIONS": [
+      "다음 #y공격은 두 배의 피해를 가합니다."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "환영",
+    "DESCRIPTIONS": [
+      "다음 턴에 #y두 #y배 의 #y피해 를 줍니다.",
+      "다음 ",
+      " 턴 동안 #y두 #y배 의 #y피해 를 줍니다.."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "판금 갑옷",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #b",
+      " #y방어도 를 얻습니다. 막히지 않은 공격 피해를 받으면 #y판금 #y갑옷 이 #b1 감소합니다.",
+      "턴 종료 시 #b",
+      " #y방어도 를 얻습니다. 막히지 않은 공격 피해를 받으면 #y판금 #y갑옷 이 #b1 감소합니다."
+    ]
+  },
+  "Poison": {
+    "NAME": "중독",
+    "DESCRIPTIONS": [
+      "턴 시작 시 #b",
+      " 의 피해를 받고, #y중독 이 #b1 감소합니다.",
+      "턴 시작 시 #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "밑작업",
+    "DESCRIPTIONS": [
+      "구체 를 #y영창 할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
+    ]
+  },
+  "Primitive": {
+    "NAME": "depre.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Rage": {
+    "NAME": "격노",
+    "DESCRIPTIONS": [
+      "이번 턴에 피해를 줄 때마다 #y방어도 를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Rebound": {
+    "NAME": "되돌리기",
+    "DESCRIPTIONS": [
+      "이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 올립니다.",
+      "이번 턴에 사용하는 다음 #b",
+      " 장의 카드를 뽑을 카드 더미의 맨 위에 올립니다."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "피해 감소",
+    "DESCRIPTIONS": [
+      "다음 수치만큼 받는 피해를 감소시킵니다 : #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "재생",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y체력 을 #b",
+      " 회복합니다."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "재생",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y체력 을 #b",
+      " 만큼 회복합니다. NL 지속 턴수 : #b",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "수리",
+    "DESCRIPTIONS": [
+      "전투 종료 시 #y체력 을 #b",
+      " 회복합니다."
+    ]
+  },
+  "Repulse": {
+    "NAME": "현기증 유발",
+    "DESCRIPTIONS": [
+      "",
+      " 공격 피해를 받으면, 당신의 손에 #y부상 카드를 추가합니다."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "카드 보존",
+    "DESCRIPTIONS": [
+      "매 턴 종료 시, #b",
+      " 장까지 카드를 보존할 수 있습니다.",
+      " 장까지 카드를 보존할 수 있습니다."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "카드 보존",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #b",
+      " 턴 동안 카드를 버리지 않습니다.",
+      "턴 종료 시 카드를 버리지 않습니다."
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED 회개",
+    "DESCRIPTIONS": [
+      "HP를 잃을 떄마다, #y원기 를 #b",
+      " 획득합니다."
+    ]
+  },
+  "Riposte": {
+    "NAME": "응수",
+    "DESCRIPTIONS": [
+      "한 턴에 한 번 공격 카드를 사용하면 #b",
+      " 의 피해를 줍니다."
+    ]
+  },
+  "Ritual": {
+    "NAME": "의식",
+    "DESCRIPTIONS": [
+      "턴 종료 시, 힘을 #b",
+      " 얻습니다.",
+      "턴 종료 시, 힘을 #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "파열",
+    "DESCRIPTIONS": [
+      "카드의 효과로 #y체력 을 잃을 때마다 힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "가학적",
+    "DESCRIPTIONS": [
+      "적에게 디버프를 부여할 때마다 #b",
+      " 의 피해를 줍니다."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "Serpentine": {
+    "NAME": "거대뱀",
+    "DESCRIPTIONS": [
+      " #y포션 에 면역입니다."
+    ]
+  },
+  "Shackled": {
+    "NAME": "족쇄",
+    "DESCRIPTIONS": [
+      "턴 종료 시 #y힘을 #b",
+      " 다시 얻습니다."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "날카로운 껍질",
+    "DESCRIPTIONS": [
+      "#y공격 을 받을 때마다 당신은 #b",
+      " 의 피해를 받습니다."
+    ]
+  },
+  "Shifting": {
+    "NAME": "변하는 중",
+    "DESCRIPTIONS": [
+      " ",
+      "체력을 잃을 때마다, 턴 종료까지 그만큼의 #y힘 을 잃습니다."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "저편에서의 비명",
+    "DESCRIPTIONS": [
+      "공격 카드를 낼 때마다, 임의의 카드를 버립니다."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "스킬 불사르기",
+    "DESCRIPTIONS": [
+      "#b",
+      " 턴 동안 사용한 #y스킬 카드를 #y소멸 시킵니다.",
+      "#b",
+      " 턴 동안 사용한 #y스킬 카드를 #y소멸 시킵니다."
+    ]
+  },
+  "Slow": {
+    "NAME": "둔화",
+    "DESCRIPTIONS": [
+      "이번 턴 사용한 카드 한 장당, ",
+      " 는 #y공격 카드로 인한 피해를 #b10% 더 받습니다.",
+      " ( #b",
+      "% 피해를 추가로 받습니다.)"
+    ]
+  },
+  "Split": {
+    "NAME": "분열",
+    "DESCRIPTIONS": [
+      "#y체력 이 #b50% 이하가 되면 #b2 개의 작은 슬라임으로 분열하며, 각각 ",
+      " 의 현재 #y체력 과 동일한 #y체력 을 가집니다."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "포자 구름",
+    "DESCRIPTIONS": [
+      "사망 시, 당신에게 #y취약 을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Stasis": {
+    "NAME": "정지",
+    "DESCRIPTIONS": [
+      "사망 시, 당신에게 ",
+      " 카드를 돌려줍니다."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "정전기 방전",
+    "DESCRIPTIONS": [
+      "#y공격 피해를 받을 때마다 #y전기 를 #b",
+      " 번 #y영창 합니다."
+    ]
+  },
+  "Storm": {
+    "NAME": "폭풍",
+    "DESCRIPTIONS": [
+      "#b파워 카드를 사용할 때마다 #y전기 를 #b",
+      " 번 #y영창 합니다."
+    ]
+  },
+  "Strength": {
+    "NAME": "힘",
+    "DESCRIPTIONS": [
+      "공격 피해가 다음 수치만큼 증가합니다 : #b",
+      "공격 피해가 다음 수치만큼 감소합니다 : #b",
+      "."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "타격 강화",
+    "DESCRIPTIONS": [
+      "이름에 #y타격 을 포함한 카드가 추가로 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "Study": {
+    "NAME": "학습",
+    "DESCRIPTIONS": [
+      "턴 종료 시, 뽑을 카드 더미에 #y통찰을 #b",
+      " 장 섞어 넣습니다.",
+      " 장 섞어 넣습니다."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "포위됨",
+    "DESCRIPTIONS": [
+      "당신의 뒤에서 공격할 시 추가로 #b50%의 피해를 줍니다. 보는 방향을 변경하려면 대상을 지정하는 카드나 포션을 사용하십시오."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "폭탄",
+    "DESCRIPTIONS": [
+      "#b%1$s 턴 후 턴 종료 시, 적 전체에게 피해를 #b%2$s 줍니다.",
+      "이번 턴 종료 시, 적 전체에게 피해를 #b%1$s 줍니다."
+    ]
+  },
+  "Thievery": {
+    "NAME": "도둑질",
+    "DESCRIPTIONS": [
+      "은(는) 공격할 때마다 #b",
+      " #y골드 를 훔칩니다."
+    ]
+  },
+  "Thorns": {
+    "NAME": "가시",
+    "DESCRIPTIONS": [
+      "#y공격 피해를 받을 때마다, #b",
+      " 의 피해를 돌려줍니다."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "능지처참",
+    "DESCRIPTIONS": [
+      "카드를 낼 때마다, #b",
+      " 의 피해를 줍니다."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "시간 왜곡",
+    "DESCRIPTIONS": [
+      "카드를 #b",
+      " 장 낼 때마다,  당신의 턴이 종료되고 시간 포식자가 힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "시간 미로",
+    "DESCRIPTIONS": [
+      "카드를 #b",
+      " 장 낼 때마다, 당신의 턴이 종료됩니다."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "작업 도구",
+    "DESCRIPTIONS": [
+      "턴 시작 시, #b",
+      " 장 뽑고 #b",
+      " 장 버립니다.",
+      " 장 뽑고 #b",
+      " 장 버립니다."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "비활성",
+    "DESCRIPTIONS": [
+      "이 적은 아직 깨어나지 않았습니다..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "불안정",
+    "DESCRIPTIONS": [
+      "충분한 피해를 줘 균형을 무너뜨리십시오."
+    ]
+  },
+  "Vault": {
+    "NAME": "잠금",
+    "DESCRIPTIONS": [
+      "다음 턴 시작 시 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "Venomology": {
+    "NAME": "독소학",
+    "DESCRIPTIONS": [
+      "#y중독 이 감소하는 대신 매 턴 #b",
+      " 만큼 증가합니다."
+    ]
+  },
+  "Vigor": {
+    "NAME": "활력",
+    "DESCRIPTIONS": [
+      "다음 공격 이 추가로 #b",
+      " 피해를 줍니다."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "취약",
+    "DESCRIPTIONS": [
+      "#y공격 으로부터 #b",
+      "% 더 많은 피해를 받습니다. NL 지속 턴수 : #b",
+      "",
+      ""
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "장법",
+    "DESCRIPTIONS": [
+      "#y방어도를 얻을 때마다 적 전체에게 #y약화를 #b",
+      " 부여합니다."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "dep",
+    "DESCRIPTIONS": [
+      "dep.",
+      "dep."
+    ]
+  },
+  "Weakened": {
+    "NAME": "약화",
+    "DESCRIPTIONS": [
+      "#y공격 이 #b",
+      "% 더 적은 피해를 줍니다. NL 지속 턴수 : #b",
+      "",
+      ""
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "선견지명",
+    "DESCRIPTIONS": [
+      "턴 시작 시, #y예지 ",
+      "."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "유령화",
+    "DESCRIPTIONS": [
+      "턴 종료 시 민첩을 #b",
+      " 잃습니다."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "들끓는 울화",
+    "DESCRIPTIONS": [
+      "다음 턴 시작 시 #y진노합니다."
+    ]
+  }
+}

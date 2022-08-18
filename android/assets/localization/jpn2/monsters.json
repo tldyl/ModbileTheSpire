@@ -1,0 +1,704 @@
+{
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "ゴメンネスライム",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "堕落の心臓",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ネメシス",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "選ばれし者",
+    "DIALOG": [
+      "~苦しめ…~"
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ビャード",
+    "DIALOG": [
+      "@クワッ！@ NL @クワワワッ@",
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "混乱の凝視",
+      "テイルウィップ",
+      "噛みつき"
+    ],
+    "NAME": "スネッコ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "チャージ",
+      "アルティメットブラスト"
+    ],
+    "NAME": "グレムリンウィザード",
+    "DIALOG": [
+      "",
+      "魔力充填！",
+      "~さあ、これでもくらえ！~",
+      "@誰か…@ NL @助けて…！@",
+      "~あまりにも…~ NL ~危険すぎる…~ NL ~さよなら…~"
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ポインティ",
+    "DIALOG": [
+      "ベアーーー！！"
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "筋力増加"
+    ],
+    "NAME": "オーブウォーカー",
+    "DIALOG": [
+      "シールド NL 発動。"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "ディフェンシブモード",
+      "フィアースバッシュ",
+      "回転",
+      "ツインスラム",
+      "旋風刃",
+      "チャージ",
+      "蒸気解放"
+    ],
+    "NAME": "ガーディアン",
+    "DIALOG": [
+      "#b~..クール…~ NL #b~…ダウン…~",
+      "防御中…",
+      "#r@デストロイ@ NL #r@デストロイ@ NL #r@デストロイ@",
+      "#r@デンジャー@ NL #r@デンジャー@ NL #r@デンジャー@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "爪"
+    ],
+    "NAME": "マッドグレムリン",
+    "DIALOG": [
+      "",
+      "@ちょっと行って@ NL @助けを呼んでくる！@",
+      "じゃあな！"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "スニーキーグレムリン",
+    "DIALOG": [
+      "",
+      "@ちょっと行って@ NL @助けを呼んでくる！@ ",
+      "@何だと！？@"
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "おまじない"
+    ],
+    "NAME": "狂信者",
+    "DIALOG": [
+      "@私の力に並ぶ者など@ NL @いない！@",
+      "@ここから@ NL @出ていけ！@",
+      "~私の力こそ~ NL ~最強だったのに…~"
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "みんな集まれ！"
+    ],
+    "NAME": "グレムリンリーダー",
+    "DIALOG": [
+      "諦めるものか！",
+      "まだ終わってないぞ！",
+      "やってしまえ！",
+      "@退却@ NL @退却ぅー！@",
+      "@逃げろぉー！@"
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "センチュリオン",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ジャイアントヘッド",
+    "DIALOG": [
+      "~ついに…その時が…来た~",
+      "~さらば…だ…~",
+      "~チック…タック…~ NL ~チック…タック…~",
+      "~なぜ……まだ……ここに… NL ~いるのだ…？~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ベア",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ロメオ",
+    "DIALOG": [
+      "捕まえろベア！",
+      "償ってもらうぞ！",
+      "ノォーーー！　ベア！"
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "舐める"
+    ],
+    "NAME": "スパイクスライムM",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "スパイクスライムS",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "突き刺し",
+      "強奪"
+    ],
+    "NAME": "強盗",
+    "DIALOG": [
+      "そいつをよこせ！",
+      "じゃあな！"
+    ]
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "タイムイーター",
+    "DIALOG": [
+      "~ああ…~ NL ~..同類か…~",
+      "~愚かなり…~ NL @愚かなり！@",
+      "~やはり…~ NL ~…お前は…~ NL ~…嫌いだ…~"
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "コレクター",
+    "DIALOG": [
+      "@お前は私の物だ！！@"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "トーチヘッド",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "腐食性の粘液",
+      "舐める"
+    ],
+    "NAME": "アシッドスライムM",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "アシッドスライムS",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "衰弱の胞子"
+    ],
+    "NAME": "スネークプラント",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "防御の構え",
+      "処刑",
+      "平手打ち"
+    ],
+    "NAME": "チャンプ",
+    "DIALOG": [
+      "そんなものが武器だって？",
+      "かかって来い！",
+      "足掻いて見せろ！ NL @フハハハ！@",
+      "攻撃してみろ！ NL 虫ケラめ！",
+      "~やり……やがった……な？~",
+      "@敗北だと？@ NL @認めんぞ！@",
+      "~死ね…~",
+      "我が怒りを知れ！",
+      "@それは@ NL @俺の@ @ベルトだぞ!!@"
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "エクスプローダー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "成長"
+    ],
+    "NAME": "キノコビースト",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "スパイカー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "タスクマスター",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "リパルサー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "突き",
+      "奪取"
+    ],
+    "NAME": "略奪者",
+    "DIALOG": [
+      "ゴールドをよこせ！",
+      "@ぎゃあああ！@",
+      "煙玉はどこだったっけ…ここかな…",
+      "お金ありがとうよ、へへ"
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "分子分解"
+    ],
+    "NAME": "セントリー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "スパイトウェブ"
+    ],
+    "NAME": "寄生虫",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "成長"
+    ],
+    "NAME": "寄生虫",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ヤドカリパラサイト",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "オーブ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "発火",
+      "シアー",
+      "インフェルノ"
+    ],
+    "NAME": "ヘクサゴースト",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "引っ掻き",
+      "絡めとる"
+    ],
+    "NAME": "スレイバー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "レーキ"
+    ],
+    "NAME": "スレイバー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "強打",
+      "行動準備",
+      "分裂",
+      "汚物スプレー"
+    ],
+    "NAME": "スライムボス",
+    "DIALOG": [
+      "~スライム…~ NL #r~クラッシュ！~　",
+      ""
+    ]
+  },
+  "AcidSlime_L": {
+    "MOVES": [
+      "腐食性の粘液",
+      "分裂",
+      "舐める"
+    ],
+    "NAME": "アシッドスライムL",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "かばう",
+      "シールドバッシュ"
+    ],
+    "NAME": "シールドグレムリン",
+    "DIALOG": [
+      "@奴らの仲間だ！@ NL @誰がボスかこいつに見せてやれ！ ",
+      "~さらば~~だ…~",
+      "これはまずい…"
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "魂抽出"
+    ],
+    "NAME": "ラガヴーリン",
+    "DIALOG": [
+      "",
+      "… NL …..",
+      "…？ NL …..!?",
+      "@！！！@ NL @！？？？@"
+    ]
+  },
+  "JawWorm": {
+    "MOVES": [
+      "怒号",
+      "打ちのめし"
+    ],
+    "NAME": "デカアゴムシ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "パワーサークル"
+    ],
+    "NAME": "ドヌー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "塔で成長するもの",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "ハイパービーム"
+    ],
+    "NAME": "ブロンズ・オートマトン",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ミスティック",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "スマッシュ"
+    ],
+    "NAME": "太っちょグレムリン",
+    "DIALOG": [
+      "",
+      "",
+      "@オーノー、@ NL @オーノー、@ NL @オオノオオ！@"
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "デカ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "刺創の本",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "ソウルストライク",
+      "ダークエコー",
+      "浄化",
+      "汚泥"
+    ],
+    "NAME": "目覚めしもの",
+    "DIALOG": [
+      "~グルル…~",
+      "~..めろ…~　~やめろ…~ NL ~…ヤメロ…..~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "舐める",
+      "分裂"
+    ],
+    "NAME": "スパイクスライムL",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ファイヤーオーブ",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "スフィアガーディアン",
+    "DIALOG": [
+      "~侵入者~ NL ~発見~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "むしゃむしゃ！むしゃむしゃ！"
+    ],
+    "NAME": "ダークリング",
+    "DIALOG": [
+      "再生中……"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "モー",
+    "DIALOG": [
+      "@グゴゴガガガアァーー！@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "スカルバッシュ",
+      "ブルラッシュ"
+    ],
+    "NAME": "ボスグレムリン",
+    "DIALOG": [
+      "@ウオォォオォラアァァァー！@"
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "消えゆくもの",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "ダガー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "レプトマンサー",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "もがき蠢く塊",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "塔の矛"
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "塔の盾",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

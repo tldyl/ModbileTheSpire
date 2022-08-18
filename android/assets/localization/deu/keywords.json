@@ -1,0 +1,338 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefakt"
+      ],
+      "DESCRIPTION": "Negiert den nächsten Debuff."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "block",
+        "blockt"
+      ],
+      "DESCRIPTION": "Verhindert Schaden bis zum nächsten Zug."
+    },
+    "BURN": {
+      "NAMES": [
+        "brennen",
+        "burns"
+      ],
+      "DESCRIPTION": "Brennen ist eine unspielbare Statuskarte, die dir Schaden zufügt."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "erschaffen",
+        "erschaffe",
+        "erschaffst",
+        "erschaffene",
+        "erschaffenen"
+      ],
+      "DESCRIPTION": "Ein erschaffener Orb kommt in deinen vordersten freien Slot. Hast du keine freien Slots, so #yentlädt sich dein vorderster Orb, um Platz zu machen."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "verwirrt",
+        "Gepreised sei Snecko!"
+      ],
+      "DESCRIPTION": "Immer wenn du eine Karte ziehst, sind ihre Kosten zufällig."
+    },
+    "CURSE": {
+      "NAMES": [
+        "fluch",
+        "flüche",
+        "fluchkarte"
+      ],
+      "DESCRIPTION": "Fluchkarten sind negative Karten, die in deinem Deck bleiben."
+    },
+    "DARK": {
+      "NAMES": [
+        "schatten",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Erhöht seinen Schaden pro Zug. Beim #yEntladen fügt er dem Gegner mit den wenigsten TP Schaden zu."
+    },
+    "DAZED": {
+      "NAMES": [
+        "benommen"
+      ],
+      "DESCRIPTION": "Benommen ist eine unspielbare, flüchtige Statuskarte."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "geschicklichkeit"
+      ],
+      "DESCRIPTION": "Geschicklichkeit verbessert von Karten erhaltenen Block."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "flüchtig"
+      ],
+      "DESCRIPTION": "Hast du diese Karte am Ende deines Zuges auf der Hand, erschöpft sie, ist also für den Rest des Kampfes aus deinem Deck entfernt."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "entladen",
+        "entlade",
+        "entladene",
+        "entladenen"
+      ],
+      "DESCRIPTION": "Verbrauche den Orb auf der rechten Seite und nutze seinen Entladen-Effekt."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "erschöpfen",
+        "erschöpfe",
+        "erschöpft"
+      ],
+      "DESCRIPTION": "Erschöpfte Karten werden für den Rest dieses Kampfes aus deinem Deck entfernt."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "fokus"
+      ],
+      "DESCRIPTION": "Fokus erhöht die Effektivität von #yerschaffenen Orbs."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "gebrechlich"
+      ],
+      "DESCRIPTION": "Bist du Gebrechlich, erhältst du #b25% weniger #yBlock von Karten."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frosts"
+      ],
+      "DESCRIPTION": "Orb: Erhalte #yBlock."
+    },
+    "INNATE": {
+      "NAMES": [
+        "angeboren"
+      ],
+      "DESCRIPTION": "Beginne jeden Kampf mit dieser Karte auf deiner Hand."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "immateriell"
+      ],
+      "DESCRIPTION": "Reduziere jeglichen genommenen Schaden und TP-Verlust auf #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "blitz",
+        "blitze"
+      ],
+      "DESCRIPTION": "Orb: Fügt zufälligen Gegnern Schaden zu."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "gesperrt"
+      ],
+      "DESCRIPTION": "Diese Karte muss noch freigeschaltet werden."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "anvisieren"
+      ],
+      "DESCRIPTION": "Anvisierte Ziele erhalten #b50% mehr Schaden durch Orbs."
+    },
+    "OPENER": {
+      "NAMES": [
+        "eröffnung"
+      ],
+      "DESCRIPTION": "Eine Karte mit Eröffnung kann nur als erste Karte eines Zuges gespielt werden."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Erhalte Energie."
+    },
+    "POISON": {
+      "NAMES": [
+        "gift",
+        "vergiftet"
+      ],
+      "DESCRIPTION": "Vergiftete Kreaturen verlieren zu Beginn ihres Zuges entsprechend viele TP. Gift verringert sich in jedem Zug um #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "behalten",
+        "behalte",
+        "behaltene"
+      ],
+      "DESCRIPTION": "Karten, die du behältst, wirfst du am Ende des Zuges nicht ab."
+    },
+    "SHIV": {
+      "NAMES": [
+        "messer",
+        "messer"
+      ],
+      "DESCRIPTION": "Messer sind #bkostenlose Angriffskarten, die bei Benutzung erschöpfen."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status"
+      ],
+      "DESCRIPTION": "Statuskarten werden am Ende des Kampfes entfernt."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "stärke"
+      ],
+      "DESCRIPTION": "Stärke lässt Angriffe mehr Schaden zufügen."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "schlag"
+      ],
+      "DESCRIPTION": "Jede Karte mit dem Wort \"Schlag\" in ihrem Namen."
+    },
+    "TEXT": [
+      "Energie wird genutzt, um Handkarten auszuspielen."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "stachel",
+        "stacheln"
+      ],
+      "DESCRIPTION": "Gibt beim Erleiden von #yAngriffsschaden Schaden zurück."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformieren",
+        "transformierst",
+        "transformiere"
+      ],
+      "DESCRIPTION": "Transformierte Karten ändern sich zu einer Karte gleicher Farbe, aber zufälliger Seltenheit."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "unbekannt"
+      ],
+      "DESCRIPTION": "Du bist dieser Karte noch nicht begegnet."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "unspielbar"
+      ],
+      "DESCRIPTION": "Unspielbare Karten kannst du nicht aus deiner Hand spielen."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "verbessern",
+        "verbessere",
+        "verbesserte",
+        "verbessertes",
+        "verbessert"
+      ],
+      "DESCRIPTION": "Verbessern macht Karten mächtiger. Karten können nur einmal verbessert werden."
+    },
+    "VOID": {
+      "NAMES": [
+        "leere",
+        "voids"
+      ],
+      "DESCRIPTION": "Leere ist eine unspielbare Statuskarte, die beim Ziehen Energie verbraucht."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "verwundbar"
+      ],
+      "DESCRIPTION": "Verwundbare Kreaturen erleiden #b50% mehr Schaden durch Angriffe."
+    },
+    "WEAK": {
+      "NAMES": [
+        "schwach",
+        "schwächen",
+        "schwach",
+        "schwächt"
+      ],
+      "DESCRIPTION": "Schwache Kreaturen fügen mit Angriffen #b25% weniger Schaden zu."
+    },
+    "WOUND": {
+      "NAMES": [
+        "wunde",
+        "wunden"
+      ],
+      "DESCRIPTION": "Wunden sind unspielbare Statuskarten."
+    },
+    "STANCE": {
+      "NAMES": [
+        "haltung",
+        "haltungen",
+        "haltungswechsel"
+      ],
+      "DESCRIPTION": "Du kannst immer nur eine Haltung haben."
+    },
+    "WRATH": {
+      "NAMES": [
+        "zorn"
+      ],
+      "DESCRIPTION": "In dieser #yHaltung verursachst und erhältst du doppelten Angriffsschaden."
+    },
+    "CALM": {
+      "NAMES": [
+        "ruhe"
+      ],
+      "DESCRIPTION": "Erhalte beim Verlassen dieser #yHaltung [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "göttlichkeit"
+      ],
+      "DESCRIPTION": "Erhalte beim Annehmen dieser #yHaltung [W] [W] [W] . Angriffe fügen dreifachen Schaden zu. Verlasse diese #yHaltung am Beginn deines nächsten Zuges."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "durch gewalt"
+      ],
+      "DESCRIPTION": "Wenn du #b10 #yMantra erhältst, nimm #yGöttlichkeit an."
+    },
+    "SCRY": {
+      "NAMES": [
+        "spähen",
+        "spähe",
+        "spähst"
+      ],
+      "DESCRIPTION": "Sieh die obersten X Karten deines Nachziehstapels an. Du darfst beliebige davon abwerfen."
+    },
+    "REGEN": {
+      "NAMES": [
+        "erholen"
+      ],
+      "DESCRIPTION": "Erholen heilt am Ende deines Zuges TP. Erholen verringert sich in jedem Zug um #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "kraft"
+      ],
+      "DESCRIPTION": "Dein nächster Angriff fügt mehr Schaden zu."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Erhalte am Ende deines Zuges #yStärke."
+    },
+    "FATAL": {
+      "NAMES": [
+        "tödlich"
+      ],
+      "DESCRIPTION": "Wird ausgelöst, wenn diese Karte einen Gegner tötet, der kein Untertan ist."
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Alkemisto",
+    "DESCRIPTIONS": [
+      "Aĉetis 5 pociojn."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Leviĝo",
+    "DESCRIPTIONS": [
+      "Po +5% da poentsumo por ĉiu nivelo de leviĝo."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Pretero-elitoj mortaj",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Pli ol perfekte",
+    "DESCRIPTIONS": [
+      "Venku 3 estrojn sen preni damaĝon."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Estroj venkitaj",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Ĉampiono",
+    "DESCRIPTIONS": [
+      "Venku eliton sen preni damaĝon."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Trompisto",
+    "DESCRIPTIONS": [
+      "Trafis vin trompi. Se tio okazas dufoje, via poentoj neniam alŝutiĝos al la poentaro."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Urbo-elitoj mortaj",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Kolektanto",
+    "DESCRIPTIONS": [
+      "Havu 4 kopiojn de ajna nekomenca karto."
+    ]
+  },
+  "Combo": {
+    "NAME": "K-k-k-kombinaĵo",
+    "DESCRIPTIONS": [
+      "Ludu 20 kartojn en unu sola vico."
+    ]
+  },
+  "Curses": {
+    "NAME": "Malbenoj!",
+    "DESCRIPTIONS": [
+      "Via kartaro enhavas 5 malbenojn."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Enciklopediisto",
+    "DESCRIPTIONS": [
+      "Kartaro enhavas almenaŭ 50 kartojn."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Vestiblo-elitoj mortaj",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Korŝirinto",
+    "DESCRIPTIONS": [
+      "Venku la Koron."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Altlandulo",
+    "DESCRIPTIONS": [
+      "Via kartaro enhavas neniun pluropon (krom komencaj kartoj)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Mi ŝatas oron",
+    "DESCRIPTIONS": [
+      "Akiris 3 000 da oro."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliotekisto",
+    "DESCRIPTIONS": [
+      "Kartaro enhavas almenaŭ 35 kartojn."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Lumrapido",
+    "DESCRIPTIONS": [
+      "Venkis en malpli ol 45 minutoj."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimumisto",
+    "DESCRIPTIONS": [
+      "Forigis 5+ da kartoj de via kartaro."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Mono mono",
+    "DESCRIPTIONS": [
+      "Akiris 1 000 da oro."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Mistermaŝino",
+    "DESCRIPTIONS": [
+      "Vojaĝis al 15+ ? ĉambroj."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Propra decido",
+    "DESCRIPTIONS": [
+      "Memmortigis."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Tromortigo",
+    "DESCRIPTIONS": [
+      "Faru 99 da damaĝo per unu sola atako."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Almozulo",
+    "DESCRIPTIONS": [
+      "Havu 0 maloftajn kartojn."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfekte",
+    "DESCRIPTIONS": [
+      "Venku estron sen preni damaĝon."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Feketo",
+    "DESCRIPTIONS": [
+      "Ricevis la Spiritfekon."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Pluvas mono",
+    "DESCRIPTIONS": [
+      "Akiris 2 000 da oro."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Brila plaĉas",
+    "DESCRIPTIONS": [
+      "Havu 25+ relikvojn."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Rapidulo",
+    "DESCRIPTIONS": [
+      "Venkis en malpli ol 60 minutoj."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Plenmanĝite",
+    "DESCRIPTIONS": [
+      "Plialtigis vian maks. vivon je 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Manĝis bone",
+    "DESCRIPTIONS": [
+      "Plialtigis vian maks. vivon je 15+."
+    ]
+  }
+}

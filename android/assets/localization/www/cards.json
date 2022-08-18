@@ -1,0 +1,848 @@
+{
+    "Grand Finale": {
+        "NAME": "WWWWW WWWWWW",
+        "DESCRIPTION": "WWW WWWW WW WWWWWW WW WWWWW WWW WW WWWWW WW WWWW WWWW WWWW. WW WWWW !W! WWWWWW WW WWW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WW WWWW WWWW WW WWWW WW #WWWWWW."
+    },
+    "Immolate": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWWWWW W WWWW. WW WWW WWWWWW WWWW WWW W WWWWWW WW WWWWWW WWWW !W! WWWWWW WW WWW WWWWWWW."
+    },
+    "Regret": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWW WWW WW WWWW WWWWW WWWW W WW WWW WWWW WWWW WW WWWW WWWW."
+    },
+    "Crippling Poison": {
+        "NAME": "WWWWWWWWW WWWWWW",
+        "DESCRIPTION": "WWWWW !W! WWWWWW. WW WWWWW !W! WWWW."
+    },
+    "A Thousand Cuts": {
+        "NAME": "W WWWWWWWW WWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWW W WWWWW WWWW !W! WWWWWW WW WWW WWWWWWW."
+    },
+    "Spot Weakness": {
+        "NAME": "WWWW WWWWWWWW",
+        "DESCRIPTION": "WW WW WWWWW WWWWWWW WW WWWWWWW WWWW !W! WWWWWWWW."
+    },
+    "Wound": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWWWWWWWW."
+    },
+    "Writhe": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WWWWWW."
+    },
+    "Dark Shackles": {
+        "NAME": "WWWW WWWWWWWW",
+        "DESCRIPTION": "WWWWW WWWWW !W! WWWWWWWW WWW WWW WWWW WW WWWW WWWW. WW WWWWWWW."
+    },
+    "Glass Knife": {
+        "NAME": "WWWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WWWWW. WWWWW WWWWW'W WWWWWW WW WWWWWWW WW W WWWW WWWWWW."
+    },
+    "Cloak And Dagger": {
+        "NAME": "WWWWW WWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWW !W! WWWW WW WWWW WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWW. WW WWW !W! WWWWW WW WWWW WWWW."
+    },
+    "Underhanded Strike": {
+        "NAME": "WWWWWWWWWWW WWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWWW WWWW WW WWWWWWWWW WWWW WWWW WWWWW WWWW !W! WWWWWW WW W WWWWWW WWWWW.",
+        "EXTENDED_DESCRIPTION": [
+            "W WWW'W WWWW WWWW WWWW."
+        ]
+    },
+    "Anger": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW W WWWW WW WWWW WWWW WWWW WWWW WWWWWWW WWWW."
+    },
+    "Storm of Steel": {
+        "NAME": "WWWWW WW WWWWW",
+        "DESCRIPTION": "WWWWWWW WWWW WWWW. WW WWW W WWWW WW WWWW WWWW WWW WWWW WWWW WWWWWWWWW."
+    },
+    "Cleave": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW WWW WWWWWWW."
+    },
+    "Inflame": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWWWW."
+    },
+    "Sadistic Nature": {
+        "NAME": "WWWWWWWW WWWWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWWW W WWWWWW WW WW WWWWWW WWWW WWWW W WWWWWW."
+    },
+    "J.A.X.": {
+        "NAME": "W.W.W.",
+        "DESCRIPTION": "WWWW W WW. WW WWWW W WWWWWWWW . WW WWWWWWW."
+    },
+    "Offering": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WW. WW WWWW [W] [W]. WW WWWW W WWWWW. WW WWWWWWW."
+    },
+    "Exhume": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWW WW WWWWWWWWW WWWW WWW WWW WW WW WWWW WWWW. WW WWWWWWW."
+    },
+    "Power Through": {
+        "NAME": "WWWWW WWWWWWW",
+        "DESCRIPTION": "WWW W WWWWWW WW WWWW WWWW. WW WWWW !W! WWWWW."
+    },
+    "Dual Wield": {
+        "NAME": "WWWW WWWWW",
+        "DESCRIPTION": "WWWWWW W WWWW WW WW WWWWWW WW WWWWW WWWW WW WWWW WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW W WWWWWW WW WW WWWWWW WW WWWWW WWWW WW WWWW WWWW."
+    },
+    "Deadly Poison": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTION": "WWWWW !W! WWWWWW."
+    },
+    "Leg Sweep": {
+        "NAME": "WWW WWWWW",
+        "DESCRIPTION": "WWWWW !W! WWWW. WW WWWW !W! WWWWW."
+    },
+    "Flex": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWWWW. WW WW WWW WWW WW WWWW WWWWW WWWW !W! WWWWWWWW."
+    },
+    "Dagger Spray": {
+        "NAME": "WWWWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW WWW WWWWWWW WWWWW."
+    },
+    "Bullet Time": {
+        "NAME": "WWWWWW WWWW",
+        "DESCRIPTION": "WWW WWWWWW WWWW WWW WWWWW WWWW WWWW. WWWWWW WWW WWWW WW WWWWW WW WWWW WWWW WW W WWWW WWWW."
+    },
+    "Catalyst": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWWWW WW WWWWW'W WWWWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW WW WWWWW'W WWWWWW. WW WWWWWWW."
+    },
+    "Reaper": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW WWW WWWWWWW. WWWW WWW WWWWWWWWW WWWWWW WWWWW. WW WWWWWWW."
+    },
+    "Shiv": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWWWW."
+    },
+    "Tactician": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWWW WWWW WW WWWWWWWWW WWWW WWWW WWWWW WWWW [W].",
+        "UPGRADE_DESCRIPTION": "WWWWWWWWWW. WW WW WWWW WWWW WW WWWWWWWWW WWWW WWWW WWWWW WWWW [W] [W].",
+        "EXTENDED_DESCRIPTION": [
+            "W WWW'W WWWW WWWW WWWW."
+        ]
+    },
+    "Bane": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WW WWW WWWWW WW WWWWWWWWW WWWW !W! WWWWWW WWWWW."
+    },
+    "Infernal Blade": {
+        "NAME": "WWWWWWWW WWWWW",
+        "DESCRIPTION": "WWW W WWWWWW WWWWWW WW WWWW WWWW. WW WW WWWWW W WWWW WWWW. WW WWWWWWW."
+    },
+    "After Image": {
+        "NAME": "WWWWW WWWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWW W WWWWW WWWW W WWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW. WW WWWWWWWW WWW WWWW W WWWWW WWWW W WWWWW."
+    },
+    "Unload": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWWWW WWW WWW-WWWWWW WWWWW."
+    },
+    "Blade Dance": {
+        "NAME": "WWWWW WWWWW",
+        "DESCRIPTION": "WWW !W! WWWWW WW WWWW WWWW."
+    },
+    "Deflect": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW."
+    },
+    "Trip": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWWW W WWWWWWWWWW."
+    },
+    "Dagger Throw": {
+        "NAME": "WWWWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW W WWWW. WW WWWWWWW W WWWW."
+    },
+    "Brutality": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WW WWW WWWWW WW WWWW WWWWW WWWW W WW WWW WWWW W WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW. WW WW WWW WWWWW WW WWWW WWWWW WWWW W WW WWW WWWW W WWWW."
+    },
+    "Iron Wave": {
+        "NAME": "WWWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWW !W! WWWWWW."
+    },
+    "Reckless Charge": {
+        "NAME": "WWWWWWWW WWWWWW",
+        "DESCRIPTION": "WWWW W WWWWWWWWWW. WW WWWW !W! WWWWWW."
+    },
+    "Decay": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWW WWW WW WWWW WWWWW WWWW W WWWWWW."
+    },
+    "Tools of the Trade": {
+        "NAME": "WWWWW WW WWW WWWWW",
+        "DESCRIPTION": "WW WWW WWWWW WW WWWW WWWWW WWWW W WWWW WWW WWWWWWW W WWWW."
+    },
+    "Dramatic Entrance": {
+        "NAME": "WWWWWWWW WWWWWWWW",
+        "DESCRIPTION": "WWWWWW. WW WWWW !W! WWWWWW WW WWW WWWWWWW. WW WWWWWWW."
+    },
+    "Hemokinesis": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WW. WW WWWW !W! WWWWWW."
+    },
+    "Intimidate": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWWW !W! WWWW WW WWW WWWWWWW. WW WWWWWWW."
+    },
+    "Necronomicurse": {
+        "NAME": "WWWWWWWWWWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WWWWW WW WW WWWWWW WWWW WWWW WWWWW."
+    },
+    "Choke": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWWWWW WWW WWWW W WWWW WWWW WWWWW WWWWWWWW WWWWW WWWWW !W! WW."
+    },
+    "Juggernaut": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWW WWWWWW WWWW !W! WWWWWW WW W WWWWWW WWWWW."
+    },
+    "Caltrops": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWW WWWWWWWWW WWWW !W! WWWWWW WW WWW WWWWWWWW."
+    },
+    "Poisoned Stab": {
+        "NAME": "WWWWWWWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW !W! WWWWWW."
+    },
+    "Blur": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWW WW WWW WWWWWWW WW WWW WWWWW WW WWWW WWWW WWWW."
+    },
+    "Body Slam": {
+        "NAME": "WWWW WWWW",
+        "DESCRIPTION": "WWWW WWWWWW WWWWW WW WWWW WWWWWWW WWWWW.",
+        "UPGRADE_DESCRIPTION": " WW (WWWWW !W! WWWWWW.)"
+    },
+    "True Grit": {
+        "NAME": "WWWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW W WWWWWW WWWW WW WWWW WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW W WWWW WW WWWW WWWW."
+    },
+    "Setup": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWWW W WWWW WWWW WWWW WWWW WW WWW WW WWWW WWWW WWWW. WW WW WWWWW W WWWWW WW WW WWWWWW."
+    },
+    "Blood for Blood": {
+        "NAME": "WWWWW WWW WWWWW",
+        "DESCRIPTION": "WWWWW W WWWW [W] WW WWW WWWW WWWW WWW WWWW WW WW WWWWWW. WW WWWW !W! WWWWWW."
+    },
+    "Impervious": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW."
+    },
+    "Shrug It Off": {
+        "NAME": "WWWWW WW WWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWW W WWWW."
+    },
+    "Clash": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWW WWWW WW WWWWWW WW WWWWW WWWW WW WWWW WWWW WW WW WWWWWW. WW WWWW !W! WWWWWW.",
+        "EXTENDED_DESCRIPTION": [
+            "W WWWW WWW-WWWWWW WWWWW WW WW WWWW."
+        ]
+    },
+    "Thunderclap": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WWW WWWWW W WWWWWWWWWW WW WWW WWWWWWW."
+    },
+    "Flame Barrier": {
+        "NAME": "WWWWW WWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWWW WWW WWW WWWWWWWW WWWW WWWWW WWWW !W! WWWWWW WW WWW WWWWWWWW. "
+    },
+    "Endless Agony": {
+        "NAME": "WWWWWWW WWWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWW WWWW WWWWW WWW W WWWW WW WW WW WWWW WWWW. WW WWWW !W! WWWWWW. WW WWWWWWW."
+    },
+    "Berserk": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WW WWWW WW WW WWWWW WW%W WWWW [W] WW WWW WWWWW WW WWWW WWWW."
+    },
+    "Pummel": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW !W! WWWWW. WW WWWWWWW."
+    },
+    "Riddle With Holes": {
+        "NAME": "WWWWWW WWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW W WWWWW."
+    },
+    "Burning Pact": {
+        "NAME": "WWWWWWW WWWW",
+        "DESCRIPTION": "WWWWWWW W WWWW. WW WWWW !W! WWWWW."
+    },
+    "Metallicize": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WW WWW WWW WW WWWW WWWWW WWWW !W! WWWWW."
+    },
+    "Pommel Strike": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW !W! WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW !W! WWWWW."
+    },
+    "Pain": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WWWWW WW WWWWW WW WWWW W WW WWWW WWWWW WWWWW WWW WWWWWW."
+    },
+    "Burst": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWW WWWWW WWWW WWWW WWWWW WW WWWWWW WWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW WWWWW WWWW WWWW !W! WWWWWW WWW WWWWWW WWWWW."
+    },
+    "Acrobatics": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW W WWWW."
+    },
+    "Blind": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWWW W WWWW."
+    },
+    "Doppelganger": {
+        "NAME": "WWWWWWWWWWWW",
+        "DESCRIPTION": "WWWW WWWWW WWWW W WWWWW WWW WWWW W [W]. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW WWWWW WWWW W+W WWWWW WWW WWWW W+W [W]. WW WWWWWWW."
+    },
+    "Skewer": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWW WWW [W]. WW WWWW !W! WWWWWW W WWWWW."
+    },
+    "Envenom": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWWWWWW WW WWWWWW WWWWW WWWWWWWWW WWWWWWW WWWWW W WWWWWW."
+    },
+    "Adrenaline": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWW [W]. WW WWWW W WWWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW [W] [W]. WW WWWW W WWWWW. WW WWWWWWW."
+    },
+    "Quick Slash": {
+        "NAME": "WWWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW W WWWW."
+    },
+    "Twin Strike": {
+        "NAME": "WWWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WWWWW."
+    },
+    "Parasite": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWWWWWWWWWW WW WWWWWWW WWWW WWWW WWWWW WWWW W WWW WW"
+    },
+    "Bash": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW !W! WWWWWWWWWW."
+    },
+    "Clothesline": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW !W! WWWW."
+    },
+    "Shockwave": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWW !W! WWWW WWW WWWWWWWWWW WW WWW WWWWWWW. WW WWWWWWW."
+    },
+    "Rampage": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW WWWW WWWW WWWW WW WWWWWWW WWWWWWWW WWW WWWWWW WW !W! WWW WWWW WWWWWW."
+    },
+    "Bandage Up": {
+        "NAME": "WWWWWWW WW",
+        "DESCRIPTION": "WWWW W. WW WWWWWWW."
+    },
+    "The Bomb": {
+        "NAME": "WWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW WWWWWWWW (WWWWWWWWW WWWWWWWW). WW WWWWWWW."
+    },
+    "Sever Soul": {
+        "NAME": "WWWWW WWWW",
+        "DESCRIPTION": "WWWWWWW WWW WWW-WWWWWW WWWWW WW WWWW WWWW. WW WWWW !W! WWWWWW."
+    },
+    "Whirlwind": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWW WWW [W]. WW WWWW !W! WWWWWW WW WWW WWWWWWW W WWWWW."
+    },
+    "Warcry": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW W WWWWW. WW WWWWW W WWWW WWWW WWWW WWWW WW WWW WW WWWW WWWW WWWW. WW WWWWWWW."
+    },
+    "PiercingWail": {
+        "NAME": "WWWWWWWW WWWW",
+        "DESCRIPTION": "WWW WWWWWWW WWWW !W! WWWWWWWW WWW W WWWW. WW WWWWWWW."
+    },
+    "Bite_R": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW !W! WW."
+    },
+    "Bite_G": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW !W! WW."
+    },
+    "Bite_B": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW !W! WW."
+    },
+    "Secret Technique": {
+        "NAME": "WWWWWW WWWWWWWWW",
+        "DESCRIPTION": "WWWWWW W WWWWW WWWW WWWW WWWW WWWW WWW WWWWW WW WWWW WWWW WWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWW WWW WW WWWWWW WW WW WW WWWW WWWW."
+    },
+    "Calculated Gamble": {
+        "NAME": "WWWWWWWWWW WWWWWW",
+        "DESCRIPTION": "WWWWWWW WWWW WWWWW WW WWWW WWWW WWWW WWWW WWWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWWW WWWW WWWWW WW WWWW WWWW WWWW WWWW WWWWW."
+    },
+    "Combust": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WW WWW WWW WW WWWW WWWWW WWWW W WW WWW WWWW !W! WWWWWW WW WWW WWWWWWW."
+    },
+    "Deep Breath": {
+        "NAME": "WWWW WWWWWW",
+        "DESCRIPTION": "WWWWWWW WWWW WWWWWWW WWWW WWWW WWWW WWWW WWWW. WW WWWW W WWWW."
+    },
+    "Doubt": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWW WWW WW WWWW WWWWW WWWW W WWWW."
+    },
+    "Escape Plan": {
+        "NAME": "WWWWWW WWWW",
+        "DESCRIPTION": "WWWW W WWWW. WW WW WWW WWWW WW W WWWWWW WWWW !W! WWWWW."
+    },
+    "Finisher": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WWW WWWW WWWWWW WWWWWW WWWW WWWW.",
+        "EXTENDED_DESCRIPTION": [
+            " WW (WWW WWWW WWWWWW ",
+            " WWWWWW.)",
+            " WWWWWWW.)"
+        ]
+    },
+    "Dark Embrace": {
+        "NAME": "WWWW WWWWWWW",
+        "DESCRIPTION": "WWWWWWWW W WWWW WW WWWWWWWWWW WW WWWW W WWWW."
+    },
+    "Die Die Die": {
+        "NAME": "WWW WWW WWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW WWW WWWWWWW. WW WWWWWWW."
+    },
+    "Well Laid Plans": {
+        "NAME": "WWWW-WWWW WWWWW",
+        "DESCRIPTION": "WW WWW WWW WW WWWW WWWWW WWWWWW WW WW !W! WWWW.",
+        "UPGRADE_DESCRIPTION": "WW WWW WWW WW WWWW WWWWW WWWWWW WW WW !W! WWWWW."
+    },
+    "Defend_R": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW."
+    },
+    "Defend_G": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW."
+    },
+    "Defend_B": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW."
+    },
+    "Seeing Red": {
+        "NAME": "WWWWWW WWW",
+        "DESCRIPTION": "WWWW [W] [W]. WW WWWWWWW."
+    },
+    "Disarm": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWW WWWWW !W! WWWWWWWW. WW WWWWWWW."
+    },
+    "Panache": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWWW WWWW WWW WWWW W WWWWW WW W WWWWWW WWWWW WWWW WW WWWWWW WW WWW WWWWWWW."
+    },
+    "Fiend Fire": {
+        "NAME": "WWWWW WWWW",
+        "DESCRIPTION": "WWWWWWW WWWW WWWW. WW WWWW !W! WWWWWW WWW WWWW WWWWWWWWW WWWW. WW WWWWWWW."
+    },
+    "Terror": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWW WW WWWWWWWWWW. WW WWWWWWW."
+    },
+    "Dazed": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WWWWWWWW."
+    },
+    "Barricade": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWW WW WWWWWW WWWWWWW WW WWW WWWWW WW WWWW WWWW."
+    },
+    "Armaments": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW W WWWW WW WWWW WWWW WWW WWW WWWW WW WWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW WWW WWWWW WW WWWW WWWW WWW WWW WWWW WW WWWWWW."
+    },
+    "Havoc": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWW WWW WWW WWWW WW WWWW WWWW WWWW WWW WWWWWWW WW."
+    },
+    "Secret Weapon": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTION": "WWWWWW WW WWWWWW WWWW WWWW WWWW WWWW WWW WWWWW WW WWWW WWWW WWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWW WWW WW WWWWWWW WW WW WW WWWW WWWW."
+    },
+    "Apotheosis": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWWWWW WWW WW WWWW WWWWW WWW WWW WWWW WW WWWWWW. WW WWWWWWW."
+    },
+    "Feel No Pain": {
+        "NAME": "WWWW WW WWWW",
+        "DESCRIPTION": "WWWWWWWW W WWWW WW WWWWWWWWWW WW WWWW !W! WWWWW."
+    },
+    "Hide": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWW WWWWWW WWWW WW WWWWW WWW WWWWW WW WWWW WWWW WWWW. WW WWWWWWW."
+    },
+    "Corruption": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWWWW WWWW W. WW WWWWWWWW WWW WWWW W WWWWWW WWWWWWW WW."
+    },
+    "Heel Hook": {
+        "NAME": "WWWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WW WWW WWWWW WW WWWWW WW WWWW [W] WWW WW WWWW W WWWW."
+    },
+    "Injury": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW."
+    },
+    "Rage": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWW WW WWWWWW WWWW WWWWW WWWW !W! WWWWW."
+    },
+    "Headbutt": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW W WWWW WWWW WWWW WWWWWWW WWWW WW WWW WW WWWW WWWW WWWW."
+    },
+    "Limit Break": {
+        "NAME": "WWWWW WWWWW",
+        "DESCRIPTION": "WWWWWW WWWW WWWWWWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW WWWW WWWWWWWW."
+    },
+    "Entrench": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWWWW WWWW WWWWWWW WWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW WWWW WWWWWWW WWWWW."
+    },
+    "Noxious Fumes": {
+        "NAME": "WWWWWWW WWWWW",
+        "DESCRIPTION": "WW WWW WWWWW WW WWWW WWWWW WWWWW !W! WWWWWW WW WWW WWWWWWW."
+    },
+    "Infinite Blades": {
+        "NAME": "WWWWWWWW WWWWWW",
+        "DESCRIPTION": "WW WWW WWWWW WW WWWW WWWWW WWW W WWWW WW WWWW WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWW. WW WW WWW WWWWW WW WWWW WWWWW WWW W WWWW WW WWWW WWWW."
+    },
+    "Phantasmal Killer": {
+        "NAME": "WWWWWWWWWW WWWWWW",
+        "DESCRIPTION": "WW WWWW WWWW WWWWW WWWW WWWWWW WWWWWW WW WWWWWWW."
+    },
+    "Malaise": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWWW WWW [W]. WW WWWWW WWWWW W WWWWWWWW. WWWWW W WWWW. WW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWW WWW [W]. WW WWWWW WWWWW W+W WWWWWWWW. WWWWW W+W WWWW. WW WWWWWWW."
+    },
+    "Reflex": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWWW WWWW WW WWWWWWWWW WWWW WWWW WWWWW WWWW !W! WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWWWWWW. WW WW WWWW WWWW WW WWWWWWWWW WWWW WWWW WWWWW WWWW !W! WWWWW.",
+        "EXTENDED_DESCRIPTION": [
+            "W WWW'W WWWW WWWW WWWW."
+        ]
+    },
+    "Sentinel": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WW WWWW WWWW WW WWWWWWWWWW WW WWWW [W] [W].",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWW. WW WW WWWW WWWW WW WWWWWWWWWW WW WWWW [W] [W] [W]."
+    },
+    "Survivor": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW W WWWW."
+    },
+    "Wild Strike": {
+        "NAME": "WWWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWWWW W WWWWW WWWW WWWW WWWW WWWW."
+    },
+    "Eviscerate": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWWW W WWWW [W] WW WWW WWWW WWWW WWWWWWWWW WWWW WWWW. WW WWWW !W! WWWWWW WWWWW WWWWW."
+    },
+    "Flash of Steel": {
+        "NAME": "WWWWW WW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW W WWWW."
+    },
+    "Battle Trance": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWW WWWWWW WWWW WWW WWWWWWWWWW WWWWW WWWW WWWW."
+    },
+    "Heavy Blade": {
+        "NAME": "WWWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWWWWW WWWWWWW WWWWW WWWWW !W! WWWWW."
+    },
+    "Clumsy": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WWWWWWWW."
+    },
+    "Searing Blow": {
+        "NAME": "WWWWWWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWW WW WWWWWWWW WWW WWWWWW WW WWWWW."
+    },
+    "Corpse Explosion": {
+        "NAME": "WWWWWW WWWWWWWWW",
+        "DESCRIPTION": "WWWWW WWWWW WWW WWWWWW. WWWW WWWWWW WWWWW WW WWWWW WWW WWWWWW WWWW WW WWW WWWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWW WWWWW WWW WWWWWW. WWWW WWWWWW WWWWW WW W WWWWW WWW WWWWWW WWWW WW WWW WWWWWWW."
+    },
+    "Second Wind": {
+        "NAME": "WWWWWW WWWW",
+        "DESCRIPTION": "WWWWWWW WWW WWW-WWWWWW WWWWW WW WWWW WWWW WWW WWWW !W! WWWWW WWW WWWW."
+    },
+    "Enlightenment": {
+        "NAME": "WWWWWWWWWWWWW",
+        "DESCRIPTION": "WWWWWW WWW WWWW WW WWWWW WW WWWW WWWW WW W WWWW WWWW."
+    },
+    "Purity": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWW WWW WWWWWWW W WWWWW WW WWWW WWWW. WW WWWWWWW."
+    },
+    "Panacea": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWW WWW WWWWWW WWWWWWWWWWW WWW WWWW."
+    },
+    "Dash": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWW !W! WWWWWW."
+    },
+    "Transmutation": {
+        "NAME": "WWWWWWWWWWWWW",
+        "DESCRIPTION": "WWWWWWWWW WWWW WWWW. WW WWWWWWW."
+    },
+    "Backstab": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWWW. WW WWWWWWW."
+    },
+    "Feed": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WW WWWW WWWWW WWW WWWWWW WWWW !W! WWWWWWWWW WWW WW. WWWWWWW."
+    },
+    "Rupture": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWWWWWW WWW WWWW WW WWWW W WWWWW WW WWWW W WWWWWWWW."
+    },
+    "Venomology": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWWW W WWWWWW WWWWWW. WW WWWWWWW."
+    },
+    "Bouncing Flask": {
+        "NAME": "WWWWWWWW WWWWW",
+        "DESCRIPTION": "WWWWW W WWWWWW WW W WWWWWW WWWWW !W! WWWWW."
+    },
+    "Bludgeon": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW."
+    },
+    "Finesse": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWW W WWWW."
+    },
+    "Slice": {
+        "NAME": "WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW."
+    },
+    "Backflip": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWW W WWWWW."
+    },
+    "Outmaneuver": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WWWW WWWW WW WWWW [W] [W].",
+        "UPGRADE_DESCRIPTION": "WWWW WWWW WW WWWW [W] [W] [W]."
+    },
+    "Night Terror": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWWW W WWWW. WW WWWW WWWWW WWW !W! WWWWWW WW WWWW WWWW WWWW WWWW WWWW. WWWWWWW.",
+        "EXTENDED_DESCRIPTION": [
+            "W WWW WWWW WWW WW ",
+            " WW WWWW WWW WWWW."
+        ]
+    },
+    "Bloodletting": {
+        "NAME": "WWWWWWWWWWWW",
+        "DESCRIPTION": "WWWW [W]. WW WWWW W WW.",
+        "UPGRADE_DESCRIPTION": "WWWW [W] [W]. WW WWWW W WW."
+    },
+    "Concentrate": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WWWWWWW !W! WWWWW. WW WWWW [W] [W]."
+    },
+    "Master of Strategy": {
+        "NAME": "WWWWWW WW WWWWWWWW",
+        "DESCRIPTION": "WWWW W WWWWW. WW WWWWWWW."
+    },
+    "Flechettes": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WWW WWWW WWWWW WW WWWW WWWW.",
+        "EXTENDED_DESCRIPTION": [
+            " WW (WWW WWWW ",
+            " WWWWW).",
+            " WWWWWW)."
+        ]
+    },
+    "Perfected Strike": {
+        "NAME": "WWWWWWWWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW WW WWWWWWWWWW +W WWWWWW WWW WWW WW WWWW WWWWW WWWWWWWWWW \"WWWWWW\".",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW WW WWWWWWWWWW +W WWWWWW WWW WWW WW WWWW WWWWW WWWWWWWWWW \"WWWWWW\"."
+    },
+    "Carnage": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "WWWWWWWW. WW WWWW !W! WWWWWW."
+    },
+    "Masterful Stab": {
+        "NAME": "WWWWWWWWW WWWW",
+        "DESCRIPTION": "WWW WWWW WW WWWWWW WW WWWWW WWW WW WWWWW WWWWW WW WWWW WWWW. WW WWWW !W! WWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW WWW WW WW WW WW WWWW WWWW."
+    },
+    "Good Instincts": {
+        "NAME": "WWWW WWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW."
+    },
+    "Prepared": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWW. WW WWWWWWW !W! WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW !W! WWWWW. WW WWWWWWW !W! WWWWW."
+    },
+    "Dropkick": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WW WWW WWWWW WW WWWWWWWWWWW WW WWWW [W] WWW WW WWWW W WWWW."
+    },
+    "Swift Strike": {
+        "NAME": "WWWWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW."
+    },
+    "Normality": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WWW WWWWWW WWWW WWWW WWWW W WWWWW WWW WWWW.",
+        "EXTENDED_DESCRIPTION": [
+            "W WWW WWWW WWWW WW WW WW #WW WWWWW WWW WWWW.",
+            "WWWWWWWWWW. WW WWW WWWWWW WWWW WWWW WWWW ",
+            " WWWWW WWW WWWW.",
+            " WWWWW WWW WWWW. WW WWW WWWW WWWWWW ",
+            " WWWW WWWW WWWW."
+        ]
+    },
+    "Accuracy": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWWW WWWW !W! WWWWWWWWWW WWWWWW."
+    },
+    "Sword Boomerang": {
+        "NAME": "WWWWW WWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW W WWWWWW WWWWW !W! WWWWW."
+    },
+    "Jack Of All Trades": {
+        "NAME": "WWWW WW WWW WWWWWW",
+        "DESCRIPTION": "WWW W WWWWWW WWWWWWWWW WWWW WW WWWW WWWW. WW WWWWWWW."
+    },
+    "Demon Form": {
+        "NAME": "WWWWW WWWW",
+        "DESCRIPTION": "WW WWW WWWWW WW WWWW WWWWW WWWW !W! WWWWWWWW."
+    },
+    "Fire Breathing": {
+        "NAME": "WWWW WWWWWWWWW",
+        "DESCRIPTION": "WW WWW WWW WW WWWW WWWWW WWW WWWW WWWWWW WWWWWW WWWW WWWW WWWW W WWWWWW WW WWW WWWWWWW."
+    },
+    "Ghostly Armor": {
+        "NAME": "WWWWWWW WWWWW",
+        "DESCRIPTION": "WWWWWWWW. WW WWWW !W! WWWWW."
+    },
+    "Uppercut": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW !W! WWWW. WW WWWWW !W! WWWWWWWWWW."
+    },
+    "Mind Blast": {
+        "NAME": "WWWW WWWWW",
+        "DESCRIPTION": "WWWW WWWWWW WWWWW WW WWW WWWWWW WW WWWWW WW WWWW WWWW WWWW."
+    },
+    "Neutralize": {
+        "NAME": "WWWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW !W! WWWW."
+    },
+    "Strike_R": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW."
+    },
+    "Strike_G": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW."
+    },
+    "Strike_B": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW."
+    },
+    "Evolve": {
+        "NAME": "WWWWWW",
+        "DESCRIPTION": "WWWWWWW W WWWWWW WWWW WWWW WWWW WWWW. WW WWWWWWWW WWW WWWW W WWWWWW WWWW !W! WWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWWW W WWWWWW WWWW WWWW WWWW WWWW. WW WWWWWWWW WWW WWWW W WWWWWW WWWW !W! WWWWW."
+    },
+    "Burn": {
+        "NAME": "WWWW",
+        "DESCRIPTION": "WWWWWWWWWW. WW WW WWW WWW WW WWWW WWWWW WWWW W WWWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWWWWWWWW. WW WW WWW WWW WW WWWW WWWWW WWWW W WWWWWW."
+    },
+    "Sucker Punch": {
+        "NAME": "WWWWWW WWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWWW !W! WWWW."
+    },
+    "Double Tap": {
+        "NAME": "WWWWWW WWW",
+        "DESCRIPTION": "WWWW WWWWW WWWW WWWW WWWWWW WW WWWWWW WWWWW.",
+        "UPGRADE_DESCRIPTION": "WWWW WWWWW WWWW WWWW !W! WWWWWWW WWW WWWWWW WWWWW."
+    },
+    "Footwork": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWWWWW."
+    },
+    "Thinking Ahead": {
+        "NAME": "WWWWWWWW WWWWW",
+        "DESCRIPTION": "WWWW W WWWWWW WWWW WWW W WWWW WWWW WWWW WWWW WW WWW WW WWWW WWWW WWWW."
+    },
+    "Distraction": {
+        "NAME": "WWWWWWWWWWW",
+        "DESCRIPTION": "WWW W WWWWWW WWWWW WW WWWW WWWW. WW WW WWWWW W WWWW WWWW. WW WWWWWWW."
+    },
+    "Dodge and Roll": {
+        "NAME": "WWWWW WWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWWW WWWW WWWW !W! WWWWW."
+    },
+    "All Out Attack": {
+        "NAME": "WWW-WWW WWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW WW WWW WWWWWWW. WW WWWW W WWWW WWWW WWWW WWWW."
+    },
+    "Flying Knee": {
+        "NAME": "WWWWWW WWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW WWWW WWWW [W]."
+    },
+    "Predator": {
+        "NAME": "WWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWWW. WW WWWW W WWWW WWWWW WWWW WWWW."
+    },
+    "Madness": {
+        "NAME": "WWWWWWW",
+        "DESCRIPTION": "W WWWWWW WWWW WW WWWW WWWW WWWWW W WWW WWW WWWW WW WWWWWW. WW WWWWWWW."
+    },
+    "Expertise": {
+        "NAME": "WWWWWWWWW",
+        "DESCRIPTION": "WWWW !W! WWWWW. WW WWW WW WWWWWWWW WWW WWWWWW WW WWWWW."
+    }
+}

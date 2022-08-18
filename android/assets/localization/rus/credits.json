@@ -1,0 +1,409 @@
+{
+  "ANIMATION": {
+    "HEADER": "Анимация персонажей",
+    "NAMES": [
+      "Хулио Дуке Монтеро (Julio Duque Montero)",
+      "Джон Сэндлер (Jon Sandler)"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Разработка и дизайн",
+    "NAMES": [
+      "Энтони Джованнетти (Anthony Giovannetti)",
+      "Кейси Яно (Casey Yano)"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Иллюстрации фонов и промо",
+    "NAMES": [
+      "Брюс Бреннейс (Bruce Brenneise)"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Дополнительный перевод",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Перевод на каталанский",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Перевод на немецкий",
+    "NAMES": [
+      "Джошуа «Joshipon» Виганд (Joshua «Joshipon» Wiegand)",
+      "Дастин «Skrelpoid» Кристен (Dustin «Skrelpoid» Kristen)",
+      "Кристоф «Deknud» Хартман (Christoph «Deknud» Hartmann)",
+      "Джонас Тродлер (Jonas Trodler)",
+      "«Hongkong Koma»",
+      "«Moly»",
+      "«koykoy13»",
+      "Магнус Упманн (Magnus Upmann)"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Перевод на Нидерландский ",
+    "NAMES": [
+      "Предводитель гремлинов:",
+      "Елле Стейнманн «NotADitto» (Jelle Steinmann «NotADitto»)",
+      "Гремлин-верзила:",
+      "Чарли «Alcus» Йе (Charlie «Alcus» Ye)",
+      "Гремлины:",
+      "Оскар Каусин (Oscar Cousin)",
+      "«Meriscan»",
+      "Лисе Лейтнер (Lise Leitner)",
+      "Йорис «Mort» Богерс (Joris «Mort» Bogers)"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Перевод на эсперанто",
+    "NAMES": [
+      "Винсент «Babelismoj» Оостелбос (Vincent «Babelismoj» Oostelbos)",
+      "Спенсер ван дер Мейлен (Spencer van der Meulen)"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "Перевод на французский",
+    "NAMES": [
+      "Ксавье «Blagatt» Дюпон (Xavier «Blagatt» Dupont)",
+      "Малик «Devexia» Леонарски (Malik «Devexia» Leonarski)",
+      "Томас «Elgerine» Ферри (Thomas «Elgerine» Ferry)",
+      "Винсент «Henip» Барту (Vincent «Henip» Bartoux)",
+      "Александр «Judgy» Гобер (Alexandre «Judgy» Gaubert)",
+      "Винсент «MissingNoShiny» Ларсе (Vincent «MissingNoShiny» Larcin)",
+      "Ники «Qazahar» Дехаут (Nicky «Qazahar» Dehout)",
+      "Жюльен «RoPeTTe» Роперо (Julien «RoPeTTe» Ropero)",
+      "Боби «Tagada» Вурпилло (Boby «Tagadae» Vurpillot)",
+      "Корентен «Tchus» Монфор (Corentin «Tchus» Monfort)",
+      "Закари «WyvernZed» Джанис (Zachary «WyvernZed» Janisse)"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Перевод на греческий",
+    "NAMES": [
+      "Котсос «Iglor» Даймонд (Kotsos «Iglor» Diamond)"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Перевод на индонезийский",
+    "NAMES": [
+      "Адитя «RiSQ.» Арифин (Aditya «RiSQ.» Arifin)",
+      "Дарьян «Samus» Рамадханы (Daryan «Samus» Ramadhany)",
+      "Хэйвизал «Szaal» Фэрокуи (Haveiszal «Szaal» Faroqie)",
+      "Джейсон Джулиан (Jason Julian)"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "Перевод на итальянский",
+    "NAMES": [
+      "Джейд «HobNob» Стеванович (Jade «HobNob» Stevanovic)",
+      "Марко Меро (Mero Marco)",
+      "Луиджи Скварцина (Luigi Squarzina)",
+      "Тестирование:",
+      "«Mattylink Heropon»"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "Перевод на японский",
+    "NAMES": [
+      "«Grezzz» (перевод от сообщества)",
+      "Kakehashi Games (официальный перевод)"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Перевод на корейский",
+    "NAMES": [
+      "Перевод и координация:",
+      "«Eteriny»",
+      "Fissh",
+      "GyeRyak",
+      "Перевод:",
+      "«Simcoding»",
+      "«DesFrog»",
+      "«insight»",
+      "«K4lium»",
+      "«hina»",
+      "Vekan",
+      "Шрифты:",
+      "Внутриигровой: GyeonggiCheonnyeon(Batang) от Gyeonggi-Do",
+      "Текст магазина: NanumBrush, NanumPen от NAVER Corporation"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Перевод на норвежский",
+    "NAMES": [
+      "Эйстейн Ярп (Eystein Jarp)"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Перевод на польский",
+    "NAMES": [
+      "Перевод и координация:",
+      "Станислав «ST4H» Борковский (Stanisław «ST4H» Borkowski)",
+      "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
+      "Дополнительный перевод:",
+      "Адриан «xeros» Ролка (Adrian «xeros» Rolka)",
+      "Марек «Skorpionex» Мазур (Marek «Skorpionex» Mazur)",
+      "Foreigner",
+      "Корректировка:",
+      "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
+      "Предложения и отзывы:",
+      "Каспер «Awokado» Бера (Kasper «Awokado» Berс)",
+      "Павел «BASTIL» Калета (Paweł «BASTIL» Kaleta)",
+      "Гжегож «GregPL» Богуславский (Grzegorz «GregPL» Bogusławski)",
+      "Эрвин «mateusz3010» Матис (Erwin «mateusz3010» Matys)",
+      "«Mettie»",
+      "Рафал «SponTon83» Шишко (Rafał «SponTon83» Szyszko)"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Перевод на бразильский португальский",
+    "NAMES": [
+      "Гильерме «GPerego» Перего (Guilherme «GPerego» Perego)",
+      "Густаво «KomKlave» Дуарте (Gustavo «KomKlave» Duarte)",
+      "Хосе «Maneimax» Васконселос (José «Maneimax» Vasconcelos)",
+      "Леонардо «Iikat» Такии (Leonardo «Iikat» Takii)",
+      "Натан «NoxShadow» Сервиери (Nathan «NoxShadow» Cervieri)",
+      "Пауло «SilverTape» Хаук (Paulo «SilverTape» Hauck)"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "Перевод на русский",
+    "NAMES": [
+      "Перевод:",
+      "Иван «Ingrett» Хорошуненко (Ivan «Ingrett» Khoroshunenko)",
+      "Владислав «Vlad-00003» Большаков (Vladislav «Vlad-00003» Bolshakov)",
+      "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
+      "Помощь в переводе:",
+      "Дмитрий «Gentle Giant» Гицман (Dmitry «Gentle Giant» Gitsman)",
+      "«Неприм»",
+      "Михаил «Outmind» Дюжев (Mikhail «Outmind» Dyuzhev)",
+      "Богдан «DarkRosse» Калитюк (Bohdan «DarkRosse» Kalytiuk)",
+      "Сергей «lol10801lol» К. (Sergey «lol10801lol» K.)",
+      "«Ascimator»",
+      "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
+      "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
+      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
+      "Перевод графики магазина:",
+      "«Urist McFerrum»"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Перевод на испанский",
+    "NAMES": [
+      "Перевод и координация:",
+      "Джуанджо «ajuanjojjj» Мартинез (Juanjo «ajuanjojjj» Martinez)",
+      "Педро-Луис «PerikiyoXD» Валадес Виера (Pedro Luis «PerikiyoXD» Valadés Viera)",
+      "Перевод:",
+      "Эрик Маррокин (Erick Marroquin)",
+      "«Accord»",
+      "Хавьер «xabad98» Абад Салинас (Xavier «xabad98» Abad Salinas)",
+      "Серхио «Skiddome» Малагон (Sergio «Skiddome» Malagón)",
+      "Педро Дж. «PJJLegend» Хименес Мояно (Pedro J. «PJJLegend» Jiménez Moyano)",
+      "Родриго «skylex» Забатаро (Rodrigo «skylex» Zabattaro)",
+      "Альберто «RadeonThe1st» Ботана (Alberto «RadeonThe1st» Botana)",
+      "«Spooktacular»",
+      "Художественный текст и вычитка:",
+      "Хоакин «Pip1n» Лопез (Joaquín «Pip1n» López)",
+      "Хавьер Кастанер (Xavier Castañer)",
+      "«Summer»",
+      "«Eipic»"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Перевод на сербский",
+    "NAMES": [
+      "Никола «hauzer» Вукосавьевич (Nikola «hauzer» Vukosavljević)"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "Перевод на тайский",
+    "NAMES": [
+      "Перевод и координация:",
+      "Ноппон «PlearnGaming» Варапайбун (Noppon «PlearnGaming» Varapaiboon)",
+      "Помощь в переводе:",
+      "Рапепат «Yuu» Суван (Rapeepat «Yuu» Suwan)",
+      "Саравут «Tomoeic» Суван (Sarawut «Tomoeic» Suwan)",
+      "Шрифты:",
+      "CSChatThaiUI от raveetavan@gmail.com",
+      "Layiji MaHaNiYom от layiji@gmail.com"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Перевод на турецкий",
+    "NAMES": [
+      "Перевод и координация:",
+      "Эртюрк Йылмаз (Ertürk Yılmaz)",
+      "Перевод:",
+      "Эрдем Гюрбюз (Erdem Gürbüz)",
+      "Эге «sLanKy» Гючкеран (Ege «sLanKy» Güçkıran)",
+      "«onparalelkenarag»",
+      "Беркан Каликоглу (Berkan Çalıkoğlu)"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Перевод на украинский",
+    "NAMES": [
+      "Перевод и координация:",
+      "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)",
+      "Правки и перевод:",
+      "Василь «RDSk» Михалюк (Vasyl «RDSk» Mykhaliuk)",
+      "Артём «Crazytosik» Земляни (Artem «Crazytosik» Zemlianyi)",
+      "Дарья «Dariianity» Поречная (Dariia «Dariianity» Porechna)"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Перевод на вьетнамский",
+    "NAMES": [
+      "Команда переводчиков MercTrans",
+      "Перевод:",
+      "Динь Лон Хан «donkrieg1011» (Dinh Long Hoang «donkrieg1011»)",
+      "Динь Хон Ньен «clesta» (Dinh Hoang Nguyen «clesta»)",
+      "Ведущий лингвист/координирование:",
+      "Хан Сон До (Hoang Son Do)",
+      "Особая благодарность:",
+      "Эзи Тейзер (Azy Tazer)"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Перевод на китайский (упрощённый)",
+    "NAMES": [
+      "«Sound of Mystery»",
+      "«IrisRaphael»"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Перевод на китайский (традиционный)",
+    "NAMES": [
+      "«professor»",
+      "«bowans»",
+      "«Angryfox»"
+    ]
+  },
+  "OPS": {
+    "HEADER": "Операции и метрики",
+    "NAMES": [
+      "Даниэлла Дженкинс (Danielle Jenkins)",
+      "Джейк Рабиновиц (Jake Rabinowitz)"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Графика карт и событий",
+    "NAMES": [
+      "Анаилис Дорта (Anailis Dorta)"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Звуковое сопровождение",
+    "NAMES": [
+      "Кларк Эбауд (Clark Aboud)"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Особая благодарность",
+    "NAMES": [
+      "Гарри Рабиновиц (Harry Rabinowitz)",
+      "Кевин «Billy» Мэтисон (Kevin «Billy» Matheson)",
+      "Энтони Ройбал (Anthony Roybal)",
+      "Ли Бекман (Lee Beckman)",
+      "Сэм Уэлч (Sam Welch)",
+      "feedbackbot",
+      "Эван Хауэлл (Evan Howell)",
+      "Джастин Мюрес (Justin Myhres)",
+      "robojumper",
+      "Тони «kiooeht» Мур (Tony «kiooeht» Moore)",
+      "Джон Вега",
+      "Стив Гролл",
+      "Сара Попеску",
+      "Райан Хаманн"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Тестеры",
+    "NAMES": [
+      "Agari",
+      "Дарья Андерсон (Daria Anderson)",
+      "Зак Бауэрмейстер (Zac Bauermeister)",
+      "Ник Беккер (Nick Becker)",
+      "Эстер Бекман (Esther Beckman)",
+      "Лео Чен (Leo Chen)",
+      "Брайан Чау (Brian Chau)",
+      "Дэн Даргенио (Dan D'Argenio)",
+      "Дэвид Делоренцо (David Delorenzo)",
+      "Тим Эрскин (Tim Erskine)",
+      "Бенджамин Финкель (Benjamin Finkel)",
+      "Раджив Гиридхарагопал (Rajiv Giridharagopal)",
+      "Уайат Гродзинс (Wyatt Grodzins)",
+      "Рен Хауэлл (Ren Howell)",
+      "Кайл Джеймс (Kyle James)",
+      "Райан Матисен (Ryan Mathisen)",
+      "Энтони Макмиллиан (Anthony McMillian)",
+      "Брэд Майне (Brad Meine)",
+      "Джейд Уэсли (Jade Wesley)",
+      "Алекс Рокуэлл (Alex Rockwell)",
+      "Грег Шеопнер (Greg Scheopner)",
+      "Джон «Slide20xl» Смит (John «Slide20x1» Smith)",
+      "Аарон Таггерт (Aaron Taggart)",
+      "Александр Той (Alexander Toy)",
+      "Мерийн ван дер Влиет (Merijn van der Vliet)",
+      "Дэвид Фон Дерау (David Von Derau)",
+      "Конор Уотсон (Conor Watson)",
+      "Дэвид «divadus» Уиттингтон (David «divadus» Withington)",
+      "Джейсон «Wyrm» Денг (Jason «Wyrm» Deng)",
+      "Джонас «bigunit3000» Уилсон (Jonas «bigunit3000» Wilson)",
+      "«TBytemaster»"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...и спасибо ВАМ за игру!",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Озвучивание",
+    "NAMES": [
+      "Тамара Райан (Tamara Ryan)",
+      "Майкл Швальбе (Michael Schwalbe)"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Портирование на консоли и мобильные устройства",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "Генеральный директор:  Алан Пэтмор (Alan Patmore)",
+      "Исполнительный директор:  Стивен Ковенски (Steven Kovensky)",
+      "Вице-президент по развитию бизнеса:  Эдуардо Апарисио (Eduardo Aparicio)",
+      "Менеджер по изданию:  Джон Полсон (John Polson)",
+      "Менеджер по релизу издания: Эван Кёпф (Evan Koepf)",
+      "Бренд-менеджер издания:  Коннор Бриджмен (Connor Bridgeman)",
+      "Директор по развитию бизнеса, издание:  Маи Кавагути (Mai Kawaguchi)",
+      "Главный специалист по развитию бизнеса:  Томас Гленн (Thomas Glenn)",
+      "Главный специалист по развитию бизнеса:  Боб Миллс (Bob Mills)",
+      "Специалист по развитию бизнеса:  Триша Табор (Trisha Tabor)",
+      "Специалист по развитию бизнеса:  Энджел Лион-Лабате (Angel Lyons-Labate)",
+      "Директор магазина:  Пол Херрон (Paul Herron)",
+      "Финансовый директор:  Эрик Сэмюэл (Eric Samuel)",
+      "Вице-президент по производству: Нейт Мюллер (Nate Muller)",
+      "Директор по маркетингу:  Жереми Велла (Jeremie Vella)",
+      "Менеджер по маркетингу:  Уитни Стьютс (Whitney Stutes)",
+      "Менеджер по развитию маркетинга:  Франсуа дю Туа (Francois du Toit)",
+      "Служба поддержки:  Джимми Чи (Jimmy Chi)",
+      "Служба поддержки:  Кейси Бронковски (Kasey Brounkowski)",
+      "Служба поддержки:  Кайла Файф (Kayla Fyfe)",
+      "Служба поддержки:  Патрик Монахан (Patrick Monahan)"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (официальный перевод):",
+      "Поддержка японского издания:  Kakehashi Games",
+      "Японская локализация:  Риэ Ихара (Rie Ihara)"
+    ]
+  }
+}

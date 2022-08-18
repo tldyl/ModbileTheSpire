@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "錨",
+    "FLAVOR": "拿著這個小小的裝飾，你覺得自己更穩也更重了。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "古茶具套裝",
+    "FLAVOR": "能讓你神清氣爽睡得香。",
+    "DESCRIPTIONS": [
+      "到達休息處後的下一場戰鬥開始時獲得 [E] [E] "
+    ]
+  },
+  "Art of War": {
+    "NAME": "孫子兵法",
+    "FLAVOR": "這本古兵書記載著遠古時代的智慧。",
+    "DESCRIPTIONS": [
+      "若回合內沒有打出 #y攻擊牌 ，在下回合獲得 ",
+      "[E] "
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "星盤",
+    "FLAVOR": "可以從星星中探知寶貴知識的工具。",
+    "DESCRIPTIONS": [
+      "拾起時，選擇 #b3 張牌進行 #y變化 ，然後將這些牌 #y升級",
+      "選擇3張牌 "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "彈珠袋",
+    "FLAVOR": "曾經這在城市區是流行的玩具，現在你可以用它讓敵人們失去平衡。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，給予所有敵人 #b",
+      " 層 #y易傷 "
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "準備背包",
+    "FLAVOR": "冒險者專用的超大號背包，有很多口袋和皮帶。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，額外抽 #b",
+      " 張牌"
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "鳥面甕",
+    "FLAVOR": "這個甕上雕著烏鴉之神Mazaleth嘲弄的樣貌。",
+    "DESCRIPTIONS": [
+      "每打出1張 #y能力牌 ，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Black Blood": {
+    "NAME": "黑暗之血",
+    "FLAVOR": "你的憤怒變得更加黑暗。",
+    "DESCRIPTIONS": [
+      "取代 #r燃燒之血 NL 在戰鬥結束時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Black Star": {
+    "NAME": "黑星",
+    "FLAVOR": "最初在蛇鎮上發現的遺物，當時被放在一根蠟燭旁邊。",
+    "DESCRIPTIONS": [
+      "#y精英 被打敗時多掉落1件 #y遺物"
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "小血瓶",
+    "FLAVOR": "裝著純種年長吸血鬼血液的一個小瓶。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "鮮血神像",
+    "FLAVOR": "這個神像現在一直在流著血淚。",
+    "DESCRIPTIONS": [
+      "獲得 #y金幣 時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "藍蠟燭",
+    "FLAVOR": "當處於黑暗中時，這支蠟燭會自動點燃。",
+    "DESCRIPTIONS": [
+      "可以打出原本 無法打出 的 #y詛咒 牌 NL NL 打出 #y詛咒 牌會使你失去 #b",
+      " 點生命並將其 #y消耗 "
+    ]
+  },
+  "Boot": {
+    "NAME": "發條靴",
+    "FLAVOR": "擰動發條會讓這只靴子變得更大。",
+    "DESCRIPTIONS": [
+      "每當你造成小於等於 #b",
+      " 點未被格擋的 #y攻擊 傷害時，將傷害提升為 #b5 "
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "瓶裝火焰",
+    "FLAVOR": "在這個瓶子裡，有著一團永遠燃燒的火焰。",
+    "DESCRIPTIONS": [
+      "拾起時，選擇1張 #y攻擊牌 。每場戰鬥開始時，這張牌會出現在手牌中",
+      "選擇1張牌 ",
+      "每場戰鬥開始時，將 ",
+      " 放入手牌"
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "瓶裝閃電",
+    "FLAVOR": "細看這團旋轉的雷雲，你彷彿能看見自己的一部分在回望著你。",
+    "DESCRIPTIONS": [
+      "拾起時，選擇1張 #y技能牌 。每場戰鬥開始時，這張牌會出現在手牌中",
+      "選擇1張牌 ",
+      "每場戰鬥開始時，將 ",
+      " 放入手牌"
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "瓶裝旋風",
+    "FLAVOR": "這個瓶子中傳來輕輕的嗡嗡聲與呼呼聲。",
+    "DESCRIPTIONS": [
+      "拾起時，選擇1張 #y能力牌 。每場戰鬥開始時，這張牌會出現在手牌中",
+      "選擇1張牌 ",
+      "每場戰鬥開始時，將 ",
+      " 放入手牌"
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "銅製鱗片",
+    "FLAVOR": "守護者身上的銳利鱗片，會自動變形來保護使用者。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b",
+      " 點 荊棘 "
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "燃燒之血",
+    "FLAVOR": "你自身的血液因為無盡的憤怒而燃燒沸騰。",
+    "DESCRIPTIONS": [
+      "在戰鬥結束時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Cables": {
+    "NAME": "鍍金纜線",
+    "FLAVOR": "「有意思！看來就連自動機器人也會有安慰劑效應。」──蘭偉德",
+    "DESCRIPTIONS": [
+      "最右側的充能球會額外觸發1次被動效果"
+    ]
+  },
+  "Calipers": {
+    "NAME": "外卡鉗",
+    "FLAVOR": "「機械精度正是通向崇高之路。」──建築師",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，不再失去所有 #y格擋 ，而是失去 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "召喚鈴鐺",
+    "FLAVOR": "這個黑鐵鈴鐺在你找到它時作響了3次，但現在它已經不再響了。",
+    "DESCRIPTIONS": [
+      "拾起時，獲得1個獨特的 #r詛咒 和 #b3 件 #y遺物  ",
+      "鈴鐺鳴響……",
+      "略過獎勵",
+      "關閉"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "大鍋",
+    "FLAVOR": "商人其實是位技術相當不錯的藥劑師。買四送一。",
+    "DESCRIPTIONS": [
+      "拾起時，製作 #b5 瓶隨機藥水",
+      "咕嘟咕嘟咕嚕……！"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "百年積木",
+    "FLAVOR": "解開積木的謎題時，你感到心中有一股強大的暖意。",
+    "DESCRIPTIONS": [
+      "你在每場戰鬥中第1次失去生命時，抽 #b",
+      " 張牌"
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "變色龍戒指",
+    "FLAVOR": "棄用",
+    "DESCRIPTIONS": [
+      "可以在休息處 #y製作藥水"
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "冠軍腰帶",
+    "FLAVOR": "只有最強者才配佩戴這條腰帶。",
+    "DESCRIPTIONS": [
+      "每當你給予 #y易傷 時，同時給予 #b",
+      " 層 #y虛弱 "
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "凱倫之灰",
+    "FLAVOR": "傳說中凱倫是重生的神祇，永遠都在烈焰之中反覆地死亡和重生。",
+    "DESCRIPTIONS": [
+      "每 #y消耗 1張牌，對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Chemical X": {
+    "NAME": "化學物X",
+    "FLAVOR": "警告：嚴禁與糖、香料還有一切美好的味道混合在一起。",
+    "DESCRIPTIONS": [
+      "耗能為 #bX 的牌的效果數值增加 #b",
+      " 點"
+    ]
+  },
+  "Circlet": {
+    "NAME": "頭環",
+    "FLAVOR": "你已經沒有更多遺物可以拿了。厲害！",
+    "DESCRIPTIONS": [
+      "多多益善"
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "破損核心",
+    "FLAVOR": "高塔中所有自動機器人體內都有的神秘生命力之源，這個似乎已經有一點破損了。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時， #y生成 #b1 個 #y閃電 充能球"
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "詛咒鑰匙",
+    "FLAVOR": "你能感到這把鑰匙上散發出邪惡的能量。力量總是需要付出代價的。",
+    "DESCRIPTIONS": [
+      " NL 每次打開非首領寶箱，都會獲得1張 #r詛咒 ",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "黑石護符",
+    "FLAVOR": "這塊黑石能吸取黑暗的能量，將其轉化為佩戴者的生命力。",
+    "DESCRIPTIONS": [
+      "每當獲得1張 #y詛咒 ，最大生命值提升 #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "資料磁碟",
+    "FLAVOR": "這張磁碟裡記錄了關於鳥類和蛇類的珍貴資料。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b",
+      " 點 #y集中 "
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "枯木樹枝",
+    "FLAVOR": "從失落遠古時代遺留下來的樹枝。",
+    "DESCRIPTIONS": [
+      "每 #y消耗 1張牌，增加1張隨機卡牌到手牌"
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "At the start of each turn，獲得 #b",
+      " Charge. NL (Cannot be removed or transformed.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "鑑識單片眼鏡",
+    "FLAVOR": "看起來很有紳士的感覺。",
+    "DESCRIPTIONS": [
+      "商人所有商品的賣價降低 #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "DEPRECATED符文十二面體",
+    "FLAVOR": "上面的符文無法辨識。",
+    "DESCRIPTIONS": [
+      "生命值為滿時，每回合開始時獲得 ",
+      "[E] "
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "捕夢網",
+    "FLAVOR": "北方部落會在入睡時掛上這種網，相信這樣做能夠實現自我提升。",
+    "DESCRIPTIONS": [
+      "每次 #y休息 時，可以增加1張牌到牌組"
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "毒巫娃娃",
+    "FLAVOR": "一個設計為能從邪惡能量中獲得力量的娃娃。",
+    "DESCRIPTIONS": [
+      "牌組中每有1張 #y詛咒 牌，你在戰鬥開始時就額外獲得 #b",
+      " 點 #y力量 ",
+      " （你沒有 #y詛咒 牌）",
+      " （你有 #b",
+      " 張 #y詛咒 牌）"
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "靈體外質",
+    "FLAVOR": "這團黏液與能量的混合物微微脈動，彷彿有著生命。",
+    "DESCRIPTIONS": [
+      " NL 無法再獲得 #y金幣 ",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "情感晶片",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "每回合開始時，若你在上回合受到過傷害，則觸發所有充能球的被動效果"
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "英雄寶典",
+    "FLAVOR": "一名古老巫妖的傳奇日誌。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時增加1張隨機 #y能力牌 到手牌，這張牌在第一回合的耗能變為 #b0 "
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "永恆羽毛",
+    "FLAVOR": "這片羽毛似乎完全無法摧毀，會是從什麼鳥身上來的呢？",
+    "DESCRIPTIONS": [
+      "牌組中每有 #b",
+      " 張牌，進入休息處時就會回復 #b",
+      " 點生命"
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "凍結之蛋",
+    "FLAVOR": "這個蛋凍結著，沒有絲毫生氣，永遠也不會孵化。",
+    "DESCRIPTIONS": [
+      "隨後獲得的 #y能力牌 都已經 #y升級"
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "凍結之眼",
+    "FLAVOR": "凝視這隻眼睛時，你能隱約捕捉到你自己的未來。",
+    "DESCRIPTIONS": [
+      "現在觀看 #y抽牌堆 時，卡牌將按順序排列"
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "賭博籌碼",
+    "FLAVOR": "你能看見籌碼的一面上刻著一行小字：「熊的幸運籌碼！」",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，丟棄任意張牌，然後抽相同數量張牌"
+    ]
+  },
+  "Ginger": {
+    "NAME": "生薑",
+    "FLAVOR": "在許多補品中都能用上的好東西。",
+    "DESCRIPTIONS": [
+      "你不會再被 #y虛弱 "
+    ]
+  },
+  "Girya": {
+    "NAME": "壺鈴",
+    "FLAVOR": "這個壺鈴重到難以想像，用這個鍛鍊一定能變得更強。",
+    "DESCRIPTIONS": [
+      "現在能在休息處獲得 #y力量  （最多3次）"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "金神像",
+    "FLAVOR": "用純金製成，只是拿在手裡就讓你覺得自己有錢了。",
+    "DESCRIPTIONS": [
+      "敵人掉落的 #y金幣 增加 #b25% "
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "地精之角",
+    "FLAVOR": "「地精大塊頭到死都能一直長得更大，真是厲害。」──蘭偉德",
+    "DESCRIPTIONS": [
+      "每當有一名敵人死亡，",
+      "獲得 [E] 並抽 #b1 張牌"
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "開心小花",
+    "FLAVOR": "這朵一直面帶笑容的花是貴族間流行的小禮物。",
+    "DESCRIPTIONS": [
+      "每 #b",
+      " 個回合，獲得 [E] "
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "冰淇淋",
+    "FLAVOR": "「好吃！」",
+    "DESCRIPTIONS": [
+      "剩餘的能量會留到下回合"
+    ]
+  },
+  "Inserter": {
+    "NAME": "機械臂",
+    "FLAVOR": "抓取。放置。堆疊。重複。",
+    "DESCRIPTIONS": [
+      "每 #b2 回合，獲得 #b1 個充能球欄位"
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "佛珠手鏈",
+    "FLAVOR": "抵禦未知危險的護身道具。",
+    "DESCRIPTIONS": [
+      "在 #y？ 房間中不會再遇見普通敵人"
+    ]
+  },
+  "Kunai": {
+    "NAME": "苦無",
+    "FLAVOR": "受到刺客喜愛的遠距離利刃。",
+    "DESCRIPTIONS": [
+      "一回合內每打出 #b",
+      " 張 #y攻擊牌 ，獲得 #b",
+      " 點 #y敏捷 "
+    ]
+  },
+  "Lantern": {
+    "NAME": "燈籠",
+    "FLAVOR": "一盞詭異的燈籠，只為提燈者照明。",
+    "DESCRIPTIONS": [
+      "在每場戰鬥的第一回合獲得 ",
+      "[E] ",
+      ""
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "李家華夫餅",
+    "FLAVOR": "「全高塔你能找到的最好吃的東西！今天特地為你烤的。」",
+    "DESCRIPTIONS": [
+      "拾起時，最大生命值提升 #b",
+      " 點，並回復所有生命"
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "開信刀",
+    "FLAVOR": "鋒利到不自然。",
+    "DESCRIPTIONS": [
+      "一回合內每打出 #b3 張技能牌，對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Living Blade": {
+    "NAME": "活刀刃",
+    "FLAVOR": "棄用",
+    "DESCRIPTIONS": [
+      "You can get any number of any card."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "蜥蜴尾巴",
+    "FLAVOR": "在戰鬥中可以用來騙過敵人的假尾巴。",
+    "DESCRIPTIONS": [
+      "當你要被殺死時，免死並回復到最大生命值的 #b50% （僅能生效1次）"
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "魔法花",
+    "FLAVOR": "被認為是早已絕種的一朵花，竟被完美地保存了下來。",
+    "DESCRIPTIONS": [
+      "戰鬥中的回復效果提升 #b50% "
+    ]
+  },
+  "Mango": {
+    "NAME": "芒果",
+    "FLAVOR": "在眾多被遺忘的水果中最令人垂涎的一種。被完美地保存了下來，沒有任何受到高塔荒疫影響的跡象。",
+    "DESCRIPTIONS": [
+      "拾起時，最大生命值提升 #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "痛楚印記",
+    "FLAVOR": "北方部落中使用這個工具來給那些在戰鬥中掌握痛楚的戰士們打上烙印。",
+    "DESCRIPTIONS": [
+      "每回合開始時獲得 [R] NL 在戰鬥開始時，將 #b2 張 #r傷口 放入抽牌堆"
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "套娃",
+    "FLAVOR": "一套環環相套的娃娃，上面的圖案是一隻白眼藍羽毛的鳥，你不知道這是隻什麼鳥。",
+    "DESCRIPTIONS": [
+      "下 #b2 個打開的寶箱會有 #b2 件 #y遺物 （首領寶箱除外）",
+      "下 #b1 個打開的寶箱會有 #b2 件 #y遺物 （首領寶箱除外）",
+      "這件遺物的效果已經用完"
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "帶骨大肉",
+    "FLAVOR": "這塊肉會不斷恢復，似乎永遠也不會徹底吃光。",
+    "DESCRIPTIONS": [
+      "若你在戰鬥結束時生命值等於或低於 #b50% ，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "醫藥箱",
+    "FLAVOR": "「什麼都有！治癢癢、治燒傷、治中毒，應有盡有！」",
+    "DESCRIPTIONS": [
+      "可以打出原本 無法打出 的 #y狀態牌 。 打出 #y狀態牌 會將其 #y消耗 "
+    ]
+  },
+  "Membership Card": {
+    "NAME": "會員卡",
+    "FLAVOR": "「如你高高在上的貴客才配得上的會員卡！」",
+    "DESCRIPTIONS": [
+      "所有商品打折 #b50% ！"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "水銀沙漏",
+    "FLAVOR": "一個附加魔力的沙漏，一直都在不斷滴下水銀。",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "熔火之蛋",
+    "FLAVOR": "鳳凰的蛋，可以看到有岩漿在滋滋發熱，紅得發燙。",
+    "DESCRIPTIONS": [
+      "隨後獲得的 #y攻擊牌 都已經 #y升級"
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "乾癟之手",
+    "FLAVOR": "這隻手經常都在抽動，尤其是在你心跳很快的時候。",
+    "DESCRIPTIONS": [
+      "每打出1張 #y能力牌 ，隨機1張手牌在該回合耗能變為 #b0 "
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "死靈之書",
+    "FLAVOR": "只有傻瓜才會想要去掌控這種邪惡的力量。你每晚的夢境中都充斥著這本書將你的心智逐漸吞噬的噩夢。",
+    "DESCRIPTIONS": [
+      "每回合打出的第1張耗能大於等於 #b",
+      " 的  #y攻擊牌 將被打出兩次。當拾起這件遺物時，被 #r詛咒 ",
+      " 的  #y攻擊牌 將被打出兩次"
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "涅奧的悲慟",
+    "FLAVOR": "涅奧賜予你的祝福，有著悲慟之力。",
+    "DESCRIPTIONS": [
+      "接下來 #b3 場戰鬥中的敵人將只有 #b1 點生命",
+      "這個祝福的效果已經用完"
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "尼利的寶典",
+    "FLAVOR": "由臭名昭著的遊戲大師本人編制，據說能拓寬人的心智。",
+    "DESCRIPTIONS": [
+      "每回合結束時，可從 #b3 張隨機卡牌中選擇 #b1 張洗入抽牌堆"
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "忍術卷軸",
+    "FLAVOR": "暗殺秘術盡在其中。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，手牌中增加 #b",
+      " 張 #y小刀 "
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "恩洛斯的禮物",
+    "FLAVOR": "恩洛斯給你的奇怪禮物，每次你試著拆開包裝時，都會從裡面找到另一個相同大小且包裝完好的盒子。",
+    "DESCRIPTIONS": [
+      "在怪物獎勵中遇見稀有牌的機率變為 #b三倍 "
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "核能電池",
+    "FLAVOR": "哇噢……",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時， #y生成 #b1 個 #y電漿 充能球"
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nullstone Periapt",
+    "FLAVOR": "棄用",
+    "DESCRIPTIONS": [
+      "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns"
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "奇怪蘑菇",
+    "FLAVOR": "「吃了寄生毛菇之後，我覺得自己更高大了，也更……不容易受傷了。」──蘭偉德 ",
+    "DESCRIPTIONS": [
+      "當你有 #y易傷 狀態時，受到的額外傷害從 #b50% 下降為 #b25% "
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "意外光滑的石頭",
+    "FLAVOR": "你從沒有見過這麼光滑完好的東西，這一定是出自先古之民的手藝。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b",
+      " 點 #y敏捷 "
+    ]
+  },
+  "Old Coin": {
+    "NAME": "古錢幣",
+    "FLAVOR": "因為其歷史價值和稀有金屬成分而被商人出以高價的獨特錢幣。",
+    "DESCRIPTIONS": [
+      "拾起時，獲得 #b300 #y金幣 "
+    ]
+  },
+  "Omamori": {
+    "NAME": "御守",
+    "FLAVOR": "常見的用來抵禦邪靈的護身符，這個護符裡似乎有一股神聖的能量。",
+    "DESCRIPTIONS": [
+      "抵消你下 #b2 次獲得的 #r詛咒 ",
+      "抵消你下1次獲得的 #r詛咒 ",
+      "這件遺物的效果已經用完"
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "奧利哈鋼",
+    "FLAVOR": "一塊出處不明、帶著些綠色的金屬。似乎完全不會毀壞。",
+    "DESCRIPTIONS": [
+      "若你在回合結束時沒有任何 #y格擋 ，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "精緻摺扇",
+    "FLAVOR": "這把摺扇似乎會在灑到血時自動伸展並且變硬。",
+    "DESCRIPTIONS": [
+      "一回合內每打出 #b3 張 #y攻擊牌 ，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Orrery": {
+    "NAME": "星系儀",
+    "FLAVOR": "「一旦你理解了宇宙……」──佐羅斯",
+    "DESCRIPTIONS": [
+      "選擇 #b5 張牌加入牌組",
+      "知識！"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "潘朵拉的魔盒",
+    "FLAVOR": "你覺得打開這個盒子會很不吉利。",
+    "DESCRIPTIONS": [
+      "#b變化 所有「打擊」和「防禦」牌",
+      "潘朵拉的魔盒已經打開了……"
+    ]
+  },
+  "Pantograph": {
+    "NAME": "縮放儀",
+    "FLAVOR": "「堅實的地基從不是出自偶然，規劃工具是重中之重。」──建築師",
+    "DESCRIPTIONS": [
+      "在首領戰開始時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "紙鶴",
+    "FLAVOR": "某種過去時代生物的摺紙。",
+    "DESCRIPTIONS": [
+      "有 #y虛弱 狀態的敵人造成的傷害降低 #b40% 而非 #b25% "
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "紙蛙",
+    "FLAVOR": "這張紙似乎會不斷自己翻折，變成某種小動物的形狀。",
+    "DESCRIPTIONS": [
+      "有 #y易傷 狀態的敵人受到的傷害增加 #b75% 而非 #b50%"
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "寧靜煙斗",
+    "FLAVOR": "放空心智，潔淨靈魂。",
+    "DESCRIPTIONS": [
+      "現在可以在休息處移除牌組中的牌"
+    ]
+  },
+  "Pear": {
+    "NAME": "梨子",
+    "FLAVOR": "在高塔荒疫發生之前十分常見的水果。",
+    "DESCRIPTIONS": [
+      "拾起時，最大生命值提升 #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "鋼筆尖",
+    "FLAVOR": "拿著這支筆尖時，你可以看見所有被筆尖前主人殺死過的人。真是血腥的歷史。",
+    "DESCRIPTIONS": [
+      "每打出的第 #b10 張 #y攻擊牌 將會造成雙倍傷害"
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "賢者之石",
+    "FLAVOR": "這塊石頭中散發出純粹的能量，所有周圍的人與物都會因此而變強。",
+    "DESCRIPTIONS": [
+      "每回合開始時獲得 [E] NL 所有敵人初始擁有 #b",
+      " 點 #y力量"
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "藥水腰帶",
+    "FLAVOR": "穿上這條腰帶，我就能攜帶更多藥水！",
+    "DESCRIPTIONS": [
+      "拾起時，獲得 #b2 個藥水欄位"
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "轉經輪",
+    "FLAVOR": "經輪一直轉動，永遠不停。",
+    "DESCRIPTIONS": [
+      "普通敵人多掉落1次卡牌獎勵"
+    ]
+  },
+  "Question Card": {
+    "NAME": "問號牌",
+    "FLAVOR": "「選擇多，則不受其亂。」──忽必烈大帝",
+    "DESCRIPTIONS": [
+      "在選獎勵牌時，可供選擇的牌數增加 #b1 張（拾起時同一視窗中的獎勵牌不受影響）"
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "紅頭環",
+    "FLAVOR": "你居然拿光了所有遺物。厲害！",
+    "DESCRIPTIONS": [
+      "看起來非常漂亮"
+    ]
+  },
+  "Red Mask": {
+    "NAME": "紅面具",
+    "FLAVOR": "這副看起來十分帥氣的面具屬於紅面具強盜團的頭子，這麼說來，現在你應該是他們的老大了？",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，給予所有敵人 #b",
+      " 層 #y虛弱 "
+    ]
+  },
+  "Red Skull": {
+    "NAME": "紅頭骨",
+    "FLAVOR": "一個用裝飾性顏料塗紅的小小頭骨。",
+    "DESCRIPTIONS": [
+      "當你的生命值等於或低於 #b50% 時，你獲得額外 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "皇家枕頭",
+    "FLAVOR": "這下能好好睡一覺了。",
+    "DESCRIPTIONS": [
+      "在 #y休息 時額外回復 #b",
+      " 點生命"
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "長蛇戒指",
+    "DESCRIPTIONS": [
+      "取代 #g蛇之戒指 ",
+      " NL 每回合多抽 #b1 張牌"
+    ],
+    "FLAVOR": "你的戒指改變了形態，煥然一新。"
+  },
+  "Ring of the Snake": {
+    "NAME": "蛇之戒指",
+    "FLAVOR": "用蛇的化石製成的戒指，優秀女獵手的象徵。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，多抽 #b",
+      " 張牌"
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "符文電容器",
+    "FLAVOR": "多多益善。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b3 個額外充能球欄位"
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "符文立方體",
+    "FLAVOR": "上面的符文無法辨識。",
+    "DESCRIPTIONS": [
+      "每當你失去生命時，抽 #b",
+      " 張牌",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "符文圓頂",
+    "FLAVOR": "上面的符文無法辨識。",
+    "DESCRIPTIONS": [
+      " NL 無法再看見敵人的 #b意圖 ",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "符文金字塔",
+    "FLAVOR": "上面的符文無法辨識。",
+    "DESCRIPTIONS": [
+      "在回合結束時不再自動丟棄所有手牌",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "自成型黏土",
+    "FLAVOR": "「真是有意思！這東西看起來可以按照我的想法自己成型！讀心的黏土嗎？」──蘭偉德",
+    "DESCRIPTIONS": [
+      "每當你在戰鬥中失去生命，在下回合獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Shovel": {
+    "NAME": "鏟子",
+    "FLAVOR": "高塔中有著無數過去文明遺留下的遺物和強大的冒險者們遺失的寶物，現在你可以把它們挖出來了！",
+    "DESCRIPTIONS": [
+      "現在可以在休息處 #y挖掘 遺物"
+    ]
+  },
+  "Shuriken": {
+    "NAME": "手裏劍",
+    "FLAVOR": "輕型的投擲武器，尤其推薦對著眼睛扔。",
+    "DESCRIPTIONS": [
+      "一回合內每打出 #b",
+      " 張 #y攻擊牌 ，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "頌缽",
+    "FLAVOR": "這件被使用過無數次的法器在被敲打時會發出不絕於耳的悠揚旋律。",
+    "DESCRIPTIONS": [
+      "可以將卡牌獎勵轉變為 #b+2 最大生命值"
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "微笑面具",
+    "FLAVOR": "商人戴著的面具，看來他有很多備用的……",
+    "DESCRIPTIONS": [
+      "商人的卡牌移除服務現在價格永遠是 #b",
+      "  #y金幣 "
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "異蛇頭骨",
+    "FLAVOR": "保存完好的異蛇頭骨，十分離奇地非常幹淨和光滑，任何灰塵和污垢都無法沾上它，這是為什麼呢。",
+    "DESCRIPTIONS": [
+      "每當你給予敵人 #y中毒 狀態時，額外給予 #b",
+      " 層 #y中毒 "
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "異蛇之眼",
+    "FLAVOR": "一條死去異蛇的眼珠，比你想像中的要大上不少。",
+    "DESCRIPTIONS": [
+      "每回合多抽 #b2 張牌。每場戰鬥開始時獲得 #y混亂 效果"
+    ]
+  },
+  "Sozu": {
+    "NAME": "添水",
+    "FLAVOR": "你注意到所有帶魔力的液體在接近這件遺物時都會失去效力。",
+    "DESCRIPTIONS": [
+      " NL 無法再獲得藥水",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "精靈便便",
+    "FLAVOR": "你向精靈獻上的祭品被燒焦後的遺留物。",
+    "DESCRIPTIONS": [
+      "不管怎麼看都很不舒服"
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "奇怪的勺子",
+    "FLAVOR": "如果你盯著這把勺子看，它似乎就會在你眼前彎曲變形。",
+    "DESCRIPTIONS": [
+      "應該 #y消耗 的牌在被打出時會有 #b50% 機率只被丟棄"
+    ]
+  },
+  "Strawberry": {
+    "NAME": "草莓",
+    "FLAVOR": "「太好吃了！荒疫之後就沒見過這東西了啊。」──蘭偉德",
+    "DESCRIPTIONS": [
+      "拾起時，最大生命值提升 #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "日晷",
+    "FLAVOR": "「古代人類愚昧地執著於時間，他們抬頭望向天空，希望能得到永恆的引導。」──佐羅斯",
+    "DESCRIPTIONS": [
+      "每洗牌 #b",
+      " 次，獲得 [E] [E] "
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "共生病毒",
+    "FLAVOR": "小小的麻煩 ，卻可以帶來大大的益處……",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時， #y生成 #b1 個 #y黑暗 充能球"
+    ]
+  },
+  "Test 1": {
+    "NAME": "測試遺物 1",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "測試遺物 2",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "現在觀看 #y棄牌堆 時，卡牌將按順序排列"
+    ]
+  },
+  "Test 3": {
+    "NAME": "測試遺物 3",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "拾起時， #y升級 所有 #y防禦 牌"
+    ]
+  },
+  "Test 4": {
+    "NAME": "測試遺物 4",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "在戰鬥開始時，將所有 #y打擊 牌的耗能變為 #b0"
+    ]
+  },
+  "Test 5": {
+    "NAME": "測試遺物 5",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "拾起時，隨機 #y升級 #b",
+      " 張 #y技能牌 "
+    ]
+  },
+  "Test 6": {
+    "NAME": "測試遺物 6",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "每回合結束時，你獲得額外 #y格擋 。每 #b",
+      " 點 #y格擋 需要你擁有 #b",
+      " #y金幣 "
+    ]
+  },
+  "Test 7": {
+    "NAME": "測試遺物 7",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      " #y精英 被打敗時多掉落1件 #y遺物 "
+    ]
+  },
+  "Test 8": {
+    "NAME": "測試遺物 8",
+    "FLAVOR": "Beta版的測試遺物。如果你喜歡它，請告訴開發組。",
+    "DESCRIPTIONS": [
+      "每回合多抽 #b2 張牌。每場戰鬥開始時獲得 #y混亂 效果"
+    ]
+  },
+  "The Courier": {
+    "NAME": "送貨員",
+    "FLAVOR": "這是商人的寵物！",
+    "DESCRIPTIONS": [
+      "商人的卡牌、遺物和藥水再也不會賣光，並且所有商品打折 #b20% "
+    ]
+  },
+  "The Specimen": {
+    "NAME": "生物樣本",
+    "FLAVOR": "「有意思！我發現了一個有著驚人毒性的變異生物，先採集份樣本以後再仔細研究吧。」──蘭偉德",
+    "DESCRIPTIONS": [
+      "每當有敵人死去時，將其身上的 #y中毒 層數移到一名隨機敵人身上"
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "針線",
+    "FLAVOR": "將這些魔法線纏繞在你的周圍時，你覺得自己變得更堅硬了。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b",
+      " 層 #y多層護甲 "
+    ]
+  },
+  "Tingsha": {
+    "NAME": "銅鈸",
+    "FLAVOR": "這件樂器發出的響聲似乎能迴蕩到讓人耳朵發痛。",
+    "DESCRIPTIONS": [
+      "每丟棄1張牌，對一名隨機敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "小寶箱",
+    "FLAVOR": "「作為原型而言相當不錯。」──建築師",
+    "DESCRIPTIONS": [
+      "每第 #b",
+      " 個 #y？ 房間必是 #y寶箱房 ",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "小屋子",
+    "FLAVOR": "「一項近乎完美的微縮化工程。這是我至今最優秀的作品，但仍然遠遠不夠。」──建築師",
+    "DESCRIPTIONS": [
+      "拾起時，獲得 #b1 瓶藥水 NL 獲得 #b",
+      "  #y金幣 NL 最大生命值提升 #b",
+      " NL 獲得 #b1 張牌 NL 隨機升級 #b1 張牌",
+      "小小的屋子！"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "工具箱",
+    "FLAVOR": "不管面對什麼工作，都能找到相應的工具。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，從 #b3 張隨機無色牌中選擇 #b1 張加入手牌"
+    ]
+  },
+  "Torii": {
+    "NAME": "鳥居",
+    "FLAVOR": "你拿著這個小小的鳥居，感覺心中有一股寧靜與安全的感覺。",
+    "DESCRIPTIONS": [
+      "每當你受到小於等於 #b",
+      " 點未被格擋的 #y攻擊 傷害時，將傷害降低為 #b1 "
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "結實繃帶",
+    "FLAVOR": "失去給人帶來力量。",
+    "DESCRIPTIONS": [
+      "每丟棄1張牌，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "毒素之蛋",
+    "FLAVOR": "「真是了不起的發現！這似乎是某種魔法生物已經不起作用了的蛋，究竟是誰或什麼製造了這東西呢？」──蘭偉德",
+    "DESCRIPTIONS": [
+      "隨後獲得的 #y技能牌 都已經 #y升級"
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "玩具撲翼飛機",
+    "FLAVOR": "「這個小玩具最適合陪伴孤獨一人的冒險者啦！」",
+    "DESCRIPTIONS": [
+      "每使用1瓶藥水，回復 #b",
+      " 點生命"
+    ]
+  },
+  "Turnip": {
+    "NAME": "蘿蔔",
+    "FLAVOR": "與生薑搭配尤為適合。",
+    "DESCRIPTIONS": [
+      "你不會再被 #y脆弱 "
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "不休陀螺",
+    "FLAVOR": "這個陀螺始終輕鬆地旋轉著，讓你覺得自己彷彿是在夢中。",
+    "DESCRIPTIONS": [
+      "在你的回合沒有手牌時，抽1張牌"
+    ]
+  },
+  "Vajra": {
+    "NAME": "金剛杵",
+    "FLAVOR": "一件交給在戰鬥中展示了榮耀的戰士們的裝飾性遺物。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "天鵝絨頸圈",
+    "FLAVOR": "「力量巨大，但過於侷限。」──忽必烈大帝",
+    "DESCRIPTIONS": [
+      " NL 每回合不能打出超過 #b",
+      " 張牌",
+      "每回合開始時獲得 [E] ",
+      "我只能打出最多 NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "戰紋塗料",
+    "FLAVOR": "在過去，鐵衛軍團的士兵們會在戰鬥前使用帶有魔力的塗料來繪製保護性的戰紋。",
+    "DESCRIPTIONS": [
+      "拾起時，隨機 #y升級 #b",
+      " 張 #y技能牌 "
+    ]
+  },
+  "Whetstone": {
+    "NAME": "磨刀石",
+    "FLAVOR": "「肉體永遠無法打敗鋼鐵。」──忽必烈大帝",
+    "DESCRIPTIONS": [
+      "拾起時，隨機 #y升級 #b",
+      " 張 #y攻擊牌 "
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "白獸雕像",
+    "FLAVOR": "一個小小的白色雕像，這種動物你從來沒有見過。",
+    "DESCRIPTIONS": [
+      "戰鬥結束後必定掉落藥水"
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "綻放印記",
+    "FLAVOR": "在高塔的深處，思維與現實成為了一體。",
+    "DESCRIPTIONS": [
+      "你無法再回復生命"
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "破碎金冠",
+    "FLAVOR": "第一勇士的金冠……或者只是一個拙劣的仿製品？",
+    "DESCRIPTIONS": [
+      " NL 在卡牌獎勵畫面，可供選擇的牌數減少 #b2 張",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "空鳥籠",
+    "FLAVOR": "「將崇拜之物關進籠子，這是多麼奇異的行為啊。」──蘭偉德",
+    "DESCRIPTIONS": [
+      "拾起時，選擇移除牌組中的 #b2 張牌",
+      "選擇2張牌移除"
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "香爐",
+    "FLAVOR": "香爐中的煙讓擁有者獲得被焚燒者的靈力。",
+    "DESCRIPTIONS": [
+      "每 #b6 回合，獲得 #b1 層 #y無實體 "
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "融合之錘",
+    "FLAVOR": "一旦握住，就永遠無法放下。",
+    "DESCRIPTIONS": [
+      " NL 無法在休息處升級卡牌",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "咖啡濾杯",
+    "FLAVOR": "「好的，請再來一杯。繼續工作，繼續工作！」──建築師",
+    "DESCRIPTIONS": [
+      " NL 無法在休息處 #y休息 ",
+      "每回合開始時獲得 [E] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "蛇的頭",
+    "FLAVOR": "最幸福的人生當然就是什麼東西都能買得起的土豪生活了！",
+    "DESCRIPTIONS": [
+      "每次進入 #y？ 房間時獲得 #b",
+      " #y金幣"
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "恩洛斯的饑餓的臉",
+    "FLAVOR": "你覺得好餓。",
+    "DESCRIPTIONS": [
+      "下一個打開的非首領寶箱將是空的",
+      ""
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "牧師的臉",
+    "FLAVOR": "人人都愛牧師。",
+    "DESCRIPTIONS": [
+      "每場戰鬥後，最大生命值提升 #b1 "
+    ]
+  },
+  "CultistMask": {
+    "NAME": "邪教徒頭套",
+    "FLAVOR": "自己人！自己人！",
+    "DESCRIPTIONS": [
+      "你覺得自己有開腔的欲望",
+      "@啞！@ NL @啞啞@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "地精容貌",
+    "FLAVOR": "嗚哇，好想逃跑。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，你擁有 #b1 層 #y虛弱 "
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "算盤",
+    "FLAVOR": "「一……二……三……」",
+    "DESCRIPTIONS": [
+      "每次抽牌堆洗牌時，獲得 #b",
+      " 點 #y格擋"
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "多利之鏡",
+    "FLAVOR": "「照出來我的樣子怪怪的。」",
+    "DESCRIPTIONS": [
+      "拾起時，從牌組中選擇1張牌進行複製",
+      "選擇1張牌複製"
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "齒輪工藝品",
+    "FLAVOR": "「你看裡面齒輪這麼多，是不是很精巧。」",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，獲得 #b1 層 #y人工製品 "
+    ]
+  },
+  "MealTicket": {
+    "NAME": "餐券",
+    "FLAVOR": "「這裡的肉丸子可是有名的！以後每次來都可以嘗嘗哦！」",
+    "DESCRIPTIONS": [
+      "每當進入商店房間時，回復 #b",
+      " 點生命"
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "扭曲漏斗",
+    "FLAVOR": "「個人建議不要用這個來喝東西。」",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時，給予所有敵人 #b4 層 #y中毒 "
+    ]
+  },
+  "HandDrill": {
+    "NAME": "手鑽",
+    "FLAVOR": "「螺旋超危險的啊。」",
+    "DESCRIPTIONS": [
+      "每當突破敵人的 #y格擋 時，給予其 #b2 層 #y易傷 "
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "懸浮風箏",
+    "FLAVOR": "風箏在戰鬥中飄浮在你的身旁，不知是何種神秘的力量讓它能浮在空中。",
+    "DESCRIPTIONS": [
+      "每回合第一次棄牌時，獲得 [E]"
+    ]
+  },
+  "Sling": {
+    "NAME": "勇氣投石索",
+    "FLAVOR": "「對格外強大的對手非常好用的工具。」",
+    "DESCRIPTIONS": [
+      "與精英戰鬥時，獲得 #b",
+      " 點 #y力量 "
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "凍結核心",
+    "FLAVOR": "某種脈動的冰冷能量充滿了你核心中的破損處。",
+    "DESCRIPTIONS": [
+      "取代 #b破損核心 NL 若在你的回合結束時還有空餘的充能球欄位， #y生成 #b1 個 #y冰霜 充能球"
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "橙色藥丸",
+    "FLAVOR": "「用塔裡各處真菌做出來的藥，包治百病！」",
+    "DESCRIPTIONS": [
+      "每在同一回合內打出 #y能力牌 、 #y攻擊牌 和 #y技能牌 各1張，移除你身上的所有負面效果"
+    ]
+  },
+  "WristBlade": {
+    "NAME": "袖劍",
+    "FLAVOR": "實用的暗殺工具。",
+    "DESCRIPTIONS": [
+      "耗能為0的 #y攻擊牌 額外造成 #b3 點傷害"
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "歷石",
+    "FLAVOR": "在高塔中幾乎感覺不到時間的流逝。",
+    "DESCRIPTIONS": [
+      "在第 #b",
+      " 回合結束時，對所有敵人造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "雙節棍",
+    "FLAVOR": "優良的練武器具，能改善使用者的姿勢、提升靈活度。",
+    "DESCRIPTIONS": [
+      "每打出 #b",
+      " 張 #y攻擊牌 ，獲得 [E] "
+    ]
+  },
+  "MawBank": {
+    "NAME": "巨口儲蓄罐",
+    "FLAVOR": "儘管巨口襲擊頻繁發生，這個造型的儲蓄罐卻意外相當流行。",
+    "DESCRIPTIONS": [
+      "每攀爬一層樓層獲得 #b",
+      " #y金幣 。 一旦在商店中花費 #y金幣 就會失效",
+      "這件遺物已經失效"
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "突變之力",
+    "FLAVOR": "「效果似乎稍縱即逝，只在危險時才會觸發。」──佚名",
+    "DESCRIPTIONS": [
+      "在每場戰鬥開始時獲得 #b",
+      " 點 #y力量 ，在你的第一個回合結束時失去 #b",
+      " 點 #y力量"
+    ]
+  },
+  "Brimstone": {
+    "NAME": "硫磺",
+    "FLAVOR": "散發出地獄般的高熱。",
+    "DESCRIPTIONS": [
+      "在你的每個回合開始時，你獲得 #b",
+      " 點 #y力量 ，所有敵人也獲得 #b",
+      " 點 #y力量"
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "懷錶",
+    "FLAVOR": "指針似乎永遠卡在3點的位置。",
+    "DESCRIPTIONS": [
+      "若在一回合內打出的牌數量小於等於 #b3 張，在下回合開始時額外抽 #b3 張牌"
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "昆蟲標本",
+    "FLAVOR": "這隻昆蟲似乎會對尤其巨大的敵人們散發出虛弱的光環。",
+    "DESCRIPTIONS": [
+      "精英戰中的敵人生命減少 #b",
+      "% "
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "螺類化石",
+    "FLAVOR": "似乎堅不可摧，你很好奇究竟是何種生物曾擁有這樣的部分。",
+    "DESCRIPTIONS": [
+      "阻止你在每場戰鬥中第一次受到的生命值損傷"
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "稜鏡碎片",
+    "FLAVOR": "通過碎片，你能以全新的視角觀察這個世界。",
+    "DESCRIPTIONS": [
+      "戰鬥獎勵掉落的卡牌現在會包括無色牌和其他顏色的牌"
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "彎曲鐵鉗",
+    "FLAVOR": "這對被偷來的詛咒鐵鉗上散發著強烈的怨念，它似乎十分想要回到原本的地方。",
+    "DESCRIPTIONS": [
+      "在你的每個回合開始時，隨機 #y升級 一張手牌（只影響本場戰鬥）"
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "羽翼之靴",
+    "FLAVOR": "很帥氣。",
+    "DESCRIPTIONS": [
+      "在選擇下一層的房間時有3次機會可以無視當前的路線"
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "陶瓷小魚",
+    "FLAVOR": "這些被精心上色的魚兒被認為可以帶來滾滾財源。",
+    "DESCRIPTIONS": [
+      "每次往牌組中加入一張卡牌時，獲得 #b",
+      " #y金幣 "
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "打擊木偶",
+    "FLAVOR": "被打得破破爛爛的。",
+    "DESCRIPTIONS": [
+      "名字中有「打擊」的卡牌額外造成 #b",
+      " 點傷害"
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "紫色蓮花",
+    "FLAVOR": "遠古的經書上記載著，「法力池」的水面上總是有許多這些花朵。",
+    "DESCRIPTIONS": [
+      "每次離開 #y平靜 時，獲得一點額外 [E] "
+    ]
+  },
+  "SacredBark": {
+    "NAME": "神聖樹皮",
+    "FLAVOR": "傳說中來自於世界樹上的一塊樹皮。",
+    "DESCRIPTIONS": [
+      "藥水的效果翻倍"
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "淚滴吊墜盒",
+    "FLAVOR": "盒子的主人雙目失明，其中的東西無人知曉。",
+    "DESCRIPTIONS": [
+      "每場戰鬥開始時處於 #y平靜 "
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "奴隸販子頸環",
+    "FLAVOR": "鏽蝕可憎的鐵鏈。",
+    "DESCRIPTIONS": [
+      "在首領戰與精英戰中，每回合開始時獲得 [E] "
+    ]
+  },
+  "Akabeko": {
+    "NAME": "赤牛",
+    "FLAVOR": "「哞～」",
+    "DESCRIPTIONS": [
+      "每場戰鬥中的第一次攻擊額外造成 #b",
+      " 點傷害"
+    ]
+  },
+  "Yang": {
+    "NAME": "兩儀",
+    "FLAVOR": "「於是太陽永遠熄滅了，如同天幕在其之前墜下。」——佐羅斯",
+    "DESCRIPTIONS": [
+      "每打出1張 #y攻擊牌 ，獲得 #b1 點臨時 #y敏捷 "
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "斗篷扣",
+    "FLAVOR": "設計簡約但牢固。",
+    "DESCRIPTIONS": [
+      "在你的回合結束時，每有1張手牌獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "Melange": {
+    "NAME": "美琅脂",
+    "FLAVOR": "來源不明的神秘沙子，氣味有點像肉桂。",
+    "DESCRIPTIONS": [
+      "每次將抽牌堆洗牌時， #y預見 #b",
+      ""
+    ]
+  },
+  "Yin": {
+    "NAME": "陰",
+    "FLAVOR": "無光則無暗，真的是這樣嗎？",
+    "DESCRIPTIONS": [
+      "W每打出1張 #y技能牌 ，獲得 #b1 點臨時 #y力量 "
+    ]
+  },
+  "InkBottle": {
+    "NAME": "墨水瓶",
+    "FLAVOR": "每次用光，都會自動裝滿一種顏色不同的墨水。",
+    "DESCRIPTIONS": [
+      "每打出 #b10 張牌，抽 #b1 張牌"
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "鎢合金棍",
+    "FLAVOR": "非常非常重。",
+    "DESCRIPTIONS": [
+      "每次失去生命時，減少失去的生命值 #b",
+      " 點"
+    ]
+  },
+  "HolyWater": {
+    "NAME": "聖水",
+    "FLAVOR": "從高塔出現的時代前收集來的水。",
+    "DESCRIPTIONS": [
+      "取代 #p至純之水 NL 在每場戰鬥開始時，將 #b3 張 #y奇蹟 放入手牌"
+    ]
+  },
+  "PureWater": {
+    "NAME": "至純之水",
+    "FLAVOR": "用極細的沙粒過濾的水，去除了一切雜質。",
+    "DESCRIPTIONS": [
+      "在每場戰鬥開始時，將1張 #y奇蹟 放入手牌"
+    ]
+  },
+  "HornCleat": {
+    "NAME": "船夾板",
+    "FLAVOR": "拿在手裡有一種莫名的愉悅感，這是什麼東西呢？",
+    "DESCRIPTIONS": [
+      "在你的第二回合開始時，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "舵盤",
+    "FLAVOR": "精雕細琢的木質物件，上面用陌生的語言刻著一個名字。",
+    "DESCRIPTIONS": [
+      "在你的第三回合開始時，獲得 #b",
+      " 點 #y格擋 "
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "黃金眼",
+    "FLAVOR": "能夠看見近處生靈的心智，讓你可以預判他們將來的動作。",
+    "DESCRIPTIONS": [
+      "每次 #y預見 時，額外 #y預見 #b",
+      " 張牌"
+    ]
+  },
+  "Damaru": {
+    "NAME": "手搖鼓",
+    "FLAVOR": "這面小鼓的聲音讓你時刻保持神志清醒，彷彿能看見前方何處才有道路。",
+    "DESCRIPTIONS": [
+      "在你的回合開始時，獲得 #b",
+      " 層 #y真言 "
+    ]
+  }
+}

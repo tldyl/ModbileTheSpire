@@ -1,0 +1,730 @@
+
+    "Cancel Button": {
+        "TEXT": [
+            "WWWWWW WWWW"
+        ]
+    },
+    "Confirm Button": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "End Turn Button": {
+        "TEXT": [
+            "WWW WWWW",
+            "WWWWW WWWW"
+        ]
+    },
+    "LanguageDropdown": {
+        "TEXT": [
+            "WWWWWWWWW WWWWWWWWW",
+            "WWWWWWW (WWWWWWWWWW)",
+            "WWWWWWW (WWWWWWWWWWW)",
+            "WWWWWWW",
+            "WWWWWW",
+            "WWWWWW",
+            "WWWWWWW",
+            "WWWWWWWW",
+            "WWWWWW",
+            "WWWWWW",
+            "WWWWWWW",
+            "WWWWWWW"
+        ]
+    },
+    "Proceed Button": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "GamblingChipAction": {
+        "TEXT": [
+            "WWWWWWW (WWWWWWWW WWWW)"
+        ]
+    },
+    "RetainCardsAction": {
+        "TEXT": [
+            "WWWWWW"
+        ]
+    },
+    "AbstractChest": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "BossChest": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "ShopRoom": {
+        "TEXT": [
+            "WWWW WWWWWWWW"
+        ]
+    },
+    "TreasureRoom": {
+        "TEXT": [
+            "WWWW WWWWW"
+        ]
+    },
+    "TreasureRoomBoss": {
+        "TEXT": [
+            "WWWW WWWWW"
+        ]
+    },
+    "SetupAction": {
+        "TEXT": [
+            "WWW WW WWW WW WWWW WWWW WWWW."
+        ]
+    },
+    "SkillFromDeckToHandAction": {
+        "TEXT": [
+            "WWWWWW W WWWWW WW WWW WW WWWW WWWW"
+        ]
+    },
+    "Legend": {
+        "TEXT": [
+            "WWWWWWW",
+            "???",
+            "WW WWWWWWW WWWW. WW WW WWW WWW WWWWWWWWW WWWWWWWWW WWWWWWWWWW WWWWWW WW WWWWWWWWW WWWWWWWW WWWWWWWWW.",
+            "WWWWWWWW",
+            "WWWWW",
+            "W WWWWWWWWWW WWWWWWWW WWWWW WWW WWWWW WW WWWWW WWWWW. WW WW WWWWW WWWW WWWW WWWWWW #WWWWW WWWW!",
+            "WWWWWWWW",
+            "WWWWWWWW WWWWW",
+            "#WWWWWWW WWW #WWWWW WWW WW WWWWW WW WWWWW WWWWWWW WWWWW.",
+            "WWWW",
+            "WWWW WWWWW",
+            "WWWW WW WWWWW WWWWW WW #WWWWW WWWW WW WW #WWWWWWWW W WWWW.",
+            "WWWWW",
+            "WWWWWWW",
+            "WWWWWWW WWWWWWW WWWWWW WW WWWWW WWWWW.",
+            "WWWWW",
+            "WWWWWW",
+            "WWWWWWWW WWWW WWW WW WWWWW WWWWW. WW WW WWWWWWWWW WWWW WWWW WWWWWW WWW W WWWWW.",
+            "WWWWWW"
+        ]
+    },
+    "Unlock Confirm Button": {
+        "TEXT": [
+            "WWWWWWWW"
+        ]
+    },
+    "Dig Option": {
+        "TEXT": [
+            "WWW",
+            "WWW WW W WWWWWW WWWWW."
+        ]
+    },
+    "Lift Option": {
+        "TEXT": [
+            "WWWW",
+            "WWWWW WWWWWWW WWWW +W WWWWWWWW. (WW WW W)"
+        ]
+    },
+    "Rest Option": {
+        "TEXT": [
+            "WWWW",
+            "WWWW WWW WW% WW WWWW WWW WW (",
+            " WW WWWW ",
+            "WWWW WWW WW% WW WWWW WWW WW ("
+        ]
+    },
+    "Smith Option": {
+        "TEXT": [
+            "WWWWW",
+            "WWWWWWW W WWWW WW WWWW WWWW.",
+            "WW WWWWWWWWWWW WWWWW."
+        ]
+    },
+    "Toke Option": {
+        "TEXT": [
+            "WWWW",
+            "WWWWWW W WWWW WWWW WWWW WWWW."
+        ]
+    },
+    "DiscardPilePanel": {
+        "TEXT": [
+            "WW WWWWWWW WWWW WW #WWWWWW."
+        ]
+    },
+    "DrawPilePanel": {
+        "TEXT": [
+            "WW WWWW WWWW WW #WWWWWW."
+        ]
+    },
+    "PotionPopUp": {
+        "TEXT": [
+            "WWWWW",
+            "WWWWW",
+            "WWWWWWW",
+            "W WWWWWW WWW WWWWWWW!",
+            "W WWW'W WW WWWW WW WWWWWW!"
+        ]
+    },
+    "RenamePanel": {
+        "TEXT": [
+            "<WW WWWW>",
+            "WWWWW  WWWW  WWWW",
+            "WWWWWWW",
+            "WWWWWW"
+        ]
+    },
+    "AbstractCard": {
+        "TEXT": [
+            "WWWWWW",
+            "WWWWWWW"
+        ]
+    },
+    "AbstractPlayer": {
+        "TEXT": [
+            "WWWWWWW",
+            "WWW WWWWWWWW",
+            "WWW WWWWWW",
+            "WWW WWWWWW"
+        ]
+    },
+    "AbstractCreature": {
+        "TEXT": [
+            "WWWW",
+            "WWWWWWW",
+            "WWW WW +"
+        ]
+    },
+    "TopPanel": {
+        "TEXT": [
+            " WWWWW"
+        ]
+    },
+    "UnlockCharacterScreen": {
+        "TEXT": [
+            "WWWWW WWWWWWWW!",
+            "WWW WWWWWWW",
+            "WWWWWW WWWWWWWW!",
+            "WWW WWWWWWWWW",
+            "WWWW: WWWWWWWW WWWWW WWWW WW WW WWWWWW WWWW.",
+            "WWWW: WWWWWWWW WWWWWW WWWW WW WW WWWWWW WWWW."
+        ]
+    },
+    "UnlockScreen": {
+        "TEXT": [
+            "WWWWW WWWWWWWW!",
+            "WWWWWW WWWWWWWW!",
+            "WWW WWWWWWWWW",
+            "WWWW: WWWWWWWW WWWWW WWWW WW WW WWWWWW WWWW.",
+            "WWWW: WWWWWWWW WWWWWW WWWW WW WW WWWWWW WWWW."
+        ]
+    },
+    "StorePotion": {
+        "TEXT": [
+            "WWW WWWW WW WWWWW WWW WWWW"
+        ]
+    },
+    "AbstractRoom": {
+        "TEXT": [
+            "WWWWWW..."
+        ]
+    },
+    "SingleViewRelicPopup": {
+        "TEXT": [
+            "WWWW",
+            "WWWWWW",
+            "WWWWWWWWWW",
+            "WWWW",
+            "WWWW",
+            "WWWWW",
+            "WWWWWWW",
+            "WWWWWWWW",
+            "WWWWWW",
+            "WWWWWWW",
+            " WWWWW",
+            "WWWW WWWWW WWW WWW WW WW WWWWWWWW.",
+            "WWWW WWWWW WWWWWWW WW WW WWWW."
+        ]
+    },
+    "SingleCardViewPopup": {
+        "TEXT": [
+            "WWWWWW",
+            "WWWWW",
+            "WWWWW",
+            "WWWWW",
+            "WWWWWW",
+            "WWWWWWW",
+            "WWWW WWWWWWW",
+            "WWWWWW",
+            "WWWW",
+            "W WWW WWWW WWWW WWWWW WW WW WWWW.",
+            "W'W #WWWWWWWWWW! WW WWW'W WWWW WWWWWWW",
+            "WWW WWWWWW #WWWWWWW.",
+            "WWW WWWWWW #WWWWWWW.",
+            "W WWW'W WWWW WW WWWW WWWW"
+        ]
+    },
+    "MasterDeckViewScreen": {
+        "TEXT": [
+            "WWW WWWWW WWWW WWWWWW WWWW WWW WWW WWWWW WW WWWW.",
+            "WWWWWW"
+        ]
+    },
+    "DungeonTransitionScreen": {
+        "TEXT": [
+            "WWWWWWWWW",
+            "WW WWW WWWW WW WWW WWWWWWWW WWWWW WW WWW WWWW WWW WWWW?",
+            "WWWWW W",
+            "WWWWWWWW",
+            "WWWWW W",
+            "WWW WWWW",
+            "WWWWW W",
+            "WWW WWWWWW",
+            "WWWWW ?",
+            "???",
+            "WWWWW WWWWWWWW WW WWWWWWWW"
+        ]
+    },
+    "DungeonMapScreen": {
+        "TEXT": [
+            "WWWWWW W WWWWWWWW WWWW",
+            "WWWWWW"
+        ]
+    },
+    "DrawPileViewScreen": {
+        "TEXT": [
+            "WWWWW WWW WWWWW WWWW WWWW WW WWW WWWWW WW WWWW WWWW.",
+            "(WWWWW WWWWW WWW WW WWWWWW WWWWW)",
+            "WWWWWW",
+            "WWWW WWWW"
+        ]
+    },
+    "DiscardPileViewScreen": {
+        "TEXT": [
+            "WWWWW WWWW WWW WWWWWWWW WWWW WWWW WWWW WWWW WWWW WW WWWW WWW WW WWWWW.",
+            "WWWWWW",
+            "WWWWWWW WWWW"
+        ]
+    },
+    "CopyAction": {
+        "TEXT": [
+            "WWWW"
+        ]
+    },
+    "DiscardAction": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "ArmamentsAction": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "DualWieldAction": {
+        "TEXT": [
+            "WWWWWWWWW"
+        ]
+    },
+    "HiddenChamberAction": {
+        "TEXT": [
+            "WWWWWWWWW"
+        ]
+    },
+    "DeathScreen": {
+        "TEXT": [
+            "WWWWWWWW",
+            "WWWWWWW?",
+            "WWWWWW WWWWWWW",
+            "WWWWWW WWWWWWWW",
+            "WWWW WWWW",
+            "WWWW WWWW",
+            "WWWWW",
+            "WWWWWWWWW",
+            "WWWWW...",
+            "WWWWWW",
+            "WWWWWWWW!",
+            "WWWWWWWWWW",
+            "WWWWWWWWWWW",
+            "WWWWWWWWWW",
+            "WWW WWW WWWWW!",
+            "W WWWWWWWW WWWWWWW.",
+            "W WWW WWWWWW WWWW.",
+            "WW WWW WWWW WW WWW WWWWW WWWW.",
+            "WWWW WWW WWWWW WWW.",
+            "W WWWW'W WWWWWWWW WWW WWWW.",
+            "W'WW WWW WWWWW WWWWWWWW.",
+            "W'W WWWWW WW WWWW W WWW WWW.",
+            "WWWWWWWWWWWW WWWWWWWW.",
+            "WWWWWWWWWWWWW!",
+            "WW WWWW WW WWWW WWWWWWWWW?",
+            "WWWW WW WWWW...",
+            "WWW WWWW WWWW...",
+            "WWW WWWWW WWW WWW.",
+            "WWW WWWWW WWWWWWWW WWWWWWW...",
+            "WWWW WWWWWWWWWWWWW WWWWW...",
+            "WWWWWW",
+            "WWWWWWWWWW",
+            "WWWWWWWW",
+            "WWWWW",
+            "WWWW WWWW",
+            "WWWWWWW",
+            "WWWWWW",
+            "WWWW WWWW",
+            "WWWWW",
+            "WWWWWWW",
+            "WWWWWW",
+            "WWWWWWW WWWWWWWWW: ",
+            "WWWWWW WWWWWWWWW: ",
+            "WWWWWWW WWWWW",
+            "WWWWWW WWWWWW",
+            "WWWWWWW WWWW",
+            "WW WWWWW"
+        ]
+    },
+    "CombatRewardScreen": {
+        "TEXT": [
+            "WWWWWWW",
+            "WWWW WWWW",
+            "WWWW WWWW",
+            "WWWW WWWWWW",
+            "WWWW WWWWW",
+            "WWWW WWWWWWW",
+            "WWWWW",
+            "WWWWWWWW!",
+            "WWWW'W  WWWWWW?",
+            "WWWWWWW!",
+            "WWWWWW!",
+            "WWWW!",
+            "WWW: "
+        ]
+    },
+    "ChooseOneScreen": {
+        "TEXT": [
+            "WWWWWW WWW"
+        ]
+    },
+    "CardRewardScreen": {
+        "TEXT": [
+            "WWWW",
+            "WWWWWW W WWWW"
+        ]
+    },
+    "BossRelicSelectScreen": {
+        "TEXT": [
+            "WWWWWWW",
+            "WWWWWWW WWWW WWWWWWWWW",
+            "WWWWWW W WWWWW",
+            "WWWW"
+        ]
+    },
+    "GridCardSelectScreen": {
+        "TEXT": [
+            "WWWWWWW",
+            "WWWWWW",
+            "WWWWWWW WWWW WWWWWWWWW",
+            "WWWWW"
+        ]
+    },
+    "HandCardSelectScreen": {
+        "TEXT": [
+            "WWWWWWW WWWW WW ",
+            "WWWWWWW WWWWW WW ",
+            "WWWWWW ",
+            " WWWWW WW ",
+            "WWWWWW WWW WWWWWW WW WWWWW WW ",
+            "WWWWWW W WWWW WW "
+        ]
+    },
+    "AbandonRunButton": {
+        "TEXT": [
+            "WWWWWWW WWW"
+        ]
+    },
+    "ConfirmPopup": {
+        "TEXT": [
+            "WWWWWW",
+            "WWWWWW WWWW",
+            "WWW",
+            "WW"
+        ]
+    },
+    "ExitGameButton": {
+        "TEXT": [
+            "WWWW WWWW"
+        ]
+    },
+    "OptionsPanel": {
+        "TEXT": [
+            "",
+            "WWWW WWWW",
+            "WWWWWWWW",
+            "WWWWWWWWWW: WW WWW WWWWWWWWW:",
+            "WWWWWWWWWW WW WWWWWWWWWW WWWWWWWWWW (WWWWWWWWWWW) WW WWWWWWWWWWW",
+            "WWWWW",
+            "WWWWWW WWWWWW WW WWWWW WWWWWW WW WWWWWWW WWWWWW",
+            "WWWWWW WW WWWWWWWWWW",
+            "WWWWWWWWWWW",
+            "WWWWWWW WWWWWW WW WWWWWW WW WWWW WW WWWWWWW WWWWWWW WWWWWW WW WWWW WW WWWWWWW WWWWWWWWWWWW WWWW WWWWWWWW W WWWW",
+            "WWWWWW WWWW WW WWWW WWWW",
+            "WWWWW WWWW WW WWWWW WWWW",
+            "WWWWWWWWWWWWW",
+            "WWWWWWWW:",
+            "WWWWWW WWWWWWWW WWWW #W(?)",
+            "WWWW WWWW",
+            "WWWW & WWWW",
+            "WW WW WWWWW"
+        ]
+    },
+    "SettingsScreen": {
+        "TEXT": [
+            "WWW WWW WWWW?",
+            "WWWW WWWWWWWW WW WWWWWWWWWWWWW WWWWW.",
+            "WWWWWWWWWW WWW WWWW WWWW WWWWWW WW W WWWW.",
+            "WWWWWWW:\nWWWWWWWW WWW WWWWW.\n\nWWWWW WWW WWWW WWWWW WW WWWW WWWW WWWWWWW WWW.",
+            "WWWWWW",
+            "WWWWWWWW WW WWW WWWWW WWW WWWWW WWWW."
+        ]
+    },
+    "CardLibraryScreen": {
+        "TEXT": [
+            "WWWWWW",
+            "WWW",
+            "WWWWW",
+            "WWWW",
+            "WWWWWWWWW",
+            "WWWWWW",
+            "WWWWWWWW",
+            "WWWW WWWWWWW"
+        ]
+    },
+    "CardLibSortHeader": {
+        "TEXT": [
+            "WWWWWW",
+            "WWWW",
+            "W-W"
+        ]
+    },
+    "EarlyAccessPopup": {
+        "TEXT": [
+            "WWWW'W WWWWW WWWWWW?",
+            "WWWW'W WW WWWW WWWW?",
+            "WWWW WWW WWWWW WW WWWWW WW WWWWWW WWWWWWWWWWW! WW WWWW WWWWWWWWW WWWWWW WWW WWWWWWW WWW WWWWW WWWWWWWWWW WWWWWWW. WW WW WW WWW WWW WWWW WWWWWW WW WWWW WWW WWWWWWWWW WWWWWW WWW WW WWWW WW WWW #WWWWWW #WWWWWWWWWWWW WWWW. WW WW WWWW'W WWWWWW WWWWWWWW WWW WWWW W WWWWW WW WWWWW!",
+            "WWWW WWW WWWWW WW WWWWW WW WWWWWW WWWWWWWWWWW! WW WW WWW WW WWWWW WWW WWW WWWWWWW WWW WWWW WWWWWWW WW WWW WWWW. WW WW WWWWWW WWW WW WWWW WW WWW WWWWWW WWW WWWW WWWWW WWWWWWWW WWW WWW'W WW WWWWWWWWW WW WWWWWWWWWWW WWW WWW WWWWWWWW WWWWWWW. WW WW WWWW'W WWWWWW WWWWWWWW WWW WWWW W WWWWW WW WWWWW!",
+            "WWWWW WWWWWWWW WW WWWWW"
+        ]
+    },
+    "MainMenuScreen": {
+        "TEXT": [
+            "#WWWWWW: ",
+            "WWWWWW",
+            "WWWWWW",
+            "WWWWW WW WWWW"
+        ]
+    },
+    "MenuButton": {
+        "TEXT": [
+            "WWWW WWWWWWW",
+            "WWWW",
+            "WWWWW WWWWWWWWW",
+            "WWWWW WWWWWWWWWW",
+            "WWWWWWWW",
+            "WWWWWWWWWWWW",
+            "WWWWWWWWWW",
+            "WWWWWWW",
+            "WWWW",
+            "WWWWW WWWWW",
+            "WWWWWWW WWW",
+            "WWWWWWW WWW (WWWWW WWWWW WW WWWWWWW)"
+        ]
+    },
+    "PatchNotesScreen": {
+        "TEXT": [
+            "WWWWWW",
+            "#WWWWWW #WWWWWW",
+            " WW (WWWWWWWWW: WWW WWWWW WWWW WW WWWWWWWW WWWWWWW WWWWW WWWW)"
+        ]
+    },
+    "RelicViewScreen": {
+        "TEXT": [
+            "WWWWWW",
+            "WWWWWWW:",
+            "WWWWWWWWWW WWW WWWWW WWWW WWWWW WWWWWW.",
+            "WWWWWW:",
+            "WWWW WWWWWW WWWW WWW WWWWW WWWWWWWW.",
+            "WWWWWWWW:",
+            "WWWWWWWW WWWWWW WWWWW WWWWWW WWWW WWWWW WWWW WWWWWW WWWWWW.",
+            "WWWW:",
+            "WWWWWW WWW WWWWWWWW WWWWWW WWWWW WWW WWWWWW WWWW.",
+            "WWWW:",
+            "WWWWWW WWWWW WWWW WWWWWW WWWW WWWWWW.",
+            "WWWWW:",
+            "WWWWWW WWWWW WWW WWWW WW WWWWWWWW WWWWWWW WWWWWW.",
+            "WWWW:",
+            "WWWWWW WWWWW WWW WWWW WW WWWWWWWWW WWWW WWW WWWWWWWW."
+        ]
+    },
+    "CharacterOption": {
+        "TEXT": [
+            "WWWWWW",
+            "WWWW WWWWWWWWW WW WWWWWWWW WW WWWWWWWWWW W WWWWWW WWW.",
+            "WWWW WWWWWWWWW WW WWWWW WWWWWWWWWWW WW WWWWW WWWWWW.",
+            "WWWW WWWWWWWWW WW WWWWWWWW WW WWWWWWWW WWW WWW WW WWW WWWWW.",
+            "WW: ",
+            "WWWW: ",
+            " WWWWWWW WWWWWWWWW",
+            "WWWWWWW",
+            "???"
+        ]
+    },
+    "CharacterSelectScreen": {
+        "TEXT": [
+            "WWWWWW WWWW WWWWWWWWW",
+            "WWWWWW",
+            "WWW WWWWWWWW",
+            "WWW WWWWWW",
+            "WWWWWWW",
+            "WWWW"
+        ]
+    },
+    "AbstractMonster": {
+        "TEXT": [
+            "WWWWWWWWWW",
+            "WWWW WWWWW WWWWWWW WW WW #WWWWWWW WWW #W",
+            " WWWWWW #W",
+            " WWWWW.",
+            "WWWW WWWWW WWWWWWW WW WW #WWWWWWW WWW #W",
+            " WWWWWW.",
+            "WWWWWWWWWW",
+            "WWWW WWWWW WWWWWWW WW WWW W #WWWWW WWW #WWWWWWW WWW #W",
+            " WWWWW.",
+            "WWWW WWWWW WWWWWWW WW WWW W #WWWWW WWW #WWWWWWW WWW #W",
+            "WWWWWWWWW",
+            "WWWW WWWWW WWWWWWW WW WWWWWWW W #WWWWWWWWW #WWWWWWW WW WWW WWW #WWWWWWW WWW #W",
+            "WWWW WWWWW WWWWWWW WW #WWWWWW WWW #WWWWWWW WWW #W",
+            "WWWWWWWWW",
+            "WWWWWWWW",
+            "WWWWWWW",
+            "WWWWWWWW",
+            "WWWWWWW",
+            "WWWWWWW",
+            "WWWW WWWWW WWWWWWW WW WWW W #WWWWW.",
+            "WWWW WWWWW WWWWWWW WW WWWWWWW W #WWWWWWWWW #WWWWWWW WW WWW.",
+            "WWWW WWWWW WWWWWWW WW WWWWWWW W WWWWWWWW #WWWWWWWWW #WWWWWWW WW WWW.",
+            "WWWW WWWWW WWWWWWW WW #WWWWWW WW WWW WWWW.",
+            "WWWW WWWWW WWWWWWW WW #WWWWWW WWW WWWWWWW W #WWWWWWWWW #WWWWWWW WW WWW.",
+            "WWWW WWWWW WWWWWWW WW #WWWWWW WWW WWW W #WWWWW.",
+            "WWWW WWWWW WWWWWWW WW #WWWWWWW.",
+            "WWWW WWWWW WWWWWWW WW WWW WWWWWWWWWW #WWWWWW WW WWW WWWW.",
+            "WWWW WWWWW WW WWWWWW.",
+            "WWWW WWWWW WW #WWWWWWWW WW WWW WWWW.",
+            "WWWW WWWWW'W WWWWWWWWWW WWW #WWWWWWWW (WWW WWWWWWWWW)."
+        ]
+    },
+    "AbstractDungeon": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "Exordium": {
+        "TEXT": [
+            "WWWWWWWW"
+        ]
+    },
+    "TheCity": {
+        "TEXT": [
+            "WWW WWWW"
+        ]
+    },
+    "GameSavedEffect": {
+        "TEXT": [
+            "#W~WWWW~ #W~WWWWW~"
+        ]
+    },
+    "BattleStartEffect": {
+        "TEXT": [
+            "WWWWWW WWWWW",
+            "WWWWWW WWWW",
+            "WWWWW WWWW",
+            " WWWW"
+        ]
+    },
+    "RewardItem": {
+        "TEXT": [
+            " WWWW (WWWWWW WWWW)",
+            " WWWW",
+            "WWW W WWWW WW WWWW WWWW",
+            "",
+            "WWWWWW W WWWW"
+        ]
+    },
+    "CampfireUI": {
+        "TEXT": [
+            "WWWW WW WW?",
+            "WWW...",
+            "WWWW WWWWW W WW?",
+            "WWWW WWW W WWWWW",
+            "WW WWWW WWWWWWW...",
+            "W WWWWWW WWWW",
+            "WW WWWWW..."
+        ]
+    },
+    "CampfireSmithEffect": {
+        "TEXT": [
+            "WWWWWW W WWWW WW WWWWWWW"
+        ]
+    },
+    "CampfireSleepEffect": {
+        "TEXT": [
+            "WWWWWWWW?"
+        ]
+    },
+    "CampfireTokeEffect": {
+        "TEXT": [
+            "WWWWWW W WWWW WW WWWWWW."
+        ]
+    },
+    "UnlockTextEffect": {
+        "TEXT": [
+            "WWW WWWWWW!"
+        ]
+    },
+    "AbstractPotion": {
+        "TEXT": [
+            "W WWW'W WWWWW WW WWW WWWW WWWWWWW."
+        ]
+    },
+    "TipHelper": {
+        "TEXT": [
+            "WWWWWW"
+        ]
+    },
+    "ExhaustAction": {
+        "TEXT": [
+            "WWWWWWW"
+        ]
+    },
+    "PowerExpireTextEffect": {
+        "TEXT": [
+            "WWWWW WWW"
+        ]
+    },
+    "RestartForChangesEffect": {
+        "TEXT": [
+            "WWWWWWW WWW WWWW WWW WWWWWWW WWWWWWW WW WWWW WWWWWW."
+        ]
+    },
+    "OpeningAction": {
+        "TEXT": [
+            "WWWW WWWWW WWWW WWW WWWWWW WW WWWWWW!"
+        ]
+    },
+    "ApplyPowerAction": {
+        "TEXT": [
+            "WWWWWWW",
+            "WWWWWW",
+            "WWWWWWWWW",
+            "\n WWWW"
+        ]
+    },
+    "TheBeyond": {
+        "TEXT": [
+            "WWW WWWWWW"
+        ]
+    }
+}

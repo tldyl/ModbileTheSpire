@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Profissional",
+    "DESCRIPTION": "Comece com 5 cartas incolores."
+  },
+  "Binary": {
+    "NAME": "Binário",
+    "DESCRIPTION": "Recompensas de carta contém apenas 2 cartas."
+  },
+  "Brewmaster": {
+    "NAME": " [DEPRECATED] Mestre Boticário",
+    "DESCRIPTION": "Comece com 5 cópias de Alquimizar,e a Estátua da Besta Branca."
+  },
+  "Cursed Run": {
+    "NAME": "Jornada Amaldiçoada",
+    "DESCRIPTION": "Sempre que você derrotar um Chefe, seja Amaldiçoado. Sua relíquia inicial é trocada por Chave Amaldiçoada, Amuleto de Pedra Negra, e Boneco Du-Vu."
+  },
+  "Diverse": {
+    "NAME": "Diversificado",
+    "DESCRIPTION": "Cartas não são restritas pelo seu personagem."
+  },
+  "Red Cards": {
+    "NAME": "Cartas Vermelhas",
+    "DESCRIPTION": "Cartas vermelhas agora aparecem em recompensas e lojas."
+  },
+  "Green Cards": {
+    "NAME": "Cartas Verdes",
+    "DESCRIPTION": "Cartas verdes agora aparecem em recompensas e lojas."
+  },
+  "Blue Cards": {
+    "NAME": "Cartas Azuis",
+    "DESCRIPTION": "Cartas azuis agora aparecem em recompensas e lojas."
+  },
+  "Purple Cards": {
+    "NAME": "Cartas Roxas",
+    "DESCRIPTION": "Cartas roxas agora aparecem em recompensas e lojas."
+  },
+  "Colorless Cards": {
+    "NAME": "Cartas Incolores",
+    "DESCRIPTION": "Cartas incolores agora aparecem em recompensas e lojas."
+  },
+  "Draft": {
+    "NAME": "Esboço",
+    "DESCRIPTION": "Monte um baralho de cartas iniciais personalizado."
+  },
+  "Elite Swarm": {
+    "NAME": "Caçador de Grandes Presas",
+    "DESCRIPTION": "Inimigos de elite agora estão infestando o Pináculo e deixam recompensas melhores."
+  },
+  "Endless": {
+    "NAME": "Sem fim",
+    "DESCRIPTION": "Vencer vai fazer voltar ao ato 1 com mesmo Baralho. Mas cuidado, a mácula eventualmente consumirá tudo..."
+  },
+  "Blight Chests": {
+    "NAME": "Baús Maculados",
+    "DESCRIPTION": "Baús de chefes contem máculas depois de derrotar o Ato 3 no modo Sem Fim."
+  },
+  "Stunted Growth": {
+    "NAME": "Crescimento Atrofiado",
+    "DESCRIPTION": "Inimigos não recompensarão mais cartas depois de vencer o ato 3 no modo Sem Fim."
+  },
+  "Heirloom": {
+    "NAME": "Herança",
+    "DESCRIPTION": "Comece com 1 relíquia Rara."
+  },
+  "Hoarder": {
+    "NAME": "Acumulador",
+    "DESCRIPTION": "Sempre que você adicionar uma carta ao seu baralho, adicione duas cópias adicionais. Você não pode mais remover cartas do seu baralho no Vendedor."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Substitua sua relíquia inicial por Topo Incessante."
+  },
+  "Insanity": {
+    "NAME": "Insanidade",
+    "DESCRIPTION": "Comece com um baralho aleatório de 50 cartas."
+  },
+  "Lethality": {
+    "NAME": "Letalidade",
+    "DESCRIPTION": "Você começa cada combate com +3 de Força. Todos os inimigos começam o combate com +3 de Força."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Inimigos deixam 200% a mais de ouro, mas você não pode mais Aprimorar em Locais de Descanso."
+  },
+  "My True Form": {
+    "NAME": "Minha Verdadeira Forma",
+    "DESCRIPTION": "Comece com uma cópia de Forma Demoníaca, Forma Espectral, Forma Ecoante e Forma Divina."
+  },
+  "Night Terrors": {
+    "NAME": "Terrores Noturnos",
+    "DESCRIPTION": "Descansar em Locais de Descanso cura 100% do seu PV, mas custa 5 PV Máximo."
+  },
+  "One Hit Wonder": {
+    "NAME": "Um acerto K.O.",
+    "DESCRIPTION": "Comece o jogo com 1 PV Máximo."
+  },
+  "Praise Snecko": {
+    "NAME": "Adore a Serpentixa",
+    "DESCRIPTION": "Substitua sua relíquia inicial por Olho de Serpentixa."
+  },
+  "Shiny": {
+    "NAME": "Brilhante",
+    "DESCRIPTION": "Baralho inicial é substituído por 1 de cada carta rara."
+  },
+  "Specialized": {
+    "NAME": "Especializado",
+    "DESCRIPTION": "Comece com 5 cópias de uma carta ."
+  },
+  "Starter Deck": {
+    "NAME": "Deck Inicial",
+    "DESCRIPTION": "Comece com Coroa Destruída e Binário, assim inimigos não vão mais recompensar com cartas."
+  },
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Sempre que você entra em uma nova sala, perca 1 PV Máximo. Comece cada combate com 5 Armadura Chapeada."
+  },
+  "Time Dilation": {
+    "NAME": "Dilatação do Tempo",
+    "DESCRIPTION": "Todos os inimigos começam com o efeito negativo Lento."
+  },
+  "Uncertain Future": {
+    "NAME": "Futuro Certo",
+    "DESCRIPTION": "O mapa contém apenas um caminho."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Inimigos normais deixam relíquias ao invés de cartas."
+  },
+  "SealedDeck": {
+    "NAME": "Deck Selado",
+    "DESCRIPTION": "Monte um deck com 30 cartas aleatórias."
+  },
+  "Flight": {
+    "NAME": "Vôo",
+    "DESCRIPTION": "Você pode ignorar caminhos quando estiver escolhendo a próxima sala a qual deseja ir."
+  },
+  "Chimera": {
+    "NAME": "Quimera",
+    "DESCRIPTION": "O seu deck inicial é uma fusão de todos os personagens."
+  },
+  "NeowTime": {
+    "NAME": "Tempo de Neow",
+    "DESCRIPTION": "Receba 3 bençãos e 1 mácula de Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Inimigos Inteligentes",
+    "DESCRIPTION": "Todos os inimigos possuem movimentos e habilidades mais desafiadores."
+  },
+  "Careless": {
+    "NAME": "Descuidado",
+    "DESCRIPTION": "No começo de cada turno, descarte a carta no topo da sua pilha de compra."
+  },
+  "ControlledChaos": {
+    "NAME": "Caos Controlado",
+    "DESCRIPTION": "Comece com Olho Congelado. No começo do seu turno, adicione 10 cartas aleatórias ao fim da sua pilha de compra."
+  },
+  "MonsterHunter": {
+    "NAME": "Colosso",
+    "DESCRIPTION": "Inimigos possuem PV bônus, mas possuem recompensas melhores."
+  },
+  "DeadlyEvents": {
+    "NAME": "Eventos Mortais",
+    "DESCRIPTION": "Quartos de ? agora podem conter Elites, mas também possuem mais chancer de conter Salas de Tesouro."
+  },
+  "Daily Mods": {
+    "NAME": "Mods Diários",
+    "DESCRIPTION": "Embarque em uma sessão com exatamente 3 Mods Diários aleatórios."
+  },
+  "The Ending": {
+    "NAME": "O Final",
+    "DESCRIPTION": "Habilita o Ato Final."
+  }
+}

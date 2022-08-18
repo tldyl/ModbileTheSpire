@@ -1,0 +1,232 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "Terrassez vos ennemis en jouant les cartes de votre main ! NL NL Il vous faut de #yl'Énergie pour jouer vos cartes. NL Lorsque vous n'en avez plus, mettez fin à votre tour. NL NL Au début de votre tour, vous piochez de nouvelles cartes et vos points #yd'Énergie se remplissent.",
+      "Jouez des cartes défensives pour gagner de #yl'Armure avant qu'un ennemi ne vous attaque. NL NL #yL'Armure réduit les dégâts infligés par l'attaque suivante, mais NL #rs'estompe au début de votre prochain tour.",
+      "Pendant votre tour, vous pouvez voir ce qu'un ennemi #ys'apprête à faire au-dessus de sa tête. NL NL Si un ennemi s'apprête à vous attaquer, n'oubliez pas de gagner de #yl'Armure !"
+    ],
+    "LABEL": [
+      "Suivant",
+      "C'est parti !",
+      "Tutoriel",
+      "(Page ",
+      " de 3)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Astuce : ",
+      "Compris"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Buvez ou lancez des potions pendant le combat ! NL Vous gardez vos potions d'une salle à l'autre."
+    ],
+    "LABEL": [
+      "Potions"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Il vous faut de l'Énergie pour jouer vos cartes ! NL Cet orbe en bas à gauche vous indique l'Énergie qu'il vous reste pour ce tour."
+    ],
+    "LABEL": [
+      "Coût en Énergie"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Si vous n'avez plus de cartes à piocher, vos cartes défaussées sont placées dans la pioche."
+    ],
+    "LABEL": [
+      "Plus de cartes ?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Cette carte vous octroie un Pouvoir lorsqu'elle est utilisée. NL Les Pouvoirs sont des talents passifs et restent effectifs jusqu'à la fin du combat.",
+      "Il vous faut de l'Énergie pour jouer vos cartes ! NL Cet orbe en bas à gauche vous indique l'Énergie qu'il vous reste pour ce tour.",
+      "Ma #rmain #rest #rpleine !",
+      "#r@CAPACITÉ@ #r@MAXIMALE@ #r@ATTEINTE.@",
+      "Je n'ai plus d'emplacements d'Orbe."
+    ],
+    "LABEL": [
+      "Cartes Pouvoir",
+      "Coût en Énergie"
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Les Reliques trouvées dans la Tour vous octroient des bonus uniques et restent effectives jusqu'à la fin de votre partie. NL Vous pouvez en trouver en terrassant des ennemis puissants ou dans des coffres.",
+      "Cette Relique doit être découverte.",
+      "Cette relique est épuisée."
+    ],
+    "LABEL": [
+      "Reliques",
+      "Inconnue",
+      "Cette Relique doit être déverrouillée.",
+      "Verrouillée"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "N'oubliez pas vos récompenses ! NL Cliquez dessus pour les ramasser.",
+      "N'oubliez pas vos récompenses !"
+    ],
+    "LABEL": [
+      "Récompenses"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Au début de chaque tour, NL #b",
+      " cartes sont piochées de cet endroit. NL NL Cliquez pour voir les cartes de votre pioche (mélangées).",
+      " les cartes sont tirées d'ici. NL NL Cliquez pour voir les cartes de votre pioche.",
+      " cartes sont piochées de cet endroit. NL NL Voir les cartes de votre pioche (mélangées).",
+      " les cartes sont tirées d'ici. NL NL Voir les cartes de votre pioche."
+    ],
+    "LABEL": [
+      "Pioche"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Les données de jeu et les historiques d'erreurs sont transmis à Mega Crit afin d'équilibrer le jeu. NL NL Vos informations personnelles ne sont PAS récoltées.",
+      "Slay the Spire fonctionne plus rapidement en plein écran. Cette option est recommandée pour OSX, la barre des menus et le Dock étant masqués. NL REMARQUE : sur PC, lorsque vous jouez à Slay the Spire en plein écran, le retour avec Alt-Tab peut ne pas fonctionner.",
+      "Slay the Spire n'étant pas un jeu exigeant, nous vous recommandons d'utiliser le mode plein écran fenêtré pour pouvoir utiliser Alt-Tab rapidement. Cette option fonctionne mieux sur PC.",
+      "Remarque : Si la synchronisation verticale est activée, la fréquence d'images max ne peut pas dépasser la fréquence de rafraîchissement de votre moniteur.",
+      "Support manette incomplet pour cet écran.",
+      "Changes which monitor is utilized when Fullscreen."
+    ],
+    "LABEL": [
+      "Indicateurs",
+      "Plein écran",
+      "Plein écran fenêtré",
+      "Fréquence d'images max",
+      "Fullscreen Monitor"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Vous retirez une carte de votre deck. Le coût de ce service augmente de #b",
+      " pour le reste de la partie."
+    ],
+    "LABEL": [
+      "Service de retrait de carte"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Mettez fin à votre tour en appuyant sur ce bouton. NL NL Vous défaussez votre main, les ennemis jouent leur tour, vous piochez ",
+      " des cartes, puis vous rejouez un tour."
+    ],
+    "LABEL": [
+      "Fin du tour"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "Si votre pioche est vide, vos cartes défaussées sont placées dans la pioche. NL NL Cliquez pour voir les cartes défaussées.",
+      "Si votre pioche est vide, vos cartes défaussées sont placées dans la pioche. NL NL Voir les cartes défaussées."
+    ],
+    "LABEL": [
+      "Défausse"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Vos points d'Énergie actuels. Il vous faut de l'Énergie pour jouer vos cartes."
+    ],
+    "LABEL": [
+      "Énergie"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Vous lancez cette potion sur votre ennemi.",
+      "Vous consommez cette potion.",
+      "Vous jetez cette potion NL #r(irréversible)"
+    ],
+    "LABEL": [
+      "Lancer",
+      "Boire",
+      "Défausser"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Permet d'ouvrir le menu du jeu. NL NL Changez ou mettez à jour vos graphismes, le son ou les préférences de jeu.",
+      "Consultez toutes les cartes de votre deck.",
+      "Consultez le plan du donjon en cours.",
+      "Si vous n'avez plus de PV, vous mourez.",
+      "Affiche le montant d'or que vous possédez. L'or est la monnaie utilisée dans la Tour.",
+      "",
+      "",
+      "Temps écoulé depuis le début de la partie."
+    ],
+    "LABEL": [
+      "Paramètres",
+      "Deck",
+      "Plan",
+      "Points de vie (PV)",
+      "Sac d'or",
+      "Chronomètre"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Discutez avec d'autres joueurs pour découvrir de nouvelles stratégies.",
+      "Il y a toujours un site de repos avant un boss.",
+      "Dépensez votre or dans les boutiques ! (Astuce sponsorisée par le Marchand)",
+      "Faites une pause de temps en temps.",
+      "Les calculs de pourcentages sont arrondis à l'unité inférieure à la fin.",
+      "Pendant le combat, vous pouvez consulter le contenu de votre pioche et de votre défausse.",
+      "Vous pouvez posséder autant de Reliques que vous le souhaitez.",
+      "Les coffres contiennent toujours une Relique.",
+      "Tous les chemins contiennent au moins 1 salle au trésor.",
+      "Vous obtiendrez toujours une Relique lorsque vous tuez un ennemi d'élite.",
+      "Vous ne verrez jamais la même Relique deux fois dans une partie.",
+      "Les cartes inhabituelles ont une bannière et un cadre bleus.",
+      "Les cartes rares ont une bannière et un cadre dorés.",
+      "La rareté d'une carte est visible sur ladite carte.",
+      "Il n'est pas toujours judicieux d'ajouter une carte à votre deck.",
+      "Les cartes épuisées pendant le combat ne sont pas retirées du deck.",
+      "Vous ne pouvez avoir que 10 cartes en main.",
+      "Les cartes Statut disparaissent à la fin du combat.",
+      "Les Malédictions ne peuvent pas être améliorées. D'ailleurs, pourquoi ferait-on une chose pareille ?",
+      "Des cartes améliorées peuvent faire partie des récompenses après le Niveau 1.",
+      "Les salles mystères peuvent contenir des trésors, des monstres, des boutiques ou des événements.",
+      "Le Marchand ne vous rembourse jamais. Quel fourbe.",
+      "Le prix du service de retrait de carte augmente à chaque fois que vous l'utilisez.",
+      "Le service de retrait de carte ne peut être utilisé qu'une fois dans chaque boutique.",
+      "Les dégâts infligés par des potions, Reliques et Pouvoirs ne sont pas considérés comme des dégâts d'Attaque.",
+      "Les effets qui génèrent des cartes aléatoires pendant le combat ne pourront jamais vous soigner."
+    ],
+    "LABEL": [
+      "Vous pouvez défausser des potions pour libérer de la place."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Sur l'écran de récompenses, vous pouvez faire un clic-droit sur une carte pour obtenir des informations supplémentaires.",
+      "Vous pouvez obtenir des informations utiles en survolant la plupart des objets.",
+      "Un clic droit relâchera toute carte que vous êtes en train de faire glisser.",
+      "Survolez un ennemi pour connaître son nom et son Pouvoir.",
+      "Utilisez la molette ou glissez en cliquant pour faire défiler l'écran.",
+      "Si vous pouvez inspecter un objet, votre curseur se transformera en loupe.",
+      "Utilisez la molette ou faites glisser en cliquant pour faire défiler les plans, les listes de cartes et autres."
+    ],
+    "LABEL": []
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Cliquez pour voir les cartes Épuisées ce combat.",
+      "Voir les cartes Épuisées ce combat."
+    ],
+    "LABEL": [
+      "Cartes Épuisées"
+    ]
+  }
+}

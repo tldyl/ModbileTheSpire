@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "アーティファクト"
+      ],
+      "DESCRIPTION": "次に付与される能力低下を打ち消す。"
+    },
+    "BLOCK": {
+      "NAMES": [
+        "ブロック",
+        "blocks"
+      ],
+      "DESCRIPTION": "次のターン開始時まで、ダメージを軽減する。"
+    },
+    "CURSE": {
+      "NAMES": [
+        "呪い"
+      ],
+      "DESCRIPTION": "呪いはデメリットカードとして、あなたのデッキに残り続ける。"
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "敏捷性"
+      ],
+      "DESCRIPTION": "敏捷性はカードから得られるブロック値を上昇させる。"
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "エセリアル"
+      ],
+      "DESCRIPTION": "ターン終了時にこのカードが手札にある時、廃棄する。"
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "廃棄",
+        "exhausted",
+        "exhausts"
+      ],
+      "DESCRIPTION": "戦闘終了までデッキから取り除く。"
+    },
+    "INNATE": {
+      "NAMES": [
+        "天賦"
+      ],
+      "DESCRIPTION": "手札に加えた状態で戦闘を開始する。"
+    },
+    "LOCKED": {
+      "NAMES": [
+        "ロック中"
+      ],
+      "DESCRIPTION": "このカードはアンロックされていない。"
+    },
+    "POISON": {
+      "NAMES": [
+        "毒",
+        "poisoned"
+      ],
+      "DESCRIPTION": "ターン開始時、毒状態の敵はダメージを受ける。 毎ターン毒は #b1 減少する。"
+    },
+    "RETAIN": {
+      "NAMES": [
+        "保留",
+        "retains",
+        "retained"
+      ],
+      "DESCRIPTION": "保留したカードはターン終了時に捨て札にしない。"
+    },
+    "SHIV": {
+      "NAMES": [
+        "ナイフ",
+        "shivs"
+      ],
+      "DESCRIPTION": "ナイフは #b0 コストのアタックカード。プレイ時に廃棄する。"
+    },
+    "STATUS": {
+      "NAMES": [
+        "状態異常"
+      ],
+      "DESCRIPTION": "状態異常カードは戦闘終了時に取り除かれる。"
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "筋力"
+      ],
+      "DESCRIPTION": "筋力はアタックプレイ時に追加のダメージを与える。"
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "変化"
+      ],
+      "DESCRIPTION": "変化したカードはすべてのレアリティのカードからランダムに選ばれる。"
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "不明"
+      ],
+      "DESCRIPTION": "このカードは未発見。"
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "使用不可"
+      ],
+      "DESCRIPTION": "手札からプレイできない。"
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "アップグレード",
+        "upgraded"
+      ],
+      "DESCRIPTION": "カードをアップグレードするとより強力になる。カードは1度までしかアップグレードできない。"
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "弱体"
+      ],
+      "DESCRIPTION": "弱体中の敵は、アタックで受けるダメージが #b50% 増加する。"
+    },
+    "WEAK": {
+      "NAMES": [
+        "脱力",
+        "weaken",
+        "weakened",
+        "weakens"
+      ],
+      "DESCRIPTION": "脱力中の敵は、アタックで与えるダメージが #b25% 低下する。"
+    },
+    "WOUND": {
+      "NAMES": [
+        "負傷",
+        "wounds"
+      ],
+      "DESCRIPTION": "負傷はプレイできない状態異常カード。"
+    },
+    "DAZED": {
+      "NAMES": [
+        "めまい"
+      ],
+      "DESCRIPTION": "めまいはプレイできない状態異常カード。"
+    },
+    "BURN": {
+      "NAMES": [
+        "火傷",
+        "burns"
+      ],
+      "DESCRIPTION": "火傷はプレイできない状態異常カード。あなたにダメージを与える。"
+    },
+    "FRAIL": {
+      "NAMES": [
+        "脆弱化"
+      ],
+      "DESCRIPTION": "脆弱化中は、カードから得られるブロック値が #b25% 低下する。"
+    },
+    "STRIKE": {
+      "NAMES": [
+        "ストライク"
+      ],
+      "DESCRIPTION": " \"ストライク\" が名前に入ったカード。"
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "混乱"
+      ],
+      "DESCRIPTION": "カードを引くたび、そのコストはランダムに変化する。"
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "無形"
+      ],
+      "DESCRIPTION": "すべてのダメージとHPを失う効果を #b1 に軽減する。"
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "エナジーはあなたの手札からカードをプレイするときに消費する。"
+    ],
+    "VOID": {
+      "NAMES": [
+        "空虚",
+        "voids"
+      ],
+      "DESCRIPTION": "空虚はプレイできない状態異常カード。引いたときにエナジーを消費する。"
+    },
+    "FOCUS": {
+      "NAMES": [
+        "集中力"
+      ],
+      "DESCRIPTION": "集中力 は オーブ の効果を高める。"
+    },
+    "EVOKE": {
+      "NAMES": [
+        "解放",
+        "evoked"
+      ],
+      "DESCRIPTION": "一番右にあるオーブを消費して、その 解放 効果を使用する。"
+    },
+    "PLASMA": {
+      "NAMES": [
+        "プラズマ",
+        "plasma+"
+      ],
+      "DESCRIPTION": "オーブ: エナジーを得る。"
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "生成",
+        "channeled"
+      ],
+      "DESCRIPTION": "1番目の空きスロットにオーブを生成する。 空きスロットが無い場合は、1番目のオーブを自動的に #y解放 して空きを作る。"
+    },
+    "DARK": {
+      "NAMES": [
+        "ダーク",
+        "dark+"
+      ],
+      "DESCRIPTION": "オーブ: 毎ターンダメージが増加する。 #y解放 した時、 最もHPが少ない敵にダメージを与える。"
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "ライトニング",
+        ""
+      ],
+      "DESCRIPTION": "オーブ: ランダムな敵にダメージを与える。"
+    },
+    "FROST": {
+      "NAMES": [
+        "フロスト",
+        "frost+"
+      ],
+      "DESCRIPTION": "オーブ: #yブロック を得る。"
+    },
+    "THORNS": {
+      "NAMES": [
+        "トゲ"
+      ],
+      "DESCRIPTION": "#y攻撃 によるダメージを受けるたび、 反撃ダメージを与える。"
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "ロック・オン"
+      ],
+      "DESCRIPTION": "ロック・オンされた対象は、オーブから受けるダメージが #b50% 増加する。"
+    },
+    "STANCE": {
+      "NAMES": [
+        "スタンス",
+        "stances"
+      ],
+      "DESCRIPTION": "一度に持てるスタンスは一つだけ。"
+    },
+    "REGEN": {
+      "NAMES": [
+        "再生"
+      ],
+      "DESCRIPTION": "再生 はターン終了時にHPを回復する。 ターン毎に回復量が #b1 減る。"
+    },
+    "VIGOR": {
+      "NAMES": [
+        "活力"
+      ],
+      "DESCRIPTION": "あなたの次のアタックは追加のダメージを与える。"
+    },
+    "PRAYER": {
+      "NAMES": [
+        "マントラ",
+        "through violence"
+      ],
+      "DESCRIPTION": "#yマントラ を #b10 得たとき、 #y神聖 のスタンスに入る。"
+    },
+    "WRATH": {
+      "NAMES": [
+        "憤怒"
+      ],
+      "DESCRIPTION": "この #yスタンス 中、 与えるダメージと受けるダメージが二倍になる。"
+    },
+    "SCRY": {
+      "NAMES": [
+        "占術"
+      ],
+      "DESCRIPTION": "山札の上からX枚のカードを見る。 その中から好きな枚数を捨てる。"
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "神聖"
+      ],
+      "DESCRIPTION": "この #yスタンス に入ったとき、 [W] [W] [W] を得る。 アタックは3倍のダメージを与える。 次のターン開始時、この #yスタンス を解除する。"
+    },
+    "CALM": {
+      "NAMES": [
+        "平静"
+      ],
+      "DESCRIPTION": "この #yスタンス を解除したとき、 [W] [W] を得る。"
+    },
+    "RITUAL": {
+      "NAMES": [
+        "儀式"
+      ],
+      "DESCRIPTION": "ターン終了時、 #y筋力 を得る。"
+    },
+    "FATAL": {
+      "NAMES": [
+        "致命"
+      ],
+      "DESCRIPTION": "ミニオンではない敵を倒すたびに発動する。"
+    }
+  }
+}

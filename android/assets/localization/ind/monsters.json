@@ -1,0 +1,704 @@
+{
+  "AcidSlime_L": {
+    "MOVES": [
+      "Ludah Asam",
+      "Membelah Diri",
+      "Jilat"
+    ],
+    "NAME": "Lendir Asam (L)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Ludah Asam",
+      "Jilat"
+    ],
+    "NAME": "Lendir Asam (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Lendir Asam (S)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Slime Permohonan Maaf",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Jeritan Jiwa",
+      "Gema Kegelapan",
+      "Penyucian",
+      "Limbah"
+    ],
+    "NAME": "Yang Terbangun",
+    "DIALOG": [
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~Tidak~ ~.~ ~.~ ~.~ ~tidak~ ~.~ ~.~ NL ~.~ ~.~ ~tidak~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Beruang",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lancip",
+    "DIALOG": [
+      "~Beruaaaangg!!!!~"
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Romeo",
+    "DIALOG": [
+      "~Tangkap~ ~dia~ ~Beruang!!~",
+      "~Kamu~ ~akan~ ~membayar~ ~semua~ ~ini!!~",
+      "~Beruaaaangg,~ ~tidaaaak!~"
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Buku Penikam",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "SINAR HIPER"
+    ],
+    "NAME": "Robot Perunggu",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Orb",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bhurung",
+    "DIALOG": [
+      "@KWAK!@ NL @KWAAAK@",
+      ""
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Centurion",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Kuda-kuda Bertahan",
+      "Eksekusi",
+      "Tampar Muka"
+    ],
+    "NAME": "Sang Juara",
+    "DIALOG": [
+      "Kamu sebut itu senjata?",
+      "Ayo sini!",
+      "Berikan yang terbaik! NL @HAHAHA!@",
+      "Nih, kesempatan bebas! NL Culun lemah!",
+      "~Kau~ ~telah~ ~melakukannya...~",
+      "@KALAH??@ NL @TIDAK@ @MUNGKIN!!@",
+      "~MATI~ ~.~ ~.~ ~.~",
+      "Rasakan amarahku!",
+      "@ITU@ NL @SABUK@ @KU@"
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Yang Terpilih",
+    "DIALOG": [
+      "~Menderitalah...~"
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Jantung Korup",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Mantra"
+    ],
+    "NAME": "Pemuja",
+    "DIALOG": [
+      "@KEKUATANKU@ @TAK@ NL @TERTANDINGI!@",
+      "@KAU@ @TIDAK@ NL @DIPERBOLEHKAN@ NL @DISINI!@",
+      "~Kekuatanku~ NL ~tertandingi...~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Chomp! Chomp!"
+    ],
+    "NAME": "Darkling",
+    "DIALOG": [
+      "Tumbuh..."
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deka",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Lingkaran Kekuatan"
+    ],
+    "NAME": "Dona",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Peledak",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Orb Api",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pisau",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Petarung Api",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Grow"
+    ],
+    "NAME": "Mahkluk Jamur",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Ludah Jaring"
+    ],
+    "NAME": "Kutu Hijau",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Tumbuh"
+    ],
+    "NAME": "Kutu Merah",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kepala Besar",
+    "DIALOG": [
+      "~Sudah~ ~waktunya~",
+      "~Sampai~ ~Jumpa~",
+      "~Tik~ ~Tok~ NL ~Tik~ ~Tok~",
+      "~Kenapa~ ~kamu~ NL ~masih~ ~di~ ~sini?~"
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Hantam"
+    ],
+    "NAME": "Gremlin Gendut",
+    "DIALOG": [
+      "",
+      "",
+      "@Oh@ @tidak,@ NL @tidak,@ NL @oH@ @TIDAK!@"
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Kerahkan!"
+    ],
+    "NAME": "Ketua Gremlin",
+    "DIALOG": [
+      "Jangan menyerah!",
+      "Kita belum selesai!",
+      "Ayo serang dia!",
+      "@Mundur@ NL @Munduuurrr!@",
+      "@Lariiiii!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Hantam Tengkorak",
+      "Serudukan Banteng"
+    ],
+    "NAME": "Gremlin Nob",
+    "DIALOG": [
+      "@RRrroohrrRGHHhhh!!@"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gremlin Licik",
+    "DIALOG": [
+      "",
+      "@Aku@ @akan@ NL @cari@ @bantuan!@ ",
+      "@Apa@ @yang-@ @!?@"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Lindungi",
+      "Hantaman Perisai"
+    ],
+    "NAME": "Gremlin Tameng",
+    "DIALOG": [
+      "",
+      "~Da~ ~dah...~",
+      "Tidak terlihat bagus..."
+    ]
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Cakar"
+    ],
+    "NAME": "Gremlin Gila",
+    "DIALOG": [
+      "",
+      "@Kucari@ @bantuan!@",
+      "Ah, aku lari!"
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Merapal",
+      "Ledakan Raksasa"
+    ],
+    "NAME": "Gremlin Penyihir",
+    "DIALOG": [
+      "",
+      "Hiyaat!",
+      "~Ini~ ~dia!!~",
+      "@Aku...@ @cari...@ NL @bantuan...!@",
+      "~terlalu...~ NL ~bahaya...~ NL ~dadah...~"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mystik",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Berkobar",
+      "Nyalakan",
+      "Jago Merah"
+    ],
+    "NAME": "Hexaghost",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Teriak",
+      "Gasak"
+    ],
+    "NAME": "Cacing Rahang",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Hisap Jiwa"
+    ],
+    "NAME": "Lagavulin",
+    "DIALOG": [
+      "",
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Lonjak",
+      "Rampok"
+    ],
+    "NAME": "Maling",
+    "DIALOG": [
+      "Serahkan uangmu!",
+      "@TIDAAAaaaak!@",
+      "Mana bom asapku... Coba kita lihat...",
+      "Terima kasih uangnya, hehe"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Maw",
+    "DIALOG": [
+      "@RRrrohrrRGHhh!!@"
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Lonjak",
+      "Rampok"
+    ],
+    "NAME": "Rampok",
+    "DIALOG": [
+      "Serahkan sini!",
+      "Aku kabur!"
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bebuyutan",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Tambah Kuat"
+    ],
+    "NAME": "Orb Berjalan",
+    "DIALOG": [
+      "Mengaktifkan NL perisai."
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dalang",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Penangkis",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Musnahkan"
+    ],
+    "NAME": "Penjaga",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pertumbuhan Menara",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Parasit Bercangkang",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Garuk"
+    ],
+    "NAME": "Budak Biru",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Juragan",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Gores",
+      "Jerat"
+    ],
+    "NAME": "Budak Merah",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Timpa",
+      "Bersiap",
+      "Membelah Diri",
+      "Semprot Lendir"
+    ],
+    "NAME": "Bos Lendir",
+    "DIALOG": [
+      "~Timpa...~ NL #r~LENDIR!!!~",
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Spora Pelemah"
+    ],
+    "NAME": "Tanaman Ular",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Tatapan Menenangkan",
+      "Cambuk Ekor",
+      "Gigit"
+    ],
+    "NAME": "Laroke",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Penjaga Bulat",
+    "DIALOG": [
+      "~Orang~ ~Asing~ NL ~Terdeteksi~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Jilat",
+      "Membelah Diri"
+    ],
+    "NAME": "Lendir Duri (L)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Jilat"
+    ],
+    "NAME": "Lendir Duri (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Lendir Duri (S)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Penancap",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sang Kolektor",
+    "DIALOG": [
+      "@Kamu@ @milikku!@"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Mode Bertahan",
+      "Hantaman Keras",
+      "Guling",
+      "Bantingan Kembar",
+      "Topan",
+      "Merapal",
+      "Menghembuskan Uap"
+    ],
+    "NAME": "Sang Penjaga",
+    "DIALOG": [
+      "#b~..PENDINGINAN...~",
+      "Bertahan...",
+      "#r@HANCURKAN@ NL #r@HANCURKAN@ NL #r@HANCURKAN@",
+      "#r@BAHAYA@ NL #r@BAHAYA@ NL #r@BAHAYA@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pelahap Waktu",
+    "DIALOG": [
+      "~Ah...~ NL ~..teman bicara...~",
+      "~Dasar Bodoh..~ NL @DASAR BODOH!@",
+      "~Ku tidak....~ NL ~...pernah suka..~ NL ~..denganmu...~"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kepala Obor",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sang Sesaat",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tameng Spire",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tombak Spire"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Gumpalan Menggeliat",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

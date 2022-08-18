@@ -1,0 +1,30 @@
+{
+  "Cursed Run": {
+    "NAME": "Cursed Run",
+    "DESCRIPTION": "Whenever you defeat a Boss, become Cursed."
+  },
+  "Double Elites": {
+    "NAME": "Double Elites",
+    "DESCRIPTION": "Double the amount of elite encounters."
+  },
+  "Fat Deck": {
+    "NAME": "Fat Deck",
+    "DESCRIPTION": "You cannot skip choosing card rewards."
+  },
+  "Heirloom": {
+    "NAME": "Heirloom",
+    "DESCRIPTION": "Start with 1 random relic."
+  },
+  "Night Terrors": {
+    "NAME": "Night Terrors",
+    "DESCRIPTION": "Resting at campfires heal 20% of your HP, rather than 30%."
+  },
+  "Turtle": {
+    "NAME": "Turtle",
+    "DESCRIPTION": "Start with 1 less Strike and 1 additional Defend."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "The Merchant's prices are increased by 25%."
+  }
+}

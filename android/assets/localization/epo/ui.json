@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Rezigni ludadon"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Ŝlosita",
+      "Nekonata"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Daŭrigi"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Morta",
+      "Ŝirmata",
+      "Maks. vivo +",
+      "Paralizita!",
+      "Interrompita!",
+      "Relikvoj"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Daŭrigi",
+      "Malsanoj:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Agresema",
+      "Ĉi tiu malamiko celas NL #yataki je #b",
+      " da damaĝo #b",
+      " fojojn.",
+      "Ĉi tiu malamiko celas NL #yataki je #b",
+      " da damaĝo.",
+      "Agresema",
+      "Ĉi tiu malamiko celas uzi #ystatbonigon kaj #yataki je #b",
+      " fojojn.",
+      "Ĉi tiu malamiko celas uzi #ystatbonigon kaj #yataki je #b",
+      "Taktika",
+      "Ĉi tiu malamiko celas doni #ystatmalbonigon al vi kaj #yataki je #b",
+      "Ĉi tiu malamiko celas #yŝirmi kaj #yataki je #b",
+      "Defendema",
+      "Malkuraĝa",
+      "Magia",
+      "Dormas",
+      "Paralizita",
+      "Nekonata",
+      "Ĉi tiu malamiko celas uzi #ystatbonigon.",
+      "Ĉi tiu malamiko celas doni #ystatmalbonigon al vi.",
+      "Ĉi tiu malamiko celas doni fortan #ystatmalbonigon al vi.",
+      "Ĉi tiu malamiko celas #yŝirmi dum sia vico.",
+      "Ĉi tiu malamiko celas #yŝirmi kaj doni #ystatmalbonigon al vi.",
+      "Ĉi tiu malamiko celas #yŝirmi kaj uzi #ystatbonigon.",
+      "Ĉi tiu malamiko celas #yfuĝi.",
+      "Ĉi tiu malamiko celas uzi misteran #ymagion dum sia vico.",
+      "Ĉi tiu malamiko dormas.",
+      "Ĉi tiu malamiko estos #yparalizita dum sia vico.",
+      "Estas #ynekonate kion celas fari ĉi tiu malamiko (ne atakos).",
+      "Ŝirmata"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Ŝirmata",
+      "la Fervestulo",
+      "la Silentulo",
+      "la Difektulo",
+      "la Observulo"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Mi ne povas porti NL pli da Pocioj."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Ŝtelis...",
+      "Fuĝis..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Elektu karton por aldoni al via mano",
+      "Elektu kartojn por aldoni al via mano"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Preventita",
+      "Imuna",
+      "Nuligita",
+      "\n Malaltigita"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "plibonigi"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Elitoj aperos pli ofte.",
+      "2. Normalaj malamikoj estos pli mortigaj.",
+      "3. Elitoj estos pli mortigaj.",
+      "4. Estroj estos pli mortigaj.",
+      "5. Resaniĝu malpli post bataloj kontraŭ estroj.",
+      "6. Komencu damaĝite ĉiun ludadon.",
+      "7. Normalaj malamikoj estos pli fortaj.",
+      "8. Elitoj estos pli fortaj.",
+      "9. Estroj estos pli fortaj.",
+      "10. Komencu malbenite ĉiun ludadon.",
+      "11. Malpli da pociingoj.",
+      "12. Plibonigitaj kartoj aperos malpli ofte.",
+      "13. Malriĉaj estroj.",
+      "14. Malaltigu vian maks. vivon.",
+      "15. Malfavoraj okazaĵoj.",
+      "16. Butikoj estas pli kostaj.",
+      "17. Normalaj malamikoj havas pli penigajn movarojn kaj kapablojn.",
+      "18. Elitoj havas pli penigajn movarojn kaj kapablojn.",
+      "19. Estroj havas pli penigajn movarojn kaj kapablojn.",
+      "20. (Maks. Nivelo) Duobla estro."
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Leviĝa reĝimo nivelo ",
+      " malŝlosita!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Malŝlosis leviĝon!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Elektu atakon por aldoni al via mano."
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Komenco de batalo",
+      "Vico de ludanto",
+      "Vico de malamikoj",
+      "-a vico"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Elektu karton por aldoni al via mano.",
+      "Elektu ",
+      " kartojn por aldoni al via mano."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Daŭrigi"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Konfirmi",
+      "Konfirmu vian elekton",
+      "Elektu relikvon",
+      "Nenion preni",
+      "NUN VOĈDONU: ",
+      "j restas.",
+      "Elektu malsanon"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Elektu karton por meti supren sur vian prenstakon.",
+      "Elektu kartojn por meti supren sur vian prenstakon."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Ĉu sonĝo?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Elektu karton por plibonigi"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Elektu karton por forigi."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Kion fari?",
+      "Hmm...",
+      "Kion mi faru?",
+      "Tempo por paŭzo",
+      "Tiom da ebloj...",
+      "Mi devus ripozi",
+      "Tiel laca..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Forigi konservaĵon"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Ofteco",
+      "Tipo",
+      "A-Z",
+      "Kosto",
+      "Saltu al:",
+      "Akiris"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Reveni",
+      "Ruĝa",
+      "Verda",
+      "Blua",
+      "Senkolora",
+      "Malbenoj",
+      "Statoj",
+      "Rigardi plibonigon",
+      "Purpura"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Nenion preni",
+      "Elektu karton",
+      "+2 maks. vivo",
+      "NUN VOĈDONU: ",
+      "j restas.",
+      "Rigardi plibonigon",
+      "Elektu unu"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Ŝlosita",
+      "Ĉi tiu ulo malŝlosiĝos kiam vi finos unu solan ludadon.",
+      "Ĉi tiu ulo ankoraŭ ne disponeblas dum Frua Eniro.",
+      "Ĉi tiu ulo malŝlosigos kiam vi finos ludadon per la Silentulo.",
+      "Vivo: ",
+      "Oro: ",
+      " Restantaj malŝlosoj",
+      "Nekonata",
+      "???",
+      " al sekvonta malŝloso",
+      "Ĉi tiu ulo malŝlosiĝos kiam vi venkos normalan ludadon kaj jam malŝlosis la 3-an ulon."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Elektu vian rolon",
+      "Ek!",
+      "La Fervestulo",
+      "La Silentulo",
+      "La Difektulo",
+      "Reen",
+      "Leviĝo",
+      "Nivelo ",
+      "Leviĝa reĝimo",
+      "Ludadoj iĝas pli malfacilaj kiam vi venkas... (ne afekcias sinsekvojn de venkoj)",
+      "Semo ",
+      "Hazarda semo",
+      "La komenca semo estas uzata por decidi kio okazos hazarde dum la ludado.",
+      "Agordi semon",
+      "La Observulo"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Elektu unu"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Daŭrigi",
+      "Preterlasi karton",
+      "Preterlasi oron",
+      "Preterlasi pocion",
+      "Preterlasi relikvon",
+      "Preterlasi premiojn",
+      "Fermi",
+      "Trezoro!",
+      "Kio enestas?",
+      "Premioj!",
+      "Gajnoj!",
+      "Falaĵoj!",
+      "Konsileto: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Konfirmi"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Reveni",
+      "Forigi konservaĵon",
+      "Jes",
+      "Ne"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Ĉi tiu devas esti mia nura #rAtako!"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Kopio"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Reklaku por eliri",
+      "por eliri",
+      "Retuŝetu por eliri"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Ĉiutaga penigo",
+      "Konekti al temposervilo...",
+      "#yNOTO: Vi faris la hodiaŭan penigon. NL Poentsumoj ne estas senditaj por pluraj provoj.",
+      "Reveni",
+      "Ek!",
+      "La hodiaŭa rolo: ",
+      "yyyy-MM-dd HH:mm:ss",
+      "Restanta tempo: ",
+      "#yAtingita #yetaĝo: NL  ",
+      " NL NL  #yKartaro: NL ",
+      " NL NL  #yRelikvoj: NL  ",
+      " NL Hodiaŭa penigo: NL #yKlaso: NL ",
+      " NL #yModifaĵoj: ",
+      "Variaĵoj: ",
+      "Poentaroj",
+      "*Atingaĵoj ne atingeblas per ĉiutaga grimpo.",
+      "  [EKSTERRETA REĜIMO]",
+      "dd MMMM, yyyy",
+      "*Trofeoj ne atingeblas per ĉiutaga grimpo."
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Daŭrigi",
+      "Venko?",
+      "Etaĝoj grimpitaj",
+      "Estroj venkitaj",
+      "Ludodaŭro",
+      "Ludodaŭro",
+      "Poentsumo",
+      "Malvenkis",
+      "Morto...",
+      "Malvenko",
+      "Malvenkita!",
+      "Profanita",
+      "Detruiĝo",
+      "Ruinigita",
+      "Vi estas mortigita!",
+      "Konata sento.",
+      "Dormeto allogas.",
+      "Kion vi faros, tio okazos al vi.",
+      "Ĉio iris feken.",
+      "Mi ne preparis por ĉi tio.",
+      "Mi reprovos morgaŭ.",
+      "Nu, mi bezonas novan mapon.",
+      "Nesufiĉe preparis.",
+      "Neimagebla!",
+      "Ĉu jen mia vera povo?",
+      "Neniam bonŝanca...",
+      "Bonvole ne...",
+      "Ne tute al la pinto.",
+      "La Turego konsumas aliulon...",
+      "Via konscio forŝvebas...",
+      "Malvenko",
+      "Akcepton",
+      "Daŭrigi",
+      "Reprovi",
+      "Ĉefa menuo",
+      "Daŭrigi",
+      "Malŝloso",
+      "Ĉefa menuo",
+      "Reprovi",
+      "Daŭrigi",
+      "Malŝloso",
+      "Restantaj malŝlosoj: ",
+      "Restanta malŝloso: ",
+      "Malamikoj venkitaj",
+      "Elitoj mortigitaj",
+      "Oro ne elspezita",
+      "Bonuso de vivpoentoj"
+    ],
+    "EXTRA_TEXT": [
+      "Vestiblo-elitoj mortaj",
+      "Urbo-elitoj mortaj",
+      "Pretero-elitoj mortaj",
+      "Rapidulo",
+      "Lumrapido",
+      "Altlandulo",
+      "Kolekto",
+      "Plena aro",
+      "Almozulo",
+      "Bibliotekisto",
+      "Enciklopedio",
+      "Manĝis bone",
+      "Plenmanĝita",
+      "Malbenoj!",
+      "Propra decido",
+      "Ĉampiono",
+      "Perfekta",
+      "Pli ol perfekta",
+      "Tromortigo",
+      "K-k-k-kombinaĵo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Leviĝa reĝimo nivelo ",
+      " Malŝlosita!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Forigi ĉi tiun konservaĵon?",
+      "Jes",
+      "Ne",
+      "AVERTO: Ĉi tio ne estas malfarebla."
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Fosi",
+      "Fosi hazardan relikvon."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "forĵeti"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Mia forĵetstako estas #rmalplena."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Elektu karton por resendi al via mano."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Elektu karton por meti supren sur vian prenstakon."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Ĉi tiuj kartoj estos miksataj en vian prenstakon, kiam en tiu ne plu restas kartoj.",
+      "Reveni",
+      "Forĵetstako"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Mia prenstako estas #rmalplena."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Kartoj estas prenataj de ĉi tie je la komenco de viaj vicoj.",
+      "(Montrataj kartoj estas ordigitaj laŭ ofteco)",
+      "Reveni",
+      "Prenstako"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Duobligi"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Elektu komencan ĉambron",
+      "Reveni"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Instruiloj",
+      "Ĉu vi deziras vidi konsiletojn pri la ludado dum vi ludas la ludon?",
+      "Akto 1",
+      "La Vestiblo",
+      "Akto 2",
+      "La Urbo",
+      "Akto 3",
+      "La Pretero",
+      "Fina akto",
+      "La Fino",
+      "Klaku ien ajn por daŭrigi"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Kio estas frua eniro?",
+      "Kio estas malfermita betaversio?",
+      "Slay the Spire ankoraŭ estas aktive kreata! NL Multaj funkcioj, kartoj kaj malamikoj daŭre estas ŝanĝataj. NL NL Se vi trovas problemon aŭ havas iajn rimarkojn, bonvolu sciigi nin ĉe nia #bDiskutpaĝo #bde #bSteam. NL NL Jen sufiĉe da legado, estas turego grimpenda!",
+      "Slay the Spire ankoraŭ estas aktive kreata! NL Krome, vi ludas la betaversion de la ludo. NL NL Bonvolu sciigi nin pri ajna problemo, kiun vi trovas dum via ludado, sed ne surpriziĝu pri lokokupaj artaĵoj por venontaj partoj de la ludo. NL NL Jen sufiĉe da legado, estas turego grimpenda!",
+      "Klaku ien ajn por komenci",
+      "Daŭrigi"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Fini vicon",
+      "Malamika vico"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "elĉerpi"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Ĉi tiuj kartoj estis elĉerpitaj dum ĉi tiu batalo.",
+      "Reveni"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Elektu karton por resendi al via mano"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Eliri la ludon"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "La Vestiblo"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "anstataŭigi (Monludan ĵetonon)",
+      "anstataŭigi"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Konservis~ #y~ludon~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " da oro"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Konfirmi",
+      "Nuligi",
+      "Konfirmi vian elekton",
+      "Foriri"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Konfirmu karton por ",
+      "Konfirmu kartojn por ",
+      "Elektu ",
+      " kartojn por ",
+      "Elektu ajnan kvanton da kartoj por ",
+      "Elektu karton por ",
+      "kopii"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "elĉerpi"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "Eskapo",
+      "Forward Delete": "Forigo",
+      "Delete": "Retropaŝo"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Enigaj agordoj",
+      "Ludaj agordoj",
+      "Reveni",
+      "Komandoj",
+      "Klavaro",
+      "Ludregilo",
+      "Reŝargu originalajn agordojn",
+      "Konfirmi karton",
+      "Nuligi / Eliri",
+      "Mapo",
+      "Rigardi kartaron",
+      "Prenstako",
+      "Forĵetstako",
+      "Elĉerpstako",
+      "Fini vicon",
+      "Maldekstre",
+      "Dekstre",
+      "Elekti karton #1",
+      "Elekti karton #2",
+      "Elekti karton #3",
+      "Elekti karton #4",
+      "Elekti karton #5",
+      "Elekti karton #6",
+      "Elekti karton #7",
+      "Elekti karton #8",
+      "Elekti karton #9",
+      "Elekti karton #10",
+      "Malteni karton",
+      "Elekti*",
+      "Nuligi*",
+      "Supra panelo*",
+      "Daŭrigi / Fini vicon*",
+      "Maldekstra tabo / Rigardi kartaron*",
+      "Dekstra tabo / Elĉerpstako*",
+      "Mapo*",
+      "Agordoj*",
+      "Prenstako*",
+      "Forĵetstako*",
+      "Supre*",
+      "Malsupre*",
+      "Maldekstre*",
+      "Dekstre*",
+      "Supre (Alt)*",
+      "Malsupre (Alt)*",
+      "Maldekstre (Alt)*",
+      "Dekstre (Alt)*",
+      "Supre",
+      "Malsupre",
+      "Ludregilo ŝaltita",
+      "Tuŝekrana reĝimo",
+      "Videti"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brazila portugala",
+      "Ĉina (simpligita)",
+      "Ĉina (tradicia)",
+      "Angla",
+      "Franca",
+      "Germana",
+      "Itala",
+      "Japana",
+      "Korea",
+      "Pola",
+      "Rusa",
+      "Hispana",
+      "Hebrea",
+      "Turka",
+      "Sveda",
+      "Norvega",
+      "Taja",
+      "Serba (cirila)",
+      "Ukraina",
+      "Vjetnama",
+      "Hungara",
+      "Serba (latina)",
+      "Kataluna",
+      "Greka",
+      "Indonezia",
+      "Esperanto",
+      "Nederlanda"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "La Fervestulo",
+      "La Silentulo",
+      "La Difektulo",
+      "Averaĝe atingita etaĝo (lastaj 20 provoj)",
+      "Averaĝa poentsumo (lastaj 20 provoj)",
+      "Plej bona sinsekvo de venkoj",
+      "Plej rapida venko",
+      "Poentrekordo",
+      "Option 6. DO NOT TRANSLATE",
+      "Amikoj",
+      "Tutmonde",
+      "La Observulo"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Reveni",
+      "Filtriloj",
+      "Rolo",
+      "Regiono",
+      "Tipo",
+      "Montru mian poentsumon",
+      "Rango",
+      "Nomo",
+      "Poentsumo",
+      "Ricevante datenojn...",
+      "Poentaroj",
+      "Neniu konekto al Steam",
+      "Disponeblas neniuj poentsumoj \n Iru venki la Turegon!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Nekonata",
+      "???",
+      "Nekonata ĉambro. NL NL Vi povus renkonti monstrojn, trezorojn, butikojn, aŭ ion tute alian.",
+      "Komercisto",
+      "Butikoj",
+      "La mistera Komercisto vendas siajn varojn en tiaj ĉambroj. NL NL Elspezu vian pezan #yoron tie!",
+      "Trezoro",
+      "Trezorĉambroj",
+      "En ĉi tiaj trovindaj ĉambroj oni povas trovi #yrelikvojn kaj #yoron.",
+      "Ripozejo",
+      "Ripozejoj",
+      "Vizitu ĉi tiajn ĉambrojn por iom #gresaniĝi aŭ #yplibonigi karton.",
+      "Malamiko",
+      "Malamikoj",
+      "Troviĝas malicaj malamikoj en ĉi tiaj ĉambroj.",
+      "Elito",
+      "Elitoj",
+      "Estas potencaj kontraŭuloj en ĉi tiaj ĉambroj. NL NL Se vi venkos, vi ekhavos relikvon.",
+      "Klarigo"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Halteri",
+      "Komenci batalojn kun +1 da forto. (Ĝis 3)",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yVersio: ",
+      "Ek!",
+      "Reveni",
+      "klaku por redakti",
+      "por redakti",
+      "tuŝetu por redakti"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Vi komencos ĉiun batalon kun ĉiu karto en ĉi tiu listo.",
+      "Reveni"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Ludi",
+      "",
+      "",
+      "Pluludi",
+      "",
+      "Statistikoj",
+      "",
+      "Eliri",
+      "Notoj pri versioj",
+      "Rezigni ludadon",
+      "",
+      "Agordoj",
+      "",
+      "Kompendio"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Normala",
+      "",
+      "Ekgrimpi la Turegon.",
+      "Ĉiutaga grimpo",
+      "",
+      "Disponeblas nova penigo unufoje ĉiutage.\n\nKonkursu kontraŭ aliaj ludantoj por atingi la plej altan poentsumon!",
+      "Leviĝo",
+      "",
+      "La Turego fariĝas pli forta pro ĉiu venko.\n\nTestu la limojn de viaj plej potencaj strategioj.",
+      "Kartbiblioteko",
+      "",
+      "Vidi ĉiujn kartojn, kiujn vi trovis en la Turego.",
+      "Relikvokolekto",
+      "",
+      "Ekzameni la diversajn valoraĵojn kaj artefaktojn, kiujn vi akiris dum viaj ludadoj.",
+      "Bestarlibro",
+      "",
+      "Ĉi tio ankoraŭ ne disponeblas.",
+      "Rolaj statistikoj",
+      "",
+      "Jen vi trovos la progreson kaj statistikojn por ĉiu rolo.",
+      "Poentaro",
+      "",
+      "Vidi viajn poentsumojn kaj komparu ilin kun tiuj de amikoj kaj aliaj ludantoj.",
+      "Ludadhistorio",
+      "",
+      "Konsideri viajn antaŭajn provojn al venki la Turegon.",
+      "Ludaj agordoj",
+      "",
+      "Ŝanĝi vian distingivon kaj (mal)ŝaltu diversajn agordojn.",
+      "Enigaj agordoj",
+      "",
+      "Ŝanĝi viajn enigajn agordojn kaj fulmoklavojn.",
+      "Agnoskoj",
+      "",
+      "Vidi ĉiujn homojn, kiuj kontribuis al Slay the Spire!",
+      "Nekonata",
+      "Ludi ĉiutagan grimpon por malŝlosi ĉi tiun ludreĝimon.",
+      "Ĉi tio ankoraŭ ne disponeblas.",
+      "Laŭplaĉa",
+      "Laŭplaĉigi vian propran ludadon per unikaj variaĵoj.",
+      "Ŝanĝi viajn enigajn agordojn.",
+      "Ŝanĝi viajn grafikajn, sonajn kaj ludajn preferojn.",
+      "Pociolabo",
+      "Observu la diversajn pociojn troveblajn grimpante la Turegon."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Kartforiga servo",
+      "RABATO",
+      "Ne vendiĝas",
+      "Ne plu restas",
+      "Ho ve!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Premu ",
+      " por komenci",
+      "Ŝanĝi profilon",
+      "Vidigejo",
+      "Ensaluta ŝanĝo okazis. Bonvolu ensaluti denove aŭ eliri al la titolekrano.",
+      "Ensaluti",
+      "Eliri"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Tiu malamiko ne celas ataki!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Ludaj agordoj",
+      "Grafikaj agordoj",
+      "Distingivo: NL Maks. bildrapido:",
+      "Tutekrane NL Tutekrane sen borderoj (rekomendate) NL Ekranskuo",
+      "Sonoj",
+      "Ĝenerala volumo NL Muzikvolumo NL Efektvolumo",
+      "Ĉirkaŭa sonefektoj NL Mutigi enfone",
+      "Preferoj",
+      "Montru tutan damaĝon orkolore NL Montru ŝirmatan damaĝon blue NL Malŝalti konfirmon elektante 1 karton",
+      "Rapida reĝimo",
+      "",
+      "Diverse",
+      "Lingvo:",
+      "Alŝuti datenojn pri ludado #b(?)",
+      "Eliri ludon",
+      "Konservi & eliri",
+      "NL NL Vertikala sinkronigo",
+      "Testludanta artreĝimo",
+      "Montri klavojn por rapide elekti kartojn",
+      "Enigaj agordoj",
+      "Malŝalti bilderefektojn",
+      "Distingivo:",
+      "Distingivo: NL Tutekrana monitoro:",
+      "Ŝanĝas kiu ekrano estas uzata kiam en tutekrana reĝimo.",
+      "Premteni por konfirmi",
+      "Pli granda teksto"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Reveni",
+      "#yNotoj #ypri #yversioj",
+      " NL (PORTEMPE: Uzu sagoklavojn por trairi pli malnovajn protokolojn)"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Ĵeti",
+      "Trinki",
+      "Forĵeti",
+      "Mi ne povas uzi pociojn!",
+      "Mi ne povas tion fari dum batalo!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "foriĝas"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Daŭrigi"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "meti supren sur vian prenstakon"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Memori",
+      "Akiri la Rubenŝlosilon."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "elĉerpi"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Reveni",
+      "Ofta:",
+      "La plej oftaj pocioj troveblaj en la Turego.",
+      "Neofta:",
+      "Pli fortaj pocioj, kiuj aperas malpli ofte ol oftaj pocioj.",
+      "Malofta:",
+      "Unikaj kaj potencaj pocioj, kiuj estas malofte vidataj."
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Reveni",
+      "Komencaj:",
+      "Roloj povas komenci kun ĉi tiuj relikvoj.",
+      "Oftaj:",
+      "Malfortaj relikvoj, kiujn oni trovas ofte.",
+      "Neoftaj:",
+      "Pli fortaj relikvoj, kiuj aperas malpli ofte ol oftaj relikvoj.",
+      "Maloftaj:",
+      "Unikaj kaj potencaj relikvoj, kiujn oni malofte vidas.",
+      "Estraj:",
+      "Relikvoj, kiujn oni trovas nur en estrokofroj.",
+      "Okazaĵaj:",
+      "Relikvoj, kiujn oni povas akiri nur per okazaĵoj.",
+      "Butikaj:",
+      "Relikvoj, kiujn oni akiras nur per aĉeto ĉe la Komercisto."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<sennoma>",
+      "Enigu  vian  nomon",
+      "Konfirmi",
+      "Nuligi"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Tiu malamiko celas ataki!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Elektu ajnan kvanton da kartoj por forĵeti."
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Ripozi",
+      "Resaniĝi 100% da via maks. vivo (",
+      " vivpoentoj de ",
+      "Resaniĝi 30% da via maks. vivo (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Rekomencu la ludon por efikigi ŝanĝojn al la vidigaj agordoj."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "reteni"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " da oro (reŝtelita)",
+      " da oro",
+      "Aldoni karton al via kartaro",
+      "",
+      "Elektu karton",
+      "Smeraldŝlosilo",
+      "Safirŝlosilo",
+      "Ligita",
+      "Akiri ĉi tion forigos ",
+      "."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Nekonata",
+      "Malamiko",
+      "Elito",
+      "Okazaĵo",
+      "Estro",
+      "Trezoro",
+      "Estra trezoro",
+      "Ripozi",
+      "Komercisto",
+      "Nekonate (malamiko)",
+      "Nekonate (komercisto)",
+      "Nekonate (trezoro)",
+      "Etaĝo %1$s - %2$s",
+      "Etaĝo %s",
+      "#r%s da damaĝo",
+      "#r%s vicoj",
+      "#r%s #r/ #r%s #rvivpoentoj",
+      "#y%s #yda #yoro",
+      "#yAkiris: ",
+      "#yPreterlasis:",
+      "Mankas informon",
+      "+2 maks. vivo",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bRipozis",
+      "#bPlibonigis %s",
+      "#bForigis %s",
+      "#bFosis",
+      "#bHalteris %s/%s",
+      "#yAĉetis:",
+      "#rElspezis ",
+      "#rPrenis ",
+      "#rPerdis ",
+      "%s da maks. vivo",
+      "#bResaniĝis je ",
+      "#bGajnis ",
+      "#bIgnoris ",
+      "%s da vivo",
+      "#bAkiris %s",
+      "#rMalbenita #rper #r%s",
+      "%s da damaĝo",
+      "#bPlibonigis %s",
+      "#bTransformis %s",
+      "#rPerdis %s",
+      "#bMemoris"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gremlinbando",
+      "Granda ŝlimo",
+      "Vestiblaj brutaloj",
+      "Vestiblaj naturaĵoj",
+      "Ŝlimsvarmo",
+      "Ŝlimetoj",
+      "Urbaj rabistoj",
+      "Tri berdoj",
+      "Kvar berdoj",
+      "Tri kultistoj",
+      "Elektita grego",
+      "Sentinelo kaj sfera gardisto",
+      "Centuriestro kaj mistikulo",
+      "Parazito kaj fungobesto",
+      "Maskita banditbando",
+      "Koloseaj aristokratoj",
+      "Koloseaj sklavistoj",
+      "Tri formoj",
+      "Makzelverma hordo",
+      "Kvar formoj",
+      "Sfera gardisto kun formoj",
+      "Duopaj promensferoj",
+      "Dika kaj Deka",
+      "Sentineloj",
+      "Elektito kaj kultisto",
+      "(Senvalidiĝa) Flambatemulo",
+      "(Senvalidiĝa) Sklavisto kaj parazito",
+      "(Senvalidiĝa) Serpeko kaj mistikuloj",
+      "Ŝildo kaj lanco"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "La Fervestulo",
+      "La Silentulo",
+      "La Difektulo",
+      "Reveni",
+      "Disponeblas neniuj historioj de ludadoj. NL Iru venki la Turegon!",
+      "Leviĝa nivelo: ",
+      "Venkita je etaĝo %1$d de %2$s",
+      "Rezignis ludadon je etaĝo %d",
+      "Venko!",
+      "Kartoj",
+      "Relikvoj",
+      "Komencaj",
+      "Oftaj",
+      "Neoftaj",
+      "Maloftaj",
+      "Specialaj",
+      "Malbenaj",
+      "Estraj",
+      "Butikaj",
+      "Nekonataj",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Poentsumo: %d",
+      "Ĉiuj roloj",
+      "Venkoj kaj malvenkoj",
+      "Venkoj",
+      "Malvenkoj",
+      "Ĉiutaga",
+      "Ĉiu ludreĝimo",
+      "Nur normale",
+      "Nur leviĝe",
+      "Nur ĉiutagaj grimpoj",
+      "Semo: %s",
+      "Memelektita semo: %s",
+      "yyyy-M-d, HH:mm",
+      "La Observulo"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enigu novan semon",
+      "Confirm",
+      "Cancel",
+      "*Atingaĵoj kaj poentaroj estas malŝaltaj kiam vi elektas propran semon.",
+      "*Trofeoj kaj poentaroj estas malŝaltaj kiam vi elektas propran semon."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Ĉu vi certas?",
+      "Via progreso estos aŭtomate konservita.",
+      "Rezigni la ludon signifas malvenkon.",
+      "AVERTO:\nProgreso NE konservita.\n\nAtingu la sekvontan etaĝon por konservi la nunan ludadon.",
+      "Reveni",
+      "Progreso NE estas konservata por ĉiutagaj ludadoj."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "meti supren sur vian prenstakon."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "meti malsupren sub vian prenstakon."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Foriri"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Atako",
+      "Kapablo",
+      "Potenco",
+      "Malbeno",
+      "Malŝlosite",
+      "Nekonate",
+      "Vidu plibonigon",
+      "Stato",
+      "",
+      "Mi nur povas ludi kartojn dum mia vico.",
+      "Mi estas #rimplikita! NL Ne povas ludi atakojn",
+      "Mankas #renergio.",
+      "Mankas #rŝargo.",
+      "Mi ne povas ludi NL tiun karton.",
+      "Beta artaĵo"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Estra",
+      "Ofta",
+      "Senvalidiĝa",
+      "Malofta",
+      "Butika",
+      "Okazaĵa",
+      "Komenca",
+      "Neofta",
+      "Ŝlosita",
+      "Nekonata",
+      " relikvo",
+      "Ĉi tiu relikvo ankoraŭ ne estas malŝlosita.",
+      "Ĉi tiu relikvo ankoraŭ ne estas vidita."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Elektu kapablon por aldoni al via mano"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Forĝi",
+      "Plibonigi karton en via kartaro.",
+      "Neniu plibonigebla karto."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Vi ne havas spacon por tio"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "La Pretero"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "La Urbo"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "La Fino"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energio"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Fumi",
+      "Forigi karton de via kartaro."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " etaĝo",
+      " - leviĝo ",
+      " (maks. nivelo)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Preterlasi kofron"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Preterlasi kofron"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "NUN VOĈDONU: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Daŭrigi"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Kartoj malŝlositaj!",
+      "",
+      "Relikvoj malŝlositaj!",
+      "Nova rolo",
+      "Noto: malŝlositaj kartoj aperos en estontaj ludoj.",
+      "Noto: malŝlositaj relikvoj aperos en estontaj ludoj."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Kartoj malŝlositaj!",
+      "Relikvoj malŝlositaj!",
+      "Nova rolo",
+      "Noto: malŝlositaj kartoj aperos en estontaj ludoj.",
+      "Noto: malŝlositaj relikvoj aperos en estontaj ludoj."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Nova malŝloso!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Laŭplaĉa reĝimo",
+      "Atingaĵoj kaj poentaroj estas malŝaltitaj.",
+      "Rolo",
+      "Leviĝo",
+      "Nivelo ",
+      "Leviĝa reĝimo",
+      "Variaĵoj",
+      "Semo",
+      "Agordi semon",
+      "Trofeoj kaj poentaroj estas malŝaltitaj."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Ludotempo ",
+      "Malplena konservingo"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Elekti konservingon",
+      "Renomi",
+      "Forigi ĉi tiun konservaĵon"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Daŭrigi",
+      "Etaĝoj grimpitaj",
+      "Estroj venkitaj",
+      "Ludotempo",
+      "Poentsumo",
+      "Malŝlosi",
+      "Restantaj malŝlosoj: ",
+      "Restanta malŝloso: ",
+      "Malamikoj venkitaj",
+      "Elitoj venkitaj",
+      "Oro ne elspezita",
+      "Bonuso de vivpoentoj",
+      "Venko!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Betaversia kartartaĵo de la Fervestulo malŝlosita!",
+      "Betaversia kartartaĵo de la Silentulo malŝlosita!",
+      "Betaversia kartartaĵo de la Difektulo malŝlosita!",
+      "Ĉiuj betaversiaj kartartaĵoj malŝlositaj!",
+      "Betaversia kartartaĵo de la Observulo malŝlosita!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Ĉiutaga - %s-a etaĝo",
+      "Laŭplaĉa - %s-a etaĝo",
+      " E%s",
+      "Ĉefa menuo",
+      "L%s "
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Elektu 1 karton por reteni. La cetero estos elĉerpataj."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Elektu karton por ludi."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Sinkronigi datenojn..."
+    ]
+  }
+}

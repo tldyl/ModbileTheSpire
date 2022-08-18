@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "La ĉefo",
+    "DESCRIPTION": "Komencu kun 5 senkoloraj kartoj."
+  },
+  "Binary": {
+    "NAME": "Binara",
+    "DESCRIPTION": "Kartpremioj entenas nur 2 kartojn."
+  },
+  "Brewmaster": {
+    "NAME": "[SENVALIDIĜA] Miksmajstro",
+    "DESCRIPTION": "Komencu kun 5 kopioj de Alkemio kaj la Blankbesta statuo."
+  },
+  "Cursed Run": {
+    "NAME": "Malbenita ludado",
+    "DESCRIPTION": "Kiam ajn vi venkas estron, iĝu malbenita. Via dekomenca relikvo estos anstataŭigata de Malbenita ŝlosilo, Malhelŝtona amuleto kaj Du-vo-pupo."
+  },
+  "Diverse": {
+    "NAME": "Diversa",
+    "DESCRIPTION": "Kartoj ne estas limigataj laŭ via rolo."
+  },
+  "Red Cards": {
+    "NAME": "Ruĝaj kartoj",
+    "DESCRIPTION": "Ruĝaj kartoj nun aperos en premioj kaj butikoj."
+  },
+  "Green Cards": {
+    "NAME": "Verdaj kartoj",
+    "DESCRIPTION": "Verdaj kartoj nun aperos en premioj kaj butikoj."
+  },
+  "Blue Cards": {
+    "NAME": "Bluaj kartoj",
+    "DESCRIPTION": "Bluaj kartoj nun aperos en premioj kaj butikoj."
+  },
+  "Purple Cards": {
+    "NAME": "Purpuraj kartoj",
+    "DESCRIPTION": "Purpuraj kartoj nun aperos en premioj kaj butikoj."
+  },
+  "Colorless Cards": {
+    "NAME": "Senkoloraj kartoj",
+    "DESCRIPTION": "Senkoloraj kartoj aperos pli ofte."
+  },
+  "Draft": {
+    "NAME": "Kartarigo",
+    "DESCRIPTION": "Faru propran komencan kartaron el triopoj de elektoj."
+  },
+  "Elite Swarm": {
+    "NAME": "Altĉasisto",
+    "DESCRIPTION": "Elitaj malamikoj nun svarmas en la Turego kaj faligas pli bonajn premiojn."
+  },
+  "Endless": {
+    "NAME": "Senfina",
+    "DESCRIPTION": "Post venko, vi estos resendata al akto 1 kun la sama kartaro. Tamen atentu: iutempe la malsano konsumos ĉion..."
+  },
+  "Blight Chests": {
+    "NAME": "Malsanplenaj kofroj",
+    "DESCRIPTION": "Estrokofroj enhavos malsanojn post venki akton 3 per senfina."
+  },
+  "Stunted Growth": {
+    "NAME": "Nedaŭra kresko",
+    "DESCRIPTION": "Malamikoj ne plu faligos kartpremiojn post venki akton 3 per senfina."
+  },
+  "Heirloom": {
+    "NAME": "Heredaĵo",
+    "DESCRIPTION": "Komencu kun 1 malofta relikvo."
+  },
+  "Hoarder": {
+    "NAME": "Hamstrado",
+    "DESCRIPTION": "Kiam ajn vi aldonas karton al la kartaro, aldonu du kromajn kopiojn. Vi ne plu povas forigi kartojn de via kartaro ĉe la Komercisto."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Anstataŭigas vian komencan relikvon per Senĉesa turbo."
+  },
+  "Insanity": {
+    "NAME": "Frenezeco",
+    "DESCRIPTION": "Komencu kun hazarda kartaro de 50 kartoj."
+  },
+  "Lethality": {
+    "NAME": "Letaleco",
+    "DESCRIPTION": "Vi komencas ĉiun batalon kun +3 Forto. Ĉiu malamiko komencas la batalon kun +3 Forto."
+  },
+  "Midas": {
+    "NAME": "Midaso",
+    "DESCRIPTION": "Malamikoj faligas 200% pli da oro, sed vi ne plu povas forĝi ĉe ripozejoj."
+  },
+  "My True Form": {
+    "NAME": "Mia vera formo",
+    "DESCRIPTION": "Komencu kun kopio de Demonformo, Fantomformo, Eĥoformo kaj Deva-formo."
+  },
+  "Night Terrors": {
+    "NAME": "Inkubsonĝoj",
+    "DESCRIPTION": "Ripozi ĉe ripozejoj resanigas 100% da via vivo, sed prenas 5 de via maks. vivo."
+  },
+  "One Hit Wonder": {
+    "NAME": "Nura furoro",
+    "DESCRIPTION": "Komencu la ludon kun maksimumo de 1 vivpoento."
+  },
+  "Praise Snecko": {
+    "NAME": "Gloro al serpeko",
+    "DESCRIPTION": "Anstataŭigas vian komencan relikvon per Okulo de serpeko."
+  },
+  "Shiny": {
+    "NAME": "Brila",
+    "DESCRIPTION": "Komenca kartaro estos anstataŭigata de 1 de ĉia malofta karto."
+  },
+  "Specialized": {
+    "NAME": "Fakisto",
+    "DESCRIPTION": "Komencu kun 5 kopioj de sola karto."
+  },
+  "Starter Deck": {
+    "NAME": "Komenca kartaro",
+    "DESCRIPTION": "Komencu kun Kaputa krono kaj Binara, do malamikoj ne plu faligas kartojn."
+  },
+  "Terminal": {
+    "NAME": "Mortanta",
+    "DESCRIPTION": "Kiam ajn vi eniras novan ĉambron, perdu 1 de via maks. vivo. Komencu ĉiun batalon kun 5 da lada armaĵo."
+  },
+  "Time Dilation": {
+    "NAME": "Tempostreĉiĝo",
+    "DESCRIPTION": "Ĉiu malamiko komencas kun la statmalbonigo malrapida."
+  },
+  "Uncertain Future": {
+    "NAME": "Certa estonteco",
+    "DESCRIPTION": "La mapo enhavas nur unu vojon."
+  },
+  "Vintage": {
+    "NAME": "Antikvaĵisto",
+    "DESCRIPTION": "Normalaj malamikoj faligas relikvojn anstataŭ kartojn."
+  },
+  "SealedDeck": {
+    "NAME": "Sigelita kartaro",
+    "DESCRIPTION": "Faru kartaron el 30 hazardaj kartoj."
+  },
+  "Flight": {
+    "NAME": "Flugo",
+    "DESCRIPTION": "Vi rajtas ignori vojojn kiam vi elektas la sekvontan ĉambron por alvojaĝi."
+  },
+  "Chimera": {
+    "NAME": "Ĥimero",
+    "DESCRIPTION": "Via komenca kartaro estas fuzio de ĉiuj roloj."
+  },
+  "NeowTime": {
+    "NAME": "Tempo por Niaŭ",
+    "DESCRIPTION": "Ricevu 3 benojn kaj 1 malsanon de Niaŭ."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Inteligentaj malamikoj",
+    "DESCRIPTION": "Ĉiuj malamikoj havas pli penigajn movarojn kaj kapablojn."
+  },
+  "Careless": {
+    "NAME": "Senzorga",
+    "DESCRIPTION": "Je la komenco de ĉiu vico, forĵetu la supran karton de via prenstako."
+  },
+  "ControlledChaos": {
+    "NAME": "Bridita ĥaoso",
+    "DESCRIPTION": "Komencu kun Frostigita okulo. Je la komenco de via vico, aldonu 10 hazardajn kartojn al la malsupraĵo de via prenstako."
+  },
+  "MonsterHunter": {
+    "NAME": "[SENVALIDIĜA] Koloso",
+    "DESCRIPTION": "Malamikoj havas kromajn vivpoentojn, sed faligas pli bonajn premiojn."
+  },
+  "DeadlyEvents": {
+    "NAME": "Mortigaj okazaĵoj",
+    "DESCRIPTION": "? ĉambroj nun povas enhavi elitojn, sed ankaŭ estas pli verŝajne enhavi trezorĉambrojn."
+  },
+  "Daily Mods": {
+    "NAME": "Ĉiutagaj variaĵoj",
+    "DESCRIPTION": "Eku ludadon kun precize 3 hazardaj ĉiutagaj variaĵoj."
+  },
+  "The Ending": {
+    "NAME": "La fino",
+    "DESCRIPTION": "Disponebligas la finan akton."
+  }
+}

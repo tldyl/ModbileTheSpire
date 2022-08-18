@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "オールスター",
+    "DESCRIPTION": "無色カード5枚と共にスタートする。"
+  },
+  "Binary": {
+    "NAME": "二者択一",
+    "DESCRIPTION": "報酬対象のカードが2枚に減る。"
+  },
+  "Brewmaster": {
+    "NAME": "[未使用] 調合マスター",
+    "DESCRIPTION": "「錬金術」5枚と「白き獣の像」と共にスタートする。"
+  },
+  "Cursed Run": {
+    "NAME": "呪われし道程",
+    "DESCRIPTION": "ボスを倒すたびに呪いを受ける。スタート時のレリックが「呪いの鍵」、「ダークストーンのお守り」、「ドゥーブー人形」に置き換わる。"
+  },
+  "Diverse": {
+    "NAME": "多様性",
+    "DESCRIPTION": "キャラクターごとのカード制限がなくなる。"
+  },
+  "Red Cards": {
+    "NAME": "レッドカード",
+    "DESCRIPTION": "レッドカードが報酬とショップに出現するようになる。"
+  },
+  "Green Cards": {
+    "NAME": "グリーンカード",
+    "DESCRIPTION": "グリーンカードが報酬とショップに出現するようになる。"
+  },
+  "Blue Cards": {
+    "NAME": "ブルーカード",
+    "DESCRIPTION": "ブルーカードが報酬とショップに出現するようになる。"
+  },
+  "Colorless Cards": {
+    "NAME": "無色カード",
+    "DESCRIPTION": "無色カードが報酬に出現するようになる。"
+  },
+  "Draft": {
+    "NAME": "ドラフト",
+    "DESCRIPTION": "カードを選抜して独自の初期デッキを作る。"
+  },
+  "Elite Swarm": {
+    "NAME": "大物狙い",
+    "DESCRIPTION": "エリートの敵が塔にあふれる。エリートが落とす報酬もよくなる。"
+  },
+  "Endless": {
+    "NAME": "エンドレス",
+    "DESCRIPTION": "クリアすると、そのままのデッキで第1章に戻る。油断は禁物だ。この災厄はすべてを貪りつくす…。"
+  },
+  "Blight Chests": {
+    "NAME": "災厄の櫃",
+    "DESCRIPTION": "「エンドレス」で第3章クリア後、ボスの宝箱に災厄が封じられるようになる。"
+  },
+  "Stunted Growth": {
+    "NAME": "発育不全",
+    "DESCRIPTION": "「エンドレス」で第3章クリア後、敵がカードを落とさなくなる。"
+  },
+  "Heirloom": {
+    "NAME": "先祖伝来の家宝",
+    "DESCRIPTION": "ランダムなレアレリック1個と共にスタートする。"
+  },
+  "Hoarder": {
+    "NAME": "収集癖",
+    "DESCRIPTION": "カードをデッキに加えるたび、その複製が2枚追加される。商人のカード除去サービスを利用できなくなる。"
+  },
+  "Inception": {
+    "NAME": "インセプション",
+    "DESCRIPTION": "スタート時のレリックが「永久コマ」に置き換わる。"
+  },
+  "Insanity": {
+    "NAME": "狂気の沙汰",
+    "DESCRIPTION": "ランダムな50枚のデッキでスタートする。"
+  },
+  "Lethality": {
+    "NAME": "命取り",
+    "DESCRIPTION": "戦闘開始時、プレイヤーとすべての敵は筋力3を得る。"
+  },
+  "Midas": {
+    "NAME": "ミダス",
+    "DESCRIPTION": "敵が落とすゴールドが2倍になるが、休憩場所で鍛冶ができなくなる。"
+  },
+  "My True Form": {
+    "NAME": "真の姿を見よ",
+    "DESCRIPTION": "「悪魔化」、「幽体化」、「反響化」、「神体化」1枚ずつと共にスタートする。"
+  },
+  "Night Terrors": {
+    "NAME": "夜の恐怖",
+    "DESCRIPTION": "休憩場所でHPを100%回復できるが、最大HPを5失うようになる。"
+  },
+  "One Hit Wonder": {
+    "NAME": "一発屋",
+    "DESCRIPTION": "最大HP1でスタートする。"
+  },
+  "Praise Snecko": {
+    "NAME": "ヘビヤモリを称えよ",
+    "DESCRIPTION": "スタート時のレリックが「ヘビヤモリの目」に置き換わる。"
+  },
+  "Shiny": {
+    "NAME": "ピカピカ",
+    "DESCRIPTION": "初期デッキのカードを全レアカードと置き換える。"
+  },
+  "Specialized": {
+    "NAME": "専門家",
+    "DESCRIPTION": "1種類のカード5枚と共にスタートする。"
+  },
+  "Starter Deck": {
+    "NAME": "初期デッキ",
+    "DESCRIPTION": "「壊れた王冠」を持ち「二者択一」でスタートする。つまり、敵はカードを1枚も落とさない。"
+  },
+  "Terminal": {
+    "NAME": "境界",
+    "DESCRIPTION": "新しい部屋に入るたび、最大HPを1失う。戦闘開始時、プレートアーマー5を得る。"
+  },
+  "Time Dilation": {
+    "NAME": "時間の遅れ",
+    "DESCRIPTION": "戦闘開始時、敵全体に鈍化のデバフを与える。"
+  },
+  "Uncertain Future": {
+    "NAME": "確定的未来",
+    "DESCRIPTION": "マップが一本道になる。"
+  },
+  "Vintage": {
+    "NAME": "ヴィンテージ",
+    "DESCRIPTION": "通常の敵がカードの代わりにレリックを落とす。"
+  },
+  "NeowTime": {
+    "NAME": "ネオータイム",
+    "DESCRIPTION": "ネオ－から3つの祝福と1つの災厄を受け取る。"
+  },
+  "The Ending": {
+    "NAME": "エンディング",
+    "DESCRIPTION": "最終章をプレイできるようにする。"
+  },
+  "Chimera": {
+    "NAME": "キメラ",
+    "DESCRIPTION": "初期デッキがすべてのキャラクターの組み合わせになる。"
+  },
+  "SealedDeck": {
+    "NAME": "デッキ封緘",
+    "DESCRIPTION": "30枚のランダムなカードでデッキを作る。"
+  },
+  "Daily Mods": {
+    "NAME": "特殊ルールデイリー",
+    "DESCRIPTION": "3つのランダムなデイリーの特殊ルールで侵攻を始める。"
+  },
+  "Flight": {
+    "NAME": "飛行",
+    "DESCRIPTION": "次の移動先の部屋を選択する時、道を無視できる。"
+  },
+  "ControlledChaos": {
+    "NAME": "制御された混沌",
+    "DESCRIPTION": "「凍った目」を持ちスタートする。ターン開始時、山札の底にランダムなカードを10枚追加する。"
+  },
+  "MonsterHunter": {
+    "NAME": "[未使用] 巨人",
+    "DESCRIPTION": "敵のHPが増加するが、敵が落とす報酬がよくなる。"
+  },
+  "Careless": {
+    "NAME": "無関心",
+    "DESCRIPTION": "各ターン開始時、山札の一番上のカードを捨てる。"
+  },
+  "IntelligentEnemies": {
+    "NAME": "頭の切れる敵",
+    "DESCRIPTION": "すべての敵がより強力な行動と能力を持つ。"
+  },
+  "DeadlyEvents": {
+    "NAME": "死を招くイベント",
+    "DESCRIPTION": "？の部屋にエリートが登場するようになるが、宝箱部屋の確率も高くなる。"
+  },
+  "Purple Cards": {
+    "NAME": "パープルカード",
+    "DESCRIPTION": "パープルカードが報酬とショップに出現するようになる。"
+  }
+}

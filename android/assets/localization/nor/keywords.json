@@ -1,0 +1,399 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "magimotstand",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Fjerner den neste negative effekten påført deg."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "blokker",
+        "skadeblokker",
+        "blokkerer",
+        "skadeblokkeringen",
+        "blokkeringen",
+        "skadeblokkering"
+      ],
+      "DESCRIPTION": "Inntil din neste tur motstår du skade."
+    },
+    "CURSE": {
+      "NAMES": [
+        "forbannelse",
+        "forbannelseskort",
+        "forbannelsen",
+        "forbannelser",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Forbannelseskort er negative kort som forblir i kortstokken din."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "smidighet",
+        "smidigheten",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Smidighet øker hvor mye forsvar du kan få fra kort."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "eterisk",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Hvis dette kortet er på hånda di i det turen din er over, vrakes kortet. Vrakede kort fjernes fra kortstokken din inntil kampen er over."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "vrak",
+        "vrakes",
+        "vrakede",
+        "vraket",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Fjernes inntil kampen er over."
+    },
+    "INNATE": {
+      "NAMES": [
+        "startkort",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Start alle kamper med dette kortet på hånda."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "låst",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Dette kortet er ikke låst opp ennå."
+    },
+    "POISON": {
+      "NAMES": [
+        "gift",
+        "forgiftet",
+        "forgiftning",
+        "forgift",
+        "forgifter"
+      ],
+      "DESCRIPTION": "Forgiftede skapninger mister HP i starten av runden sin. Hver runde minker giften med #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "behold",
+        "beholde",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Beholdte kort fjernes ikke i det runden er over, men beholdes på hånda."
+    },
+    "SHIV": {
+      "NAMES": [
+        "kniv",
+        "kniver",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Kniver koster #b0, er angrepskort, og vrakes i det de er brukt."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status",
+        "status-",
+        "statuskort",
+        "statuser",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Statuskort fjernes etter at kampen er over."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "styrke",
+        "styrken",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Styrke legger til ekstra skade til angrepskort."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformer",
+        "transformere",
+        "transformeres",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Transformerte kort blir til et tilfeldig kort med tilfeldig sjeldenhet."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "ukjent",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Dette kortet har du ikke støtt på ennå."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "uspillbar",
+        "uspillbart",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Kort som ikke kan spilles fra hånda."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "oppgrader",
+        "oppgradere",
+        "oppgraderes",
+        "oppgradert",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Når man oppgraderer et kort, blir det kraftigere. Kort kan bare oppgraderes èn gang."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "sårbar",
+        "sårbare",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Sårbare fiender tar #b50% mer skade fra angrep."
+    },
+    "WEAK": {
+      "NAMES": [
+        "svakhet",
+        "svekk",
+        "svekket",
+        "svekker",
+        "svekkede"
+      ],
+      "DESCRIPTION": "Svekkede skapninger påfører #b25% mindre skade med angrepene sine"
+    },
+    "WOUND": {
+      "NAMES": [
+        "skadekort",
+        "skadekortene"
+      ],
+      "DESCRIPTION": "Skadekort kan ikke spilles, og er statuskort."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "skrøpelig",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Når man er skrøpelig, #yforsvarer man seg #b25% dårligere ved hjelp av kort."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "slag",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Et hvert kort med \"slag\" i navnet."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "forvirret",
+        "forvirre",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Når du trekker et kort koster det tilfeldig mye å spille."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "Energi brukes for å spille kort fra hånda."
+    ],
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    },
+    "BURN": {
+      "NAMES": [
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+    },
+    "DAZED": {
+      "NAMES": [
+        "dazed"
+      ],
+      "DESCRIPTION": "Dazed are unplayable status cards."
+    },
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "lock-on"
+      ],
+      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
+    },
+    "WRATH": {
+      "NAMES": [
+        "wrath"
+      ],
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+    },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gain #yStrength at the end of your turn."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
+    }
+  }
+}

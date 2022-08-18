@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Abbandona Partita"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Bloccata",
+      "Sconosciuta"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Continua"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Morto",
+      "Bloccato",
+      "PV Massimi +",
+      "Stordito!",
+      "Interrotto!",
+      "Reliquie"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Prosegui",
+      "Corruzioni:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Aggressivo",
+      "Questo nemico intende NL #yAttaccare per #b",
+      " di danno #b",
+      " volte.",
+      "Questo nemico intende NL #yAttaccare per #b",
+      " di danno.",
+      "Aggressivo",
+      "Questo nemico intende usare un #yBuff e #yAttaccare per #b",
+      " volte.",
+      "Questo nemico intende usare un #yBuff e #yAttaccare per #b",
+      "Strategico",
+      "Questo nemico intende applicare un #yDebuff e #yAttaccare per #b",
+      "Questo nemico intende #yBloccare e #yAttaccare per #b",
+      "Difensivo",
+      "Codardo",
+      "Magico",
+      "Addormentato",
+      "Stordito",
+      "Sconosciuto",
+      "Questo nemico intende usare un #yBuff.",
+      "Questo nemico intende applicare un #yDebuff.",
+      "Questo nemico intende applicare un potente #yDebuff.",
+      "Questo nemico intende #yBloccare durante il suo turno.",
+      "Questo nemico intende #yBloccare ed applicarti un #yDebuff.",
+      "Questo nemico intende #yBloccare e usare un #yBuff.",
+      "Questo nemico intende #yScappare.",
+      "Questo nemico intende usare una #Magia misteriosa durante il suo turno.",
+      "Questo nemico sta dormendo.",
+      "Questo nemico è #yStordito durante il suo turno.",
+      "Le intenzioni di questo nemico sono #yIgnote (non sta attaccando).",
+      "Bloccato"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Bloccato",
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Watcher"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Non posso trasportare NL altre Pozioni."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Rapinato...",
+      "Sei fuggito..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Scegli una Carta da Aggiungere alla Mano",
+      "Scegli le Carte da Aggiungere alla Mano"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Negato",
+      "Immune",
+      "Annullato",
+      "\n in Calo"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "Potenziare"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "Incontri più Elite.",
+      "I Nemici Base sono più pericolosi.",
+      "Gli Elite sono più pericolosi.",
+      "I Boss sono più pericolosi.",
+      "Ti curi di meno dopo i Boss.",
+      "Inizi la partita con meno PV.",
+      "I Nemici Base sono più resistenti.",
+      "Gli Elite sono più resistenti.",
+      "I Boss sono più resistenti.",
+      "Inizi la partita maledetto!",
+      "Hai meno Spazi Pozione.",
+      "Trovi meno carte Potenziate.",
+      "I Boss sono poveri.",
+      "PV Massimi Ridotti.",
+      "Eventi Sfavorevoli.",
+      "Prezzi più alti.",
+      "I nemici comuni usano tecniche migliori.",
+      "Gli elite usano tecniche migliori.",
+      "I boss usano tecniche migliori.",
+      "(Livello massimo) Boss Doppi."
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Modalità Ascensione Livello ",
+      " Sbloccata!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Modalità Ascensione Sbloccata!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Scegli un'Attacco da Aggiungere alla Mano"
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Combattimento",
+      "Turno del Giocatore",
+      "Turno Nemico",
+      " turno"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Scegli una Carta da aggiungere alla Mano.",
+      "Scegli ",
+      " Carte da aggiungere alla Mano."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Continua"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Conferma",
+      "Conferma la Scelta",
+      "Scegli una Reliquia",
+      "Ignora",
+      "VOTA ORA: ",
+      "secondi rimanenti.",
+      "Scegli una Corruzione"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Scegli una Carta da Mettere in Cima alla pila.",
+      "Scegli le Carte da Mettere in Cima alla pila."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Un Sogno?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Scegli una Carta da Potenziare"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Scegli una Carta da Rimuovere."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Che fare...",
+      "Hmm...",
+      "Cosa faccio?",
+      "Tempo di una pausa",
+      "Così tante opzioni...",
+      "Dovrei riposare",
+      "Che stanchezza..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Elimina Salvataggio"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Rarità",
+      "Tipo",
+      "A-Z",
+      "Costo",
+      "Vai a:",
+      "Ottenute"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Indietro",
+      "Rosso",
+      "Verde",
+      "Blu",
+      "Incolore",
+      "Maledizioni",
+      "Stati",
+      "Mostra Potenziamento",
+      "Viola"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Ignora",
+      "Scegli una Carta",
+      "+2 PV Massimi",
+      "VOTA ORA: ",
+      "s rimanenti.",
+      "Mostra Potenziamenti.",
+      "Scegli"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Bloccato",
+      "Vinci una partita per sbloccarlo.",
+      "Non è ancora disponibile in Early Access.",
+      "Vinci una partita con la Silent per sbloccarlo.",
+      "PV: ",
+      "Oro: ",
+      " Carte ancora da Sbloccare",
+      "Ignoto",
+      "???",
+      " Per Sbloccare il Prossimo Oggetto",
+      "Sbloccato vincendo una partita normale, se il terzo è sbloccato."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Scegli un Personaggio",
+      "Inizia",
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Indietro",
+      "Modalità Ascensione",
+      "Livello ",
+      "Modalità Ascensione",
+      "Le partite diventano più difficili dopo ogni vittoria... (non influisce sulle serie di vittorie)",
+      "Seed ",
+      "Seed Casuale",
+      "Il seed determina la struttura di una partita e gli eventi casuali associati ad essa.",
+      "Scegli il Seed",
+      "Watcher"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Scegline Uno"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Prosegui",
+      "Ignora Carte",
+      "Ignora Oro",
+      "Ignora Pozioni",
+      "Ignora Reliquia",
+      "Ignora Ricompense",
+      "Chiudi",
+      "Tesoro!",
+      "Cosa c'è dentro?",
+      "Ricompensa!",
+      "Premio!",
+      "Bottino!",
+      "Consigli: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Conferma"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Indietro",
+      "Cancella Salvataggio",
+      "Sì",
+      "No"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Copiare"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Fai Click di nuovo per uscire.",
+      "Esci",
+      "Tap again to exit"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Sfida del Giorno",
+      "Connessione al Server...",
+      "#yNOTA: Hai già affrontato la sfida di oggi. NL Se la riprovi, il punteggio non sarà inviato.",
+      "Indietro",
+      "Inizia",
+      "Personaggio di oggi: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Tempo rimanente: ",
+      "#yPiano #yRaggiunto: NL  ",
+      " NL NL  #yMazzo: NL ",
+      " NL NL  #yReliquie: NL  ",
+      " NL Sfida del Giorno: NL #yClasse: NL ",
+      " NL #yMods: ",
+      "Modificatori: ",
+      "Leaderboards",
+      "*Non puoi ricevere Achievement durante la Sfida del Giorno.",
+      "  [OFFLINE]",
+      "MMMM dd, yyyy",
+      "*Non puoi ricevere Trofei durante la Sfida del Giorno."
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Continua",
+      "Vittoria?",
+      "Piani Scalati",
+      "Boss Sconfitti",
+      "Tempo di Gioco",
+      "Tempo di Gioco",
+      "Punteggio",
+      "Conquistato",
+      "Morte...",
+      "Sconfitta",
+      "Sconfitta!",
+      "Dissacrato",
+      "Devastato",
+      "Sbaragliato",
+      "Sei stato Ucciso!",
+      "Una sensazione familiare.",
+      "Un pisolino non sarebbe male.",
+      "Raccogli ciò che semini.",
+      "Sono andato nella direzione sbagliata.",
+      "Non ero pronto.",
+      "Ci ripoverò domani.",
+      "Avrò bisogno di una nuova mappa.",
+      "Preparazione inadeguata.",
+      "Inconcepibile!",
+      "È questo il mio vero potenziale?",
+      "La mia solita fortuna......",
+      "Non in questo modo...",
+      "Non è esattamente la cima.",
+      "La Guglia ne consuma un altro...",
+      "Inizi a perdere coscienza...",
+      "Sconfitta",
+      "Accettazione",
+      "Continua",
+      "Riprova",
+      "Menù Principale",
+      "Prosegui",
+      "Sblocca",
+      "Menù Principale",
+      "Riprova",
+      "Prosegui",
+      "Sblocca",
+      "Carte da sbloccare: ",
+      "Carte da sbloccare: ",
+      "Nemici Uccisi",
+      "Elite Uccisi",
+      "Oro non Speso",
+      "Bonus PV"
+    ],
+    "EXTRA_TEXT": [
+      "Elite Uccisi nell'Esordio",
+      "Elite Uccisi nella Città",
+      "Elite Uccisi nell'Aldilà",
+      "Velocissimo",
+      "Velocità della luce",
+      "Highlander",
+      "Collezione",
+      "Set completo",
+      "Povero",
+      "Bibliotecario",
+      "Enciclopedico",
+      "Ben nutrito",
+      "Strapieno",
+      "Maledizione!",
+      "A Modo Mio",
+      "Campione",
+      "Perfezione",
+      "Oltre la Perfezione",
+      "Overkill",
+      "C-c-c-combo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Modalità Ascensione Livello ",
+      " Sbloccata!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Cancellare il salvataggio?",
+      "Sì",
+      "No",
+      "ATTENZIONE: Azione irreversibile."
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Scava",
+      "Dissotterra una reliquia casuale."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "Scartare"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "#rNon #rho scarti."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Scegli una Carta da Mettere in Mano."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Scegli una Carta da Mettere in Cima alla pila."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Le carte in questa zona vengono rimescolate nella pila quando la finisci.",
+      "Indietro",
+      "Scarti"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "La pila è #rvuota."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Ad inizio turno peschi da qui.",
+      "(Le carte mostrate sono in ordine di rarità)",
+      "Indietro",
+      "Pila"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Duplicare"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Scegli la Stanza Iniziale",
+      "Indietro"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Tutorial",
+      "Desideri vedere i suggerimenti mentre giochi?",
+      "Atto 1",
+      "Esordio",
+      "Atto 2",
+      "La Città",
+      "Atto 3",
+      "L'Aldilà",
+      "Ultimo Atto",
+      "Il Finale",
+      "Fai Click per Continuare"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Cos'è l'Early Access?",
+      "Cos'è una Open Beta?",
+      "Slay the Spire è ancora in sviluppo! NL Se noti problemi o hai qualsiasi commento, faccelo sapere nella nostra pagina di #bDiscussione su #bSteam oppure sul canale Discord ufficiale di Slay the Spire. NL NL Ora basta leggere: hai una Guglia da scalare!",
+      "Slay the Spire è ancora in sviluppo! NL Stai giocando alla versione Beta, con illustrazioni e nomi provvisori. NL NL Per favore, comunicaci problemi di gioco e qualunque commento sul canale Discord ufficiale di Slay the Spire o sulla pagina di #bDiscussione #bSteam. NL NL Ora basta leggere: hai una Guglia da scalare!",
+      "Fai Click per iniziare",
+      "Continua"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Fine Turno",
+      "Turno Nemico"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Esaurire"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Hai Esaurito queste carte nel corso del combattimento.",
+      "Continua"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Scegli una Carta da Aggiungere alla Mano"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Esci dal Gioco"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Esordio"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "Rimpiazzare (Gettone da Gioco)",
+      "Rimpiazzare"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Partita~ #y~Salvata~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Oro"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Conferma",
+      "Annulla",
+      "Conferma la Scelta",
+      "Lascia"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Conferma Carta da ",
+      "Conferma Carte da ",
+      "Scegli ",
+      " Carte da ",
+      "Scegli un Qualsiasi Numero di Carte da ",
+      "Scegli una Carta da ",
+      " Copiare"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Esaurire"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Canc",
+      "Delete": "Backspace"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Opzioni di Input",
+      "Opzioni di Gioco",
+      "Indietro",
+      "Comando Attivato",
+      "Tastiera",
+      "Controller",
+      "Ripristina Predefiniti",
+      "Conferma Carta",
+      "Cancella / Esci",
+      "Visualizza la Mappa",
+      "Mazzo",
+      "Pila",
+      "Scarti",
+      "Carte Esaurite",
+      "Termina il Turno",
+      "Sinistra",
+      "Destra",
+      "Scegli Carta #1",
+      "Scegli Carta #2",
+      "Scegli Carta #3",
+      "Scegli Carta #4",
+      "Scegli Carta #5",
+      "Scegli Carta #6",
+      "Scegli Carta #7",
+      "Scegli Carta #8",
+      "Scegli Carta #9",
+      "Scegli Carta #10",
+      "Lascia la Carta",
+      "Su",
+      "Giù",
+      "Seleziona",
+      "Fine Turno / Prosegui*",
+      "Tab Sinistra / mazzo*",
+      "Tab Destra/ Carte Esaurite*",
+      "Visualizza la Mappa*",
+      "Impostazioni*",
+      "Pila*",
+      "Scarti*",
+      "Su*",
+      "Giù*",
+      "Sinistra*",
+      "Destra*",
+      "Su (Alt)*",
+      "Giù (Alt)*",
+      "Sinistra (Alt)*",
+      "Destra (Alt)*",
+      "Su",
+      "Giù",
+      "Controller Abilitato",
+      "Modalità Touchscreen",
+      "Sbircia"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brasiliano (portoghese)",
+      "Cinese (Semplificato)",
+      "Cinese (Tradizionale)",
+      "Inglese",
+      "Francese",
+      "Tedesco",
+      "Italiano",
+      "Giapponese",
+      "Coreano",
+      "Polacco",
+      "Russo",
+      "Spagnolo",
+      "Ebraico",
+      "Turco",
+      "Svedese",
+      "Norvegese",
+      "Tailandese",
+      "Serbo (Cirillico)",
+      "Ucraino",
+      "Vietnamese",
+      "Ungaro",
+      "Serbo (Latino)",
+      "Catalano",
+      "Greco",
+      "Indonesiano",
+      "Esperanto",
+      "Olandese"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Ironclad",
+      "La Silent",
+      "Defect",
+      "Piano Raggiunto in Media (Ultimi 20 Tentativi)",
+      "Punteggio Medio (Ultimi 20 Tentativi)",
+      "Serie di Vittorie più Lunga",
+      "Vittoria più Veloce",
+      "Punteggio più Alto",
+      "Option 6. DO NOT TRANSLATE",
+      "Amici",
+      "Mondiale",
+      "Watcher"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Indietro",
+      "Filtri",
+      "Personaggio",
+      "Regione",
+      "Tipo",
+      "Visualizza il mio Punteggio",
+      "Posizione",
+      "Nome",
+      "Punteggio",
+      "Recupero Dati...",
+      "Leaderboard",
+      "Non Connesso a Steam",
+      "Punteggio Non Rilevato. \n Comincia a Giocare!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Incognita",
+      "???",
+      "Stanza misteriose. NL NL Qui puoi trovare mostri, tesori, negozi e altro ancora.",
+      "Mercante",
+      "Negozi",
+      "L'enigmatico Mercante espone e vende qui la sua merce. NL NL Spendi il tuo meritato #yOro qui!",
+      "Tesoro",
+      "Tesoro",
+      "In queste stanze puoi trovare #yOro e #yReliquie.",
+      "Falò",
+      "Falò - Riposo",
+      "Fermati in queste stanze per #gCurarti o #yPotenziare una carta.",
+      "Nemico",
+      "Nemici",
+      "Nemici ostili occupano queste stanze.",
+      "Elite",
+      "Elite",
+      "Queste stanze sono occupate da potenti avversari. NL NL Sconfiggerli ti ricompenserà con una Reliquia.",
+      "Legenda"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Sollevamenti",
+      "Inizia i combattimenti con +1 Forza. (Fino a 3)",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yVersione: ",
+      "Incamminati",
+      "Indietro",
+      "Cambia Salvataggio",
+      "modifica",
+      "tap to edit"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Inizi ogni combattimento con queste carte.",
+      "Indietro"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Gioca",
+      "",
+      "",
+      "Continua",
+      "",
+      "Statistiche",
+      "",
+      "Esci",
+      "Patch Notes",
+      "Abbandona Partita",
+      "",
+      "Opzioni",
+      "",
+      "Compendio"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Gioca",
+      "",
+      "Comincia una nuova avventura: Slay the Spire!",
+      "Sfida del Giorno",
+      "",
+      "Partecipa ad una nuova sfida ogni giorno! \n\nCompeti con gli altri giocatori per ottenere il punteggio più alto!",
+      "Ascensione",
+      "",
+      "In questa modalità scalare la Guglia diventa più difficile dopo ogni vittoria.\n\nTesta i limiti delle tue strategie più forti.",
+      "Libreria",
+      "",
+      "Esamina le carte trovate nella Guglia.",
+      "Reliquiario",
+      "",
+      "Esamina i vari artefatti raccolti nella Guglia.",
+      "Bestiario",
+      "",
+      "Questa opzione non è ancora disponibile.",
+      "Statistiche",
+      "",
+      "Controlla il progresso e le statistiche di ogni personaggio.",
+      "Leaderboards",
+      "",
+      "Esamina e compara i tuoi punteggi con quelli dei tuoi amici o di altri giocatori.",
+      "Ultime Partite",
+      "",
+      "Rivisita le storia e le statistiche delle partite precedenti.",
+      "Opzioni di Gioco",
+      "",
+      "Cambia la risoluzione e le opzioni di gioco.",
+      "Opzioni Input",
+      "",
+      "Imposta i comandi e le scorciatoie da tastiera.",
+      "Crediti",
+      "",
+      "La lista delle persone che hanno contribuito a creare Slay the Spire!",
+      "Sconosciuto",
+      "Partecipa ad una Sfida del Giorno per sbloccare questa opzione.",
+      "Questa opzione non è ancora disponibile.",
+      "Partita Personalizzata",
+      "Scegli le caratteristiche della sfida.",
+      "Cambia i comandi.",
+      "Imposta le preferenze audio, grafiche e di gioco.",
+      "Laboratorio Pozioni",
+      "Esamina le potenti pozioni della Guglia."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Servizio Rimozione Carte",
+      "IN SALDO",
+      "Non in vendita",
+      "Esaurito",
+      "Oh no!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Premi ",
+      " per iniziare",
+      "Cambia Profilo",
+      "Area Display",
+      "I dati d'accesso sono cambiati. Esci dal gioco o effettua nuovamente l'accesso.",
+      "Accesso",
+      "Esci"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Quel nemico non intende attaccare!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Opzioni di Gioco",
+      "Grafica",
+      "Risoluzione: NL Framerate Massimo:",
+      "Schermo Intero NL Schermo Intero Senza Bordi (raccomandato) NL Screenshake",
+      "Souni e Audio",
+      "Volume Principale NL Volume Musica NL Volume Effetti",
+      "Rumore ambientale NL Silenzia il gioco in secondo piano",
+      "Preferenze",
+      "Mostra la somma dei danni in oro NL Mostra la somma dei danni bloccati in blu NL Non chiedere conferma quando scegli 1 carta",
+      "Modalità Rapida",
+      "",
+      "Misc.",
+      "Lingua:",
+      "Invia informazioni di gioco #b(?)",
+      "Esci dal Gioco",
+      "Salva ed Esci",
+      "NL NL VSync",
+      "Arte di Playtest",
+      "Mostra Tasti di Scelta Rapida Carte",
+      "Opzioni Input",
+      "Disabilita i particellari",
+      "Risoluzione:",
+      "Risoluzione: NL Schermo Intero:",
+      "Cambia schermo per la modalità a schermo intero.",
+      "Conferma Tenendo Premuto",
+      "Caratteri più Grandi"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Indietro",
+      "#yPatch #yNotes",
+      " NL (TEMPORANEO: Use le freccette per muoverti fra i registri più vecchi)"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Lancia",
+      "Bevi",
+      "Scarta",
+      "Non posso usare pozioni!",
+      "Non posso farlo durante il combattimento!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Finisce"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Continua"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "Mettere in Cima alla pila"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Ricorda",
+      "Ottieni la Chiave Rubino."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Esaurire"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Indietro",
+      "Iniziale:",
+      "Ciascun personaggio inizia con una di queste reliquie.",
+      "Comune:",
+      "Reliquie meno potenti, le più facili da trovare.",
+      "Non Comune:",
+      "Reliquie più potenti che appaiono meno di quelle comuni.",
+      "Rara:",
+      "Reliquie uniche e potenti, piuttosto rare.",
+      "Boss:",
+      "Reliquie che puoi trovare solo negli scrigni dei Boss.",
+      "Eventi:",
+      "Reliquie che puoi ottenere solo tramite eventi.",
+      "Negozio:",
+      "Reliquie che puoi acquistare solo nei Negozi."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<nessun nome>",
+      "Qual è  Il  Tuo  Nome?",
+      "Conferma",
+      "Annulla"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Quel nemico intende attaccare!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Scegli le carte da scartare"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Riposa",
+      "Ti curi del 20% dei tuoi PV Massimi (",
+      " PV da ",
+      "Ti curi del 30% dei tuoi PV Massimi (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Riavvia il gioco per applicare le modifiche."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "Conservare"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Oro (Recuperato)",
+      " Oro",
+      "Aggiungi una carta al mazzo",
+      "",
+      "Scegli una Carta",
+      "Chiave Smeraldo",
+      "Chiave Zaffiro",
+      "Collegato",
+      "Ottenendolo perdi ",
+      "."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Sconosciuto",
+      "Nemico",
+      "Elite",
+      "Evento",
+      "Boss",
+      "Tesoro",
+      "Tesoro del Boss",
+      "Falò",
+      "Mercante",
+      "Sconosciuto (Nemico)",
+      "Sconosciuto (Mercante)",
+      "Sconosciuto (Tesoro)",
+      "Piano %1$s - %2$s",
+      "Piano %s",
+      "#r%s Danni",
+      "#r%s Turni",
+      "#r%s #r/ #r%s #rPV",
+      "#y%s #yOro",
+      "#yPrese:",
+      "#yIgnorate:",
+      "Informazioni Mancanti",
+      "+2 PV Massimi",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bRiposo",
+      "#bPotenziate %s",
+      "#bRimosse %s",
+      "#bScavi",
+      "#bSollevamenti %s/%s",
+      "#yComprate:",
+      "#rSpeso ",
+      "#rPreso ",
+      "#rPerso ",
+      "%s PV Massimi",
+      "#bCurati ",
+      "#bOttenuti ",
+      "#bIgnori ",
+      "%s PV",
+      "#bOttenuto %s",
+      "#rMaledetto #rcon #r%s",
+      "%s Danni",
+      "#bPotenziate %s",
+      "#bTransformato %s",
+      "#rPerso %s",
+      "#bRicordato"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Banda di Gremlin",
+      "Grossa Melma",
+      "Bandito dell'Esordio",
+      "Fauna dell'Esordio",
+      "Orda di Melma",
+      "Piccole Melme",
+      "Ladri Cittadini",
+      "Tre Gryfoni",
+      "Quattro Gryfoni",
+      "Triplo Cultista",
+      "Stormo di Prescelti",
+      "Sentinella e Guardiano Sferico",
+      "Mistica e Centurione",
+      "Parassita e Bestie Micotiche",
+      "Gang di Banditi Mascherati",
+      "Nob del Colosseo",
+      "Schiavisti del Colosseo",
+      "Tre Figure",
+      "Orda di Mascella-Vermi",
+      "Quattro Figure",
+      "Guardiano Sferico e Figure",
+      "Doppia Sfera Ambulante",
+      "Donu e Deca",
+      "Sentinelle",
+      "Cultista e Prescelto",
+      "(Rimosso) Bruto Ardente",
+      "(Rimosso) Schiavista e Parassita",
+      "(Rimosso) Snecko e Mistica",
+      "Scudo e Spada"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Ironclad",
+      "Silent",
+      "Defect",
+      "Indietro",
+      "Nessuna partita registrata. NL Scala la Guglia!",
+      "Livello Ascensione: ",
+      "Ucciso nel Piano ",
+      " da ",
+      "Vittoria!",
+      "Carte",
+      "Reliquie",
+      "Iniziali",
+      "Comuni",
+      "Non Comuni",
+      "Rare",
+      "Speciali",
+      "Maledizioni",
+      "Boss",
+      "Negozio",
+      "Sconosciute",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Punteggio: %d",
+      "Tutti i Personaggi",
+      "Vittorie e Sconfitte",
+      "Vittorie",
+      "Sconfitte",
+      "Sfida del Giorno",
+      "Ogni Partita",
+      "Modalità Normale",
+      "Modalità Ascensione",
+      "Sfide del Giorno",
+      "Seed: %s",
+      "Seed Personalizzato: %s",
+      "M/d/yyyy, h:mm a",
+      "Watcher"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Inserisci un Seed",
+      "Conferma",
+      "Annulla",
+      "*Gli Achievement e le Leaderboard sono disabilitati quando usi un Seed personalizzato.",
+      "*I trofei e le Leaderboard sono disabilitati quando usi un Seed personalizzato."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Sei sicuro?",
+      "Il progresso viene salvato automaticamente.",
+      "Se abbandoni la partita vieni sconfitto.",
+      "ATTENZIONE:\nProgressi NON salvati.\n\nRaggiungi il prossimo piano per salvare la partita.",
+      "Indietro",
+      "Il progresso NON viene salvato nelle sfide giornaliere."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "metti in cima alla pila."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "metti in fondo alla pila."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Ignora Mercante"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Attacco",
+      "Abilità",
+      "Potere",
+      "Maledizione",
+      "Bloccata",
+      "Sconosciuta",
+      "Visualizza Potenziamento",
+      "Stato",
+      "Ammo",
+      "Posso giocare solo durante il mio turno.",
+      "Sono stato #rIntrappolato! NL Non posso Attaccare!",
+      "Ho bisogno di più #rEnergia.",
+      "Not enough #rCharge.",
+      "Non posso giocare NL questa carta",
+      "Arte Beta"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Reliquia Boss",
+      "Reliquia Comune",
+      "Deprecated",
+      "Reliquia Rara",
+      "Reliquia Acquistata",
+      "Reliquia da Evento",
+      "Reliquia Iniziale",
+      "Reliquia Non Comune",
+      "Bloccata",
+      "Sconosciuta",
+      "",
+      "Non hai ancora sbloccato questa reliquia.",
+      "Non hai ancora trovato questa reliquia."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Scegli un'Abilità da Aggiungere alla Mano"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Forgia",
+      "Potenzia una carta nel mazzo.",
+      "Nessuna carta da potenziare."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Non hai spazio"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "L'Aldilà"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "La Città"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Il Finale"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energia"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Boccata",
+      "Rimuovi una carta dal mazzo."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " Piano",
+      " - Ascensione ",
+      " (Livello Massimo)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Ignora Scrigno"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Ignora Scrigno"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTA ORA: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Continua"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Carte Sbloccate!",
+      "",
+      "Reliquie Sbloccate!",
+      "Nuovo Personaggio",
+      "Nota: Le carte sbloccate compariranno dalla prossima partita.",
+      "Note: Le reliquie sbloccate potranno compariranno dalla prossima partita."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Carte Sbloccate!",
+      "Reliquie Sbloccate!",
+      "Nuovo Personaggio",
+      "Nota: Le carte sbloccate compariranno dalla prossima partita.",
+      "Note: Le reliquie sbloccate compariranno dalla prossima partita."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      " Nuove Ricompense!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Partita Personalizzata",
+      "Achievement e Leaderboard non disponibili.",
+      "Personaggi",
+      "Ascensione",
+      "Livello ",
+      "Modalità Ascensione",
+      "Modificatori",
+      "Seed",
+      "Scegli il Seed",
+      "Achievement e Leaderboard non disponibili."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Tempo Giocato: ",
+      "Vuoto"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Dove vuoi salvare?",
+      "Rinomina",
+      "Cancella il salvataggio"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Continua",
+      "Piani Scalati",
+      "Boss Sconfitti",
+      "Tempo di Gioco",
+      "Punteggio",
+      "Oggetti Sbloccati",
+      "Oggetti da Sbloccare: ",
+      "Oggetto da Sbloccare: ",
+      "Nemici Uccisi",
+      "Elite Uccisi",
+      "Oro Risparmiato",
+      "PV Bonus",
+      "Vittoria!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Nuova arte Beta per alcune carte Ironclad!",
+      "Nuova arte Beta per alcune carte Silent!",
+      "Nuova arte Beta per alcune carte Defect!",
+      "Nuova arte Beta per alcune carte!",
+      "Nuova arte Beta per alcune carte Watcher!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Giornaliera - Piano %s",
+      "Personalizzata - Piano %s",
+      " - Piano %s",
+      "Menù Principale",
+      " (A%s)"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Deve essere l'unico #yAttacco in Mano!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Esci",
+      "Comune:",
+      "Le pozioni trovate più spesso nella Guglia.",
+      "Non Comune:",
+      "Pozioni più forti, che appaiono meno frequentemente.",
+      "Rare:",
+      "Pozioni uniche e potenti, trovate di rado."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Scegli una carta da tenere. Le altre vengono esaurite."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Scegli una carta da Giocare."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Sincronizzazione dei dati..."
+    ]
+  }
+}

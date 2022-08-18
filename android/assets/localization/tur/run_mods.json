@@ -1,0 +1,174 @@
+{
+  "Cursed Run": {
+    "NAME": "Lanetli Oyun",
+    "DESCRIPTION": "Ne zaman bir Boss'u yenersen Lanetlen. Başlangıç kalıntın Lanetli Anahtar, Karataş Tılsımı ve Du-Vu Bebeği ile değiştirilir."
+  },
+  "Heirloom": {
+    "NAME": "Yadigar",
+    "DESCRIPTION": "Rastgele 1 Nadir kalıntı ile başla."
+  },
+  "Night Terrors": {
+    "NAME": "Gece Dehşeti",
+    "DESCRIPTION": "Kamp ateşlerinde dinlenmek %100 iyileştirir ama 5 Maksimum CP azaltır."
+  },
+  "Vintage": {
+    "NAME": "Eskiden Kalma",
+    "DESCRIPTION": "Normal düşmanlar kart yerine kalıntı düşürür."
+  },
+  "Shiny": {
+    "NAME": "Parlak",
+    "DESCRIPTION": "Başlangıç desten tüm nadir kartlar ile değiştirilir."
+  },
+  "Elite Swarm": {
+    "NAME": "Büyük Oyun Avcısı",
+    "DESCRIPTION": "Spire elitlerle kaynıyor ama daha iyi ödül düşürüyorlar."
+  },
+  "Allstar": {
+    "NAME": "Yıldız",
+    "DESCRIPTION": "Rastgele 5 renksiz kart ile başla."
+  },
+  "Diverse": {
+    "NAME": "Çeşitlilik",
+    "DESCRIPTION": "Kartlar karakterinle sınırlandırılmaz."
+  },
+  "Binary": {
+    "NAME": "İkili",
+    "DESCRIPTION": "Kart ödülleri yalnızca 2 kart içerir."
+  },
+  "Uncertain Future": {
+    "NAME": "Kesin Gelecek",
+    "DESCRIPTION": "Haritada yalnızca tek bir yol olur."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Düşmanlar %200 fazladan altın düşürür ama Demircilik yapamazsın."
+  },
+  "Insanity": {
+    "NAME": "Cinnet",
+    "DESCRIPTION": "Verilen rastgele 50 kart ile tırmanışa başla."
+  },
+  "Lethality": {
+    "NAME": "Ölümcüllük",
+    "DESCRIPTION": "Sen ve TÜM düşmanlar dövüşe +3 Kuvvet ile başlar."
+  },
+  "Terminal": {
+    "NAME": "Son Durak",
+    "DESCRIPTION": "Ne zaman yeni bir odaya girersen 1 Maksimum CP kaybet. Her dövüşe 5 Kaplı Zırh ile başla."
+  },
+  "Time Dilation": {
+    "NAME": "Genişleyen Zaman",
+    "DESCRIPTION": "TÜM düşmanlar Yavaşlık ile başlar."
+  },
+  "Hoarder": {
+    "NAME": "İstifçi",
+    "DESCRIPTION": "Ne zaman destene kart eklersen aynı karttan fazladan 2 kopya ekle. Artık tüccarda kart çıkaramazsın."
+  },
+  "Draft": {
+    "NAME": "Taslak",
+    "DESCRIPTION": "Kendine bir başlangıç destesi hazırla."
+  },
+  "Brewmaster": {
+    "NAME": "İçkici",
+    "DESCRIPTION": "5 tane Simyacı ve Beyaz Hayvan Heykeli ile oyuna başla."
+  },
+  "Specialized": {
+    "NAME": "Uzmanlaşmış",
+    "DESCRIPTION": "Bir kartın 5 tane kopyasıyla başla."
+  },
+  "Endless": {
+    "NAME": "Sonsuz",
+    "DESCRIPTION": "Oyunu yenmek seni aynı desteyle ilk kata geri yollar. Ancak unutma yıkım elbet seni de bulacaktır..."
+  },
+  "One Hit Wonder": {
+    "NAME": "Tek Vuruşluk Mucize",
+    "DESCRIPTION": "Oyuna 1 Maksimum CP ile başla."
+  },
+  "Starter Deck": {
+    "NAME": "Başlangıç Destesi",
+    "DESCRIPTION": "Oyuna Kırık Taç ve İkili düzenleyicisi ile başla. Yani düşmanlar artık kart düşürmez."
+  },
+  "Praise Snecko": {
+    "NAME": "Snecko'ya Övgü",
+    "DESCRIPTION": "Başlangıç kalıntını Snecko'nun gözü ile değiştirir."
+  },
+  "Inception": {
+    "NAME": "Başlangıç",
+    "DESCRIPTION": "Başlangıç kalıntını Durmayan Topaç ile değiştirir."
+  },
+  "My True Form": {
+    "NAME": "Gerçek Formum",
+    "DESCRIPTION": "Oyuna İblis Formu, Hayalet Formu, Yankı Formu ve Deva Formu'nun birer kopyası ile başla."
+  },
+  "Blight Chests": {
+    "NAME": "Yıkım Sandığı",
+    "DESCRIPTION": "Sonsuz oyunda sahne 3'ü bitirdiğinde Boss sandıkları yıkım bulundurur."
+  },
+  "Stunted Growth": {
+    "NAME": "Sersemletilmiş Büyüme",
+    "DESCRIPTION": "Sonsuz oyunda sahne 3'ü bitirdiğinde düşmanlar artık kart düşürmez."
+  },
+  "Blue Cards": {
+    "NAME": "Mavi Kartlar",
+    "DESCRIPTION": "Mavi kartlar ödüllerde ve dükkanlarda görünür."
+  },
+  "Red Cards": {
+    "NAME": "Kırmızı Kartlar",
+    "DESCRIPTION": "Kırmızı kartlar ödüllerde ve dükkanlarda görünür."
+  },
+  "Colorless Cards": {
+    "NAME": "Renksiz Kartlar",
+    "DESCRIPTION": "Renksiz kartlar ödüllerde görünür."
+  },
+  "Green Cards": {
+    "NAME": "Yeşil Kartlar",
+    "DESCRIPTION": "Yeşil kartlar ödüllerde ve dükkanlarda görünür."
+  },
+  "Chimera": {
+    "NAME": "Kuruntu",
+    "DESCRIPTION": "Başlangıç desten tüm karakterlerin kartlarının karışımından oluşur."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Zeki Düşmanlar",
+    "DESCRIPTION": "TÜM düşmanlar daha zorlayıcı zeka ve özelliklere sahip olur."
+  },
+  "ControlledChaos": {
+    "NAME": "Kontrollü Kaos",
+    "DESCRIPTION": "Donmuş Göz ile başla. Her tur başında çekme yığınının altına 10 rastgele kart ekle."
+  },
+  "DeadlyEvents": {
+    "NAME": "Ölümcül Olaylar",
+    "DESCRIPTION": "? odaları artık Elit düşmanlar bulundurabilir fakat Hazine Sandığı çıkma oranı da artar."
+  },
+  "SealedDeck": {
+    "NAME": "Mühürlenmiş Deste",
+    "DESCRIPTION": "Verilen 30 rastgele karttan bir deste oluştur."
+  },
+  "MonsterHunter": {
+    "NAME": "[DEPRECATED] Kolosus",
+    "DESCRIPTION": "Düşmanların iki kat CP'si olur ancak daha iyi ödüller verirler."
+  },
+  "NeowTime": {
+    "NAME": "Neow Zamanı",
+    "DESCRIPTION": "Neow'dan 3 tane kutsama ve 1 tane yıkım al."
+  },
+  "Careless": {
+    "NAME": "Dikkatsiz",
+    "DESCRIPTION": "Her tur başında çekme yığınının üstündeki kartı at."
+  },
+  "Daily Mods": {
+    "NAME": "Günlük Modlar",
+    "DESCRIPTION": "3 tane rastgele günlük modla başla."
+  },
+  "Flight": {
+    "NAME": "Uçuş",
+    "DESCRIPTION": "Üst kata çıkarken yolları yok sayabilirsin."
+  },
+  "The Ending": {
+    "NAME": "Bitiş",
+    "DESCRIPTION": "Son Sahneyi etkinleştirir."
+  },
+  "Purple Cards": {
+    "NAME": "Mor Kartlar",
+    "DESCRIPTION": "Mor kartlar ödüllerde ve dükkanlarda görünür."
+  }
+}

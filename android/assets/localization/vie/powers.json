@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Độ Chính Xác",
+    "DESCRIPTIONS": [
+      "#yDao gây thêm #b",
+      " sát thương."
+    ]
+  },
+  "After Image": {
+    "NAME": "Dư Ảnh",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Khuếch Đại",
+    "DESCRIPTIONS": [
+      "Chơi lá bài #yNăng #ylực tiếp theo hai lần trong lượt này.",
+      "Chơi ",
+      " lá bài #yNăng #ylực tiếp theo hai lần trong lượt này."
+    ]
+  },
+  "Anger": {
+    "NAME": "Phẫn Nộ",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá #yKỹ #ynăng, nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Angry": {
+    "NAME": "Giận Dữ",
+    "DESCRIPTIONS": [
+      "",
+      "Khi nhận sát thương tấn công, nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Thánh tích",
+    "DESCRIPTIONS": [
+      "Vô hiệu hóa #b",
+      " trạng thái bất lợi.",
+      " trạng thái bất lợi."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Đốt Tấn Công",
+    "DESCRIPTIONS": [
+      "Trong #b",
+      " lượt, mỗi khi bạn chơi một lá #yTấn #ycông, #yĐốt lá bài đó.",
+      "Trong #b",
+      " lượt tiếp theo, mỗi khi bạn chơi một lá #yTấn #ycông, #yĐốt lá bài đó."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Cố Thủ",
+    "DESCRIPTIONS": [
+      "#yGiáp không còn bị hủy khi bắt đầu lượt của bạn.",
+      "#yGiáp không còn bị hủy khi bắt đầu lượt của địch."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Điên Cuồng",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, nhận ",
+      ""
+    ]
+  },
+  "Bias": {
+    "NAME": "Thiên Vị",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, mất #b",
+      " #yTập #ytrung."
+    ]
+  },
+  "Blur": {
+    "NAME": "Mờ Ảo",
+    "DESCRIPTIONS": [
+      "#yGiáp không bị hủy khi bắt đầu lượt sau của bạn.",
+      "#yGiáp không bị hủy khi bắt đầu #b",
+      " lượt sau của bạn."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Tàn Bạo",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, mất #b",
+      " HP và bốc #b",
+      " lá bài.",
+      "Khi bắt đầu lượt của bạn, mất #b",
+      " HP và bốc #b",
+      " lá bài."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Giảm Xung",
+    "DESCRIPTIONS": [
+      "Ngăn lần mất HP tiếp theo.",
+      "Ngăn #b",
+      " lần mất HP tiếp theo."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Dừng Thời Gian",
+    "DESCRIPTIONS": [
+      "Giá của toàn bộ bài Xanh Lá giờ là #b0."
+    ]
+  },
+  "Burst": {
+    "NAME": "Bộc Phát",
+    "DESCRIPTIONS": [
+      "Lá #yKỹ #ynăng tiếp theo được chơi hai lần vào lượt này.",
+      "Lá bài ",
+      " lá #yKỹ #ynăng tiếp theo được chơi hai lần."
+    ]
+  },
+  "Choked": {
+    "NAME": "Ngạt Thở",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi bài vào lượt này, mất #b",
+      " HP."
+    ]
+  },
+  "Combust": {
+    "NAME": "Hỏa Thiêu",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, mất #b",
+      " HP và gây #b",
+      " sát thương lên TẤT CẢ quân địch."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Nhầm Lẫn",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn bốc một lá bài, thay đổi ngẫu nhiên giá của lá bài đó."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Bảo Toàn",
+    "DESCRIPTIONS": [
+      "#yNăng #ylượng trong lượt này được giữ lại.",
+      "Giữ lại #yNăng #ylượng trong #b",
+      " của bạn."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Siết Chặt",
+    "DESCRIPTIONS": [
+      "Vào cuối lượt, nhận #b",
+      " sát thương."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Biến Chất",
+    "DESCRIPTIONS": [
+      "Bài #yKỹ #ynăng tốn 0. Mỗi khi bạn chơi một lá #yKỹ #ynăng, #yĐốt lá bài đó.",
+      "Mỗi khi bạn chơi một lá #yKỹ #ynăng, #yĐốt lá bài đó."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "AI Sáng Tạo",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, thêm #b",
+      " lá bài #yNăng #ylực ngẫu nhiên vào tay bạn.",
+      " lá bài #yNăng #ylực ngẫu nhiên vào tay bạn."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Hiếu Kỳ",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yNăng #ylực, nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Cuộn Tròn",
+    "DESCRIPTIONS": [
+      "Khi nhận sát thương tấn công, cuộn tròn lại và nhận #b",
+      " #yGiáp. (Một lần mỗi trận đấu)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Hắc Ám Bao Trùm",
+    "DESCRIPTIONS": [
+      "Mỗi khi #yĐốt một lá bài, bốc #b1 lá bài.",
+      "Mỗi khi #yĐốt một lá bài, bốc #b",
+      " lá bài."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Quỷ Hình",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Giảm Linh Hoạt",
+    "DESCRIPTIONS": [
+      "Vào cuối lượt này, mất #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Linh hoạt",
+    "DESCRIPTIONS": [
+      "Tăng #yGiáp nhận được từ bài thêm #b",
+      "Giảm #yGiáp nhận được từ bài bớt #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Gấp Đôi Sát Thương",
+    "DESCRIPTIONS": [
+      "Bài #yTấn #ycông gây gấp đôi sát thương trong #b",
+      " lượt.",
+      " của bạn."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Cẩn Tắc",
+    "DESCRIPTIONS": [
+      "Lá #yTấn #ycông tiếp theo được chơi hai lần.",
+      "Lá bài ",
+      " lá #yTấn #ycông tiếp theo được chơi hai lần."
+    ]
+  },
+  "Draw": {
+    "NAME": "Bốc",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, bốc thêm #b",
+      " lá bài.",
+      " ít hơn #b lá bài.",
+      " lá bài.",
+      " ít hơn #b lá bài."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Bốc Thêm Bài",
+    "DESCRIPTIONS": [
+      "Bốc thêm #b",
+      " lá bài vào lượt tiếp theo.",
+      " lá bài vào lượt tiếp theo."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Bốc Ít Bài",
+    "DESCRIPTIONS": [
+      "Bốc thêm #b",
+      " lá bài vào lượt sau.",
+      " lá bài vào lượt sau."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Giảm Bài Bốc",
+    "DESCRIPTIONS": [
+      "Bốc ít hơn #b1 lá bài vào lượt sau.",
+      "Bốc ít hơn #b1 lá bài trong #b",
+      " của bạn."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Vọng Hình",
+    "DESCRIPTIONS": [
+      "Lá bài đầu tiên bạn chơi mỗi lượt được chơi hai lần.",
+      "#b",
+      " lá bài đầu tiên bạn chơi mỗi lượt được chơi hai lần."
+    ]
+  },
+  "Electro": {
+    "NAME": "Điện Từ",
+    "DESCRIPTIONS": [
+      "#ySét đánh TẤT CẢ quân địch.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Tràn Đầy Năng Lượng",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " [G] vào lượt sau.",
+      " [G] vào lượt sau.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Tràn Đầy Năng Lượng",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " [B] vào lượt sau.",
+      " [B] vào lượt sau.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Trói Buộc",
+    "DESCRIPTIONS": [
+      "Bạn không thể chơi bài #yTấn #ycông trong lượt này."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Tẩm Độc",
+    "DESCRIPTIONS": [
+      "Mỗi khi gây sát thương tấn công không đỡ được, gây #b",
+      " #yĐộc."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Tiến Hóa",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn bốc một lá bài #yTrạng #ythái, bốc #b1 lá bài.",
+      "Mỗi khi bạn bốc một lá bài #yTrạng #ythái, bốc #b",
+      " lá bài."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Phát Nổ",
+    "DESCRIPTIONS": [
+      "Phát nổ sau #b",
+      " lượt, gây #b",
+      " sát thương.",
+      "Phát nổ trong lượt này, gây #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Bài Thưởng",
+    "DESCRIPTIONS": [
+      "Bốc thêm #b1 lá bài vào lượt sau.",
+      "Bốc thêm #b",
+      " lá bài vào lượt tiếp theo."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Không Biết Đau",
+    "DESCRIPTIONS": [
+      "Mỗi khi có bài bị #yĐốt, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Thổi Lửa",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn bốc một lá bài #yTrạng #ythái hoặc #yNguyền, gây #b",
+      " sát thương cho TẤT CẢ quân địch."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Tường Lửa",
+    "DESCRIPTIONS": [
+      "Khi bị tấn công, đáp trả #b",
+      " sát thương."
+    ]
+  },
+  "Flex": {
+    "NAME": "Giảm Sức Mạnh",
+    "DESCRIPTIONS": [
+      "Vào cuối lượt này, mất #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Flight": {
+    "NAME": "Bay lượn",
+    "DESCRIPTIONS": [
+      "Giảm 50% sát thương nhận vào. Vô hiệu nếu chịu sát thương tấn công #b",
+      " lần trong một lượt."
+    ]
+  },
+  "Focus": {
+    "NAME": "Tập Trung",
+    "DESCRIPTIONS": [
+      "Tăng hiệu quả của Ngọc thêm #b",
+      "Giảm hiệu quả của Ngọc đi #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Mong Manh",
+    "DESCRIPTIONS": [
+      "Giảm bớt #b25% #yGiáp từ các lá bài trong #b",
+      " lượt.",
+      " của bạn."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Canh Bạc",
+    "DESCRIPTIONS": [
+      "Sau #b",
+      " lượt, nhận ",
+      " lượt, nhận ",
+      " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Vào cuối lượt, tăng #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Lớn Mạnh",
+    "DESCRIPTIONS": [
+      "Vào cuối lượt, tăng #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Tản Nhiệt",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yNăng #ylực, bốc #b",
+      " lá bài.",
+      " lá bài."
+    ]
+  },
+  "Hello": {
+    "NAME": "Xin Chào",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, thêm #b",
+      " lá bài Thông dụng ngẫu nhiên vào tay bạn.",
+      " lá bài Thông dụng ngẫu nhiên vào tay bạn."
+    ]
+  },
+  "Hex": {
+    "NAME": "Bỏ Bùa",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #ykhông #yphải #yTấn #ycông, tráo #b",
+      " lá #yChoáng vào chồng bài bốc."
+    ]
+  },
+  "Hide": {
+    "NAME": "Lẩn Trốn",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Dao Vô Hạn",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, thêm #b",
+      " #yDao #yGăm vào tay bạn.",
+      " #yDao #yGăm vào tay bạn."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Vô Hình",
+    "DESCRIPTIONS": [
+      "Giảm TẤT CẢ sát thương và lượng HP mất đi xuống còn #b1. Cách một lượt được nhận lại #yVô #yHình."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Bất Hoại",
+    "DESCRIPTIONS": [
+      "Chỉ có thể mất thêm #b",
+      " HP trong lượt này.",
+      "Không thể nhận sát thương trong lượt này."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Nhịp Tim Chết Chóc",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài, nhận #b",
+      " sát thương."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Vô Hình",
+    "DESCRIPTIONS": [
+      "Giảm TẤT CẢ sát thương phải nhận và lượng HP mất đi xuống còn #b1."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Lộn Ngược",
+    "DESCRIPTIONS": [
+      "Miễn nhiễm với sát thương. Mỗi khi nhận được bao nhiêu #yGiáp, mất từng đấy HP."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Càn Quét",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận #yGiáp, gây #b",
+      " sát thương tới một địch quân ngẫu nhiên."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Tri Thức",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yNăng #ylực, bốc #b",
+      " lá bài."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Kết Nối Sinh Mệnh",
+    "DESCRIPTIONS": [
+      "Nếu những quân địch khác vẫn còn sống, hồi sinh sau #b2 lượt với #b50% HP."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Tầm Ngắm",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      "% sát thương từ Ngọc của bạn trong #b",
+      " lượt.",
+      " lượt."
+    ]
+  },
+  "Loop": {
+    "NAME": "Vòng Lặp",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, kích hoạt khả năng nội tại của Ngọc tiếp theo.",
+      "Khi bắt đầu lượt của bạn, kích hoạt khả năng nội tại của Ngọc tiếp theo #b",
+      " lần."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Học Máy",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, bốc thêm #b",
+      " lá bài.",
+      " lá bài."
+    ]
+  },
+  "Study": {
+    "NAME": "Nghiên Cứu",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, tráo #b",
+      " lá #yHuệ #yNhãn vào chồng bài bốc.",
+      " lá #yHuệ #yNhãn vào chồng bài bốc."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Từ Tính",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, thêm #b%s lá bài Không màu ngẫu nhiên vào tay bạn.",
+      "Khi bắt đầu lượt của bạn, thêm #b%s lá bài Không màu ngẫu nhiên vào tay bạn."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Đàn Hồi",
+    "DESCRIPTIONS": [
+      "Khi nhận sát thương tấn công, nhận #b",
+      " #yGiáp. Lượng #yGiáp nhận được tăng thêm theo số lần ",
+      " được kích hoạt. Trở về #b",
+      " khi bắt đầu lượt của bạn."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Hỗn Loạn",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, chơi lá trên cùng bộ bài bốc của bạn.",
+      "Khi bắt đầu lượt của bạn, chơi #b",
+      " lá trên cùng bộ bài bốc của bạn."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Cứng Cáp",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, nhận #b",
+      " #yGiáp.",
+      "Vào cuối lượt, tăng #b",
+      " #yGiáp."
+    ]
+  },
+  "Minion": {
+    "NAME": "Tay Sai",
+    "DESCRIPTIONS": [
+      "Tay Sai sẽ bỏ trốn nếu không có thủ lĩnh."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Đổi Chế Độ",
+    "DESCRIPTIONS": [
+      "Sau khi nhận #b",
+      " sát thương, chuyển sang chế độ phòng thủ."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Giáp Lượt Sau",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      " #yGiáp vào lượt sau."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Ác Mộng",
+    "DESCRIPTIONS": [
+      "Thêm #b",
+      " lá bài vào tay bạn lượt sau."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Không Tấn Công",
+    "DESCRIPTIONS": [
+      "Bạn không thể chơi bài #yTấn #ycông trong lượt này."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Không Bốc Bài",
+    "DESCRIPTIONS": [
+      "Bạn không thể bốc bài trong lượt này."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Khí Độc",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, gây #b",
+      " #yĐộc cho TẤT CẢ quân địch."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Vô Hiệu Hóa Tấn Công",
+    "DESCRIPTIONS": [
+      "#yĐỡ hoàn toàn một đòn #yTấn #ycông mỗi lượt."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Đâm Đau Điếng",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận sát thương tấn công từ quân địch này, thêm một lá #yVết #yThương vào chồng bài bỏ của bạn."
+    ]
+  },
+  "Panache": {
+    "NAME": "Phô Trương",
+    "DESCRIPTIONS": [
+      "Nếu bạn chơi thêm #b",
+      " lá bài trong lượt này, gây #b",
+      " sát thương lên TẤT CẢ quân địch.",
+      " lá bài trong lượt này, gây #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Ngòi bút",
+    "DESCRIPTIONS": [
+      "Lá #yTấn #ycông tiếp theo của bạn gây gấp đôi sát thương."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Ảo Ảnh",
+    "DESCRIPTIONS": [
+      "Gây #yGấp #yđôi #ySát #ythương vào lượt tiếp theo.",
+      "Gây #yGấp #yđôi #ySát #ythương trong ",
+      " của bạn."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Giáp Mạ",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, nhận #b",
+      " #yGiáp. Khi nhận sát thương tấn công không đỡ được, giảm #b1 #yGiáp #yMạ.",
+      "Vào cuối lượt, tăng #b",
+      " #yGiáp. Khi nhận sát thương tấn công không đỡ được, giảm #b1 #yGiáp #yMạ."
+    ]
+  },
+  "Poison": {
+    "NAME": "Độc",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, mất #b",
+      " HP, sau đó giảm #b1 #yĐộc.",
+      "Khi bắt đầu lượt, mất #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn #yGọi một Ngọc, bốc #b",
+      " lá bài.",
+      " lá bài."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Nguyên Thủy",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yThông #ydụng, bốc #b",
+      " lá bài.",
+      " lá bài."
+    ]
+  },
+  "Rage": {
+    "NAME": "Phẫn Nộ",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá #yTấn #ycông trong lượt này, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Nảy Ngược",
+    "DESCRIPTIONS": [
+      "Lá bài tiếp theo bạn chơi trong lượt này sẽ được đặt lên trên cùng chồng bài bốc.",
+      "#b",
+      " lá bài tiếp theo bạn chơi trong lượt này sẽ được đặt lên trên cùng chồng bài bốc."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Giảm Sát Thương",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Tái Tạo",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt, hồi #b",
+      " #yHP."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Tái Tạo",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt, hồi #b",
+      " #yHP, sau đó giảm #b1 #yTái #yTạo.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Sửa Chữa",
+    "DESCRIPTIONS": [
+      "Khi kết thúc trận đấu, hồi #b",
+      " HP."
+    ]
+  },
+  "Repulse": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Giữ Bài",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, bạn có thể giữ #b",
+      " lá bài.",
+      " lá bài."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Giữ Hết Bài",
+    "DESCRIPTIONS": [
+      "Trong #b",
+      " lượt tiếp theo, không bỏ bài trên tay",
+      "Không bỏ bài trên tay bạn khi kết thúc lượt này."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Phản Công",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Ritual": {
+    "NAME": "Lễ Tế",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt, nhận #b",
+      " #ySức #ymạnh.",
+      "Khi kết thúc lượt của bạn, nhận #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "Xuất Huyết",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn mất HP từ một lá bài, nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Tàn Ác",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn gây hiệu ứng bất lợi lên quân địch, gây #b",
+      " sát thương."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Thâm Độc",
+    "DESCRIPTIONS": [
+      "Miễn nhiễm với #yBình #ydược."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Xiềng Xích",
+    "DESCRIPTIONS": [
+      "Vào cuối lượt, tăng #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Vảy Nhọn",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá #yTấn #ycông, nhận #b",
+      " sát thương."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Tiếng Hét Xa Xôi",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá #yTấn #ycông, bỏ một lá ngẫu nhiên."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Đốt Kỹ Năng",
+    "DESCRIPTIONS": [
+      "Trong #b",
+      " lượt, mỗi khi bạn chơi một lá #yKỹ #ynăng, #yĐốt lá bài đó.",
+      "Trong #b",
+      " lượt tiếp theo, mỗi khi bạn chơi mọt lá #yKỹ #ynăng, #yĐốt lá bài đó."
+    ]
+  },
+  "Slow": {
+    "NAME": "Chậm Chạp",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài, ",
+      " nhận thêm #b10% sát  thương từ bài #yTấn #ycông trong lượt này.",
+      " (Nhận thêm #b",
+      "% sát thương)"
+    ]
+  },
+  "Split": {
+    "NAME": "Chia Tách",
+    "DESCRIPTIONS": [
+      "Khi HP thấp hơn hoặc bằng #b50%, chia tách thành #b2 bãi nhầy nhỏ hơn với lượng HP hiện tại của ",
+      "."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Khí Bào Tử",
+    "DESCRIPTIONS": [
+      "Khi chết, gây #b",
+      " #ySơ #yhở."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Giữ Chặt",
+    "DESCRIPTIONS": [
+      "Khi chết, ",
+      " sẽ được trả về tay của bạn."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Nổ Tĩnh Điện",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận sát thương tấn công, #yGọi #b",
+      " #ySét."
+    ]
+  },
+  "Storm": {
+    "NAME": "Bão Táp",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yNăng #ylực, #yGọi #b",
+      " #ySét."
+    ]
+  },
+  "Strength": {
+    "NAME": "Sức mạnh",
+    "DESCRIPTIONS": [
+      "Tăng thêm #b",
+      "Giảm #b",
+      " sát thương tấn công."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "Quả Bom",
+    "DESCRIPTIONS": [
+      "Sau #b%1$s lượt, gây #b%2$s sát thương lên TẤT CẢ quân địch.",
+      "Khi kết thúc lượt này, gây #b%1$s sát thương lên TẤT CẢ quân địch."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Trộm Cướp",
+    "DESCRIPTIONS": [
+      " cướp #b",
+      " #yVàng mỗi khi tấn công."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Gai Nhọn",
+    "DESCRIPTIONS": [
+      "Khi bị tấn công, đáp trả #b",
+      " sát thương."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Ngàn Vết Dao",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài, gây #b",
+      " sát thương lên TẤT CẢ quân địch."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Bóp Méo Thời Gian",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b",
+      " lá bài, kết thúc lượt của bạn và tăng #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Đồ Nghề Hành Hiệp",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, bốc thêm #b",
+      " lá bài và bỏ #b",
+      " lá bài.",
+      " lá bài và bỏ #b",
+      " lá bài."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Chưa Thức Tỉnh",
+    "DESCRIPTIONS": [
+      "Quân địch này vẫn chưa thức tỉnh..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Bất Ổn",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Venomology": {
+    "NAME": "Độc Dược Học",
+    "DESCRIPTIONS": [
+      "#yĐộc tăng thêm #b",
+      " thay vì giảm xuống mỗi lượt."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Sơ Hở",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b",
+      "% sát thương từ bài #yTấn #ycông trong #b",
+      " lượt.",
+      " lượt."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Yếu Đuối",
+    "DESCRIPTIONS": [
+      "Bài #yTấn #ycông bị giảm #b",
+      "% sát thương trong #b",
+      " lượt.",
+      " lượt."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Yêu Hình",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, mất #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Cân Bằng",
+    "DESCRIPTIONS": [
+      "#yGiữ bài trên tay trong lượt này.",
+      "#yGiữ bài trên tay trong #b",
+      " của bạn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Tàn Phai",
+    "DESCRIPTIONS": [
+      "Chết sau #b",
+      " lượt của bạn.",
+      "Chết trong lượt này."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Chuyển Đổi",
+    "DESCRIPTIONS": [
+      "",
+      "Khi mất bao nhiêu HP, mất từng đấy #ySức #ymạnh cho đến hết lượt."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Mê Cung Thời Gian",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b",
+      " lá bài, lượt của bạn kết thúc"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Không Giáp",
+    "DESCRIPTIONS": [
+      "Bạn không thể nhận #yGiáp từ bài."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Banh Xác",
+    "DESCRIPTIONS": [
+      "Khi chết, gây sát thương bằng với HP tối đa của quân đó lên TẤT CẢ quân địch.",
+      "Khi chết, gây sát thương bằng #b",
+      " lần HP tối đa của quân đó lên TẤT CẢ quân địch."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Bao Vây",
+    "DESCRIPTIONS": [
+      "Nhận thêm #b50% sát thương nếu bị tấn công từ phía sau. Sử dụng các lá bài hoặc bình dược chọn mục tiêu để chuyển hướng."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Phản Ứng",
+    "DESCRIPTIONS": [
+      "Khi nhận sát thương tấn công, thay đổi ý định."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Đánh Sau Lưng",
+    "DESCRIPTIONS": [
+      "Gây thêm #b50% sát thương vì địch tấn công bạn từ đằng sau."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Tấn Công Miễn Phí",
+    "DESCRIPTIONS": [
+      "Lá bài #yTấn #ycông tiếp theo mà bạn chơi không tốn năng lượng.",
+      "#b",
+      " lá bài #yTấn #ycông tiếp theo mà bạn chơi không tốn năng lượng."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Sao Chép",
+    "DESCRIPTIONS": [
+      "Lá bài tiếp theo trong lượt này của bạn được chơi hai lần.",
+      "",
+      " lá bài tiếp theo của bạn trong lượt này được chơi hai lần."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Cấm Kỹ Năng",
+    "DESCRIPTIONS": [
+      "Bạn không thể chơi bài #yKỹ #ynăng trong lượt này."
+    ]
+  },
+  "Mastery": {
+    "NAME": "Tinh Thông",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn đổi Thế sang Thế hiện tại, nhận #b",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Làm Chủ Thực Tại",
+    "DESCRIPTIONS": [
+      "Mỗi khi có một lá bài được tạo ra, #yNâng #ycấp lá đó.",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "Retribution": {
+    "NAME": "Báo Ứng",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn mất HP, nhận #b",
+      " #yCường #ytráng."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Thiết Lập",
+    "DESCRIPTIONS": [
+      "Mỗi khi bài được #yGiữ, giảm giá là bài đó bớt #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Pháo Đài Tâm Can",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn đổi #yThế, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "Sức Mạnh Dòng Chảy",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá Tấn công, tạm thời nhận #b",
+      " #ySức #ymạnh. Khi bạn chơi một lá Kỹ năng, tạm thời nhận #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Sức Mạnh Omega",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, gây #b",
+      " sát thương lên TẤT CẢ quân địch."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Niết Bàn",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn Bói, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Tiên Liệu",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, #yBói #b",
+      " lá bài."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Chiến Ca",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, thêm #b",
+      " lá #yPhang vào tay bạn.",
+      " lá #yPhang vào tay bạn."
+    ]
+  },
+  "Grounded": {
+    "NAME": "Thiền Định",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá #yKỹ #ynăng, vào thế #yTĩnh."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Thần Chú",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn có #b",
+      " #yThần #ychú, vào thế #yPhật."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Củng Cố",
+    "DESCRIPTIONS": [
+      "Những lá bài có từ #yĐánh gây thêm #b",
+      " sát thương."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "Hoan Lạc",
+    "DESCRIPTIONS": [
+      "Lá bài tiếp theo bạn chơi trong lượt này không tốn năng lượng.",
+      "#b",
+      " lá bài tiếp theo bạn chơi trong lượt này không tốn năng lượng."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Ập Đến",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn vào #yThế #yNộ, bốc #b",
+      " lá bài.",
+      " lá bài."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Cấm Đổi Thế",
+    "DESCRIPTIONS": [
+      "Bạn không thể đổi thế trong lượt này."
+    ]
+  },
+  "Vault": {
+    "NAME": "Nhảy Cóc",
+    "DESCRIPTIONS": [
+      "Nhận #b",
+      " sát thương khi bắt đầu lượt tiếp theo."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Hồi Giáp",
+    "DESCRIPTIONS": [
+      "Khi bị tấn công, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "HotHot": {
+    "NAME": "Nóng Nảy",
+    "DESCRIPTIONS": [
+      "Khi bạn đang trong thế #yNộ, phản lại #b",
+      " sát thương mỗi khi bạn nhận sát thương tấn công."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Chư Thiên Hình",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, nhận #b",
+      " #yGiáp #yMạ."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "Cảm Xúc Hỗn Loạn",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, vào một thế cơ bản ngẫu nhiên mới."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Luôn Bực Tức",
+    "DESCRIPTIONS": [
+      "Không còn nhận gấp đôi sát thương khi vào thế #yNộ."
+    ]
+  },
+  "Collect": {
+    "NAME": "Tự Chủ",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt tiếp theo, đặt một lá #yPhép #yMàu+ vào tay bạn.",
+      "Khi bắt đầu #b",
+      " lượt tiếp theo, đặt một lá #yPhép #yMàu+ vào tay bạn."
+    ]
+  },
+  "Condense": {
+    "NAME": "Cô Đọng",
+    "DESCRIPTIONS": [
+      "Bạn không thể nhận hơn #b",
+      " sát thương từ bất kỳ đòn tấn công nào."
+    ]
+  },
+  "Serenity": {
+    "NAME": "Thanh Thản",
+    "DESCRIPTIONS": [
+      "Khi bạn đang ở trong thế #yTĩnh, giảm lượng sát thương lên HP đi #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Kẻ Báng Bổ",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, chết."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Cường Tráng",
+    "DESCRIPTIONS": [
+      "Lá Tấn công tiếp theo của bạn gây thêm #b",
+      " sát thương."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Mộ Đạo",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, nhận #b",
+      " #yThần #ychú."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Báo Thù Sục Sôi",
+    "DESCRIPTIONS": [
+      "Vào #yThế #yNộ khi bắt đầu lượt của bạn."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Chư Thiên",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, nhận [W] ",
+      "Khi bắt đầu lượt của bạn, nhận [W] #b",
+      " lần ",
+      "và tăng số này thêm #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "DEPERCATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Khươ Tay",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận #yGiáp, gây #b",
+      " #yYếu lên TẤT CẢ quân địch."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Tuyệt Thực",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, mất ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "Discipline",
+    "DESCRIPTIONS": [
+      "Nếu bạn kết thúc lượt mà vẫn còn [W] , bốc thêm bấy nhiêu lá bài vào lượt sau."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "Búng Tay",
+    "DESCRIPTIONS": [
+      "Khi quân địch này bị #yBúng #yTay thêm #b",
+      "2 lần nữa, nhận #b",
+      "1 lần nữa, nhận #b",
+      " sát thương."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Ấn",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi lá #yĐiểm #yHuyệt, mất #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Lặng Như Nước",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, nếu bạn đang trong #yThế #yTĩnh, nhận #b",
+      " #yGiáp."
+    ]
+  }
+}

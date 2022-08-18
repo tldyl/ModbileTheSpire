@@ -1,0 +1,1396 @@
+{
+  "AbandonRunButton": {
+    "TEXT": [
+      "Bỏ hành trình"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Khóa",
+      "Không rõ"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Tiếp tục"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Chết",
+      "Đỡ",
+      "HP tối đa +",
+      "Bị choáng!",
+      "Bị gián đoạn!",
+      "Cổ vật"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Tiếp tục",
+      "Tai ương:"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Hung hăng",
+      "Địch có ý định NL #yTấn #ycông gây #b",
+      " sát thương #b",
+      " lần.",
+      "Địch có ý định NL #yTấn #ycông gây #b",
+      " sát thương.",
+      "Hung hăng",
+      "Địch có ý định sử dụng #yHỗ #ytrợ và #yTấn #ycông gây #b",
+      " lần.",
+      "Địch có ý định sử dụng #yHỗ #ytrợ và #yTấn #ycông gây #b",
+      "Chiến lược",
+      "Địch có ý định gây #yHiệu #yứng #yBất #ylợi lên bạn và #yTấn #ycông gây #b",
+      "Địch có ý định #yĐỡ và #yTấn #ycông gây #b",
+      "Phòng ngự",
+      "Hèn nhát",
+      "Ma thuật",
+      "Đang ngủ",
+      "Bị choáng",
+      "Không rõ",
+      "Địch có ý định sử dụng #yHỗ #ytrợ.",
+      "Địch có ý định gây #yHiệu #yứng #yBất #ylợi lên bạn.",
+      "Địch có ý định gây #yHiệu #yứng #yBất #ylợi có tác động mạnh lên bạn.",
+      "Địch có ý định #yĐỡ trong lượt của mình.",
+      "Địch có ý định #yĐỡ và gây #yHiệu #yứng #yBất #ylợi lên bạn.",
+      "Địch có ý định #yĐỡ và sử dụng #yHỗ #ytrợ.",
+      "Địch có ý định #yTẩu #ythoát.",
+      "Địch có ý định sử dụng #yMa #ythuật bí ẩn trong lượt của mình.",
+      "Địch đang ngủ.",
+      "Địch đang bị #yChoáng trong lượt của mình.",
+      "#yKhông #yrõ ý định của địch (không tấn công).",
+      "Đỡ"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Đỡ",
+      "Thiết Giáp",
+      "Câm Lặng",
+      "Khiếm Khuyết",
+      "Vọng Giả"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "Mình không thể cầm NL thêm Bình dược nữa."
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Bị cướp...",
+      "Bỏ chạy..."
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Chọn một lá bài thêm vào tay của bạn.",
+      "Chọn bài thêm vào tay của bạn."
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Vô hiệu hóa",
+      "Miễn dịch",
+      "Vô hiệu hóa",
+      "\n Giảm"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "Nâng cấp"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Tinh quái xuất hiện nhiều hơn.",
+      "2. Quái thường được tăng sát thương.",
+      "3. Tinh quái được tăng sát thương.",
+      "4. Trùm được tăng sát thương.",
+      "5. Hồi ít máu hơn sau trận đấu Trùm.",
+      "6. Bị thương khi bắt đầu hành trình.",
+      "7. Quái thường có nhiều máu hơn.",
+      "8. Tinh quái có nhiều máu hơn.",
+      "9. Trùm có nhiều máu hơn.",
+      "10. Bị nguyền khi bắt đầu hành trình.",
+      "11. Ít ô đựng Bình dược hơn.",
+      "12. Bài đã nâng cấp sẽ xuất hiện ít hơn.",
+      "13. Trùm rơi ít tiền.",
+      "14. Giảm HP tối đa.",
+      "15. Sự kiện bất lợi.",
+      "16. Cửa hàng bán đồ đắt hơn.",
+      "17. Quái thường có nhiều khả năng và tuyệt chiêu khó hơn.",
+      "18. Tinh quái có nhiều khả năng và tuyệt chiêu khó hơn.",
+      "19. Trùm có nhiều khả năng và tuyệt chiêu khó hơn.",
+      "20. (Cấp độ tối đa) Hai con trùm."
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Cấp Chế độ Nâng cao ",
+      " Đã mở khóa!"
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Đã mở Nâng cao!"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Chọn một lá bài tấn công để thêm vào tay bạn."
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Trận đấu bắt đầu",
+      "Lượt người chơi",
+      "Lượt quân địch",
+      " lượt"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Chọn một lá bài để thêm vào tay của bạn.",
+      "Chọn ",
+      " lá bài để thêm vào tay của bạn."
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Tiếp tục"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Xác nhận",
+      "Xác nhận lựa chọn của bạn",
+      "Chọn một cổ vật",
+      "Bỏ qua",
+      "BÌNH CHỌN NGAY: ",
+      "giây.",
+      "Chọn một tai ương"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Chọn một lá bài để đặt lên trên cùng chồng bài bốc của bạn.",
+      "Chọn bài để đặt lên trên cùng chồng bài bốc của bạn."
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Mình đang mơ?"
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Chọn một lá Bài để Nâng cấp"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Chọn một lá Bài để Hủy."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Làm gì đây?",
+      "Hmm...",
+      "Mình sẽ làm gì đây?",
+      "Đến lúc nghỉ rồi",
+      "Thật nhiều lựa chọn...",
+      "Mình nên nghỉ",
+      "Mệt quá..."
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Xóa lưu trữ"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Độ hiếm",
+      "Loại",
+      "A-Z",
+      "Giá",
+      "Đi đến:",
+      "Đã được nhận"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Quay lại",
+      "Đỏ",
+      "Xanh lá",
+      "Xanh dương",
+      "Không màu",
+      "Nguyền",
+      "Trạng thái",
+      "Xem Nâng cấp",
+      "Tím"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Bỏ qua",
+      "Chọn một lá bài",
+      "+2 HP Tối đa",
+      "BÌNH CHỌN NGAY: ",
+      "giây.",
+      "Xem Nâng cấp",
+      "Người được chọn"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Khóa",
+      "Mở khóa nhân vật này bằng cách hoàn thành một hành trình.",
+      "Nhân vật này chưa có mặt trong Early Access.",
+      "Mở khóa nhân vật này bằng cách hoàn thành một hành trình bằng Câm Lặng.",
+      "HP: ",
+      "Vàng: ",
+      " Mở khóa còn lại",
+      "Không rõ",
+      "???",
+      " Để mở tiếp",
+      "Mở khóa nhân vật này bằng cách chiến thắng một hành trình cơ bản và đã mở khóa nhân vật thứ 3."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Chọn nhân vật của bạn",
+      "Bắt đầu",
+      "Thiết Giáp",
+      "Câm Lặng",
+      "Khiếm Khuyết",
+      "Quay lại",
+      "Nâng cao",
+      "Cấp độ ",
+      "Chế độ Nâng cao",
+      "Càng thắng hành trình sẽ càng khó... (Chuỗi thắng không bị ảnh hưởng)",
+      "Seed ",
+      "Seed ngẫu nhiên",
+      "Seed ban đầu được sử dụng để quyết định sẽ có gì ngẫu nhiên xuất hiện trong hành trình.",
+      "Đặt Seed",
+      "Vọng Giả"
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Chọn Một"
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Tiếp tục",
+      "Bỏ qua bài",
+      "Bỏ qua vàng",
+      "Bỏ qua Bình dược",
+      "Bỏ qua cổ vật",
+      "Bỏ qua phần thưởng",
+      "Đóng",
+      "Kho báu!",
+      "Có gì ở trong?",
+      "Phần thưởng!",
+      "Chiến lợi phẩm!",
+      "Đồ!",
+      "Gợi ý: "
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Xác nhận"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Quay lại",
+      "Xóa lưu trữ",
+      "Có",
+      "Không"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Sao chép"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Nhấn lại để thoát",
+      "để thoát",
+      "Tap again to exit"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Thử thách hàng ngày",
+      "Đang kết nối Server thời gian...",
+      "#yLƯU #yÝ: Bạn đã hoàn thành thử thách hôm nay. NL Điểm sẽ không được lưu cho những lần chơi lại sau.",
+      "Quay lại",
+      "Bắt đầu",
+      "Nhân vật hôm nay: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Thời gian còn lại: ",
+      "#yTầng #yđã #yđến: NL  ",
+      " NL NL  #yBộ #ybài: NL ",
+      " NL NL  #yCổ #yvật: NL  ",
+      " NL Thử thách hôm nay: NL #yNhân #yvật NL ",
+      " NL #yĐiều #ychỉnh: ",
+      "Bộ điều chỉnh: ",
+      "Bảng xếp hạng",
+      "*Thành tựu không tính với chế độ Leo Hàng ngày.",
+      "  [CHẾ ĐỘ NGOẠI TUYẾN]",
+      "MMMM dd, yyyy",
+      "*Chế độ Danh hiệu không hoạt động ở Leo tháp hàng ngày."
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Tiếp tục",
+      "Chiến thắng?",
+      "Tầng đã leo",
+      "Trùm đã tiêu diệt",
+      "Thời gian chơi",
+      "Thời gian chơi",
+      "Điểm",
+      "Bị chinh phục",
+      "Chết...",
+      "Thua",
+      "Bị đánh bại!",
+      "Bị tiêu diệt",
+      "Hủy hoại",
+      "Bại trận",
+      "Bạn đã bị giết!",
+      "Một cảm giác quen thuộc.",
+      "Ngủ chút nghe cũng ổn.",
+      "Gieo nhân nào sẽ gặt quả đấy.",
+      "Đi nhầm đường.",
+      "Mình chưa sẵn sàng cho việc này.",
+      "Mình sẽ thử lại ngày mai.",
+      "Mình sẽ cần bản đồ mới.",
+      "Chuẩn bị chưa kỹ càng.",
+      "Không thể tưởng tượng!",
+      "Đây là tiềm năng thật sự của mình?",
+      "Thật xui xẻo...",
+      "Không phải thế này...",
+      "Chưa đến đỉnh.",
+      "Tháp Xoáy nuốt trọn một người nữa...",
+      "Bạn mất dần ý thức...",
+      "Thua",
+      "Chấp nhận",
+      "Tiếp tục",
+      "Thử lại",
+      "Màn hình chính",
+      "Tiếp tục",
+      "Mở khóa",
+      "Màn hình chính",
+      "Thử lại",
+      "Tiếp tục",
+      "Mở khóa",
+      "Mở khóa còn lại: ",
+      "Mở khóa còn lại: ",
+      "Quân địch đã giết",
+      "Tinh quái đã giết",
+      "Vàng chưa dùng",
+      "Thưởng HP"
+    ],
+    "EXTRA_TEXT": [
+      "Tinh quái Mở Màn đã giết",
+      "Tinh quái Thành Phố đã giết",
+      "Tinh quái Chốn Xa Xôi đã giết",
+      "Siêu tốc",
+      "Tốc độ ánh sáng",
+      "Người vùng cao",
+      "Bộ sưu tập",
+      "Đủ bộ",
+      "Bần cùng",
+      "Thủ thư",
+      "Bách khoa toàn thư",
+      "No nê",
+      "Đầy bụng",
+      "Quỷ tha ma bắt!",
+      "Theo cách của riêng tôi",
+      "Nhà vô địch",
+      "Hoàn hảo",
+      "Hơn cả hoàn hảo",
+      "Quá tay",
+      "C-c-c-combo",
+      ""
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Cấp Nâng cao ",
+      " Đã mở khóa!"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Xóa tệp lưu trữ này?",
+      "Có",
+      "Không",
+      "CẢNH BÁO: Việc này không thể hoàn tác."
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Đào",
+      "Đào một cổ vật ngẫu nhiên."
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "Bỏ bài"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Chồng bài bỏ đang #rtrống."
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Chọn một lá bài để cho lại vào tay của bạn."
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Chọn một lá bài để đặt lên trên cùng chồng bài bốc của bạn."
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Bài ở đây được tráo lại vào chồng bài bốc khi hết bài.",
+      "Quay lại",
+      "Chồng bài bỏ"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Chồng bài bốc đang #rtrống."
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Bài được rút từ đây khi bắt đầu mỗi lượt.",
+      "(Bài được sắp xếp theo độ hiếm)",
+      "Quay lại",
+      "Chồng bài bốc"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Sao chép"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Chọn phòng bắt đầu",
+      "Quay lại"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Hướng dẫn",
+      "Bạn có muốn xem gợi ý khi đang chơi không?",
+      "Hồi 1",
+      "Mở Màn",
+      "Hồi 2",
+      "Thành Phố",
+      "Hồi 3",
+      "Chốn Xa Xôi",
+      "Hồi Cuối",
+      "Hạ Màn",
+      "Ấn bất kỳ đâu để tiếp tục"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Early Access là gì?",
+      "Open Beta là gì?",
+      "Slay the Spire vẫn đang trong quá trình phát triển! NL Nhiều chức năng, bài, và quân địch vẫn đang thay đổi. NL NL Nếu bạn gặp vấn đề hoặc muốn gửi phản hồi, hãy cho chúng tôi biết tại trang #bBàn #bluận trên #Steam. NL NL Nói thế đủ rồi, bạn còn phải leo tháp nữa!",
+      "Slay the Spire vẫn đang trong quá trình phát triển! NL Thêm vào đó, bạn đang chơi phiên bản Beta của trò chơi. NL NL Hãy cho chúng tôi biết nếu bạn gặp vấn đề khi chơi, nhưng đừng ngạc nhiên bởi hình minh họa tạm thời cho các nội dung sắp tới. NL NL Nói thế đủ rồi, bạn còn phải leo tháp nữa!",
+      "Ấn bất kỳ đâu để bắt đầu",
+      "Tiếp tục"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Kết thúc lượt",
+      "Lượt quân địch"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Đốt"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Những lá bài đã bị đốt trong trận đấu này.",
+      "Quay lại"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Chọn một lá bài để cho lại vào tay của bạn"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Thoát"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Mở Màn"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "Thay thế (Đồng xu cờ bạc)",
+      "Thay thế"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Game~ #y~đã~ #y~lưu~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Vàng"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Xác nhận",
+      "Hủy bỏ",
+      "Xác nhận lựa chọn của bọn",
+      "Bỏ đi"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Xác nhận bài để ",
+      "Xác nhận bài để ",
+      "Chọn ",
+      " Bài để ",
+      "Chọn một số bài bất kỳ để ",
+      "Chọn một lá bài để ",
+      " Sao chép"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Đốt"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Cài đặt phím",
+      "Cài đặt trò chơi",
+      "Quay lại",
+      "Lệnh",
+      "Bàn phím",
+      "Tay cầm",
+      "Đặt lại về mặc định",
+      "Xác nhận bài",
+      "Hủy bỏ / Thoát",
+      "Bản đồ",
+      "Xem bộ bài",
+      "Chồng bài bốc",
+      "Chồng bài bỏ",
+      "Chồng bài đốt",
+      "Kết thúc lượt",
+      "Trái",
+      "Phải",
+      "Chọn lá bài #1",
+      "Chọn lá bài #2",
+      "Chọn lá bài #3",
+      "Chọn lá bài #4",
+      "Chọn lá bài #5",
+      "Chọn lá bài #6",
+      "Chọn lá bài #7",
+      "Chọn lá bài #8",
+      "Chọn lá bài #9",
+      "Chọn lá bài #10",
+      "Thả bài",
+      "Chọn*",
+      "Hủy bỏ*",
+      "Ô trên cùng*",
+      "Tiếp tục / Kết thúc lượt*",
+      "Thẻ trái / Xem bộ bài*",
+      "Thẻ phải / Chồng bài đốt*",
+      "Bản đồ*",
+      "Cài đặt*",
+      "Chồng bài bốc*",
+      "Chồng bài bỏ*",
+      "Lên*",
+      "Xuống*",
+      "Trái*",
+      "Phải*",
+      "Lên (Thay thế)*",
+      "Xuống (Thay thế)*",
+      "Trái (Thay thế)*",
+      "Phải (Thay thế)*",
+      "Lên",
+      "Xuống",
+      "Tay cầm đã kích hoạt",
+      "Chế độ màn hình cảm ứng",
+      "Ngó"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Tiếng Bồ Đào Nha",
+      "Tiếng Trung (Giản thể)",
+      "Tiếng Trung (Phồn thể)",
+      "Tiếng Anh",
+      "Tiếng Pháp",
+      "Tiếng Đức",
+      "Tiếng Ý",
+      "Tiếng Nhật",
+      "Tiếng Hàn",
+      "Tiếng Ba Lan",
+      "Tiếng Nga",
+      "Tiếng Tây Ban Nha",
+      "Tiếng Do Thái",
+      "Tiếng Thổ Nhĩ Kỳ",
+      "Tiếng Thụy Điển",
+      "Tiếng Na Uy",
+      "Tiếng Thái",
+      "Tiếng Serbia (Cyrillic)",
+      "Tiếng Ucraina",
+      "Tiếng Việt",
+      "Tiếng Hungary",
+      "Tiếng Serbia (Latin)",
+      "Tiếng Catalan",
+      "Tiếng Hy Lạp",
+      "Tiếng Indonesia",
+      "Tiếng Quốc Tế Ngữ",
+      "Tiếng Hà Lan"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Thiết Giáp",
+      "Câm Lặng",
+      "Khiếm Khuyết",
+      "Tầng trung bình (20 lần chơi cuối)",
+      "Điểm trung bình (20 lần chơi cuối)",
+      "Chuỗi thắng dài nhất",
+      "Trận thắng nhanh nhất",
+      "Điểm cao",
+      "Option 6. DO NOT TRANSLATE",
+      "Bạn bè",
+      "Toàn cầu",
+      "Vọng Giả"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Quay lại",
+      "Bộ lọc",
+      "Nhân vật",
+      "Vùng",
+      "Loại",
+      "Xem điểm của tôi",
+      "Hạng",
+      "Tên",
+      "Điểm",
+      "Đang nhận dữ liệu...",
+      "Bảng xếp hạng",
+      "Chưa kết nối vào Steam",
+      "Chưa có điểm\nHãy đi Diệt trừ Tháp Xoáy!"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Không rõ",
+      "???",
+      "Phòng không xác định. NL NL Bạn có thể gặp quái vật, kho báu, cửa hàng hoặc những thứ khác biệt hoàn toàn.",
+      "Thương gia",
+      "Cửa hàng",
+      "Thương gia bí ẩn bán đồ của ông ta trong những phòng này. NL NL Hãy tiêu #yVàng kiếm được ở đây!",
+      "Kho báu",
+      "Phòng kho báu",
+      "Có thể tìm được #yCổ #yvật và #yVàng trong những căn phòng hấp dẫn này.",
+      "Nghỉ ngơi",
+      "Khu nghỉ ngơi",
+      "Dừng chân tại phòng này để #gHồi chút HP hoặc #yNâng #ycấp một lá bài.",
+      "Địch",
+      "Quân địch",
+      "Quân thù địch ở trong những phòng này.",
+      "Tinh quái",
+      "Tinh quái",
+      "Có quân địch rất mạnh trong những phòng này. NL NL Đánh bại chúng và bạn sẽ được thưởng Cổ vật.",
+      "Kí hiệu"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Cử tạ",
+      "Bắt đầu trận đấu với +1 Sức mạnh. (Tối đa là 3)",
+      ""
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yPhiên #ybản: ",
+      "Bắt đầu",
+      "Quay lại",
+      "nhấn vào để sửa",
+      "để sửa",
+      "tap to edit"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Bạn bắt đầu trận đấu với tất cả bài trong đây.",
+      "Quay lại"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "",
+      "Chơi",
+      "",
+      "",
+      "Tiếp tục",
+      "",
+      "Số liệu",
+      "",
+      "Thoát",
+      "Ghi chú bản vá",
+      "Bỏ hành trình",
+      "",
+      "Cài đặt",
+      "",
+      "Thư viện"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Tiêu chuẩn",
+      "",
+      "Bắt đầu hành trình Diệt trừ Tháp Xoáy.",
+      "Leo Hàng ngày",
+      "",
+      "Thử thách mới xuất hiện hàng ngày.\n\nCạnh tranh cùng các người chơi khác để dành điểm cao nhất!",
+      "Nâng cao",
+      "",
+      "Tháp Xoáy sẽ càng lớn mạnh hơn sau mỗi chiến thắng.\n\nThử nghiệm giới hạn những chiến thuật mạnh mẽ nhất của bạn.",
+      "Thư viện bài",
+      "",
+      "Xem tất cả các lá bài bạn đã gặp trong Tháp Xoáy.",
+      "Bộ sưu tập cổ vật",
+      "",
+      "Xem các cổ vật và kho báu bạn đã nhặt được trong suốt quãng hành trình.",
+      "Từ điển quái vật",
+      "",
+      "Chức năng này hiện chưa có.",
+      "Số liệu nhân vật",
+      "",
+      "Có thể xem quá trình phát triển và số liệu của mỗi nhân vật ở đây.",
+      "Bảng xếp hạng",
+      "",
+      "Xem và so sánh điểm của bạn với bạn bè và người chơi khác.",
+      "Lịch sử hành trình",
+      "",
+      "Xem lại những lần diệt trừ Tháp Xoáy trước của bạn.",
+      "Cài đặt trò chơi",
+      "",
+      "Thay đổi độ phân giải và bật/tắt nhiều chức năng khác nhau.",
+      "Cài đặt nút",
+      "",
+      "Thay đổi điều khiển và các phím tắt.",
+      "Danh đề",
+      "",
+      "Xem tất cả những người đã đóng góp cho Slay the Spire!",
+      "Không rõ",
+      "Chơi Leo hàng ngày một lần để mở khóa chế độ chơi này.",
+      "Chức năng này hiện chưa có.",
+      "Tự chọn",
+      "Tùy chỉnh hành trình của bạn với các bộ điều chỉnh độc đáo.",
+      "Thay đổi điều khiển của bạn.",
+      "Thay đổi các tuỳ chỉnh về đồ hoạ, âm thanh và gameplay.",
+      "Phòng thí nghiệm dược",
+      "Xem vô vàn bình dược tìm được trong Tháp Xoáy."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Dịch vụ hủy bài",
+      "GIẢM GIÁ",
+      "Không bán",
+      "Hết hàng",
+      "Ôi không!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Bấm ",
+      " để Bắt đầu",
+      "Đổi Hồ sơ",
+      "Khu vực hiển thị",
+      "Đã có thay đổi trong đăng nhập. Vui lòng đăng nhập lại hoặc thoát về màn hình chính.",
+      "Đăng nhập",
+      "Thoát"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Địch không có ý định tấn công!"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Cài đặt trò chơi",
+      "Đồ họa",
+      "Độ phân giải: NL Tốc độ khung hình tối đa:",
+      "Toàn màn hình NL Toàn màn hình không viền (nên dùng) NL Lắc màn hình",
+      "Âm thanh",
+      "Âm lượng chính NL Âm lượng nhạc NL Âm lượng hiệu ứng",
+      "Hiệu ứng âm thanh xung quanh NL Tắt khi ở nền",
+      "Cài đặt ưu tiên",
+      "Hiển thị tổng sát thương màu vàng NL Hiển thị sát thương đỡ được màu xanh lam NL Tắt xác nhận khi chọn 1 lá bài",
+      "Chế độ nhanh",
+      "",
+      "Cài đặt khác",
+      "Ngôn ngữ:",
+      "Tải dữ liệu trò chơi lên #b(?)",
+      "Thoát",
+      "Lưu & Thoát",
+      "NL NL VSync",
+      "Chế độ hình minh họa chơi thử",
+      "Hiển thị nút chọn bài nhanh",
+      "Cài đặt phím",
+      "Tắt hiệu ứng tạo hạt",
+      "Độ phân giải:",
+      "Độ phân giải: NL Toàn bộ màn hình:",
+      "Thay đổi sử dụng màn hình nào khi ở chế độ Toàn màn hình.",
+      "Giữ nút để xác nhận",
+      "Chữ to hơn"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Quay lại",
+      "#yGhi #ychú #ybản #yvá",
+      " NL (TẠM THỜI: Dùng phím mũi tên để điều hướng qua các ghi chú cũ)"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Ném",
+      "Uống",
+      "Loại bỏ",
+      "Mình không thể dùng bình dược!",
+      "Không thể làm vậy khi đang chiến đấu!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Hết tác dụng"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Tiếp tục"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "để lên trên cùng chồng bài bốc"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Triệu hồi",
+      "Lấy được Chìa Hồng ngọc."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Đốt"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Quay lại",
+      "Khởi đầu:",
+      "Nhân vật có thể bắt đầu với các cổ vật này.",
+      "Thường:",
+      "Các cổ vật yếu có thể tìm thấy thường xuyên.",
+      "Không thông dụng:",
+      "Các cổ vật mạnh hơn và xuất hiện ít hơn cổ vật thông dụng.",
+      "Hiếm:",
+      "Các cổ vật mạnh, độc nhất và hiếm khi tìm được.",
+      "Trùm:",
+      "Các cổ vật chỉ tìm được trong rương của Trùm.",
+      "Sự kiện:",
+      "Các cổ vật chỉ có thể nhận được thông qua sự kiện.",
+      "Cửa hàng:",
+      "Các cổ vật chỉ có thể mua được từ Thương gia."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<không tên>",
+      "Nhập  Tên  Bạn",
+      "Xác nhận",
+      "Hủy bỏ"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Địch có ý định tấn công!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Bỏ bài"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Nghỉ ngơi",
+      "Hồi 100% HP tối đa của bạn (",
+      " HP từ ",
+      "Hồi 30% HP tối đa của bạn (",
+      ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Khởi động lại trò chơi để các thay đổi hiển thị có hiệu lực."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "Giữ lại"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Vàng (Cướp lại)",
+      " Vàng",
+      "Thêm một lá bài vào bộ của bạn",
+      "",
+      "Chọn một lá bài",
+      "Chìa Ngọc bích",
+      "Chìa Lam ngọc",
+      "Kết nối",
+      "Nhặt cổ vật này sẽ loại bỏ ",
+      "."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Không rõ",
+      "Địch",
+      "Tinh quái",
+      "Sự kiện",
+      "Trùm",
+      "Kho báu",
+      "Kho báu của Trùm",
+      "Nghỉ ngơi",
+      "Thương gia",
+      "Không rõ (Kẻ địch)",
+      "Không rõ (Thương gia)",
+      "Không rõ (Kho báu)",
+      "Tầng %1$s - %2$s",
+      "Tầng %s",
+      "#r%s Sát thương",
+      "#r%s Lượt",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yVàng",
+      "#yĐã #ynhận: ",
+      "#yĐã #ybỏ #yqua:",
+      "Thông tin thiếu",
+      "+2 HP Tối đa",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bNghỉ #bngơi",
+      "#bNâng #bcấp %s",
+      "#bHủy %s",
+      "#bĐào",
+      "#bCử #btạ %s/%s",
+      "#yĐã #ymua:",
+      "#rĐã #rtiêu ",
+      "#rĐã #ylấy ",
+      "#rĐã #ymất ",
+      "% HP tối đa",
+      "#bĐã #bhồi ",
+      "#bĐã #bnhận ",
+      "#bĐã #bbỏ #bqua ",
+      "% HP",
+      "#bĐã #blấy %s",
+      "#rBị #rnguyền #rbởi #r%s",
+      "%s Sát thương",
+      "#bNâng #bcấp %s",
+      "#bĐã #bbiến #bđổi %s",
+      "#rĐã #rmất %s",
+      "#bĐã #btriệu #bhồi"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Hội Gremlin",
+      "Bãi Nhầy Khổng Lồ",
+      "Băng Cướp Mỏ Màn",
+      "Thú Hoang Mở Màn",
+      "Đám Nhầy",
+      "Đám Nhầy Nhỏ",
+      "Băng Cướp Thành Phố",
+      "Ba Con Chym",
+      "Bốn Con Chym",
+      "Bộ Ba Cuồng Tín",
+      "Đàn Chim Được Chọn",
+      "Trụ Kim Cương và Quả Cầu Hộ Vệ",
+      "Tướng Lĩnh và Pháp Sư",
+      "Ký Sinh Trùng và Nấm Quái Thú",
+      "Băng Cướp Mặt Nạ",
+      "Nob Đấu Trường",
+      "Chủ Nô Đấu Trường",
+      "Ba Hình Khối",
+      "Bầy Sâu Quai Hàm",
+      "Bốn Hình Khối",
+      "Quả Cầu Hộ Vệ và Hình Khối",
+      "Bộ Đôi Quản Ngọc",
+      "Donu và Deca",
+      "Trụ Kim Cương",
+      "Kẻ Được Chọn và Tên Cuồng Tín",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics",
+      "Khiên và Giáo"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Thiết Giáp",
+      "Câm Lặng",
+      "Khiếm Khuyết",
+      "Quay lại",
+      "Không có lịch sử hành trình. NL Hãy đi Diệt trừ Tháp Xoáy!",
+      "Cấp độ Nâng cao: ",
+      "Bị giết ở Tầng %1$d bởi %2$s",
+      "Bỏ hành trình ở Tầng %d",
+      "Chiến thắng!",
+      "Bài",
+      "Cổ vật",
+      "Khởi đầu",
+      "Thường",
+      "Không thông dụng",
+      "Hiếm",
+      "Đặc biệt",
+      "Nguyền",
+      "Trùm",
+      "Cửa hàng",
+      "Không rõ",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Điểm: %d",
+      "Tất cả nhân vật",
+      "Thắng và Thua",
+      "Thắng",
+      "Thua",
+      "Hàng ngày",
+      "Bất kỳ chế độ chơi nào",
+      "Chỉ bình thường",
+      "Chỉ Nâng cao",
+      "Chỉ thử thách hàng ngày",
+      "Seed: %s",
+      "Seed tùy chỉnh: %s",
+      "M/d/yyyy, h:mm a",
+      "Vọng Giả"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Nhập Seed mới",
+      "Xác nhận",
+      "Hủy bỏ",
+      "*Thành tích và Bảng xếp hạng sẽ bị tắt nếu sử dụng Seed tùy chỉnh.",
+      "*Danh hiệu và Bảng xếp hạng sẽ bị tắt nếu sử dụng Seed tùy chỉnh."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Bạn chắc chứ?",
+      "Hành trình của bạn được lưu tự động.",
+      "Hủy bỏ hành trình sẽ được tính là thua cuộc.",
+      "CẢNH BÁO:\nHành trình CHƯA lưu.\n\nĐến tầng tiếp theo để lưu lại hành trình hiện tại.",
+      "Quay lại",
+      "Hành trình sẽ KHÔNG được lưu đối với chế độ hàng ngày."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "đặt lên trên cùng chồng bài bốc của bạn."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "để xuống đáy chồng bài bốc của bạn."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Bỏ qua Thương gia"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Tấn công",
+      "Kỹ năng",
+      "Năng lực",
+      "Nguyền",
+      "Khóa",
+      "Không rõ",
+      "Xem Nâng cấp",
+      "Trạng thái",
+      "",
+      "Chỉ có thể chơi bài trong lượt của mình.",
+      "Mình bị #rTrói #rBuộc! NL Không thể chơi bài Tấn công",
+      "Không đủ #rNăng #rlượng.",
+      "Không đủ #rSạc.",
+      "Mình không thể chơi NL lá này.",
+      "Hình minh họa Beta"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      " Trùm",
+      " Thường",
+      "Không dùng",
+      " Hiếm",
+      " Cửa hàng",
+      " Sự kiện",
+      " Khởi đầu",
+      " Không thông dụng",
+      "Khóa",
+      "Không rõ",
+      "Cổ vật",
+      "Cổ vật này chưa mở.",
+      "Chưa tìm thấy cổ vật này."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Chọn một lá bài Kỹ năng để thêm vào tay bạn"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Rèn",
+      "Nâng cấp một lá trong bộ bài của bạn.",
+      "Không có bài nâng cấp được."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Bạn không còn đủ chỗ đựng"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Chốn Xa Xôi"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "Thành Phố"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Hạ Màn"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Năng lượng"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Hút",
+      "Hủy một lá bài khỏi bộ của bạn."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " Tầng",
+      " - Nâng cao ",
+      " (Cấp tối đa)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Bỏ qua rương"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Bỏ qua rương"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "BÌNH CHỌN NGAY: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Tiếp tục"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Mở bài!",
+      "",
+      "Mở cổ vật!",
+      "Nhân vật mới",
+      "Lưu ý: Bài đã mở sẽ xuất hiện trong các hành trình sau.",
+      "Lưu ý: Cổ vật đã mở sẽ xuất hiện trong các hành trình sau."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Mở bài!",
+      "Mở cổ vật!",
+      "Nhân vật mới",
+      "Lưu ý: Bài đã mở sẽ xuất hiện trong các hành trình sau.",
+      "Lưu ý: Cổ vật đã mở sẽ xuất hiện trong các hành trình sau."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Mở khóa mới!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Chế độ Tự chọn",
+      "Thành tựu và Bảng xếp hạng không hoạt động.",
+      "Nhân vật",
+      "Nâng cao",
+      "Cấp độ ",
+      "Chế độ Nâng cao",
+      "Bộ điều chỉnh",
+      "Seed",
+      "Đặt Seed",
+      "Tắt Danh hiệu và Bảng xếp hạng."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Thời gian chơi ",
+      "Ô trống"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Chọn một ô lưu trữ",
+      "Đặt lại tên",
+      "Xóa tệp lưu trữ này"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Tiếp tục",
+      "Tầng đã leo",
+      "Trùm đã tiêu diệt",
+      "Thời gian chơi",
+      "Điểm",
+      "Mở khóa",
+      "Mở khóa còn lại: ",
+      "Mở khóa còn lại: ",
+      "Quân địch đã giết",
+      "Tinh quái đã giết",
+      "Vàng chưa dùng",
+      "Thưởng HP",
+      "Chiến thắng!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Đã mở khóa minh họa bài Beta của Thiết Giáp!",
+      "Đã mở khóa minh họa bài Beta của Câm Lặng!",
+      "Đã mở khóa minh họa bài Beta của Khiếm Khuyết!",
+      "Đã mở khóa tất cả minh họa bài Beta!",
+      "Đã mở khóa minh họa bài Beta của Vọng Giả!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Tầng - hàng - ngày %s",
+      "Tầng - tự - chọn %s",
+      " - Tầng %s",
+      "Màn hình chính",
+      " (A%s)"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Đây phải là lá #yTấn #ycông duy nhất của mình!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Quay lại",
+      "Thông dụng:",
+      "Loại bình dược dễ bắt gặp nhất ở Tháp Xoáy.",
+      "Không thông dụng:",
+      "Loại bình dược công dụng hơn ít xuất hiện hơn so với bình dược thông dụng.",
+      "Hiếm:",
+      "Loại bình dược độc đáo và hiệu quả cao hiếm thấy."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Chọn một lá bài để giữ lại. Số còn lại sẽ bị đốt."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Chọn một lá bài để chơi."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Syncing data..."
+    ]
+  }
+}

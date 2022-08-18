@@ -1,0 +1,1396 @@
+{
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Fjern et valgfritt kort",
+      "SALG",
+      "Ikke til salgs",
+      "Utsolgt",
+      "Å, nei!"
+    ]
+  },
+  "Cancel Button": {
+    "TEXT": [
+      "Slett lagret spill"
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "Bekreft"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "Avslutt runden",
+      "Fiendens runde"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Den jernkledde",
+      "Den lydløse",
+      "",
+      "Tilbake",
+      "Ingen historikk funnet. NL Dra opp og sløy tårnet!",
+      "Oppstigningsnivå: ",
+      "Drept i etasje %1$d av %2$s",
+      "Avsluttet spillet i etasje %d",
+      "Seier!",
+      "Kort",
+      "Relikvier",
+      "Start",
+      "Vanlig",
+      "Uvanlig",
+      "Sjelden",
+      "Spesiell",
+      "Forbannelse",
+      "Høvding",
+      "Butikk",
+      "Ukjent",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Poengsum: %d",
+      "Alle figurer",
+      "Seire og tap",
+      "Seire",
+      "Tap",
+      "Daglig",
+      "Alle spilltyper",
+      "Kun Normal",
+      "Kun Oppstigning",
+      "Kun Daglig utfordring",
+      "Seed: %s",
+      "Custom Seed: %s",
+      "yyyy/M/d, h:mm a",
+      "The Watcher"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Tilbake",
+      "Filter",
+      "Figur",
+      "Region",
+      "Type",
+      "Se min poengsum",
+      "Rangering",
+      "Navn",
+      "Poengsum",
+      "Henter Data...",
+      "Resultatliste",
+      "Ikke koblet til mot Steam",
+      "Ingen poengsum tilgjengelig \n Dra opp og sløy tårnet!"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Den jernkledde",
+      "Den lydløse",
+      "3rd Char. DO NOT TRANSLATE",
+      "Gjennomsnittlig etasje nådd (Siste 20 forsøk)",
+      "Gjennomsnittlig poengsum (Siste 20 forsøk)",
+      "Flest antall seire på rad",
+      "Raskeste seier",
+      "Høyeste poengsum",
+      "Option 6. DO NOT TRANSLATE",
+      "Venner",
+      "Global",
+      "Watcher"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brasiliansk portugisisk",
+      "Kinesisk (Forenklet)",
+      "Kinesisk (Tradisjonell)",
+      "Engelsk",
+      "Fransk",
+      "Tysk",
+      "Italiensk",
+      "Japansk",
+      "Koreansk",
+      "Polsk",
+      "Russisk",
+      "Spansk",
+      "Hebraisk",
+      "Turkish",
+      "Svensk",
+      "Norsk",
+      "Thai",
+      "Serbisk",
+      "Ukarinsk",
+      "Vietnamesisk",
+      "Ungarsk",
+      "Serbian (Latin)",
+      "Catalan",
+      "Greek",
+      "Indonesian",
+      "Esperanto",
+      "Dutch"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Fortsett"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "Erstatt (Pokersjetong)",
+      "Replace"
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "Behold"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "Fortsett"
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "Fortsett"
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Hopp over kjøpmannen"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Hopp over kisten"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Hopp over kisten"
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "Legg i toppen av trekkebunken."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Velg et egenskapkort du vil ha på hånda"
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Velg et kort du vil legge øverst i trekkebunken."
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "Ukjent",
+      "???",
+      "Et ukjent rom NL NL Du kan treffe på fiender, finne skatter eller butikker, eller møte noe helt annet.",
+      "Kjøpmann",
+      "Butikker",
+      "En mystisk kjøpmann selger varene sine i dette rommet NL NL Bruk ditt oppsparte #yGull her!",
+      "Skatt",
+      "Rom med skatter i",
+      "#yRelikvier og #yGull kan finnes i disse ettertraktede rommene.",
+      "Leirbål",
+      "Leirbål",
+      "Stopp innom disse rommene for å #gHelbrede deg litt, eller for å #yOppgradere et kort.",
+      "Fiende",
+      "Fiender",
+      "Onde fiender venter i disse rommene.",
+      "Elitefiende",
+      "Elitefiender",
+      "Kraftige fiender er i disse rommene. NL NL Hvis du beseirer dem vil du bli belønnet med en #yRelikvie.",
+      "Legende"
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Fortsett"
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "Grav",
+      "Grav frem en tilfeldig relikvie."
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "Løft",
+      "Start kampene dine med +1 i Styrke. (Opp til 3)",
+      ""
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Hvil",
+      "Helbred 20% av din max HP (",
+      " HP fra ",
+      "Helbred 30% av din max HP (",
+      ""
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Smi",
+      "Oppgrader et av kortene i kortstokken din.",
+      "Ingen kort som kan Oppgraderes."
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Trekk",
+      "Fjern et kort fra kortstokken din."
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "Kastebunken min er #rtom."
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "Trekkebunken min er #rtom."
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Kast",
+      "Drikk",
+      "Fjern",
+      "Jeg kan ikke bruke trylledrikker!",
+      "Jeg kan ikke gjøre det mens jeg er i en kamp!"
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<ingen navn>",
+      "Legg inn navnet ditt",
+      "Bekreft",
+      "Avbryt"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Låst",
+      "Ukjent"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Blokkert",
+      "Den jernkledde",
+      "Den lydløse",
+      "Revolvermannen",
+      "the Watcher"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Død",
+      "Blokkert",
+      "Max HP +",
+      "Lamslått!",
+      "Avbrutt!",
+      "Relics"
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " Etasje",
+      " - Oppstigning ",
+      " (Høyeste etasje)"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Kort låst opp!",
+      "",
+      "Relikvier låst opp!",
+      "Ny figur",
+      "Bemerk: Opplåste kort dukker opp i fremtidige spillinger.",
+      "Bemerk: Opplåste relikvier dukker opp i fremtidige spillinger."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Kort låst opp!",
+      "Relikvier låst opp!",
+      "Ny figur",
+      "Bemerk: Opplåste kort dukker opp i fremtidige spillinger.",
+      "Bemerk: Opplåste relikvier dukker opp i fremtidige spillinger."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "Du har ikke plass til dette"
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "Bestjålet...",
+      "Fled..."
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Høvding",
+      "Vanlig",
+      "Foreldet",
+      "Sjelden",
+      "Butikk",
+      "Hendelse",
+      "Start",
+      "Uvanlig",
+      "Låst",
+      "Ukjent",
+      " relikvie",
+      "Denne relikvien er ikke låst opp ennå.",
+      "Denne relikvien har du ikke støtt på ennå."
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Angrep",
+      "Egenskap",
+      "Kraft",
+      "Forbannelse",
+      "Låst",
+      "Ukjent",
+      "Se Oppgradering",
+      "Status",
+      "Ammunisjon",
+      "Jeg kan bare spille kort når det er min tur.",
+      "Jeg er #rviklet #rinn #ri #rnoe! NL Jeg kan ikke spille angrepskort",
+      "Ikke nok #renergi.",
+      "Jeg har ikke #rladet nok.",
+      "Jeg kan ikke spille NL dette kortet",
+      "Beta Art"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "Du starter alle kampene med samtlige kort her.",
+      "Tilbake"
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "Disse kortene ble Vraket i denne kampen.",
+      "Tilbake"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "Opplæring",
+      "Ønsker du å se hint mens du spiller?",
+      "Første akt",
+      "Begynnelsen",
+      "Andre akt",
+      "Byen",
+      "Tredje akt",
+      "Forbi",
+      "Akt ?",
+      "???",
+      "Trykk for å fortsette"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "Velg et rom du vil starte i",
+      "Tilbake"
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "Kort trekkes herfra i starten av runden.",
+      "(Kortene er sortert basert på hvor vanlige de er)",
+      "Tilbake",
+      "Trekkebunke"
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "Kortene herfra blir blandet tilbake i trekkebunken din når du er tom for kort.",
+      "Tilbake",
+      "Kastebunke"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Kopieres"
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "Kastes"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "Oppgraderes"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "Dupliseres"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      "Dupliseres"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Oppstigningsmodus er ",
+      " Opplåst!"
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "Fortsett",
+      "Seier?",
+      "Etasjer du har klatret",
+      "Høvdinger bekjempet",
+      "Spilletid",
+      "Spilletid",
+      "Poengsum",
+      "Bekjempet",
+      "Død...",
+      "Nederlag",
+      "Nederlag!",
+      "Skjendet",
+      "Ødelagt",
+      "Overvunnet",
+      "Du ble slaktet!",
+      "En følelse du har kjent før.",
+      "En liten lur høres bra ut.",
+      "Som man sår, høster man.",
+      "Dro feil vei.",
+      "Jeg var ikke forberedt på dette.",
+      "Jeg kan prøve igjen i morgen.",
+      "Jeg tror jeg trenger et nytt kart.",
+      "Ikke godt nok forberedt.",
+      "Dette forstår jeg ikke!",
+      "Er dette det jeg har å stille opp med?",
+      "Typisk min flaks...",
+      "Ikke på denne måten...",
+      "Ikke helt til topps.",
+      "Tårnet får et nytt offer...",
+      "Bevisstheten din falmer ut...",
+      "Bekjempet",
+      "Javel",
+      "Fortsett",
+      "Prøv igjen",
+      "Hovedmeny",
+      "Fortsett",
+      "Lås opp",
+      "Hovedmeny",
+      "Prøv igjen",
+      "Fortsett",
+      "Lås opp",
+      "Ting igjen å låse opp: ",
+      "Ting igjen å låse opp: ",
+      "Fiender slaktet",
+      "Elite-fiender slaktet",
+      "Ubrukt gull",
+      "HP Bonus"
+    ],
+    "EXTRA_TEXT": [
+      "Antall drepte elite-fiender fra begynnelsen",
+      "Antall drepte elite-fiender fra byen",
+      "Antall drepte elite-fiender fra forbi",
+      "Kjapping",
+      "Med lysets hastighet",
+      "Kraftplugg",
+      "Samling",
+      "Fullt Sett",
+      "Fattiglem",
+      "Bibliotekar",
+      "Leksikon",
+      "God og mett",
+      "Stappmett",
+      "Forbannelser!",
+      "På mine vilkår",
+      "Mester",
+      "Perfekt",
+      "Mer enn perfekt",
+      "Drept med måte",
+      "K-k-k-kombo!",
+      ""
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "Fortsett",
+      "Hopp over kort",
+      "Hopp over gull",
+      "Hopp over trylledrikk",
+      "Hopp over relikvie",
+      "Hopp over belønninger",
+      "Lukk",
+      "Skatt!",
+      "Hva er inni?",
+      "Belønninger!",
+      "Bytte!",
+      "Tyvegods!",
+      "Tips: "
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "Velg èn"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "Hopp over",
+      "Velg et kort",
+      "+2 Max HP",
+      "STEM NÅ: ",
+      "s igjen.",
+      "View Upgrade",
+      "Choose One"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "Bekreft",
+      "Bekreft valget ditt",
+      "Velg en relikvie",
+      "Hopp over",
+      "STEM NÅ: ",
+      "s igjen.",
+      "Choose a Blight"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "Bekreft",
+      "Avbryt",
+      "Bekreft valget ditt",
+      "Stikk"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "Bekreft kort som skal ",
+      "Bekreft kort som skal ",
+      "Velg ",
+      " kort som skal ",
+      "Velg så mange kort du ønsker som skal ",
+      "Velg et kort som skal ",
+      "Copy"
+    ]
+  },
+  "AbandonRunButton": {
+    "TEXT": [
+      "Avbryt spillet"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "Tilbake",
+      "Slett lagret spill",
+      "Ja",
+      "Nei"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "Avslutt spillet"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "",
+      "Spillmeny",
+      "Grafikk",
+      "Oppløsning: NL Bilderate Max:",
+      "Fullskjerm NL Fullskjerm uten rammer (anbefalt) NL Skjermristing",
+      "Lyd",
+      "Hovedvolum NL Musikkvolum NL Effektvolum",
+      "Lydeffekter fra omgivelsene NL Demp lyden mens spillet er i bakgrunnen",
+      "Foretrukne valg",
+      "Vis oppsummert Skade med gullskrift NL Vis Blokkert Skade med blå skrift NL Slå av bekreftelse når man skal velge 1 kort",
+      "Hurtigmodus",
+      "",
+      "Krafttips NL Relikvietips",
+      "Språk:",
+      "Last opp spilldata #b(?)",
+      "Avslutt spillet",
+      "Lagre & avslutt",
+      "NL NL VSync",
+      "Spilltest: Kortgrafikk",
+      "Show Card Quick Select Keys",
+      "Input Settings",
+      "Disable Particle Effects",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen.",
+      "Long-press Confirmations",
+      "Bigger Text"
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Er du sikker?",
+      "Din fremgang vil lagres automatisk.",
+      "Hvis du avslutter spillet teller det som et tap.",
+      "ADVARSEL:\nFremgang er IKKE lagret.\n\nNå neste nivå for å lagre dette spillet.",
+      "Tilbake",
+      "Fremgangen lagres IKKE for de daglige utfordringene."
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "Tilbake",
+      "Rød",
+      "Grønn",
+      "Blå",
+      "Fargeløs",
+      "Forbannelser",
+      "Statuser",
+      "Se oppgradering",
+      "Purple"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "Sjeldenhet",
+      "Type",
+      "A-Å",
+      "Cost",
+      "Jump To:",
+      "Obtained"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "Hva er tidlig tilgang?",
+      "Hva er en åpen beta?",
+      "Slay the Spire er fortsatt under utvikling! NL Flere elementer, kort og fiender endrer seg stadig. NL Hvis du opplever problemer, eller har tilbakemeldinger, vær så snill å la oss få vite om det på vår #bdiskusjonsside på #bSteam. NL NL Det er nok lesing for i dag, du har et tårn du skal klatre til topps i!",
+      "Slay the Spire er fortsatt under utvikling! NL På toppen av det hele spiller du Betaversjonen av spillet. NL NL Vær så snill å fortelle oss om du har problemer mens du spiller, men ikke bli overrasket om du finner midlertidige bilder i spillet som erstatter for ting som kommer senere. NL NL Det er nok lesing for i dag, du har et tårn du skal klatre til topps i!",
+      "Trykk hvor som helst for å begynne",
+      "Continue"
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yVitale #yStatistikker: ",
+      "Sett i gang",
+      "Tilbake",
+      "trykk for å editere",
+      "to edit",
+      "tap to edit"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "Kortbibliotek",
+      "Spill",
+      "Dagens utfordring",
+      "Relikviesamling",
+      "Fortsett",
+      "Resultatliste",
+      "Statistikker",
+      "Kreditering",
+      "Avslutt",
+      "Endringer i siste versjon",
+      "Avslutt nåværende spill",
+      "Avslutt nåværende spill (trykk igjen for å bekrefte)",
+      "Innstillinger",
+      "Spillhistorikk",
+      "Kompendium"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "Tilbake",
+      "#yEndringer #yi #ysiste #yversjon",
+      " NL (TEMPORÆRT: Bruk piltastene for å navigere igjennom gamle logger)"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Tilbake",
+      "Startrelikvier:",
+      "Figurene kan starte med disse relikviene.",
+      "Vanlige:",
+      "Svake relikvier som er vanlige å finne.",
+      "Uvanlige:",
+      "Sterkere relikvier som vil dukke opp sjeldnere enn vanlige relikvier.",
+      "Sjeldne:",
+      "Unike og kraftfulle relikvier som man sjelden støter på.",
+      "Høvding:",
+      "Relikvier man kun finner i Høvdingkister.",
+      "Spesielle:",
+      "Relikvier man kun finner i spesielle hendelser.",
+      "Butikk:",
+      "Relikvier man kun kan kjøpe fra kjøpmannen."
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "Låst",
+      "Denne figuren låser man opp ved å fullføre en hel gjennomspilling.",
+      "Denne figuren er fortsatt ikke tilgjengelig i tidlig fase.",
+      "Denne figuren låser man opp ved å nå toppen av tårnet.",
+      "HP: ",
+      "Gull: ",
+      " Opplåsinger gjennstår",
+      "Ukjent",
+      "???",
+      " Til neste opplåsing",
+      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "Velg din figur",
+      "Sett i gang",
+      "Den jernkledde",
+      "Den lydløse",
+      "Crowbot",
+      "Tilbake",
+      "Oppstigningsmodus (Nivå ",
+      ")",
+      "Oppstigningsmodus",
+      "EKSPERIMENTELT: Gjennomspillingene blir vanskeligere etter hvert som du vinner... (Dette påvirker ikke seire på rad)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed used to determine what randomly appears in the run.",
+      "Set Seed",
+      "The Watcher"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Elitefiender dukker opp oftere.",
+      "2. Normale fiender er dødeligere.",
+      "3. Elitefiender er dødeligere.",
+      "4. Høvdinger er dødeligere.",
+      "5. Du helbreder mindre etter å ha slått en Høvding.",
+      "6. Du starter hver gjennomspilling med Skade.",
+      "7. Normale fiender er tøffere.",
+      "8. Elitefiender er tøffere.",
+      "9. Høvdinger er tøffere.",
+      "10. Parasitt!",
+      "Trylledrikker har dårligere effekt.",
+      "Oppgraderte kort dukker opp sjeldnere.",
+      "Fattige høvdinger.",
+      "Senker din max HP.",
+      "(Høyeste nivå) Hendelser som ikke gagner deg.",
+      "Shops are more costly. ",
+      "Normal enemies have more challenging AI. ",
+      "Elites have more challenging AI. ",
+      "Bosses have more challenging AI. ",
+      "(Max Level) Double Boss"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "Aggressiv",
+      "Denne fiender har tenkt å angripe og påføre deg #b",
+      " Skade #b",
+      " ganger.",
+      "Denne fiender planlegger å NL #yAngripe og påføre #b",
+      " Skade.",
+      "Aggressiv",
+      "Denne fienden skal gi seg selv en #yFordel og #yAngripe med #b",
+      " ganger.",
+      "Denne fienden skal gi seg selv en #yFordel og #yAngripe med #b",
+      "Strategisk",
+      "Denne fienden skal gi deg en #yUlempe og #yAngripe med #b",
+      "Denne fienden skal #yBlokkere Skade, og #yAngriper med #b",
+      "Defensiv",
+      "Pysete",
+      "Magisk",
+      "Sover",
+      "Lamslått",
+      "Ukjent",
+      "Denne fienden skal gi seg selv en #yFordel.",
+      "Denne fienden skal gi deg en #yUlempe.",
+      "Denne fienden skal gi deg en kraftig #yUlempe.",
+      "Denne fienden skal #yBlokkere Skade i sin runde.",
+      "Denne fienden skal #yBlokkere Skade og gi deg en #yUlempe.",
+      "Denne fienden skal #yBlokkere Skade og gi seg selv en #yFordel.",
+      "Denne fienden har planlagt å #yStikke #yAv.",
+      "Denne fienden har planlagt å bruke mystisk #yMagi i sin runde.",
+      "Denne fienden sover.",
+      "Denne fienden er #yLamslått hele sin runde.",
+      "Denne fiendens planer er #yUkjente (skal ikke angripe).",
+      "Blokkert"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "Fortsett",
+      "Blights:"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "Begynnelsen"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "Byen"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Spillet~ #y~er~ #y~lagret~"
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Start kampen",
+      "Spillerens runde",
+      "Fiendens runde",
+      " runde"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Gull (Stjålet tilbake)",
+      " Gull",
+      "Legg til et kort i kortstokken din",
+      "",
+      "Velg et kort",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this relic will remove ",
+      "."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "Hva skal jeg gjøre?",
+      "Hmm...",
+      "Hva skal jeg gjøre?",
+      "På tiden med en pause",
+      "Så mange muligheter...",
+      "Jeg burde hvile",
+      "Så trøtt..."
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Velg et kort du vil Oppgradere"
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Drømmer du?"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Velg et kort du vil fjerne."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "Ny opplåsing!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Oppstigningsnivå ",
+      " Låst opp!"
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "jeg kan ikke bære med meg NL flere Trylledrikker."
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energi"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "Vrak"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Velg et kort du vil ha tilbake på hånda"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Går vekk"
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Start spillet på nytt for å se endringene gjort med skjerminnstillinger."
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "Denne fienden har ikke tenkt å angripe!"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Opphevet",
+      "Immun",
+      "Annullert",
+      "\n Ned"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "legge i toppen av trekkebunken din"
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "Vrak"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "Forbi"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Sett i gang ditt evnetyr med Slay the Spire.",
+      "Daglig utfordring",
+      "",
+      "En ny utfordring blir tilgjengelig en gang om dagen.\n\nKonkurrer med andre spillere om den høyeste poengsummen!",
+      "Oppstigning",
+      "",
+      "Tårnet blir sterkere hver gang du beseirer det.\n\nTest grensene av dine mektigste strategier.",
+      "Kortbibliotek",
+      "",
+      "Se alle kortene du har støtt på din vei igjennom tårnet.",
+      "Relikviesamling",
+      "",
+      "Utforsk de forskjellige tingene og artefaktene du har mottatt i dine reiser igjennom tårnet.",
+      "Monstermanual",
+      "",
+      "Dette er ikke tilgjengelig ennå.",
+      "Figurstatistikker",
+      "",
+      "Fremgangen, og statistikken, for hver figur kan du se her.",
+      "Resultatliste",
+      "",
+      "Se og sammenlign din poengsum med dine venners poengsum, og poengsummen til andre spillere.",
+      "Spillhistorikk",
+      "",
+      "Gjense dine tidligere forsøk på å overvinne tårnet.",
+      "Innstillinger",
+      "",
+      "Endre oppløsning og slå diverse innstillinger av og på.",
+      "Kontrollerinnstillinger",
+      "",
+      "Dette er ikke tilgjengelig ennå.",
+      "Krediteringer",
+      "",
+      "Se listen over alle som har bidratt til Slay the Spire!",
+      "Ukjent",
+      "",
+      "Dette er ikke tilgjengelig ennå.",
+      "Endless",
+      "Climb a Spire that never ends.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences.",
+      "Potion Lab",
+      "Observe the numerous potions found climbing the Spire."
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "STEM NÅ: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daglig utfordring",
+      "Kobler til serveren...",
+      "Du har allerede gjennomført dagens utfordring. NL Du vil ikke kunne laste opp poengsummer for gjentakende forsøk.",
+      "Tilbake",
+      "Sett i gang",
+      "Dagens figur: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Gjenstående tid: ",
+      "#yOppnådd #yEtasje: NL  ",
+      " NL NL  #yKortstokk: NL ",
+      " NL NL  #yRelikvier: NL  ",
+      " NL Dagens utfordring: NL TAB #yKlasse: NL TAB ",
+      " NL TAB #yModder: ",
+      "Modifikasjoner: ",
+      "Leaderboards",
+      "*Achievements are off for Daily Climb.",
+      "  [OFFLINE MODE]",
+      "yyyy/MM/dd",
+      "*Trophies are off for Daily Climb."
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "trykk igjen for å avslutte",
+      "to exit",
+      "Tap again to exit"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Unknown",
+      "Enemy",
+      "Elite",
+      "Event",
+      "Boss",
+      "Treasure",
+      "Boss Treasure",
+      "Rest",
+      "Merchant",
+      "Unknown (Enemy)",
+      "Unknown (Merchant)",
+      "Unknown (Treasure)",
+      "Floor %1$s - %2$s",
+      "Floor %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS ",
+      "#bRested",
+      "#bUpgraded %s",
+      "#bRemoved %s",
+      "#bDug",
+      "#bLifted %s/%s",
+      "#yPurchased:",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s",
+      "#bRecalled"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Choose an Attack to Add to Your Hand"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
+      "Confirm",
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10",
+      "Drop Card",
+      "Up",
+      "Down",
+      "Select",
+      "End Turn / Info",
+      "Tab Left",
+      "Tab Right",
+      "Settings",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down",
+      "Controller Enabled",
+      "Touchscreen Mode",
+      "Peek"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed",
+      "Trophies and Leaderboards are off."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang of Gremlins",
+      "Large Slime",
+      "Excordium Thugs",
+      "Excordium Wildlife",
+      "Swarm of Slimes",
+      "Small Slimes",
+      "City Muggers",
+      "Three Byrds",
+      "Four Byrds",
+      "Triple Cultists",
+      "Chosen Flock",
+      "Sentry and Spheric Guardian",
+      "Centurion and Mystic",
+      "Parasite and Fungi Beast",
+      "Masked Bandits Gang",
+      "Colosseum Nobs",
+      "Colosseum Slavers",
+      "Three Shapes",
+      "Jaw Worm Horde",
+      "Four Shapes",
+      "Spheric Guardian with Shapes",
+      "Double Orb Walkers",
+      "Donu and Deca",
+      "Sentries",
+      "Chosen and Cultist",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics",
+      "Shield and Spear"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!",
+      "Watcher Beta Card Art Unlocked!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu",
+      " (A%s)"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choose a Card to play."
+    ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Synkroniserer data..."
+    ]
+  }
+}

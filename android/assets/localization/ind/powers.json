@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Akurasi",
+    "DESCRIPTIONS": [
+      "#yShiv memberi #b",
+      " tambahan damage."
+    ]
+  },
+  "After Image": {
+    "NAME": "Bayang-Bayang",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplifikasi",
+    "DESCRIPTIONS": [
+      "Pada giliran ini, mainkan #yKekuatan berikutnya dua kali.",
+      "Pada giliran ini, mainkan ",
+      " #yKekuatan berikutnya dua kali."
+    ]
+  },
+  "Anger": {
+    "NAME": "Kemarahan",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #yKemampuan, ini mendapatkan #b",
+      " #yStrength."
+    ]
+  },
+  "Angry": {
+    "NAME": "Marah",
+    "DESCRIPTIONS": [
+      "Ketika ",
+      " menerima #ySerangan damage, ini mendapatkan #b",
+      " #yStrength."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artefak",
+    "DESCRIPTIONS": [
+      "Cegah #b",
+      " debuff.",
+      " debuff."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Serangan Bakar",
+    "DESCRIPTIONS": [
+      "Untuk #b",
+      " giliran, ketika kamu memainkan sebuah #ySerangan, buat #yHangus.",
+      "Untuk #b",
+      " giliran selanjutnya, ketika kamu memainkan sebuah #ySerangan, buat #yHangus."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barikade",
+    "DESCRIPTIONS": [
+      "#yBlok tidak hilang pada awal giliran.",
+      "#yBlok tidak hilang pada awal giliran."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Amukan",
+    "DESCRIPTIONS": [
+      "Dapatkan ",
+      " pada awal giliran."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, kehilangan #b",
+      " #yFokus."
+    ]
+  },
+  "Blur": {
+    "NAME": "Buram",
+    "DESCRIPTIONS": [
+      "#yBlok tidak hilang pada awal giliran selanjutnya.",
+      "#yBlok tidak hilang pada awal #b",
+      " giliran selanjutnya."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Kebrutalan",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, kehilangan #b",
+      " HP dan ambil #b",
+      " kartu.",
+      "Pada awal giliran, kehilangan #b",
+      " HP dan ambil #b",
+      " kartu."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Jarak Pelindung",
+    "DESCRIPTIONS": [
+      "Cegah saat kamu kehilangan HP selanjutnya.",
+      "Cegah #b",
+      " kesempatan kamu kehilangan HP selanjutnya."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Tempo Peluru",
+    "DESCRIPTIONS": [
+      "Harga Energi dari semua kartu Hijau sekarang #b0."
+    ]
+  },
+  "Burst": {
+    "NAME": "Letusan",
+    "DESCRIPTIONS": [
+      "Pada giliran ini, mainkan #yKemampuan selanjutnya dua kali.",
+      "Pada giliran ini, mainkan ",
+      " #yKemampuan selanjutnya dua kali."
+    ]
+  },
+  "Choked": {
+    "NAME": "Tercekik",
+    "DESCRIPTIONS": [
+      "Kehilangan #b",
+      " HP ketika kamu memainkan sebuah kartu giliran ini."
+    ]
+  },
+  "Combust": {
+    "NAME": "Membakar",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, kehilangan #b",
+      " HP dan beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Bingung",
+    "DESCRIPTIONS": [
+      "Ketika kamu ambil sebuah kartu, acak harganya."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Simpan",
+    "DESCRIPTIONS": [
+      "#yEnergi disimpan giliran ini.",
+      "#yEnergi disimpan untuk #b",
+      " giliran selanjutnya."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Tersempitkan",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran terima #b",
+      " damage."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Korupsi",
+    "DESCRIPTIONS": [
+      "Harga Kemampuan #b0. Kartu #yKemampuan #yHangus setelah dimainkan.",
+      "Kartu #yKemampuan #yHangus setelah dimainkan."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "AI Kreatif",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, tambah #b",
+      " kartu Kekuatan acak ke tangan.",
+      " kartu Kekuatan acak ke tangan."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Keingintahuan",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #yKekuatan, dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Menggulung",
+    "DESCRIPTIONS": [
+      "Ketika menerima damage #ySerangan, menggulung dan dapatkan ",
+      " #yBlok. (sekali dalam pertarungan)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Boneka Tari",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu bukan Kemampuan, terima #b",
+      " damage. (tipe kartu berubah tiap giliran)",
+      "Ketika kamu memainkan sebuah kartu bukan Serangan, terima #b",
+      "+1 Dance Puppet"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Rangkulan Kegelapan",
+    "DESCRIPTIONS": [
+      "Ketika sebuah kartu #yHangus, ambil #b1 kartu.",
+      "Ketika sebuah kartu #yHangus, ambil #b",
+      " kartu."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Wujud Iblis",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, dapatkan #b",
+      " #yStrength."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Ketangkasan Turun",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, kehilangan #b",
+      " #yKetangkasan."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Ketangkasan",
+    "DESCRIPTIONS": [
+      "Naikkan #yBlok yang didapat dari kartu sebanyak #b",
+      "Kurangi #yBlok yang didapat dari kartu sebanyak #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Damage Ganda",
+    "DESCRIPTIONS": [
+      "#ySerangan memberi damage ganda selama #b",
+      " giliran.",
+      " giliran."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Tepukan Ganda",
+    "DESCRIPTIONS": [
+      "Pada giliran ini, mainkan #ySerangan selanjutnya dua kali.",
+      "Pada giliran ini, mainkan ",
+      " #ySerangan selanjutnya dua kali."
+    ]
+  },
+  "Draw": {
+    "NAME": "Ambil",
+    "DESCRIPTIONS": [
+      "Ambil #b",
+      " tambahan kartu pada awal setiap giliran.",
+      " kurang kartu pada awal setiap giliran.",
+      " tambahan kartu pada awal setiap giliran.",
+      " kurang kartu pada awal setiap giliran."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Ambil Kartu",
+    "DESCRIPTIONS": [
+      "Ambil #b",
+      " kartu giliran selanjutnya.",
+      " kartu giliran selanjutnya."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Ambil Turun",
+    "DESCRIPTIONS": [
+      "Ambil #b",
+      " kurang kartu giliran selanjutnya.",
+      " kurang kartu giliran selanjutnya."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Pengurangan Ambil",
+    "DESCRIPTIONS": [
+      "Ambil #b1 kurang kartu giliran selanjutnya.",
+      "Ambil #b1 kurang kartu selama #b",
+      " giliran."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Wujud Gema",
+    "DESCRIPTIONS": [
+      "Kartu pertama yang kamu mainkan tiap giliran dimainkan dua kali.",
+      "#b",
+      " kartu yang kamu mainkan tiap giliran dimainkan dua kali."
+    ]
+  },
+  "Electro": {
+    "NAME": "Elektro",
+    "DESCRIPTIONS": [
+      "#yPetir mengenai SEMUA musuh.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Berenergi",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " tambahan [G] giliran selanjutnya.",
+      " tambahan [G] giliran selanjutnya.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Berenergi",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " tambahan [B] giliran selanjutnya.",
+      " tambahan [B] giliran selanjutnya.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Terjerat",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa memainkan #ySerangan untuk satu giliran."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Envenom",
+    "DESCRIPTIONS": [
+      "Ketika sebuah #ySerangan memberi damage yang tidak tertahan Blok, terapkan #b",
+      " #yRacun."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Evolusi",
+    "DESCRIPTIONS": [
+      "Ketika kamu ambil sebuah #yStatus, ambil sebuah kartu.",
+      "Ketika kamu ambil sebuah #yStatus, ambil #b",
+      " kartu."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Ledakan",
+    "DESCRIPTIONS": [
+      "Dalam #b",
+      " giliran, meledak memberi #b",
+      " damage.",
+      "Dalam giliran ini, meledak memberi #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Tambahan Kartu",
+    "DESCRIPTIONS": [
+      "Ambil #b1 lebih kartu giliran selanjutnya.",
+      "Ambil #b",
+      " lebih kartu giliran selanjutnya."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Tidak Merasa Sakit",
+    "DESCRIPTIONS": [
+      "Ketika sebuah kartu #yHangus, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Napas Api",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu mengambil kartu #yStatus atau #yKutuk. Beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Tembok Api",
+    "DESCRIPTIONS": [
+      "Ketika menerima damage #ySerangan, beri #b",
+      " damage kembali."
+    ]
+  },
+  "Flex": {
+    "NAME": "Daya Turun",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, kehilangan #b",
+      " #yDaya."
+    ]
+  },
+  "Flight": {
+    "NAME": "Terbang",
+    "DESCRIPTIONS": [
+      "Kurangi damage #ySerangan yang diterima sebesar #b50%. Dibatalkan jika terkena damage #ySerangan #b",
+      " kali dalam satu giliran."
+    ]
+  },
+  "Focus": {
+    "NAME": "Fokus",
+    "DESCRIPTIONS": [
+      "Naikkan keefektifan Orb sebesar #b",
+      "Kurangi keefektifan Orb sebesar #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Rapuh",
+    "DESCRIPTIONS": [
+      "Dapatkan #b25% kurang #yBlok dari kartu selama #b",
+      " giliran.",
+      " giliran."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Gambit",
+    "DESCRIPTIONS": [
+      "Setelah #b",
+      " giliran, dapatkan ",
+      " giliran, dapatkan ",
+      " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Pada akhir gilirannya, dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Tumbuh",
+    "DESCRIPTIONS": [
+      "Pada akhir gilirannya, dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Penyerap Panas",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah Kekuatan, ambil #b",
+      " kartu.",
+      " kartu."
+    ]
+  },
+  "Hello": {
+    "NAME": "Halo",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, tambah #b",
+      " kartu Biasa acak ke tangan.",
+      " kartu Biasa acak ke tangan."
+    ]
+  },
+  "Hex": {
+    "NAME": "Hex",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu bukan Serangan, kocok #b",
+      " #yLamunan ke tumpukan ambil."
+    ]
+  },
+  "Hide": {
+    "NAME": "Sembunyi",
+    "DESCRIPTIONS": [
+      "kamu tidak menerima damage hingga awal giliran selanjutnya.",
+      "kamu tidak menerima damage selama #b",
+      " giliran."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Pedang Tak Hingga",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, dapatkan #b",
+      " #yShiv.",
+      " #yShiv."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Kegaiban",
+    "DESCRIPTIONS": [
+      "Kurangi SEMUA damage yang didapat dan kehilangan HP ke #b1 giliran ini. Intangible diterapkan ulang tiap beberapa giliran."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Tak terkalahkan",
+    "DESCRIPTIONS": [
+      "Hanya dapat dikurangi #b",
+      " HP di giliran ini.",
+      "Tidak dapat di sakiti lagi di giliran ini"
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Detak kematian",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu, terima #b",
+      " damage."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Kegaiban",
+    "DESCRIPTIONS": [
+      "Kurangi SEMUA damage yang didapat dan kehilangan HP ke #b1."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Terbalik",
+    "DESCRIPTIONS": [
+      "Kebal menerima damage. Ketika kamu dapatkan #yBlok, kehilangan HP sebanyak sama."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Tenaga Besar",
+    "DESCRIPTIONS": [
+      "Ketika kamu dapatkan #yBlok, beri #b",
+      " damage ke sebuah musuh acak."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Ilmu",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #yKekuatan, ambil #b",
+      " kartu."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Hubungan Kehidupan",
+    "DESCRIPTIONS": [
+      "Jika musuh lain masih hidup, hidup kembali dalam #b2 giliran dengan #b50% HP."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Sasar",
+    "DESCRIPTIONS": [
+      "Terima #b",
+      "% lebih damage dari Orb dalam #b",
+      " giliran.",
+      " giliran."
+    ]
+  },
+  "Loop": {
+    "NAME": "Putar Ulang",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, gunakan efek pasif Orb selanjutnya.",
+      "Pada awal giliran, gunakan efek pasif Orb selanjutnya #b",
+      " kali."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Pembelajaran Mesin",
+    "DESCRIPTIONS": [
+      "Ambil #b",
+      " tambahan kartu pada awal setiap giliran.",
+      " tambahan kartu pada awal setiap giliran."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Daya Tarik",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, tambah #b%s Kartu Tanpa Warna acak ke tangan.",
+      "Pada awal giliran, tambah #b%s Kartu Tanpa Warna acak ke tangan."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Lunak",
+    "DESCRIPTIONS": [
+      "Ketika menerima damage #ySerangan, dapatkan #b",
+      " #yBlok. #yBlok yang didapat naik selama ",
+      " diaktifkan. Kembali ke #b",
+      " pada awal giliran."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Kisruh",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, mainkan kartu paling atas dari tumpukan ambil.",
+      "Pada awal giliran, mainkan #b",
+      " kartu atas dari tumpukan ambil."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Kuat Logam",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yBlok pada akhir giliran.",
+      "Dapatkan #b",
+      " #yBlok pada akhir giliran."
+    ]
+  },
+  "Minion": {
+    "NAME": "Minion",
+    "DESCRIPTIONS": [
+      "Minion kabur dari pertarungan tanpa pemimpinnya."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Berubah Mode",
+    "DESCRIPTIONS": [
+      "Setelah menerima #b",
+      " damage, berubah ke mode bertahan."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Blok Giliran Selanjutnya",
+    "DESCRIPTIONS": [
+      "Pada awal giliran selanjutnya, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Mimpi Buruk",
+    "DESCRIPTIONS": [
+      "Pada awal giliran selanjutnya, tambah #b",
+      " kartu ke tangan."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Tanpa Serangan",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa memainkan #ySerangan giliran ini."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Tanpa Ambil",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa ambil kartu hingga akhir giliran."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Uap Berbahaya",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, terapkan #b",
+      " #yRacun ke SEMUA musuh."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Tiadakan Serangan",
+    "DESCRIPTIONS": [
+      "Sepenuhnya #yBlok satu #ySerangan setiap giliran."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Tusukan Menyakitkan",
+    "DESCRIPTIONS": [
+      "Ketika kamu menerima damage dari musuh ini, tambah sebuah #yLuka ke Tumpukan Buang."
+    ]
+  },
+  "Panache": {
+    "NAME": "Panache",
+    "DESCRIPTIONS": [
+      "Jika kamu memainkan #b",
+      " lebih kartu giliran ini, beri #b",
+      " damage ke SEMUA musuh.",
+      " lebih kartu giliran ini, beri #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Ujung Pena",
+    "DESCRIPTIONS": [
+      "#ySerangan selanjutnya memberi damage ganda ."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Pembunuh Arwah",
+    "DESCRIPTIONS": [
+      "Beri #yDamage #yGanda giliran selanjutnya.",
+      "Beri #yDamage #yGanda selama ",
+      " giliran selanjutnya."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Zirah Berlapis",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yBlok pada akhir giliran. damage yang tidak tertahan mengurangi #yZirah #yBerlapis sebanyak #b1.",
+      "Dapatkan #b",
+      " #yBlok pada akhir giliran. damage yang tidak tertahan mengurangi #yZirah #yBerlapis sebenyak #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Racun",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, kehilangan #b",
+      " HP, kemudian kurangki #yRacun sebanyak #b1.",
+      "Pada awal giliran, kehilangans #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Prima",
+    "DESCRIPTIONS": [
+      "Ketika kamu #ySalur sebuah Orb, ambil #b",
+      " kartu.",
+      " kartu."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitif",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu Biasa, ambil #b",
+      " kartu.",
+      " kartu."
+    ]
+  },
+  "Rage": {
+    "NAME": "Geram",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah Serangan giliran ini, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Pantul Kembali",
+    "DESCRIPTIONS": [
+      "Kartu selanjutnya yang kamu mainkan giliran ini diletakkan di atas tumpukan ambil.",
+      "#b",
+      " kartu selanjutnya yang kamu mainkan giliran ini diletakkan di atas tumpukan ambil."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Kurangi Damage",
+    "DESCRIPTIONS": [
+      "Kurangi damage yang diterima sebanyak #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regenerasi",
+    "DESCRIPTIONS": [
+      "Sembuhkan #b",
+      " #yHP pada akhir gilirannya."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regen",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, sembuhkan #b",
+      " #yHP, kemudian kurangi #yRegen sebanyak #b1.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Perbaikan",
+    "DESCRIPTIONS": [
+      "Pada akhir pertarungan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Repulse": {
+    "NAME": "Menyangkal",
+    "DESCRIPTIONS": [
+      "Ketika ",
+      " menerima damage Serangan, letakkan sebuah #yLuka ke tangan."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Tahan Kartu",
+    "DESCRIPTIONS": [
+      "Pada akhir setiap giliran, kamu boleh tahan #b",
+      " kartu.",
+      " kartu."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Tahan Tangan",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, jangan buang tangan selama #b",
+      " giliran.",
+      "Pada akhir giliran, jangan buang tangan."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Balasan",
+    "DESCRIPTIONS": [
+      "Sekali tiap giliran, beri #b",
+      " damage kebali ketika kamu memainkan sebuah #ySerangan."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Ritual",
+    "DESCRIPTIONS": [
+      "Pada akhir gilirannya, dapatkan #b",
+      " #yDaya.",
+      "Pada akhir gilirannya, dapatkan #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "Pecah",
+    "DESCRIPTIONS": [
+      "Ketika kehilangan HP dari sebuah kartu, dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadis",
+    "DESCRIPTIONS": [
+      "Ketika kamu terapkan sebuah Debuff ke sebuah musuh, beri #b",
+      " damage."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Serpentine",
+    "DESCRIPTIONS": [
+      "Kebal terhadap #yRamuan."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Terantai",
+    "DESCRIPTIONS": [
+      "Pada akhir gilirannya, mendapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Selimut Tajam",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #ySerangan, terima #b",
+      " damage."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Shriek From Beyond",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah Serangan, buang sebuah kartu acak."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Bakar Kemampuan",
+    "DESCRIPTIONS": [
+      "Selama #b",
+      " giliran, ketika kamu memainkan sebuah #yKemampuan, buat #yHangus.",
+      "Selama #b",
+      " giliran selanjutnya, Kketika kamu memainkan sebuah #yKemampuan, buat #yHangus."
+    ]
+  },
+  "Slow": {
+    "NAME": "Lamban",
+    "DESCRIPTIONS": [
+      "Untuk setiap kartu yang dimainkan giliran ini, ",
+      " terima #b10% damage lebih dari #ySerangan.",
+      " (Terima #b",
+      "% lebih damage)"
+    ]
+  },
+  "Split": {
+    "NAME": "Membelah Diri",
+    "DESCRIPTIONS": [
+      "Ketika HP-nya kurang dari sama dengan #b50%, akan terpisah menjadi #b2 slime lebih kecil dengan ",
+      " HP saat ini."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Awan Spora",
+    "DESCRIPTIONS": [
+      "Ketika mati, terapkan #yRentan ke kamu selama #b",
+      " giliran."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Stasis",
+    "DESCRIPTIONS": [
+      "Ketika mati, ",
+      " dikembalikan ke tangan."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Lepas Listrik",
+    "DESCRIPTIONS": [
+      "Ketika menerima damage #ySerangan, #ySalur #b",
+      " #yPetir."
+    ]
+  },
+  "Storm": {
+    "NAME": "Badai",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #bKekuatan, #ySalur #b ",
+      " #yPetir."
+    ]
+  },
+  "Strength": {
+    "NAME": "Daya",
+    "DESCRIPTIONS": [
+      "Naikkan damage serangan sebanyak #b",
+      "Kurangi damage serangan sebanyak #b",
+      "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "Bom",
+    "DESCRIPTIONS": [
+      "Pada akhir #b%1$s giliran, beri #b%2$s damage ke SEMUA musuh.",
+      "Pada akhir giliran ini, beri #b%1$s damage ke SEMUA musuh."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Pencurian",
+    "DESCRIPTIONS": [
+      " Curi #b",
+      " #yEmas ketika menyerang."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Duri",
+    "DESCRIPTIONS": [
+      "Ketika menerima damage #ySerangan, beri #b",
+      " damage kembali."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Seribu Sayatan",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu, beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Distorsi Waktu",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan #b",
+      " kartu, giliranmu berakhir dan Time Eater dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Alat Khusus",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, ambil #b",
+      " kartu dan buang #b",
+      " kartu.",
+      " kartu dan buang #b",
+      " kartu."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Belum Bangun",
+    "DESCRIPTIONS": [
+      "Musuh ini masih belum bangun..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Tidak Stabil",
+    "DESCRIPTIONS": [
+      "Beri damage cukup untuk membuatnya kehilangan keseimbangan."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Venomology",
+    "DESCRIPTIONS": [
+      "#yRacun tumbuh lebih kuat sebanyak #b",
+      " daripada turun setiap giliran."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Rentan",
+    "DESCRIPTIONS": [
+      "Terima #b",
+      "% damage lebih dari #ySerangan selama #b",
+      " giliran.",
+      " giliran."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Terlemahkan",
+    "DESCRIPTIONS": [
+      "#ySerangan beri #b",
+      "% damage kurang selama #b",
+      " giliran.",
+      " giliran."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Wujud Arwah",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, kehilangan #b",
+      " #yKetangkasan."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Keseimbangan",
+    "DESCRIPTIONS": [
+      "Tahan tanganmu giliran ini.",
+      "Tahan tanganmu selama #b",
+      " giliran."
+    ]
+  },
+  "Fading": {
+    "NAME": "Memudar",
+    "DESCRIPTIONS": [
+      "Mati dalam #b",
+      " giliran.",
+      "Mati giliran ini."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Perubahan",
+    "DESCRIPTIONS": [
+      "",
+      "Ketika kehilangan HP, ini kehilangan #yDaya sebanyak itu hingga akhir giliran."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Labirin Waktu",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan #b",
+      " kartu, giliranmu berakhir"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Tanpa Blok",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa mendapat #yBlok dari kartu."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Ledakan Mayat",
+    "DESCRIPTIONS": [
+      "Ketika musuh ini mati, beri damage ke SEMUA musuh sama dengan HP Maksimum miliknya.",
+      "Ketika musuh ini mati, beri damage ke SEMUA musuh sama dengan #b",
+      " kali HP Maksimum miliknya."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Menerima #b50% lebih damage jika diserang dari belakang. Gunakan kartu yang menyasar atau ramuan untuk mengubah orientasimu."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reaktif",
+    "DESCRIPTIONS": [
+      "Ketika menerima damage serangan, ubah niatan."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Memberi #b50% lebih damage karena menyerangmu dari belakang."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Gairah",
+    "DESCRIPTIONS": [
+      "Serangan berikutmu memberi #b",
+      " damage lebih."
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Memadat",
+    "DESCRIPTIONS": [
+      "Kamu tidak dapat menerima damage lebih dari #b",
+      " dari serangan apapun."
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Tertanam",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #yJurus, masuk #yTeduh."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Rushdown",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memasuki #yAmarah, amibl #b",
+      " kartu.",
+      " kartu."
+    ]
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED Penguasaan",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu merupaya merubah Ancang-ancang ke Ancang-ancang yang telah aktif, dapatkan #b",
+      " [W]."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Mental Baja",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu mengubah #yAncang-ancang, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "HotHot": {
+    "NAME": "DEPRECATED Panas-panas",
+    "DESCRIPTIONS": [
+      "Bila kamu dalam Ancang-ancang #yAmarah, berikan #b",
+      " damage kembali setiap kali kamu menerima damage."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED KekuatanGratisan",
+    "DESCRIPTIONS": [
+      "Abaikan harga energi di kartu yang akan dimainkan berikut ini.",
+      "Abaikan harga energi di #b",
+      " kartu yang dimainkan berikut ini."
+    ]
+  },
+  "Collect": {
+    "NAME": "Tuai",
+    "DESCRIPTIONS": [
+      "Di awal giliran berikutmu, taruh sebuah #yMukjizat+ ke tanganmu.",
+      "Di awal #b",
+      " giliran berikutmu, taruh sebuah #yMukjizat+ ke tanganmu."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Kekacauan emosional",
+    "DESCRIPTIONS": [
+      "Di setiap awal giliran, masuki Ancang-ancang asal."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Kedamaian",
+    "DESCRIPTIONS": [
+      "Ketika kamu dalam #yTeduh, kekurangan HP dikurangi #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Penghujat",
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, mati."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Selalu Gila",
+    "DESCRIPTIONS": [
+      "Tidak lagi menerima damage dobel ketika sedang dalam #yAmarah."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "Ketika kamu mendapat #b",
+      " #yMantra, masuki #yKeilahian."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Hidup kekal",
+    "DESCRIPTIONS": [
+      "Di akhir giliranmu, dapatkan #b",
+      " #yBaja #yBerlapis."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Ramalan",
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, #yGali #b",
+      "."
+    ]
+  },
+  "Vault": {
+    "NAME": "Salto",
+    "DESCRIPTIONS": [
+      "Terima #b",
+      " damage di awal giliran berikutmu."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED Kuasa Aliran",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan sebuah Serangan, dapatkan #b",
+      " #yDaya sementara. setiap kali kamu memainkan sebuah Jurus, dapatkan #b,",
+      " #yKetangkasan sementara."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Pendirian",
+    "DESCRIPTIONS": [
+      "Setiap kali kartu #yDitahan, kurangi harganya dengan #b",
+      "."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Kesetiaan",
+    "DESCRIPTIONS": [
+      "Di setiap awal giliran, dapatkan #b",
+      " #yMantra."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Blok Ulang",
+    "DESCRIPTIONS": [
+      "ketika diserang, kamu mendapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Iringan Peperangan",
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, tambahkan #b",
+      " #yHujat ke tanganmu.",
+      " #yHujat ke tanganmu."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Serangan Gratis",
+    "DESCRIPTIONS": [
+      "Abaikan harga di #ySerangan berikutnya yang akan kamu mainkan.",
+      "Abaikan harga di #b",
+      " #ySerangan berikutnya yang akan kamu mainkan."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Tiada Jurus",
+    "DESCRIPTIONS": [
+      "Kamu tidak dapat memainkan #yJurus di giliran ini."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Penguasa Realitas",
+    "DESCRIPTIONS": [
+      "Setiap kali kartu diciptakan, itu telah di#yTingkatkan.",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Strike Up",
+    "DESCRIPTIONS": [
+      "Kartu dengan #yStrike memberi #b",
+      " damage lebih."
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Pembalasan",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu kehilangan HP, dapatkan #b",
+      " #yGairah."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Kunci Ancang-ancang",
+    "DESCRIPTIONS": [
+      "Tidak dapat mengubah Ancang-ancang di giliran ini."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega",
+    "DESCRIPTIONS": [
+      "Di akhir giliranmu, berikan #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplikasi",
+    "DESCRIPTIONS": [
+      "Kartu berikutmu dimainkan dua kali di giliran ini.",
+      "#b kartu berikutmu",
+      " dimainkan dua kali di giliran ini."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Amukan mendidih",
+    "DESCRIPTIONS": [
+      "Masuki #yAmarah di awal giliranmu."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "di setiap awal giliranmu, dapatkan [W] ",
+      "di setiap awal giliranmu, dapakan [W] #b",
+      " kali ",
+      "dan naikkan ini #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Kemahatahuan",
+    "DESCRIPTIONS": [
+      "DEPERCATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Lambaian Tangan",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu mendapat #yBlok, Terapkan #b",
+      " #yLemah ke SEMUA musuh."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Puasa",
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, kalah ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED Disiplin",
+    "DESCRIPTIONS": [
+      "Bila kamu mengahiri giliran dengan sisa [W] , ambil segitu banyak kartu lebih di giliran berikutmu."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED Sentil",
+    "DESCRIPTIONS": [
+      "Setiap kali musuh ini di #ySentil #b",
+      "2 kali lagi, ia menerima #b",
+      "1 kali lagi, ia menerima #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Tertanda",
+    "DESCRIPTIONS": [
+      "Setiap kali #yTitik #yTekanan dimainkan, hilang #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Bagaikan Air",
+    "DESCRIPTIONS": [
+      "Di akhir giliranmu, bila kamu sedang #yTeduh, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Study": {
+    "NAME": "Mendalami",
+    "DESCRIPTIONS": [
+      "Do akhir giliranmu,acak #b",
+      " #yWawasan ke dalam dek ambilmu.",
+      " #yWawasan ke dalam dek ambilmu."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu Gali, dapatkan #b",
+      " #yBlok."
+    ]
+  }
+}

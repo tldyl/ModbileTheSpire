@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPasiva: Al final de cada turno, aumenta el daño de este Orbe en #b",
+      ". NL #yDescargar: Causa #b",
+      " de daño al enemigo con menos PV."
+    ],
+    "NAME": "Oscuridad"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Los Orbes se pueden Invocar en estos huecos."
+    ],
+    "NAME": "Espacio de Orbe"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPasiva: Al final de cada turno, gana #b",
+      " #yBloqueo. NL #yDescargar: Gana #b",
+      " #yBloqueo."
+    ],
+    "NAME": "Escarcha"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPasiva: Al final de cada turno, causa #b",
+      " de daño a un enemigo aleatorio. NL #yDescargar: Causa #b",
+      " de daño a un enemigo aleatorio."
+    ],
+    "NAME": "Relámpago"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPasiva: Al principio de cada turno, gana [B] . NL #yDescargar: Gana #b",
+      " [B] . NL El Plasma no se ve afectado por la #yConcentración."
+    ],
+    "NAME": "Plasma"
+  }
+}

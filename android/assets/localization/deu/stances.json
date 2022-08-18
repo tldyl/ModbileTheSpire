@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Zorn",
+    "DESCRIPTION": [
+      "Deine Angriffe fügen doppelten Schaden zu und du nimmst doppelten Schaden von Angriffen."
+    ]
+  },
+  "Calm": {
+    "NAME": "Ruhe",
+    "DESCRIPTION": [
+      "Erhalte beim Verlassen dieser #yHaltung [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Göttlichkeit",
+    "DESCRIPTION": [
+      "Erhalte beim Annehmen dieser #yHaltung [W] [W] [W] . Angriffe fügen dreifachen Schaden zu. Verlasse diese #yHaltung am Beginn deines nächsten Zuges."
+    ]
+  }
+}

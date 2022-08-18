@@ -1,0 +1,98 @@
+{
+    "Block Potion": {
+        "NAME": "WWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " #WWWWWW."
+        ]
+    },
+    "Dexterity Potion": {
+        "NAME": "WWWWWWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " #WWWWWWWWWW."
+        ]
+    },
+    "Elixir": {
+        "NAME": "WWWWWW",
+        "DESCRIPTIONS": [
+            "",
+            "",
+            "#WWWWWWWW WWW #WWWWWWW WWWWW WWWW WWWW WWWW.",
+            "",
+            "WW WWW WW WWWWWW..."
+        ]
+    },
+    "Energy Potion": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " WWWWWW."
+        ]
+    },
+    "Explosive Potion": {
+        "NAME": "WWWWWWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " WWWWWW WW WWW WWWWWWW."
+        ]
+    },
+    "Fire Potion": {
+        "NAME": "WWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " WWWWWW."
+        ]
+    },
+    "Health Potion": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " WW."
+        ]
+    },
+    "Poison Potion": {
+        "NAME": "WWWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWWW #W",
+            " #WWWWWWW."
+        ]
+    },
+    "Potion Slot": {
+        "NAME": "WWWWWW WWWW",
+        "DESCRIPTIONS": [
+            "WWW WWWWWWW WWWWWW WWWWWW WW WWWW #WWWWWWWW WW #WWWWWWW WWWWWWW.",
+            "WWWWWW WWWW"
+        ]
+    },
+    "Regen Potion": {
+        "NAME": "WWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " #WWW WW WWW WWW WW WWWW WWWW WWW #W",
+            " WWWWW."
+        ]
+    },
+    "Strength Potion": {
+        "NAME": "WWWWWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWW #W",
+            " #WWWWWWWWW."
+        ]
+    },
+    "Swift Potion": {
+        "NAME": "WWWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "",
+            "WWWW #W",
+            " WWWWW."
+        ]
+    },
+    "Weak Potion": {
+        "NAME": "WWWW WWWWWW",
+        "DESCRIPTIONS": [
+            "WWWWW #W",
+            " #WWWWW."
+        ]
+    }
+}

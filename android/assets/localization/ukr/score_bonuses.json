@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Алхімік",
+    "DESCRIPTIONS": [
+      "Придбали 5 зілль."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Вознесіння",
+    "DESCRIPTIONS": [
+      "+5% до рахунку за кожен рівень вознесіння."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Еліти вбито у Вирії",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Ще неперевершеніше",
+    "DESCRIPTIONS": [
+      "Вбито 3 князів без отримання шкоди."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Князів вбито",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Чемпіон",
+    "DESCRIPTIONS": [
+      "Вбито еліту без отримання шкоди."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Шахрай",
+    "DESCRIPTIONS": [
+      "Вас спіймали на шахрайстві. Якщо попадетесь двічі, ваш рахунок ніколи не завантажиться на лідерське табло."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Еліти вбито у Місті",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Колекціонер",
+    "DESCRIPTIONS": [
+      "Зібрали 4 копії будь-якої не початкової карти."
+    ]
+  },
+  "Combo": {
+    "NAME": "К-к-к-комбо",
+    "DESCRIPTIONS": [
+      "Зіграно 20 карт за один хід."
+    ]
+  },
+  "Curses": {
+    "NAME": "Прокляття!",
+    "DESCRIPTIONS": [
+      "У колоді 5 проклять."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Енциклопедист",
+    "DESCRIPTIONS": [
+      "У колоді принаймні 50 карт."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Еліти вбито при Воротах",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Серцеїд",
+    "DESCRIPTIONS": [
+      "Вбийте серце Вежі."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Горець",
+    "DESCRIPTIONS": [
+      "Колода не містить копій (за винятком початкових карт)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Мені подобається золото",
+    "DESCRIPTIONS": [
+      "Зібрали 3,000 золота."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Бібліотекар",
+    "DESCRIPTIONS": [
+      "У колоді принаймні 35 карт."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Зі швидкістю світла",
+    "DESCRIPTIONS": [
+      "Перемогли не більш ніж за 45 хв."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Мінімаліст",
+    "DESCRIPTIONS": [
+      "Вилучили більше п’яти карт з колоди."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Гроші-грошенята",
+    "DESCRIPTIONS": [
+      "Зібрали 1000 золота."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Машина таємниць",
+    "DESCRIPTIONS": [
+      "Побували у 15+ ? кімнат."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "На власних умовах",
+    "DESCRIPTIONS": [
+      "Вбили себе. Хах."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Надмірний удар",
+    "DESCRIPTIONS": [
+      "Завдано 99 шкоди однією атакою."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Жебрак",
+    "DESCRIPTIONS": [
+      "Зібрали 0 рідкісних карт."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Неперевершенo",
+    "DESCRIPTIONS": [
+      "Вбито Князя без отримання шкоди."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Какульки",
+    "DESCRIPTIONS": [
+      "Отримали какульки духів"
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Мажор",
+    "DESCRIPTIONS": [
+      "Зібрали 2000 золота."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Все те, що блищить",
+    "DESCRIPTIONS": [
+      "Зібрали 25 амулетів."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Скорогон",
+    "DESCRIPTIONS": [
+      "Перемогли за годину чи менше!"
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Обжиралівка",
+    "DESCRIPTIONS": [
+      "Збільшили макс. ОЗ на 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Ситий",
+    "DESCRIPTIONS": [
+      "Збільшили макс. ОЗ на 15+."
+    ]
+  }
+}

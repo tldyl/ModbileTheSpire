@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Aloud Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yArtefact."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Aanval Drankje",
+    "DESCRIPTIONS": [
+      "Kies #b1 uit #b3 willekeurige #yAanval kaarten om aan je hand toe te voegen, het kost #b0 deze beurt.",
+      "Kies #b1 uit #b3 willekeurige #yAanval kaarten en voeg er #2 toe aan je hand, ze kosten deze beurt #b0."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Blok Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yBlok."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Bloed Drankje",
+    "DESCRIPTIONS": [
+      "Genees voor #b",
+      "% van je Max LP."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Behendigheid Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yBehendigheid."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energie Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " Energie."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropisch Brouwsel",
+    "DESCRIPTIONS": [
+      "Vul al je lege drankjes sleuven met willekeurige drankjes."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Essentie van Staal",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yGepantserde #yBescherming."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Explosief Drankje",
+    "DESCRIPTIONS": [
+      "Richt #b",
+      " schade aan op ALLE vijanden."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Fee in een Fles",
+    "DESCRIPTIONS": [
+      "Als je dood zou gaan,in plaats daarvan genees #b.",
+      "van je Max LP en leg dit drankje af."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Angst Drankje",
+    "DESCRIPTIONS": [
+      "Pas #b",
+      " #yKwetsbaar toe."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Vuur Drankje",
+    "DESCRIPTIONS": [
+      "Richt #b",
+      " schade aan."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Focus Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yFocus."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruitsapje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " Max LP."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Gokkers Brouwsel",
+    "DESCRIPTIONS": [
+      "Leg elk gewenst aantal kaarten af en trek dan hetzelfde aantal kaarten."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Geest in een Pot",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yOntastbaar."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Levens Drankje",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Vloeibaar Brons",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yDoornen."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Gif Drankje",
+    "DESCRIPTIONS": [
+      "Pas #b",
+      " #yGif toe."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Drankjes Sleuf",
+    "DESCRIPTIONS": [
+      "Gebruik drankjes tijdens gevechten om #gbonussen te krijgen of om vijanden te #rhinderen.",
+      "Drankjes Sleuf"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Kracht Drankje",
+    "DESCRIPTIONS": [
+      "Kies #b1 uit #b3 willekeurige #yKracht kaarten om aan je hand toe te voegen, het kost #b0 deze beurt.",
+      "Kies #b1 uit #b3 willekeurige #yKracht kaarten en voeg er #b2 toe aan je hand, ze kosten deze beurt #b0."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Regeneratie Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yRegeneratie.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Vaardigheid Drankje",
+    "DESCRIPTIONS": [
+      "Kies #b1 uit #b3 willekeurige #yVaardigheid kaarten om aan je hand toe te voegen, het kost #b0 deze beurt.",
+      "Kies #b1 uit #b3 willekeurige #yVaardigheid kaarten en voeg er #b2 toe aan je hand, ze kosten deze beurt #b0."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Rookbom",
+    "DESCRIPTIONS": [
+      "Ontsnap van een niet-baas gevecht. Ontvang geen beloningen.",
+      "Ik ben Omsingeld!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Slecko Olie",
+    "DESCRIPTIONS": [
+      "Trek #b",
+      " kaarten. Maak de kost van elke kaart in je had Willekeurig",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Snelheid Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yBehendigheid. Aan het einde van je beurt, verlies #b",
+      " #yBehendigheid."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Flex Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #ySterkte. Aan het einde van je beurt, verlies #b",
+      " #ySterkte."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Sterkte Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #ySterkte."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Snel Drankje",
+    "DESCRIPTIONS": [
+      "",
+      "Trek #b",
+      " kaarten."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Zwak Drankje",
+    "DESCRIPTIONS": [
+      "Pas #b",
+      " #yZwakheid toe."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplicatie Drankje",
+    "DESCRIPTIONS": [
+      "In deze beurt wordt je volgende kaart twee keer gespeeld.",
+      "In deze beurt worden je volgende #b2 kaarten twee keer gespeeld."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Houding Drankje",
+    "DESCRIPTIONS": [
+      "Ga over in #yKalmte of #yWoede."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yPut elk gewenst aantal kaarten in je hand #yUit."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Hart van IJzer",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yMetaliseren."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Sluw Drankje",
+    "DESCRIPTIONS": [
+      "Voeg #b",
+      " #yMessen+ toe aan je hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Drankje van Capaciteit",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " Bol sleuven."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essentie van Duisternis",
+    "DESCRIPTIONS": [
+      "#yKanaliseer #b",
+      " #yDuistere voor elke Bol sleuf."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Gebottelde Mirakel",
+    "DESCRIPTIONS": [
+      "Voeg #b",
+      " #yMirakels toe aan je hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Ga over in #yGoddelijkheid #yHouding."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Gedestilleerde Chaos",
+    "DESCRIPTIONS": [
+      "Speel de bovenste #b",
+      " kaarten van je trekstapel."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Vloeiende Herinneringen",
+    "DESCRIPTIONS": [
+      "Kies een kaart in je aflegstapel en plaats het in je hand. Het kost #b0 deze beurt.",
+      "Kies #b",
+      " kaarten in je aflegstapel en plaats ze in je hand. Ze kosten #b0 deze beurt."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Sekte Drankje",
+    "DESCRIPTIONS": [
+      "Krijg #b",
+      " #yRitueel."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Kleurloos Drankje",
+    "DESCRIPTIONS": [
+      "Kies #b1 uit #b3 willekeurige #yKleurloze kaarten om toe te voegen aan je hand, het kost #b0 deze beurt.",
+      "Kies #b1 uit #b3 willekeurige #yKleurloze kaarten en voeg #b2 kopieën toe aan je hand, ze kosten #b0 deze beurt."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Zegen van de Smidse",
+    "DESCRIPTIONS": [
+      "Upgrade alle kaarten in je hand."
+    ]
+  }
+}

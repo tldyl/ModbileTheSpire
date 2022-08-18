@@ -1,0 +1,933 @@
+{
+  "Accursed Blacksmith": {
+    "NAME": "Złowroga Kuźnia",
+    "DESCRIPTIONS": [
+      "Wchodzisz do małej chatki. W środku wydaje znajdować się coś na kształt kuźni. Jej narzędzia pokryte są warstwą kurzu, a mimo to ogień pieca wciąż radośnie tańczy. Zastanawiasz się co z nią zrobić...",
+      "Decydujesz się na skorzystanie z kuźni i... NL #y@KLING@ #y@KLIING@ #y@KLING!@ NL ...usprawniasz swój arsenał!",
+      "Decydujesz się na przeszukanie tego miejsca. Po odkryciu wszystkich płacht, wywróceniu pudełek do góry nogami i sprawdzeniu każdego zakamarka, znajdujesz zakurzony #y~artefakt!~ ",
+      "Zaraz po tym jak nanosisz ostatnie poprawki, ogień z pieca rzuca się w twoją stronę i #r@przypala@ twoje ręce, zostawiając #r@paskudną@ #r@bliznę@...",
+      "NL NL Opuszczając chatkę nie możesz pozbyć się tego #r~dziwnego~ #r~przeczucia,~ że coś jest nie tak. Czujesz, że twoja decyzja zaburzyła spokój jakiejś siły wyższej...",
+      "Chatka wydaje się nie posiadać niczego przydatnego. Wychodząc, obserwujesz jak płomienie z pieca rzucają na ściany budynku #p~złowieszczo~ #p~wyglądający~ #p~cień~..."
+    ],
+    "OPTIONS": [
+      "[Wykuj] #gUlepsz #gkartę #gz #gtalii.",
+      "[Przeszukaj] #gOtrzymaj #gunikalny #gArtefakt. #rOtrzymaj #rKlątwę #r- #rBól.",
+      "[Odejdź]",
+      "Wybierz kartę do ulepszenia.",
+      "[Zablokowane] Wymagania: karta, którą można ulepszyć."
+    ]
+  },
+  "Addict": {
+    "NAME": "Dziad Proszalny",
+    "DESCRIPTIONS": [
+      "Podczas próby ominięcia grupy zakapturzonych postaci, jedna z nich zauważa cię i podchodzi do ciebie. NL \"Masz może coś dla mnie, przyjacielu?  Proszę... może kilka #yzłotych #ymonet?\" NL \"Potrzebuję jedynie miejsca na nocleg. Mam skarby, które mogę przehandlować...\" NL Wygląda na wariata, ale raczej nieszkodliwego.",
+      "\"O tak, ~taaak!~ Trzymaj, trzymaj. Uczciwa wymiana!\"",
+      "Wyrywasz mu z dłoni drogocenny #yArtefakt i odchodzisz. NL Z tyłu dobiega cię jego krzyk, NL \"Czy ty nie masz za grosz wstydu? ~ZA~ ~GROSZ~ ~WSTYYYDU?!\"~ NL Teraz już masz."
+    ],
+    "OPTIONS": [
+      "[Ofiaruj złoto] #y",
+      " #yszt. #yzłota: #gOtrzymaj #gArtefakt.",
+      "[Zablokowane] Wymagania: ",
+      " szt. złota.",
+      "[Okradnij] #gOtrzymaj #gArtefakt. #rOtrzymaj #rKlątwę #r- #rWstyd.",
+      "[Odejdź]",
+      "",
+      ""
+    ]
+  },
+  "Back to Basics": {
+    "NAME": "Antyczne Ryciny",
+    "DESCRIPTIONS": [
+      "Przemierzając miasto zauważasz ścianę pokrytą pismem #y~Starożytnych.~ W trakcie próby zrozumienia, co te zagadkowe symbole i glify mogą znaczyć, napis zaczyna się #b~świecić.~ NL Nagle zapiski stają się jasne...",
+      "Odpowiedzią jest elegancja. NL To oczywiste.",
+      "Prawda jest zawsze prosta."
+    ],
+    "OPTIONS": [
+      "[Elegancja] #gUsuń #gkartę #gz #gtalii.",
+      "[Prostota] #gUlepsz #gWSZYSTKIE #gkarty #gUderzeń #goraz #gObrony.",
+      "Wybierz kartę do usunięcia.",
+      "[Odejdź]"
+    ]
+  },
+  "Beggar": {
+    "NAME": "Stary Żebrak",
+    "DESCRIPTIONS": [
+      "Stary, przywdziany w futro żebrak wyciąga w twoją stronę dłoń. \"Poratujesz paroma sztukami złota, dziecko?\"",
+      "Żebrak wbija wzrok w ziemię. NL \"Nic nie zmienisz...  Tacy jak ty nigdy nic nie zmieniają.\"",
+      "Żebrak zdejmuje swoje odzienie, ukazując, że tak naprawdę jest #bKlerykiem! NL @\"Masz@ @dobre@ @serce.@ @Otrzymujesz@ @moje@ @oczyszczenie!\".@ NL Nie masz pewności, czy jest ci wdzięczny, czy po prostu szalony.",
+      "@\"Mam@ @nadzieję,@ @że@ @tym@ @razem@ @lepiej@ @ci@ @pójdzie,@ @przyjacielu\".@ NL Zastanawiając się, o co mogło mu chodzić, kontynuujesz podróż."
+    ],
+    "OPTIONS": [
+      "[Ofiaruj złoto] #y",
+      " #yszt. #yzłota: #gUsuń #gkartę #gz #gtalii.",
+      "[Zablokowane] Wymagania: ",
+      " szt. złota.",
+      "[Kontynuuj]",
+      "[Odejdź]",
+      "Wybierz kartę do usunięcia."
+    ]
+  },
+  "Big Fish": {
+    "NAME": "Przedostatnia Wieczerza",
+    "DESCRIPTIONS": [
+      "Idąc wzdłuż wyjątkowo długiego korytarza zauważasz #ybanana, #ypączka oraz #ypudełko, każde z nich ~lewitujące~ w powietrzu. Nie... po dokładniejszych oględzinach zauważasz, że zwisają one na cieniutkich sznurkach, wychodzących z otworów w stropie pomieszczenia. Gdy podchodzisz bliżej, z góry dobiega cichy @chichot.@ NL Co robisz?",
+      "Zjadasz #ybanana. Pożywny, nieco #bmagiczny. Przywraca utracone PŻ.",
+      "Zjadasz #ypączka. Jego słodycz cię wypełnia! Zwiększa maksymalne PŻ.",
+      "",
+      "Chwytasz pudełko. W środku znajdujesz #yArtefakt!",
+      " NL Z drugiej strony czujesz, że pączek byłby lepszym wyborem... NL Zamiast cukru wypełnia cię ~smutek,~ doprawiony poczuciem #rżalu."
+    ],
+    "OPTIONS": [
+      "[Banan] #gPrzywróć #g",
+      " #gPŻ.",
+      "[Pączek] #gMaksymalne #gPŻ #g+",
+      ".",
+      "[Pudełko] #gOtrzymaj #g1 #gArtefakt. #rOtrzymaj #rKlątwę #r- #rŻal.",
+      "[Odejdź]"
+    ]
+  },
+  "Bonfire Elementals": {
+    "NAME": "Duchy Paleniska",
+    "DESCRIPTIONS": [
+      "Natrafiasz na istoty wyglądające jak #ppurpurowe #pduchy #pognia, ~tańczące~ wokół potężnego paleniska. NL ",
+      "Istoty wrzucają małe kości i drobiazgi w ogień, który za każdym razem ~oślepiająco~ ~wybucha.~ NL Gdy podchodzisz, wszystkie duchy odwracają się w twoją stronę, jakby na coś czekały...",
+      "Wrzucasz jedną z kart w palenisko. NL NL ",
+      "Istoty nie są zadowolone, że ofiarowałeś #pKlątwę... Karta znika, zostawiając za sobą kłęby czarnego dymu. Otrzymujesz... #p~coś~ w zamian.",
+      "Nic się nie wydarzyło... NL Duchy wydają się ignorować twoją osobę. Rozczarowujące...",
+      "Palenisko nieznacznie się rozjaśniło. NL Duchy kontynuują swój rytuał. Czujesz wewnętrzne ciepło w ich obecności. NL #gPrzwrócono #b5 PŻ.",
+      "Ogień gwałtownie się wzmaga, rozświetlając okolicę! NL Pełne ekscytacji duchy tańczą wokół ciebie, wypełniając cię ~wewnętrznym~ ~ciepłem.~ NL #gPrzywrócono wszystkie PŻ.",
+      "Płomienie @gwałtownie@ @eksplodują,@ niemalże pozbawiając cię równowagi. NL Pełne radości duchy tańczą wokół ciebie, a następnie ~łączą~ ~się~ ~z~ ~twoim~ ~ciałem,~ wypełniając cię wewnętrznym ciepłem i energią. NL #gPrzywrócono wszystkie PŻ oraz zwiększono ich maksymalną liczbę o #b10."
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Odejdź]",
+      "[Ofiaruj] Otrzymaj nagrodę zależną od ofiarowanej karty.",
+      "Wybierz kartę do złożenia w ofierze."
+    ]
+  },
+  "Cursed Tome": {
+    "NAME": "Przeklęta Księga",
+    "DESCRIPTIONS": [
+      "W opuszczonej świątyni znajdujesz ogromną księgę, otwartą i upstrzoną #p@zagadkowymi@ #p@symbolami.@ NL NL Gdy próbujesz rozszyfrować ten zawiły tekst, wyrazy zaczynają #b~zmieniać~ #b~położenie~ i #b~przekształcać~ całość w znany ci język.",
+      "Dziwne. Księga wydaje się mówić o #yStarożytnej, zwanej #yNeow. NL NL To przykuwa twoją uwagę, ale ogarnia cię #p~niemoc.~",
+      "Starożytna Bogini Życia, #yNeow, została wygnana na najniższe piętro Iglicy. NL NL Czujesz, że musisz kontynuować lekturę, pomimo #r~bólu~ w całym ciele.",
+      "Szukając zemsty, #yNeow błogosławi przybyłych, używając ich do własnego celu. NL NL Czujesz, że ogarnia cię #r~słabość~ #r~i~ #r~zmęczenie...~",
+      "Ci, którzy wskrzeszeni zostali przez #yNeow, pamiętają tylko fragmenty swojej przeszłości, przeklęci by walczyć wiecznie. NL NL Czytając ostatnie strony, czujesz, że twoje #r@stare@ #r@rany@ #r@zaczynają@ #r@się@ #r@otwierać!@",
+      "Po ukończeniu lektury postanawiasz zabrać księgę ze sobą. Zastanawiasz się czy z dowodem w swych dłoniach, zdołasz utrzymać swoje wspomnienia...",
+      "Wychodzisz, wyczuwając #p~mroczną~ #p~energię~ #p~emanującą~ z księgi.",
+      "Dzięki niesamowitemu wysiłkowi i sile woli, opierasz się zaklęciu księgi i zamykasz ją z @TRZASKIEM.@ NL Odwracasz się i wychodzisz ze świątyni, czując potworne #b~zmęczenie...~"
+    ],
+    "OPTIONS": [
+      "[Czytaj]",
+      "[Kontynuuj] #rUtrać #r1 #rPŻ.",
+      "[Kontynuuj] #rUtrać #r2 #rPŻ.",
+      "[Kontynuuj] #rUtrać #r3 #rPŻ.",
+      "[Przestań] #rUtrać #r3 #rPŻ.",
+      "[Zabierz] #gOtrzymaj #gKsięgę. #rUtrać #r",
+      " #rPŻ.",
+      "[Odejdź]"
+    ]
+  },
+  "Dead Adventurer": {
+    "NAME": "Martwy Podróżnik",
+    "DESCRIPTIONS": [
+      "W trakcie przeszukiwania dobytku martwego podróżnika powraca bestia, która najprawdopodobniej zabiła nieszczęśnika.",
+      "Bezszelestnie wymykasz się z tego miejsca.",
+      "Napotykasz leżącego na ziemi #rmartwego #rpodróżnika. NL Ktoś ukradł mu #bspodnie! Dodatkowo, ",
+      "jego pancerz i twarz zostały #r@osmalone@ #r@przez@ #r@ogień.@ ",
+      "wygląda, na to, że został #r@rozpruty@ #r@i@ #r@zadeptany@ przez jakąś rogatą bestię. ",
+      "wygląda, na to, że został #r@wypatroszony@ #r@i@ #r@posiekany@ gigantycznym szponami. ",
+      "NL Mimo tego, że jego #yekwipunek #yjest #yw #ynienaruszonym #ystanie, nie masz zamiaru dowiadywać się co go zabiło ...",
+      "Znajdujesz trochę #yzłota! NL Kontynuować przeszukiwanie?",
+      "Hmm, tylko graty... NL Kontynuować przeszukiwanie?",
+      "Znajdujesz #yArtefakt! Kontynuować przeszukiwanie?",
+      "Udało ci się przeszukać cały ekwipunek, pozostając w jednym kawałku!"
+    ],
+    "OPTIONS": [
+      "[Przeszukaj] #gZnajdź #głup. #r",
+      "[Odejdź]",
+      "[Walcz]",
+      "[Kontynuuj] #gZnajdź #głup. #r",
+      "%: #rbestia #rpowraca."
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Naukowiec",
+    "DESCRIPTIONS": [
+      "Podchodzi do ciebie mężczyzna z przepaską na oku i demonicznym uśmiechem. NL \"Witaj, nieznajomy. Masz ochotę na odrobinkę zaawansowanej nauki? Mogę uczynić cię silniejszym niż trening czy dowolne błogosławieństwo. Na pewno ci się przyda w twojej bohaterskiej i samobójczej misji.\" NL NL ~\"Więc~ ~co~ ~powiesz?\"~",
+      "~\"Doskonale.\"~ NL Tajemniczy mężczyzna wręcza ci podejrzanie wyglądającą strzykawkę, wypełnioną #b~świecącym~ #b~płynem,~ po czym znika w ciemnej alejce.",
+      "~\"Wspaniale.\"~ NL Tajemniczy mężczyzna wstrzykuje ci trzy zagadkowe substancje i wyciąga notatnik. Po chwili zaczynasz odczuwać silne zawroty głowy, a kątem oka dostrzegasz jak mężczyzna gorączkowo sporządza notatki. NL Gdy odzyskujesz zmysły, spostrzegasz, że tajemniczy mężczyzna zniknął.",
+      "~\"Cudownie.\"~ NL Wypijasz tajemniczą substancję. Natychmiastowo ogarnia cię uczucie orzeźwienia, a twoje mięśnie mimowolnie @drżą.@"
+    ],
+    "OPTIONS": [
+      "[Przetestuj J.A.X.] #gOtrzymaj #gJ.A.X.",
+      "[Zostań obiektem testowym] #gPodmień #g2 #gkarty.",
+      "[Wypij mutagen] #gOtrzymaj #gunikalny #gArtefakt.",
+      "[Odejdź]",
+      "[Zablokowane] Wymagania: przynajmniej 2 karty w talii.",
+      "Wybierz karty do podmiany."
+    ]
+  },
+  "Duplicator": {
+    "NAME": "Powielacz",
+    "DESCRIPTIONS": [
+      "Natrafiasz na misternie ozdobioną kapliczkę poświęconą jakiemuś nieznanemu bóstwu.",
+      "Klękasz z szacunkiem. Dziwne, lustrzane odbicie wyłania się z kapliczki, po czym scala się z twoim ciałem.",
+      "Ignorujesz kapliczkę nie przejmując się nieznanymi siłami."
+    ],
+    "OPTIONS": [
+      "[Módl się] #gDuplikuje #gwybraną #gkartę #gz #gtalii.",
+      "[Odejdź]",
+      "Wybierz kartę do zduplikowania."
+    ]
+  },
+  "Falling": {
+    "NAME": "Przepaść",
+    "DESCRIPTIONS": [
+      "Zmierzając w górę, przeskakujesz z jednej lewitującej struktury na drugą, gdy nagle się potykasz. NL NL Zaczynasz spadać.",
+      "W trakcie lotu myślisz o tym, jak wyjść z tej sytuacji: NL Wylądować korzystając z nabytych umiejętności. NL Przekierować całą swoją moc i przygotować się na zderzenie. NL Wyprowadzić cios w ścianę i zatrzymać się na niej.",
+      "Otrzymujesz najwyższe noty za styl przy lądowaniu, po czym ruszasz dalej.",
+      "Zbierasz niewykorzystane wcześniej pokłady energii, aby wylądować bez szwanku.",
+      "Udaje ci się zatrzymać na ścianie, a potem odbić w stronę najbliższej stabilnej platformy.",
+      "Opadasz w dół powoli jak piórko, aż lądujesz na dnie bez żadnego zadraśnięcia."
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Wyląduj] #rUtrać ",
+      "[Zablokowane] Wymagania: karta Umiejętności",
+      "[Przekieruj] #rUtrać ",
+      "[Zablokowane] Wymagania: karta Mocy",
+      "[Uderz] #rUtrać ",
+      "[Zablokowane] Wymagania: karta Ataku",
+      "[Odejdź]",
+      "[Wyląduj] "
+    ]
+  },
+  "Forgotten Altar": {
+    "NAME": "Zapomniany Ołtarz",
+    "DESCRIPTIONS": [
+      "Widzisz przed sobą ołtarz jakiegoś zapomnianego bóstwa. NL Na ołtarzu stoi bogato zdobiona figura kobiety z rozpostartymi ramionami. NL Wzywa ciebie, żądając ofiary.",
+      "Gdy ostrożnie kładziesz bożka na ołtarzu, zrywa się #bzimny wiatr. NL Ramiona kobiecej figury zaczynają zmieniać kolor i kruszyć się. NL NL #yZłoty #yBożek blednie, a z jego oczu zaczynają płynąć strużki krwi. NL Krwawienie nigdy nie ustaje.",
+      "Stajesz na ołtarzu i nacinasz sobie nadgarstki. NL Gdy #rkrew dotyka powierzchni ołtarza, figura wyciąga ręce i zakrywa ci oczy. NL Wszystko wokół znika w ciemności. NL Budzisz się jakiś czas później, czując w sobie nowy potencjał.",
+      "Bierzesz zamach i rozbijasz figurę, rozpraszając urok, który rzuciło na ciebie to miejsce. NL Mroczny lament rozbrzmiewa wokół, czujesz #p~przeklętą~ #p~magię~ przenikającą twoje ciało."
+    ],
+    "OPTIONS": [
+      "[Ofiaruj Złotego bożka] #gOtrzymaj #gunikalny #gArtefakt. #rUtrać #rZłotego #rbożka.",
+      "[Zablokowane] Wymagania: Złoty bożek.",
+      "[Ofiara] #gOtrzymaj #g",
+      " #gmaksymalnych #gPŻ. #rUtrać #r",
+      " #rPŻ.",
+      "[Zablokowane] Wymagania: człowieczeństwo.",
+      "[Zniszcz] #rOtrzymaj #rKlątwę #r- #rRozkład."
+    ]
+  },
+  "Fountain of Cleansing": {
+    "NAME": "Boskie Źródło",
+    "DESCRIPTIONS": [
+      "Natrafiasz na wartki #b~strumień~ #b~wody~ wypływający z niewielkiej fontanny.",
+      "Pijąc tę #b~wodę,~ czujesz jak #pmrok opuszcza twoje ciało.",
+      "Nie mając pewności, co do pochodzenia wody, kontynuujesz podróż. Z drażniącą suchością w gardle."
+    ],
+    "OPTIONS": [
+      "[Napij się] #gUsuń #gwszystkie #gKlątwy #gz #gtalii.",
+      "[Odejdź]"
+    ]
+  },
+  "Ghosts": {
+    "NAME": "Rada Duchów",
+    "DESCRIPTIONS": [
+      "W pewnym momencie twojej wspinaczki #p~gęsty~ , #p~czarny~ #p~dym~ zaczyna wydobywać się spod ziemi oraz ze ścian wokół ciebie. Po chwili kłębowisko zaczyna przeobrażać się w trzy zamaskowane postacie które zwracają się w twoją stronę. NL NL ~\"Kolejna~ ~marionetka~ #y~Neow.\"~ NL #r@\"PRAWDA!@ #r@ONA@ #r@TWORZY@ #r@NAJLEPSZE@ #r@ZABAWKI!\"@ NL NL Pod maską trzeciej postaci zauważasz przesadnie szeroki uśmiech. NL \"Zignoruj ich... Nie masz może ochoty posmakować naszej #y~mocy?\"~ ",
+      "",
+      "#y\"Doskonale!\" NL Gdy zjawa wypowiada te słowa, jej usta rozwierają się coraz szerzej i szerzej. #p~Gęsty~, #p~czarny~ #p~dym~ wypełnia pomieszczenie, spowijając okolicę w mroku. Czujesz, że nie możesz złapać oddechu... NL NL Na ułamek przed utratą przytomności, przedziwne uczucie znika. NL NL Duchowe istoty, czymkolwiek one były, zniknęły bez śladu. Ruszasz dalej, czując w środku niewytłumaczalną #bpustkę.",
+      "\"Żałosne...\" NL ~\"Wkrótce~ ~do~ ~nas~ ~dołączysz,~ ~śmiertelniku.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Postacie znikają, pozostawiając jedynie irytujący, dudniący w uszach, śmiech.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Zgódź się] #gOtrzymaj #g5 #gkart #gDuchowej #gformy. #rUtrać #r",
+      " #rmaksymalnych #rPŻ.",
+      "[Odmów]",
+      "[Zgódź się] #gOtrzymaj #g3 #gkarty #gDuchowej #gformy. #rUtrać #r",
+      "",
+      "[Odejdź]"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Złoty Bożek",
+    "DESCRIPTIONS": [
+      "Natrafiasz na niepozornie wyglądający piedestał z #ybłyszczącym #yzłotym #ybożkiem. Wygląda na wartościowego. NL NL Na pierwszy rzut oka, brak śladu jakichkolwiek pułapek.",
+      "Kiedy podnosisz figurkę, wielki głaz przebija sklepienie i ląduje obok ciebie. NL Uświadamiasz sobie, że podloga jest pochyła, a ogromny kamień zaczyna się toczyć w twoją stronę.",
+      "@W@ @NOGIIIIIIII!@ NL W ostatniej chwili udaje ci się uskoczyć w boczną alejkę. Niestety wygląda na to, że zwichnąłeś kostkę.",
+      "Stajesz głazowi na drodze, zapierając się z całych sił. Po odzyskaniu przytomności wstajesz, kuśtykając w stronę wyjścia.",
+      "@MLASK!@ NL Mijający cię głaz przygniata cię boleśnie, ale poza kilkoma złamanymi żebrami, udaje ci się wyjść z tej sytuacji bez szwanku.",
+      "Gdyby istniało coś takiego jak oczywista pułapka, to byłoby to. NL Decydujesz się zostawić to miejsce w spokoju."
+    ],
+    "OPTIONS": [
+      "[Weź] #gOtrzymaj #gZłotego #gbożka. #rUruchamiasz #rpułapkę.",
+      "[Odejdź]",
+      "[Uciekaj] #rOtrzymaj #rKlątwę #r- #rKontuzja.",
+      "[Zatrzymaj go] #rUtrać #r",
+      " #rPŻ.",
+      "[Przylgnij do ściany] #rUtrać #r",
+      " #rmaksymalnych #rPŻ."
+    ]
+  },
+  "Golden Shrine": {
+    "NAME": "Złota Kapliczka",
+    "DESCRIPTIONS": [
+      "Natrafiasz na ciekawie wyglądającą kapliczkę poświęconą starożytnemu duchowi. ",
+      "Gdy dotykasz kapliczki, ze sklepienia zaczyna sypać się #yzłoto, NL ~otulając~ ~cię~ ~bogactwem.~ ",
+      "Z każdym ciosem z kapliczki wystrzeliwują coraz większe strumienie #yzłota! NL NL Gdy zapełniasz kieszenie monetami czujesz, że coś #rciąży #rci #rna #rsumieniu.",
+      "Ignorujesz kapliczkę."
+    ],
+    "OPTIONS": [
+      "[Módl się] #gOtrzymaj #g",
+      " #gszt. #gzłota.",
+      "[Zniszcz] #gOtrzymaj #g250 #gszt. #gzłota. #rOtrzymaj #rKlątwę #r- #rŻal.",
+      "[Odejdź]"
+    ]
+  },
+  "Golden Wing": {
+    "NAME": "Skrzydlata Statua",
+    "DESCRIPTIONS": [
+      "W gruzowisku zauważasz intrygującą, przypominającą skrzydło, statuę o niebieskiej barwie. NL Dostrzegasz wysypujące się z jej szczelin #yzłoto. Może w środku jest go więcej...",
+      "Przypominasz sobie opowieści o jakimś kulcie czczącym wielkiego ptaka. Gdy klękasz przed statuą, czujesz ~ogarniającą~ ~cię~ ... ~senność.~ NL NL Budzisz się jakiś czas później, czując się nadzwyczaj lekko.",
+      "Bierzesz zamach i uderzasz statuę z całej siły. NL Po jakimś czasie jej zewnętrzna warstwa @kruszy@ @się,@ ukazując #ygórę #yzłota. Zabierasz tyle, ile możesz i kontynuujesz swoją podróż.",
+      "Figura wywołuje u ciebie pewien podświadomy ~niepokój.~ Omijasz ją szerokim łukiem."
+    ],
+    "OPTIONS": [
+      "[Módl się] #gUsuń #gkartę #gz #gtalii. #rUtrać #r",
+      " #rPŻ.",
+      "[Zniszcz] #gZyskaj #g",
+      " #g- #g",
+      " #gszt. #gzłota.",
+      "[Zablokowane] Wymagania: karta zadająca ",
+      " lub więcej pkt. obrażeń.",
+      "[Odejdź]",
+      "[Kontynuuj]",
+      "Wybierz kartę do usunięcia."
+    ]
+  },
+  "Knowing Skull": {
+    "NAME": "Wszechwiedząca Czaszka",
+    "DESCRIPTIONS": [
+      "Znajdujesz się w starej, zdobionej komnacie. W jej centrum, na kunsztownym piedestale, leży sporych rozmiarów czaszka. Gdy się do niej zbliżasz, czaszka #g@staje@ #g@w@ #g@płomieniach,@ po czym zwraca się w twoją stronę.",
+      "\"CZEGO PRAGNIESZ? CO OFERUJESZ?\" NL Wraz z jej ostatnimi słowami, drzwi za tobą @zatrzaskują@ @się.@",
+      " NL NL \"COŚ JESZCZE?\"",
+      " ",
+      "\"WYPIJ!\" NL Otrzymujesz miksturę.",
+      "\"MOŻE TO CI POMOŻE?\" NL Otrzymujesz kartę.",
+      "\"WY, ŚMIERTELNICY, NIGDY SIĘ NIE ZMIENICIE.\" NL Obsypuje cie #yzłoto!",
+      "\"ZA TOBĄ, ŚMIERTELNIKU.\" NL Zerkasz do tyłu i faktycznie, to otwarte drzwi."
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      " #rPŻ.",
+      "[Informacji?] #gOdkryj #gBossa. #rUtrać #r",
+      "[Sukcesu?] #gOtrzymujesz #gbezbarwną #gkartę. #rUtrać #r",
+      "[Wzocnienia?] #gOtrzymaj #gmiksturę. #rUtrać #r",
+      "[Bogactwa?] #gOtrzymaj #g",
+      " #gszt. #gzłota. #rUtrać #r",
+      "[Wyjścia stąd?] #rUtrać #r",
+      "[Odejdź]"
+    ]
+  },
+  "Lab": {
+    "NAME": "Laboratorium",
+    "DESCRIPTIONS": [
+      "Natrafiasz na pomieszczenie wypełnione probówkami, zlewkami, kolbami, pęsetami, klamrami zaciskowymi, mieszadełkami, szczypcami, goglami, lejkami, pipetami, cylindrami, chłodnicami i zauważasz nawet rzadką spiralną kolbę laboratoryjną. NL NL Skąd w ogóle znasz nazwy tych wszystkich obiektów? NL Nie ma to znaczenia, bo i tak rozglądasz się po pokoju."
+    ],
+    "OPTIONS": [
+      "[Przeszukaj] #gZnajdź #gkilka #gmikstur!"
+    ]
+  },
+  "Liars Game": {
+    "NAME": "Gadzina",
+    "DESCRIPTIONS": [
+      "Przechodząc przez pomieszczenie widzisz dziurę w ziemi. Gdy podchodzisz bliżej, wyłania się z niej ogromne stworzenie, wyglądem przypominające węża. NL NL ~\"Ho~ ~ho!~ ~Proszę,~ ~proszę!~ ~Co~ ~my~ ~tu~ ~mamy?~ Witaj podróżniku. Zadam ci prossste pytanie. NL Najbardziej sssatysfakcjonujące życie to takie, w którym możesz sobie pozwolić na #y~wszyssstko!~ NL Zgadzasz ssssię ze mną?\"",
+      "~\"Dossskonale!~ NL ~To~ ~jest~ ~tego~ ~warte.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+      "Stworzenie patrzy na ciebie z ogromnym rozczarowaniem.",
+      "Stworzenie odchyla w tył głowę, z której wystrzeliwuje strumień #yzłotych #ymonet! NL To zarazem niesamowity, jak i przerażający widok. NL Zbierasz w pośpiechu całe #yzłoto, dziękujesz gadzinie i kontynuujesz podróż."
+    ],
+    "OPTIONS": [
+      "[Zgódź się] #gOtrzymaj #g",
+      " #gszt. #gzłota. #rOtrzymaj #rKlątwę #r- #rZwątpienie.",
+      "[Nie zgódź się]",
+      "[Kontynuuj]",
+      "[Odejdź]"
+    ]
+  },
+  "Living Wall": {
+    "NAME": "Żywa Ściana",
+    "DESCRIPTIONS": [
+      "Ślepy zaułek! Odwracasz się, żeby zawrócić. Nagle z góry z @łoskotem@ spada ściana, zagradzając drogę! NL NL Z trzech stron wyłaniają się twarze i mówią: NL #b\"Zapomnij #bo #bczym #bwiesz #bi #bwolność #bswą #bodbierz.\" NL #p\"Do #pprzejścia #pzmiana #pjest #pwymagana.\" NL #y\"Jeżeli #ychcesz #ymnie #yominąć, #ymusisz #ysię #yrozwinąć.\"",
+      "Usatysfakcjonowana, ściana unosi się, odblokowując drogę."
+    ],
+    "OPTIONS": [
+      "[Zapomnij] #gUsuń #gkartę #gz #gtalii.",
+      "[Zmień się] #gPodmień #gkartę #gz #gtalii.",
+      "[Rozwiń się] #gUlepsz #gkartę #gz #gtalii.",
+      "Wybierz kartę do usunięcia.",
+      "Wybierz kartę do podmiany.",
+      "Wybierz kartę do ulepszenia.",
+      "[Odejdź]",
+      "[Zablokowane] Wymagania: karta, którą można ulepszyć."
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Zamaskowani Bandyci",
+    "DESCRIPTIONS": [
+      "He he.. Dzięki za #yzłoto! NL Oh, jak ja kocham #yzłote #ymonety. Są takie piękne. NL #y~Błyszczące~ cudeńka!",
+      "Hej, #bNiedźwiedziu! NL Ten gość oddał nam całe swoje #yzłoto! Co za frajer. NL Wystarczyło tylko poprosić. No kto by się spodziewał?! NL Ja z pewnością się tego nie spodziewałem! Co za typ!",
+      "Poświęćmy minutę, aby się pośmiać z tej cudownej okazji! NL @Haha@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+      "Och? Dalej tu jesteś? NL Słyszałeś coś? Tak myślałem. NL #r@*pfff*@ ~...frajer....~ @Hahaha@ ~haaah~",
+      "Napotykasz grupę bandytów odzianych w #rczerwone #rmaski. NL \"Witam, aby przejść musisz zostawić... rozsądną sumkę. @CAŁE@ twoje #yzłoto powinno starczyć! He he!\""
+    ],
+    "OPTIONS": [
+      "[Zapłać] #rUtrać #rCAŁE swoje #yzłoto.",
+      "[Walcz!]",
+      "[Kontynuuj]",
+      "[Odejdź]"
+    ]
+  },
+  "Match and Keep!": {
+    "NAME": "Dopasuj i Zabierz!",
+    "DESCRIPTIONS": [
+      "\"Mam #bdwanaście kart! Dopasuj je, aby zabrać je ze sobą! #bPięć prób, zero powtórek. NL To co, tasujemy?\"",
+      "Po zakończeniu gry spoglądasz przed siebie. NL Gremlin rozpłynął się w powietrzu.",
+      "Siedzący przy stole gremlin zręcznie tasuje leżącą przed nim talię. Wygląda na nieszkodliwego. Z zaciekawieniem podchodzisz do stolika."
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Odejdź]",
+      "[Graj]",
+      "Pozostałe próby: #y"
+    ]
+  },
+  "Mushrooms": {
+    "NAME": "Grzybki",
+    "DESCRIPTIONS": [
+      "Poddajesz się tej nienaturalnej żądzy. Jedząc grzyba za grzybem, czujesz jak świat zaczyna wirować, a potem mdlejesz. Po przebudzeniu czujesz, że coś jest z tobą nie tak. NL #gOdzyskujesz #b25% PŻ, ale łapiesz też #rinfekcję.",
+      "#r@Zasadzka!@ NL Znikąd pojawiają się ogromne, zainfekowane grzybem szczury!",
+      "Natrafiasz na korytarz wypełniony #b~hipnotyzująco~ #b~kolorowymi~ #b~grzybami.~ NL Żaden z ciebie mykolog, więc nie jesteś w stanie rozpoznać tego gatunku. NL Chcesz stąd odejść, ale czujesz niepohamowaną żądzę zjedzenia pięknego #b~grzyba...~"
+    ],
+    "OPTIONS": [
+      "[Rozdepcz] #rRozgniewasz #rgrzyby.",
+      "[Zjedz] #gPrzywróć #g",
+      " #gPŻ. #rOtrzymaj #rKlątwę #r- #rPasożyt.",
+      "[Walcz]",
+      "[Odejdź]"
+    ]
+  },
+  "Mysterious Sphere": {
+    "NAME": "Tajemnicza Sfera",
+    "DESCRIPTIONS": [
+      "Natrafiasz na sterczącą z ziemi tajemniczą, kościaną sferę. W jej wnętrzu znajduje się, otoczony zjawiskową poświatą, obiekt. NL Podczas gdy ciekawość każe ci zajrzeć do środka, spostrzegasz kilku nieruchomych wartowników, uważnie pilnujących sfery.",
+      "Gdy tylko dotykasz obiektu, nieruchomi wartownicy budzą się do życia!",
+      "Co za dużo, to niebezpiecznie."
+    ],
+    "OPTIONS": [
+      "[Otwórz sferę] #rPotyczka. #gNagroda: #grzadki #gArtefakt.",
+      "[Odejdź]",
+      "[Walcz]"
+    ]
+  },
+  "N'loth": {
+    "NAME": "N'loth",
+    "DESCRIPTIONS": [
+      "Dziwna istota z garbem z którego wyrasta kilka macek, grzebie w znajdującej się przed tobą stercie śmieci i odpadków. Gdy się do niej zbliżasz, stworzenie podczłapuje do ciebie. NL \"N'loth głodny. Nakarm N'loth'a.\"",
+      "Gdy wyciągasz #yartefakt w jego stronę, N'loth wyrywa ci go z rąk swymi mackami, i wężowym sposobem połyka go w całości. NL Uśmiecha się do ciebie szeroko, szczerząc zęby. Spod jego płaszcza wyłaniają się kolejne macki, trzymające niemalże nienaruszone pudełko. Wciska ci je w dłonie i odchodzi.",
+      "Zaprzeczasz ruchem glowy. N'loth garbi się nawet bardziej, znacząco wzdycha i odchodzi."
+    ],
+    "OPTIONS": [
+      "[Ofiaruj: ",
+      "] #rUtrać #rten #rArtefakt. #gOtrzymaj #gunikalny #gArtefakt.",
+      "[Odejdź]"
+    ]
+  },
+  "Proceed Screen": {
+    "DESCRIPTIONS": [
+      "[Odejdź]"
+    ]
+  },
+  "Purifier": {
+    "NAME": "Oczyszczenie",
+    "DESCRIPTIONS": [
+      "Natrafiasz na ciekawie ozdobioną kapliczkę, poświęconą nieznanemu bóstwu.",
+      "Klękasz, oddając mu szacunek. Czujesz jak wewnętrzny ciężar spada z twoich barków.",
+      "Ignorujesz kapliczkę."
+    ],
+    "OPTIONS": [
+      "[Módl się] #gUsuń #gkartę #gz #gtalii.",
+      "[Odejdź]",
+      "Wybierz kartę do usunięcia."
+    ]
+  },
+  "Scrap Ooze": {
+    "NAME": "Złomoglut",
+    "DESCRIPTIONS": [
+      "Wchodząc do pomieszczenia słyszysz ~bulgot~ oraz @zgrzyt@ metalu. Widzisz przed sobą szlamową istotę, która zjadła zdecydowanie za dużo żelastwa. NL Z wnętrza istoty wydobywa się dziwne światło, czyżby czegoś magicznego? Być może uda ci się wydobyć ze stwora coś #ywartościowego, jeżeli tylko sięgniesz do... środka. Jednakże, żrąca maź i ostre kawałki mogą cię #rzranić.",
+      "#r@Szlag!@ NL Wszystko co zyskujesz to bezużyteczny, zardzewiały metal i #r@piekący@ #r@ból@ ręki. NL Coś jednak ci mówi, że w środku z pewnością znajduje się #yArtefakt...",
+      "#gSukces! NL Po przedarciu się przez metal i żrącą maź, udaje ci się pochwycić #yArtefakt. NL Wyciągasz #rpoparzoną rękę ze szlamu, wraz z artefaktem.",
+      "Decydujesz się odejść. NL Szlam nie zwraca na ciebie uwagi, zadowolony ze swojego życia."
+    ],
+    "OPTIONS": [
+      "[Sięgnij do środka] #rUtrać #r",
+      " #rPŻ. #g",
+      "%: #gZnajdź #gArtefakt.",
+      "[Odejdź]",
+      "[Głębiej] #rUtrać #r"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "Sekretny Portal",
+    "DESCRIPTIONS": [
+      "Wędrując poprzez obcy krajobraz natrafiasz na niecodzienny, nawet jak na to miejsce, widok. W jednej z żywych ścian Pogranicza znajduje się ogrodzone wejście za którym #p~kłębi~ #p~się~ #p~magiczny~ #p~portal.~ NL NL Nie masz pojęcia dokąd prowadzi, ale być może przyspieszy twoją podróż przez Iglicę.",
+      "Wskakując w portal czujesz, że pojęcia czasu i przestrzeni kompletnie się zacierają, tworząc jednolitą masę. NL NL Gdy orientujesz się w swoim nowym położeniu, zdajesz sobię sprawę, że nie jesteś tu sam i zaraz czeka cię walka z potężnym przeciwnikiem.",
+      "Ostrożność i rozwaga zawsze wygrywają. Ignorujesz portal, kontynuując wyprawę."
+    ],
+    "OPTIONS": [
+      "[Przejdź przez portal] Natychmiast przenieś się do bossa.",
+      "[Odejdź]"
+    ]
+  },
+  "SensoryStone": {
+    "NAME": "Kamień doznań",
+    "DESCRIPTIONS": [
+      "Przemierzając Pogranicze natrafiasz na @wirujący@ w powietrzu #bpołyskujący #bhipersześcian o ~zmiennej~ strukturze.",
+      "Dotykasz go. NL NL Czujesz jak #r@ostry@ #r@ból@ przechodzi przez twoje ciało, poprzedzając jaskrawe przebłyski odległych wspomnień. NL Nie masz pojęcia do kogo należą...",
+      "#r~STRACH.~ NL NL Demoniczna kreatura górując na tobą, rozkłada szeroko skrzydła i zanosi się ryczącym śmiechem. Otaczają cię trupy współplemieńców, a twoją wioskę pochłaniają #p~mroczne~ #p~płomienie.~ NL NL Demon zwracia się do ciebie, jednocześnie szydząc. NL NL \" #r@TERAZ@ #r@RZECZYWIŚCIE@ #r@JESTEŚ@ #r@TU@ #r@NAJSILNIEJSZY!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Jego śmiech nie ma końca... ",
+      "#g~TRIUMF.~ NL NL Błoto pochłania szczątki #p~duchowej~ #p~istoty,~ ledwo widoczne w blasku księżyca. Udowodniłaś, że jesteś równa swoim siostrom. NL NL Przyjmując zwycięską pozę, w ciszy czekasz na dalszą część ceremonii, podczas której pozostali ukoronują cię #yczaszką #ypoległego #ystworzenia. Pakt został zawarty. NL NL Kierujesz się w stronę Iglicy...",
+      "#b~ZAMĘT.~ NL NL #y[CEL] #gRÓWNOWAGA #gmusi #gzostać #gZACHOWANA NL #y[ZDEFINIUJ] #gRÓWNOWAGA NL #y[BŁĄD] #gRÓWNOWAGA #gNIE #gODNALEZIONA NL #y[ZDEFINIUJ] #gRÓWNOWAGA NL #y[BŁĄD] #gRÓWNOWAGA #gNIE #gODNALEZIONA NL #y[OSTRZEŻENIE] #rZbliża #rsię #rduży #robiekt NL NL ~\"Jestem...~ ~...Neow...\"~",
+      "#p~SPOKÓJ.~ NL NL Dwa prymitywne stworzenia walczą o padlinę na poboczu drogi. Obserwujesz bez emocji. NL #yObserwuj. #yZapamiętuj. #yŻyj. To jest misja Obserwatorów. NL NL Niedawno jeden z twoich kompanów przestał raportować o swoim przydziale: Iglica niewiadomego pochodzenia. NL NL Gdy walka dobiega końca, kontynuujesz podróż nieporuszona krwawą sceną, która właśnie miała miejsce."
+    ],
+    "OPTIONS": [
+      "[Przypomnij] #gDodaj #g1 #gbezbarwną #gkartę #gdo #gswojej #gtalii.",
+      "[Przypomnij] #gDodaj #g2 #gbezbarwne #gkarty #gdo #gswojej #gtalii. #rUtrać #r",
+      "[Przypomnij] #gDodaj #g3 #gbezbarwne #gkarty #gdo #gswojej #gtalii. #rUtrać #r",
+      " #rPŻ.",
+      "[Odejdź]",
+      "[Dotknij]"
+    ]
+  },
+  "Shining Light": {
+    "NAME": "Jaśniejące światło",
+    "DESCRIPTIONS": [
+      "Natrafiasz na migotliwą #ykoncentrację #yświatła, znajdującą się w centrum pomieszczenia. NL NL ~Ciepły~ ~blask~ i ~hipnotyzujące~ ~wzory~ zapraszają cię do środka.",
+      "Wchodząc w światło, zauważasz, że wsiąka ono w ciebie. NL #r@Parzy@ #r@cię!@ Ból jednak szybko mija. NL Czujesz #bożywienie, jak po siarczystym, ale zasłużonym, policzku.",
+      "Wolisz nie ryzykować i odchodzisz, wzdrygając się na myśl o tym, co złego mogłoby cię spotkać."
+    ],
+    "OPTIONS": [
+      "[Wejdź] #gUlepsz #g2 #glosowe #gkarty. #rUtrać #r",
+      " #rPŻ.",
+      "[Odejdź]",
+      "[Zablokowane] Wymagania: karty, które można ulepszyć."
+    ]
+  },
+  "Spire Heart": {
+    "NAME": "Serce Iglicy",
+    "DESCRIPTIONS": [
+      "@Du-dum@ ... @du-dum@ ... @du-dum@ ... NL Głęboki, pulsujący strach przenika całe pomieszczenie... NL Czy to #r~serce~ Iglicy? Źródło wszelkiego zła?",
+      "Zadajesz #b",
+      " pkt. obrażeń! NL Serce #r@skręca@ #r@się@ i #r~krwawi~ ...ale ostatecznie, wciąż bije. NL Czyżby twoje najpotężniejsze ataki okazały się niewystarczające?",
+      "Zadajesz sobie pytanie: ~\"Czy~ ~ja~ ~tu~ ~już~ ~byłem?\"~ NL Czujesz, że sercu zadałeś łącznie #b",
+      " pkt. obrażeń.",
+      " NL Łącznie zadano #b",
+      " pkt. obrażeń przez wszystkich, którzy się z nim zmierzyli.",
+      " NL Słyszysz jak serce bije coraz głośniej i głośniej. #y~Tracisz~ #y~przytomność...~",
+      "NL Szykujesz swój miecz...",
+      "NL Szykujesz swoje ostrza...",
+      "NL Ładujesz swój rdzeń...",
+      "Zadajesz sobie pytanie: ~\"Czy~ ~ja~ ~tu~ ~już~ ~byłem?\"~",
+      " NL Słyszysz jak serce bije coraz głośniej i głośniej. #p~Zaczynasz~ #p~tracić~ #p~przytomność...~",
+      " NL Wewnątrz siebie czujesz nagły przypływ #y@energii,@ która #b@pobudza@ cię do działania.",
+      " NL Serce #gwycofuje #gsię ku górze! Na jego miejscu pojawiają się duże drzwi.",
+      "NL Napełniasz swoją laskę boską mocą..."
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Atakuj] #b???",
+      "[Śpij]",
+      "[Podejdź do drzwi]"
+    ]
+  },
+  "The Cleric": {
+    "NAME": "Kleryk",
+    "DESCRIPTIONS": [
+      "Nietuzinkowy, niebieski humanoid w złotym hełmie(?) podchodzi do ciebie, nieustannie się uśmiechając. NL @\"Witaj@ @przyjacielu!@ Jestem #bKlerykiem! Może zainteresują cię moje usługi?!\" – wykrzyknęła ta przedziwna istota.",
+      "Ciepły, złoty promień światła przenika twoje ciało, po czym się rozprasza. NL Istota szeroko się uśmiecha. \"Kleryk to najlepszy uzdrowiciel. @Miłego@ @dnia!\"@",
+      "Chłodny, niebieski płomień przenika twoje ciało, po czym się rozprasza. NL Istota szeroko się uśmiecha. \"Kleryk jest utalentowany. @Miłego@ @dnia!\"@",
+      "Nie ufasz temu całemu #b\"Klerykowi\" i idziesz dalej."
+    ],
+    "OPTIONS": [
+      "[Ulecz] #y35 #yszt. #yzłota: #gPrzywróć #g",
+      "[Zablokowane] Wymagania: ",
+      " szt. złota.",
+      "[Oczyść] #y",
+      " #yszt. #yzłota: #gUsuń #gkartę #gz #gtalii.",
+      "[Zablokowane] Wymagania: 50 szt. złota.",
+      "[Odejdź]",
+      "Wybierz kartę do usunięcia.",
+      " #gPŻ."
+    ]
+  },
+  "The Joust": {
+    "NAME": "Pojedynek",
+    "DESCRIPTIONS": [
+      "Przechodząć przez ogromne pomieszczenie docierasz do wąskiego i długiego mostu. Spostrzegasz, że na każdym z jego końców stoi rycerz. Podchodzisz... NL @\"Stać!\"@ NL NL Rycerz, wymachując swoją lancą, zmusza cię do zatrzymania się.",
+      "\"Dziś jest dzień wyrównania rachunków z #rmordercą mojego ukochanego pupila #yKluska. Dlatego też nie możesz przejść dalej. NL NL Ale może zechesz #bpostawić na tego, kto według ciebie, wyjdzie cało z tego pojedynku?\"",
+      "\"Nie mogę uwierzyć, że obstawiasz przeciwko #yKluskowi!\" NL NL Wściekły, opuszcza przyłbicę i szarżuje na swego przeciwnika.",
+      "\"Mój #yKlusku, daj mi siłę!\" NL NL Rycerz opuszcza przyłbicę i szarżuje naprzód.",
+      "NL #y@*TRZASK!!!*@ #r@*BRZDĘK!!!*@ NL NL #g@*ŁUP!*@",
+      "Morderca został zgładzony. NL NL ",
+      "Rycerz zginął. NL NL ",
+      " #gWygrywasz zakład. Nie wiedząc co o tym myśleć, zabierasz swoją wygrana i odchodzisz.",
+      " #rPrzegrywasz zakład. Odchodzisz z lżejszą sakiewką, ale przynajmniej żywy."
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Morderca] #yPostaw #y",
+      " #gszt. #gzłota - #g70% #gszans #gna #gzwycięstwo #g",
+      " #gszt. #gzłota.",
+      "[Rycerz] #yPostaw #y",
+      " #gszt. #yzłota - #g30% #gszans #gna #gzwycięstwo #g",
+      "[Oglądaj]",
+      "[Odejdź]"
+    ]
+  },
+  "The Library": {
+    "NAME": "Biblioteka",
+    "DESCRIPTIONS": [
+      "Natrafiasz na bogato zdobiony budynek, który wydaje się być opuszczony. NL Zauważasz leżącą na ziemi tabliczkę, najprawdopodobniej oderwaną od ściany. Widnieje na niej napis: #b\"BIBLIOTEKA\". NL Wewnątrz znajdujesz niezliczone ilości zwojów, manuskryptów i książek. NL Wybierasz jedeną z nich i rozsiadasz się wygodnie w krześle, aby zaznać chwili relaksu.",
+      "Czytanie jest dla głąbów. NL Zamiast walczyć z analfabetyzmem, zasypiasz na wygodnym krześle. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Budzisz się wypoczęty.",
+      "Tom opowiada historię nastolatki, która potrafi kontrolować owady i marzy o zostaniu bohaterką. Książka wypełniona jest nowatorskimi sposobami wykorzystania jej mocy, strategiami potyczek oraz ciekawymi przemyśleniami. NL Satysfakcjonujące.",
+      "Tom opowiada historię mężczyzny, który wyruszył w podróż przez gwiazdy i utknął na odludnej obcej planecie. Pomysłowość, szczęście, wytrwałość oraz zdrowy rozsądek umożliwiły mu powrót do domu. NL Fascynujące.",
+      "Tom opowiada historię, która rozgrywa się w ogromnym podziemnym bunkrze, po tym jak na powierzchni nie dało się już przeżyć. Powieść grzęźnie w spiskach, propagandzie i niesprawiedliwości. Zastanawiasz się czy w Iglicy nie dzieje się pdoobnie. NL Niepokojące."
+    ],
+    "OPTIONS": [
+      "[Czytaj] #gWybierz #g1 #gz #g20 #gkart #gi #gdodaj #gją #gdo #gtalii.",
+      "[Śpij] #gPrzywróć #g",
+      " #gPŻ.",
+      "[Odejdź]",
+      "Dodaj kartę do talii."
+    ]
+  },
+  "The Mausoleum": {
+    "NAME": "Mauzoleum",
+    "DESCRIPTIONS": [
+      "Przemierzając kolejne grobowce, natrafiasz na ogromny sarkofag ~wysadzany~ ~klejnotami,~ stojący na samym środku okrągłego pomieszczenia. NL Nie możesz odczytać zapisanych na nim inskrypcji, ale dostrzegasz #p~czarną~ #p~mgłę~ wydobywającą się z niego.",
+      "Otwierasz sarkofag. Ze środka wydobywa się #p~czarna~ #p~mgła~ i wypełnia całe pomieszczenie! Wewnątrz, zamiast ciała znajdujesz #y~Artefakt.~ Zabierasz go i #rgwałtownie #rkaszląc, ruszasz w dalszą drogę.",
+      "Otwierasz sarkofag. Mgła rozwiewa się. Wewnątrz znajdujesz szczątki zasłużonego żołnierza. Jego dłonie są zaciśnięte na tajemniczym #yArtefakcie. Wydzierasz go z rąk zmarłego i uciekasz.",
+      "Kontynuujesz swoją podróż, zostawiając w spokoju zapomnianych przez ten podły świat."
+    ],
+    "OPTIONS": [
+      "[Otwórz sarkofag] #gOtrzymaj #g1 #gArtefakt. #r",
+      "% #rszansy #rna #rKlątwę #r- #rCierpienie.",
+      "[Odejdź]"
+    ]
+  },
+  "The Moai Head": {
+    "NAME": "Głowa Moai",
+    "DESCRIPTIONS": [
+      "Natrafiasz na *bardzo* dziwne pomieszczenie. Ze ściany o parę kroków przed tobą wyłania się wielka, kamienna głowa. NL Jej usta są szeroko otwarte i odsłaniają ogromne zęby, dosłownie skąpane we krwi. Powierzchnia głowy upstrzona jest rycinami, które wskazują na to, że ludzie wskakują w usta, aby dać się pożreć. Pytanie brzmi – czemu?",
+      "W pierwszej chwili nie dzieje się nic. Gdy zaczynasz się zastanawiać nad podjętą decyzją, ogromny trzonowiec opada z impetem, miażdżąc cię. NL @Ciemność.@ NL Jakiś czas później, przez gęste opary mroku przebija się niewielka strużka światła, a ty słyszysz dźwięk powoli unoszących się kamiennych zębów. NL NL NL Dalej próbujesz ogarnąć co się właśnie stało.",
+      "Odskakujesz nerwowo po tym, jak potężne trzonowce zamieniają figurkę w drobny pył. Gdy zęby zaczynają się unosić widzisz strużki #yzłota wysypujące się z ust. Zgarniasz je do sakiewki i odchodzisz.",
+      "Odchodzisz, zastanawiając się, co by było gdyby."
+    ],
+    "OPTIONS": [
+      "[Wskocz] #gPrzywróć #gutracone #gPŻ. #rUtrać #r",
+      " #rmaksymalnych #rPŻ.",
+      "[Ofiaruj Złotego bożka] #gOtrzymaj #g333 #gszt. #gzłota. #rUtrać #rZłotego #rbożka.",
+      "[Zablokowane] Wymagania: Złoty bożek.",
+      "[Odejdź]"
+    ]
+  },
+  "The Woman in Blue": {
+    "NAME": "Kobieta w Błękicie",
+    "DESCRIPTIONS": [
+      "Z ciemności wyłania się ręka, która wciąga cię do małego sklepu. W środku dostrzegasz bladą, schludnie ubraną kobietę wskazującą na ścianę pełną mikstur. NL \"Kup miksturę. Teraz!\"",
+      "\"Dobra... a teraz wynocha.\" NL Ostrożnie wychodzisz ze sklepu.",
+      "#r@ŁUP@ NL Okryta rękawiczką dłoń uderza cię w twarz, nieomal zwalając cię z nóg. NL \"Wynoś się, zanim pomaluję ścianę twoimi wnętrznościami.\" Wierzysz jej na słowo i wychodzisz z wnętrznościami nadal w twoim ciele."
+    ],
+    "OPTIONS": [
+      "[Kup 1 miksturę] #y",
+      "[Kup 2 mikstury] #y",
+      "[Kup 3 mikstury] #y",
+      " #yszt. #yzłota",
+      "[Odejdź]",
+      "[Odejdź] #rUtrać #r",
+      " #rPŻ."
+    ]
+  },
+  "Thinking with Puddles": {
+    "NAME": "Łamigłówka z Kałużami",
+    "DESCRIPTIONS": [
+      "Wchodzisz w połyskującą kałużę... i wypadasz z sufitu zaraz nad nią! NL Podczas spadku rozważasz swoje opcje.",
+      "W panice wymachujesz rękoma i starasz wykorzystać się wszystkie znane ci sztuczki, aby uniknąć upadku. Jednakże znowu wpadasz w kałużę... i znowu... i znowu. Minęło kilka dni zanim udało ci się wydostać. Naprawdę żałosne.",
+      "Starasz się wylądować, ale z powodu kuriozalnej pozycji, nie możesz zrobić tego dobrze. @ŁUP@ NL NL ...leżysz tak przez dłuższą chwilę, przeklinając istnienie kałuż, zarówno tych zwykłych jak i magicznych."
+    ],
+    "OPTIONS": [
+      "[Ogłupienie] #rUtrać #rlosową #rrzadką #rkartę.",
+      "[Wyląduj twarzą] #rUtrać #r",
+      " #rPŻ. #rOtrzymaj #rKlątwę #r- #rKontuzja.",
+      "[Odejdź]"
+    ]
+  },
+  "Tomb of Lord Red Mask": {
+    "NAME": "Krypta Czerwonej Maski",
+    "DESCRIPTIONS": [
+      "Po drugiej stronie lewitującej ścieżki zauważasz misternie ozdobioną kryptę. Po dotarciu do niej, twoje oko przykuwa otwór na #yzłote #ymonety z wydrapaną powyżej inskrypcją – niestety, zupełnie nieczytelną.",
+      "Zakładasz maskę i krypta ~rozpływa~ ~się...~ ukazując sekretne przejście! NL NL Korytarz wypełniony jest niezliczoną ilością skradzionych dóbr i górami #yzłotych #ymonet!",
+      "W ścianie otwiera się skrytka, w której znajduje się niewielka, czerwona maska z dołączoną do niej notatką: NL \"Zabierz innym, tak jak ja odbieram tobie!\""
+    ],
+    "OPTIONS": [
+      "[Załóż Czerwoną maskę] #gOtrzymaj #g222 #gszt. #gzłota.",
+      "[Zablokowane] Wymagania: Czerwona maska.",
+      "[Ofiaruj: ",
+      " szt. złota] #rUtrać #rcałe #rzłoto. #gOtrzymaj #gArtefakt.",
+      "[Odejdź]"
+    ]
+  },
+  "Transmorgrifier": {
+    "NAME": "Zmiennokarty",
+    "DESCRIPTIONS": [
+      "Natrafiasz na intrygującą kapliczkę poświęconą nieznanemu bóstwu.",
+      "Czujesz jak przez twoje ciało przepływa strumień mocy, zmieniając twój sposób myślenia.",
+      "Ignorujesz kapliczkę."
+    ],
+    "OPTIONS": [
+      "[Módl się] #gPodmień #gkartę.",
+      "[Odejdź]",
+      "Wybierz kartę do podmiany."
+    ]
+  },
+  "Upgrade Shrine": {
+    "NAME": "Dobrodziej",
+    "DESCRIPTIONS": [
+      "Natrafiasz na intrygującą kapliczkę, poświęconą nieznanemu bóstwu.",
+      "Czujesz jak przez twoje ciało przepływa strumień mocy, czyniąc cię potężniejszym.",
+      "Ignorujesz kapliczkę."
+    ],
+    "OPTIONS": [
+      "[Módl się] #gUlepsz #gkartę.",
+      "[Odejdź]",
+      "Wybierz kartę do ulepszenia.",
+      "[Zablokowane] Wymagania: karta, którą można ulepszyć."
+    ]
+  },
+  "Vampires": {
+    "NAME": "Wampiry(?)",
+    "DESCRIPTIONS": [
+      "Idąc wzdłuż spowitej mrokiem ulicy, dostrzegasz grupę zakapturzonych postaci, odprawiających jakiś mroczny rytuał. Gdy się zbliżasz, jednocześnie zwracają się w twoją stronę. Najwyższy z nich obnaża długie kły i wyciąga w twoją stronę chudą, bladą rękę. NL ~\"Dołącz~ ~do~ ~nas~ ~bracie~ ~i~ ~poczuj~ ~żar~ ~Iglicy.\"~",
+      "Idąc wzdłuż spowitej mrokiem ulicy, dostrzegasz grupę zakapturzonych postaci, odprawiających jakiś mroczny rytuał. Gdy się zbliżasz, jednocześnie zwracają się w twoją stronę. Najwyższy z nich obnaża długie kły i wyciąga w twoją stronę chudą, bladą rękę. NL ~\"Dołącz~ ~do~ ~nas~ ~siostro~ ~i~ ~poczuj~ ~żar~ ~Iglicy.\"~",
+      "Wysoka postać chwyta cię za ramię, błyskawicznie przyciąga do siebie i zatapia kły w twojej szyi. Czujesz, że @mroczna@ @moc@ wlewa się w ciebie i @rozchodzi@ po całym ciele. NL ... NL Budzisz się. Nikogo wokół. Potworny ~głód~ nie daje o sobie zapomnieć. NL #rŁakniesz #rkrwi...",
+      "Cofasz się wznosząc broń w powietrze. Wysoka postać wzdycha. \"Jak sobie życzysz.\" Grupa zakapturzonych postaci przemienia się w gęstą, czarną mgłę, która natychmiast odpływa. NL Nikogo wokół.",
+      "Blade postacie wzdrygają, gdy wyjmujesz #yfiolkę #yz #ykrwią. NL ~\"Krew~ ~Pana...~ ~Krew~ ~Pana!~ @KREW@ @PANA!\"@ NL Wszyscy zaczynają żarliwie skandować, a wysoka postać kłania ci się nisko. NL \"Wypij jego krew i stań się jednością z #y~Nim.\"~ NL Skandowanie przybiera na sile. Wypijasz całą zawartość fiolki. Pochłania cię mrok. NL NL Budzisz się. Nikogo wokół. Potworny ~głód~ nie daje o sobie zapomnieć. NL #rŁakniesz #rkrwi...",
+      "Idąc wzdłuż spowitej mrokiem ulicy, dostrzegasz grupę zakapturzonych postaci, odprawiających jakiś mroczny rytuał. Gdy się zbliżasz, jednocześnie zwracają się w twoją stronę. Najwyższy z nich obnaża długie kły i wyciąga w twoją stronę chudą, bladą rękę. NL ~\"Dołącz~ ~do~ ~nas~ ~wadliwcze~ ~i~ ~poczuj~ ~żar~ ~Iglicy.\"~"
+    ],
+    "OPTIONS": [
+      "[Zgódź się] #gUsuń #gkarty #gUderzeń. #gZyskaj #g5 #gkart #gUgryzień. #rUtrać #r",
+      "% #rmaksymalnych #rPŻ.",
+      "[Odmów]",
+      "[Utrać – ",
+      "] #gUsuń #gkarty #gUderzeń. #gZyskaj #g5 #gkart #gUgryzień.",
+      "[Odejdź]"
+    ]
+  },
+  "Wheel of Change": {
+    "NAME": "Koło Lepszej Zmiany",
+    "DESCRIPTIONS": [
+      "Natrafiasz na dostojnie wyglądającego gremlina. NL \"Czas puścić koło w ruch! Jesteś ~G~ ~O~ ~T~ ~Ó~ ~W~ ~?~ Oczywiście, że jesteś!\"",
+      "\"Wygrywasz trochę błyszczącego #yZŁOTA! NL HURRA!\"",
+      "\"Och, cóż za #gprezent! NL Miłej zabawy!\"",
+      "\"Darmowe #guleczenie, tylko dla ciebie!\"",
+      "\"Wygląda na to, że wygrywasz #pKlątwę! NL To przykre. NL Więcej szczęścia następnym razem!\"",
+      "\"Przerażające siły #r~mroku...~ NL Wybierz kartę, którą chcesz usunąć z talii!\"",
+      "\"O o! NL Przegrywasz!\" NL Zauważasz, że gremlin wyciąga swój sztylet...",
+      "Bierzesz zamach na szalonego gremlina, ale jest zbyt szybki! NL Trafia cię parokrotnie swoim prostackim sztyletem. NL \"Transakcja została dokonana!\" NL krzyczy goblin, po czym znika wraz z kołem w kłębach dymu."
+    ],
+    "OPTIONS": [
+      "[Graj]",
+      "[Nagroda!] HURRA!",
+      "[Nagroda!] #gOtrzymaj #gArtefakt.",
+      "[Nagroda!] #gPrzywróć #gutracone #gPŻ.",
+      "[Nagroda?] #rKlątwa #r- #rRozkład.",
+      "[Nagroda!] #gUsuń #gkartę #gz #gtalii.",
+      "[Nagroda?] #rUtrać #r",
+      " #rPŻ.",
+      "[Odejdź]",
+      "Wybierz kartę do usunięcia."
+    ]
+  },
+  "Winding Halls": {
+    "NAME": "Kręte Korytarze",
+    "DESCRIPTIONS": [
+      "Z każdym krokiem w głąb krętych korytarzy czujesz, że coraz bardziej gubisz drogę, a ściany zmieniają swoje położenie na twoich oczach. NL NL Te #pszepty z tyłu głowy również nie pomagają.",
+      "Mijając konstrukcję, którą na pewno widziałeś wcześniej, zadajesz sobie pytanie czy nie popadasz w obłęd. Musisz coś zrobić i to prędko. NL NL Tak przecież mówią te #pszepty, a one nie kłamią, co nie?",
+      "Coś w tobie pęka. NL NL Tylko prawdziwy szaleniec jest w stanie zrozumieć to miejsce. Poddajesz się więc tajemniczym szeptom, obierając #p~\"nową\"~ perspektywę. NL Wszystko wokół zaczyna nagle mieć sens.",
+      "Zatrzymujesz się i ostrożnie analizujesz to abstrakcyjnie zaprojektowane otoczenie. Nagle zaczynasz dostrzegać schematy wyłaniające się z tego bezkresu losowości. Gdy te przeklęte szepty starają się ci przeszkodzić, stawiasz im mentalny opór. NL NL Po wielu trudach odnajdujesz właściwą ścieżkę, prowadzącą do wyjścia. Czujesz, że nikczemne moce Iglicy nie mają już na ciebie wpływu.",
+      "Wydaje ci się, że spędzisz wieczność w tym labiryncie. Powoli, lecz pewnie odtwarzasz przebytą już drogę zyskując pewność, że jednak się stąd wydostaniesz. NL NL Czujesz straszne #r~wyczerpanie~ po tym przeżyciu."
+    ],
+    "OPTIONS": [
+      "...",
+      "[Popadnij w obłęd] #gOtrzymaj #g2 #gkarty #gSzaleństwa. #rUtrać #r",
+      " #rPŻ.",
+      "[Skup się] #rOtrzymaj #rKlątwę #r- #rCierpienie. #gPrzywróć #g",
+      "[Odejdź]",
+      " #gPŻ.",
+      "[Odtwórz przebytą drogę] #rUtrać #r",
+      " #rmaks. #rPŻ."
+    ]
+  },
+  "World of Goop": {
+    "NAME": "Bagno",
+    "DESCRIPTIONS": [
+      "Wpadasz w kałużę. NL @TO@ #g@SZLAMOWY@ #g@GLUT!@ NL Rozpaczliwie próbujesz wygrzebać się z niego, czując jak powoli zaczyna palić twoją skórę. NL Czujesz maź w uszach, nosie, ABSOLUTNIE WSZĘDZIE. NL NL Po wydostaniu się zauważasz, że brakuje ci trochę #yzłota. Zaglądając w kałużę spostrzegasz swoje zagubione monety, razem ze #yzłotem innych pechowych podróżników.",
+      "Mimo piekącego bólu oraz powoli roztapiającej się skóry, udaje ci się wyłowić utracone #yzłoto.",
+      "Decydujesz, że to paskudztwo nie jest tego warte."
+    ],
+    "OPTIONS": [
+      "[Zbierz złoto] #gOtrzymaj #g",
+      " #gszt. #gzłota. #rUtrać #r",
+      " #rPŻ.",
+      "[Zostaw je] #rUtrać #r",
+      " #rszt. #rzłota.",
+      "[Odejdź]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Rozkwit Umysłu",
+    "DESCRIPTIONS": [
+      "Podczas podróży przez Iglicę, nagle zaczynasz się czuć bardzo... #p~prawdziwie...~ NL NL Wyobrażenia #rpotworów i #ybogactw zaczynają się maifestować. NL Czujesz, że to uczucie jest bardzo przelotne. Co robisz?",
+      "Czy to naprawdę jest takie proste?",
+      "Wszystko ma teraz sens. NL Utrata wspomnień, wspinaczka, #yStarożytny. NL NL Zawsze tak było. NL Zawsze tak będzie. NL I niedługo wszystko zostanie zapomniane ponownie..."
+    ],
+    "OPTIONS": [
+      "[Jestem Wojną] #rWalcz #rz #rBossem #rz #rAktu #r1. #gOtrzymaj #grzadki #gArtefakt.",
+      "[Jestem Bogaczem] #gOtrzymaj #g999 #gszt. #gzłota. #rOtrzymaj #r2. #rKlątwy #r- #rPrzeciętność.",
+      "[Jestem Okazem Zdrowia] #gPrzywróć #gutracone #gPŻ. #rOtrzymaj #rKlątwę #r- #rZwątpienie.",
+      "[Jestem Przebudzony] #gUlepsz #gWSZYSTKIE #gkarty. #rNie #rmożesz #rjuż #rprzywracać #rPŻ.",
+      "[Odejdź]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Gniazdo",
+    "DESCRIPTIONS": [
+      "Widzisz długą kolejkę #b~zakapturzonych~ #b~postaci~ wchodzących do NL #pniesamowitej #pkatedry.",
+      "Oczywiście, dołączasz do kolejki i szybko wtapiasz się w tłum #rkultystów! NL Ignorują cię, radośnie @skandując@ i ~wymachując~ swoją bronią. NL NL #r@\"MORD!!@ #r@MORD@ #r@MORD!!\"@ NL #b~\"KAA~ #b~KA~ #b~KAAAAA!\"~ NL #r@\"MORD!@ #r@MORD@ #r@MORD!!\"@ NL #b~\"KAA~ #b~KA~ #b~KAAAAAAW!!\"~ NL NL Spostrzegasz skrzynkę na #ydatki...",
+      "Postanawiasz zostać w kolejce (ze strachu), żeby zobaczyć co się stanie. NL NL W końcu stajesz twarzą w twarz z przywódcą. Dobrze ubrany kultysta wręcza ci #yozdobny #ysztylet. Jak pozostali przed tobą, nacinasz skórę na ramieniu i pozwalasz krwi ściec do poskręcanej czary. NL NL Kultyści @skandują@ and @wrzeszczą@ do ciebie! NL NL #b~\"KAA~ #b~KA~ #b~KAAAAAA!!\"~ NL NL Także skandujesz, bo czemu nie?",
+      "Nawet nie zauważyli.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Zostań] #gOtrzymaj Rytualny Sztylet. #rUtrać #r",
+      " #rPŻ.",
+      "[Okradnij] #gOtrzymaj #g",
+      " #gszt. #gzłota.",
+      "[Odejdź]",
+      "[Kontynuuj]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Handlarz Twarzami",
+    "DESCRIPTIONS": [
+      "Mijasz upiorną, sześcioramienną statuę trzymającą kilka masek... NL Nagle coś za tobą łagodnie szepcze, NL ~\"Stój.\"~",
+      "Gwałtownie okręcasz się i stajesz przed statuą, która teraz spogląda na ciebie! NL Przy bliższej inspekcji, zauważasz, że to nie statua, ale nieruchomy i wychudzony mężczyzna. Czy on w ogóle oddycha? NL NL ~\"Twarz.~ ~Pozwolisz~ ~mi~ ~dotknąć?~ ~Może~ ~wymienimy~ ~się?\"~",
+      "~\"Zadośćuczynienie?~ ~Zadośćuczynienie.\"~ NL Mechanicznym ruchem sięga do sporej sakwy ze #yzłotem i wciską ci ją w dłonie. NL NL ~\"Jaka~ ~ładna~ ~twarz.~ ~Ładna~ ~twarz.\"~ NL Gdy cię dotyka, czujesz jak wypływa z ciebie życie! NL Nagle z jego twarzy opada maska i rozbija się na ziemi. Krzycząc, szybko stara się zasłonić swoją twarz, wszystkimi sześcioma ramionami, gubiąc przy tym kilka kolejnych masek! Uciekasz pośród krzyku i dźwięku tłuczących się masek. NL NL Jego twarz była zupełnie pusta.",
+      "~\"Dla~ ~mnie?~ @DLA@ @MNIE?@ ~O~ ~tak..~ ~Tak.~ ~Tak..~ ~mmm...\"~ NL NL Spostrzegasz mgnienie jego ramienia i swoją twarz w jego dłoni! Twoja twarz została podmieniona. NL NL ~\"Ładna~ ~twarz.~ ~Ładna~ ~twarz.\"~",
+      "~\"Stój.~ ~Stój.~ ~Stój.~ ~Stój.~ ~Stój.\"~ NL NL To była prawdopodobnie właściwa decyzja."
+    ],
+    "OPTIONS": [
+      "[Pozwól] #rUtrać #r",
+      " #gszt. #gzłota.",
+      "[Wymiana] #g50%: #gDobra #gTwarz. #r50%: #rZła #rTwarz.",
+      "[Odejdź]",
+      "[Kontynuuj]",
+      " #rPŻ, #gotrzymaj #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "Wiadomość dla Siebie",
+    "DESCRIPTIONS": [
+      "Zauważasz luźną cegłę w filarze, który przyciągnął twoją uwagę.",
+      "W środku znajdujesz złożoną kartkę oraz #ykartę. Rozkładasz notatkę i czytasz, NL \"Serce czeka.\" NL NL To twój charakter pisma.",
+      "Wybierz kartę do przechowania.",
+      "Co się dzieje?"
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Weź i zostaw] #gOtrzymaj ",
+      " #gi #gzostaw #gkartę.",
+      "[Ignoruj]",
+      "[Odejdź]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "Znów się Spotykamy!",
+    "DESCRIPTIONS": [
+      "\"Znów się spotykamy!\" NL Wesoły, rozczochrany człowieczek podchodzi do ciebie radośnie. Nie znasz go. NL NL \"To ja, #yRanwid! Masz coś dzisiaj dla mnie? To co zwykle? Gość taki jak ja, nie da rady sam, wiesz?\" NL Spoglądasz na niego podejrzliwie i rozważasz swoje opcje...",
+      "\"Wyśmienicie! Strasznie mnie suszyło.\" NL #b~Gul~ #b~gul~ #b~gul~ NL NL Opróżnia miksturę za jednym zamachem i satysfakcjonująco @beka.@",
+      "\"Znakomicie! Przyda się, gdy znowu wpadnę na tych #rzakapiorów #rw #rczerwonych #rmaskach.\"",
+      "\"Niesamowicie! Przestudiuję to dokładniej w swojej izbie.\"",
+      "\" @Aaaaahh!!@ Czasami jesteś takim strasznym dupkiem!\" NL Wziął nogi za pas.",
+      "  NL NL Przetrząsa swoje rozliczne kieszenie... NL \"Patrz co mam dziś dla ciebie! Bierz to, bierz to!\""
+    ],
+    "OPTIONS": [
+      "[Daj miskturę] #rUtrać ",
+      "[Zablokowane] Wymagania: mikstura.",
+      "[Daj złoto] #rUtrać #r",
+      "[Zablokowane] Wymagania: 50 szt. złota.",
+      "[Daj kartę] #rUtrać ",
+      "[Zablokowane] Wymagania: karta.",
+      ". #gOtrzymaj #gArtefakt.",
+      "[Zaatakuj]",
+      "[Odejdź]",
+      " #rszt. #rzłota."
+    ]
+  },
+  "Designer": {
+    "NAME": "In-Spirujący Twórca",
+    "DESCRIPTIONS": [
+      "Odkrywasz #g~kolorowy~ sklepik z szyldem \"IN-SPIRACJE\". Wchodzisz do środka, będąc ciekaw co tam ujrzysz. NL \"O nie, nie ma mowy. Nie, nie możesz tu wejść!\" NL NL Dziwacznie ubrany mężczyzna pojawia się przy wejściu i zagradza ci drogę.",
+      "\"To niemożliwe, nie, nie. Co to za styl? @Odrażające!@ Czy ty #rkrwawisz? #p~Obrzydliwe.~ @Biznes??@ Jesteś klientem? Dobra. ~Wszystko~ ~jedno.\"~ NL Wzdycha przesadnie i wskazuje na listę swoich usług. NL NL Usługi wyglądają w porządku, ale masz ogromną ochotę zetrzeć z jego twarzy ten uśmieszek samozadowolenia.",
+      "\"OK, na razie.\" NL NL ...trzeba go było walnąć.",
+      "Cios był tak silny, że aż rozbolała cię pięść. NL \"Moja @TWARZ!!@ Teraz muszę-\" NL NL Zemdlał. Kto jest teraz #p~odrażający~ i #rkrwawiący?"
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Modyfikacje] #rUtrać #r",
+      "[Czyszczenie] #rUtrać #r",
+      "[Pełna obsługa] #rUtrać #r",
+      "[Uderz] #rUtrać #r",
+      " #rPŻ.",
+      " #rszt. #rzłota. ",
+      "#gUlepsz #g",
+      " #glosowe #gkarty.",
+      "#gUlepsz #gkartę.",
+      "#gUsuń #gkartę.",
+      "#gPodmień #g",
+      ". #gkarty.",
+      "#gUsuń #gkartę #goraz #gulepsz #glosową #gkartę.",
+      "[Odejdź]",
+      "Wybierz kartę do ulepszenia.",
+      "Wybierz 2. karty do podmiany.",
+      "Wybierz kartę do usunięcia."
+    ]
+  },
+  "Colosseum": {
+    "NAME": "Koloseum",
+    "DESCRIPTIONS": [
+      "@Trach!!!@ NL .. NL ...... NL ... NL ~Uderzenie~ ~pozbawia~ ~cię~ ~przytomności...~",
+      "~Otumaniony~ i z @pulsującym@ bólem głowy, budzisz się na środku ogromnego stadionu z przepełnioną widownią #bpoganiaczy, #pkultystów oraz pozostałych mieszkańców Miasta! NL ",
+      " NL Opancerzony gigant ze #yzłotą #ykoroną grzmi ze szczytu trybun, NL @\"PORA@ @ROZPOCZĄĆ@ @",
+      ".@ @IGRZYSKA!!!!\"@ NL Wrota po przeciwnej stronie otwierają się...",
+      "@\"DOBRA@ @ROBOTA,@ @MIĘCZAKU!\"@ NL Olbrzym szydzi z ciebie, jednocześnie irytując widownię swoimi przesadnymi gestami. NL #y~Złoto~ ~i~ #y~konfetti~ ~dla~ ~ciebie!~ NL @\"CZAS@ @NA@ @PRAWDZIWE@ @WYZWANIE!!\"@ NL NL Ostatnia walka pozostawiła niewielki otwór w ścianie Koloseum. Możesz wykorzystać ich chwilową nieuwagę i z łatwością dać nogę. NL A może wolisz zostać i walczyć?"
+    ],
+    "OPTIONS": [
+      "[Kontynuuj]",
+      "[Walcz]",
+      "[STCHÓRZ] Ucieknij.",
+      "[ZWYCIĘŻ] Trudna walka z wieloma nagrodami."
+    ]
+  }
+}

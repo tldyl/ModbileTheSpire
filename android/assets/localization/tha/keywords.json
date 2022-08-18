@@ -1,0 +1,374 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "อาคม",
+        "artifact"
+      ],
+      "DESCRIPTION": "ยกเว้นผลผิดปกติครั้งต่อไป"
+    },
+    "BLOCK": {
+      "NAMES": [
+        "เกราะ",
+        "block",
+        "blocks"
+      ],
+      "DESCRIPTION": "ป้องกันความเสียหาย จนกว่าจะถึงเทิร์นต่อไป"
+    },
+    "BURN": {
+      "NAMES": [
+        "เผาไหม้",
+        "burn",
+        "burns"
+      ],
+      "DESCRIPTION": "คือการ์ด #yสถานะ ที่ #yถูกผนึก ซึ่งจะสร้างความเสียหายให้คุณ"
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "ปลุกเสก",
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "ลูกแก้วที่ถูก #yปลุกเสก จะไปอยู่ในช่องเก็บลูกแก้ว ที่ว่างอยู่ตามลำดับ ถ้าไม่มีช่องว่าง ลูกแก้วลูกแรก จะถูก #yปล่อยพลัง ทันที"
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "สับสน",
+        "confused"
+      ],
+      "DESCRIPTION": "เมื่อจั่วการ์ด ค่าร่ายของการ์ดนั้นจะถูกสุ่มใหม่"
+    },
+    "CURSE": {
+      "NAMES": [
+        "คำสาป",
+        "curse"
+      ],
+      "DESCRIPTION": "คือการ์ดที่จะส่งผลเสีย และคงอยู่ในกองการ์ด"
+    },
+    "DARK": {
+      "NAMES": [
+        "ความมืด",
+        "dark",
+        "dark+",
+        "ความมืด+"
+      ],
+      "DESCRIPTION": "ลูกแก้ว: สะสมความเสียหายทุกเทิร์น เมื่อถูก #yปล่อยพลัง จะสร้างความเสียหายใส่ศัตรูที่มี HP ต่ำสุด"
+    },
+    "DAZED": {
+      "NAMES": [
+        "ความมึนงง",
+        "dazed"
+      ],
+      "DESCRIPTION": "คือการ์ด #yสถานะ ที่ #yถูกผนึก"
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "ความชำนาญ",
+        "dexterity"
+      ],
+      "DESCRIPTION": "ส่งผลให้ได้รับ #yเกราะ จากการ์ดมากขึ้น"
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "กึ่งสลาย",
+        "ethereal"
+      ],
+      "DESCRIPTION": "ถ้าการ์ดนี้อยู่ในมือตอนจบเทิร์น มันจะถูก #yสลาย ซึ่งจะถูกกำจัด ออกจากกองการ์ด จนจบการต่อสู้"
+    },
+    "EVOKE": {
+      "NAMES": [
+        "ปล่อยพลัง",
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "ถอดลูกแก้วทางขวาสุด เพื่อใช้งานผล #yปล่อยพลัง ของมัน"
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "สลาย",
+        "exhaust",
+        "exhausted",
+        "exhausts"
+      ],
+      "DESCRIPTION": "การ์ดนี้จะถูกกำจัด ออกจากกองการ์ดจนจบการต่อสู้"
+    },
+    "FOCUS": {
+      "NAMES": [
+        "โฟกัส",
+        "focus"
+      ],
+      "DESCRIPTION": "เพิ่มพลังให้ลูกแก้วที่ถูก #yปลุกเสก"
+    },
+    "FRAIL": {
+      "NAMES": [
+        "ความบอบบาง",
+        "frail"
+      ],
+      "DESCRIPTION": "ได้รับผล #yเกราะ จากการ์ดน้อยลง #b25%"
+    },
+    "FROST": {
+      "NAMES": [
+        "น้ำแข็ง",
+        "น้ำแข็ง+",
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "ลูกแก้ว: ได้รับ #yเกราะ"
+    },
+    "INNATE": {
+      "NAMES": [
+        "ติดตัว",
+        "innate"
+      ],
+      "DESCRIPTION": "เริ่มต้นการต่อสู้โดยมีการ์ดนี้ในมือ"
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "ไร้ตัวตน",
+        "intangible"
+      ],
+      "DESCRIPTION": "เปลี่ยนความเสียหาย และผลที่ทำให้สูญเสีย HP ทุกอย่างเหลือ #b1"
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "สายฟ้า",
+        "สายฟ้า+",
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "ลูกแก้ว: สร้างความเสียหาย ใส่ศัตรูแบบสุ่ม"
+    },
+    "LOCKED": {
+      "NAMES": [
+        "ล็อก",
+        "locked"
+      ],
+      "DESCRIPTION": "การ์ดนี้ยังไม่ถูกปลดล็อก"
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "ล็อกเป้าหมาย",
+        "lock-on"
+      ],
+      "DESCRIPTION": "เป้าหมายจะได้รับ ความเสียหายจากลูกแก้ว มากขึ้น #b50%"
+    },
+    "OPENER": {
+      "NAMES": [
+        "ตัวเปิด",
+        "opener"
+      ],
+      "DESCRIPTION": "จะใช้ได้ก็ต่อเมื่อ มันเป็นการ์ดใบแรก ที่ถูกใช้ในแต่ละเทิร์น"
+    },
+    "PLASMA": {
+      "NAMES": [
+        "พลาสมา",
+        "พลาสมา+",
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "ลูกแก้ว: ได้รับพลังงาน"
+    },
+    "POISON": {
+      "NAMES": [
+        "พิษ",
+        "poison",
+        "poisoned"
+      ],
+      "DESCRIPTION": "เป้าหมายจะสูญเสีย HP ในตอนต้นเทิร์นของมัน ในแต่ละเทิร์น #yพิษ จะลดลง #b1"
+    },
+    "RETAIN": {
+      "NAMES": [
+        "คงสภาพ",
+        "retain",
+        "retains",
+        "retained"
+      ],
+      "DESCRIPTION": "การ์ดจะไม่ถูกทิ้งเมื่อจบเทิร์น"
+    },
+    "SHIV": {
+      "NAMES": [
+        "มีดสั้น",
+        "shiv",
+        "shivs"
+      ],
+      "DESCRIPTION": "คือการ์ดโจมตีที่มีค่าร่าย #b0 และเมื่อใช้แล้วจะ #yสลาย"
+    },
+    "STATUS": {
+      "NAMES": [
+        "สถานะ",
+        "status"
+      ],
+      "DESCRIPTION": "การ์ดสถานะจะถูกกำจัด เมื่อจบการต่อสู้"
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "ความแข็งแรง",
+        "strength"
+      ],
+      "DESCRIPTION": "เพิ่มความเสียหายให้กับ การ์ดโจมตี"
+    },
+    "STRIKE": {
+      "NAMES": [
+        "จู่โจม",
+        "strike"
+      ],
+      "DESCRIPTION": "การ์ดทุกใบที่มีคำว่า \"จู่โจม\" อยู่ในชื่อ"
+    },
+    "TEXT": [
+      "ต้องใช้พลังงานในการใช้การ์ด"
+    ],
+    "THORNS": {
+      "NAMES": [
+        "หนาม",
+        "thorns"
+      ],
+      "DESCRIPTION": "เมื่อถูก #yโจมตี จะสร้างความเสียหายกลับไป"
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "แปรสภาพ",
+        "transform"
+      ],
+      "DESCRIPTION": "เปลี่ยนเป็นการ์ดอื่นแบบสุ่ม และสุ่มระดับความหายากใหม่"
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "ปริศนา",
+        "unknown"
+      ],
+      "DESCRIPTION": "ยังไม่เคยพบการ์ดนี้"
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "ถูกผนึก",
+        "unplayable"
+      ],
+      "DESCRIPTION": "ใช้การ์ดนี้จากมือไม่ได้"
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "พัฒนา",
+        "upgrade",
+        "upgraded"
+      ],
+      "DESCRIPTION": "การ์ดจะทรงพลังมากขึ้น สามารถพัฒนาการ์ดได้ใบละ 1 ครั้งเท่านั้น"
+    },
+    "VOID": {
+      "NAMES": [
+        "ความว่างเปล่า",
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "คือการ์ด #yสถานะ ที่เมื่อจั่วได้จะดูดพลังงาน"
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "จุดอ่อน",
+        "vulnerable"
+      ],
+      "DESCRIPTION": "เป้าหมายจะได้รับความเสียหาย จากการโจมตีแรงขึ้น #b50%"
+    },
+    "WEAK": {
+      "NAMES": [
+        "ความอ่อนแอ",
+        "weak",
+        "weaken",
+        "weakened",
+        "weakens"
+      ],
+      "DESCRIPTION": "เป้าหมายจะโจมตีเบาลง #b25%"
+    },
+    "WOUND": {
+      "NAMES": [
+        "บาดแผล",
+        "wound",
+        "wounds"
+      ],
+      "DESCRIPTION": "คือการ์ด #yสถานะ ที่ #yถูกผนึก"
+    },
+    "STANCE": {
+      "NAMES": [
+        "ปาง",
+        "stance",
+        "stances",
+        "เทวปาง"
+      ],
+      "DESCRIPTION": "คุณเป็นได้เพียง 1 ปางในแต่ละช่วงเวลา"
+    },
+    "WRATH": {
+      "NAMES": [
+        "ปางโทสะ",
+        "wrath"
+      ],
+      "DESCRIPTION": "สำหรับ #yปาง นี้ คุณจะโจมตี และได้รับการโจมตี แรงเป็น 2 เท่า"
+    },
+    "CALM": {
+      "NAMES": [
+        "ปางสงบ",
+        "calm"
+      ],
+      "DESCRIPTION": "เมื่อออกจาก #yปาง นี้ ได้รับ [W] [W] "
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "ปางเทวัญ",
+        "divinity"
+      ],
+      "DESCRIPTION": "เมื่อเข้าสู่ #yปาง นี้ ได้รับ [W] [W] [W] คุณจะโจมตีแรงเป็น 3 เท่า สิ้นสุดในต้นเทิร์นถัดไป"
+    },
+    "PRAYER": {
+      "NAMES": [
+        "มนตรา",
+        "ด้วยความรุนแรง",
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "เมื่อสะสมครบ #b10 #yมนตรา เข้าสู่ #yปางเทวัญ"
+    },
+    "SCRY": {
+      "NAMES": [
+        "ปรับดวง",
+        "scry"
+      ],
+      "DESCRIPTION": "ดูการ์ดใบบนสุดของกองจั่ว X ใบ เลือกทิ้งกี่ใบก็ได้"
+    },
+    "REGEN": {
+      "NAMES": [
+        "การฟื้นพลัง",
+        "regen"
+      ],
+      "DESCRIPTION": "เมื่อจบเทิร์น ฟื้นฟู HP จากนั้น พลังฟื้นฟู จะลดลง #b1"
+    },
+    "VIGOR": {
+      "NAMES": [
+        "ความกำยำ",
+        "vigor"
+      ],
+      "DESCRIPTION": "การโจมตีต่อไป จะสร้างความเสียหายเพิ่มขึ้น"
+    },
+    "RITUAL": {
+      "NAMES": [
+        "พิธีกรรม",
+        "ritual"
+      ],
+      "DESCRIPTION": "เมื่อจบเทิร์น ได้รับ #yความแข็งแรง"
+    },
+    "FATAL": {
+      "NAMES": [
+        "สังหาร",
+        "fatal"
+      ],
+      "DESCRIPTION": "เกิดผลเมื่อ การ์ดนี้ทำให้ ศัตรูที่ไม่ใช่ลูกน้อง ตาย"
+    }
+  }
+}

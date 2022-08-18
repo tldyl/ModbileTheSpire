@@ -1,0 +1,232 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "Slå fiender ved å spille kort fra hånda di! NL NL Kort trenger #yEnergi for å bli spilt. NL I det du er tom for energi avslutter du runden din. NL NL I slutten av runden din trekkes nye kort, og #yEnergien din fås tilbake.",
+      "Spill defensive kort for å få #ySkadeblokkering når fiender har planlagt å angripe deg. NL NL #ySkadeblokkering reduserer Skaden du tar, men NL #rforsvinner ved starten av din neste runde",
+      "I løpet av runden din kan du se hva en fiende #yPlanlegger over dem. NL NL Hvis en fiende planlegger å angripe deg, må du sikre at du #yBlokkerer Skaden!"
+    ],
+    "LABEL": [
+      "Neste",
+      "Jeg er klar!",
+      "Opplæring",
+      "(Side ",
+      " av 3)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Tips: ",
+      "Har det"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Drikk eller kast trylledrikker under kamp. NL Trylledrikker blir med deg mellom rommene."
+    ],
+    "LABEL": [
+      "Trylledrikker"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Kort som krever energi for å spilles! NL Denne kulen i nedre venstre kant indikerer hvor mye energi du har igjen denne runden."
+    ],
+    "LABEL": [
+      "Energikostnad"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Hvis det ikke er flere kort som kan trekkes, blir kastebunken din blandet tilbake i trekkebunken."
+    ],
+    "LABEL": [
+      "Tomt for kort?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Dette kortet gir deg en Kraft når det brukes. NL Krefter er passive egenskaper som blir med deg igjennom hele kampen.",
+      "Kort som krever energi for å spilles! NL Denne kulen i nedre venstre kant indikerer hvor mye energi du har igjen denne runden.",
+      "#rHånda #rmi #rer #rfull!",
+      "#rMaximum Orb capacity has been met.",
+      "I have no Orb slots."
+    ],
+    "LABEL": [
+      "Kraftkort",
+      "Energikostnad"
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Relikvier kan finnes i hele tårnet. De gir deg unike boniser og blir med deg igjennom hele reisen din. NL De kan finnes hvis du dreper mektige fiender og inne i kister.",
+      "Denne relikvien har du ikke sett ennå.",
+      "Kraften dens er helt oppbrukt."
+    ],
+    "LABEL": [
+      "Relikvier",
+      "Ukjent",
+      "Denne relikvien er ikke Låst opp ennå.",
+      "Låst"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Ikke glem å ta med deg alle belønningene dine! NL Bare klikk på dem for å plukke dem opp.",
+      "Don't forget your rewards!"
+    ],
+    "LABEL": [
+      "Rewards"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "I starten av hver runde blir NL #b",
+      " kort trekt herfra. NL NL Klikk her for å se kortene du har i trekkebunken (i tilfeldig rekkefølge).",
+      " kort trekt herfra. NL NL Klikk her for å se kortene du har i trekkebunken.",
+      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL View the cards in your draw pile."
+    ],
+    "LABEL": [
+      "Trekkebunken"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Klikk her for å se kortene du har Vraket denne kampen.",
+      "View cards Exhausted this combat."
+    ],
+    "LABEL": [
+      "Vrakede kort"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Spilldata og feilmeldinger sendes til Mega Crit for å balansere spillet bedre. NL NL Identifiserende persondata samles IKKE inn.",
+      "Slay the Spire fungerer best hvis man kjører det i ekte fullskjerm. Det er anbefalt for OSX på grunn av at da blir Dock og Menylinjen skjult. NL MERK: På PC kan det hende at det ikke fungerer å alt+tab tilbake til spillet i fullskjermmodus.",
+      "På grunn av at Slay the Spire ikke er et krevende spill, anbefaler vi rammeløs fullskjerm hvis muligheten for alt+tab er viktig. Dette fungerer best på PC.",
+      "Merk: Hvis VSync er slått på, vil maks bilderate ikke ha mulighet til å overstige din monitors refresh rate.",
+      "Controller support incomplete for this screen.",
+      "Changes which monitor is utilized when Fullscreen."
+    ],
+    "LABEL": [
+      "Metrikk",
+      "Fullskjerm",
+      "Rammeløs fullskjerm",
+      "Maks bilderate",
+      "Fullscreen Monitor"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Fjern et kort fra kortstokken din. Prisen på dette tilbudet vil øke med #b",
+      " resten av gjennomspillingen."
+    ],
+    "LABEL": [
+      "Kortfjerneservice"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Hvis du trykker på denne knappen vil runden din avsluttes. NL NL Du kaster da resten av kortene du har på hånda, og det blir fiendens tur. Deretter trekker du ",
+      " nye kort, og det er din tur igjen."
+    ],
+    "LABEL": [
+      "Avslutt runden"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "Hvis trekkebunken din er tom, blir kastebunken din blandet inn i trekkebunken igjen. NL NL Klikk for å se kortene i kastebunken din.",
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
+    ],
+    "LABEL": [
+      "Kastebunke"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Din nåværende mengde energi. Kort trenger energi for å kunne spilles."
+    ],
+    "LABEL": [
+      "Energi"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Kaster denne trylledrikken på fienden din.",
+      "Drikk denne trylledrikken.",
+      "Fjerner trylledrikken NL #r(kan #rikke #rgjøres #rom)"
+    ],
+    "LABEL": [
+      "Kast",
+      "Drikk",
+      "Fjern"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Åpner spillmenyen. NL NL Endre eller oppdater grafikken, lyden og spillopplevelsen her.",
+      "Se alle kortene i kortstokken din.",
+      "Se tårnets kart.",
+      "Hvis du går tom for HP, dør du.",
+      "Viser hvor mye gull du har med deg. Gull er myntenheten i tårnet.",
+      "Anskaffes i det du slår en #yHøvding. NL Hva skal man bruke dette til...?",
+      "Anskaffes i det du slår en #yHøvding. NL Du kan mate #yNeow med disse for å låse opp nye ting, og bonuser i spillet.",
+      "Anløpt tid denne gjennomspillingen."
+    ],
+    "LABEL": [
+      "Innstillinger",
+      "Kortstokk",
+      "Kart",
+      "Hit Points (HP)",
+      "Lommebok",
+      "Tid"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Engasjer deg med de andre spillerne for å oppdage nye og effektive strategier.",
+      "Det er alltid et leirbål før en høvding.",
+      "Du kan bruke gull i butikken! (Dette tipset er bragt til deg av Kjøpmannen)",
+      "Ta en hvil av og til.",
+      "Prosentvise utregninger vil alltid rundes nedover.",
+      "Unger kamp kan du se innholdet i trekkebunken og kastebunken.",
+      "Det er ingen grenser for hvor mange relikvier du kan bære med deg.",
+      "Kister vil alltid inneholde minst en relikvie.",
+      "Alle veier du kan gå på kartet vil alltid inneholde minst et skatterom.",
+      "Elitefiender vil alltid etterlate seg en relikvie.",
+      "Du vil aldri støte på den samme relikvien to ganger i en gjennomspilling.",
+      "Uvanlige kort har en blå flamme og blått banner.",
+      "Sjeldne kort har gyllen ramme og banner.",
+      "Sjeldenheten til et kort vises på selve kortet.",
+      "Det er ikke bestandig det er lurt å legge til nye kort i kortstokken.",
+      "Kort som Vrakes under kamp blir ikke fjernet fra kortstokken for alltid.",
+      "Du kan aldri ha mer enn 10 kort på hånda.",
+      "Statuskort fjernes etter at kampen er over.",
+      "Forbannelseskort kan ikke oppgraderes... men hvorfor i all verden ville du ønske å gjøre noe sånt?",
+      "Oppgraderte kort kan dukke opp som belønning etter første akt.",
+      "?-rom kan inneholde skatter, monstre, butikker eller hendelser.",
+      "Kjøpmannen har ingen angrerett. Han er en dust!.",
+      "Kjøpmannens service for å fjerne kort fra kortstokken øker i pris hver gang du benytter deg av den.",
+      "Kjøpmannens service for å fjerne kort kan kun brukes èn gang for hver gang du besøker butikken hans.",
+      "Skade fra Trylledrikker, Relikvier og Krefter blir ikke ansett som Angrepsskade.",
+      "Effects that generate cards during combat will never heal you."
+    ],
+    "LABEL": [
+      "Du kan fjerne trylledrikker for å gjøre plass til nye"
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Ingen fiender vil noen sinne utføre samme angrep 3 ganger på rad.",
+      "Nyttig informasjon kan sees hvis du beveger musepekeren over de fleste objekter.",
+      "Høyreklikk for å slippe kort du drar med deg.",
+      "Beveg musepekeren over en fiende for å se navnet og informasjon om kreftene deres.",
+      "Bruk musehjulet eller klikk og dra i skjermen for å scrolle.",
+      "Hvis du kan inspisere et objekt, vil musepekeren din bli til et forstørrelsesglass.",
+      "Bruk musehjulet eller klikk og dra i skjermen for å scrolle kart, kortskjermer og andre skjermer."
+    ],
+    "LABEL": []
+  }
+}

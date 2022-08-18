@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "古代のポーション",
+    "DESCRIPTIONS": [
+      "#y人の作りし物 #b",
+      " を得る。"
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "アタックポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #yアタック カードから #b1 枚を選択し、手札に加える。そのターンに限り #b0 コストで使用できる。",
+      "#b3 枚のランダムな #yアタック カードから #b1 枚を選択し、それを #b2 枚手札に加える。そのターンに限り #b0 コストで使用できる。"
+    ]
+  },
+  "Block Potion": {
+    "NAME": "ブロックポーション",
+    "DESCRIPTIONS": [
+      "#yブロック #b",
+      " を得る。"
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "血のポーション",
+    "DESCRIPTIONS": [
+      "最大HPの #b",
+      "% を回復する。"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "敏捷性ポーション",
+    "DESCRIPTIONS": [
+      "#y敏捷性 #b",
+      " を得る。"
+    ]
+  },
+  "Elixir": {
+    "NAME": "エリクサー",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "手札から #y状態異常 と #y呪い カードをすべて #y廃棄 する。",
+      "",
+      "効果がなかった…。"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "エナジーポーション",
+    "DESCRIPTIONS": [
+      "#yエナジー #b",
+      " を得る。"
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "エントロピー調合",
+    "DESCRIPTIONS": [
+      "すべての空きポーションスロットにランダムなポーションを入れる。"
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "鉄のエッセンス",
+    "DESCRIPTIONS": [
+      "#yプレートアーマー #b",
+      " を得る。"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆発のポーション",
+    "DESCRIPTIONS": [
+      "敵全体に #b",
+      " ダメージを与える。"
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "妖精の瓶",
+    "DESCRIPTIONS": [
+      "死にそうになった時、このポーションで最大HPの #b10% が回復する。使用後はなくなる。",
+      "% で復活し、このポーションを失う。"
+    ]
+  },
+  "FearPotion": {
+    "NAME": "畏怖のポーション",
+    "DESCRIPTIONS": [
+      "#y弱体化 #b",
+      " を与える。"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "炎のポーション",
+    "DESCRIPTIONS": [
+      "#b",
+      " ダメージを与える。"
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "集中力ポーション",
+    "DESCRIPTIONS": [
+      "#y集中力 #b",
+      " を得る。"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "果汁",
+    "DESCRIPTIONS": [
+      "最大HPが #b",
+      " 増える。"
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "賭博師の醸造酒",
+    "DESCRIPTIONS": [
+      "好きな枚数カードを捨て、同じ枚数だけカードを引く。"
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "幽霊の小壺",
+    "DESCRIPTIONS": [
+      "#y無形 #b",
+      " を得る。"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "回復ポーション",
+    "DESCRIPTIONS": [
+      "HPを #b",
+      " 回復する。"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "ブロンズ液",
+    "DESCRIPTIONS": [
+      "#yトゲ #b",
+      " を得る。"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒ポーション",
+    "DESCRIPTIONS": [
+      "#y毒 #b",
+      " を与える。"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "ポーションスロット",
+    "DESCRIPTIONS": [
+      "戦闘中にポーションを使用して、 #gボーナス 効果を得たり敵を #r妨害 したりする。",
+      "ポーションスロット"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "パワーポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #yパワー カードから #b1 枚を選択し、手札に加える。そのターンに限り #b0 コストで使用できる。",
+      "#b3 枚のランダムな #yパワー カードから #b1 枚を選択し、それを #b2 枚手札に加える。そのターンに限り #b0 コストで使用できる。"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "再生ポーション",
+    "DESCRIPTIONS": [
+      "#y再生 #b",
+      " を得る。",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "スキルポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #yスキル カードから #b1 枚を選択し、手札に加える。そのターンに限り #b0 コストで使用できる。",
+      "#b3 枚のランダムな #yスキル カードから #b1 枚を選択し、それを #b2 枚手札に加える。そのターンに限り #b0 コストで使用できる。"
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "煙玉",
+    "DESCRIPTIONS": [
+      "ボス以外の戦闘で逃走する。報酬は得られない。",
+      "包囲されている！"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "ヘビヤモリの油",
+    "DESCRIPTIONS": [
+      "#y混乱 状態になり、カードを #b",
+      " 枚引く。",
+      " 枚引く。"
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "スピードポーション",
+    "DESCRIPTIONS": [
+      "#y敏捷性 #b",
+      " を得る。ターン終了時に #y敏捷性 #b",
+      " を失う。"
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "ステロイドポーション",
+    "DESCRIPTIONS": [
+      "#y筋力 #b",
+      " を得る。ターン終了時に #y筋力 #b",
+      " を失う。"
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "筋力ポーション",
+    "DESCRIPTIONS": [
+      "#y筋力 #b",
+      " を得る。"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "韋駄天のポーション",
+    "DESCRIPTIONS": [
+      "",
+      "カードを #b",
+      " 枚を引く。"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "脱力ポーション",
+    "DESCRIPTIONS": [
+      "#y脱力 #b",
+      " を与える。"
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "闇のエッセンス",
+    "DESCRIPTIONS": [
+      "オーブスロット1つにつき #yダーク を #b",
+      " #y生成 する。"
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "記憶の液体",
+    "DESCRIPTIONS": [
+      "捨て札からカードを1枚選択し、手札に戻す。そのターンに限り #b0 コストで使用できる。",
+      "捨て札からカードを #b",
+      " 枚選択し、手札に戻す。そのターンに限り #b0 コストで使用できる。   "
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "鍛冶場の祝福",
+    "DESCRIPTIONS": [
+      "手札のカードすべてをこの戦闘に限りアップグレードする。"
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "鉄の心臓",
+    "DESCRIPTIONS": [
+      "#y金属化 #b",
+      " を得る。"
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "狂信者のポーション",
+    "DESCRIPTIONS": [
+      "#y儀式 #b",
+      "を得る。"
+    ]
+  },
+  "StancePotion": {
+    "NAME": "スタンスポーション",
+    "DESCRIPTIONS": [
+      "#y平静 か #y憤怒 のスタンスに移行する。"
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "神々の飲料",
+    "DESCRIPTIONS": [
+      "#y神聖 #yスタンス に移行する。"
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "蒸留された混沌",
+    "DESCRIPTIONS": [
+      "山札の上から #b",
+      " 枚カードをプレイする。    "
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "狡猾のポーション",
+    "DESCRIPTIONS": [
+      "#yナイフ+ を #b",
+      " 枚手札に加える。"
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "複製ポーション",
+    "DESCRIPTIONS": [
+      "このターン、次のカードを2回プレイする。",
+      "このターン、次の #b2 枚のカードを2回プレイする。"
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "瓶詰の奇跡",
+    "DESCRIPTIONS": [
+      "#y奇跡 を #b",
+      " 枚手札に加える。"
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "無色のポーション",
+    "DESCRIPTIONS": [
+      "#b3 枚のランダムな #y無色 のカードから #b1 枚を選択し、手札に加える。そのターンに限り #b0 コストで使用できる。",
+      "#b3 枚のランダムな #y無色 のカードから #b1 枚を選択し、それを #b2 枚手札に加える。そのターンに限り #b0 コストで使用できる。"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "容量ポーション",
+    "DESCRIPTIONS": [
+      "オーブスロットを #b",
+      " 個得る。"
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "エリクサー",
+    "DESCRIPTIONS": [
+      "手札のカードを好きな枚数だけ #y廃棄 する。"
+    ]
+  }
+}

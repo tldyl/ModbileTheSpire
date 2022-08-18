@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Malsaniga lanco",
+    "DESCRIPTION": [
+      "Malamikoj faras #b",
+      "% pli da damaĝo."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Malsaniga ŝildo",
+    "DESCRIPTION": [
+      "Malamikoj havas #b",
+      "% pli da vivpoentoj."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labirinto de tempo",
+    "DESCRIPTION": [
+      "Vi ne povas ludi pli ol #b",
+      " kartojn ĉiuvice.",
+      "Mi nur povas ludi ĝis NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Menso fleksanta",
+    "DESCRIPTION": [
+      "Je la fino de via vico, metu #b",
+      " hazardajn statkartojn supren sur vian prenstakon.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Malbonita",
+    "DESCRIPTION": [
+      "Kiam ajn vi venkas estron, akiru #b",
+      " hazardajn #ymalbenojn.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Ventkapulo",
+    "DESCRIPTION": [
+      "Prenu #b",
+      " malpli da kartoj ĉiuvice.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestado de imitistoj",
+    "DESCRIPTION": [
+      "Trezorĉambroj en estontaj aktoj estas anstataŭigitaj de elitoj. Elitoj ne plu faligas relikvojn."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Muzelo",
+    "DESCRIPTION": [
+      "Vi ne plu povas plialtigi vian maks. vivon. Ĉia resaniĝo estas duonigita."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteska trofeo",
+    "DESCRIPTION": [
+      "Kiam vi prenas ĝin, akiru #b",
+      " da #rFieroj.",
+      "Via fiero aĉformiĝas..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Postdurio",
+    "DESCRIPTION": [
+      "Perdu #b",
+      "% da via maks. vivo."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Esenco de vakuo",
+    "DESCRIPTION": [
+      "Gajnu #b",
+      " malpli da [E] je la komenco de ĉiu vico."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Hantadoj",
+    "DESCRIPTION": [
+      "Malamikoj komencas la batalon kun #b",
+      " da #ynepalpebla."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Praa pliigo",
+    "DESCRIPTION": [
+      "Malamikoj komencas la batalon kun #b",
+      " da #yartefakto, #b",
+      " da #ylada #yarmaĵo, kaj #b",
+      " da #yregenero."
+    ]
+  }
+}

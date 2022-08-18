@@ -1,0 +1,232 @@
+{
+  "Main Tutorial": {
+    "TEXT": [
+      "Elindeki kartları oynayarak düşmanları yen! NL NL Kartları oynamak için #yEnerjiye ihtiyacın var. NL Enerjini akıllıca kullan. NL NL Her tur başında #yEnerji yenilenir ve sıradaki kartlar dağıtılır.",
+      "Düşmanlar sana saldıracağı zaman #yBlok kazanmak için Blok kartları oyna. NL NL #yBlok gelen saldırı hasarını düşürür ancak NL sıradaki tur başında #rsilinir.",
+      "Turun sırasında düşmanların #yNiyetlerini hemen üstlerinde görebilirsin. NL NL Eğer düşman saldırmaya niyetliyse biraz #yBloğa sahip olduğuna emin ol!"
+    ],
+    "LABEL": [
+      "Sıradaki",
+      "Hazırım!",
+      "Öğretici",
+      "(",
+      ". Sayfa)"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Öneri: ",
+      "Anlaşıldı"
+    ]
+  },
+  "Potion Tip": {
+    "TEXT": [
+      "Dövüş sırasında iksirleri kullan! NL İksirleri odalar arasında taşıyabilirsin."
+    ],
+    "LABEL": [
+      "İksirler"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Kartları oynamak için enerji gerekir! NL Sol alttaki küre bu turda kalan enerjini gösterir."
+    ],
+    "LABEL": [
+      "Gereken Enerji"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Eğer çekilecek kart kalmadıysa atma yığını çekme yığınına karıştırılır."
+    ],
+    "LABEL": [
+      "Çekecek kart kalmadı mı?"
+    ]
+  },
+  "Player Tips": {
+    "TEXT": [
+      "Bu kartı oynamak sana Güç kazandırır. NL Güçler dövüş boyunca devam eden kabiliyetlerdir.",
+      "Kartları oynamak için enerji gerekir! NL Sol alttaki küre bu turda kalan enerjini gösterir.",
+      "#rElim #rDolu!",
+      "#rMaksimum Küre sayısına ulaşıldı.",
+      "Küre yuvam #ryok."
+    ],
+    "LABEL": [
+      "Güç Kartları",
+      "Gereken Enerji"
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Kalıntılar Spire içinde bulunabilen oyun boyunca seninle kalan birbirinden farklı özellikler barındıran eşyalardır. NL Sandıkları açarak veya elitleri yenerek elde edilebilir.",
+      "Bu kalıntıyla henüz karşılaşılmadı.",
+      "Bu kalıntı tamamen kullanıldı."
+    ],
+    "LABEL": [
+      "Kalıntılar",
+      "Bilinmiyor",
+      "Bu kalıntı henüz açılmadı.",
+      "Kilitli"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Ödüllerini unutma! NL Almak için üstlerine tıklaman yeterli.",
+      "Ödüllerini unutma!"
+    ],
+    "LABEL": [
+      "Ödüller"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Her tur başında buradan NL #b",
+      " kart çekilir. NL NL Çekme yığınındaki kartlara bakmak için tıkla (karışık sırada).",
+      " kart çekilir. NL NL Çekme yığınındaki kartlara bakmak için tıkla.",
+      " kart çekilir. NL NL Çekme yığınındaki kartlara bak (karışık sırada).",
+      " kart çekilir. NL NL Çekme yığınındaki kartlara bak."
+    ],
+    "LABEL": [
+      "Çekme Yığını"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Bu dövüşte tüketilmiş kartlara bakmak için tıkla.",
+      "Bu dövüşte tüketilmiş kartlara bakmak için tıkla."
+    ],
+    "LABEL": [
+      "Tüketme Yığını"
+    ]
+  },
+  "Options Tip": {
+    "TEXT": [
+      "Oyun verileri ve hata kayıtları oyun düzenlemeleri için Mega Crit'e gönderilir. NL NL Kişisel bilgiler toplanMAmaktadır.",
+      "Slay the Spire gerçek Tam Ekran Modunda en hızlı şekilde çalışır. OSX için Menü Barı ve Göstergelerin saklı olduğu durumda çalıştırmanız önerilir. NL NOT: PC'de alt-tab yapıp tekrar Slay the Spire'a dönmek Tam Ekranda çalışmayabilir.",
+      "Slay the Spire sistemi çok zorlayan bir oyun değildir. Hızlıca alt-tab yapabilmek için Çerçevesiz Tam Ekran Modunu öneriyoruz. En iyi PC'de çalışır.",
+      "Not: Eğer VSync açıksa oyun içi FPS monitörün yenileme hızından daha yüksek olamaz.",
+      "Bu ekran için Kol desteği mevcut değil.",
+      "Oyun tam ekran iken hangi monitörün kullanılacağını seç."
+    ],
+    "LABEL": [
+      "Metrikler",
+      "Tam Ekran",
+      "Çerçevesiz Tam Erkan",
+      "Maksimum Kare Hızı",
+      "Tam Ekran Monitörü"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Destenden bir kart çıkart. Her kullanım sonrasında ücreti, bu oyun sonuna kadar, #b",
+      " artar."
+    ],
+    "LABEL": [
+      "Kart Çıkarma Servisi"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Bu tuşa basmak turunu bitirir. NL NL Eldeki kartlar atılır, düşman turu başlar, ",
+      " kart çekersin ve tekrar senin turun başlar."
+    ],
+    "LABEL": [
+      "Turu Bitir"
+    ]
+  },
+  "Discard Tip": {
+    "TEXT": [
+      "Eğer çekme yığını boşsa atma yığını çekme yığınına karıştırılır. NL NL Atma yığınındaki kartlara bakmak için tıkla.",
+      "Eğer çekme yığını boşsa atma yığını çekme yığınına karıştırılır. NL NL Atma yığınındaki kartlara bak."
+    ],
+    "LABEL": [
+      "Atma Yığını"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Şu anki enerji miktarın. Kartları oynamak için enerji gerekir."
+    ],
+    "LABEL": [
+      "Enerji"
+    ]
+  },
+  "Potion Panel Tip": {
+    "TEXT": [
+      "Bu iksiri düşmana at.",
+      "Bu iksiri iç.",
+      "Bu iksiri çöpe at. NL #r(geri #ralınamaz)"
+    ],
+    "LABEL": [
+      "Kullan",
+      "İç",
+      "Çöpe At"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Oyun menüsünü açar. NL NL Grafik, ses ve oyun ayarlarını buradan değiştir veya güncelle.",
+      "Destendeki tüm kartlara bak.",
+      "Şu anki zindanın haritasına bak.",
+      "CP kalmadığı zaman ölürsün.",
+      "Taşıdığın altın miktarı. Altın Spire'da geçerli para birimidir.",
+      "",
+      "",
+      "Bu oyunda geçen zaman."
+    ],
+    "LABEL": [
+      "Ayarlar",
+      "Deste",
+      "Harita",
+      "Can Puanı (CP)",
+      "Para Kesesi",
+      "Oyun Süresi"
+    ]
+  },
+  "Random Tips": {
+    "TEXT": [
+      "Yeni ve etkili stratejiler keşfetmek için diğer oyuncularla iletişime geç.",
+      "Her Boss'tan önce bir dinlenme yeri bulunur.",
+      "Dükkanlarda para harca! (Tüccar tarafından sponsorlu)",
+      "Arada bir oyuna ara ver ve dinlen.",
+      "Yüzdeli hesaplamalar her zaman aşağıya yuvarlanır.",
+      "Dövüş sırasında çekme ve atma yığınına bakabilirsin.",
+      "Kalıntı taşıma sayısında bir sınır yoktur.",
+      "Sandıklardan her zaman kalıntı çıkar.",
+      "Her yol en az bir hazine odası barındırır.",
+      "Elitlerden her zaman kalıntı düşer.",
+      "Bir oyunda aynı kalıntı asla iki kez görülmez.",
+      "Az yaygın kartlar mavi çerçeve ve levhaya sahiptir.",
+      "Nadir kartlar altın çerçeve ve levhaya sahiptir.",
+      "Kartın nadirliği üzerinde görülebilir.",
+      "Desteye kart eklemek her zaman akıllıca değildir.",
+      "Dövüş sırasında tükenen kartlar desteden temelli silinmezler.",
+      "Elinde en fazla 10 kart tutabilirsin.",
+      "Durum kartları dövüş bitince yok olur.",
+      "Lanet kartları geliştirilemez. Neden yapasın ki?",
+      "Gelişmiş kartlar 1. Sahne sonrasında düşmanlardan çıkabilir.",
+      "Bilinmeyen odalar hazine, canavar, dükkan veya olay içerebilir.",
+      "Tüccar iade almıyor. Tam bir pislik.",
+      "Kart çıkarma servisini her kullandığında fiyatı artar.",
+      "Kart çıkarma servisi her dükkanda yalnızca bir kere kullanılabilir.",
+      "İksirlerin, kalıntıların veya güçlerin verdiği hasar Saldırı hasarı olarak değerlendirilmez.",
+      "Dövüş sırasında rastgele kart oluşturan şeyler asla canını artıracak bir kart oluşturmaz."
+    ],
+    "LABEL": [
+      "Diğer iksirlere yer açmak için elindekileri çöpe atabilirsin."
+    ]
+  },
+  "PC Tips": {
+    "TEXT": [
+      "Kart ödül ekranlarındaki kartlara sağ tıklayarak daha fazla bilgi edinebilirsin.",
+      "Çoğu nesnenin üzerine imleci getirip onlarla ilgili kullanışlı bilgiler edinebilirsin.",
+      "Sağ tıklama tuttuğun kartı bırakmanı sağlar.",
+      "Düşmanın adını ve Güçlerini görmek için imleci üzerine getir.",
+      "Ekranı kaydırmak için ekrana tıklayıp sürükle veya fare kaydırma tekerini kullan.",
+      "Eğer bir nesne incelenebiliyorsa üstüne imleci getirince büyüteç çıkar.",
+      "Haritayı, kartları ve diğer ekranları kaydırmak için ekrana tıklayıp sürükle veya fare kaydırma tekerini kullan."
+    ],
+    "LABEL": []
+  }
+}

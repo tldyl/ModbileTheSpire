@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Jangkar",
+    "FLAVOR": "Memegang ornamen kecil ini, kamu merasa lebih berat dan lebih stabil.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b",
+      " #yBlok."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Alat Teh Kuno",
+    "FLAVOR": "Kunci dari istirahat malam yang menyegarkan.",
+    "DESCRIPTIONS": [
+      "Ketika kamu masuk ke Tempat Istirahat, mulai pertarungan selanjutnya dengan [E] [E] ."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Seni Peperangan",
+    "FLAVOR": "Dokumen kuno ini mengandung hikmah dari masa lalu.",
+    "DESCRIPTIONS": [
+      "Jika kamu tidak memainkan #ySerangan apapun di giliranmu, dapatkan tambahan ",
+      "[E] giliran selanjutnya."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolab",
+    "FLAVOR": "Alat untuk mengumpulkan pengetahuan berharga dari bintang-bintang.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, pilih dan #yTransformasi #b3 kartu, kemudian lakukan #yPeningkatan.",
+      "Pilih 3 kartu untuk "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Sekantong Kelereng",
+    "FLAVOR": "Dulu mainan populer di Kota. Berguna untuk membuat musuh terpeleset.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, terapkan #b",
+      " #yRentan ke SEMUA musuh."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Tas Persiapan",
+    "FLAVOR": "Tas petualang yang kebesaran. Punya banyak kantong dan tali pengikat.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, ambil #b",
+      " tambahan kartu."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Pasu Berwajah Burung",
+    "FLAVOR": "Pasu ini memerlihatkan dewa gagak Mazaleth menatap seram.",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #yKekuatan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Darah Hitam",
+    "FLAVOR": "Amukannya tumbuh semakin gelap.",
+    "DESCRIPTIONS": [
+      "Ganti #rBurning #rBlood. Pada akhir pertarungan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Bintang Hitam",
+    "FLAVOR": "Awalnya ditemukan di kota serpent, di samping sebuah lilin yang sendiri.",
+    "DESCRIPTIONS": [
+      "#yElit memberi satu tambahan pusaka ketika dikalahkan."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Vial Darah",
+    "FLAVOR": "Botol kecil mengandung darah dari vampir yang murni dan tua.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Berhala Darah",
+    "FLAVOR": "Berhala ini terus mengucurkan darah.",
+    "DESCRIPTIONS": [
+      "Ketika kamu dapatkan #yEmas, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Lilin Biru",
+    "FLAVOR": "Apinya menyala saat dilingkupi kegelapan.",
+    "DESCRIPTIONS": [
+      "Kartu #yKutukan Statis sekarang bisa dimainkan. NL NL Memainkan sebuah #yKutukan akan membuat kamu kehilangan #b",
+      " HP dan kartunya #yHangus."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Botol Api",
+    "FLAVOR": "Dalam botol bersemayam api yang menyala selamanya.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, pilih sebuah kartu #ySerangan. Pada awal tiap pertarungan, kartu ini akan ada di tangan.",
+      "Pilih sebuah kartu untuk ",
+      "Pada awal tiap pertarungan, tambah ",
+      " ke tangan."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Botol Petir",
+    "FLAVOR": "Mengitip ke dalam pusaran, kamu melihat bagian dirimu menatap balik.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, pilih sebuah kartu #yKemampuan. Pada awal tiap pertarungan, kartu ini akan ada di tangan.",
+      "Pilih sebuah kartu untuk ",
+      "Pada awal tiap pertarungan, tambah ",
+      " ke tangan."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Botol Topan",
+    "FLAVOR": "Pusaka Tes.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, pilih sebuah kartu #yKekuatan. Pada awal tiap pertarungan, kartu ini akan ada di tangan.",
+      "Pilih sebuah kartu untuk ",
+      "Pada awal tiap pertarungan, tambah ",
+      " ke tangan."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Sisik Perunggu",
+    "FLAVOR": "Sisik tajam dari Sang Penjaga. Membentuk dirinya untuk melindungi penggunanya. ",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, dapatkan #b",
+      " #yDuri."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Darah Panas",
+    "FLAVOR": "Darah dari tubuhmu membara dengan amukan yang tak pernah mati.",
+    "DESCRIPTIONS": [
+      "Pada akhir pertarungan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Cables": {
+    "NAME": "Kabel Berlapis Emas",
+    "FLAVOR": "\"Menarik! Bahkan robot juga terpengaruh dengan plasebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Orb paling kanan mengaktifkan efek pasifnya sekali lagi."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Jangka",
+    "FLAVOR": "\"Ketepatan mekanis menuju keagungan\" - Sang Arsitek",
+    "DESCRIPTIONS": [
+      "Pada awal giliranmu, kehilangan #b",
+      " #yBlok daripada semua #yBlok."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Bel Pemanggil",
+    "FLAVOR": "Bel besi gelap ini berbunyi 3 kali ketika kamu menemukannya, tapi sekarang tetap diam.",
+    "DESCRIPTIONS": [
+      "Memperoleh #b3 #rKutukan dan #b3 #yPusaka.",
+      "Bel Berbunyi...",
+      "Abaikan Hadiah",
+      "Tutup"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Ketel",
+    "FLAVOR": "Pedagang sebenarnya agak mahir dalam meracik ramuan. Beli 4 dapat 1 gratis.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, racik #b5 ramuan acak.",
+      "Blup blip bloop...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Teka-teki Abad",
+    "FLAVOR": "Setelah menyelesaikan teka-teki kamu merasakan kehangatan yang kuat di dada.",
+    "DESCRIPTIONS": [
+      "Pertama kali kamu kehilangan HP tiap pertarungan, ambil #b",
+      " kartu."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Chameleon Ring",
+    "FLAVOR": "Deprecated",
+    "DESCRIPTIONS": [
+      "Kamu sekarang bisa #yRacik di Tempat Istirahats."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Sabuk Juara",
+    "FLAVOR": "Hanya yang terhebat boleh memakai sabuk ini.",
+    "DESCRIPTIONS": [
+      "Ketika kamu terapkan #yRentan, juga terapkan #b",
+      " #yLemah."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Abu Charon",
+    "FLAVOR": "Charon katanya adalah dewa kelahiran kembali, selamanya mati dan lahir dalam kebulan api.",
+    "DESCRIPTIONS": [
+      "Ketika kamu #yHangus sebuah kartu, beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Zat X",
+    "FLAVOR": "PERINGATAN: Jangan dicampur dengan gula, bumbu, dan apapun yang enak.",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu berharga #bX, efeknya ditingkatkan sebesar #b",
+      "."
+    ]
+  },
+  "Circlet": {
+    "NAME": "Gelang",
+    "FLAVOR": "Kamu kehabisan pusaka untuk didapat. Hebat sekali!",
+    "DESCRIPTIONS": [
+      "Koleksi sebanyak mungkin."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Inti Retak",
+    "FLAVOR": "Energi kehidupan misterius yang menggerakkan Robot dalam Spire. Sepertinya kelihatan retak.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, #ySalur #b1 #yPetir."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Inti Beku",
+    "FLAVOR": "Retakan dalam intimu telah diisi dengan sebuah energi dingin yang berdetak.",
+    "DESCRIPTIONS": [
+      "Ganti #rCracked #rCore. Jika kamu mengakhiri giliran dengan petak Orb kosong, #ySalur #b1 #yBeku."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Kunci Terkutuk",
+    "FLAVOR": "Kamu dapat merasakan energi jahat muncul dari kunci ini. Kekuatan didapat dengan pengorbanan.",
+    "DESCRIPTIONS": [
+      " Ketika kamu membuka peti non-bos, memperoleh sebuah #rKutukan.",
+      "Dapatkan [E] pada awal tiap giliran."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Jimat Akik Hitam",
+    "FLAVOR": "Batu ini mengambil kekuatan dari energi kegelapan, mengubahnya menjadi daya hidup untuk penggunanya.",
+    "DESCRIPTIONS": [
+      "Ketika kamu memperoleh sebuah #yKutukan, naikkan HP Maks sebesar #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Piringan Data",
+    "FLAVOR": "Piringan ini mengandung data penting mengenai burung dan ular.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b",
+      " #yFokus."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Ranting Mati",
+    "FLAVOR": "Ranting pohon dari zaman yang terlupakan.",
+    "DESCRIPTIONS": [
+      "Ketika kamu #yHangus sebuah kartu, tambahkan kartu acak ke tangan."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "Pada awal tiap giliran, dapatkan #b",
+      " Charge. NL (Tidak bisa dihapus atau transformasi.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Monocle Arif",
+    "FLAVOR": "Sungguh monocle yang terlihat rapi.",
+    "DESCRIPTIONS": [
+      "Harga pedagang dikurangi sebanyak #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "DEPRECATED Dodekahedron Aksara",
+    "FLAVOR": "Aksaranya tidak bisa ditafsirkan.",
+    "DESCRIPTIONS": [
+      "Jika HP-mu penuh, dapatkan ",
+      "[E] Pada awal tiap giliran."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Penangkap Mimpi",
+    "FLAVOR": "Suku utara sering menggunakan penangkap mimpi di malah hari, percaya mereka membantu dalam perkembangan diri.",
+    "DESCRIPTIONS": [
+      "Ketika kamu istirahat, kamu bisa menambah kartu ke dek."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Boneka Jengkalung",
+    "FLAVOR": "Boneka yang dibuat untuk mendapatkan kekuatan dari energi dendam.",
+    "DESCRIPTIONS": [
+      "Untuk setiap #yKutukan di dek, mulai tiap pertarungan dengan #b",
+      " tambahan #yDaya.",
+      " Kamu tidak punya #yKutukan.",
+      " Kamu mempunyai #b",
+      " #yKutukan."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ektoplasma",
+    "FLAVOR": "Gumpalan lendir dan energi ini sepertinya berdetak dengan kehidupan.",
+    "DESCRIPTIONS": [
+      " Kamu tidak bisa lagi mendapatkan #yEmas.",
+      "Dapatkan [E] pada awal tiap giliran."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Kepingan Emosi",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Jika kamu menerima damage di giliran sebelumnya, aktifkan efek pasif pada semua Orb."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enchiridion",
+    "FLAVOR": "Jurnal legendaris dari lich kuno.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, tambah sebuah kartu #yKekuatan acak ke tangan. Harganya #b0 hingga akhir giliran."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Bulu Abadi",
+    "FLAVOR": "Bulu ini terlihat benar-benar tidak bisa dihancurkan. Dari burung apa kira-kira bulu ini berasal? ",
+    "DESCRIPTIONS": [
+      "Untuk setiap #b",
+      " kartu di dek, sembuhkan #b",
+      " HP ketika kamu masuk ke Tempat Istirahat."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Telur Beku",
+    "FLAVOR": "Telur ini berbaring diam dan beku, tidak akan menetas.",
+    "DESCRIPTIONS": [
+      "Ketika kamu menambah sebuah kartu #yKekuatan ke dek, kartunya #yDitingkatkan."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Mata Beku",
+    "FLAVOR": "Tanpa deskripsi.",
+    "DESCRIPTIONS": [
+      "Ketika melihat #yTumpukan #yAmbil, kartunya sekarang terlihat urut."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Kepingan Judi",
+    "FLAVOR": "Kamu bisa melihat tulisan kecil di satu sisi. Bacanya: \"Kepingan keberuntungan milih Beruang!\"",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, buang berapapun kartu kemudian ambil sejumlah sama."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Jahe",
+    "FLAVOR": "Bahan ampuh dalam banyak obat kuat.",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa lagi menjadi #yLemah."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girya",
+    "FLAVOR": "Girya ini sangatlah berat. Kamu bisa berlatih dengan ini untuk menjadi lebih kuat.",
+    "DESCRIPTIONS": [
+      "Kamu sekarang bisa dapatkan #yDaya di Tempat Istirahat. (Maksimum 3 kali)"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Berhala Emas",
+    "FLAVOR": "Terbuat dari emas utuh, kamu merasa lebih kaya hanya dengan memegangnya.",
+    "DESCRIPTIONS": [
+      "Musuh menjatuhkan #b25% lebih #yEmas."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Tanduk Gremlin",
+    "FLAVOR": "\"Pemimpin Gremlin mampu tumbuh hingga hari mereka mati. Luar Biasa.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ketika sebuah musuh mati, dapatkan ",
+      "[E] dan ambil #b1 kartu."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Bunga Bahagia",
+    "FLAVOR": "Tumbuhan yang selalu bahagia ini adalah barang ornamen populer di kalangan bangsawan.",
+    "DESCRIPTIONS": [
+      "Tiap #b",
+      " giliran, dapatkan [E] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Es Krim",
+    "FLAVOR": "\"Enak!\"",
+    "DESCRIPTIONS": [
+      "Energi sekarang disimpan tiap giliran."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Dorong. Tarik. Tumpuk. Ulangi.",
+    "DESCRIPTIONS": [
+      "Tiap #b2 giliran, dapatkan #b1 petak Orb."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Gelang Juzu",
+    "FLAVOR": "Penangkal melawan yang tak diketahui.",
+    "DESCRIPTIONS": [
+      "Pertarungan musuh bisa tidak lagi ditemukan di ruang #y? ."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Pedang yang disukai pembunuh karena mematikan dalam jarak jauh.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b",
+      " #ySerangan dalam satu giliran, dapatkan #b",
+      " #yKetangkasan."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lentera",
+    "FLAVOR": "Lentera seram yang hanya menerangi penggunanya.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan tambahan ",
+      "[E] ",
+      ""
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Wafel Lee",
+    "FLAVOR": "\"Jajan terenak yang akan kamu temukan di seluruh Spire! Dipanggang hari ini hanya untukmu.\"",
+    "DESCRIPTIONS": [
+      "Ketika diambil, naikkan HP Maks sebanyak #b",
+      " dan sembuhkan semua HP."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Pembuka Surat",
+    "FLAVOR": "Terlalu tajam dari biasanya.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b3 Kemampuan dalam satu giliran, beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Living Blade",
+    "FLAVOR": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "Kamu bisa mendapatkan any number of any kartu."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Ekor Cicak",
+    "FLAVOR": "Ekor palsu untuk membohongi musuh dalam pertarungan.",
+    "DESCRIPTIONS": [
+      "Ketika kamu akan mati, sembuhkan ke #b50% dari HP Maks (bekerja sekali)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Bunga Ajaib",
+    "FLAVOR": "Bunga yang dikira sudah lama punah, entah bagaimana dijaga dalam keadaan sempurna.",
+    "DESCRIPTIONS": [
+      "Penyembuhan #b50% lebih efektif dalam pertarungan."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mangga",
+    "FLAVOR": "Buah terlupakan yang paling diidamkan. Terjaga tanpa tanda-tanda pengaruh dari wabah Spire.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, naikkan HP Maks sebanyak #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Tanda Rasa Sakit",
+    "FLAVOR": "Tanda ini digunakan oleh suku utara untuk menandakan pejuang yang sudah mengalahkan rasa sakit dalam pertarungan.",
+    "DESCRIPTIONS": [
+      "Dapatkan [R] pada awal tiap giliran. Mulai pertarungan dengan #b2 #rLuka di tumpukan ambil."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matryoshka",
+    "FLAVOR": "Sekelompok boneka berwarna yang dapat ditumpuk. Warnanya menggambarkan burung yang tak diketahui dengan mata putih dan bulu biru.",
+    "DESCRIPTIONS": [
+      "#bDua peti selanjutnya yang kamu buka berisi #b2 #yPusaka. (Tidak termasuk peti bos)",
+      "Peti selanjutnya yang kamu buka berisi #b2 #yPusaka. (Tidak termasuk peti bos)",
+      "Pusaka ini sudah habis digunakan."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Daging dalam Tulang",
+    "FLAVOR": "Dagingnya terus mengisi ulang, tak terlihat seperti akan benar-benar habis.",
+    "DESCRIPTIONS": [
+      "JIka HP-mu sama dengan atau kurang dari #b50% pada akhir pertarungan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Kotak Medis",
+    "FLAVOR": "\"Punya semua yang kamu butuh! Anti gatal, anti bakar, anti racun, dan lain sebagainya!\"",
+    "DESCRIPTIONS": [
+      "Kartu #yStatus Statis sekarang bisa dimainkan. Memainkan sebuah #yStatus akan membuat #yHangus kartunya."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Kartu Anggota",
+    "FLAVOR": "\"Tawaran bonus langganan untuk pelangganku yang paling berharga!\"",
+    "DESCRIPTIONS": [
+      "#b50% diskon ke semua produk!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Jam Pasir Merkuri",
+    "FLAVOR": "Jam pasir yang disihir terus-terusan menetes.",
+    "DESCRIPTIONS": [
+      "Pada awal giliranmu, beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Telur Leleh",
+    "FLAVOR": "Telur dari Phoenix. Menyala merah panas dengan lava yang mengalir.",
+    "DESCRIPTIONS": [
+      "Ketika kamu menambah sebuah kartu #ySerangan ke dek, kartunya #yDitingkatkan."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Tangan Mumi",
+    "FLAVOR": "Sering bergerak, terutama ketika kamu berdetak tinggi.",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah #yKekuatan, satu kartu acak di tangan berharga #b0 dalam giliran ini."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Hanya yang bodoh mencoba dan memanfaatkan kekuatan jahat ini. Malam hari mimpimu dihantui oleh bayangan buku memakan pikiranmu.",
+    "DESCRIPTIONS": [
+      "#ySerangan pertama yang dimainkan tiap giliran berharga #b",
+      " atau lebih dimainkan dua kali. Ketika kamu mengambil pusaka ini, mendapat #rKutukan.",
+      " atau lebih dimainkan dua kali."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Ratapan Neow",
+    "FLAVOR": "Berkat ratapan yang dianugerahkan oleh Neow.",
+    "DESCRIPTIONS": [
+      "Musuh di #b3 pertarungan pertama akan memiliki #b1 HP.",
+      "The blessing is used up."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Naskah Kuno Nilry",
+    "FLAVOR": "Diciptakan oleh game master terkenal sendiri. Katanya untuk meluaskan pikiran.",
+    "DESCRIPTIONS": [
+      "Pada akhir tiap giliran, kamu bisa memilih #b1 dari #b3 kartu acak untuk dikocok ke tumpukan ambil."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Gulungan Ninja",
+    "FLAVOR": "Mengandung rahasia dari pembunuhan.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b",
+      " #yShiv di tangan."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Hadiah N'loth",
+    "FLAVOR": "Hadiah aneh dari N'loth. Setiap kali kamu mencoba membukanya, boks belum terbuka berukuran sama ada di dalamnya.",
+    "DESCRIPTIONS": [
+      "#bTiga #bkali naikkan peluang menerima kartu langka sebagai hadiah monster."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Baterai Nuklir",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, #ySalur #b1 #yPlasma."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nullstone Periapt",
+    "FLAVOR": "DEPRECATED.",
+    "DESCRIPTIONS": [
+      "Batalkan #yDebuff selanjutnya yang kamu terima dari musuh. NL Isi ulang dalam #b10 giliran."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Jamur Aneh",
+    "FLAVOR": "\"Setelah memakan trichella parastius aku merasa lebih besar dan kurang... rentan.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Ketika #yRentan, menerima #b25% damage lebih daripada #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Batu Terlalu Halus",
+    "FLAVOR": "Kamu belum pernah melihat sesuatu sangat halus dan murni. Ini pasti pekerjaan dari Ancient.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b",
+      " #yKetangkasan."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Koin Tua",
+    "FLAVOR": "Koin unik sangat dihargai oleh pedagang untuk nilai sejarahnya dan komposisi metal langkanya.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, dapatkan #b300 #yEmas."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "Jimat umum untuk menolak arwah jahat. Yang ini sepertinya memiliki percikan energi suci.",
+    "DESCRIPTIONS": [
+      "Batalkan #b2 #rKutukan selanjutnya yang kamu peroleh.",
+      "Batalkan #rKutukan selanjutnya yang kamu peroleh.",
+      "Pusaka ini habis digunakan."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalcum",
+    "FLAVOR": "Logam berwarna hijau yang tak diketahui asalnya. Sepertinya tidak bisa dihancurkan.",
+    "DESCRIPTIONS": [
+      "JIka kamu mengakhiri giliran tanpa #yBlok, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Kipas Hiasan",
+    "FLAVOR": "Kipas ini sepertinya membesar dan mengeras saat darah dijatuhkan.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b3 #ySerangan dalam satu giliran, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Model Planet",
+    "FLAVOR": "\"Sekali kamu mengerti alam semesta...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Pilih dan tambah #b5 kartu ke dek.",
+      "Ilmu!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Kotak Pandora",
+    "FLAVOR": "Kamu punya firasat buruk membuka ini.",
+    "DESCRIPTIONS": [
+      "#bTransformasi semua Serang dan Bertahan.",
+      "Kotak Pandora telah dibuka..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograf",
+    "FLAVOR": "\"Dasar yang kuat tidaklah terjadi tiba-tiba. Alat untuk merencanakan itu harus.\" - Sang Arsitek",
+    "DESCRIPTIONS": [
+      "Pada awal pertarungan bos, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Kertas Banghau",
+    "FLAVOR": "Origami dari sebuah makhluk masa lalu.",
+    "DESCRIPTIONS": [
+      "Musuh dengan #yLemah memberi #b40% kurang damage daripada #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Kertas Kathak",
+    "FLAVOR": "Kertas ini terus-terusan melipat dan membuka dirinya membentuk sebuah makhluk kecil.",
+    "DESCRIPTIONS": [
+      "Musuh dengan #yRentan menerima #b75% lebih damage daripada #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Pipa Kedamaian",
+    "FLAVOR": "Mengosongkan pikiran dan membersihkan jiwa.",
+    "DESCRIPTIONS": [
+      "Kamu sekarang bisa menghapus kartu dari dek di Tempat Istirahat."
+    ]
+  },
+  "Pear": {
+    "NAME": "Pir",
+    "FLAVOR": "Buah umum sebelum adanya wabah Spire.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, naikkan HP Maks sebanyak #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Ujung Pena",
+    "FLAVOR": "Memegang ujung pena, kamu bisa melihat semua orang yang dibunuh oleh pemilik sebelumnya. Sejarah yang ganas.",
+    "DESCRIPTIONS": [
+      "Untuk setiap #ySerangan ke #b10 yang kamu mainkan memberi damage ganda."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Batu Filsuf",
+    "FLAVOR": "Energi mentah keluar dari batu ini, menguatkan semua yang di dekatnya.",
+    "DESCRIPTIONS": [
+      "Dapatkan [E] pada awal tiap giliran. SEMUA musuh memulai dengan #b",
+      " #yDaya."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Sabuk Ramuan",
+    "FLAVOR": "Aku bisa membawa lebih banyak Ramuan dengan sabuk ini!",
+    "DESCRIPTIONS": [
+      "Ketika diambil, dapatkan #b2 petak Ramuan."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Roda Doa",
+    "FLAVOR": "Roda ini terus berputar, tanpa henti.",
+    "DESCRIPTIONS": [
+      "Musuh biasa menjatuhkan tambahan hadiah kartu."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Kartu Pertanyaan",
+    "FLAVOR": "\"Mereka yang memiliki lebih banyak pilihan mengurangi risiko menuju kekacauan.\" - Kublai yang Agung",
+    "DESCRIPTIONS": [
+      "Pada layar Hadiah Kartu selanjutnya kamu punya #y1 tambahan kartu untuk dipilih."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Gelang Merah",
+    "FLAVOR": "Kamu kehabisan pusaka. Wow!",
+    "DESCRIPTIONS": [
+      "Terlihat sangat indah."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Topeng Merah",
+    "FLAVOR": "Topeng keren ini dimiliki oleh pemimpin dari Bandit Topeng Merah. Bisa dibilang kamu pemimpinnya sekarang?",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, terapkan #b",
+      " #yLemah ke SEMUA musuh."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Tengkorak Merah",
+    "FLAVOR": "Tengkorak kecil dilingkupi cat hiasan.",
+    "DESCRIPTIONS": [
+      "Ketika HP-mu sama dengan atau kurang dari #b50%, kamu memiliki #b",
+      " tambahan #yDaya."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Bantal Mewah",
+    "FLAVOR": "Sekarang kamu bisa mendapatkan istirahat malam yang cukup.",
+    "DESCRIPTIONS": [
+      "Sembuhkan tambahan #b",
+      " HP ketika kamu #yIstirahat."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Cincin Naga",
+    "FLAVOR": "Cincinmu bergerak dan telah berubah bentuk.",
+    "DESCRIPTIONS": [
+      "Ganti #gRing #gof #gthe #gSnake. ",
+      "Pada awal giliran, ambil #b1 tambahan kartu."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Cincin Ular",
+    "FLAVOR": "Dibuat dari fosil ular. Melambangkan kemampuan hebat sebagai pemburu.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, ambil #b",
+      " tambahan kartu."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Kapasitor Aksara",
+    "FLAVOR": "Lebih itu lebih baik.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b3 tambahan petak Orb."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Kubus Aksara",
+    "FLAVOR": "Aksaranya tidak bisa ditafsirkan.",
+    "DESCRIPTIONS": [
+      "Ketika kamu kehilangan HP, ambil #b",
+      " kartu.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Kubah Aksara",
+    "FLAVOR": "Aksaranya tidak bisa ditafsirkan.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap giliran. kamu tidak bisa lagi melihat #bNiatan musuh.",
+      "Dapatkan [E] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Piramida Aksara",
+    "FLAVOR": "Aksaranya tidak bisa ditafsirkan.",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran, kamu tidak lagi membuang tanganmu.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Lempung Mandiri",
+    "FLAVOR": "\"Sangat menarik! Sepertinya membentuk dirinya kurang lebih dari pikiranku! Tele-clay?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ketika kamu kehilangan HP dalam pertarungan, dapatkan #b",
+      " #yBlok giliran selanjutnya."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Sekop",
+    "FLAVOR": "Spire mengandung banyak pusaka dari peradaban lama dan petualang kuat yang hilang oleh waktu. Waktunya untuk menggalinya!",
+    "DESCRIPTIONS": [
+      "Kamu sekarang bisa #yGali untuk loot di Tempat Istirahat."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Senjata lempar ringan. Disarankan untuk diarahkan ke mata.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b",
+      " #ySerangan dalam satu giliran, dapatkan #b",
+      " #yDaya."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Mangkok Bernyanyi",
+    "FLAVOR": "Pusaka yang digunakan dengan baik ini mengeluarkan melodi indah ketika dipukul.",
+    "DESCRIPTIONS": [
+      "Ketika menambah kartu ke dek, kamu boleh memilih untuk mendapatkan #b+2 HP Maks."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Topeng Senyum",
+    "FLAVOR": "Topeng yang dipakai oleh sang Pedagang. Dia pasti punya cadangan...",
+    "DESCRIPTIONS": [
+      "Layanan penghapusan kartu dari Pedagang sekarang selalu berharga #b",
+      " #yEmas."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Tengkorak Laroke",
+    "FLAVOR": "Tengkorak laroke dalam kondisi murni. Anehnya bersih dan halus, tanah dan kotoran jatuh tanpa penjelasana.",
+    "DESCRIPTIONS": [
+      "Ketika kamu terapkan #yRacun, terapkan tambahan #b",
+      " #yRacun."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Mata Laroke",
+    "FLAVOR": "Mata dari laroke yang tumbang. Lebih besar dari yang kamu kira.",
+    "DESCRIPTIONS": [
+      "Ambil #b2 tambahan kartu tiap giliran. Memulai setiap pertarungan dengan #yBingung."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "Kamu menyadari bahwa cairan ajaib sepertinya kehilangan efeknya di dekat pusaka ini.",
+    "DESCRIPTIONS": [
+      " Kamu tidak bisa lagi mendapatkan ramuan. ",
+      "Dapatkan [E] pada awal tiap giliran."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Tinja Spirit",
+    "FLAVOR": "Sisa hangusan dari persembahanmu ke arwah.",
+    "DESCRIPTIONS": [
+      "Baunya tidak enak."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Sendok Aneh",
+    "FLAVOR": "Menatap ke sendok, kehilatannya membengkok dan berputar di depan matamu.",
+    "DESCRIPTIONS": [
+      "Kartu yang #yHangus ketika dimainkan justru akan dibuang #b50% kali kesempatan."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Stroberi",
+    "FLAVOR": "\"Nikmat! Nggak pernah temukan ini sejak wabah.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ketika diambil, naikkan HP Maks sebanyak #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Jam Matahari",
+    "FLAVOR": "\"Obsesi bodoh manusia awal dengan waktu membuat mereka melihat ke langit untuk petunjuk, mengharapkan sesuatu yang permanen.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Setiap #b",
+      " kali kamu kamu mengkocok dek, dapatkan [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virus Simbiosis",
+    "FLAVOR": "Sedikit keburukan bisa menghasilkan banyak hal yang baik...",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, #ySalur #b1 #yHitam."
+    ]
+  },
+  "Test 1": {
+    "NAME": "Test 1",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "Test 2",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "When viewing your #yDraw #yPile, the kartus are now shown in order."
+    ]
+  },
+  "Test 3": {
+    "NAME": "Test 3",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "When obtained, #yPeningkatan all of your #yDefend kartus."
+    ]
+  },
+  "Test 4": {
+    "NAME": "Test 4",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Pada awal pertarungan, the cost of all #yStrike kartus are set to #b0."
+    ]
+  },
+  "Test 5": {
+    "NAME": "Test 5",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Upon pick up, #yPeningkatan #b",
+      " random #yKemampuans."
+    ]
+  },
+  "Test 6": {
+    "NAME": "Test 6",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Pada akhir tiap giliran, dapatkan #b",
+      " #yBlok for every #b",
+      " #yEmas kamu have."
+    ]
+  },
+  "Test 7": {
+    "NAME": "Test 7",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "#yElites now drop #b2 #yRelics when defeated."
+    ]
+  },
+  "Test 8": {
+    "NAME": "Test 8",
+    "FLAVOR": "Test relic for beta. If kamu like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "ambil #b2 additional kartus tiap giliran. Mulai tiap pertarungan #yBingung."
+    ]
+  },
+  "The Courier": {
+    "NAME": "Kurir",
+    "FLAVOR": "Hewan peliharaan milik sang Pedagang!",
+    "DESCRIPTIONS": [
+      "Pedagang tidak lagi kehabisan kartu, pusaka, atau ramuan dan harganya berkurang sebanyak #b20%."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Spesimen",
+    "FLAVOR": "\"Mempesona! Aku menemukan makhluk mutasi yang memperlihatkan sifat beracun yang kuat. Menyimpan sampel untuk pengamatan selanjutnya.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ketika sebuah musuh mati, transfer semua #yRacun yang dia punya ke musuh acak."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Benang dan Jarum",
+    "FLAVOR": "Membungkus benang magis ke sekitar tubumu, kamu merasa lebih keras untuk disentuh.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, dapatkan #b",
+      " #yZirah #yBerlapis."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "Suara yang instrumen ini buat sepertinya mampu bergetar hingga tingkat volume yang menyakitkan.",
+    "DESCRIPTIONS": [
+      "Ketika kamu buang sebuah kartu selama giliran, beri #b",
+      " damage ke musuh acak untuk setiap kartu yang dibuang."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Peti Kecil",
+    "FLAVOR": "\"Prototipe yang bagus.\" - Sang Arsitek",
+    "DESCRIPTIONS": [
+      "Setiap #b",
+      " ruangan #y? adalah ruangan harta karum",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Rumah Kecil",
+    "FLAVOR": "\"Implementasi miniaturisasi yang hampir sempurna. Karya terbaikku hingga saat ini, tapi masih belum cukup.\" - Sang Arsitek",
+    "DESCRIPTIONS": [
+      "Ketika diambil, memperoleh #b1 ramuan. NL Dapatkan #b",
+      " #yEmas. NL Naikkan HP Maks sebanyak #b",
+      ". NL Memperoleh #b1 kartu. NL Peningkatan #b1 kartu acak.",
+      "Tiny House!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Kotak Alat",
+    "FLAVOR": "Alat untuk semua pekerjaan.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, pilih #b1 dari #b3 kartu tanpa warna acak dan tambahkan kartu yang dipilih ke tangan."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Menggenggam Torii kecil, kamu merasakan ketenangan dan keamanan melewati pikiranmu.",
+    "DESCRIPTIONS": [
+      "Ketika kamu akan menerima #b",
+      " atau kurang damage #ySerangan tak tertahan, kurangi menjadi #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Perban Kuat",
+    "FLAVOR": "Kehilangan memberi kekuatan.",
+    "DESCRIPTIONS": [
+      "Ketika kamu buang satu kartu selama giliran, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Telur Beracun",
+    "FLAVOR": "\"Penemuan yang luar biasa! Ini sepertinya telur lembam dari makhluk magis. Siapa atau apa yang membuat ini?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ketika kamu menambah sebuah kartu #yKemampuan ke dek, kartunya #yDitingkatkan."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Mainan Ornithopter",
+    "FLAVOR": "\"Mainan kecil ini adalah teman sempurna untuk petualang sendiri!\"",
+    "DESCRIPTIONS": [
+      "Ketika kamu menggunakan sebuah ramuan, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Lobak",
+    "FLAVOR": "Terbaik dengan Jahe.",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa lagi menjadi #yRapuh."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Gasing Abadi",
+    "FLAVOR": "Gasing terus berputar tanpa hambatan seakan kamu berada dalam mimpi.",
+    "DESCRIPTIONS": [
+      "Ketika kamu tidak punya kartu di tangan selama giliran, ambil satu kartu."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Pusaka ornamental diberikan ke prajurit yang memperlihatkan kejayaan dalam pertarungan.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b",
+      " #yDaya."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Kalung Beludru",
+    "FLAVOR": "\"Kekuatan yang besar, tapi terlalu terbatas.\" - Kublai yang Agung",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa memainkan lebih dari #b",
+      " kartu per giliran.",
+      "Dapatkan [E] pada awal tiap giliran. ",
+      "Aku hanya bisa memainkan hingga NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "Tinta Perang",
+    "FLAVOR": "Di masa lalu, Ironclad membuat jimat menggunakan cat perang tersihir sebelum maju ke peperangan.",
+    "DESCRIPTIONS": [
+      "Ketika diambil, lakukan #yPeningkatan #b",
+      " #yKemampuan acak."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Batu Asahan",
+    "FLAVOR": "\"Daging nggak pernah mengalahkan baja.\" - Kublai yang Agung",
+    "DESCRIPTIONS": [
+      "Ketika diambil, lakukan #yPeningkatan #b",
+      " #ySerangan acak."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Patung Binatang Putih",
+    "FLAVOR": "Patung kecil putih dari makhluk yang kamu belum pernah lihat sebelumnya.",
+    "DESCRIPTIONS": [
+      "Ramuan selalu jatuh setelah pertarungan."
+    ]
+  },
+  "Boot": {
+    "NAME": "Sepatu Bot",
+    "FLAVOR": "Ketika tersakiti, bot tumbuh lebih besar.",
+    "DESCRIPTIONS": [
+      "Ketika kamu akan memberi #b",
+      " atau kurang damage #ySerangan tak tertahan, naikkan menjadi #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Tanda Perkembangan",
+    "FLAVOR": "Di Alam Jauh, pikiran dan kenyataan adalah satu.",
+    "DESCRIPTIONS": [
+      "Kamu tidak bisa lagi menyembuhkan."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Mahkota Pecah",
+    "FLAVOR": "Mahkota milih Sang Juara... atau hanya imitasi?",
+    "DESCRIPTIONS": [
+      "Dalam layar Hadiah Kartu, kamu punya #b2 lebih sedikit kartu untuk dipilih.",
+      "Dapatkan [E] pada awal tiap giliran. "
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Pembakar Kemenyan",
+    "FLAVOR": "Asapnya mengilhami pemiliknya dengan arwah yang terbakar.",
+    "DESCRIPTIONS": [
+      "Setiap #b6 giliran, dapatkan #b1 #yKegaiban."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Kurungan Kosong",
+    "FLAVOR": "\"Aneh sekali mengurung apa yang kamu sembah.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ketika diambil, hapus #b2 kartu dari dek.",
+      "Pilih 2 kartu untuk dihapus."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Palu Menyatu",
+    "FLAVOR": "Setelah dipegang, pemiliknya tidak bisa melepasnya.",
+    "DESCRIPTIONS": [
+      "Pada awal tiap giliran. Kamu tidak bisa lagi Menempa di Tempat Istirahat.",
+      "Dapatkan [E] "
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Penyaring Kopi",
+    "FLAVOR": "\"Ya, tolong secangkir lagi. Kembali kerja. Kembali kerja!\" - Sang Arsitek",
+    "DESCRIPTIONS": [
+      "Pada awal tiap giliran. Kamu tidak bisa lagi Istirahat di Tempat Istirahat.",
+      "Dapatkan [E] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Kepala Ssserpent",
+    "FLAVOR": "Kehidupan yang paling memuaskan itu yang dimana kamu bisa membeli apapun!",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memasuki sebuah ruang ? , dapatkan #b",
+      " #yEmas."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Kekuatan Mutagen",
+    "FLAVOR": "\"Hasilnya sepertinya sejenak, memicu ketika subjek dalam bahaya.\" - Tak Diketahui",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b",
+      " #yDaya. Pada akhir giliran pertamamu, kehilangan #b",
+      " #yStrength."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Wajah Cleric",
+    "FLAVOR": "Semuanya cinta Cleric.",
+    "DESCRIPTIONS": [
+      "Tingkatkan HP Maks sebesar #b1 setelah tiap pertarungan."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Wajah Lapar N'Loth",
+    "FLAVOR": "Kamu merasa lapar.",
+    "DESCRIPTIONS": [
+      "Peti non-boss yang kamu buka selanjutnya kosong.",
+      ""
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Wajah Gremlin",
+    "FLAVOR": "Waktunya untuk lari.",
+    "DESCRIPTIONS": [
+      "Mulai tiap pertarungan dengan #b1 #yLemah."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Topeng Cultist",
+    "FLAVOR": "Bagian dari Flock!",
+    "DESCRIPTIONS": [
+      "Kamu merasa lebih berceloteh.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Sempoa",
+    "FLAVOR": "\"Satu...Dua...Tiga...\"",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu mengocok kembali tumpukan buang, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Cermin Dolly",
+    "FLAVOR": "\"Aku terlihat lucu disini.\"",
+    "DESCRIPTIONS": [
+      "Ketika diambil, dapatkan tambahan salinan dari satu kartu di dek.",
+      "Pilih 1 Kartu untuk Disalin."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Suvenir Jam Mesin",
+    "FLAVOR": "\"Banyak sekali gerigi yang menarik.\"",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, dapatkan #b1 #yArtefak."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Tiket Makan",
+    "FLAVOR": "\"Tambahan bakso untuk setiap kunjungan!\"",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memasuki sebuah ruang toko, sembuhkan #b",
+      " HP."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Corong Berbelit",
+    "FLAVOR": "\"Aku tidak akan mau minum dari itu.\"",
+    "DESCRIPTIONS": [
+      "Pada awal tiap pertarungan, terapkan #b4 #yRacun ke SEMUA musuh."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Bor Tangan",
+    "FLAVOR": "\"Spiral itu berbahaya.\"",
+    "DESCRIPTIONS": [
+      "Ketika kamu menghancurkan #yBlok sebuah musuh, terapkan #b2 #yRentan."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Melayang Layang",
+    "FLAVOR": "Layangan mengambang di sekitarmu dalam pertarungan, didorong oleh sebuah kekuatan misterius.",
+    "DESCRIPTIONS": [
+      "Dapatkan [G] dan buang #b2 kartu pada awal tiap giliran."
+    ]
+  },
+  "Sling": {
+    "NAME": "Katapel Keberanian",
+    "FLAVOR": "\"Sebuah alat bergunan untuk mengatasi musuh yang termasuk kokoh.\"",
+    "DESCRIPTIONS": [
+      "Mulai setiap pertarungan Elit dengan #b",
+      " #yDaya."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Pelet Oranye",
+    "FLAVOR": "\"Dibuat dari berbagai jamur yang ditemukan di seluruh Spire, Mereka akan mencegah penderitaan apapun.\"",
+    "DESCRIPTIONS": [
+      "Setiap kamu memainkan sebuah #yKekuatan, #ySerangan, dan #yKemampuan dalam giliran yang sama, hilangkan semua Debuff milikmu."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Pedang Pergelangan Tangan",
+    "FLAVOR": "Berguna dalam pembunuhan.",
+    "DESCRIPTIONS": [
+      "#ySerangan yang berharga #b0 memberi #b3 tambahan damage."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Kalender Batu",
+    "FLAVOR": "Lajunya waktu tidak bisa dicerna dalam Spire.",
+    "DESCRIPTIONS": [
+      "Pada akhir giliran #b",
+      ", beri #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "Alat latihan yang bagus. Membangun postur dan kecekatan dari penggunanya.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b",
+      " #ySerangan, dapatkan [E] ."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Belerang",
+    "FLAVOR": "Memunculkan hawa panas iblis.",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, dapatkan #b",
+      " #yDaya dan SEMUA musuh dapatkan #b.",
+      " #yDaya."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Serangga Terawetkan",
+    "FLAVOR": "Serangganya seperti menciptakan aura menyusut yang menyasar khususnya musuh besar.",
+    "DESCRIPTIONS": [
+      "Musuh di pertarungan Elit mempunyai #b",
+      "% kurang HP."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Jam Saku",
+    "FLAVOR": "Anak jarumnya seperti terjebak di posisi jam 3.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b3 atau kurang kartu dalam sebuah giliran, ambil #b3 tambahan kartu pada awal giliran selanjutnya."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fosil Spiral",
+    "FLAVOR": "Seperti tidak bisa hancur, kamu heran dari makhluk apa ini berasal.",
+    "DESCRIPTIONS": [
+      "Cegah waktu pertama kali kamu akan kelihangan HP dalam pertarungan."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Tembikar Prismatik",
+    "FLAVOR": "Melihat ke dalam tembikar, kamu mampu melihat perspektif yang benar-benar baru.",
+    "DESCRIPTIONS": [
+      "Layar hadiah pertarungan sekarang mengandung kartu tanpa warna dan kartu dari warna lain."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Tang Melengkung",
+    "FLAVOR": "Tang terkutuk yang mengeluarkan keinginan kuat untuk kembali ke tempat awal sebelum mereka dicuri.",
+    "DESCRIPTIONS": [
+      "Pada awal giliran, lakukan #yPeningkatan satu kartu acak di tangan hingga akhir pertarungan."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Boot Bersayap",
+    "FLAVOR": "Bergaya.",
+    "DESCRIPTIONS": [
+      "Kamu boleh mengabaikan jalur saat memilih ruang selanjutnya sebanyak #b3 kali."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Celengan Maw",
+    "FLAVOR": "Tak disangka populer, walaupun serangan maw menjadi sebuah kejadian yang rutin.",
+    "DESCRIPTIONS": [
+      "Ketika kamu naik lantai, dapatkan #b",
+      " #yEmas. Tidak lagi bekerja ketika kamu menggunakan #yEmas di toko.",
+      "Pusaka ini telah habis digunakan."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Pasir misterius dari asal tak diketahui. Harum seperti kayu manis.",
+    "DESCRIPTIONS": [
+      "Setiap kali kalu mengacak dek ambil, #yGali #b",
+      "."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Air Murni",
+    "FLAVOR": "Di filter melaui pasir halus dan bebas dari kotoran.",
+    "DESCRIPTIONS": [
+      "Di setiap awal pertarungan, Tambah sebuah #yMukjizat ke tangan."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Air Suci",
+    "FLAVOR": "Dikumpulkan dari sebuah waktu sebelum Spire.",
+    "DESCRIPTIONS": [
+      "Mengganti #pAir #pMunri. di setiap awal pertarungan, tambah #b3 #yMukjizat ke tangan."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Kulit Pohon Suci",
+    "FLAVOR": "Kulit Pohon yang dirumorkan berasal dari Pohon Dunia.",
+    "DESCRIPTIONS": [
+      "Semua efek Ramuan dilipat-gandakan dua kali."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Botol Tinta",
+    "FLAVOR": "Ketika habis, Akan mengisi dirinya sendiri dengan warna berbeda.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b10 kartu, ambil #b1 kartu."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "Sinar tidak dapat muncul tanpa kegelapan, atau mungkinkah?",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #yJurus, dapat #b1 #yDaya sementara."
+    ]
+  },
+  "Yang": {
+    "NAME": "Dualitas",
+    "FLAVOR": "\"Dan matahari pun akan padam selamanya, bagaikan gorden menutupinya.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #ySerangan, dapat #b1 #yKetangkasan sementara."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Serangan pertamamu di setiap pertarungan memberi #b",
+      " damage lebih."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Lotus  Violet",
+    "FLAVOR": "Kitab-kitab menggambarkan permukaan \"Danau Mana\" itu penuh dengan bunga ini.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu berhenti Ancang-ancang #yTeduh, Terima [E] lebih."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Liontin Air Mata",
+    "FLAVOR": "Pemiliknya buta, intinya tak pernah dilihat.",
+    "DESCRIPTIONS": [
+      "Mulai setiap pertarungan dengan #yTeduh."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ikan Keramik",
+    "FLAVOR": "Di lukis dengan teliti, ikan-ikan ini dipuja akan membawa keberuntungan besar.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu menambahkan kartu ke dek, dapatkan #b",
+      " #yEmas."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Kerah Sang Pembudak",
+    "FLAVOR": "Rantai berkarat yang menyedihkan.",
+    "DESCRIPTIONS": [
+      "Di Pertarungan Boss dan Elit, dapatkan [E] di setiap awal giliran."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Target Palsu",
+    "FLAVOR": "Bantai.",
+    "DESCRIPTIONS": [
+      "Kartu dengan kata \"Strike\" memberi #b",
+      " damage lebih."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Gesper Jubah",
+    "FLAVOR": "Design yang simpel namun kokoh.",
+    "DESCRIPTIONS": [
+      "Di setiap akhir giliranmu, dapatkan #b",
+      " #yBlok untuk setiap kartu di tangan."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Tongkat Tungsten",
+    "FLAVOR": "Amat Berat.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu kehilangan HP, itu berkurang #b",
+      " lebih sedikit."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Alas Bertanduk",
+    "FLAVOR": "Nyaman untuk dipegang. Apa gunanya?",
+    "DESCRIPTIONS": [
+      "Di awal giliran kedua mu, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Roda Kapten",
+    "FLAVOR": "Perhiasan kayu yang diukir dengan presisi dan kehalusan. Sebuah nama terukir di rodanya tapi bahasanya tak dimengerti.",
+    "DESCRIPTIONS": [
+      "Di awal giliran ketiga mu, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Mata Emas",
+    "FLAVOR": "Lihat kedalam pikiran mahkluk yang dekat",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu #yMenggali, #yGali #b",
+      " kartu lebih."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "Suara gendang kecil menjaga pemikiranmu sigap, membuka sebuah jalan maju.",
+    "DESCRIPTIONS": [
+      "Di setiap awal giliranmu, dapatkan#b",
+      " #yMantra."
+    ]
+  }
+}

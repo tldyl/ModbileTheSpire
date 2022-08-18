@@ -1,0 +1,180 @@
+{
+  "Ascension": {
+    "NAME": "Oppstigning",
+    "DESCRIPTIONS": [
+      "+5% poengsum for hvert nivå med Oppstigning."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Elitefiender (Forbi)",
+    "DESCRIPTIONS": []
+  },
+  "Bosses Slain": {
+    "NAME": "Høvdinger drept",
+    "DESCRIPTIONS": []
+  },
+  "City Elites Killed": {
+    "NAME": "Elitefiender (Byen)",
+    "DESCRIPTIONS": []
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Elitefiender (Begynnelsen)",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Mester",
+    "DESCRIPTIONS": [
+      "Drepte en elitefiende uten å ta Skade."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfekt",
+    "DESCRIPTIONS": [
+      "Drepte en høvding uten å ta Skade."
+    ]
+  },
+  "Beyond Perfect": {
+    "NAME": "Mer enn perfekt",
+    "DESCRIPTIONS": [
+      "Drepte 3 høvdinger uten å ta Skade."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Drepte, og drepte igjen",
+    "DESCRIPTIONS": [
+      "Påførte 99 Skade med ett enkelt Angrep."
+    ]
+  },
+  "Combo": {
+    "NAME": "K-k-k-kombo",
+    "DESCRIPTIONS": [
+      "Spilte 20 kort på en enkelt runde."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Bæsj",
+    "DESCRIPTIONS": [
+      "Mottok åndenes bæsj."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Juksemaker pipelort",
+    "DESCRIPTIONS": [
+      "Vi tok deg i juks! Hvis du blir tatt to ganger vil vi aldri laste opp poengsummen din på Resultatlisten."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Kjapping",
+    "DESCRIPTIONS": [
+      "Beseiret spillet på under 60 minutter."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Lysets hastighet",
+    "DESCRIPTIONS": [
+      "Beseiret spillet på under 45 minutter."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Penger, penger",
+    "DESCRIPTIONS": [
+      "Samlet opp 1000 gull."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Det regner penger",
+    "DESCRIPTIONS": [
+      "Samlet opp 2000 gull."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Jeg liker gull",
+    "DESCRIPTIONS": [
+      "Samlet opp 3000 gull."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalist",
+    "DESCRIPTIONS": [
+      "Fjernet 5+ kort fra kortstokken din."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Høylender",
+    "DESCRIPTIONS": [
+      "Kortstokken din inneholder ingen duplikater (ekskluderer kortene du startet med)."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Jeg liker skinnende",
+    "DESCRIPTIONS": [
+      "Ha 25+ relikvier."
+    ]
+  },
+  "Collector": {
+    "NAME": "Samler",
+    "DESCRIPTIONS": [
+      "Ha 4 kopier av et kort du ikke startet med."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Fattiglem",
+    "DESCRIPTIONS": [
+      "Ha 0 sjeldne kort."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliotekar",
+    "DESCRIPTIONS": [
+      "Kortstokk med fler enn 35 kort."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Leksikonorakel",
+    "DESCRIPTIONS": [
+      "Kortstokk med fler enn 50 kort."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Velfødd",
+    "DESCRIPTIONS": [
+      "Økte max HP med 15+."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Stappmett",
+    "DESCRIPTIONS": [
+      "Økte max HP med 30+."
+    ]
+  },
+  "Curses": {
+    "NAME": "Forbannelser!",
+    "DESCRIPTIONS": [
+      "Kortstokken din inneholder 5 Forbannelseskort."
+    ]
+  },
+  "Alchemist": {
+    "NAME": "Alkemist",
+    "DESCRIPTIONS": [
+      "Kjøpte 5 trylledrikker."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Mysteriemaskin",
+    "DESCRIPTIONS": [
+      "Reiste innom 15+ ? rom."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "På min egen måte",
+    "DESCRIPTIONS": [
+      "Tok ditt eget liv."
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "Heartbreaker",
+    "DESCRIPTIONS": [
+      "Defeat the Heart."
+    ]
+  }
+}

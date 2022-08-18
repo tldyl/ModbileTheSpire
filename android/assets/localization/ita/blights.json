@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Lancia della Corruzione",
+    "DESCRIPTION": [
+      "I nemici infliggono #b",
+      "% di danni in più."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Scudo della Corruzione",
+    "DESCRIPTION": [
+      "I nemici hanno #b",
+      "% PV in più."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labirinto del Tempo",
+    "DESCRIPTION": [
+      "Non puoi giocare più di #b",
+      " carte per turno.",
+      "Non posso giocare più di NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Mente Contorta",
+    "DESCRIPTION": [
+      "A fine turno aggiungi #b",
+      " carte Stato casuali in cima alla pila.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Maledetto",
+    "DESCRIPTION": [
+      "Quando sconfiggi un boss, vieni #yMaledetto casualmente #b",
+      " volte.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Sbadato",
+    "DESCRIPTION": [
+      "A inizio turno peschi #b",
+      " carte in meno.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Impostori e Mimic",
+    "DESCRIPTION": [
+      "Le stanze del Tesoro vengono sostituite da combattimenti con Elite. Non ottieni più reliquie sconfiggendo Elite."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Museruola",
+    "DESCRIPTION": [
+      "Non puoi aumentare i tuoi PV massimi. Tutte le cure sono dimezzate."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Trofeo Grottesco",
+    "DESCRIPTION": [
+      "Quando lo raccogli, ricevi #b",
+      " #rOrgoglio.",
+      "Un orgoglio perverso..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Post-Durian",
+    "DESCRIPTION": [
+      "Perdi #b",
+      "% dei tuoi PV massimi."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Essenza del vuoto",
+    "DESCRIPTION": [
+      "Ottieni #b",
+      "[E] in meno a inizio turno."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Tormento",
+    "DESCRIPTION": [
+      "A inizio combattimento i nemici guadagnano #b",
+      " #yIntangibile."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Antiche Protesi",
+    "DESCRIPTION": [
+      "A inizio combattimento i nemici ottengono #b",
+      " #yArtefatto, #b",
+      " #yArmatura a #yPiastre, e #b",
+      " #yRigenerazione."
+    ]
+  }
+}

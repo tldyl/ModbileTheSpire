@@ -1,0 +1,367 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "заштита",
+        "заштиту",
+        "заштите"
+      ],
+      "DESCRIPTION": "Негира следећи негативан статус."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "одбрана",
+        "одбрану",
+        "одбрани",
+        "одбране"
+      ],
+      "DESCRIPTION": "Спречава штету до следећег потеза."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "активација",
+        "активирај",
+        "активирао",
+        "активирану",
+        "активиране"
+      ],
+      "DESCRIPTION": "Истроши своју прву сферу с десна да искористиш њен активациони ефекат."
+    },
+    "CURSE": {
+      "NAMES": [
+        "клетва",
+        "клетве"
+      ],
+      "DESCRIPTION": "Клетве су негативне карте које остају у шпилу."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "окретност",
+        "окретности"
+      ],
+      "DESCRIPTION": "Окретност побољшава одбрану задобијену од карата."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "пролазна"
+      ],
+      "DESCRIPTION": "Ако ова карта остане у руци на крају потеза, исцрпи је. Исцрпљене карте су уклоњене до краја борбе."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "исцрпи",
+        "исцрпиш",
+        "исцрпљена",
+        "исцрпљену",
+        "исцрпљујеш"
+      ],
+      "DESCRIPTION": "Уклони карту до краја борбе."
+    },
+    "INNATE": {
+      "NAMES": [
+        "урођена"
+      ],
+      "DESCRIPTION": "Прва рука гарантовано садржи ову карту."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "потентност",
+        "потентности"
+      ],
+      "DESCRIPTION": "Потентност повећава јачину #yпризваних сфера."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "недоступна"
+      ],
+      "DESCRIPTION": "Ова карта тек треба да се откључа."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "POISON": {
+      "NAMES": [
+        "отров",
+        "отрова",
+        "затрован"
+      ],
+      "DESCRIPTION": "Отрована створења на почетку свог потеза губе ж. п. Отров се смањује за #bједан сваки круг."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "задржи",
+        "retains",
+        "retained"
+      ],
+      "DESCRIPTION": "Задржане карте се не одбацују на крају потеза."
+    },
+    "SHIV": {
+      "NAMES": [
+        "нож",
+        "ножа"
+      ],
+      "DESCRIPTION": "Ножеви су #bбесплатни напади који се исцрпљују."
+    },
+    "STATUS": {
+      "NAMES": [
+        "стање"
+      ],
+      "DESCRIPTION": "Стања су уклоњена на крају борбе."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "снага",
+        "снаге",
+        "снагу"
+      ],
+      "DESCRIPTION": "Већом снагом наносиш више штете нападима."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "преобрази"
+      ],
+      "DESCRIPTION": "Преображене карте постају насумичне карте било које вредности."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "непозната"
+      ],
+      "DESCRIPTION": "На ову карту тек треба наићи."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "неодигрива"
+      ],
+      "DESCRIPTION": "Неодигриве карте се не могу одиграти из руке."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "побољшање",
+        "побољшан",
+        "побољшај",
+        "побољшати",
+        "побољшаних"
+      ],
+      "DESCRIPTION": "Побољшавање карата их чини моћнијим. Карте се могу побољшати само једанпут."
+    },
+    "VOID": {
+      "NAMES": [
+        "вакуум",
+        "вакуум"
+      ],
+      "DESCRIPTION": "Вакууми су неодигрива стања која одузимају енергију при вучењу."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "рањивост",
+        "рањивости",
+        "рањив"
+      ],
+      "DESCRIPTION": "Рањива створења примају #b50% више штете од напада."
+    },
+    "WEAK": {
+      "NAMES": [
+        "слабост",
+        "слабости",
+        "ослабљен",
+        "weakens"
+      ],
+      "DESCRIPTION": "Напади ослабљених створења задају #b25% мање штете."
+    },
+    "WOUND": {
+      "NAMES": [
+        "рана",
+        "ране",
+        "рану"
+      ],
+      "DESCRIPTION": "Ране су неодигрива стања."
+    },
+    "DAZED": {
+      "NAMES": [
+        "ошамућеност"
+      ],
+      "DESCRIPTION": "Ошамућености су неодигрива стања."
+    },
+    "BURN": {
+      "NAMES": [
+        "опекотина",
+        "опекотину"
+      ],
+      "DESCRIPTION": "Опекотине су неодигрива стања која ти наносе штету."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "крхак",
+        "крхкост",
+        "крхкости"
+      ],
+      "DESCRIPTION": "Као крхак, задобијаш #b25% мање #yодбране од карата."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "ударац"
+      ],
+      "DESCRIPTION": "Свака карта која садржи \"ударац\" у имену."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "растројен"
+      ],
+      "DESCRIPTION": "Трошак сваке карте коју вучеш је насумична."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "неопипљив",
+        "неопипљивост",
+        "неопипљивости"
+      ],
+      "DESCRIPTION": "Смањује СВАКУ примљену штету и губитак ж. п. на #bједан."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "муња",
+        "муња+",
+        "муњу",
+        "муњу+",
+        "муње",
+        "муње+"
+      ],
+      "DESCRIPTION": "Сфера која наноси штету насумичном непријатељу."
+    },
+    "FROST": {
+      "NAMES": [
+        "мраз",
+        "мраз+",
+        "мраза",
+        "мраза+",
+        "мразова",
+        "мразова+"
+      ],
+      "DESCRIPTION": "Сфера која даје #yодбрану."
+    },
+    "DARK": {
+      "NAMES": [
+        "тама",
+        "тама+",
+        "таму",
+        "таму+",
+        "таме",
+        "таме+"
+      ],
+      "DESCRIPTION": "Сфера која је са сваким кругом све убојитија. При #yактивацији наноси штету непријатељу који има најмање ж. п."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "плазма",
+        "плазма+",
+        "плазму",
+        "плазму+",
+        "плазме",
+        "плазме+",
+        "плазмом"
+      ],
+      "DESCRIPTION": "Сфера која даје енергију."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "призивање",
+        "призови",
+        "призване",
+        "призвану",
+        "призваних",
+        "призовеш"
+      ],
+      "DESCRIPTION": "Створи сферу у првом празном пољу с десна. Ако немаш празних поља, аутоматски #yактивираш своју најдешњу сферу да направиш места."
+    },
+    "THORNS": {
+      "NAMES": [
+        "бодљикавост"
+      ],
+      "DESCRIPTION": "По примању штете од #yнапада, узврати са нешто штете."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "Енергија се користи за одигравање карата из руке."
+    ],
+    "LOCK_ON": {
+      "NAMES": [
+        "lock-on"
+      ],
+      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
+    },
+    "WRATH": {
+      "NAMES": [
+        "wrath"
+      ],
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+    },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gain #yStrength at the end of your turn."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
+    }
+  }
+}

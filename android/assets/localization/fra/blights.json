@@ -1,0 +1,98 @@
+{
+  "Accursed": {
+    "NAME": "Maudit",
+    "DESCRIPTION": [
+      "Quand vous tuez un boss, obtenez #b",
+      " #yMalédictions aléatoires.",
+      ""
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Bouclier de Corruption",
+    "DESCRIPTION": [
+      "Les ennemis #b",
+      "% de PV supplémentaires."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Esprit tordu",
+    "DESCRIPTION": [
+      "À la fin du tour, ajoutez #b",
+      " cartes Statut aléatoires au dessus de votre pioche.",
+      ""
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labyrinthe temporel",
+    "DESCRIPTION": [
+      "Vous ne pouvez pas jouer plus de #b",
+      " cartes par tour.",
+      "Je ne peux jouer que NL #r"
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Étourdissement",
+    "DESCRIPTION": [
+      "Piochez #b",
+      " cartes en moins chaque tour.",
+      ""
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Lance de Corruption",
+    "DESCRIPTION": [
+      "Les ennemis infligent #b",
+      "% de dégâts supplémentaires."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Troublant",
+    "DESCRIPTION": [
+      "Les ennemis commencent le comba1 avec #b",
+      " #yIntangible."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Post-Durian",
+    "DESCRIPTION": [
+      "Perdez #b",
+      "% de vos PV max."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Augmentation Antique",
+    "DESCRIPTION": [
+      "Les ennemis commencent le combat avec #b",
+      " #yArtefact, #b",
+      " #yd'Armure #yplaquée, et #b",
+      " de #yRégénération."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Escence du Néant",
+    "DESCRIPTION": [
+      "Gagnez #b",
+      " [E] en moins au début de chaque tour."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Muselière",
+    "DESCRIPTION": [
+      "Vous ne pouvez plus augmenter vos PV max. Tous les soins sont réduits de moitié."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Trophée grotesque",
+    "DESCRIPTION": [
+      "Lorsque vous le ramassez, obtenez #b",
+      " #rd'Orgueil.",
+      "Votre Orgueil est réduit de moitié..."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestation de Mimics",
+    "DESCRIPTION": [
+      "Dans les futurs actes, les salles au trésor Treasure sont remplacées par des Élites. Les Élites ne donnent plus de reliques."
+    ]
+  }
+}

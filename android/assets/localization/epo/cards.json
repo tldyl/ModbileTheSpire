@@ -1,0 +1,1886 @@
+{
+  "A Thousand Cuts": {
+    "NAME": "Mil tranĉoj",
+    "DESCRIPTION": "Kiam ajn vi ludas karton, faru !M! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Accuracy": {
+    "NAME": "Precizeco",
+    "DESCRIPTION": "*Pikiloj faras !M! pli da damaĝo."
+  },
+  "Acrobatics": {
+    "NAME": "Akrobataĵo",
+    "DESCRIPTION": "Prenu !M! kartojn. NL Forĵetu 1 karton."
+  },
+  "Adrenaline": {
+    "NAME": "Adrenalino",
+    "DESCRIPTION": "Gajnu [G]. NL Prenu 2 kartojn. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Gajnu [G] [G]. NL Prenu 2 kartojn. NL Elĉerpu."
+  },
+  "After Image": {
+    "NAME": "Postbildo",
+    "DESCRIPTION": "Kiam ajn vi ludas karton, gajnu 1 da ŝirmo.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Kiam ajn vi ludas karton, gajnu 1 da ŝirmo."
+  },
+  "Aggregate": {
+    "NAME": "Agregaĵo",
+    "DESCRIPTION": "Gajnu [B] por ĉiuj !M! kartoj en via prenstako"
+  },
+  "All For One": {
+    "NAME": "Ĉiu por unu",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Metu ĉiujn kartojn en via forĵetstako, kiuj kostas 0, en vian manon."
+  },
+  "All Out Attack": {
+    "NAME": "Tutatako",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Forĵetu 1 hazardan karton."
+  },
+  "Allocate": {
+    "NAME": "Asigno",
+    "DESCRIPTION": "Gajnu !M! da atento. NL Perdu 1 da forto. NL Perdu 1 da lerteco."
+  },
+  "Amplify": {
+    "NAME": "Amplifi",
+    "DESCRIPTION": "Ĉi-vice, via sekvonta potencokarto estos ludata du fojojn.",
+    "UPGRADE_DESCRIPTION": "Ĉi-vice, viaj sekvontaj !M! potencokartoj estos ludataj du fojojn."
+  },
+  "Anger": {
+    "NAME": "Kolero",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu kopion de ĉi tiu karto al via forĵetstako."
+  },
+  "Apotheosis": {
+    "NAME": "Apoteozo",
+    "DESCRIPTION": "Plibonigu ĈIUJN viajn kartojn por la cetero de la batalo. NL Elĉerpu."
+  },
+  "Armaments": {
+    "NAME": "Armaĵo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Plibonigu karton en via mano por la cetero de la batalo.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. NL Plibonigu ĉiujn kartojn en via mano por la cetero de la batalo."
+  },
+  "AscendersBane": {
+    "NAME": "Pereo de grimpanto",
+    "DESCRIPTION": "Neludebla. NL Fantoma. NL Ne povas esti forigata de via kartaro."
+  },
+  "Auto Shields": {
+    "NAME": "Aŭtomataj ŝildoj",
+    "DESCRIPTION": "Se vi havas neniom da ŝirmo, gajnu !B! da ŝirmo."
+  },
+  "Axe Kick": {
+    "NAME": "Hakilkalcitro",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Elvoku vian sekvontan sferon."
+  },
+  "Backflip": {
+    "NAME": "Salto dorsen",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Prenu 2 kartojn."
+  },
+  "Backstab": {
+    "NAME": "Perfido",
+    "DESCRIPTION": "Fundamenta. NL Faru !D! da damaĝo. NL Elĉerpu."
+  },
+  "Ball Lightning": {
+    "NAME": "Globa fulmo",
+    "DESCRIPTION": "Faru !D! da damaĝo. Konduktu !M! da fulmo."
+  },
+  "Bandage Up": {
+    "NAME": "Pansado",
+    "DESCRIPTION": "Resaniĝu !M! da vivo. NL Elĉerpu."
+  },
+  "Bane": {
+    "NAME": "Pereigo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la malamiko havas venenon, denove faru !D! da damaĝo."
+  },
+  "Barrage": {
+    "NAME": "Batado",
+    "DESCRIPTION": "Faru po !D! da damaĝo por ĉiu konduktita sfero."
+  },
+  "Barricade": {
+    "NAME": "Barikado",
+    "DESCRIPTION": "Ŝirmo ne estos forigata je la komenco de viaj vicoj."
+  },
+  "Bash": {
+    "NAME": "Draŝo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da vundebla."
+  },
+  "Battle Trance": {
+    "NAME": "Bataltranco",
+    "DESCRIPTION": "Prenu !M! kartojn. NL Vi ne povas preni pliajn kartojn ĉi-vice."
+  },
+  "Beam Cell": {
+    "NAME": "Radioĉelo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da vundebla."
+  },
+  "Berserk": {
+    "NAME": "Berserko",
+    "DESCRIPTION": "Gajnu !M! da vundebla. NL Je la komenco de viaj vicoj, gajnu [R]."
+  },
+  "Biased Cognition": {
+    "NAME": "Biasa sciiĝo",
+    "DESCRIPTION": "Gajnu !M! da atento. NL Je la komenco de viaj vicoj, perdu 1 da atento."
+  },
+  "Bite": {
+    "NAME": "Mordo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Resaniĝu !M! da vivo."
+  },
+  "Blade Dance": {
+    "NAME": "Glavodanco",
+    "DESCRIPTION": "Aldonu !M! *Pikilojn al via mano."
+  },
+  "Blaster": {
+    "NAME": "Laserpafilo",
+    "DESCRIPTION": "senvalidiĝa"
+  },
+  "Blind": {
+    "NAME": "Blindigo",
+    "DESCRIPTION": "Aldonu !M! da malforta.",
+    "UPGRADE_DESCRIPTION": "Aldonu !M! da malforta al ĈIUJ malamikoj."
+  },
+  "Blizzard": {
+    "NAME": "Blizardo",
+    "DESCRIPTION": "Faru al malamikoj ĈIUJ !M! fojojn tiom da damaĝo, kiom vi konduktis froston ĉi-batale.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Faros !D! da damaĝo.)",
+      ""
+    ]
+  },
+  "Blood for Blood": {
+    "NAME": "Sango pro sango",
+    "DESCRIPTION": "Kostas 1 malpli da [R] NL por ĉiu fojo, ke vi perdis vivon ĉi-batale. NL Faru !D! da damaĝo."
+  },
+  "Bloodletting": {
+    "NAME": "Sangellaso",
+    "DESCRIPTION": "Perdu 3 da vivo. NL Gajnu [R] [R].",
+    "UPGRADE_DESCRIPTION": "Perdu 3 da vivo. NL Gajnu [R] [R] [R]."
+  },
+  "Bludgeon": {
+    "NAME": "Klabado",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Blur": {
+    "NAME": "Malklariĝo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Ŝirmo ne estos forigata je la komenco de via sekvonta vico."
+  },
+  "Body Slam": {
+    "NAME": "Korpofrapo",
+    "DESCRIPTION": "Faru damaĝon egale al via ŝirmo.",
+    "UPGRADE_DESCRIPTION": " NL (Faros !D! da damaĝo.)"
+  },
+  "BootSequence": {
+    "NAME": "Ŝargoplano",
+    "DESCRIPTION": "Fundamenta. NL Gajnu !B! da ŝirmo. NL Elĉerpu."
+  },
+  "Bouncing Flask": {
+    "NAME": "Resaltema botelo",
+    "DESCRIPTION": "Aldonu 3 da veneno al hazarda malamiko !M! fojojn."
+  },
+  "Brutality": {
+    "NAME": "Brutaleco",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, perdu 1 da vivo kaj prenu 1 karton.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Je la komenco de viaj vicoj, perdu 1 da vivo kaj prenu 1 karton."
+  },
+  "Buffer": {
+    "NAME": "Bufro",
+    "DESCRIPTION": "Preventu la sekvontan perdon de vivpoentoj.",
+    "UPGRADE_DESCRIPTION": "Preventu la sekvontajn !M! perdojn de vivpoentoj."
+  },
+  "Bullet Time": {
+    "NAME": "Kuglorapideco",
+    "DESCRIPTION": "Vi ne plu povas preni kartojn ĉi-vice. Malaltigu la koston de ĉiuj kartoj en via mano al 0 ĉi-vice."
+  },
+  "Burn": {
+    "NAME": "Brulo",
+    "DESCRIPTION": "Neludebla. NL Je la fino de via vico, prenu 2 da damaĝo.",
+    "UPGRADE_DESCRIPTION": "Neludebla. NL Je la fino de via vico, prenu 4 da damaĝo."
+  },
+  "Burning Pact": {
+    "NAME": "Brula pakto",
+    "DESCRIPTION": "Elĉerpu 1 karton. NL Prenu !M! kartojn."
+  },
+  "Burst": {
+    "NAME": "Eksalto",
+    "DESCRIPTION": "Ĉi-vice, via sekvonta kapablo estos NL ludata du fojojn.",
+    "UPGRADE_DESCRIPTION": "Ĉi-vice, viaj sekvontaj !M! kapabloj estos ludataj du fojojn."
+  },
+  "Calculated Gamble": {
+    "NAME": "Kalkulita veto",
+    "DESCRIPTION": "Forĵetu vian manon, NL kaj poste prenu tiom da kartoj. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Forĵetu vian manon, NL kaj poste prenu tiom da kartoj."
+  },
+  "Caltrops": {
+    "NAME": "Piktetraedoj",
+    "DESCRIPTION": "Kiam ajn vi estas atakata, refaru !M! da damaĝo."
+  },
+  "Capacitor": {
+    "NAME": "Kondensilo",
+    "DESCRIPTION": "Gajnu !M! sferingojn.",
+    "UPGRADE_DESCRIPTION": "Gajnu !M! sferingojn."
+  },
+  "Carnage": {
+    "NAME": "Masakro",
+    "DESCRIPTION": "Fantoma. NL Faru !D! da damaĝo."
+  },
+  "Catalyst": {
+    "NAME": "Katalizanto",
+    "DESCRIPTION": "Duobligu la venenon de la malamiko. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Triobligu la venenon de la malamiko. NL Elĉerpu."
+  },
+  "Chaos": {
+    "NAME": "Ĥaoso",
+    "DESCRIPTION": "Konduktu !M! hazardan sferon.",
+    "UPGRADE_DESCRIPTION": "Konduktu !M! hazardajn sferojn."
+  },
+  "Chill": {
+    "NAME": "Frisko",
+    "DESCRIPTION": "Konduktu po !M! da frosto por ĉiu malamiko en la batalo. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Konduktu po !M! da frosto por ĉiu malamiko en la batalo. Elĉerpu."
+  },
+  "Choke": {
+    "NAME": "Sufoko",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Kiam ajn vi ludas karton ĉi-vice, tiu malamiko perdas !M! da vivo."
+  },
+  "Chrysalis": {
+    "NAME": "Krizalido",
+    "DESCRIPTION": "Miksu !M! hazardajn kapablojn en vian prenstakon. Ili kostos 0 ĉi-batale. NL Elĉerpu."
+  },
+  "Clash": {
+    "NAME": "Kolizio",
+    "DESCRIPTION": "Nur ludebla kiam ĉiu karto en via mano estas atako. NL Faru !D! da damaĝo.",
+    "EXTENDED_DESCRIPTION": [
+      "Mi havas neatakajn kartojn en via mano."
+    ]
+  },
+  "Cleave": {
+    "NAME": "Distranĉo",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Cloak And Dagger": {
+    "NAME": "Spionado",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Aldonu !M! *Pikilon al via mano.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. NL Aldonu !M! *Pikilojn al via mano."
+  },
+  "Clothesline": {
+    "NAME": "Pendigŝnuro",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da malforta."
+  },
+  "Clumsy": {
+    "NAME": "Malgracio",
+    "DESCRIPTION": "Neludebla. NL Fantoma."
+  },
+  "Cold Snap": {
+    "NAME": "Ekglacio",
+    "DESCRIPTION": "Faru !D! da damaĝo. Konduktu !M! da frosto."
+  },
+  "Combust": {
+    "NAME": "Ekbrulo",
+    "DESCRIPTION": "Je la fino de viaj vicoj, perdu 1 da vivo kaj faru !M! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Concentrate": {
+    "NAME": "Koncentriĝi",
+    "DESCRIPTION": "Forĵetu !M! kartojn. NL Gajnu [G] [G]."
+  },
+  "Conserve Battery": {
+    "NAME": "Bateriŝargo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Sekvontvice, NL gajnu [B]."
+  },
+  "Consume": {
+    "NAME": "Konsumo",
+    "DESCRIPTION": "Gajnu !M! da atento. NL Perdu 1 sferingon."
+  },
+  "Coolheaded": {
+    "NAME": "Malvarma regilo",
+    "DESCRIPTION": "Konduktu 1 da frosto. NL Prenu !M! karton.",
+    "UPGRADE_DESCRIPTION": "Konduktu 1 da frosto. NL Prenu !M! kartojn."
+  },
+  "Corpse Explosion": {
+    "NAME": "Putra eksplodo",
+    "DESCRIPTION": "Aldonu !M! da veneno. Post morto, faru ĝian maks. vivon da damaĝo al ĈIUJ malamikoj.",
+    "UPGRADE_DESCRIPTION": "senvalidiĝa",
+    "EXTENDED_DESCRIPTION": [
+      "senvalidiĝa"
+    ]
+  },
+  "Corruption": {
+    "NAME": "Koruptiĝo",
+    "DESCRIPTION": "Kapabloj kostas 0. NL Kiam ajn vi ludas kapablon, elĉerpu ĝin."
+  },
+  "Creative AI": {
+    "NAME": "Kreema AI",
+    "DESCRIPTION": "Je la komenco NL de viaj vicoj, NL aldonu hazardan NL potencokarton NL al via mano."
+  },
+  "Crippling Poison": {
+    "NAME": "Kripliga nebulo",
+    "DESCRIPTION": "Aldonu !M! da veneno kaj 2 da malforta al ĈIUJ malamikoj. NL Elĉerpu."
+  },
+  "Dagger Spray": {
+    "NAME": "Tranĉilŝpruco",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj du fojojn."
+  },
+  "Dagger Throw": {
+    "NAME": "Tranĉilĵeto",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu 1 karton. NL Forĵetu 1 karton."
+  },
+  "Dark Embrace": {
+    "NAME": "Obskura klinĉo",
+    "DESCRIPTION": "Kiam ajn karto estas elĉerpata, NL prenu 1 karton."
+  },
+  "Dark Shackles": {
+    "NAME": "Malhelkateno",
+    "DESCRIPTION": "Malamiko perdas !M! da forto ĉi-vice. NL Elĉerpu."
+  },
+  "Darkness": {
+    "NAME": "Mallumeco",
+    "DESCRIPTION": "Konduktu !M! da mallumo.",
+    "UPGRADE_DESCRIPTION": "Konduktu !M! da mallumo. NL Uzigu la pasivan kapablon de ĉiuj mallumaj sferoj."
+  },
+  "Dash": {
+    "NAME": "Ekkuro",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Faru !D! da damaĝo."
+  },
+  "Dazed": {
+    "NAME": "Konsterniĝo",
+    "DESCRIPTION": "Neludebla. NL Fantoma."
+  },
+  "Deadly Poison": {
+    "NAME": "Mortiga veneno",
+    "DESCRIPTION": "Aldonu !M! da veneno."
+  },
+  "Decay": {
+    "NAME": "Putro",
+    "DESCRIPTION": "Neludebla. NL Je la fino de via vico, prenu 2 da damaĝo."
+  },
+  "Deep Breath": {
+    "NAME": "Profunda spiro",
+    "DESCRIPTION": "Miksu vian forĵetstakon en vian prenstakon. NL Prenu !M! karton.",
+    "UPGRADE_DESCRIPTION": "Miksu vian forĵetstakon en vian prenstakon. NL Prenu !M! kartojn."
+  },
+  "Defend_B": {
+    "NAME": "Defendo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Defend_G": {
+    "NAME": "Defendo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Defend_R": {
+    "NAME": "Defendo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Defend_P": {
+    "NAME": "Defendo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Deflect": {
+    "NAME": "Deviigo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Defragment": {
+    "NAME": "Malfragmentiĝo",
+    "DESCRIPTION": "Gajnu !M! da atento."
+  },
+  "Demon Form": {
+    "NAME": "Demonformo",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, gajnu !M! da forto."
+  },
+  "Die Die Die": {
+    "NAME": "Mort-mort-mortu",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Elĉerpu."
+  },
+  "Disarm": {
+    "NAME": "Senarmigo",
+    "DESCRIPTION": "Malamiko perdas !M! da forto. NL Elĉerpu."
+  },
+  "Distraction": {
+    "NAME": "Distro",
+    "DESCRIPTION": "Aldonu hazardan kapablon al via mano. NL Ĝi kostas 0 ĉi-vice. NL Elĉerpu."
+  },
+  "Dodge and Roll": {
+    "NAME": "Evito kaj rolo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Sekvontvice, gajnu !B! da ŝirmo."
+  },
+  "Doom and Gloom": {
+    "NAME": "Malgajeco",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Konduktu !M! da mallumo."
+  },
+  "Doppelganger": {
+    "NAME": "Doppelgänger",
+    "DESCRIPTION": "Sekvontvice, NL prenu X kartojn kaj NL gajnu X [G]. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Sekvontvice, NL prenu X+1 kartojn NL kaj gajnu X+1 [G]. NL Elĉerpu."
+  },
+  "Double Energy": {
+    "NAME": "Energiduobligo",
+    "DESCRIPTION": "Duobligu vian energion. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Duobligu vian energion."
+  },
+  "Double Tap": {
+    "NAME": "Duobla frapo",
+    "DESCRIPTION": "Ĉi-vice, via sekvonta atako estos ludata du fojojn.",
+    "UPGRADE_DESCRIPTION": "Ĉi-vice, viaj sekvontaj !M! atakoj estos ludataj du fojojn."
+  },
+  "Doubt": {
+    "NAME": "Dubo",
+    "DESCRIPTION": "Neludebla. NL Je la fino de via vico, gajnu 1 da malforta."
+  },
+  "Dramatic Entrance": {
+    "NAME": "Drama eniro",
+    "DESCRIPTION": "Fundamenta. NL Faru !D! da damaĝo al ĈIUJ malamikoj. NL Elĉerpu."
+  },
+  "Dropkick": {
+    "NAME": "Saltpiedfrapo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la malamiko estas vundebla, NL gajnu [R] kaj NL prenu 1 karton."
+  },
+  "Dual Wield": {
+    "NAME": "Duarmile",
+    "DESCRIPTION": "Elektu atakokarton aŭ potencokarton. Aldonu kopion de tiu karto al via mano.",
+    "UPGRADE_DESCRIPTION": "Elektu atakokarton aŭ potencokarton. Aldonu 2 kopiojn de tiu karto al via mano."
+  },
+  "Dualcast": {
+    "NAME": "Duobla aktivigo",
+    "DESCRIPTION": "Elvoku vian sekvontan sferon 2 fojojn."
+  },
+  "Echo Form": {
+    "NAME": "Eĥoformo",
+    "DESCRIPTION": "Fantoma. NL La unua karto, kiun vi ludas ĉiuvice, estas ludata du fojojn.",
+    "UPGRADE_DESCRIPTION": "La unua karto, kiun vi ludas ĉiuvice, estas ludata du fojojn."
+  },
+  "Electrodynamics": {
+    "NAME": "Elektrodinamiko",
+    "DESCRIPTION": "Fulmo nun trafas ĈIUJN malamikojn. NL Konduktu !M! da fulmo.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Endless Agony": {
+    "NAME": "Senfina sufero",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Kiam ajn vi prenas ĉi tiun karton, aldonu kopion al via mano. NL Elĉerpu."
+  },
+  "Energy Pulse": {
+    "NAME": "Energipulso",
+    "DESCRIPTION": "Gajnu ŝirmon egale al via energio.",
+    "UPGRADE_DESCRIPTION": "Gajnu ŝirmon egale al du fojojn via energio."
+  },
+  "Enlightenment": {
+    "NAME": "Erudiĝo",
+    "DESCRIPTION": "Malaltigu la koston de ĉiuj kartoj en via mano al 1 ĉi-vice.",
+    "UPGRADE_DESCRIPTION": "Malaltigu la koston de ĉiuj kartoj en via mano al 1 ĉi-batale."
+  },
+  "Entrench": {
+    "NAME": "Tranĉeo",
+    "DESCRIPTION": "Duobligu vian ŝirmon.",
+    "UPGRADE_DESCRIPTION": "Duobligu vian ŝirmon."
+  },
+  "Envenom": {
+    "NAME": "Venenigo",
+    "DESCRIPTION": "Kiam ajn atako faras neŝirmitan damaĝon, aldonu 1 da veneno."
+  },
+  "Escape Plan": {
+    "NAME": "Eskapoplano",
+    "DESCRIPTION": "Prenu 1 karton. NL Se vi prenas kapablon, gajnu !B! da ŝirmo."
+  },
+  "Eviscerate": {
+    "NAME": "Seninternaĵigo",
+    "DESCRIPTION": "Kostas po 1 malpli da [G] por ĉiu karto, kiun vi forĵetis ĉi-vice. Faru !D! da damaĝo 3 fojojn."
+  },
+  "Evolve": {
+    "NAME": "Evoluo",
+    "DESCRIPTION": "Kiam ajn vi prenas staton, prenu !M! karton.",
+    "UPGRADE_DESCRIPTION": "Kiam ajn vi prenas staton, prenu !M! kartojn."
+  },
+  "Exhume": {
+    "NAME": "Elterigo",
+    "DESCRIPTION": "Metu karton el via elĉerpstako en vian manon. NL Elĉerpu."
+  },
+  "Expertise": {
+    "NAME": "Spertulo",
+    "DESCRIPTION": "Prenu kartojn ĝis vi havas !M! en via mano."
+  },
+  "FTL": {
+    "NAME": "Superlumrapide",
+    "DESCRIPTION": "Faru !D! da damaĝo. Se vi ludis malpli ol !M! kartojn ĉi-vice, prenu 1 karton.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (ludis ",
+      " karton.)",
+      " kartojn.)"
+    ]
+  },
+  "Feed": {
+    "NAME": "Nutrado",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se estas letale, plialtigu vian maks. vivon je !M!. Elĉerpu."
+  },
+  "Feel No Pain": {
+    "NAME": "Nedolorebla",
+    "DESCRIPTION": "Kiam ajn karto estas elĉerpata, gajnu !M! da ŝirmo."
+  },
+  "Fiend Fire": {
+    "NAME": "Diabla fajro",
+    "DESCRIPTION": "Elĉerpu vian manon. NL Por ĉiu karto elĉerpita, faru po !D! da damaĝo. NL Elĉerpu."
+  },
+  "Finesse": {
+    "NAME": "Ruzo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Prenu 1 karton."
+  },
+  "Finisher": {
+    "NAME": "Finatako",
+    "DESCRIPTION": "Faru po !D! da damaĝo por ĉiu atako, kiun vi ludis ĉi-vice.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (ludis ",
+      " Atakon.)",
+      " Atakojn.)"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Fajrospirado",
+    "DESCRIPTION": "Kiam ajn vi prenas statkarton aŭ malbenon, faru !M! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Fission": {
+    "NAME": "Fisio",
+    "DESCRIPTION": "Forigu ĉiujn viajn sferojn. Gajnu [B] kaj prenu po !M! karton por ĉiu forigita sfero. Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Elvoku ĉiujn viajn sferojn. Gajnu [B] kaj prenu !M! karton por ĉiu elvokita sfero. Elĉerpu."
+  },
+  "Flame Barrier": {
+    "NAME": "Flama baro",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Kiam ajn vi estas atakata ĉi-vice, refaru !M! da damaĝo."
+  },
+  "Flash of Steel": {
+    "NAME": "Ŝtalbrileto",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu 1 karton."
+  },
+  "Flechettes": {
+    "NAME": "Sagetoj",
+    "DESCRIPTION": "Faru po !D! da damaĝo por ĉiu kapablo en via mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Vi havas ",
+      " kapablon).",
+      " kapablojn)."
+    ]
+  },
+  "Flex": {
+    "NAME": "Flekso",
+    "DESCRIPTION": "Gajnu !M! da forto. NL Je la fino de ĉi tiu vico, perdu !M! da forto."
+  },
+  "Flux Capacitor": {
+    "NAME": "Fluokondensilo",
+    "DESCRIPTION": "Anstataŭigu ĉiujn konduktitajn sferojn per plasmo. NL Elĉerpu."
+  },
+  "Flying Knee": {
+    "NAME": "Fluganta genuo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Sekvontvice, gajnu [G]."
+  },
+  "Footwork": {
+    "NAME": "Piedlerteco",
+    "DESCRIPTION": "Gajnu !M! da lerteco."
+  },
+  "Force Field": {
+    "NAME": "Fortokampo",
+    "DESCRIPTION": "Kostas po 1 malpli da [B] por ĉiu potencokarto, kiun vi ludis ĉi-batale. NL Gajnu !B! da ŝirmo."
+  },
+  "Fusion": {
+    "NAME": "Fuzio",
+    "DESCRIPTION": "Konduktu !M! da plasmo."
+  },
+  "Gash": {
+    "NAME": "Ungego",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Plialtigu la damaĝon de ĈIUJ Ungego-kartoj je !M! ĉi-batale."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Genetikalgoritmo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. Permanente altigu ĉi ties ŝirmon je !M!. NL Elĉerpu."
+  },
+  "Ghostly": {
+    "NAME": "Aperaĵo",
+    "DESCRIPTION": "Fantoma. NL Gajnu 1 da nepalpebla. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Gajnu 1 da nepalpebla. NL Elĉerpu."
+  },
+  "Ghostly Armor": {
+    "NAME": "Fantoma armaĵo",
+    "DESCRIPTION": "Fantoma. NL Gajnu !B! da ŝirmo."
+  },
+  "Glacier": {
+    "NAME": "Glaĉero",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Konduktu !M! da frosto.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. Konduktu !M! da frosto."
+  },
+  "Glass Knife": {
+    "NAME": "Vitra tranĉilo",
+    "DESCRIPTION": "Faru !D! da damaĝo du fojojn. Malaltigu ĉi ties damaĝon je 2 ĉi-batale."
+  },
+  "Go for the Eyes": {
+    "NAME": "Celi la okulojn",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la malamiko celas ataki, aldonu !M! da malforta."
+  },
+  "Good Instincts": {
+    "NAME": "Bona instinkto",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Grand Finale": {
+    "NAME": "Granda finalo",
+    "DESCRIPTION": "Nur ludebla se ne restas kartoj en la prenstako. NL Faru !D! da damaĝo al ĈIUJ malamikoj.",
+    "UPGRADE_DESCRIPTION": "Mia prenstako devas esti #rmalplena."
+  },
+  "Havoc": {
+    "NAME": "Ruinigo",
+    "DESCRIPTION": "Ludu la supran karton de via prenstako kaj elĉerpu ĝin."
+  },
+  "Headbutt": {
+    "NAME": "Kapfrapo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Metu karton el via forĵetstako supren sur vian prenstakon."
+  },
+  "Heatsinks": {
+    "NAME": "Malvarmigplatoj",
+    "DESCRIPTION": "Kiam ajn vi ludas potencokarton, prenu !M! karton.",
+    "UPGRADE_DESCRIPTION": "Kiam ajn vi ludas potencokarton, prenu !M! kartojn."
+  },
+  "Heavy Blade": {
+    "NAME": "Peza glavo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Forto plibonigas ĉi tiun karton !M! fojojn.",
+    "UPGRADE_DESCRIPTION": "Faru !D! da damaĝo. NL Forto plibonigas ĉi tiun karton !M! fojojn."
+  },
+  "Heel Hook": {
+    "NAME": "Kalkankroĉo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la malamiko estas malforta, NL gajnu [G] kaj NL prenu 1 karton."
+  },
+  "Hello World": {
+    "NAME": "Saluton mondo",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, aldonu hazardan oftan karton al via mano.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Je la komenco de viaj vicoj, aldonu hazardan oftan karton al via mano."
+  },
+  "Hemokinesis": {
+    "NAME": "Hemokinezo",
+    "DESCRIPTION": "Perdu !M! da vivo. NL Faru !D! da damaĝo."
+  },
+  "Hide": {
+    "NAME": "Kaŝiĝo",
+    "DESCRIPTION": "Vi ne povas perdi vivon ĝis la komenco de via sekvonta vico. NL Elĉerpu."
+  },
+  "Hologram": {
+    "NAME": "Hologramo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Metu karton el via forĵetstako en vian manon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. NL Metu karton el via forĵetstako en vian manon."
+  },
+  "Hyperbeam": {
+    "NAME": "Hiperradio",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Perdu !M! da atento."
+  },
+  "Immolate": {
+    "NAME": "Brulego",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Aldonu *Brulon al via forĵetstako."
+  },
+  "Impervious": {
+    "NAME": "Nepenetrebla",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Elĉerpu."
+  },
+  "Infernal Blade": {
+    "NAME": "Infera glavo",
+    "DESCRIPTION": "Aldonu hazardan atakokarton al via mano. NL Ĝi kostas 0 ĉi-vice. NL Elĉerpu."
+  },
+  "Infinite Blades": {
+    "NAME": "Senfinaj klingoj",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, aldonu *Pikilon al via mano.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Je la komenco de viaj vicoj, aldonu *Pikilon al via mano."
+  },
+  "Inflame": {
+    "NAME": "Flamigo",
+    "DESCRIPTION": "Gajnu !M! da forto."
+  },
+  "Injury": {
+    "NAME": "Kontuzo",
+    "DESCRIPTION": "Neludebla."
+  },
+  "Intimidate": {
+    "NAME": "Impono",
+    "DESCRIPTION": "Aldonu !M! da malforta al ĈIUJ malamikoj. NL Elĉerpu."
+  },
+  "Iron Wave": {
+    "NAME": "Fera ondo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Faru !D! da damaĝo."
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Perdu 3 vivpoentojn. NL Gajnu !M! da forto."
+  },
+  "Jack Of All Trades": {
+    "NAME": "Multkapablulo",
+    "DESCRIPTION": "Aldonu !M! hazardan senkoloran karton al via mano. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Aldonu !M! hazardajn senkolorajn kartojn al via mano. NL Elĉerpu."
+  },
+  "Juggernaut": {
+    "NAME": "Nehalteblulo",
+    "DESCRIPTION": "Kiam ajn vi gajnas ŝirmon, faru !M! da damaĝo al hazarda malamiko."
+  },
+  "Leap": {
+    "NAME": "Saltego",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo."
+  },
+  "Leg Sweep": {
+    "NAME": "Krurforfrapo",
+    "DESCRIPTION": "Aldonu !M! da malforta. NL Gajnu !B! da ŝirmo."
+  },
+  "Limit Break": {
+    "NAME": "Translimiĝo",
+    "DESCRIPTION": "Duobligu vian forton. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Duobligu vian forton."
+  },
+  "Lockon": {
+    "NAME": "Preciza trafo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da fikscelo."
+  },
+  "Loop": {
+    "NAME": "Iteracio",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, aktivigu la pasivan efikon de via sekvonta sfero.",
+    "UPGRADE_DESCRIPTION": "Je la komenco de viaj vicoj, aktivigu la pasivan efikon de via sekvonta sfero !M! fojojn."
+  },
+  "Machine Learning": {
+    "NAME": "Maŝinlernado",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, prenu !M! plian karton.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Je la komenco de viaj vicoj, prenu !M! plian karton."
+  },
+  "Study": {
+    "NAME": "Studo",
+    "DESCRIPTION": "Je la fino de viaj vicoj, miksu *Komprenon en vian prenstakon."
+  },
+  "Madness": {
+    "NAME": "Frenezeco",
+    "DESCRIPTION": "Malaltigu la koston de hazarda karto en via mano al 0 ĉi-batale. NL Elĉerpu."
+  },
+  "Magnetism": {
+    "NAME": "Magnetismo",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, aldonu hazardan senkoloran karton al via mano."
+  },
+  "Malaise": {
+    "NAME": "Malbonfarto",
+    "DESCRIPTION": "Malamiko perdas X da forto. Aldonu X da malforta. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Malamiko perdas X+1 da forto. Aldonu X+1 da malforta. NL Elĉerpu."
+  },
+  "Master of Strategy": {
+    "NAME": "Majstro de strategio",
+    "DESCRIPTION": "Prenu !M! kartojn. NL Elĉerpu."
+  },
+  "Masterful Stab": {
+    "NAME": "Majstra piko",
+    "DESCRIPTION": "Kostos po 1 [G] pli NL por ĉiu fojo, ke vi perdis vivon ĉi-batale. NL Faru !D! da damaĝo.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Mayhem": {
+    "NAME": "Hazardaĵoj",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, ludu la supran karton de via prenstako."
+  },
+  "Melter": {
+    "NAME": "Fandilo",
+    "DESCRIPTION": "Forigu ĉiom da la ŝirmo de la malamiko. NL Faru !D! da damaĝo."
+  },
+  "Metallicize": {
+    "NAME": "Metaligo",
+    "DESCRIPTION": "Je la fino de viaj vicoj, gajnu !M! da ŝirmo."
+  },
+  "Metamorphosis": {
+    "NAME": "Metamorfozo",
+    "DESCRIPTION": "Miksu !M! hazardajn atakojn en vian prenstakon. Ili kostos 0 ĉi-batale. NL Elĉerpu."
+  },
+  "Meteor Strike": {
+    "NAME": "Meteorbato",
+    "DESCRIPTION": "Faru !D! da damaĝo. Konduktu !M! da plasmo."
+  },
+  "Mind Blast": {
+    "NAME": "Mensa blovego",
+    "DESCRIPTION": "Fundamenta. NL Faru damaĝon egale al la kvanto de kartoj en via prenstako.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Faros !D! da damaĝo.)"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "Pluraktivigo",
+    "DESCRIPTION": "Elvoku vian sekvontan sferon X fojojn.",
+    "UPGRADE_DESCRIPTION": "Elvoku vian sekvontan sferon X+1 fojojn."
+  },
+  "Necronomicurse": {
+    "NAME": "Nekronomalbeno",
+    "DESCRIPTION": "Neludebla. NL Ne estas eskapo de ĉi tiu malbeno."
+  },
+  "Neutralize": {
+    "NAME": "Neŭtraligo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da malforta."
+  },
+  "Night Terror": {
+    "NAME": "Koŝmaro",
+    "DESCRIPTION": "Elektu karton. NL Sekvontvice, aldonu !M! kopiojn de tiu karto al via mano. Elĉerpu.",
+    "EXTENDED_DESCRIPTION": [
+      "Mi nur povas uzi NL ",
+      " NL po unu fojon ĉiuvice."
+    ]
+  },
+  "Normality": {
+    "NAME": "Normaleco",
+    "DESCRIPTION": "Neludebla. NL Dum ĉi tiu estas enmana, vi ne povas ludi pli ol 3 kartojn ĉi-vice.",
+    "EXTENDED_DESCRIPTION": [
+      "Mi nur povas ludi NL #r3 kartojn ĉi-vice.",
+      "Neludebla. NL Vi ne povas ludi pli ol ",
+      " kartojn ĉiuvice.",
+      " kartojn ĉiuvice. NL Vi ludis ",
+      " karton ĉi-vice.",
+      " kartojn ĉi-vice."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Haladzo",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, aldonu !M! da veneno al ĈIUJ malamikoj."
+  },
+  "Offering": {
+    "NAME": "Ofero",
+    "DESCRIPTION": "Perdu 6 da vivo. NL Gajnu [R] [R]. NL Prenu !M! kartojn. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Perdu 6 da vivo. NL Gajnu [R] [R]. NL Prenu !M! kartojn. NL Elĉerpu."
+  },
+  "Outmaneuver": {
+    "NAME": "Atutmanovro",
+    "DESCRIPTION": "Sekvontvice, NL gajnu [G] [G].",
+    "UPGRADE_DESCRIPTION": "Sekvontvice, NL gajnu [G] [G] [G]."
+  },
+  "Pain": {
+    "NAME": "Doloro",
+    "DESCRIPTION": "Neludebla. NL Dum ĉi tio estas enmane, perdu 1 da vivo kiam ajn vi ludas alian karton."
+  },
+  "Panacea": {
+    "NAME": "Panacea",
+    "DESCRIPTION": "Gajnu !M! da artefakto. NL Elĉerpu."
+  },
+  "Panache": {
+    "NAME": "Vervo",
+    "DESCRIPTION": "Kiam ajn vi ludas 5 kartojn en unu sola vico, faru !M! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Parasite": {
+    "NAME": "Parazito",
+    "DESCRIPTION": "Neludebla. Se estas transformate aŭ forigate el via kartaro, perdu 3 da maks. vivo."
+  },
+  "Perfected Strike": {
+    "NAME": "Perfektigita bato",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Faras po !M! pli da damaĝo por ĈIUJ viaj kartoj, kiuj enhavas \"bato\".",
+    "UPGRADE_DESCRIPTION": "Faru !D! da damaĝo. NL Faras po !M! pli da damaĝo por ĈIUJ viaj kartoj, kiuj enhavas \"bato\"."
+  },
+  "Phantasmal Killer": {
+    "NAME": "Iluzia mortigulo",
+    "DESCRIPTION": "Sekvontvice, viaj atakoj faros duoblan damaĝon."
+  },
+  "PiercingWail": {
+    "NAME": "Akra plorkrio",
+    "DESCRIPTION": "ĈIUJ malamikoj perdas !M! da forto ĉi-vice. NL Elĉerpu."
+  },
+  "Poisoned Stab": {
+    "NAME": "Venena piko",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da veneno."
+  },
+  "Pommel Strike": {
+    "NAME": "Tenilbato",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu !M! karton.",
+    "UPGRADE_DESCRIPTION": "Faru !D! da damaĝo. NL Prenu !M! kartojn."
+  },
+  "Power Through": {
+    "NAME": "Antaŭenpuŝo",
+    "DESCRIPTION": "Aldonu 2 *Vundojn al via mano. NL Gajnu !B! da ŝirmo."
+  },
+  "Predator": {
+    "NAME": "Rabado",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Sekvontvice, prenu 2 pliajn kartojn."
+  },
+  "Prepared": {
+    "NAME": "Preparita",
+    "DESCRIPTION": "Prenu !M! karton. NL Forĵetu !M! karton.",
+    "UPGRADE_DESCRIPTION": "Prenu !M! kartojn. NL Forĵetu !M! kartojn."
+  },
+  "Pummel": {
+    "NAME": "Pugnado",
+    "DESCRIPTION": "Faru !D! da damaĝo !M! fojojn. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Faru !D! da damaĝo !M! fojojn. NL Elĉerpu."
+  },
+  "Purity": {
+    "NAME": "Pureco",
+    "DESCRIPTION": "Elĉerpu ĝis !M! kartojn de via mano. NL Elĉerpu."
+  },
+  "Quick Slash": {
+    "NAME": "Rapida tranĉo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu 1 karton."
+  },
+  "Rage": {
+    "NAME": "Furiozo",
+    "DESCRIPTION": "Kiam ajn vi ludas atakon ĉi-vice, gajnu !M! da ŝirmo."
+  },
+  "Rainbow": {
+    "NAME": "Ĉielarko",
+    "DESCRIPTION": "Konduktu 1 da fulmo. Konduktu 1 da frosto. Konduktu 1 da mallumo. Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Konduktu 1 da fulmo. Konduktu 1 da frosto. Konduktu 1 da mallumo."
+  },
+  "Rampage": {
+    "NAME": "Amoko",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Plialtigu ĉi ties damaĝon je !M! ĉi-batale."
+  },
+  "Reaper": {
+    "NAME": "Rikolto",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. Resaniĝu la kvanton de neŝirmita damaĝo. Elĉerpu."
+  },
+  "Reboot": {
+    "NAME": "Restartigo",
+    "DESCRIPTION": "Miksu ĈIUJN viajn kartojn en vian prenstakon. NL Prenu !M! kartojn. NL Elĉerpu."
+  },
+  "Rebound": {
+    "NAME": "Resalto",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Metu la sekvontan ĉi-vice ludatan karton supren sur vian prenstakon."
+  },
+  "Reckless Charge": {
+    "NAME": "Senatenta sturmo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Miksu *Konsterniĝon en vian prenstakon."
+  },
+  "Recycle": {
+    "NAME": "Reuzo",
+    "DESCRIPTION": "Elĉerpu karton. NL Gajnu [B] egale al ĝia kosto."
+  },
+  "Redo": {
+    "NAME": "Rikuro",
+    "DESCRIPTION": "Elvoku vian sekvontan sferon. NL Konduktu la sferon, kiun vi ĵus elvokis."
+  },
+  "Reflex": {
+    "NAME": "Reflekso",
+    "DESCRIPTION": "Neludebla. NL Se ĉi tiu karto estas forĵetita de via mano, prenu !M! kartojn.",
+    "UPGRADE_DESCRIPTION": "Neludebla. NL Se ĉi tiu karto estas forĵetita de via mano, prenu !M! kartojn.",
+    "EXTENDED_DESCRIPTION": [
+      "Mi ne povas ludi tiun karton."
+    ]
+  },
+  "Regret": {
+    "NAME": "Bedaŭro",
+    "DESCRIPTION": "Neludebla. NL Je la fino de via vico, perdu vivpoentojn egale al la kvanto de kartoj en via mano."
+  },
+  "Reinforced Body": {
+    "NAME": "Betonkorpo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo X fojojn."
+  },
+  "Reprogram": {
+    "NAME": "Reprogramado",
+    "DESCRIPTION": "Perdu !M! da fokuso. NL Gajnu !M! da forto. NL Gajnu !M! da lerteco.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Riddle With Holes": {
+    "NAME": "Truado",
+    "DESCRIPTION": "Faru !D! da damaĝo 5 fojojn."
+  },
+  "Rip and Tear": {
+    "NAME": "Disŝirado",
+    "DESCRIPTION": "Faru !D! da damaĝo al hazarda malamiko du fojojn."
+  },
+  "Rupture": {
+    "NAME": "Rompo",
+    "DESCRIPTION": "Kiam ajn vi perdas vivon pro karto, NL gajnu !M! da forto."
+  },
+  "Sadistic Nature": {
+    "NAME": "Sadista naturo",
+    "DESCRIPTION": "Kiam ajn vi aldonas statmalbonigon al malamiko, tiu prenas !M! da damaĝo."
+  },
+  "Scrape": {
+    "NAME": "Skrapado",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu !M! kartojn. NL Forĵetu ĉiujn tiel prenitajn kartojn, kiuj ne kostas 0."
+  },
+  "Searing Blow": {
+    "NAME": "Brulbato",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Povas esti plibonigata ajnan kvanton da fojoj."
+  },
+  "Second Wind": {
+    "NAME": "Kroma energio",
+    "DESCRIPTION": "Elĉerpu ĉiujn neatakajn kartojn en via mano. Gajnu po !B! da ŝirmo por ĉiuj tiuj."
+  },
+  "Secret Technique": {
+    "NAME": "Sekreta tekniko",
+    "DESCRIPTION": "Metu kapablon el via prenstako en vian manon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Metu kapablon el via prenstako en vian manon.",
+    "EXTENDED_DESCRIPTION": [
+      "Estas neniuj kapabloj NL en mia prenstako."
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "Sekreta armilo",
+    "DESCRIPTION": "Metu atakon el via prenstako en vian manon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Metu atakon el via prenstako en vian manon.",
+    "EXTENDED_DESCRIPTION": [
+      "Estas neniuj atakoj NL en mia prenstako."
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "Ruĝa vido",
+    "DESCRIPTION": "Gajnu [R] [R]. NL Elĉerpu."
+  },
+  "Seek": {
+    "NAME": "Serĉo",
+    "DESCRIPTION": "Metu !M! karton el via prenstako en vian manon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Metu !M! kartojn el via prenstako en vian manon. NL Elĉerpu."
+  },
+  "Self Repair": {
+    "NAME": "Memriparo",
+    "DESCRIPTION": "Je la fino de la batalo, resaniĝu !M! da vivo."
+  },
+  "Sentinel": {
+    "NAME": "Gardo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Se ĉi tiu karto estas elĉerpata, NL gajnu [R] [R].",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. NL Se ĉi tiu karto estas elĉerpata, NL gajnu [R] [R] [R]."
+  },
+  "Setup": {
+    "NAME": "Pretigo",
+    "DESCRIPTION": "Metu karton el via mano supren sur vian prenstakon. NL Ĝi kostos 0 ĝis ludata."
+  },
+  "Sever Soul": {
+    "NAME": "Animfortranĉo",
+    "DESCRIPTION": "Elĉerpu ĉiujn neatakajn kartojn en via mano. NL Faru !D! da damaĝo."
+  },
+  "Shame": {
+    "NAME": "Honto",
+    "DESCRIPTION": "Neludebla. NL Je la fino de via vico, gajnu 1 da kaduka."
+  },
+  "Shiv": {
+    "NAME": "Pikilo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Elĉerpu."
+  },
+  "Shockwave": {
+    "NAME": "Skuondo",
+    "DESCRIPTION": "Aldonu !M! da malforta kaj vundebla al ĈIUJ malamikoj. NL Elĉerpu."
+  },
+  "Shrug It Off": {
+    "NAME": "Eĉ ne doloras",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Prenu 1 karton."
+  },
+  "Skewer": {
+    "NAME": "Trapiko",
+    "DESCRIPTION": "Faru !D! da damaĝo X fojojn."
+  },
+  "Skim": {
+    "NAME": "Superrigardo",
+    "DESCRIPTION": "Prenu !M! kartojn."
+  },
+  "Slice": {
+    "NAME": "Sekco",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Slimed": {
+    "NAME": "Ŝlima",
+    "DESCRIPTION": "Elĉerpu."
+  },
+  "Spot Weakness": {
+    "NAME": "Rekoni okazon",
+    "DESCRIPTION": "Se la malamiko celas ataki, gajnu !M! da forto."
+  },
+  "Stack": {
+    "NAME": "Stako",
+    "DESCRIPTION": "Gajnu ŝirmon egale al la kvanto de kartoj en via forĵetstako.",
+    "UPGRADE_DESCRIPTION": "Gajnu ŝirmon egale al la kvanto de kartoj en via forĵetstako +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gajnos !B! da ŝirmo.)"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "Statika malŝargo",
+    "DESCRIPTION": "Kiam ajn vi prenas neŝirmitan atakan damaĝon, konduktu !M! da fulmo.",
+    "UPGRADE_DESCRIPTION": "Kiam ajn vi prenas neŝirmitan atakan damaĝon, konduktu !M! da fulmo."
+  },
+  "Steam": {
+    "NAME": "Vaporbaro",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. Malaltigu ĉi ties ŝirmon je 1 ĉi-batale."
+  },
+  "Steam Power": {
+    "NAME": "Trorapidigo",
+    "DESCRIPTION": "Prenu !M! kartojn. NL Aldonu *Brulon al via forĵetstako."
+  },
+  "Storm": {
+    "NAME": "Fulmotondro",
+    "DESCRIPTION": "Kiam ajn vi ludas potencokarton, konduktu 1 da fulmo.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Kiam ajn vi ludas potencokarton, konduktu 1 da fulmo."
+  },
+  "Storm of Steel": {
+    "NAME": "Ŝtalŝtormo",
+    "DESCRIPTION": "Forĵetu vian manon. NL Aldonu po 1 *Pikilon al via mano por ĉiu forĵetita karto.",
+    "UPGRADE_DESCRIPTION": "Forĵetu vian manon. NL Aldonu po 1 *Pikilon+ al via mano por ĉiu forĵetita karto."
+  },
+  "Streamline": {
+    "NAME": "Flulinia",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Malaltigu ĉi ties koston je !M! ĉi-batale."
+  },
+  "Strike_B": {
+    "NAME": "Bato",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Strike_G": {
+    "NAME": "Bato",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Strike_R": {
+    "NAME": "Bato",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Strike_P": {
+    "NAME": "Bato",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Sucker Punch": {
+    "NAME": "Subita pugno",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da malforta."
+  },
+  "Sunder": {
+    "NAME": "Diserigo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se tio mortigas, NL gajnu [B] [B] [B]."
+  },
+  "Survivor": {
+    "NAME": "Travivanto",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Forĵetu 1 karton."
+  },
+  "Sweeping Beam": {
+    "NAME": "Balaradio",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Prenu !M! karton."
+  },
+  "Swift Strike": {
+    "NAME": "Rapida bato",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Sword Boomerang": {
+    "NAME": "Glavbumerango",
+    "DESCRIPTION": "Faru !D! da damaĝo al hazarda malamiko !M! fojojn."
+  },
+  "Tactician": {
+    "NAME": "Taktikisto",
+    "DESCRIPTION": "Neludebla. NL Se ĉi tiu karto estas forĵetata de via mano, gajnu [G].",
+    "UPGRADE_DESCRIPTION": "Neludebla. NL Se ĉi tiu karto estas forĵetata de via mano, gajnu [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Mi ne povas ludi tiun karton."
+    ]
+  },
+  "Tempest": {
+    "NAME": "Tempesto",
+    "DESCRIPTION": "Konduktu X da fulmo. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Konduktu X+1 da fulmo. NL Elĉerpu."
+  },
+  "Terror": {
+    "NAME": "Teruro",
+    "DESCRIPTION": "Aldonu 99 da vundebla. NL Elĉerpu."
+  },
+  "The Bomb": {
+    "NAME": "La bombo",
+    "DESCRIPTION": "Post la fino de 3 vicoj, faru !M! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Thinking Ahead": {
+    "NAME": "Antaŭpenso",
+    "DESCRIPTION": "Prenu 2 kartojn. NL Metu karton el via mano supren sur vian prenstakon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Prenu 2 kartojn. NL Metu karton el via mano supren sur vian prenstakon."
+  },
+  "Thunder Strike": {
+    "NAME": "Tondrobato",
+    "DESCRIPTION": "Faru po !D! da damaĝo al hazarda malamiko por ĉiu fulmo konduktita ĉi-batale.",
+    "EXTENDED_DESCRIPTION": [
+      " (Estis !M! da fulmo.)"
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "Tondroklako",
+    "DESCRIPTION": "Faru !D! da damaĝo kaj aldonu 1 da vundebla al ĈIUJ malamikoj."
+  },
+  "Tools of the Trade": {
+    "NAME": "Fakiloj",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, prenu 1 karton kaj forĵetu 1 karton."
+  },
+  "Transmutation": {
+    "NAME": "Transmutacio",
+    "DESCRIPTION": "Aldonu X hazardajn senkolorajn kartojn al via mano. Ili kostas 0 ĉi-vice. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Aldonu X hazardajn senkolorajn kartojn plibonigitajn al via mano. Ili kostas 0 ĉi-vice. NL Elĉerpu."
+  },
+  "Trip": {
+    "NAME": "Faligo",
+    "DESCRIPTION": "Aldonu !M! da vundebla.",
+    "UPGRADE_DESCRIPTION": "Aldonu !M! da vundebla al ĈIUJ malamikoj."
+  },
+  "True Grit": {
+    "NAME": "Persisteco",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Elĉerpu 1 karton hazarde.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. NL Elĉerpu 1 karton."
+  },
+  "Turbo": {
+    "NAME": "TURBO",
+    "DESCRIPTION": "Gajnu [B] [B]. NL Aldonu *Vakuon al via forĵetstako.",
+    "UPGRADE_DESCRIPTION": "Gajnu [B] [B] [B]. NL Aldonu *Vakuon al via forĵetstako."
+  },
+  "Twin Strike": {
+    "NAME": "Ĝemela bato",
+    "DESCRIPTION": "Faru !D! da damaĝo NL du fojojn."
+  },
+  "Underhanded Strike": {
+    "NAME": "Ruza bato",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se vi forĵetis karton ĉi-vice, NL gajnu [G] [G].",
+    "EXTENDED_DESCRIPTION": [
+      "Mi ne povas ludi tiun karton."
+    ]
+  },
+  "Undo": {
+    "NAME": "Ekvilibro",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Retenu vian manon ĉi-vice."
+  },
+  "Unload": {
+    "NAME": "Malŝargo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Forĵetu ĉiujn neatakajn kartojn en via mano."
+  },
+  "Uppercut": {
+    "NAME": "Pugno de sube",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da malforta. NL Aldonu !M! da vundebla."
+  },
+  "Venomology": {
+    "NAME": "Alkemio",
+    "DESCRIPTION": "Akiru hazardan pocion. NL Elĉerpu."
+  },
+  "Void": {
+    "NAME": "Vakuo",
+    "DESCRIPTION": "Neludebla. NL Fantoma. NL Kiam ajn ĉi tiu karto estas prenata, perdu 1 da energio."
+  },
+  "Warcry": {
+    "NAME": "Batalkrio",
+    "DESCRIPTION": "Prenu !M! karton. NL Metu karton el via mano supren sur vian prenstakon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Prenu !M! kartojn. NL Metu karton el via mano supren sur vian prenstakon. NL Elĉerpu."
+  },
+  "Well Laid Plans": {
+    "NAME": "Antaŭplano",
+    "DESCRIPTION": "Je la fino de viaj vicoj, retenu ĝis !M! karton.",
+    "UPGRADE_DESCRIPTION": "Je la fino de viaj vicoj, retenu ĝis !M! kartojn."
+  },
+  "Whirlwind": {
+    "NAME": "Turnovento",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj X fojojn."
+  },
+  "White Noise": {
+    "NAME": "Blanka bruo",
+    "DESCRIPTION": "Aldonu hazardan potencokarton NL al via mano. NL Ĝi kostas 0 ĉi-vice. NL Elĉerpu."
+  },
+  "Wild Strike": {
+    "NAME": "Sovaĝa bato",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Miksu *Vundon en vian prenstakon."
+  },
+  "Wound": {
+    "NAME": "Vundo",
+    "DESCRIPTION": "Neludebla."
+  },
+  "Wraith Form v2": {
+    "NAME": "Fantomformo",
+    "DESCRIPTION": "Gajnu !M! da nepalpebla. NL Je al fino de viaj vicoj, perdu 1 da lerteco."
+  },
+  "Writhe": {
+    "NAME": "Barakto",
+    "DESCRIPTION": "Neludebla. NL Fundamenta."
+  },
+  "Zap": {
+    "NAME": "Sparko",
+    "DESCRIPTION": "Konduktu !M! da fulmo."
+  },
+  "Core Surge": {
+    "NAME": "Kernoŝvelo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Gajnu !M! da artefakto. NL Elĉerpu."
+  },
+  "Compile Driver": {
+    "NAME": "Tradukpelilo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu po !M! karton por ĉiu unika sfero, kiun vi havas."
+  },
+  "RitualDagger": {
+    "NAME": "Rita tranĉilo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se estas letale, permanente altigu ĉi ties damaĝon je !M!. Elĉerpu."
+  },
+  "Pride": {
+    "NAME": "Fiero",
+    "DESCRIPTION": "Fundamenta. NL Je la fino de via vico, metu kopion de ĉi tiu karto supren sur vian prenstakon. Elĉerpu."
+  },
+  "PanicButton": {
+    "NAME": "Panikbutono",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. Vi ne povas gajni ŝirmon de kartoj dum !M! vicoj. NL Elĉerpu."
+  },
+  "HandOfGreed": {
+    "NAME": "Mano de avareco",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se estas letale, gajnu NL !M! da oro."
+  },
+  "Violence": {
+    "NAME": "Perforteco",
+    "DESCRIPTION": "Metu !M! hazardajn atakojn el via prenstako en vian manon. NL Elĉerpu."
+  },
+  "Impatience": {
+    "NAME": "Senpacienco",
+    "DESCRIPTION": "Se ne restas atakoj en via mano, prenu !M! kartojn."
+  },
+  "Forethought": {
+    "NAME": "Antaŭpripenso",
+    "DESCRIPTION": "Metu karton el la mano malsupren sub vian prenstakon. Ĝi kostos 0 ĝis ludata.",
+    "UPGRADE_DESCRIPTION": "Metu ajnan kvanton da kartoj el la mano malsupren sub vian prenstakon. Ili kostos 0 ĝis ludataj."
+  },
+  "Discovery": {
+    "NAME": "Malkovro",
+    "DESCRIPTION": "Elektu 1 el 3 hazardaj kartoj por aldoni al via mano. Ĝi kostas 0 ĉi-vice. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Elektu 1 el 3 hazardaj kartoj por aldoni al via mano. Ĝi kostas 0 ĉi-vice."
+  },
+  "Nirvana": {
+    "NAME": "Nirvano",
+    "DESCRIPTION": "Kiam ajn vi ekvidas, gajnu !M! da ŝirmo.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "EmptyFist": {
+    "NAME": "Malplena pugno",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Eliru vian pozicion."
+  },
+  "EmptyBody": {
+    "NAME": "Malplena korpo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Eliru vian pozicion."
+  },
+  "WreathOfFlame": {
+    "NAME": "Flama girlando",
+    "DESCRIPTION": "Via sekvonta atako faros !M! pli da damaĝo."
+  },
+  "FearNoEvil": {
+    "NAME": "Ne timu mison",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la malamiko celas ataki, eniru kalmon."
+  },
+  "MentalFortress": {
+    "NAME": "Mensa fortreso",
+    "DESCRIPTION": "Kiam ajn vi ŝanĝas pozicion, gajnu !M! da ŝirmo."
+  },
+  "Mastery": {
+    "NAME": "Majstreco",
+    "DESCRIPTION": "Kiam ajn vi provas ŝanĝi pozicion al via nuna pozicio, gajnu [B]."
+  },
+  "Collect": {
+    "NAME": "Kolekti",
+    "DESCRIPTION": "Metu *Miraklon+ NL en vian manon je NL la komenco de viaj sekvontaj X vicoj. Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Metu *Miraklon+ NL en vian manon NL je la komenco de viaj sekvontaj X+1 vicoj. Elĉerpu."
+  },
+  "ForeignInfluence": {
+    "NAME": "Fremda influo",
+    "DESCRIPTION": "Elektu 1 el 3 atakoj de ajna koloro por aldoni al via mano. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Elektu 1 el 3 atakoj de ajna koloro por aldoni al via mano. NL Ĝi kostas 0 ĉi-vice. NL Elĉerpu."
+  },
+  "FlowState": {
+    "NAME": "SENVALIDIĜA Flustato",
+    "DESCRIPTION": "Rankoro: Eniru kalmon. NL Kalmo: Eniru rankoron. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Rankoro: Eniru kalmon. NL Kalmo: Eniru rankoron."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Frapventoturno",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Kiam ajn vi ŝanĝas pozicion, resendu ĉi tion de la forĵetstako al via mano."
+  },
+  "PalmThatRestrains": {
+    "NAME": "SENVALIDIĜA Detenanta polmo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu !M! da malforta."
+  },
+  "Wrath": {
+    "NAME": "Rankoro",
+    "DESCRIPTION": "Faru kaj ricevu duoblan atakan damaĝon."
+  },
+  "Calm": {
+    "NAME": "Kalmo",
+    "DESCRIPTION": "Elirante kalmon, gajnu [W] [W]."
+  },
+  "Polymath": {
+    "NAME": "SENVALIDIĜA Polimato",
+    "DESCRIPTION": "Eniru kalmon aŭ rankoron. NL Elĉerpu."
+  },
+  "Consecrate": {
+    "NAME": "Konsekro",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Flicker": {
+    "NAME": "SENVALIDIĜA Flagreto",
+    "DESCRIPTION": "Faru !D! da damaĝo. Se tio mortigas, resendu ĉi tiun karton al via mano."
+  },
+  "Blasphemy": {
+    "NAME": "Blasfemo",
+    "DESCRIPTION": "Eniru diecon. NL Mortu venontvice. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Eniru diecon. NL Mortu venontvice. NL Elĉerpu."
+  },
+  "Ragnarok": {
+    "NAME": "Ragnarök",
+    "DESCRIPTION": "Faru !D! da damaĝo al hazarda malamiko !M! fojojn."
+  },
+  "FlameMastery": {
+    "NAME": "SENVALIDIĜA Flammajstreco",
+    "DESCRIPTION": "Gajnu !M! da forto."
+  },
+  "StepAndStrike": {
+    "NAME": "SENVALIDIĜA Paŝo kaj bato",
+    "DESCRIPTION": "Kostas po 1 malpli por ĉiu ŝanĝo de pozicio ĉi-vice. NL Gajnu !B! da ŝirmo. NL Faru !D! da damaĝo."
+  },
+  "Survey": {
+    "NAME": "SENVALIDIĜA Sondo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Gajnu !M! da povo."
+  },
+  "Swipe": {
+    "NAME": "SENVALIDIĜA Frapego",
+    "DESCRIPTION": "Faru !D! da damaĝo. Faru duone tiom da damaĝo al ĉiuj aliaj malamikoj."
+  },
+  "Blessed": {
+    "NAME": "SENVALIDIĜA Benite",
+    "DESCRIPTION": "Miksu !M! *Miraklojn en vian prenstakon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Miksu !M! *Miraklojn+ en vian prenstakon. NL Elĉerpu."
+  },
+  "LetFateDecide": {
+    "NAME": "SENVALIDIĜA Lasu la sorton decidi",
+    "DESCRIPTION": "Ludu la suprajn X kartojn de via prenstako. Se X estas 3 aŭ pli, retenu X kartojn."
+  },
+  "RetreatingHand": {
+    "NAME": "SENVALIDIĜA Mano retiriĝanta",
+    "DESCRIPTION": "Fantoma. NL Gajnu !B! da ŝirmo. Se la antaŭe ludita karto estis atako, resendu ĉi tiun karton al via mano.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. Se la antaŭe ludita karto estis atako, resendu ĉi tiun karton al via mano."
+  },
+  "Flare": {
+    "NAME": "SENVALIDIĜA Brilo",
+    "DESCRIPTION": "SENVALIDIĜA."
+  },
+  "PerfectedForm": {
+    "NAME": "SENVALIDIĜA Perfektigita formo",
+    "DESCRIPTION": "Se vi eniris ĉiujn bazajn poziciojn ĉi-vice, eniru dieco. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Se vi eniris ĉiujn bazajn poziciojn ĉi-vice, eniru dieco."
+  },
+  "AwakenedStrike": {
+    "NAME": "SENVALIDIĜA Vekita bato",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "EmptyMind": {
+    "NAME": "Malplena menso",
+    "DESCRIPTION": "Prenu !M! kartojn. NL Eliru vian pozicion.",
+    "UPGRADE_DESCRIPTION": "Prenu !M! kartojn. NL Eliru vian pozicion."
+  },
+  "Experienced": {
+    "NAME": "SENVALIDIĜA Sperta",
+    "DESCRIPTION": "Gajnu po !B! da ŝirmo por ĉiu plibonigita karto en via mano."
+  },
+  "Judgement": {
+    "NAME": "Juĝo",
+    "DESCRIPTION": "Se la malamiko havas !M! aŭ malpli da vivo, faru ties vivon 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
+  },
+  "Pray": {
+    "NAME": "Preĝo",
+    "DESCRIPTION": "Gajnu !M! da mantro. NL Miksu *Komprenon en vian prenstakon.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Conclude": {
+    "NAME": "Konkludo",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj. NL Finu vian vicon."
+  },
+  "LessonLearned": {
+    "NAME": "Leciono lernita",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se estas letale, plibonigu hazardan karton en via kartaro. NL Elĉerpu."
+  },
+  "CutThroughFate": {
+    "NAME": "Trahaki sorton",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Ekvidu !M!. NL Prenu 1 karton."
+  },
+  "ThirdEye": {
+    "NAME": "Tria okulo",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Ekvidu !M!."
+  },
+  "SublimeSlice": {
+    "NAME": "SENVALIDIĜA Sublima tranĉo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Eniru hazardan pozicion."
+  },
+  "SignatureMove": {
+    "NAME": "Subskriba ago",
+    "DESCRIPTION": "Nur ludebla kiam ĝi estas la nura atako en via mano. NL Faru !D! da damaĝo."
+  },
+  "Prediction": {
+    "NAME": "SENVALIDIĜA Antaŭdiro",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo je la komenco de via sekvonta vico."
+  },
+  "Worship": {
+    "NAME": "Adoro",
+    "DESCRIPTION": "Gajnu !M! da mantro.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Gajnu !M! da mantro."
+  },
+  "Fasting": {
+    "NAME": "SENVALIDIĜA",
+    "DESCRIPTION": "SENVALIDIĜA"
+  },
+  "Fasting2": {
+    "NAME": "Fasto",
+    "DESCRIPTION": "Gajnu !M! da forto. NL Gajnu !M! da lerteco. NL Gajnu 1 malpli da [W] je la komenco de viaj vicoj."
+  },
+  "DevaForm": {
+    "NAME": "Deva-formo",
+    "DESCRIPTION": "Fantoma. NL Je la komenco de viaj vicoj, gajnu [W] NL kaj plialtigu ĉi tiun gajnon je !M!.",
+    "UPGRADE_DESCRIPTION": "Je la komenco de viaj vicoj, gajnu [W] NL kaj plialtigu ĉi tiun gajnon je !M!."
+  },
+  "Wireheading": {
+    "NAME": "Antaŭvido",
+    "DESCRIPTION": "Je la komenco de viaj vicoj, ekvidu !M!.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "ReachHeaven": {
+    "NAME": "Atingu la ĉielon",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Miksu *Per *perforto en vian prenstakon.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "ThroughViolence": {
+    "NAME": "Per perforto",
+    "DESCRIPTION": "Retenu. NL Faru !D! da damaĝo. NL Elĉerpu."
+  },
+  "Clarity": {
+    "NAME": "Klareco",
+    "DESCRIPTION": "Rigardu la suprajn !M! kartojn de via prenstako. Aldonu 1 al via mano. NL Elĉerpu la alian.",
+    "UPGRADE_DESCRIPTION": "Rigardu la suprajn !M! kartojn de via prenstako. Aldonu 1 al via mano. NL Elĉerpu la ceteron."
+  },
+  "Thwack": {
+    "NAME": "SENVALIDIĜA Puf",
+    "DESCRIPTION": "Faru !D! da damaĝo."
+  },
+  "Meditate": {
+    "NAME": "Medito",
+    "DESCRIPTION": "Metu karton de via forĵetstako en vian manon kaj retenu ĝin. Eniru kalmon. Finu vian vicon.",
+    "UPGRADE_DESCRIPTION": "Metu 2 kartojn de via forĵetstako en vian manon kaj retenu ilin. Eniru kalmon. Finu vian vicon."
+  },
+  "Miracle": {
+    "NAME": "Miraklo",
+    "DESCRIPTION": "Retenu. NL Gajnu [W]. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Gajnu [W] [W]. NL Elĉerpu."
+  },
+  "Vault": {
+    "NAME": "Salto",
+    "DESCRIPTION": "Prenu plian vicon post ĉi tiu. NL Finu vian vicon. NL Elĉerpu."
+  },
+  "Flow": {
+    "NAME": "SENVALIDIĜA Fluo",
+    "DESCRIPTION": "Kiam vi ludas atakon, gajnu 1 da portempa lerteco. Kiam vi ludas kapablon, gajnu 1 da portempa forto."
+  },
+  "CarveReality": {
+    "NAME": "Tajli realecon",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Aldonu *Frapegon al via mano.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Smite": {
+    "NAME": "Frapego",
+    "DESCRIPTION": "Retenu. NL Faru !D! da damaĝo. NL Elĉerpu."
+  },
+  "Truth": {
+    "NAME": "Vero",
+    "DESCRIPTION": "Retenu. NL Faru !D! da damaĝo. NL Prenu !M! karton. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Faru !D! da damaĝo. NL Prenu !M! kartojn. NL Elĉerpu."
+  },
+  "Insight": {
+    "NAME": "Kompreno",
+    "DESCRIPTION": "Retenu. NL Prenu !M! kartojn. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Prenu !M! kartojn. NL Elĉerpu."
+  },
+  "DeceiveReality": {
+    "NAME": "Trompi realecon",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Aldonu *Sekurecon al via mano.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Safety": {
+    "NAME": "Sekureco",
+    "DESCRIPTION": "Retenu. NL Gajnu !B! da ŝirmo. NL Elĉerpu."
+  },
+  "Wisdom": {
+    "NAME": "Sageco",
+    "DESCRIPTION": "Retenu. NL Prenu !M! kartojn. NL Elĉerpu."
+  },
+  "Peace": {
+    "NAME": "Paco",
+    "DESCRIPTION": "Retenu. NL ĈIUJ malamikoj perdas !M! da forto ĉi-vice. NL Elĉerpu."
+  },
+  "WindmillStrike": {
+    "NAME": "Ventmuelilbato",
+    "DESCRIPTION": "Retenu. Faru !D! da damaĝo. Kiam retenite, plialtigu ĉi ties damaĝon je !M! ĉi-batale."
+  },
+  "Establishment": {
+    "NAME": "Starigo",
+    "DESCRIPTION": "Kiam ajn karto estas retenita, malaltigu ĉi ties koston je !M! ĉi-batale.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Kiam ajn karto estas retenita, malaltigu ĉi ties koston je !M! ĉi-batale."
+  },
+  "WardAura": {
+    "NAME": "SENVALIDIĜA Forbara aŭro",
+    "DESCRIPTION": "Retenu. NL Gajnu !B! da ŝirmo. NL Je la komenco de via vico, gajnu !M! da ŝirmo."
+  },
+  "Metaphysics": {
+    "NAME": "SENVALIDIĜA",
+    "DESCRIPTION": "SENVALIDIĜA",
+    "UPGRADE_DESCRIPTION": "SENVALIDIĜA"
+  },
+  "Evaluate": {
+    "NAME": "Taksi",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Miksu *Komprenon en vian prenstakon.",
+    "UPGRADE_DESCRIPTION": "Gajnu !B! da ŝirmo. NL Miksu *Komprenon+ en vian prenstakon."
+  },
+  "Devotion": {
+    "NAME": "Dediĉo",
+    "DESCRIPTION": "Je la komenco NL de viaj vicoj, NL gajnu !M! NL da mantro."
+  },
+  "SoothingAura": {
+    "NAME": "SENVALIDIĜA Trankviliga aŭro",
+    "DESCRIPTION": "Retenu. NL Aldonu !M! da malforta. NL Je la komenco de via vico, aldonu 1 da malforta al hazarda malamiko."
+  },
+  "BrillianceAura": {
+    "NAME": "SENVALIDIĜA Brila aŭro",
+    "DESCRIPTION": "SENVALIDIĜA"
+  },
+  "FuryAura": {
+    "NAME": "SENVALIDIĜA Furioza aŭro",
+    "DESCRIPTION": "Retenu. NL Gajnu !M! da portempa forto. NL Je la komenco de via vico, gajnu 1 da portempa forto."
+  },
+  "DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Neludebla. NL Kiam vi prenas ĉi tiun karton, aldonu !M! *Miraklojn al via mano kaj Elĉerpu."
+  },
+  "CleanseEvil": {
+    "NAME": "Purigi malbonon",
+    "DESCRIPTION": "Aldonu X *Frapegojn al via mano.",
+    "UPGRADE_DESCRIPTION": "Aldonu X *Frapegojn+ al via mano."
+  },
+  "Torrent": {
+    "NAME": "SENVALIDIĜA Torento",
+    "DESCRIPTION": "Faru !D! da damaĝo al ĈIUJ malamikoj !M! fojojn. NL Elĉerpu."
+  },
+  "Windup": {
+    "NAME": "SENVALIDIĜA Risorto",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Gajnu !M! da povo."
+  },
+  "Shield": {
+    "NAME": "SENVALIDIĜA Ŝildo",
+    "DESCRIPTION": "Retenu. NL Gajnu !B! da ŝirmo. NL Elĉerpu."
+  },
+  "CrescentKick": {
+    "NAME": "SENVALIDIĜA Krescenta piedfrapo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se vi havas povon, NL gajnu [W] kaj NL prenu 1 karton."
+  },
+  "TalkToTheHand": {
+    "NAME": "Parolu al mano",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Kiam ajn vi atakas ĉi tiun malamikon, gajnu !M! da ŝirmo. NL Elĉerpu."
+  },
+  "BattleHymn": {
+    "NAME": "Batalhimno",
+    "DESCRIPTION": "Je la komenco NL de viaj vicoj, NL aldonu *Frapegon NL al via mano.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Je la komenco NL de viaj vicoj, NL aldonu *Frapegon NL al via mano."
+  },
+  "Prostrate": {
+    "NAME": "Sterniĝo",
+    "DESCRIPTION": "Gajnu !M! da mantro. NL Gajnu !B! da ŝirmo.",
+    "UPGRADE_DESCRIPTION": "SENVALIDIĜA"
+  },
+  "Punishment": {
+    "NAME": "SENVALIDIĜA Puno",
+    "DESCRIPTION": "Eniru punopozicion."
+  },
+  "Eruption": {
+    "NAME": "Erupcio",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Eniru rankoron."
+  },
+  "ClearTheMind": {
+    "NAME": "Trankvileco",
+    "DESCRIPTION": "Retenu. NL Eniru kalmon. NL Elĉerpu."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Mansigno",
+    "DESCRIPTION": "Kiam ajn vi gajnas ŝirmon ĉi-vice, aldonu !M! da malforta al ĈIUJ malamikoj."
+  },
+  "SpiritShield": {
+    "NAME": "Spirita ŝirmo",
+    "DESCRIPTION": "Gajnu po !M! da ŝirmo por ĉiu karto en via mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gajnu !B! da ŝirmo.)"
+    ]
+  },
+  "Vigilance": {
+    "NAME": "Vigleco",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Eniru kalmon.",
+    "UPGRADE_DESCRIPTION": "Senvalidiĝa."
+  },
+  "Serenity": {
+    "NAME": "SENVALIDIĜA Sereneco",
+    "DESCRIPTION": "Dum vi estas en kalmo, perdo de vivo estas malaltigata je !M!."
+  },
+  "Crescendo": {
+    "NAME": "Kresĉendo",
+    "DESCRIPTION": "Retenu. NL Eniru rankoron. NL Elĉerpu."
+  },
+  "Transcendence": {
+    "NAME": "Transcendo",
+    "DESCRIPTION": "Plibonigu ĉiujn kartojn kiuj retenas en via mano."
+  },
+  "FollowUp": {
+    "NAME": "Plufaro",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la lasta karto ludita ĉi-batale estis atako, gajnu [W]."
+  },
+  "Perseverance": {
+    "NAME": "Persisto",
+    "DESCRIPTION": "Retenu. NL Gajnu !B! da ŝirmo. NL Dum retenite, plialtigu ĝian ŝirmon je !M! ĉi-batale."
+  },
+  "CrushJoints": {
+    "NAME": "Pisti artikojn",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la lasta karto ludita ĉi-batale estis kapablo, aldonu !M! da vundebla."
+  },
+  "SashWhip": {
+    "NAME": "Skarpvipo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se la lasta karto ludita ĉi-batale estis atako, aldonu !M! da malforta."
+  },
+  "Sanctity": {
+    "NAME": "Sankteco",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Se la lasta karto ludita ĉi-batale estis kapablo, prenu !M! kartojn."
+  },
+  "Omniscience": {
+    "NAME": "Ĉioscio",
+    "DESCRIPTION": "Elektu karton en via prenstako. Ludu la elektitan karton du fojojn kaj elĉerpu ĝin. Elĉerpu.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Scrawl": {
+    "NAME": "Skribaĉo",
+    "DESCRIPTION": "Prenu kartojn ĝis kiam via mano estas plena. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Swivel": {
+    "NAME": "Turnkruco",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL La sekvonta atako, kiun vi ludos, kostos 0."
+  },
+  "Protect": {
+    "NAME": "Protekto",
+    "DESCRIPTION": "Retenu. NL Gajnu !B! da ŝirmo."
+  },
+  "FlyingSleeves": {
+    "NAME": "Flugmanikoj",
+    "DESCRIPTION": "Retenu. NL Faru !D! da damaĝo du fojojn."
+  },
+  "MasterReality": {
+    "NAME": "Regu realecon",
+    "DESCRIPTION": "Kiam ajn karto estas kreata dum batalo, plibonigu ĝin."
+  },
+  "BowlingBash": {
+    "NAME": "Kegla draŝo",
+    "DESCRIPTION": "Faru po !D! da damaĝo por ĉiu malamiko en la batalo."
+  },
+  "Unraveling": {
+    "NAME": "Maltordo",
+    "DESCRIPTION": "Ludu ĉiujn viajn kartojn dekstren de maldekstre. Celoj estos elektataj hazarde. Elĉerpu."
+  },
+  "BigBrain": {
+    "NAME": "SENVALIDIĜA Granda cerbo",
+    "DESCRIPTION": "Retenu. NL Prenu 1 karton. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Prenu 1 karton."
+  },
+  "SandsOfTime": {
+    "NAME": "Sablo de tempo",
+    "DESCRIPTION": "Retenu. NL Faru !D! da damaĝo. NL Dum retenite, malaltigu ĝian koston je 1 ĉi-batale."
+  },
+  "Brilliance": {
+    "NAME": "Brileco",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Faras kroman damaĝon egale al la mantro gajnita ĉi-batale.",
+    "EXTENDED_DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "Retribution": {
+    "NAME": "SENVALIDIĜA Repago",
+    "DESCRIPTION": "Kiam ajn vi perdas vivon, gajnu !M! da povo."
+  },
+  "JustLucky": {
+    "NAME": "Nur bonŝance",
+    "DESCRIPTION": "Ekvidu !M!. NL Gajnu !B! da ŝirmo. NL Faru !D! da damaĝo."
+  },
+  "Weave": {
+    "NAME": "Teksi",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Kiam ajn vi ekvidas, resendu ĉi tion de la forĵetstako al via mano."
+  },
+  "Adaptation": {
+    "NAME": "Adaptiĝo",
+    "DESCRIPTION": "Kiam ajn vi eniras rankoron, prenu !M! kartojn.",
+    "UPGRADE_DESCRIPTION": "SENVALIDIĜA"
+  },
+  "Causality": {
+    "NAME": "Kaŭzeco",
+    "DESCRIPTION": "Prenu kartojn ĝis via mano estas plena. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Retenu. NL Prenu kartojn ĝis via mano estas plena. NL Elĉerpu."
+  },
+  "Wish": {
+    "NAME": "Deziro",
+    "DESCRIPTION": "Elektu unu: NL Gajnu !B! da lada armaĵo, !D! da forto aŭ !M! da oro. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "CurseOfTheBell": {
+    "NAME": "Sonorila malbeno",
+    "DESCRIPTION": "Neludebla. NL Ne povas esti forigita de via kartaro."
+  },
+  "InnerPeace": {
+    "NAME": "Interna paco",
+    "DESCRIPTION": "Se vi estas en kalmo, prenu !M! kartojn, alikaze eniru kalmon."
+  },
+  "Tantrum": {
+    "NAME": "Kolereksplodo",
+    "DESCRIPTION": "Faru !D! da damaĝo !M! fojojn. Rankoron eniru. Miksu ĉi tion en vian prenstakon."
+  },
+  "Alpha": {
+    "NAME": "Alfa",
+    "DESCRIPTION": "Miksu *Betan en vian prenstakon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Fundamenta. NL Miksu *Betan en vian prenstakon. NL Elĉerpu."
+  },
+  "Beta": {
+    "NAME": "Beta",
+    "DESCRIPTION": "Miksu *Omegan en vian prenstakon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "Je la fino de viaj vicoj, faru !M! da damaĝo al ĈIUJ malamikoj."
+  },
+  "Vengeance": {
+    "NAME": "Stufata furiozo",
+    "DESCRIPTION": "Je la komenco de via sekvonta vico, eniru rankoron kaj prenu !M! kartojn."
+  },
+  "PathToVictory": {
+    "NAME": "Prempunktoj",
+    "DESCRIPTION": "Aldonu !M! da *Marko. NL ĈIUJ malamikoj perdas vivon egale al sia *Marko.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Wallop": {
+    "NAME": "Ega trafo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Gajnu ŝirmon egale al la neŝirmita damaĝo farata."
+  },
+  "Halt": {
+    "NAME": "Halti",
+    "DESCRIPTION": "Gajnu !B! da ŝirmo. NL Se vi estas en rankoro, gajnu !M! pli da ŝirmo."
+  },
+  "WheelKick": {
+    "NAME": "Turnpiedfrapo",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Prenu !M! kartojn.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Indignation": {
+    "NAME": "Indigno",
+    "DESCRIPTION": "Se vi estas en rankoro, aldonu !M! da vundebla al ĈIUJ malamikoj, alikaze eniru rankoron."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Fariĝi ĉiopova",
+    "DESCRIPTION": "Gajnu !M! da forto."
+  },
+  "LiveForever": {
+    "NAME": "Vivi eterne",
+    "DESCRIPTION": "Gajnu !M! da *lada *armaĵo."
+  },
+  "FameAndFortune": {
+    "NAME": "Famo kaj fortuno",
+    "DESCRIPTION": "Gajnu !M! da oro."
+  },
+  "ConjureBlade": {
+    "NAME": "Alvoki klingon",
+    "DESCRIPTION": "Miksu *Elstrekilon en vian prenstakon. NL Elĉerpu.",
+    "UPGRADE_DESCRIPTION": "Miksu *Elstrekilon kun X+1 en vian prenstakon. NL Elĉerpu."
+  },
+  "Expunger": {
+    "NAME": "Elstrekilo",
+    "DESCRIPTION": "Faru !D! da damaĝo X fojojn.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "Faru !D! da damaĝo !M! fojojn.",
+      "Faru !D! da damaoĝ !M! fojon."
+    ]
+  },
+  "WaveOfTheHand2": {
+    "NAME": "SENVALIDIĜA",
+    "DESCRIPTION": "SENVALIDIĜA"
+  },
+  "Discipline": {
+    "NAME": "Disciplino",
+    "DESCRIPTION": "Se vi finas vian vicon kun neuzata [W] , prenu tiom pli da kartoj venontvice."
+  },
+  "Flick": {
+    "NAME": "SENVALIDIĜA Tuŝeto",
+    "DESCRIPTION": "Faru !D! da damaĝo. NL Se malamiko estas *Tuŝetata 3 fojojn, tiu prenos !M! da damaĝo."
+  },
+  "LikeWater": {
+    "NAME": "Kiel akvo",
+    "DESCRIPTION": "Je la fino de viaj vicoj, se vi estas en kalmo, gajnu !M! da ŝirmo."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Accursed": {
+    "NAME": "Proklet",
+    "DESCRIPTION": [
+      "Svaki put kada poraziš vožda, dobijaš sledeći broj nasumičnih #ykletvi: #b",
+      ".",
+      ""
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Izopačeni durijan",
+    "DESCRIPTION": [
+      "Izgubi #b",
+      "% svojih maks. ž. p."
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Koplje Buđi",
+    "DESCRIPTION": [
+      "Neprijatelji zadaju #b",
+      "% više štete."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Brnjica",
+    "DESCRIPTION": [
+      "Više ne možeš da povećaš svoje maks. ž. p. Sve lečenje je upola delotvorno."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Aveti",
+    "DESCRIPTION": [
+      "Neprijatelji počinju sa sledećim brojem #yneopipljivosti: #b",
+      "."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteskni trofej",
+    "DESCRIPTION": [
+      "Po uzimanju, dobijaš #b",
+      " #rPonosa.",
+      "Tvoj ponos se izopačuje..."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Drevna poboljšanja",
+    "DESCRIPTION": [
+      "Neprijatelji počinju sa: #yzaštitom - #b",
+      ", #yoptočenim #yoklopom - #b",
+      ", i #ylečenjem - #b",
+      "."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestacija podražavača",
+    "DESCRIPTION": [
+      "Sobe sa blagom su zamenjeni čelnicima u budućim činovima. Čelnici više ne ispuštaju relikvije."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Pošandrcao",
+    "DESCRIPTION": [
+      "Vuci manje karata po potezu: #b",
+      " .",
+      ""
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Vremenski lavirint",
+    "DESCRIPTION": [
+      "Možeš da odigraš samo određen broj karata po potezau: #b",
+      ".",
+      "Mogu da odigram samo još sledeći broj karata: NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Štit Buđi",
+    "DESCRIPTION": [
+      "Neprijatelji imaju #b",
+      "% više ž. p."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Bolestan um",
+    "DESCRIPTION": [
+      "Na kraju svog poteza, dodaj broj nasumičnih Stanja na vrh gomile za vučenje: #b",
+      ".",
+      ""
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Suština ništavila",
+    "DESCRIPTION": [
+      "Zadobi manje [E] na početku svakog poteza: #b",
+      "."
+    ]
+  }
+}

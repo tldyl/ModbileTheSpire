@@ -1,0 +1,192 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "Le Soldat de fer"
+    ],
+    "TEXT": [
+      "Le seul survivant des Soldats de fer. NL Il a vendu son âme pour maîtriser des énergies démoniaques."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Corbot"
+    ],
+    "TEXT": [
+      "BIP BOUP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "La Silencieuse"
+    ],
+    "TEXT": [
+      "Une funeste chasseresse des terres brumeuses. NL Elle annihile ses ennemis à l'aide de dagues et de poisons."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Salutations...~ NL ~je...~ ~m'appelle~ ~Neow...~",
+      "~Re...~ NL ~bonjour...~",
+      "~Salutations...~",
+      "~Voulez-vous~ NL ~réessayer...~ ~?~",
+      "~Allez~ ~jusqu'au~ ~boss...~ NL ~pour~ ~recevoir~ ~plus...~ ~de...~ ~bénédictions...~",
+      "~Essayez~ ~au~ ~moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
+      "~J'ai~ ~pu~ ~vous~ ~ramener...~",
+      "~Faites~ ~un~ ~choix...~",
+      "~Je~ ~vous~ ~bénis...~",
+      "~Des~ ~risques...~ NL ~des~ ~récompenses...~",
+      "~C'est~ ~l'heure~ NL ~du~ ~DÉFI...~",
+      "Récompenses",
+      "~Continuons...~",
+      "~Ça~ ~ne~ ~fait~ ~que~ ~devenir~ ~plus~ ~difficile...~",
+      "~Impressionnant...~ ~plus...~",
+      "Maudit !",
+      "Étourdissement !",
+      "Transformation !"
+    ],
+    "OPTIONS": [
+      "[Continuer]",
+      "[Parler]",
+      "[Passer]",
+      "[Partir]",
+      "Choisissez 10 cartes à ajouter à votre deck."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gChoisissez #gune #gcarte #gà #grécupérer ]",
+      "[ #gRécupérez #gune #gcarte #grare #galéatoire ]",
+      "[ #gRetirez #gune #gcarte #gde #gvotre #gdeck ]",
+      "[ #gAméliorez #gune #gcarte ]",
+      "[ #gTransformez #gune #gcarte ]",
+      "[ #gRécupérez #g3 #gpotions ]",
+      "[ #gRecevez #gune #gRelique #gordinaire #galéatoire ]",
+      "[ #gPV #gmax #g+",
+      "[ #gRécupérez #g",
+      " #gd'or ]",
+      "#gRetirez #g2 #gcartes ]",
+      "#gObtenez #gune #gRelique #grare ]",
+      "#gObtenez #gune #gcarte #grare ]",
+      "#gGagnez #g",
+      " #gd'or ]",
+      "#gTransformez #g2 #gcartes ]",
+      "#gPV #gmax #g+",
+      "[ #rPerdez #r",
+      " #rPV #rmax. ",
+      "[ #rPerdez #rtout #rvotre #ror. ",
+      "[ #rObtenez #rune #rMalédiction. ",
+      "[ #rSubissez #r",
+      "Choisissez une carte",
+      "Sélectionnez une carte à retirer",
+      "Sélectionnez 2 cartes à retirer",
+      "Sélectionnez une carte à transformer",
+      "Sélectionnez 2 cartes à transformer",
+      "Sélectionnez une carte à améliorer",
+      "[ #gLes #gennemis #gdes #gtrois #gprochains #gcombats #gcommencent #gavec #g1 #gPV ]",
+      " #rdégât(s)",
+      "[ #gChoisissez #gune #gCarte #gincolore #gà #gobtenir ]",
+      "#gChoisissez #gune #gCarte #gincolore #grare #gà #gobtenir ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Continuer",
+      "~Bienvenue~ ~!~"
+    ],
+    "TEXT": [
+      "Salut ! NL Faites un achat ! NL Achetez, achetez, achetez !",
+      "J'aime bien votre coupe de cheveux.",
+      "Avez-vous l'heure ?",
+      "Vous préférez les chats ou les chiens ?",
+      "Vous avez l'air ~redoutable,~ NL hé hé...",
+      "Prenez votre temps... NL ... NL ... ou pas.",
+      "Vous aimez ce tapis ? NL Il n'est pas à vendre.",
+      "Aidez les petits commerces !",
+      "J'adore les masques !",
+      "Hum... NL ...hum... NL Oh !",
+      "Restez un instant et écoutez-moi !",
+      "C'est dangereux d'y aller seul ! Donnez-moi tout votre or !",
+      "Achetez quelque chose.",
+      "~*BÂILLE*~",
+      "J'aime l'or.",
+      "Le bleu est ma couleur préférée. NL Et vous ?"
+    ],
+    "OPTIONS": [
+      "Comment suis-je arrivé ici ? NL Je n'en reviens pas.",
+      "Dernière chance d'acheter quelque chose ! NL ~*cligne*~ ~*cligne*~",
+      "..... NL .... NL .........",
+      "J'aime les chats.",
+      "Pas de précipitation. NL Du calme.",
+      "Tout cela n'est-il pas @excitant@ @!?@",
+      "Avant, j'étais comme vous.",
+      "Vous montez ?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Bienvenue~ NL ~bienvenue~ ~!~",
+      "Eh non, NL il vous faut NL plus #rd'or.",
+      "Hé, vous n'avez pas #rd'argent !",
+      "Vous êtes à sec ?",
+      "Vous n'avez pas assez #rd'or.",
+      "Vous n'avez pas les moyens.",
+      "Je ne dirige pas une association caritative.",
+      "~Meeeeeeerci~",
+      "Encore une vente... NL oh oh oh ! NL Par ici la monnaie !",
+      "@VENDU@ !",
+      "Pas de remboursement.",
+      "Bonne journée à vous.",
+      "Sortir",
+      "Choisir une carte à retirer du deck."
+    ],
+    "TEXT": [
+      "Salut ! NL Faites un achat ! NL Achetez, achetez, achetez !",
+      "J'aime bien votre coupe de cheveux.",
+      "Avez-vous l'heure ?",
+      "Vous préférez les chats ou les chiens ?",
+      "Vous avez l'air ~redoutable,~ NL hé hé...",
+      "Prenez votre temps... NL ... NL ... ou pas.",
+      "Vous aimez ce tapis ? NL Il n'est pas à vendre.",
+      "Aidez les petits commerces !",
+      "J'adore les masques !",
+      "Auriez-vous croisé mon coursier ?",
+      "Restez un instant, et écoutez-moi !",
+      "C'est dangereux d'y aller seul ! Donnez-moi tout votre or !",
+      "Achetez quelque chose.",
+      "~*BÂILLE*~",
+      "J'aime l'or.",
+      "Le bleu est ma couleur préférée. NL Et vous ?"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Le Défectueux"
+    ],
+    "TEXT": [
+      "Un ancien robot de combat qui a développé une conscience propre. NL Une technologie antique lui permet de manipuler les Orbes."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Et maintenant... quoi...? NL ...Est-ce... la fin....?",
+      "...la tour dort.....",
+      "...et je vais...... faire... NL ....de même......"
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "La gardienne"
+    ],
+    "TEXT": [
+      "Une ascétique aveugle qui est venue pour \"Évaluer\" la Tour. NL Maître des Positions divines."
+    ]
+  }
+}

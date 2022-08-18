@@ -1,0 +1,174 @@
+{
+  "Allstar": {
+    "NAME": "Bintang Idola",
+    "DESCRIPTION": "Mulai permainan dengan 5 kartu tanpa warna."
+  },
+  "Binary": {
+    "NAME": "Dualitas",
+    "DESCRIPTION": "Hanya ada 2 pilihan dalam Hadiah Kartu."
+  },
+  "Brewmaster": {
+    "NAME": "[BEKAS] Ahli Masak",
+    "DESCRIPTION": "Mulai dengan 5 salin Alkemis dan Patung Binatang Putih."
+  },
+  "Cursed Run": {
+    "NAME": "Run Terkutuk",
+    "DESCRIPTION": "Tiap kali mengalahkan bos, terima satu Kutukan. Pusaka awalmu diganti dengan Kunci Terkutuk, Jimat Akik Hitam, dan Boneka Jengkalung."
+  },
+  "Diverse": {
+    "NAME": "Keragaman",
+    "DESCRIPTION": "Kartu tidak lagi dibatasi oleh karaktermu."
+  },
+  "Red Cards": {
+    "NAME": "Kartu Merah",
+    "DESCRIPTION": "Kartu Merah sekarang muncul di layar hadiah dan toko."
+  },
+  "Green Cards": {
+    "NAME": "Kartu Hijau",
+    "DESCRIPTION": "Kartu Hijau sekarang muncul di layar hadiah dan toko."
+  },
+  "Blue Cards": {
+    "NAME": "Kartu Biru",
+    "DESCRIPTION": "Kartu Biru sekarang muncul di layar hadiah dan toko."
+  },
+  "Purple Cards": {
+    "NAME": "Kartu Ungu",
+    "DESCRIPTION": "Kartu Ungu sekarang muncul di layar hadiah dan toko."
+  },
+  "Colorless Cards": {
+    "NAME": "Kartu Tanpa Warna",
+    "DESCRIPTION": "Kartu Tanpa Warna muncul lebih sering."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Susun dek kartu awalmu dengan memilih dari 3 pilihan kartu."
+  },
+  "Elite Swarm": {
+    "NAME": "Perburuan Besar-Besaran",
+    "DESCRIPTION": "Lawan Elite membanjiri Spire dan memberikan imbalan lebih."
+  },
+  "Endless": {
+    "NAME": "Endless",
+    "DESCRIPTION": "Kemenangan akan mengembalikanmu ke Act 1 dengan dek yang sama. Tapi hati-hati, the blight pada akhirnya akan memakan semuanya..."
+  },
+  "Blight Chests": {
+    "NAME": "Peti Wabah",
+    "DESCRIPTION": "Peti Bos berisi wabah setelah mengalahkan Act 3 dalam Endless."
+  },
+  "Stunted Growth": {
+    "NAME": "Pertumbuhan Terhalang",
+    "DESCRIPTION": "Musuh tidak lagi memberi hadiah kartu setelah mengalahkan Act 3 dalam Endless."
+  },
+  "Heirloom": {
+    "NAME": "Warisan",
+    "DESCRIPTION": "Mulai dengan 1 Pusaka langka."
+  },
+  "Hoarder": {
+    "NAME": "Kemaruk",
+    "DESCRIPTION": "Ketika kamu menambahkan kartu ke dek kartumu, tambahkan 2 salinan. Kamu tidak bisa membuang kartu lewat sang Pedagang."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Ganti pusaka awal dengan Gasing Abadi."
+  },
+  "Insanity": {
+    "NAME": "Edan",
+    "DESCRIPTION": "Mulai dengan dek berisi 50 kartu acak."
+  },
+  "Lethality": {
+    "NAME": "Mematikan",
+    "DESCRIPTION": "Kamu dan semua lawanmu memulai tiap pertarungan dengan +3 Daya."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Lawan menjatuhkan 200% lebih emas, tapi kamu tidak bisa melakukan Tempa di Tempat Istirahat."
+  },
+  "My True Form": {
+    "NAME": "Wujud Sebenarnya",
+    "DESCRIPTION": "Mulai dengan satu Wujud Iblis, Wujud Arwah, Wujud Gema dan Wujud Deva."
+  },
+  "Night Terrors": {
+    "NAME": "Mimpi Buruk",
+    "DESCRIPTION": "Beristirahat di Tempat Istirahat menyembuhkan 100% HP, tetapi mengurangi HP Maks 5 poin."
+  },
+  "One Hit Wonder": {
+    "NAME": "Keajaiban Satu Pukul",
+    "DESCRIPTION": "Mulai game dengan 1 HP Maks."
+  },
+  "Praise Snecko": {
+    "NAME": "Praise Snecko",
+    "DESCRIPTION": "Ganti Pusaka awal dengan Mata Laroke."
+  },
+  "Shiny": {
+    "NAME": "Berkilat",
+    "DESCRIPTION": "Dek pengawalmu diganti dengan 1 salin dari tiap semua kartu langka."
+  },
+  "Specialized": {
+    "NAME": "Penjurusan",
+    "DESCRIPTION": "Mulai permainan dengan 5 salin dari sebuah kartu."
+  },
+  "Starter Deck": {
+    "NAME": "Dek Awal",
+    "DESCRIPTION": "Mulai dengan Mahkota Pecah dan Dualitas, jadi musuh tidak lagi menjatuhkan kartu."
+  },
+  "Terminal": {
+    "NAME": "Ujung Akhir",
+    "DESCRIPTION": "Tiap memasuki ruangan, kehilangan 1 HP Maks. Mulai tiap pertarungan dengan 5 Zirah Berlapis."
+  },
+  "Time Dilation": {
+    "NAME": "Dilasi Waktu",
+    "DESCRIPTION": "Semua lawan memiliki debuff Lambat."
+  },
+  "Uncertain Future": {
+    "NAME": "Masa Depan Terjamin",
+    "DESCRIPTION": "Peta hanya mempunyai 1 jalur pasti."
+  },
+  "Vintage": {
+    "NAME": "Antik",
+    "DESCRIPTION": "Lawan normal tidak lagi memberikan kartu, tapi memberikan Pusaka."
+  },
+  "SealedDeck": {
+    "NAME": "Dek Tersegel",
+    "DESCRIPTION": "Bangun sebuah dek dari 30 kartu acak."
+  },
+  "Flight": {
+    "NAME": "Terbang",
+    "DESCRIPTION": "Kamu boleh mengabaikan jalur ketika memilih ruang selanjutnya untuk dilalui."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Dek awal adalah gabungan dari semua karakter."
+  },
+  "NeowTime": {
+    "NAME": "Waktu Neow",
+    "DESCRIPTION": "Terima 3 berkat dan 1 wabah dari Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Musuh Cerdas",
+    "DESCRIPTION": "Semua musuh memiliki gerakan dan kemampuan yang lebih menantang."
+  },
+  "Careless": {
+    "NAME": "Ceroboh",
+    "DESCRIPTION": "Pada awal tiap giliran, buang kartu paling atas dari dek ambil."
+  },
+  "ControlledChaos": {
+    "NAME": "Kekacauan Teratur",
+    "DESCRIPTION": "Mulai dengan Mata Beku. Pada awal giliran tambah 10 kartu acak ke dasar dek ambil."
+  },
+  "MonsterHunter": {
+    "NAME": "[DEPRECATED] Raksasa",
+    "DESCRIPTION": "Musuh punya tambahan HP tapi menjatuhkan hadiah yang lebih baik."
+  },
+  "DeadlyEvents": {
+    "NAME": "Event Mematikan",
+    "DESCRIPTION": "Ruang ? sekarang dapat mengandung Elit namun juga memiliki peluang lebih tinggi mengandung ruang Harta Karun."
+  },
+  "Daily Mods": {
+    "NAME": "Mode Harian",
+    "DESCRIPTION": "Main dengan tepat 3 Mode Harian acak."
+  },
+  "The Ending": {
+    "NAME": "Yang Terakhir",
+    "DESCRIPTION": "Ijinkan bab terakhir."
+  }
+}

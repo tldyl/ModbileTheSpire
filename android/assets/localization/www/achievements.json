@@ -1,0 +1,101 @@
+{
+    "AchievementGrid": {
+        "NAMES": [
+            "WWWWW WW WWW",
+            "WWWWWW",
+            "WWWW WW WW",
+            "WWW WWWW",
+            "WWWWWWWWWW",
+            "WWWWWWWW",
+            "WWWWWW",
+            "WWWWWWWWWW",
+            "WWWWWWWWWW",
+            "WWWWWWWW",
+            "WWWWWW",
+            "WWWWW",
+            "WWWWWWWW",
+            "WWW WWW WWWWWWW",
+            "WWWWWWW",
+            "WWW WWWWWWWW",
+            "WWW WWWWW",
+            "WWW WWWW",
+            "WWW WWWWWWWWW",
+            "WWW WWWWWWWWW",
+            "WWW WWWWWWWW",
+            "WWW WWWW",
+            "WWW WWWWWW",
+            "WWW WWWW WWWWW",
+            "WWWW",
+            "WWWWWWW",
+            "WWWWWW"
+        ],
+        "TEXT": [
+            "WWW W WWWWWW WWWW W WW WWWWWWWWW.",
+            "WWWW W WW WWWWW WWWWW WW WWWWW WWWWW WWW WWWWWWW WWWW WWWWWWWW.",
+            "WWW W WWWWWW WWWWWWW WWWWWWW WW WWWWWW.",
+            "WWWWWWW WW WWWWW WW W WWWWWW WWWWWW.",
+            "WWWW W WWWWWW WWWWWW W WWWWWW WWWW WW WWWWWW.",
+            "WWWW WW WW WWWW WWWWW WWWWWW WWWWWW.",
+            "WWWW WW WW WWWW WWWWWWWW WWWWWW WWWWWW.",
+            "WWWW WW WW WWWW WWWWW WWWWWW WWWWWW.",
+            "WWWW WWW WWWWW WWWWWW WWWWWW.",
+            "WWWWW WW WW WWWW WWWWWW WW W WWWWWW WWWWW.",
+            "WWWWWW W WWWWWWW WWWW WWWWWW WW W WWWWWW WWWWWW.",
+            "WWWW WW WWWWW WW W WWWWWW WWWW.",
+            "WWWW WW WWWWW WW W WWWWWW WWWW.",
+            "WWWWWW W WWWW WW WWWW W.",
+            "WWWWWW W WWWW WWWWWWW WWWWWW WWW WWWWWW.",
+            "WWWWWWWW WWW WWWWWWWW.",
+            "WWWWWWWW WWWWWWWWW.",
+            "WWWWWWWW WWW WWWWW WWWW.",
+            "WWWWWWWW WWW WWWWWW WWWWWWWWW.",
+            "WWWWWWWW WWW WWWWWWWWW.",
+            "WWWWWWWW WWW WWWWW.",
+            "WWWWWWWW WWW WWWWWWWW WWW.",
+            "WWWWWWW WWWW & WWWW.",
+            "WWWWWWWW WWW WWWW WWWWW.",
+            "WWWW WWW WWWW WWWW WWW WWWWWWWW.",
+            "WWWW WWW WWWW WWWW WWW WWWWWW.",
+            "WWWWWWW WWW WWWW WWWWWWWWWWW WWWW WW WWWWWWWW WWWW WWWWWWWW."
+        ]
+    },
+    "CharStat": {
+        "NAMES": [],
+        "TEXT": [
+            "WWWWW WWWWWWWW: ",
+            "WWWWW WWWWWWWWW: #W",
+            "WWWWW WWWWWW: #W",
+            "WWWWW WWWWWW WWWWWWW: #W",
+            "WWWWW WWWWWW WWWWW: #W",
+            "WWWWW WWWWWWW WWWWW: #W",
+            "WWWWW WWWWWWWW WWW: #W",
+            "WWWWW WWWWWWWWWW: #W",
+            "WWWWW WWWWWWWW: #W",
+            "WWWWWW WWWWWWWWWW: #W",
+            "WWWWWW WWWWWWWW: #W",
+            "WWWWWWW WWWWWW: #W",
+            "WWWWWWW WWWWW: #W",
+            "WWWWWWW WWWWWWW: ",
+            "WWWWWWWW WWW ",
+            ": #WWWW WW ",
+            ": #WWW WW ",
+            "WWWWWWWWW: #W",
+            "WWWWWW: #W",
+            "WWWWWW WWWWWWW: #W",
+            "WWWWWW WWWWW: #W",
+            "WWWWWWW WWWWW: #W"
+        ]
+    },
+    "StatsScreen": {
+        "NAMES": [
+            "#WWWWWWWW #WWWWWWWWWWW",
+            "#WWWWWWWWWWWWW",
+            "#WWWW #WWWWWWWWW",
+            "#WWWW #WWWWWWW",
+            "#WWWWWWWW"
+        ],
+        "TEXT": [
+            "WWWWWW"
+        ]
+    }
+}

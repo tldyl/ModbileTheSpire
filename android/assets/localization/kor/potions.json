@@ -1,0 +1,320 @@
+{
+  "Ambrosia": {
+    "NAME": "암브로시아",
+    "DESCRIPTIONS": [
+      "#y강림합니다."
+    ]
+  },
+  "Ancient Potion": {
+    "NAME": "고대 포션",
+    "DESCRIPTIONS": [
+      "#y인공물을 #b",
+      " 얻습니다."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "공격 포션",
+    "DESCRIPTIONS": [
+      "무작위 #y공격 카드 #b셋 중 #b하나를 선택해 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다.",
+      "무작위 #y공격 카드 #b셋 중 #b하나를 선택해 #b2 장을 얻습니다. 이번 턴 동안 해당 카드의 비용이 #b0 이 됩니다."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "재련의 축복",
+    "DESCRIPTIONS": [
+      "손에 있는 모든 카드를 이번 전투 동안 강화합니다."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "방어도 포션",
+    "DESCRIPTIONS": [
+      "#y방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "피 포션",
+    "DESCRIPTIONS": [
+      "최대 체력의 #b",
+      "% 를 회복합니다."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "병 속의 기적",
+    "DESCRIPTIONS": [
+      "#y기적을 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "무색 포션",
+    "DESCRIPTIONS": [
+      "#y무색 카드 #b셋 중 #b하나를 선택해 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다.",
+      "#y무색 카드 #b셋 중 #b하나를 선택해 #b2 장을 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "광신자 포션",
+    "DESCRIPTIONS": [
+      "#y의식을 #b",
+      " 얻습니다."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "교활함 포션",
+    "DESCRIPTIONS": [
+      "#y단도+ 를 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "민첩 포션",
+    "DESCRIPTIONS": [
+      "#y민첩을 #b",
+      " 얻습니다."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "정제된 혼돈",
+    "DESCRIPTIONS": [
+      "뽑을 카드 더미 위에서부터 #b",
+      " 장의 카드를 사용합니다."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "복제 포션",
+    "DESCRIPTIONS": [
+      "이번 턴에, 다음으로 내는 카드가 두 번 사용됩니다.",
+      "이번 턴에, 다음으로 내는 #b2 장의 카드가 두 번 사용됩니다."
+    ]
+  },
+  "Elixir": {
+    "NAME": "엘릭서",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "손패에 있는 모든 #y상태이상 과 #y저주 카드를 #y소멸 시킵니다.",
+      "",
+      "아무 일도 일어나지 않았다..."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "엘릭서",
+    "DESCRIPTIONS": [
+      "손에 있는 카드를 원하는 만큼 #y소멸시킵니다."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "에너지 포션",
+    "DESCRIPTIONS": [
+      "에너지를 #b",
+      " 얻습니다."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "엔트로피의 영액",
+    "DESCRIPTIONS": [
+      "빈 포션 슬롯을 무작위 포션으로 채웁니다."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "암흑의 정수",
+    "DESCRIPTIONS": [
+      "모든 구체 슬롯에 #y암흑을 #b",
+      " 번 영창합니다."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "강철의 정수",
+    "DESCRIPTIONS": [
+      "#y판금 #y갑옷을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "폭발 포션",
+    "DESCRIPTIONS": [
+      "적 전체에게 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "병 속의 요정",
+    "DESCRIPTIONS": [
+      "사망 시 이 포션을 버리는 대신 최대 체력의 #b",
+      "% 까지 체력을 회복합니다."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "공포 포션",
+    "DESCRIPTIONS": [
+      "#y취약을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "화염 포션",
+    "DESCRIPTIONS": [
+      "피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "밀집 포션",
+    "DESCRIPTIONS": [
+      "#y밀집을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "과일 주스",
+    "DESCRIPTIONS": [
+      "최대 체력을 #b",
+      " 얻습니다."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "도박꾼의 영액",
+    "DESCRIPTIONS": [
+      "원하는 만큼 카드를 버리고 버린 만큼 카드를 뽑습니다."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "단지 속의 유령",
+    "DESCRIPTIONS": [
+      "#y불가침을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "체력 포션",
+    "DESCRIPTIONS": [
+      "체력을 #b",
+      " 회복합니다."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "무쇠의 심장",
+    "DESCRIPTIONS": [
+      "#y금속화를 #b",
+      " 얻습니다."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "청동 액체",
+    "DESCRIPTIONS": [
+      "#y가시를 #b",
+      " 얻습니다."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "액상 기억",
+    "DESCRIPTIONS": [
+      "버린 카드 더미에서 카드를 선택해 손으로 들고 옵니다. 이번 턴에 비용이 #b0 이 됩니다.",
+      "버린 카드 더미에서 카드를 #b",
+      " 장 선택해 손으로 들고 옵니다. 이번 턴에 비용이 #b0 이 됩니다."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "중독 포션",
+    "DESCRIPTIONS": [
+      "#y중독을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "포션 슬롯",
+    "DESCRIPTIONS": [
+      "포션을 사용해서 자신에게 #g유리한 효과를 얻거나 적에게 #r불리한 효과를 줄 수 있습니다.",
+      "포션 슬롯"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "수용의 포션",
+    "DESCRIPTIONS": [
+      "구체 슬롯을 #b",
+      " 개 얻습니다."
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "파워 포션",
+    "DESCRIPTIONS": [
+      "무작위 #y파워 카드 #b셋 중 #b하나를 선택해 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다.",
+      "무작위 #y파워 카드 #b셋 중 #b하나를 선택해 #b2 장 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "재생 포션",
+    "DESCRIPTIONS": [
+      "#y재생을 #b",
+      " 얻습니다.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "스킬 포션",
+    "DESCRIPTIONS": [
+      "무작위 #y스킬 카드 #b셋 중 #b하나를 선택해 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다.",
+      "무작위 #y스킬 카드 #b셋 중 #b하나를 선택해 #b2 장 얻습니다. 이번 턴 동안 그 카드의 비용이 #b0 이 됩니다."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "연막탄",
+    "DESCRIPTIONS": [
+      "보스가 아닌 적으로부터 도망칩니다. 보상은 얻을 수 없습니다.",
+      "포위당했어!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "스네코 기름",
+    "DESCRIPTIONS": [
+      "카드를 #b",
+      " 장 뽑습니다. 손에 있는 카드의 비용을 무작위로 변경합니다.",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "속도 포션",
+    "DESCRIPTIONS": [
+      "#y민첩을 #b",
+      " 얻습니다. 턴 종료 시 #y민첩을 #b",
+      " 잃습니다."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "경지 포션",
+    "DESCRIPTIONS": [
+      "선택: #y명상 하거나 #y진노 합니다."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "몸풀기용 포션",
+    "DESCRIPTIONS": [
+      "#y힘을 #b",
+      " 얻습니다. 턴 종료 시 #y힘을 #b",
+      " 잃습니다."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "힘 포션",
+    "DESCRIPTIONS": [
+      "#y힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "신속 포션",
+    "DESCRIPTIONS": [
+      "",
+      "카드를 #b",
+      " 장 뽑습니다."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "약화 포션",
+    "DESCRIPTIONS": [
+      "#y약화를 #b",
+      " 부여합니다."
+    ]
+  }
+}

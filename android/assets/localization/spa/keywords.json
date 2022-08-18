@@ -1,0 +1,339 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefacto"
+      ],
+      "DESCRIPTION": "Niega el siguiente perjuicio."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "bloqueo",
+        "bloqueos"
+      ],
+      "DESCRIPTION": "Hasta el siguiente turno, previene daño."
+    },
+    "BURN": {
+      "NAMES": [
+        "quemadura",
+        "quemaduras"
+      ],
+      "DESCRIPTION": "Las Quemaduras son Cartas de estado Injugables que te dañan."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "invoca",
+        "invocar",
+        "invocado"
+      ],
+      "DESCRIPTION": "Invocar un Orbe lo pone en tu primer hueco vacío. Si no tienes espacios vacíos, tu primer Orbe será #yDescargado para hacer espacio."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "confundido"
+      ],
+      "DESCRIPTION": "Cuando robes una Carta, su coste será aleatorio."
+    },
+    "CURSE": {
+      "NAMES": [
+        "maldición"
+      ],
+      "DESCRIPTION": "Las Cartas de Maldición son Cartas negativas que se quedan en tu mazo."
+    },
+    "DARK": {
+      "NAMES": [
+        "oscuridad",
+        "oscuridad+"
+      ],
+      "DESCRIPTION": "Orbe: Aumenta el daño cada turno. Cuando sea #yDescargado, causa daño al enemigo con menos PV."
+    },
+    "DAZED": {
+      "NAMES": [
+        "desorientado"
+      ],
+      "DESCRIPTION": "Desorientado es una Carta de estado injugable."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "destreza"
+      ],
+      "DESCRIPTION": "La Destreza aumenta el Bloqueo ganado por medio de Cartas."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "etérea"
+      ],
+      "DESCRIPTION": "Si esta Carta está en tu mano al final del turno, se agota. Las Cartas Agotadas son eliminadas de tu mazo hasta el fin del combate."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "descargar",
+        "descargado",
+        "descarga"
+      ],
+      "DESCRIPTION": "Consume tu Orbe de más a la derecha y usa su efecto de Descargar."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "agotar",
+        "agotada",
+        "agotadas",
+        "agotan",
+        "agota"
+      ],
+      "DESCRIPTION": "Eliminada hasta el fin del combate."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "Concentración"
+      ],
+      "DESCRIPTION": "La Concentración aumenta la efectividad de los Orbes #yInvocados."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragil"
+      ],
+      "DESCRIPTION": "Mientras seas Frágil, gana #b25% menos #yBloqueo por medio de Cartas."
+    },
+    "FROST": {
+      "NAMES": [
+        "escarcha",
+        "escarcha+"
+      ],
+      "DESCRIPTION": "Orbe: Gana #yBloqueo."
+    },
+    "INNATE": {
+      "NAMES": [
+        "innata"
+      ],
+      "DESCRIPTION": "Empieza cada combate con esta Carta en tu mano."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce TODO el daño recibido y la pérdida de vida a #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "relámpago",
+        "relámpago+"
+      ],
+      "DESCRIPTION": "Orbe: Causa daño a enemigos aleatorios."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "bloqueada"
+      ],
+      "DESCRIPTION": "Esta Carta aún no ha sido desbloqueada."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "localizar"
+      ],
+      "DESCRIPTION": "Los enemigos marcados con Localizar reciben un #b50% más de daño de los Orbes."
+    },
+    "OPENER": {
+      "NAMES": [
+        "abridor"
+      ],
+      "DESCRIPTION": "Las Cartas Innatas sólo pueden jugarse como la primera Carta de cada turno."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orbe: Gana Energía."
+    },
+    "POISON": {
+      "NAMES": [
+        "veneno",
+        "envenenado"
+      ],
+      "DESCRIPTION": "Las Criaturas envenenadas pierden PV al inicio de su turno. Cada turno, el Veneno es reducido por #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "retiene",
+        "mantiene",
+        "retenido",
+        "retén",
+        "retenla",
+        "retenlas"
+      ],
+      "DESCRIPTION": "Las Cartas Retenidas no son descartadas al final del turno."
+    },
+    "SHIV": {
+      "NAMES": [
+        "navaja",
+        "navajas",
+        "'navaja'",
+        "'navaja+'"
+      ],
+      "DESCRIPTION": "Las Navajas son Cartas de Ataque con coste #b0 que se Agotan al jugarlas."
+    },
+    "STATUS": {
+      "NAMES": [
+        "estado"
+      ],
+      "DESCRIPTION": "Las Cartas de estado son eliminadas al final del combate."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "fuerza"
+      ],
+      "DESCRIPTION": "La Fuerza agrega daño adicional a los ataques."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "golpe",
+        "'golpe'"
+      ],
+      "DESCRIPTION": "Cualquier Carta con la palabra \"Golpe\" en su nombre."
+    },
+    "TEXT": [
+      "La Energía es usada para jugar Cartas en tu mano."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "espinas"
+      ],
+      "DESCRIPTION": "Cuando recibes daño de #yAtaque, dañas al enemigo."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transforma",
+        "transformar",
+        "transformada"
+      ],
+      "DESCRIPTION": "Las Cartas Transformadas se convierten en una Carta al azar de cualquier rareza."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "desconocida"
+      ],
+      "DESCRIPTION": "Esta Carta no ha sido encontrada."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "injugable"
+      ],
+      "DESCRIPTION": "Las Cartas Injugables no pueden ser usadas desde tu mano."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "mejora",
+        "mejorar"
+      ],
+      "DESCRIPTION": "Mejorar Cartas las hace más poderosas. Las Cartas solo pueden ser mejoradas una vez."
+    },
+    "VOID": {
+      "NAMES": [
+        "vacío",
+        "vacíos"
+      ],
+      "DESCRIPTION": "Los Vacíos son Cartas Injugables que consumen energía al ser robados."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnerable"
+      ],
+      "DESCRIPTION": "Las Criaturas Vulnerables toman #b50% más daño de Ataques."
+    },
+    "WEAK": {
+      "NAMES": [
+        "debil",
+        "débil",
+        "debilitar",
+        "debilitado",
+        "debilita",
+        "débil"
+      ],
+      "DESCRIPTION": "Las Criaturas Debilitadas causan un #b25% menos de daño de Ataques."
+    },
+    "WOUND": {
+      "NAMES": [
+        "herida",
+        "heridas"
+      ],
+      "DESCRIPTION": "Las Heridas son Cartas de estado Injugables."
+    },
+    "STANCE": {
+      "NAMES": [
+        "postura",
+        "posturas"
+      ],
+      "DESCRIPTION": "Solo puedes tener una postura a la vez."
+    },
+    "WRATH": {
+      "NAMES": [
+        "cólera",
+        "colera"
+      ],
+      "DESCRIPTION": "En esta #yPostura, haces y recibes el doble de daño de ataques."
+    },
+    "CALM": {
+      "NAMES": [
+        "calma"
+      ],
+      "DESCRIPTION": "Al salir de esta #yPostura, gana [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinidad"
+      ],
+      "DESCRIPTION": "Al salir de esta #yPostura, gana [W] [W] [W] . Los ataques hacen el triple de daño. Sal de esta #yPostura al final de tu próximo turno."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "mediante violencia"
+      ],
+      "DESCRIPTION": "Cuando obtienes #b10 #yMantra, entra en #yDivinidad."
+    },
+    "SCRY": {
+      "NAMES": [
+        "adivina",
+        "adivinar"
+      ],
+      "DESCRIPTION": "Mira las primeras X cartas de tu pila de robado. Puedes descartar las que quieras."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regenera",
+        "regen",
+        "regeneración"
+      ],
+      "DESCRIPTION": "Regeneración cura PV al final de tu turno. Cada turno, Regeneración se reduce en #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Tu próximo Ataque hace daño adicional."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gana #yFuerza al final de cada turno."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Se activa cuando esta carta mata a un enemigo no súbdito."
+    }
+  }
+}

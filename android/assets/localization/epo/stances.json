@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Rankoro",
+    "DESCRIPTION": [
+      "Viaj atakoj faras duoblan damaĝon kaj vi ricevas duoblan damaĝon de atakoj."
+    ]
+  },
+  "Calm": {
+    "NAME": "Kalmo",
+    "DESCRIPTION": [
+      "Elirante ĉi tiun #ypozicion, gajnu [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Dieco",
+    "DESCRIPTION": [
+      "Enirante ĉi tiun #ypozicion, gajnu [W] [W] [W] . Atakoj faras trioblan damaĝon. Eliru ĉi tiun #ypozicion je la komenco de via sekvonta vico."
+    ]
+  }
+}

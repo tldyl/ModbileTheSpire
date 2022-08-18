@@ -1,0 +1,180 @@
+{
+  "Alchemist": {
+    "NAME": "Alhemičar",
+    "DESCRIPTIONS": [
+      "Kupio pet napitaka."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Uspinjanje",
+    "DESCRIPTIONS": [
+      "+5% na poene po nivou Uspinjanja."
+    ]
+  },
+  "Beyond Elites Killed": {
+    "NAME": "Ubij. čelnika u Vani",
+    "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Presavršen",
+    "DESCRIPTIONS": [
+      "Porazio tri vožda bez pretrpljivanja štete."
+    ]
+  },
+  "Bosses Slain": {
+    "NAME": "Ubijenih voždova",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Šampion",
+    "DESCRIPTIONS": [
+      "Porazio čelnika bez pretrpljivanja štete."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Varalica",
+    "DESCRIPTIONS": [
+      "Uhvaćen u varanju. Rezultati dvaput uhvaćenih se ne dele sa drugima."
+    ]
+  },
+  "City Elites Killed": {
+    "NAME": "Ubij. čelnika u Gradu",
+    "DESCRIPTIONS": []
+  },
+  "Collector": {
+    "NAME": "Kolekcionar",
+    "DESCRIPTIONS": [
+      "Imaš četiri kopije bilo koje karte, ne računajući urođene."
+    ]
+  },
+  "Combo": {
+    "NAME": "K-k-k-kombo",
+    "DESCRIPTIONS": [
+      "Odigrao 20 karata u jednom potezu."
+    ]
+  },
+  "Curses": {
+    "NAME": "Sudbo kleta!",
+    "DESCRIPTIONS": [
+      "Imaš barem pet kletvi."
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Enciklopedista",
+    "DESCRIPTIONS": [
+      "Imaš više od 50 karata u špilu."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Ubij. čelnika u Prelud.",
+    "DESCRIPTIONS": []
+  },
+  "Highlander": {
+    "NAME": "Brđanin",
+    "DESCRIPTIONS": [
+      "Imaš špil bez duplikata (isključujući urođene karte)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Volim zlato",
+    "DESCRIPTIONS": [
+      "Barem 3000 zlatnika ti je prošlo kroz ruke."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Bibliotekar",
+    "DESCRIPTIONS": [
+      "Imaš više od 35 karata u špilu."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Svetlosnom brzinom",
+    "DESCRIPTIONS": [
+      "Pobedi ispod 45 minuta."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalista",
+    "DESCRIPTIONS": [
+      "5+ karata uklonjenih iz špila."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Pare pare pare",
+    "DESCRIPTIONS": [
+      "Barem 1000 zlatnika ti je prošlo kroz ruke."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Malac radoznalac",
+    "DESCRIPTIONS": [
+      "Posetio 15+ ? soba."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Na svoju ruku",
+    "DESCRIPTIONS": [
+      "Ubio se se."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Prekolj",
+    "DESCRIPTIONS": [
+      "Načinio 99 štete jednim napadom."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Siromah",
+    "DESCRIPTIONS": [
+      "Imaš nula retkih karata."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Savršen",
+    "DESCRIPTIONS": [
+      "Porazio vožda bez pretrpljivanja štete."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Govancljiv",
+    "DESCRIPTIONS": [
+      "Imaš govance vilenjaka."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Baja Patak",
+    "DESCRIPTIONS": [
+      "Barem 2000 zlatnika ti je prošlo kroz ruke."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Šljašt",
+    "DESCRIPTIONS": [
+      "Imaš 25+ relikvija."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Brziša",
+    "DESCRIPTIONS": [
+      "Pobedi ispod 60 minuta."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Naždran",
+    "DESCRIPTIONS": [
+      "Maks. ž. p. povećani za 30+."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Uhranjen",
+    "DESCRIPTIONS": [
+      "Maks. ž. p. povećani za 15+."
+    ]
+  },
+  "Heartbreaker": {
+    "NAME": "Heartbreaker",
+    "DESCRIPTIONS": [
+      "Defeat the Heart."
+    ]
+  }
+}

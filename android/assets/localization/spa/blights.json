@@ -1,0 +1,98 @@
+{
+  "Accursed": {
+    "NAME": "Maldito",
+    "DESCRIPTION": [
+      "Al recoger, obtienes #b",
+      " #yMaldiciones al azar.",
+      "¡Maldito!"
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Durian Arruinado",
+    "DESCRIPTION": [
+      "Pierde #b",
+      "% de tus PV máximos."
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Enemigos Mortales",
+    "DESCRIPTION": [
+      "Los enemigos hacen un #b",
+      "% más de daño."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Tripa Llena",
+    "DESCRIPTION": [
+      "Ya no puedes aumentar tus PV máximos. Toda curación se reduce a la mitad."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Agarre Sombrío",
+    "DESCRIPTION": [
+      "Los enemigos empiezan con #b",
+      " #yIntangible."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Trofeo Grotesco",
+    "DESCRIPTION": [
+      "Al recoger, obtiene #b",
+      " #rOrgullo.",
+      "Tu orgullo es retorcido..."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Renacimiento Metálico",
+    "DESCRIPTION": [
+      "Los enemigos empiezan con #b",
+      " de #yArtefacto, #b",
+      " de #yArmadura #yde #yplacas, y #b",
+      " #yRegenerar."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestación Mímica",
+    "DESCRIPTION": [
+      "Las salas del tesoro en actos futuros serán reemplazadas por salas de élites."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Cabeza de Chorlito",
+    "DESCRIPTION": [
+      "Al recoger, obtiene #b",
+      " cartas aleatorias.",
+      "¡Atolondrado!"
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Laberinto Temporal",
+    "DESCRIPTION": [
+      "Los enemigos tienen el poder Laberinto Temporal.",
+      " cartas por turno.",
+      "Solo puedes jugar hasta NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Enemigos Duros",
+    "DESCRIPTION": [
+      "Los enemigos tienen un #b",
+      "% más de PV."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Mente Retorcida",
+    "DESCRIPTION": [
+      "Al recoger, #yTransforma #b",
+      " cartas.",
+      "¡Transformación!"
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Esencia de Vacío",
+    "DESCRIPTION": [
+      "Gana #b",
+      " [E] menos al inicio de cada turno."
+    ]
+  }
+}

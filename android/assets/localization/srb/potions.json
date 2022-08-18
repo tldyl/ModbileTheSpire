@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "Drevni napitak",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #yzaštitu."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Napitak napada",
+    "DESCRIPTIONS": [
+      "Dodaj u ruku #bjedan od #btri nasumična napada. #bBesplatan je ovaj potez.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Napitak odbrane",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #yodbrane."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Napitak krvi",
+    "DESCRIPTIONS": [
+      "Zaleči #b",
+      "% svojih maks. z. p."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Napitak okretnosti",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #yokretnosti."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Eliksir",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#yIscrpi sve #ystatuse i #ykletve iz ruke.",
+      "",
+      "Nije imalo efekta..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energetski napitak",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " energije."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropijska smeša",
+    "DESCRIPTIONS": [
+      "Ispuni pojas za napitke nasumičnim napicima."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Esencije čelika",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #yoptočenog #yoklopa."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Eksplozivni napitak",
+    "DESCRIPTIONS": [
+      "Zadaj #b",
+      " štete SVIM neprijateljima."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Vila u tegli",
+    "DESCRIPTIONS": [
+      "Umesto da umreš, zaleči #b10% svojih maks. z. p. i odbaci ovaj napitak.",
+      "% of your Max HP instead and discard this potion."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Napitak straha",
+    "DESCRIPTIONS": [
+      "Nanesi #b",
+      " #yranjivosti."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Vatreni napitak",
+    "DESCRIPTIONS": [
+      "Zadaj #b",
+      " štete."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Napitak potentnosti",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #ypotentnosti."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Đus",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " maks. z.p."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Kartaški koktel",
+    "DESCRIPTIONS": [
+      "Odbaci bilo koji broj karata, potom vuci isto toliko."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Duh u tegli",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #yneopipljivost."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Eliksir života",
+    "DESCRIPTIONS": [
+      "Zaleči #b",
+      " ž. p."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Tečna bronza",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #ybodljikavosti."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Otrovni napitak",
+    "DESCRIPTIONS": [
+      "Nanesi #b",
+      " #yotrova."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Mesto za napitak",
+    "DESCRIPTIONS": [
+      "Tokom borbe se napicima #gpoboljšaj ili #rometi neprijatelje.",
+      "Mesto za napitak"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Napitak moći",
+    "DESCRIPTIONS": [
+      "Dodaj u ruku #bjednu od #btri nasumične moći. #bBesplatna je ovaj potez.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Lekoviti napitak",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #ylečenja.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Napitak umeća",
+    "DESCRIPTIONS": [
+      "Dodaj u ruku #bjednu od #btri nasumične veštine. #bBesplatna je ovaj potez.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Dimna bomba",
+    "DESCRIPTIONS": [
+      "Pobegni iz ne-voždovske borbe. Ne dobijaš nikakve nagrade.",
+      "I'm Surrounded!"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Zmijkovo ulje",
+    "DESCRIPTIONS": [
+      "Postani #yzbunjen. Vuci #b",
+      " karte.",
+      "kartu."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Napitak brzine",
+    "DESCRIPTIONS": [
+      "Povećaj svoju #yokretnost za #b",
+      ". Smanji je za #b",
+      " na kraju poteza."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Steroidska mućka",
+    "DESCRIPTIONS": [
+      "Povećaj svoju #ysnagu za #b",
+      ". Smanji je za #b",
+      " na kraju poteza."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Napitak snage",
+    "DESCRIPTIONS": [
+      "Zadobi #b",
+      " #ysnage."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Napitak hitrosti",
+    "DESCRIPTIONS": [
+      "",
+      "Vuci #b",
+      " karte."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Napitak slabosti",
+    "DESCRIPTIONS": [
+      "Nanesi #b",
+      " #yslabosti."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Heart of Iron",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "CunningPotion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yShivs to your hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion Of Capacity",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence Of Darkness",
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+      " #yDark for each orb slot."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Bottled Miracle",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilled Chaos",
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Liquid Memories",
+    "DESCRIPTIONS": [
+      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b ",
+      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Cultist Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Colorless Potion",
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Blessing of the Forge",
+    "DESCRIPTIONS": [
+      "Upgrade all cards in your hand."
+    ]
+  }
+}

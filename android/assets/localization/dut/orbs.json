@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Duistere",
+    "DESCRIPTION": [
+      "#yPassief: Aan het einde van je beurt, verhoog de schade van deze Bol met #b",
+      ". NL #yOproepen: Richt #b",
+      " schade aan op de vijand met de laagste LP."
+    ]
+  },
+  "Empty": {
+    "NAME": "Bol Sleuf",
+    "DESCRIPTION": [
+      "Bollen kunnen gekanaliseerd worden in deze sleuven."
+    ]
+  },
+  "Frost": {
+    "NAME": "Vorst",
+    "DESCRIPTION": [
+      "#yPassief: Aan het einde van je beurt, krijg #b",
+      " #yBlok. NL #yOproepen: Krijg #b",
+      " #yBlok."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Bliksem",
+    "DESCRIPTION": [
+      "#yPassief: Aan het einde van je beurt, richt #b",
+      " schade aan op een willekeurige vijand. NL #yOproepen: Richt #b",
+      " schade aan op een willekeurige vijand."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plasma",
+    "DESCRIPTION": [
+      "#yPassief: Aan het begin van je beurt, krijg [B] . NL #yOproepen: Krijg #b",
+      " [B] . NL Plasma wordt niet beïnvloed door #yFocus."
+    ]
+  }
+}

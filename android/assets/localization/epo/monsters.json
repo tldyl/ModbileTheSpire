@@ -1,0 +1,704 @@
+{
+  "AcidSlime_L": {
+    "MOVES": [
+      "Koroda kraĉo",
+      "Duiĝo",
+      "Leko"
+    ],
+    "NAME": "Acida ŝlimo (G)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "Koroda kraĉo",
+      "Leko"
+    ],
+    "NAME": "Acida ŝlimo (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "Acida ŝlimo (E)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "Pardonŝlimo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "Animbato",
+      "Malhela eĥo",
+      "Purigado",
+      "Koto"
+    ],
+    "NAME": "Vekiĝinto",
+    "DIALOG": [
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~Ne~ ~.~ ~.~ ~.~ ~ne~ ~.~ ~.~ NL ~.~ ~.~ ~ne~ ~.~ ~.~ ~.~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Urso",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pika",
+    "DIALOG": [
+      "~Ursooooo!!!!~"
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Romeo",
+    "DIALOG": [
+      "~Ataku,~ ~Urso!!~",
+      "~Vi~ ~pagos~ ~pro~ ~tio!!~",
+      "~Neeeeee,~ ~Urso!~"
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Krisa libro",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "HIPERRADIO"
+    ],
+    "NAME": "Bronza aŭtomato",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sfero",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Berdo",
+    "DIALOG": [
+      "@KAA!@ NL @KAAAA@",
+      ""
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Centuriestro",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "Defendema formo",
+      "Ekzekuto",
+      "Vangofrapo"
+    ],
+    "NAME": "La Ĉampo",
+    "DIALOG": [
+      "Ha! Tio estas via armilo?",
+      "Venu jam!",
+      "Faru kion vi povas! NL @HAHAHA!@",
+      "Havu liberan atakon! NL Vana malfortulo!",
+      "~Nun~ ~mi~ ~estas~ ~kolera...~",
+      "@MALVENKO??@ NL @NE@ @EBLAS!!@",
+      "~MORTU~ ~.~ ~.~ ~.~",
+      "Jen mia furiozo!",
+      "@TIO@ @ESTAS@ NL @MIA@ @ZONO!!@"
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Elektito",
+    "DIALOG": [
+      "~Suferu...~"
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Korupta koro",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "Sorĉelvoko"
+    ],
+    "NAME": "Kultisto",
+    "DIALOG": [
+      "@MI@ @ĈIAM@ NL @VENKAS!@",
+      "@VI@ @NE@ @RAJTAS@ NL @ESTI@ @ĈI@ @TIE!@",
+      "~Mi~ ~ne~ NL ~venkis...~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "Maĉ! Maĉ!"
+    ],
+    "NAME": "Malhelulo",
+    "DIALOG": [
+      "Rekreskas..."
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Deka",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "Cirklo de potenco"
+    ],
+    "NAME": "Dika",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Eksplodulo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Fajra sfero",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dago",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Flambatemulo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Rampaĵmancisto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "Kresko"
+    ],
+    "NAME": "Fungobesto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "Kraĉas reton"
+    ],
+    "NAME": "Laŭso",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "Kresko"
+    ],
+    "NAME": "Laŭso",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Giganta kapo",
+    "DIALOG": [
+      "~Estas~ ~tempo~",
+      "~Adi~ ~aŭ~",
+      "~Tik~ ~Tak~ NL ~Tik~ ~Tak~",
+      "~Kial~ ~vi~ ~restas?~"
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "Frakaso"
+    ],
+    "NAME": "Dika gremlino",
+    "DIALOG": [
+      "",
+      "",
+      "@Ho@ @ne,@ NL @ho@ @ne,@ NL @hO@ @NE!@"
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "Alvoko!"
+    ],
+    "NAME": "Gremlinestro",
+    "DIALOG": [
+      "Neniam rezignu!",
+      "Vi ne konas NL nian veran forton!",
+      "Iru buboj!",
+      "@Forkuru@ NL @Forkuruuuu!@",
+      "@Kuruuuuu!@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "Draŝado de kranio",
+      "Virbova alkuro"
+    ],
+    "NAME": "Gremlinaristokrato",
+    "DIALOG": [
+      "@RRrraaaahRRHHhhh!!@"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Ŝtela gremlino",
+    "DIALOG": [
+      "",
+      "@Mi@ @iros@ NL @serĉi@ @helpon!@ ",
+      "@Kio@ @kio@ @kioo!?@"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "Protektas",
+      "Ŝildbato"
+    ],
+    "NAME": "Ŝildgremlino",
+    "DIALOG": [
+      "",
+      "~Ĝi~ ~is...~",
+      "Tio ne bonas..."
+    ]
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "Ungego"
+    ],
+    "NAME": "Freneza gremlino",
+    "DIALOG": [
+      "",
+      "@Iras@ @iri@ NL @trovi@ @helpon!@",
+      "Jen mi ne plu!"
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "Ŝargas",
+      "Pleja blovego"
+    ],
+    "NAME": "Gremlinsorĉisto",
+    "DIALOG": [
+      "",
+      "Mi ŝargas!",
+      "~Jen~ ~venas!!~",
+      "@Mi...@ @trovu...@ NL @helpon...!@",
+      "~tro...~ NL ~danĝera...~ NL ~ĝis...~"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Mistikulo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "Flamigo",
+      "Bruligo",
+      "Fajrego"
+    ],
+    "NAME": "Heksafantomo",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "JawWorm": {
+    "MOVES": [
+      "Muĝo",
+      "Draŝo"
+    ],
+    "NAME": "Makzelvermo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "Animelpreno"
+    ],
+    "NAME": "Lagavulino",
+    "DIALOG": [
+      "",
+      "... NL .....",
+      "...? NL .....!?",
+      "@!!!@ NL @!???@"
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "Piko",
+      "Predo"
+    ],
+    "NAME": "Rabisto",
+    "DIALOG": [
+      "Donu vian oron!",
+      "@NEEEeeee!@",
+      "Nu... kie estas mia fumobombo...",
+      "Dankon pro la mono, hehe"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "La faŭko",
+    "DIALOG": [
+      "@RRrroooohhRRHhh!!@"
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "Piko",
+      "Predo"
+    ],
+    "NAME": "Predisto",
+    "DIALOG": [
+      "Donu tion nun!",
+      "Mi devas foriri!"
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Morta kontraŭaĵo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "Plifortigo"
+    ],
+    "NAME": "Promensfero",
+    "DIALOG": [
+      "Ŝargante NL ŝildojn."
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pupisto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Forpuŝilo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "Diserigo"
+    ],
+    "NAME": "Sentinelo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Turega kreskaĵo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Konkoparazito",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "Rasto"
+    ],
+    "NAME": "Sklavisto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vokto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "Skrapo",
+      "Implikado"
+    ],
+    "NAME": "Sklavisto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "Batego",
+      "Preparas",
+      "Duiĝo",
+      "Kotoŝpruco"
+    ],
+    "NAME": "Ŝlimĉefo",
+    "DIALOG": [
+      "~Ŝlimo...~ NL #r~PIST'!!!~",
+      ""
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "Febligaj sporoj"
+    ],
+    "NAME": "Serpentplanto",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "Perpleksiga rigardo",
+      "Vostvipo",
+      "Mordo"
+    ],
+    "NAME": "Serpeko",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Sfera gardisto",
+    "DIALOG": [
+      "~Trovis~ NL ~eksterulon~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "Leko",
+      "Duiĝo"
+    ],
+    "NAME": "Pinta ŝlimo (G)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "Leko"
+    ],
+    "NAME": "Pinta ŝlimo (M)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "Pinta ŝlimo (E)",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pikulo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "La kolektisto",
+    "DIALOG": [
+      "@Vi@ @estas@ @mia!@"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "Defenda formo",
+      "Feroca batego",
+      "Rulado",
+      "Ĝemelbato",
+      "Trombo",
+      "Ŝargante",
+      "Ellasas vaporon"
+    ],
+    "NAME": "La Gardisto",
+    "DIALOG": [
+      "#b~..MALPLI...~ NL #b~...VARMIĜAS...~",
+      "Defendas...",
+      "#r@DETRUU@ NL #r@DETRUU@ NL #r@DETRUU@",
+      "#r@DANĜERO@ NL #r@DANĜERO@ NL #r@DANĜERO@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Tempomanĝanto",
+    "DIALOG": [
+      "~Ha...~ NL ~..vizitanto...~",
+      "~Malsaĝa..~ NL @MALSAAAAĜA!@",
+      "~Neniam....~ NL ~...ŝatis..~ NL ~..vin...~"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Torĉkapo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Pasemaĵo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Turega ŝildo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Turega lanco"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Baraktanta maso",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

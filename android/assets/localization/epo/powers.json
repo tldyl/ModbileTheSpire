@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "Akurateco",
+    "DESCRIPTIONS": [
+      "#yPikiloj faras #b",
+      " pli da damaĝo."
+    ]
+  },
+  "After Image": {
+    "NAME": "Postbildo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas karton, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplifi",
+    "DESCRIPTIONS": [
+      "Via sekvonta #ypotencokarto estos ludata du fojojn ĉi-vice.",
+      "Viaj sekvontaj ",
+      " #ypotencokartoj estos ludataj du fojojn ĉi-vice."
+    ]
+  },
+  "Anger": {
+    "NAME": "Furioziĝi",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ykapablon, gajnas #b",
+      " da #yforto."
+    ]
+  },
+  "Angry": {
+    "NAME": "Kolera",
+    "DESCRIPTIONS": [
+      "",
+      "Kiam ĝi prenas #yatakan damaĝon, gajnas #b",
+      " da #yforto."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artefakto",
+    "DESCRIPTIONS": [
+      "Nuligas #b",
+      " statmalbonigon.",
+      " statmalbonigojn."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Atakforbrulo",
+    "DESCRIPTIONS": [
+      "Dum #b",
+      " vico, kiam ajn vi ludas #yatakon, #yelĉerpu ĝin.",
+      "Dum la sekvontaj #b",
+      " vicoj, kiam ajn vi ludas #yatakon, #yelĉerpu ĝin."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Baro",
+    "DESCRIPTIONS": [
+      "#yŜirmo ne estas forigata je la komenco de viaj vicoj.",
+      "#yŜirmo ne estas forigata je la komenco de ĝiaj vicoj."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Amoko",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, gajnu ",
+      ""
+    ]
+  },
+  "Bias": {
+    "NAME": "Biaso",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, perdu #b",
+      " da #yatento."
+    ]
+  },
+  "Blur": {
+    "NAME": "Nebuleco",
+    "DESCRIPTIONS": [
+      "#yŜirmo ne estas forigata je la komenco de via sekvonta vico.",
+      "#yŜirmo ne estas forigata je la komenco de viaj sekvontaj #b",
+      " vicoj."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Brutaleco",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, perdu #b",
+      " da vivo kaj prenu #b",
+      " karton.",
+      "Je la komenco de viaj vicoj, perdu #b",
+      " da vivo kaj prenu #b",
+      " kartojn."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Antaŭgardo",
+    "DESCRIPTIONS": [
+      "Preventas la sekvontan fojon, ke vi perdus vivpoentojn.",
+      "Preventas la sekvontajn #b",
+      " fojojn, ke vi perdus vivpoentojn."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Kuglorapideco",
+    "DESCRIPTIONS": [
+      "La energikosto de ĉiuj Verdaj kartoj nun estas #b0."
+    ]
+  },
+  "Burst": {
+    "NAME": "Eksalto",
+    "DESCRIPTIONS": [
+      "Via sekvonta #ykapablo estos ludata du fojojn ĉi-vice.",
+      "Viaj sekvontaj ",
+      " #ykapabloj estos ludataj du fojojn ĉi-vice."
+    ]
+  },
+  "Choked": {
+    "NAME": "Sufokita",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas karton ĉi-vice, perdas #b",
+      " da vivo."
+    ]
+  },
+  "Combust": {
+    "NAME": "Brulado",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, perdu #b",
+      " vivpoenton kaj faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Konfuzo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi prenas karton, hazardigu ĝian koston."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Konservo",
+    "DESCRIPTIONS": [
+      "#yEnergio estos konservata ĉi-vice.",
+      "#yEnergio estos konservata dum la sekvontaj #b",
+      " vicoj."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Stringita",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, prenu #b",
+      " da damaĝo."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Korupto",
+    "DESCRIPTIONS": [
+      "#yKapabloj kostas #b0. Kiam ajn vi ludas #ykapablon, #yelĉerpu ĝin.",
+      "Kiam ajn vi ludas #ykapablon, #yelĉerpu ĝin."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Kreema AI",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, aldonu #b",
+      " hazardan #ypotencokarton al via mano.",
+      " hazardajn #ypotencokartojn al via mano."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Scivolemo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, gajnu #b",
+      " da #yforto."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Buliĝo",
+    "DESCRIPTIONS": [
+      "Kiam ĝi ricevas atakan damaĝon, buliĝas kaj gajnas #b",
+      " da #yŝirmo. (Unu fojon dum la batalo)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Malhela brakumo",
+    "DESCRIPTIONS": [
+      "Kiam ajn karto estas #yelĉerpata, prenu #b1 karton.",
+      "Kiam ajn karto estas #yelĉerpata, prenu #b",
+      " kartojn."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Demonformo",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, gajnu #b",
+      " da #yforto."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Falo de lerteco",
+    "DESCRIPTIONS": [
+      "Je la fino de ĉi tiu vico, perdu #b",
+      " da #ylerteco."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Lerteco",
+    "DESCRIPTIONS": [
+      "Plialtigas #yŝirmon de kartoj je #b",
+      "Malaltigas #yŝirmon de kartoj je #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Duobla damaĝo",
+    "DESCRIPTIONS": [
+      "#yAtakoj faras duobla damaĝo dum #b",
+      " vico.",
+      " vicoj."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Duobla bateto",
+    "DESCRIPTIONS": [
+      "Via sekvonta #yatako estos ludata du fojojn ĉi-vice.",
+      "Viaj sekvontaj ",
+      " #yatakoj estos ludataj du fojojn ĉi-vice."
+    ]
+  },
+  "Draw": {
+    "NAME": "Prenu",
+    "DESCRIPTIONS": [
+      "Je la komenco de via vico, prenu #b",
+      " plian karton.",
+      " karton malpli.",
+      " pliajn kartojn.",
+      " kartojn malpli."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Prenu karton",
+    "DESCRIPTIONS": [
+      "Prenu #b",
+      " pliajn kartojn sekvontvice.",
+      " plian karton sekvontvice."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Falo de kartpreno",
+    "DESCRIPTIONS": [
+      "Prenu #b",
+      " karton malpli sekvontvice.",
+      " kartojn malpli sekvontvice."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Malaltiĝo de kartpreno",
+    "DESCRIPTIONS": [
+      "Prenu #b1 karton malpli sekvontvice.",
+      "Prenu #b1 karton malpli dum la sekvontaj #b",
+      " vicoj."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Eĥoformo",
+    "DESCRIPTIONS": [
+      "Ĉiuvice, la unua karto, kiun vi ludas, estos ludata du fojojn.",
+      "Ĉiuvice, la unuaj #b",
+      " kartoj, kiujn vi ludas, estos ludataj du fojojn."
+    ]
+  },
+  "Electro": {
+    "NAME": "Elektro",
+    "DESCRIPTIONS": [
+      "#yFulmo trafas ĈIUJN malamikojn.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Energiita",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " pli da [G] sekvontvice.",
+      " pli da [G] sekvontvice.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energiita",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " pli da [B] sekvontvice.",
+      " pli da [B] sekvontvice.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Implikita",
+    "DESCRIPTIONS": [
+      "Vi ne povas ludi #yatakojn ĉi-vice."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Venenplena",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi faras neŝirmatan atakan damaĝon, aldonu #b",
+      " da #yveneno."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Evolui",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi prenas #ystatkarton, prenu #b1 karton.",
+      "Kiam ajn vi prenas #ystatkarton, prenu #b",
+      " kartojn."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Eksplodema",
+    "DESCRIPTIONS": [
+      "Eksplodos post #b",
+      " vicoj kaj faros #b",
+      " da damaĝo.",
+      "Eksplodos ĉi-vice kaj faros #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Pliaj kartoj",
+    "DESCRIPTIONS": [
+      "Prenu #b1 plian karton sekvontvice.",
+      "Prenu #b",
+      " pliajn kartojn sekvontvice."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Doloro ne doloras",
+    "DESCRIPTIONS": [
+      "Kiam ajn karto estas #yelĉerpata, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Fajrspirado",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi prenas #ystatkarton aŭ #ymalbenon, faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Flamŝildo",
+    "DESCRIPTIONS": [
+      "Kiam vi estas atakata, refaras #b",
+      " da damaĝo."
+    ]
+  },
+  "Flex": {
+    "NAME": "Forto falas",
+    "DESCRIPTIONS": [
+      "Je la fino de ĉi tiu vico, perdu #b",
+      " da #yforto."
+    ]
+  },
+  "Flight": {
+    "NAME": "Flugo",
+    "DESCRIPTIONS": [
+      "Ricevas 50% malpli da ataka damaĝo. Nuligota post ricevo de #yataka damaĝo #b",
+      " fojojn en unu vico."
+    ]
+  },
+  "Focus": {
+    "NAME": "Atento",
+    "DESCRIPTIONS": [
+      "Plialtigas la efikon de sferoj je #b",
+      "Malaltigas la efikon de sferoj je #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Kaduka",
+    "DESCRIPTIONS": [
+      "Gajnu #b25% malpli da #yŝirmo de kartoj dum #b",
+      " vico.",
+      " vicoj."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Gambito",
+    "DESCRIPTIONS": [
+      "Post #b",
+      " vico, gajnu ",
+      " vicoj, gajnu ",
+      " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Je la fino de ĝiaj vicoj, gajnas #b",
+      " da #yforto."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Kresko",
+    "DESCRIPTIONS": [
+      "Je la fino de ĝiaj vicoj, gajnas #b",
+      " da #yforto."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Varmointerŝanĝilo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, prenu #b",
+      " karton.",
+      " kartojn."
+    ]
+  },
+  "Hello": {
+    "NAME": "Saluton",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, aldonu #b",
+      " hazardajn oftajn kartojn al via mano.",
+      " hazardan oftan karton al via mano."
+    ]
+  },
+  "Hex": {
+    "NAME": "Fisorĉo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #yneatakan karton, miksu #b",
+      " da #yKonsterniĝo en vian prenstakon."
+    ]
+  },
+  "Hide": {
+    "NAME": "Kaŝi",
+    "DESCRIPTIONS": [
+      "Vi ne povas preni damaĝon ĝis la komenco de via sekvonta vico.",
+      "Vi ne povas preni damaĝon dum #b",
+      " vicoj."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Senfinaj klingoj",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, aldonu #b",
+      " #yPikilojn al via mano.",
+      " #yPikilon al via mano."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Nepalpebla",
+    "DESCRIPTIONS": [
+      "Malaltigu ĈIUN damaĝon, kiun vi ricevas, al #b1 ĉi-vice. #yNepalpebla denove aktiviĝos ĉiun duan vicon."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Nevenkebla",
+    "DESCRIPTIONS": [
+      "Nur povas perdi plian #b",
+      " da vivo ĉi-vice.",
+      "Ne plu povas esti damaĝata ĉi-vice."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Frapo de morto",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas karton, prenu #b",
+      " da damaĝo."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Nepalpebla",
+    "DESCRIPTIONS": [
+      "Malaltigu ĈIUN damaĝon kaj perdon de vivo al #b1."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Maligita",
+    "DESCRIPTIONS": [
+      "Imuna kontraŭ damaĝo. Kiam ajn vi gajnas #yŝirmon, perdu tiom da vivo."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Nehalteblulo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi gajnas #yŝirmon, faru #b",
+      " da damaĝo al hazarda malamiko."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Scio",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, prenu #b",
+      " kartojn."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Vivoligo",
+    "DESCRIPTIONS": [
+      "Se aliaj malamikoj ankoraŭ vivas, revivos post #b2 vicoj je #b50% da sia vivo."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Alceligi",
+    "DESCRIPTIONS": [
+      "Ricevas #b",
+      "% pli da damaĝo de sferoj dum #b",
+      " vico.",
+      " vicoj."
+    ]
+  },
+  "Loop": {
+    "NAME": "Ripeto",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, aktivigu la pasivan efikon de via sekvonta sfero.",
+      "Je la komenco de viaj vicoj, aktivigu la pasivan efikon de via sekvonta sfero #b",
+      " fojojn."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Aŭtomata lernado",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, prenu #b",
+      " plian karton.",
+      " pliajn kartojn."
+    ]
+  },
+  "Study": {
+    "NAME": "Studo",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, miksu",
+      " #yKomprenon en vian prenstakon.",
+      " #yKomprenojn en vian prenstakon."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetismo",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, aldonu #b%s hazardan senkoloran karton al via mano.",
+      "Je la komenco de viaj vicoj, aldonu #b%s hazardajn senkolorajn kartojn al via mano."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Etendebla",
+    "DESCRIPTIONS": [
+      "Kiam ĝi ricevas atakan damaĝon, ĝi gajnas #b",
+      " da #yŝirmo. Gajno de #yŝirmo plialtiĝas kiam ",
+      " estas aktivigata. Denove estos #b",
+      " je la komenco de viaj vicoj."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Ĥaoso",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, ludu la supran karton de via prenstako.",
+      "Je la komenco de viaj vicoj, ludu la suprajn #b",
+      " kartojn de via prenstako."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metaligo",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, gajnu #b",
+      " da #yŝirmo.",
+      "Je la fino de ĝiaj vicoj, gajnas #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Minion": {
+    "NAME": "Miniono",
+    "DESCRIPTIONS": [
+      "Minionoj forlasas la batalon sen ilia estro."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Formoŝanĝo",
+    "DESCRIPTIONS": [
+      "Post ricevi #b",
+      " da damaĝo, transformos al defenda formo."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Sekvontvica ŝirmo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yŝirmo sekvontvice."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Koŝmaro",
+    "DESCRIPTIONS": [
+      "Aldonu #b",
+      " kartojn al via mano sekvontvice."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Neniu atako",
+    "DESCRIPTIONS": [
+      "Vi ne povas ludi #yatakojn ĉi-vice."
+    ]
+  },
+  "No Draw": {
+    "NAME": "Neniu preno",
+    "DESCRIPTIONS": [
+      "Vi ne povas preni kartojn ĉi-vice."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Haladzo",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, aldonu #b",
+      " da #yveneno al ĈIUJ malamikoj."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Nuligi atakon",
+    "DESCRIPTIONS": [
+      "Tute #yŝirmas kontraŭ unu #yatakon ĉiu-vice."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Dolorigaj pikoj",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ricevas atakan damaĝon de ĉi tiu malamiko, aldonu #yVundon al via forĵetstako."
+    ]
+  },
+  "Panache": {
+    "NAME": "Vervo",
+    "DESCRIPTIONS": [
+      "Se vi ludas #b",
+      " plian karton ĉi-vice, faru #b",
+      " da damaĝo al ĈIUJ malamikoj.",
+      " pliajn kartojn ĉi-vice, faru #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Skribilpinto",
+    "DESCRIPTIONS": [
+      "Via sekvonta #yatako faros duoblan damaĝon."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Reva",
+    "DESCRIPTIONS": [
+      "Faru #yduoblan #ydamaĝon sekvontvice.",
+      "Faru #yduoblan #ydamaĝon dum la sekvontaj ",
+      " vicoj."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Lada armaĵo",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, gajnu #b",
+      " da #yŝirmo. Ricevi neŝirmatan atakan damaĝon malaltigos #yladan #yarmaĵon je #b1.",
+      "Je la fino de ĝiaj vicoj, gajnas #b",
+      " da #yŝirmo. Ricevi neŝirmatan atakan damaĝon malaltigos #yladan #yarmaĵon je #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Veneno",
+    "DESCRIPTIONS": [
+      "Je la komenco de via vico, perdu #b",
+      " da vivo, kaj #yveneno malaltiĝas je #b1.",
+      "Je la komenco de ĝia vico, perdas #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Primo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi #konduktas Sferon, prenu #b",
+      " karton.",
+      " kartojn."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitiva",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi prenas #yoftan karton, prenu #b",
+      " karton.",
+      " kartojn."
+    ]
+  },
+  "Rage": {
+    "NAME": "Furioza",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #yatakon ĉi-vice, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Resalto",
+    "DESCRIPTIONS": [
+      "La sekvonta karto, kiun vi ludas ĉi-vice, estos metata supren sur vian prenstakon.",
+      "La sekvontaj #b",
+      " kartoj, kiujn vi ludas ĉi-vice, estos metataj supren sur vian prenstakon."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Malaltigi damaĝon",
+    "DESCRIPTIONS": [
+      "Malaltigu damaĝon prenatan je #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regenero",
+    "DESCRIPTIONS": [
+      "Je la komenco de ĝiaj vicoj, resaniĝas #b",
+      " da #yvivo."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regenero",
+    "DESCRIPTIONS": [
+      "Je la fino de via vico, resaniĝu #b",
+      " da #yvivo kaj poste malaltigu #yregeneron je #b1.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Riparo",
+    "DESCRIPTIONS": [
+      "Je la fino de la batalo, resaniĝu #b",
+      " da vivo."
+    ]
+  },
+  "Repulse": {
+    "NAME": "Repuŝo",
+    "DESCRIPTIONS": [
+      "Kiam ajn ",
+      " ricevas atakan damaĝon, metas #yVundon en vian manon."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Reteni kartojn",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, vi rajtas reteni #b",
+      " karton.",
+      " kartojn."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Reteni manon",
+    "DESCRIPTIONS": [
+      "Dum la sekvontaj #b ",
+      "vicoj, ne forĵetu vian manon.",
+      "Ne forĵetu vian manon je la fino de ĉi tiu vico."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Repliko",
+    "DESCRIPTIONS": [
+      "Unu fojon ĉiuvice, refaras #b",
+      " da damaĝo kiam vi ludas #yatakon."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Rito",
+    "DESCRIPTIONS": [
+      "Je la fino de ĝiaj vicoj, gajnas #b",
+      " da #yforto.",
+      "Je la fino de viaj vicoj, gajnu #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "Rompo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi perdas vivon de karto, gajnu #b",
+      " da #yforto."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadista",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi donas Statmalbonigon al malamiko, faru #b",
+      " da damaĝo."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Serpenta",
+    "DESCRIPTIONS": [
+      "Imuna kontraŭ #ypocioj."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Katenita",
+    "DESCRIPTIONS": [
+      "Je la fino de ĝia vico, gajnos #b",
+      " da #yforto."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Akra felo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #yatakon, prenu #b",
+      " da damaĝo."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Depretera kriaĉo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #yatakon, forĵetu hazardan karton."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Kapabloforbrulo",
+    "DESCRIPTIONS": [
+      "Dum #b",
+      " vico, kiam ajn vi ludas #yatakon, #yelĉerpu ĝin.",
+      "Dum la sekvontaj #b",
+      " vicoj, kiam ajn vi ludas #yatakon, #yelĉerpu ĝin."
+    ]
+  },
+  "Slow": {
+    "NAME": "Malrapida",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas karton, ",
+      " prenos #b10% pli da damaĝo de #yatakoj ĉi-vice.",
+      " (Prenas #b",
+      "% pli da damaĝo)"
+    ]
+  },
+  "Split": {
+    "NAME": "Duiĝo",
+    "DESCRIPTIONS": [
+      "Kiam ĝia vivo estas je aŭ sub #b50%, disiĝos al #b2 pli etaj ŝlimoj kun la tiama vivo de ",
+      "."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Spornubo",
+    "DESCRIPTIONS": [
+      "Kiam ĝi mortos, aldonos #b",
+      " da #yvundebla."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Senmovigo",
+    "DESCRIPTIONS": [
+      "Kiam ĝi mortos, ",
+      " estos redonata al via mano."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Statika malŝargo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ricevas atakan damaĝon, #ykonduktu #b",
+      " da #yfulmo."
+    ]
+  },
+  "Storm": {
+    "NAME": "Fulmotondro",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ypotencokarton, #ykonduktu #b",
+      " da #yfulmo."
+    ]
+  },
+  "Strength": {
+    "NAME": "Forto",
+    "DESCRIPTIONS": [
+      "Plialtigas atakan damaĝon je #b",
+      "Malaltigas atakan damaĝon je #b",
+      "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "La bombo",
+    "DESCRIPTIONS": [
+      "Post la fino de #b%1$s vicoj, faru #b%2$s da damaĝo al ĈIUJ malamikoj.",
+      "Je la fino de ĉi tiu vico, faru #b%1$s da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Ŝtelado",
+    "DESCRIPTIONS": [
+      " ŝtelas #b",
+      " da #yoro kiam ajn ĝi atakas."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Dornoj",
+    "DESCRIPTIONS": [
+      "Kiam atakata, refaras #b",
+      " da damaĝo."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Mil tranĉvundoj",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas karton, faru #b",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Tempokurbigo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b",
+      " kartojn, finigas vian vicon kaj gajnas #b",
+      " da #yforto."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Fakiloj",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, prenu #b",
+      " karton kaj forĵetu #b",
+      " karton.",
+      " kartojn kaj forĵetu #b",
+      " kartojn."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Nevekita",
+    "DESCRIPTIONS": [
+      "Ĉi tiu malamiko ankoraŭ ne vekiĝis..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Nestabila",
+    "DESCRIPTIONS": [
+      "Faru sufiĉe da damaĝo por malstabiligi ĝin."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Venenologio",
+    "DESCRIPTIONS": [
+      "#yVeneno plifortiĝas je #b",
+      " anstataŭ malaltiĝi ĉiuvice."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Vundebla",
+    "DESCRIPTIONS": [
+      "Ricevu #b",
+      "% pli da damaĝo de #yatakoj dum #b",
+      " vico.",
+      " vicoj."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Malforta",
+    "DESCRIPTIONS": [
+      "#yAtakoj faras #b",
+      "% malpli da damaĝo dum #b",
+      " vico.",
+      " vicoj."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Fantomformo",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, perdu #b",
+      " da #ylerteco."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Ekvilibro",
+    "DESCRIPTIONS": [
+      "#yRetenu vian manon ĉi-vice.",
+      "#yRetenu vian manon dum #b",
+      " vicoj."
+    ]
+  },
+  "Fading": {
+    "NAME": "Forpasanta",
+    "DESCRIPTIONS": [
+      "Mortos post #b",
+      " vicoj.",
+      "Mortos ĉi-vice."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Tremado",
+    "DESCRIPTIONS": [
+      "",
+      "Kiam ĝi perdas vivon, perdas tiom da #yforto ĝis la fino de ĝia vico."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Labirinto de tempo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #b",
+      " kartojn, via vico finiĝas."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "Neniu ŝirmo",
+    "DESCRIPTIONS": [
+      "Vi ne povas gajni #yŝirmon de kartoj."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Kadavra eksplodo",
+    "DESCRIPTIONS": [
+      "Kiam ĝi mortos, faru tiom da damaĝo, kiom estas ĝia maks. vivo, al ĈIUJ malamikoj.",
+      "Kiam ĝi mortos, faru #b",
+      " fojojn tiom da damaĝo, kiom estas ĝia maks. vivo, al ĈIUJ malamikoj."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Ĉirkaŭata",
+    "DESCRIPTIONS": [
+      "Ricevu #b50% pli da damaĝo kiam atakata de malantaŭe. Uzu celajn kartojn aŭ pociojn por ŝanĝi vian orientiĝon."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reagema",
+    "DESCRIPTIONS": [
+      "Kiam ĝi ricevas atakdamaĝon, ĝi ŝanĝas sian celon."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvano",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ekvidas, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Malantaŭa atako",
+    "DESCRIPTIONS": [
+      "Faras #b50% pli da damaĝo ĉar ĝi atakas vin de malantaŭe."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Povo",
+    "DESCRIPTIONS": [
+      "Via sekvonta atako faras #b",
+      " pli da damaĝo."
+    ]
+  },
+  "Condense": {
+    "NAME": "SENVALIDIĜA Densigo",
+    "DESCRIPTIONS": [
+      "Vi ne povas preni pli ol #b",
+      " de ajna atako."
+    ]
+  },
+  "Grounded": {
+    "NAME": "SENVALIDIĜA Stabila",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #ykapablon, eniru #ykalmon."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Urĝo",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi eniras #yrankoron, prenu #b",
+      " karton.",
+      " kartojn."
+    ]
+  },
+  "Mastery": {
+    "NAME": "SENVALIDIĜA Majstreco",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi provas ŝanĝi pozicion al via nuna pozicio, gajnu #b",
+      " [W]."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Mensa Fortreso",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ŝanĝas pozicion, gajnu #b",
+      " da #yŝirmo."
+    ]
+  },
+  "HotHot": {
+    "NAME": "SENVALIDIĜA Varme varme",
+    "DESCRIPTIONS": [
+      "Dum vi estas en #yrankoro, refaru #b",
+      " da damaĝo kiam ajn vi ricevas atakan damaĝon."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "SENVALIDIĜA LudiSenkostePotenco",
+    "DESCRIPTIONS": [
+      "Ignoru energikostojn de la sekvonta karto, kiun vi ludos ĉi-vice.",
+      "Ignoru energikostojn de la sekvontaj #b",
+      " kartoj, kiujn vi ludos ĉi-vice."
+    ]
+  },
+  "Collect": {
+    "NAME": "Kolekti",
+    "DESCRIPTIONS": [
+      "Je la komenco de via sekvonta vico, metu #yMiraklon+ en vian manon.",
+      "Je la komenco de viaj sekvontaj #b",
+      " vicoj, metu #yMiraklon+ en vian manon."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "SENVALIDIĜA Emocia agito",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, eniru novan hazardan bazan pozicion."
+    ]
+  },
+  "Serenity": {
+    "NAME": "SENVALIDIĜA Sereneco",
+    "DESCRIPTIONS": [
+      "Dum vi estas en #ykalmo, perdo de vivo estas malaltigata je #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Blasfemisto",
+    "DESCRIPTIONS": [
+      "Je la komenco de via vico, mortu."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "SENVALIDIĜA Ĉiam kolera",
+    "DESCRIPTIONS": [
+      "Ne plu ricevu duoblan damaĝon dum vi estas en #yrankoro."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantro",
+    "DESCRIPTIONS": [
+      "Kiam vi ricevas #b",
+      " da #ymantro, eniru #ydieco."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Vivi eterne",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, gajnu #b",
+      " da #ylada #yarmaĵo."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Antaŭvido",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, #yekvidu #b",
+      "."
+    ]
+  },
+  "Vault": {
+    "NAME": "Salto",
+    "DESCRIPTIONS": [
+      "Ricevos #b",
+      " da damaĝo je la komenco de via sekvonta vico."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "SENVALIDIĜA FluoPotenco",
+    "DESCRIPTIONS": [
+      "Kiam vi ludas atakon, gajnu #b",
+      " da portempa #yforto. Kiam vi ludas kapablon, gajnu #b,",
+      " da portempa #ylerteco."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Starigo",
+    "DESCRIPTIONS": [
+      "Kiam ajn karto estas #yretenita, malaltigu ĝian koston je #b",
+      "."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Dediĉo",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, gajnu #b",
+      " da #ymantro."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Redono de ŝirmo",
+    "DESCRIPTIONS": [
+      "Kiam ĝi estas atakata, vi gajnas #b",
+      " da #yŝirmo."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Batalhimno",
+    "DESCRIPTIONS": [
+      "Je la komenco de via vico, aldonu #b",
+      " da #yfrapegoj al via mano.",
+      " #yfrapegon al via mano."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Senpagataka potenco",
+    "DESCRIPTIONS": [
+      "Ignoru energikoston de la sekvonta #yatako, kiun vi ludos.",
+      "Ignore energikoston de la sekvontaj #b",
+      " #yatakoj, kiujn vi ludos."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Neniuj kapabloj",
+    "DESCRIPTIONS": [
+      "Vi ne povas ludi #ykapablojn ĉi-vice."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Regu realecon",
+    "DESCRIPTIONS": [
+      "Kiam ajn karto estas kreata, ĝi estas #yplibonigata.",
+      "senvalidiĝa",
+      "senvalidiĝa",
+      "senvalidiĝa"
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Bato supren",
+    "DESCRIPTIONS": [
+      "Kartoj enhavantaj #yBato faras #b",
+      " pli da damaĝo."
+    ]
+  },
+  "Retribution": {
+    "NAME": "SENVALIDIĜA Repago",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi perdas vivon, gajnu #b",
+      " da #ypovo."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Ne povas ŝanĝi pozicion",
+    "DESCRIPTIONS": [
+      "Ne povas ŝanĝi vian pozicion ĉi-vice."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, faru ",
+      " da damaĝo al ĈIUJ malamikoj."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duobligo",
+    "DESCRIPTIONS": [
+      "Via sekvonta karto estos ludata du fojojn ĉi-vice.",
+      "Viaj sekvontaj #b",
+      " kartoj estos ludataj du fojojn ĉi-vice."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Stufata furiozo",
+    "DESCRIPTIONS": [
+      "Eniru #yrankoron je la komenco de via vico."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, gajnu [W] ",
+      "Je la komenco de viaj vicoj, gajnu [W] #b",
+      " fojojn ",
+      "kaj plialtigu ĉi tion je #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Ĉioscio",
+    "DESCRIPTIONS": [
+      "SENVALIDIĜA",
+      "SENVALIDIĜA"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Mansigno",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi gajnas #yŝirmon, aldonu #b",
+      " da #ymalforta al ĈIUJ malamikoj."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "SENVALIDIĜA",
+    "DESCRIPTIONS": [
+      "SENVALIDIĜA",
+      "SENVALIDIĜA"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasto",
+    "DESCRIPTIONS": [
+      "Je la komenco de viaj vicoj, perdu ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "SENVALIDIĜA Disciplino",
+    "DESCRIPTIONS": [
+      "Se vi finas vian vicon kun neuzata [W] , prenu tiom pli da kartoj venontvice."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "SENVALIDIĜA Tuŝeto",
+    "DESCRIPTIONS": [
+      "Kiam ĉi tiu malamiko ricevas #yTuŝeton #b",
+      "2 fojojn pli, ĝi ricevos #b",
+      "1 fojon pli, ĝi ricevos #b",
+      " da damaĝo."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Marko",
+    "DESCRIPTIONS": [
+      "Kiam ajn vi ludas #yPrempunktojn, perdas #b",
+      " da vivo."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Kiel akvo",
+    "DESCRIPTIONS": [
+      "Je la fino de viaj vicoj, se vi estas en #ykalmo, gajnu #b",
+      " da #yŝirmo."
+    ]
+  }
+}

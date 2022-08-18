@@ -1,0 +1,26 @@
+{
+  "Neutral": {
+    "NAME": "",
+    "DESCRIPTION": [
+      ""
+    ]
+  },
+  "Wrath": {
+    "NAME": "Gniew",
+    "DESCRIPTION": [
+      "W tej #yPostawie, zadajesz i otrzymujesz podwójne obrażenia od ataków."
+    ]
+  },
+  "Calm": {
+    "NAME": "Spokój",
+    "DESCRIPTION": [
+      "Po opuszczeniu tej #yPostawy, zyskaj [W] [W] ."
+    ]
+  },
+  "Divinity": {
+    "NAME": "Boskość",
+    "DESCRIPTION": [
+      "Po przyjęciu tej #yPostawy, zyskaj [W] [W] [W] . Karty Ataku zadają potrójne obrażenia. Opuść tę #yPostawę na początku następnej tury."
+    ]
+  }
+}

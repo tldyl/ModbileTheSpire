@@ -1,0 +1,98 @@
+{
+  "Accursed": {
+    "NAME": "Verwunschen",
+    "DESCRIPTION": [
+      "Immer wenn du einen Boss besiegst, erhalte #b",
+      " zufällige #yFlüche.",
+      ""
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Fäulnis-Durianfrucht",
+    "DESCRIPTION": [
+      "Verliere #b",
+      "% deiner max. TP."
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Speer der Fäulnis",
+    "DESCRIPTION": [
+      "Gegner greifen #b",
+      "% stärker an."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Maulkorb",
+    "DESCRIPTION": [
+      "Du kannst deine max. TP nicht mehr erhöhen. Jedes Heilen wird um die Hälfte reduziert."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Spuk",
+    "DESCRIPTION": [
+      "Gegner beginnen den Kampf mit #b",
+      " #yImmateriell."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteske Trophäe",
+    "DESCRIPTION": [
+      "Beim Aufheben: Erhalte #b",
+      " #rStolz.",
+      "Du wirst furchtbar stolz..."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Antike Aufwertung",
+    "DESCRIPTION": [
+      "Gegner beginnen den Kampf mit #b",
+      " #yArtefakt, #b",
+      " #yPanzerrüstung und #b",
+      " #yRegenerieren."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Tückische Truhen",
+    "DESCRIPTION": [
+      "Schatzräume werden in künftigen Akten durch Eliten ersetzt. Eliten lassen keine Relikte mehr fallen."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Wirrkopf",
+    "DESCRIPTION": [
+      "Ziehe pro Zug #b",
+      " Karte weniger.",
+      ""
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Verirrte Zeit",
+    "DESCRIPTION": [
+      "Du kannst nicht mehr als #b",
+      " Karten pro Zug spielen.",
+      "Ich kann nicht mehr als NL #r"
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Schild der Fäulnis",
+    "DESCRIPTION": [
+      "Gegner haben #b",
+      "% mehr TP."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Verdrehter Verstand",
+    "DESCRIPTION": [
+      "Erhalte am Ende deines Zuges #b",
+      " zufällige Statuskarte auf den Nachziehstapel.",
+      ""
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Essenz der Leere",
+    "DESCRIPTION": [
+      "Erhalte in jedem Zug #b",
+      " [E] weniger."
+    ]
+  }
+}
