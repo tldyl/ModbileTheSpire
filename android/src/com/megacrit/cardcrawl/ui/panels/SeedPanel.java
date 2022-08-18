@@ -12,8 +12,8 @@ import com.megacrit.cardcrawl.helpers.FontHelper;
 import com.megacrit.cardcrawl.helpers.Hitbox;
 import com.megacrit.cardcrawl.helpers.ImageMaster;
 import com.megacrit.cardcrawl.helpers.SeedHelper;
-import com.megacrit.cardcrawl.helpers.TypeHelper;
 import com.megacrit.cardcrawl.helpers.controller.CInputActionSet;
+import com.megacrit.cardcrawl.helpers.input.AndroidTypeHelper;
 import com.megacrit.cardcrawl.helpers.input.InputActionSet;
 import com.megacrit.cardcrawl.helpers.input.InputHelper;
 import com.megacrit.cardcrawl.helpers.input.ScrollInputProcessor;
@@ -146,7 +146,7 @@ public class SeedPanel {
     }
 
     public void show() {
-        Gdx.input.setInputProcessor(new TypeHelper(true));
+        Gdx.input.setInputProcessor(new AndroidTypeHelper(true));
         this.yesHb.move(860.0F * Settings.scale, Settings.OPTION_Y - 118.0F * Settings.scale);
         this.noHb.move(1062.0F * Settings.scale, Settings.OPTION_Y - 118.0F * Settings.scale);
         this.shown = true;
