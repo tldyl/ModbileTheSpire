@@ -237,10 +237,8 @@ public class SaveFile {
         this.obtained_cards = CardHelper.obtainedCards;
         this.relics = new ArrayList<>();
         this.relic_counters = new ArrayList<>();
-        Iterator var3 = p.relics.iterator();
 
-        while(var3.hasNext()) {
-            AbstractRelic r = (AbstractRelic)var3.next();
+        for (AbstractRelic r : p.relics) {
             this.relics.add(r.relicId);
             this.relic_counters.add(r.counter);
         }
@@ -248,29 +246,22 @@ public class SaveFile {
         this.is_endless_mode = Settings.isEndless;
         this.blights = new ArrayList<>();
         this.blight_counters = new ArrayList<>();
-        var3 = p.blights.iterator();
 
-        AbstractBlight b;
-        while(var3.hasNext()) {
-            b = (AbstractBlight)var3.next();
+        for (AbstractBlight b : p.blights) {
             this.blights.add(b.blightID);
             this.blight_counters.add(b.counter);
         }
 
         this.endless_increments = new ArrayList<>();
-        var3 = p.blights.iterator();
 
-        while(var3.hasNext()) {
-            b = (AbstractBlight)var3.next();
+        for (AbstractBlight b : p.blights) {
             this.endless_increments.add(b.increment);
         }
 
         this.potion_slots = AbstractDungeon.player.potionSlots;
         this.potions = new ArrayList<>();
-        var3 = AbstractDungeon.player.potions.iterator();
 
-        while(var3.hasNext()) {
-            AbstractPotion pot = (AbstractPotion)var3.next();
+        for (AbstractPotion pot : p.potions) {
             this.potions.add(pot.ID);
         }
 
@@ -343,7 +334,6 @@ public class SaveFile {
         this.post_combat = false;
         this.mugged = false;
         this.smoked = false;
-        label79:
         switch(type) {
             case AFTER_BOSS_RELIC:
             case ENTER_ROOM:
@@ -354,14 +344,7 @@ public class SaveFile {
                 this.mugged = AbstractDungeon.getCurrRoom().mugged;
                 this.smoked = AbstractDungeon.getCurrRoom().smoked;
                 this.combat_rewards = new ArrayList<>();
-                var3 = AbstractDungeon.getCurrRoom().rewards.iterator();
-
-                while(true) {
-                    if (!var3.hasNext()) {
-                        break label79;
-                    }
-
-                    RewardItem i = (RewardItem)var3.next();
+                for (RewardItem i : AbstractDungeon.getCurrRoom().rewards) {
                     switch(i.type) {
                         case SAPPHIRE_KEY:
                         case EMERALD_KEY:
