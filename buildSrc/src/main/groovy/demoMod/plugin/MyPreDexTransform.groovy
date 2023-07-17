@@ -16,9 +16,14 @@ public class MyPreDexTransform extends Transform {
         Inject.appendClassPath(libPath)
         libPath = project.project(':android').buildDir.absolutePath.concat("\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes")
         Inject.appendClassPath(libPath)
-        Inject.appendClassPath("D:\\IdeaProjects\\SlayTheSpire\\android\\lib\\desktop-1.0.jar")
-        Inject.appendClassPath("D:\\android-sdk-windows\\platforms\\android-26\\android.jar")
-        Inject.appendClassPath("C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.badlogicgames.gdx\\gdx\\1.9.5\\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\\gdx-1.9.5.jar")
+
+        Inject.appendClassPath(project.project(':android').rootDir.absolutePath.concat("\\android\\lib\\desktop-1.0.jar"))
+
+        Inject.appendClassPath(project.project(':hack').buildDir.absolutePath.concat("\\intermediates\\javac\\release\\classes"))
+        Inject.appendClassPath(project.project(':android').buildDir.absolutePath.concat("\\intermediates\\javac\\release\\classes"))
+
+        Inject.appendClassPath("E:\\android-sdk\\platforms\\android-30\\android.jar")
+        Inject.appendClassPath("C:\\Users\\DELL\\.gradle\\caches\\modules-2\\files-2.1\\com.badlogicgames.gdx\\gdx\\1.9.5\\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\\gdx-1.9.5.jar")
     }
 
     // Transfrom在Task列表中的名字

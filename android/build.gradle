@@ -26,11 +26,11 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-        javaCompileOptions {
-            annotationProcessorOptions {
-                includeCompileClasspath = true    //加上这行即可
-            }
-        }
+//        javaCompileOptions {
+//            annotationProcessorOptions {
+//                includeCompileClasspath = true    //加上这行即可
+//            }
+//        }
         multiDexEnabled true
     }
     buildTypes {

@@ -2,16 +2,20 @@ apply plugin: 'groovy'
 
 repositories {
     mavenLocal()
-    maven { url "http://maven.aliyun.com/nexus/content/groups/public" }
-    jcenter()
+    maven {
+        allowInsecureProtocol = true
+        url "http://maven.aliyun.com/nexus/content/groups/public"
+    }
     google()
     maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
     maven { url "https://oss.sonatype.org/content/repositories/releases/" }
 }
 
 dependencies {
-    compile gradleApi()
+    implementation gradleApi()
     //noinspection GradleDependency
-    compile 'com.android.tools.build:gradle:3.2.1'
-    compile 'org.javassist:javassist:3.20.0-GA'
+    implementation 'com.android.tools.build:gradle:7.0.0'
+    implementation 'org.javassist:javassist:3.20.0-GA'
+    implementation 'commons-codec:commons-codec:1.9'
+    implementation 'commons-io:commons-io:2.4'
 }

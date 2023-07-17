@@ -3,14 +3,17 @@ import demoMod.plugin.Register
 buildscript {
     repositories {
         mavenLocal()
-        maven { url "http://maven.aliyun.com/nexus/content/groups/public" }
+        maven {
+            allowInsecureProtocol = true
+            url "http://maven.aliyun.com/nexus/content/groups/public"
+        }
         maven { url "https://plugins.gradle.org/m2/" }
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
         google()
     }
     dependencies {
         //noinspection GradleDependency
-        classpath 'com.android.tools.build:gradle:3.2.1'
+        classpath 'com.android.tools.build:gradle:7.0.0'
     }
 }
 
@@ -30,7 +33,10 @@ allprojects {
 
     repositories {
         mavenLocal()
-        maven { url "http://maven.aliyun.com/nexus/content/groups/public" }
+        maven {
+            allowInsecureProtocol = true
+            url "http://maven.aliyun.com/nexus/content/groups/public"
+        }
         google()
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
         maven { url "https://oss.sonatype.org/content/repositories/releases/" }
